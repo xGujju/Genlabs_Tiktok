@@ -153,18 +153,18 @@ Lesson: The protected GenLabs CTA can stay, but the educational hook before it m
 
 ### KPI status
 - Goal: one TikTok post reaches **100,000 views**.
-- Best post: ✅AI สร้างภาพสินค้า แค่ 10 บาท ❌ไม่ต้อง prompt ก็ได้ภาพ 👉 @GenLabs.th —- 👋 หลายคนเห็น Claude สร้างแอปได้ แล้วรีบพิมพ์ว่า “ช่วยทำแอป…
-- Current best views: 2307
-- Gap to 100,000: 97693
-- Closest post views: 2307
-- Strongest velocity post: ✅AI สร้างภาพสินค้า แค่ 10 บาท ❌ไม่ต้อง prompt ก็ได้ภาพ 👉 @GenLabs.th —- 👋 หลายคนเห็น Claude สร้างแอปได้ แล้วรีบพิมพ์ว่า “ช่วยทำแอป…
-- Recent 72h post count: 16
-- Snapshot time: 2026-05-01T10:01:09.046904+00:00
+- Best post: ✅AI สร้างภาพสินค้า แค่ 10 บาท ❌ไม่ต้อง prompt ก็ได้ภาพ 👉 genlabs.in.th @GenLabs.th —- 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, ค…
+- Current best views: 2561
+- Gap to 100,000: 97439
+- Closest post views: 2561
+- Strongest velocity post: ✅AI สร้างภาพสินค้า แค่ 10 บาท ❌ไม่ต้อง prompt ก็ได้ภาพ 👉 genlabs.in.th @GenLabs.th —- 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, ค…
+- Recent 72h post count: 14
+- Snapshot time: 2026-05-01T15:39:24.383769+00:00
 
 ### Signals learned today
 - Winning hook samples:
-- ✅AI สร้างภาพสินค้า แค่ 10 บาท ❌ไม่ต้อง prompt ก็ได้ภาพ 👉 @GenLabs.th —- 👋 หลายคนเห็น Claude สร้างแอปได้ แล้วรีบพิมพ์ว่า “ช่วยทำแอป…
 - ✅AI สร้างภาพสินค้า แค่ 10 บาท ❌ไม่ต้อง prompt ก็ได้ภาพ 👉 genlabs.in.th @GenLabs.th —- 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, ค…
+- ✅AI สร้างภาพสินค้า แค่ 10 บาท ❌ไม่ต้อง prompt ก็ได้ภาพ 👉 @GenLabs.th —- 👋 หลายคนเห็น Claude สร้างแอปได้ แล้วรีบพิมพ์ว่า “ช่วยทำแอป…
 - ✅AI สร้างภาพสินค้า แค่ 10 บาท ❌ไม่ต้อง prompt ก็ได้ภาพ 👉 genlabs.in.th @GenLabs.th —- 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, ค…
 - Weak hook samples:
 - None
@@ -187,13 +187,3 @@ Lesson: The protected GenLabs CTA can stay, but the educational hook before it m
 - Memory note: [[Aion OS/Aion Learning Lab/Zernio Growth/Zernio Growth Memory]]
 - Master state: [[Aion OS/Projects/genlabs-ai-learning-state]]
 - Self-improvement SOP: [[Aion OS/SOPs/genlabs-ai-learning-self-improvement-system]]
-
-### 3-Day Self-Improvement Review — 2026-05-01 10:00 UTC
-- KPI status: best post is at 2,307 views, gap 97,693 to the 100,000-view milestone.
-- Overall read: the system is learning, but current posts are still far from breakout; the strongest signal is a product-photo/no-prompt SME angle with one high-velocity variant at 1,921 views and 19 shares.
-- What is working: concrete Thai SME/product-photo usefulness plus GenLabs no-prompt positioning is outperforming generic education and producing above-average share signals.
-- What is not working: repeated near-identical first lines/audience-list intros are saturating without creating saves/comments, so volume needs more distinct use-case remixes rather than duplicate openers.
-- Keep rule: protect the Sway-added GenLabs CTA from being misclassified as a weak pattern; judge the educational hook/body separately.
-- Change rule: stop shipping exact duplicate product-photo/10-baht openers; require a new first line, use-case, and save/comment CTA until a remix beats the early benchmark.
-- Test: three distinct SME visual-use-case remixes — marketplace before/after, LINE shop promo pack, and product-photo mistake/fix — each with explicit comment/save prompt and 4h/24h closure.
-- Next 3-day focus: amplify the 1,921-view high-share/high-velocity post, close active experiments with 4h/24h results, and increase experiment volume only with distinct Thai-useful angles.

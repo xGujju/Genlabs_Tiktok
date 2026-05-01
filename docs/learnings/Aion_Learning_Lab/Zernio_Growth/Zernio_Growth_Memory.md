@@ -1,27 +1,31 @@
 # Zernio Growth Memory
 
-Last updated: 2026-05-01T10:01:10+00:00
+Last updated: 2026-05-01T15:39:25+00:00
 
 ## KPI
 - Goal: one TikTok post reaches **100,000 views**.
-- Best post: ✅AI สร้างภาพสินค้า แค่ 10 บาท ❌ไม่ต้อง prompt ก็ได้ภาพ 👉 @GenLabs.th —- 👋 หลายคนเห็น Claude สร้างแอปได้ แล้วรีบพิมพ์ว่า “ช่วยทำแอป…
-- Current views: 2307
-- Gap: 97693
+- Best post: ✅AI สร้างภาพสินค้า แค่ 10 บาท ❌ไม่ต้อง prompt ก็ได้ภาพ 👉 genlabs.in.th @GenLabs.th —- 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, ค…
+- Current views: 2561
+- Gap: 97439
 
 ## Winning pattern
 {
   "hook_samples": [
-    "✅AI สร้างภาพสินค้า แค่ 10 บาท ❌ไม่ต้อง prompt ก็ได้ภาพ 👉 @GenLabs.th —- 👋 หลายคนเห็น Claude สร้างแอปได้ แล้วรีบพิมพ์ว่า “ช่วยทำแอป…",
     "✅AI สร้างภาพสินค้า แค่ 10 บาท ❌ไม่ต้อง prompt ก็ได้ภาพ 👉 genlabs.in.th @GenLabs.th —- 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, ค…",
+    "✅AI สร้างภาพสินค้า แค่ 10 บาท ❌ไม่ต้อง prompt ก็ได้ภาพ 👉 @GenLabs.th —- 👋 หลายคนเห็น Claude สร้างแอปได้ แล้วรีบพิมพ์ว่า “ช่วยทำแอป…",
     "✅AI สร้างภาพสินค้า แค่ 10 บาท ❌ไม่ต้อง prompt ก็ได้ภาพ 👉 genlabs.in.th @GenLabs.th —- 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, ค…"
   ],
   "terms": [
     [
       "ก็ได้ภาพ",
-      4
+      5
     ],
     [
       "@genlabs.th",
+      5
+    ],
+    [
+      "genlabs.in.th",
       4
     ],
     [
@@ -35,10 +39,6 @@ Last updated: 2026-05-01T10:01:10+00:00
     [
       "เจ้าของร้าน,",
       4
-    ],
-    [
-      "genlabs.in.th",
-      3
     ],
     [
       "หลายคนเห็น",

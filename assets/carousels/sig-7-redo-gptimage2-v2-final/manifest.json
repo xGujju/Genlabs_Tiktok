@@ -1,0 +1,296 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a97ee81/PGSH7UDbeDBFGyI6NaBkY_vcSKp5UT.png",
+    "https://v3b.fal.media/files/b/0a97ee85/NomTlT0GQ5TBPxX3c7Cph_ItIDcAQU.png",
+    "https://v3b.fal.media/files/b/0a97ee8e/5s1SInrZJkCCQT8ANP_Rf_lf1N1UJe.png",
+    "https://v3b.fal.media/files/b/0a97ee93/HUN-kpJ0i3rpd2cpunZD6_nRRuYpBi.png",
+    "https://v3b.fal.media/files/b/0a97ee9a/ewSScZO0NRHMOABcY1w9L_ia2DQVBe.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 5,
+    "slides": [
+      {
+        "image_prompt": "Square 1:1 GenLabs Thai handwritten sketchnote carousel slide. Light paper/whiteboard background, thick imperfect marker lines, rounded cards, arrows, checkmarks, sticky notes, cute robot/helper icons. Small subtle GenLabs logo in a corner from provided logo refs. Render ONLY this exact Thai text, large and readable, no other Thai text, no pseudo-Thai: Claude Code\nเริ่มให้ถูก. Tiny English/code labels are okay only if useful: repo, README, test, diff. Topic: Claude Code workshop practical workflow: open real repo, ask plan before editing, run tests, inspect diff, save workflow. Slide 1/5 role=hook; visual: cover with terminal, repo, robot coach, before/during/after path. Do not render URLs, handles, metrics, fake dashboards, or dense paragraphs. Playful educational GenLabs style, not dark tech poster.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "Claude Code\nเริ่มให้ถูก",
+        "visual_direction": "cover with terminal, repo, robot coach, before/during/after path"
+      },
+      {
+        "image_prompt": "Square 1:1 GenLabs Thai handwritten sketchnote carousel slide. Light paper/whiteboard background, thick imperfect marker lines, rounded cards, arrows, checkmarks, sticky notes, cute robot/helper icons. Small subtle GenLabs logo in a corner from provided logo refs. Render ONLY this exact Thai text, large and readable, no other Thai text, no pseudo-Thai: เปิด repo จริงก่อน. Tiny English/code labels are okay only if useful: repo, README, test, diff. Topic: Claude Code workshop practical workflow: open real repo, ask plan before editing, run tests, inspect diff, save workflow. Slide 2/5 role=before; visual: repo folder, README, test command sticky note. Do not render URLs, handles, metrics, fake dashboards, or dense paragraphs. Playful educational GenLabs style, not dark tech poster.",
+        "index": 2,
+        "role": "before",
+        "thai_copy": "เปิด repo จริงก่อน",
+        "visual_direction": "repo folder, README, test command sticky note"
+      },
+      {
+        "image_prompt": "Square 1:1 GenLabs Thai handwritten sketchnote carousel slide. Light paper/whiteboard background, thick imperfect marker lines, rounded cards, arrows, checkmarks, sticky notes, cute robot/helper icons. Small subtle GenLabs logo in a corner from provided logo refs. Render ONLY this exact Thai text, large and readable, no other Thai text, no pseudo-Thai: ถามก่อนแก้. Tiny English/code labels are okay only if useful: repo, README, test, diff. Topic: Claude Code workshop practical workflow: open real repo, ask plan before editing, run tests, inspect diff, save workflow. Slide 3/5 role=during; visual: question bubble to plan card before edit. Do not render URLs, handles, metrics, fake dashboards, or dense paragraphs. Playful educational GenLabs style, not dark tech poster.",
+        "index": 3,
+        "role": "during",
+        "thai_copy": "ถามก่อนแก้",
+        "visual_direction": "question bubble to plan card before edit"
+      },
+      {
+        "image_prompt": "Square 1:1 GenLabs Thai handwritten sketchnote carousel slide. Light paper/whiteboard background, thick imperfect marker lines, rounded cards, arrows, checkmarks, sticky notes, cute robot/helper icons. Small subtle GenLabs logo in a corner from provided logo refs. Render ONLY this exact Thai text, large and readable, no other Thai text, no pseudo-Thai: Test แล้วดู diff. Tiny English/code labels are okay only if useful: repo, README, test, diff. Topic: Claude Code workshop practical workflow: open real repo, ask plan before editing, run tests, inspect diff, save workflow. Slide 4/5 role=test_diff; visual: terminal test check plus diff split view. Do not render URLs, handles, metrics, fake dashboards, or dense paragraphs. Playful educational GenLabs style, not dark tech poster.",
+        "index": 4,
+        "role": "test_diff",
+        "thai_copy": "Test แล้วดู diff",
+        "visual_direction": "terminal test check plus diff split view"
+      },
+      {
+        "image_prompt": "Square 1:1 GenLabs Thai handwritten sketchnote carousel slide. Light paper/whiteboard background, thick imperfect marker lines, rounded cards, arrows, checkmarks, sticky notes, cute robot/helper icons. Small subtle GenLabs logo in a corner from provided logo refs. Render ONLY this exact Thai text, large and readable, no other Thai text, no pseudo-Thai: เก็บ workflow ไว้. Tiny English/code labels are okay only if useful: repo, README, test, diff. Topic: Claude Code workshop practical workflow: open real repo, ask plan before editing, run tests, inspect diff, save workflow. Slide 5/5 role=cta; visual: saved reusable checklist template. Do not render URLs, handles, metrics, fake dashboards, or dense paragraphs. Playful educational GenLabs style, not dark tech poster.",
+        "index": 5,
+        "role": "cta",
+        "thai_copy": "เก็บ workflow ไว้",
+        "visual_direction": "saved reusable checklist template"
+      }
+    ],
+    "source_id": "sig-7-redo-gptimage2-v2",
+    "source_url": "https://x.com/eng_khairallah1/status/2047693100118880488",
+    "thai_brief": {
+      "evidence": [
+        "Source: internal Airtable trend candidate sig-7",
+        "Original source discusses a free Anthropic/Claude Code workshop and using Claude Code properly.",
+        "Public source URL retained internally; no public source URL rendered in images or caption."
+      ],
+      "glossary": {
+        "Claude Code": "Claude Code",
+        "diff": "diff",
+        "prompt": "พรอมป์ต์",
+        "tests": "ชุดทดสอบ",
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "Claude Code",
+        "workflow",
+        "prompt",
+        "tests",
+        "diff"
+      ],
+      "source_id": "sig-7-redo-gptimage2-v2",
+      "source_url": "https://x.com/eng_khairallah1/status/2047693100118880488",
+      "thai_call_to_action": "เลือกงานเล็กใน repo วันนี้ แล้วทำตามลำดับ repo → plan → edit → test → diff → save workflow",
+      "thai_hook": "Claude Code ใช้ให้เป็น: เริ่มจาก workflow ใน repo จริง",
+      "thai_problem": "หลายคนดู workshop แล้วสั่งแก้โค้ดทันที แต่ควรเปิด repo จริง ให้บริบท ถามแผนก่อนแก้ รันทดสอบ และดู diff ทุกครั้ง",
+      "thai_tips": [
+        "ก่อนดู: เปิด repo จริง เลือก bug หรือฟีเจอร์เล็ก ๆ และอ่าน README/test command",
+        "ระหว่างดู: ให้ Claude สรุป repo แล้วถามแผนก่อนแก้ ไม่สั่งแก้ทั้งโปรเจกต์ทีเดียว",
+        "หลังแก้: รัน test/lint ที่มี ดู error log และให้ Claude อธิบาย diff",
+        "เก็บ prompt/workflow ที่เวิร์กไว้เป็นเช็กลิสต์สำหรับ PR ถัดไป"
+      ],
+      "thai_trend_angle": "บทเรียนจาก workshop ของทีม Anthropic ควรถูกแปลงเป็นนิสัยทำงาน: ก่อนดูเตรียม repo ระหว่างดูลองคำสั่ง หลังดูเก็บ workflow ที่ใช้ซ้ำได้"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "eng_khairallah1",
+    "clean_headline": "Anthropic team workshop on using Claude Code properly",
+    "clean_summary": "Practical Claude Code learning path from workshop to real repository workflow.",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 55,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "Claude Code",
+      "workflow",
+      "prompt",
+      "tests",
+      "diff"
+    ],
+    "original_language": "en",
+    "raw_text": "Anthropic Claude Code workshop: use Claude Code properly with real repo, ask before edits, test and diff discipline.",
+    "source_id": "sig-7-redo-gptimage2-v2",
+    "source_url": "https://x.com/eng_khairallah1/status/2047693100118880488",
+    "why_it_matters": "Use repo context, ask for a plan, run tests, inspect diffs, and save a repeatable workflow."
+  },
+  "content_brief": {
+    "call_to_action": "เลือกงานเล็กใน repo วันนี้ แล้วทำตามลำดับ repo → plan → edit → test → diff → save workflow",
+    "evidence": [
+      "Source: internal Airtable trend candidate sig-7",
+      "Original source discusses a free Anthropic/Claude Code workshop and using Claude Code properly.",
+      "Public source URL retained internally; no public source URL rendered in images or caption."
+    ],
+    "hook": "Claude Code ใช้ให้เป็น: เริ่มจาก workflow ใน repo จริง",
+    "original_keywords": [
+      "Claude Code",
+      "workflow",
+      "prompt",
+      "tests",
+      "diff"
+    ],
+    "original_language": "en",
+    "problem": "หลายคนดู workshop แล้วสั่งแก้โค้ดทันที แต่ควรเปิด repo จริง ให้บริบท ถามแผนก่อนแก้ รันทดสอบ และดู diff ทุกครั้ง",
+    "source_id": "sig-7-redo-gptimage2-v2",
+    "source_url": "https://x.com/eng_khairallah1/status/2047693100118880488",
+    "tips": [
+      "ก่อนดู: เปิด repo จริง เลือก bug หรือฟีเจอร์เล็ก ๆ และอ่าน README/test command",
+      "ระหว่างดู: ให้ Claude สรุป repo แล้วถามแผนก่อนแก้ ไม่สั่งแก้ทั้งโปรเจกต์ทีเดียว",
+      "หลังแก้: รัน test/lint ที่มี ดู error log และให้ Claude อธิบาย diff",
+      "เก็บ prompt/workflow ที่เวิร์กไว้เป็นเช็กลิสต์สำหรับ PR ถัดไป"
+    ],
+    "trend_angle": "บทเรียนจาก workshop ของทีม Anthropic ควรถูกแปลงเป็นนิสัยทำงาน: ก่อนดูเตรียม repo ระหว่างดูลองคำสั่ง หลังดูเก็บ workflow ที่ใช้ซ้ำได้"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public source URLs/X handles in generated images or caption; source attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "sig-7-redo-gptimage2-v2-slide-1.png",
+      "height": 1024,
+      "image_url": "https://v3b.fal.media/files/b/0a97ee81/PGSH7UDbeDBFGyI6NaBkY_vcSKp5UT.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/sig-7-redo-gptimage2-v2-final/slide-1.png",
+      "slide_index": 1,
+      "width": 1024
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "sig-7-redo-gptimage2-v2-slide-2.png",
+      "height": 1024,
+      "image_url": "https://v3b.fal.media/files/b/0a97ee85/NomTlT0GQ5TBPxX3c7Cph_ItIDcAQU.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/sig-7-redo-gptimage2-v2-final/slide-2.png",
+      "slide_index": 2,
+      "width": 1024
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "5s1SInrZJkCCQT8ANP_Rf_lf1N1UJe.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a97ee8e/5s1SInrZJkCCQT8ANP_Rf_lf1N1UJe.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/sig-7-redo-gptimage2-v2-final/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "HUN-kpJ0i3rpd2cpunZD6_nRRuYpBi.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a97ee93/HUN-kpJ0i3rpd2cpunZD6_nRRuYpBi.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/sig-7-redo-gptimage2-v2-final/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "ewSScZO0NRHMOABcY1w9L_ia2DQVBe.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a97ee9a/ewSScZO0NRHMOABcY1w9L_ia2DQVBe.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/sig-7-redo-gptimage2-v2-final/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/sig-7-redo-gptimage2-v2-final/manifest.json",
+  "publish_result": {
+    "airtable_id": "recYhGPNKdSoD3zNR",
+    "airtable_zernio_status": "draft_created",
+    "zernio_draft_id": "69ef528833b54e811c0e6a06",
+    "zernio_response_keys": [
+      "post",
+      "message"
+    ]
+  },
+  "qa_required_slides": [
+    1,
+    3,
+    5
+  ],
+  "reference_image_urls": [
+    "https://v3b.fal.media/files/b/0a97d701/Vhm1gBXLp8sUVctXuc_P1_6s1m8A9G.png",
+    "https://v3b.fal.media/files/b/0a97d707/3KuQvEv4c6qYuaYdo8vUP_6UMQ5URA.png",
+    "https://v3b.fal.media/files/b/0a97d70e/DOqSvkA3TjiP-aeQXUlw2_Iuqig1c6.png",
+    "https://v3b.fal.media/files/b/0a97dbe2/GiBJZaGOi8h_7Ce2KYB0u_genlabs-logo-light-square.png",
+    "https://v3b.fal.media/files/b/0a97dbe2/npJEnj7Mdsi8qRSLdwXt9_genlabs-logo-dark-square.png"
+  ],
+  "social_post": {
+    "description": "ดู Claude Code workshop ให้คุ้ม อย่าจบแค่ bookmark ✅\n\nก่อนดู: เปิด repo จริง เลือก bug/ฟีเจอร์เล็ก ๆ และเช็ก README + test command\n\nระหว่างดู: ลองให้ Claude สรุป repo แล้วถามแผนก่อนแก้ อย่าสั่งแก้ทั้งโปรเจกต์ทีเดียว\n\nหลังแก้: รัน test/lint ดู error log แล้วให้ Claude อธิบาย diff ก่อน commit\n\nสูตรจำง่าย: repo → plan → edit → test → diff → save workflow\n\nเซฟโพสต์นี้ไว้เป็นเช็กลิสต์สำหรับรอบถัดไป 🚀",
+    "hashtags": [
+      "#GenLabsTH",
+      "#ClaudeCode",
+      "#AIมือใหม่",
+      "#เขียนโค้ดด้วยAI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "Claude Code เริ่มให้ถูก: workflow repo จริงก่อนแก้ #AIมือใหม่"
+  },
+  "source_id": "sig-7-redo-gptimage2-v2",
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: internal Airtable trend candidate sig-7",
+      "Original source discusses a free Anthropic/Claude Code workshop and using Claude Code properly.",
+      "Public source URL retained internally; no public source URL rendered in images or caption."
+    ],
+    "glossary": {
+      "Claude Code": "Claude Code",
+      "diff": "diff",
+      "prompt": "พรอมป์ต์",
+      "tests": "ชุดทดสอบ",
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "Claude Code",
+      "workflow",
+      "prompt",
+      "tests",
+      "diff"
+    ],
+    "source_id": "sig-7-redo-gptimage2-v2",
+    "source_url": "https://x.com/eng_khairallah1/status/2047693100118880488",
+    "thai_call_to_action": "เลือกงานเล็กใน repo วันนี้ แล้วทำตามลำดับ repo → plan → edit → test → diff → save workflow",
+    "thai_hook": "Claude Code ใช้ให้เป็น: เริ่มจาก workflow ใน repo จริง",
+    "thai_problem": "หลายคนดู workshop แล้วสั่งแก้โค้ดทันที แต่ควรเปิด repo จริง ให้บริบท ถามแผนก่อนแก้ รันทดสอบ และดู diff ทุกครั้ง",
+    "thai_tips": [
+      "ก่อนดู: เปิด repo จริง เลือก bug หรือฟีเจอร์เล็ก ๆ และอ่าน README/test command",
+      "ระหว่างดู: ให้ Claude สรุป repo แล้วถามแผนก่อนแก้ ไม่สั่งแก้ทั้งโปรเจกต์ทีเดียว",
+      "หลังแก้: รัน test/lint ที่มี ดู error log และให้ Claude อธิบาย diff",
+      "เก็บ prompt/workflow ที่เวิร์กไว้เป็นเช็กลิสต์สำหรับ PR ถัดไป"
+    ],
+    "thai_trend_angle": "บทเรียนจาก workshop ของทีม Anthropic ควรถูกแปลงเป็นนิสัยทำงาน: ก่อนดูเตรียม repo ระหว่างดูลองคำสั่ง หลังดูเก็บ workflow ที่ใช้ซ้ำได้"
+  },
+  "vision_qa": {
+    "notes": [
+      "Slide 1 readable: Claude Code / เริ่มให้ถูก; small GenLabs logo present.",
+      "Slide 3 readable: ถามก่อนแก้; extra Thai workflow details are readable and relevant; small GenLabs logo present.",
+      "Slide 5 readable: เก็บ workflow ไว้; workflow checklist readable; small GenLabs logo present."
+    ],
+    "result": "pass",
+    "slides_checked": [
+      1,
+      3,
+      5
+    ],
+    "summary": "Slides 1, 3, and 5 passed vision QA for readable Thai, GenLabs handwritten/sketchnote style, small GenLabs logo, and no obvious garbled Thai."
+  },
+  "zernio_safety": {
+    "isDraft": true,
+    "max_hashtags": 5,
+    "publishNow": "omitted",
+    "scheduledFor": "omitted",
+    "tiktokSettings.draft": true
+  },
+  "zernio_verification": {
+    "get_scheduledFor_present": true,
+    "get_status_code": 200,
+    "get_tiktokSettings_draft": null,
+    "hashtags_count": 5,
+    "isDraft_payload": true,
+    "media_count": 5,
+    "publishNow_present": false,
+    "scheduledFor_present": false,
+    "status_from_create_response": "draft",
+    "status_from_get": "draft",
+    "tiktokSettings_draft_payload": true
+  }
+}

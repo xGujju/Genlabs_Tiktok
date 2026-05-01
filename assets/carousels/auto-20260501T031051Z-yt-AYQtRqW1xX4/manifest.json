@@ -1,0 +1,298 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a9868f9/pFO8My6LdJUdjwVV5GnrZ_oYp2uplk.png",
+    "https://v3b.fal.media/files/b/0a986901/RYU7ZLrgMA3Ol_KeByIql_vTyoBoc1.png",
+    "https://v3b.fal.media/files/b/0a986908/NPOqc0D94K2q0frb2jUZp_tC8DOcUM.png",
+    "https://v3b.fal.media/files/b/0a986913/HoEX761P982wX1R7IhdGR_m5LRuyYn.png",
+    "https://v3b.fal.media/files/b/0a98691c/PBkAwLWnjHfePJHPDwU0w_7mmy2gHp.png",
+    "https://v3b.fal.media/files/b/0a986924/G1psbI0Yo-_etm7UuukCM_H5xyB4z2.png",
+    "https://v3b.fal.media/files/b/0a98692d/jf6oMyqTTkM8-z53yukrx_FYvz1TBF.png",
+    "https://v3b.fal.media/files/b/0a986934/RK7DGumDGVScAMlh9lJSy_rFbkXEsr.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 8,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/8 role=hook. Thai copy: ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที\nworkflow • AI automation • n8n • agent. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที\nworkflow • AI automation • n8n • agent",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/8 role=problem. Thai copy: ปัญหา: หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มี owner, due date, risk หรือข้อความ follow-up ที่เอาไปส่งต่อได้. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มี owner, due date, risk หรือข้อความ follow-up ที่เอาไปส่งต่อได้",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/8 role=trend. Thai copy: ทำไมควรสนใจ:\nAI meeting workflow ที่ดีต้องเปลี่ยน transcript/notes เป็น decision, action, owner, due date และ risk. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nAI meeting workflow ที่ดีต้องเปลี่ยน transcript/notes เป็น decision, action, owner, due date และ risk",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/8 role=tips. Thai copy: ลองใช้แบบนี้:\n1) วาง transcript หรือ notes หลังประชุม\n2) ขอตาราง decision / owner / due date / risk\n3) ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE\n4) ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) วาง transcript หรือ notes หลังประชุม\n2) ขอตาราง decision / owner / due date / risk\n3) ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE\n4) ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/8 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/8 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\n5) เก็บ template นี้ไว้ใช้ทุกประชุม. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\n5) เก็บ template นี้ไว้ใช้ทุกประชุม",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/8 role=framework. Thai copy: จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ. Visual direction: five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "framework",
+        "thai_copy": "จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ",
+        "visual_direction": "five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat"
+      },
+      {
+        "image_prompt": "Slide 8/8 role=cta. Thai copy: ลองวันนี้:\nวันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 8,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "yt-AYQtRqW1xX4",
+    "source_url": "https://www.youtube.com/watch?v=AYQtRqW1xX4",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://www.youtube.com/watch?v=AYQtRqW1xX4",
+        "Keywords: workflow, AI automation, n8n, agent",
+        "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+      ],
+      "glossary": {
+        "AI automation": "ระบบอัตโนมัติด้วย AI",
+        "agent": "เอเจนต์ AI",
+        "n8n": "n8n",
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "workflow",
+        "AI automation",
+        "n8n",
+        "agent"
+      ],
+      "source_id": "yt-AYQtRqW1xX4",
+      "source_url": "https://www.youtube.com/watch?v=AYQtRqW1xX4",
+      "thai_call_to_action": "วันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message",
+      "thai_hook": "ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที",
+      "thai_problem": "หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มี owner, due date, risk หรือข้อความ follow-up ที่เอาไปส่งต่อได้",
+      "thai_tips": [
+        "วาง transcript หรือ notes หลังประชุม",
+        "ขอตาราง decision / owner / due date / risk",
+        "ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE",
+        "ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ",
+        "เก็บ template นี้ไว้ใช้ทุกประชุม"
+      ],
+      "thai_trend_angle": "AI meeting workflow ที่ดีต้องเปลี่ยน transcript/notes เป็น decision, action, owner, due date และ risk ไม่ใช่แค่สรุปว่าใครพูดอะไร"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "Liam Ottley",
+    "clean_headline": "How to Build & Sell AI Agents in 2026: Ultimate Beginner’s Guide Liam Ottley Self-Host your n8n with Hostinger → Use code LIAMOTTLEY for extra 10% off Grab all",
+    "clean_summary": "How to Build & Sell AI Agents in 2026: Ultimate Beginner’s Guide Liam Ottley Self-Host your n8n with Hostinger → Use code LIAMOTTLEY for extra 10% off Grab all the course ... Transcript: How to Build & Sell AI Agents in 2026: Ultimate Beginner’s Guide description&redir_token=REDACTED&q=https%3A%2F%2Fhostinger.com%2Fliamn8n&v=AYQtRqW1xX4) Use code LIAMOTTLEY for extra 10% off 📚 Grab all the course resources in the #1 community for AI entrepreneurs: [ ...more ## Chapters View all [![Image 8]( #### Intro #### Intro 0:00]( #### [Intro]( 0:00 [![Image 9]( #### AI Agent Foundations #### AI Agent Foundations 3:53]( #### [AI Agent Foundations]( 3:53 [![Image 10]( #### Build 1: Telegram Receipt Analysis Assistant #### Build 1: Telegram Receipt Analysis Assistant 30:10]( #### [Build 1: Telegram Receipt Analysis Assistant]( 30:10 [![Image 11]( #### Self Host Your n8n #### Self Host Your n8n 56:23]( #### [Self Host Your n8n]( 56:23 [![Image 12]( #### Build 2: Website Lead Gen Chatbot #### Build 2: Website Lead Gen Chatbot 1:00:41]( #### [Build 2: Website Lead Gen Chatbot]( 1:00:41 [![Image 13]( #### Build 3: Speed to Lead Voice Agent #### Build 3: Speed to Lead Voice Agent 1:40:37]( #### [Build 3: Speed to Lead Voice Agent]( 1:40:37 [![Image 14]( #### Build 4: Sales Rep Copilot #### Build 4: Sales Rep Copilot 2:19:25]( #### [Build 4: Sales Rep Copilot]( 2:19:25 [![Image 15]( #### Monetize Your AI Agents #### Monetize Your AI Agents 2:59:36]( #### [Monetize Your AI Agents]( 2:59:36 Explore the podcast [![Image 16]( episodes 62 episodes]( Liam Ottley Podcast Liam Ottley [![Image 17]( Podcasts]( Transcript Follow along using the transcript. Show transcript [![Image 18]( ### Liam Ottley 773K subscribers]( [Videos]( 19]( VLOG Channel]( 20]( Twitter]( 21]( Instagram]( ## Chapters View all [![Image 8]( #### Intro #### Intro 0:00]( #### [Intro]( 0:00 [![Image 9]( #### AI Agent Foundations #### AI Agent Foundations 3:53]( #### [AI Agent Foundations]( 3:53 [![Image 10]( #### Build 1: Telegram Receipt Analysis Assistant #### Build 1: Telegram Receipt Analysis Assistant 30:10]( #### [Build 1: Telegram Receipt Analysis Assistant]( 30:10 [![Image 11]( #### Self Host Your n8n #### Self Host Your n8n 56:23]( #### [Self Host Your n8n]( 56:23 [![Image 12]( #### Build 2: Website Lead Gen Chatbot #### Build 2: Website Lead Gen Chatbot 1:00:41]( #### [Build 2: Website Lead Gen Chatbot]( 1:00:41 [![Image 13]( #### Build 3: Speed to Lead Voice Agent #### Build 3: Speed to Lead Voice Agent 1:40:37]( #### [Build 3: Speed to Lead Voice Agent]( 1:40:37 [![Image 14]( #### Build 4: Sales Rep Copilot #### Build 4: Sales Rep Copilot 2:19:25]( #### [Build 4: Sales Rep Copilot]( 2:19:25 [![Image 15]( #### Monetize Your AI Agents #### Monetize Your AI Agents 2:59:36]( #### [Monetize Your AI Agents]( 2:59:36 Explore the podcast [![Image 16]( episodes 62 episodes]( Liam Ottley Podcast Liam Ottley [![Image 17]( Podcasts]( Transcript Follow along using the transcript. Show transcript [![Image 18]( ### Liam Ottley 773K subscribers]( [Videos]( 19](",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 113046,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "workflow",
+      "AI automation",
+      "n8n",
+      "agent"
+    ],
+    "original_language": "en",
+    "raw_text": "YouTube title: How to Build & Sell AI Agents in 2026: Ultimate Beginner’s Guide\nChannel: Liam Ottley\nDescription: Self-Host your n8n with Hostinger → https://hostinger.com/liamn8n Use code LIAMOTTLEY for extra 10% off Grab all the course ...\nTranscript:\nTitle: How to Build & Sell AI Agents in 2026: Ultimate Beginner’s Guide description&redir_token=REDACTED&q=https%3A%2F%2Fhostinger.com%2Fliamn8n&v=AYQtRqW1xX4) Use code LIAMOTTLEY for extra 10% off 📚 Grab all the course resources in the #1 community for AI entrepreneurs: [https://bit.ly/skool-agents-course](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fbit.ly%2Fskool-agents-course&v=AYQtRqW1xX4)…...more ...more ## Chapters View all [![Image 8](https://www.youtube.com/watch?v=AYQtRqW1xX4) #### Intro #### Intro 0:00](https://www.youtube.com/watch?v=AYQtRqW1xX4) #### [Intro](https://www.youtube.com/watch?v=AYQtRqW1xX4) 0:00 [![Image 9](https://www.youtube.com/watch?v=AYQtRqW1xX4) #### AI Agent Foundations #### AI Agent Foundations 3:53](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=233s) #### [AI Agent Foundations](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=233s) 3:53 [![Image 10](https://www.youtube.com/watch?v=AYQtRqW1xX4) #### Build 1: Telegram Receipt Analysis Assistant #### Build 1: Telegram Receipt Analysis Assistant 30:10](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=1810s) #### [Build 1: Telegram Receipt Analysis Assistant](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=1810s) 30:10 [![Image 11](https://www.youtube.com/watch?v=AYQtRqW1xX4) #### Self Host Your n8n #### Self Host Your n8n 56:23](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=3383s&pp=0gcJCREDDuyUWbzu) #### [Self Host Your n8n](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=3383s&pp=0gcJCREDDuyUWbzu) 56:23 [![Image 12](https://www.youtube.com/watch?v=AYQtRqW1xX4) #### Build 2: Website Lead Gen Chatbot #### Build 2: Website Lead Gen Chatbot 1:00:41](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=3641s&pp=0gcJCREDDuyUWbzu) #### [Build 2: Website Lead Gen Chatbot](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=3641s&pp=0gcJCREDDuyUWbzu) 1:00:41 [![Image 13](https://www.youtube.com/watch?v=AYQtRqW1xX4) #### Build 3: Speed to Lead Voice Agent #### Build 3: Speed to Lead Voice Agent 1:40:37](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=6037s) #### [Build 3: Speed to Lead Voice Agent](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=6037s) 1:40:37 [![Image 14](https://www.youtube.com/watch?v=AYQtRqW1xX4) #### Build 4: Sales Rep Copilot #### Build 4: Sales Rep Copilot 2:19:25](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=8365s) #### [Build 4: Sales Rep Copilot](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=8365s) 2:19:25 [![Image 15](https://www.youtube.com/watch?v=AYQtRqW1xX4) #### Monetize Your AI Agents #### Monetize Your AI Agents 2:59:36](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=10776s) #### [Monetize Your AI Agents](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=10776s) 2:59:36 Explore the podcast [![Image 16](https://www.youtube.com/watch?v=AYQtRqW1xX4)62 episodes 62 episodes](https://www.youtube.com/playlist?list=PL2V6IBDeR5YOMFeXo2YMV_Q9mdbxg4FGE) Liam Ottley Podcast Liam Ottley [![Image 17](https://www.youtube.com/watch?v=AYQtRqW1xX4) Podcasts](https://www.youtube.com/podcasts) Transcript Follow along using the transcript. Show transcript [![Image 18](https://www.youtube.com/watch?v=AYQtRqW1xX4) ### Liam Ottley 773K subscribers](https://www.youtube.com/@LiamOttley) [Videos](https://www.youtube.com/channel/UCui4jxDaMb53Gdh-AZUTPAg/videos)[About](https://www.youtube.com/channel/UCui4jxDaMb53Gdh-AZUTPAg/about)[![Image 19](https://www.youtube.com/watch?v=AYQtRqW1xX4) VLOG Channel](https://www.youtube.com/@LiamOttleyVLOGs/featured)[![Image 20](https://www.youtube.com/watch?v=AYQtRqW1xX4) Twitter](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=REDACTED&q=https%3A%2F%2Fwww.twitter.com%2Fliamottley_)[![Image 21](https://www.youtube.com/watch?v=AYQtRqW1xX4) Instagram](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=REDACTED ## Chapters View all [![Image 8](https://www.youtube.com/watch?v=AYQtRqW1xX4) #### Intro #### Intro 0:00](https://www.youtube.com/watch?v=AYQtRqW1xX4) #### [Intro](https://www.youtube.com/watch?v=AYQtRqW1xX4) 0:00 [![Image 9](https://www.youtube.com/watch?v=AYQtRqW1xX4) #### AI Agent Foundations #### AI Agent Foundations 3:53](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=233s) #### [AI Agent Foundations](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=233s) 3:53 [![Image 10](https://www.youtube.com/watch?v=AYQtRqW1xX4) #### Build 1: Telegram Receipt Analysis Assistant #### Build 1: Telegram Receipt Analysis Assistant 30:10](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=1810s) #### [Build 1: Telegram Receipt Analysis Assistant](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=1810s) 30:10 [![Image 11](https://www.youtube.com/watch?v=AYQtRqW1xX4) #### Self Host Your n8n #### Self Host Your n8n 56:23](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=3383s&pp=0gcJCREDDuyUWbzu) #### [Self Host Your n8n](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=3383s&pp=0gcJCREDDuyUWbzu) 56:23 [![Image 12](https://www.youtube.com/watch?v=AYQtRqW1xX4) #### Build 2: Website Lead Gen Chatbot #### Build 2: Website Lead Gen Chatbot 1:00:41](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=3641s&pp=0gcJCREDDuyUWbzu) #### [Build 2: Website Lead Gen Chatbot](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=3641s&pp=0gcJCREDDuyUWbzu) 1:00:41 [![Image 13](https://www.youtube.com/watch?v=AYQtRqW1xX4) #### Build 3: Speed to Lead Voice Agent #### Build 3: Speed to Lead Voice Agent 1:40:37](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=6037s) #### [Build 3: Speed to Lead Voice Agent](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=6037s) 1:40:37 [![Image 14](https://www.youtube.com/watch?v=AYQtRqW1xX4) #### Build 4: Sales Rep Copilot #### Build 4: Sales Rep Copilot 2:19:25](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=8365s) #### [Build 4: Sales Rep Copilot](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=8365s) 2:19:25 [![Image 15](https://www.youtube.com/watch?v=AYQtRqW1xX4) #### Monetize Your AI Agents #### Monetize Your AI Agents 2:59:36](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=10776s) #### [Monetize Your AI Agents](https://www.youtube.com/watch?v=AYQtRqW1xX4&t=10776s) 2:59:36 Explore the podcast [![Image 16](https://www.youtube.com/watch?v=AYQtRqW1xX4)62 episodes 62 episodes](https://www.youtube.com/playlist?list=PL2V6IBDeR5YOMFeXo2YMV_Q9mdbxg4FGE) Liam Ottley Podcast Liam Ottley [![Image 17](https://www.youtube.com/watch?v=AYQtRqW1xX4) Podcasts](https://www.youtube.com/podcasts) Transcript Follow along using the transcript. Show transcript [![Image 18](https://www.youtube.com/watch?v=AYQtRqW1xX4) ### Liam Ottley 773K subscribers](https://www.youtube.com/@LiamOttley) [Videos](https://www.youtube.com/channel/UCui4jxDaMb53Gdh-AZUTPAg/videos)[About](https://www.youtube.com/channel/UCui4jxDaMb53Gdh-AZUTPAg/about)[![Image 19](https://www.youtube.com/wat",
+    "source_id": "yt-AYQtRqW1xX4",
+    "source_url": "https://www.youtube.com/watch?v=AYQtRqW1xX4",
+    "why_it_matters": "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message",
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=AYQtRqW1xX4",
+      "Keywords: workflow, AI automation, n8n, agent",
+      "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+    ],
+    "hook": "ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที",
+    "original_keywords": [
+      "workflow",
+      "AI automation",
+      "n8n",
+      "agent"
+    ],
+    "original_language": "en",
+    "problem": "หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มี owner, due date, risk หรือข้อความ follow-up ที่เอาไปส่งต่อได้",
+    "source_id": "yt-AYQtRqW1xX4",
+    "source_url": "https://www.youtube.com/watch?v=AYQtRqW1xX4",
+    "tips": [
+      "วาง transcript หรือ notes หลังประชุม",
+      "ขอตาราง decision / owner / due date / risk",
+      "ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE",
+      "ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ",
+      "เก็บ template นี้ไว้ใช้ทุกประชุม"
+    ],
+    "trend_angle": "AI meeting workflow ที่ดีต้องเปลี่ยน transcript/notes เป็น decision, action, owner, due date และ risk ไม่ใช่แค่สรุปว่าใครพูดอะไร"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "pFO8My6LdJUdjwVV5GnrZ_oYp2uplk.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9868f9/pFO8My6LdJUdjwVV5GnrZ_oYp2uplk.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260501T031051Z-yt-AYQtRqW1xX4/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "RYU7ZLrgMA3Ol_KeByIql_vTyoBoc1.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a986901/RYU7ZLrgMA3Ol_KeByIql_vTyoBoc1.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260501T031051Z-yt-AYQtRqW1xX4/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "NPOqc0D94K2q0frb2jUZp_tC8DOcUM.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a986908/NPOqc0D94K2q0frb2jUZp_tC8DOcUM.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260501T031051Z-yt-AYQtRqW1xX4/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "HoEX761P982wX1R7IhdGR_m5LRuyYn.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a986913/HoEX761P982wX1R7IhdGR_m5LRuyYn.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260501T031051Z-yt-AYQtRqW1xX4/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "PBkAwLWnjHfePJHPDwU0w_7mmy2gHp.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98691c/PBkAwLWnjHfePJHPDwU0w_7mmy2gHp.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260501T031051Z-yt-AYQtRqW1xX4/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "G1psbI0Yo-_etm7UuukCM_H5xyB4z2.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a986924/G1psbI0Yo-_etm7UuukCM_H5xyB4z2.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260501T031051Z-yt-AYQtRqW1xX4/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "jf6oMyqTTkM8-z53yukrx_FYvz1TBF.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98692d/jf6oMyqTTkM8-z53yukrx_FYvz1TBF.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260501T031051Z-yt-AYQtRqW1xX4/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "RK7DGumDGVScAMlh9lJSy_rFbkXEsr.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a986934/RK7DGumDGVScAMlh9lJSy_rFbkXEsr.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260501T031051Z-yt-AYQtRqW1xX4/slide-8.png",
+      "slide_index": 8,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 9,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260501T031051Z-yt-AYQtRqW1xX4/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มี owner, due date, risk หรือข้อความ follow-up ที่เอาไปส่งต่อได้\n\n📌 ทำไมควรเซฟโพสต์นี้: AI meeting workflow ที่ดีต้องเปลี่ยน transcript/notes เป็น decision, action, owner, due date และ risk ไม่ใช่แค่สรุปว่าใครพูดอะไร\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ วาง transcript หรือ notes หลังประชุม\n\n2) ✨ ขอตาราง decision / owner / due date / risk\n\n3) ✨ ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE\n\n4) ✨ ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที #AIมือใหม่  เอาไปใช้กับงานจริงได้ทันที"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=AYQtRqW1xX4",
+      "Keywords: workflow, AI automation, n8n, agent",
+      "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+    ],
+    "glossary": {
+      "AI automation": "ระบบอัตโนมัติด้วย AI",
+      "agent": "เอเจนต์ AI",
+      "n8n": "n8n",
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "workflow",
+      "AI automation",
+      "n8n",
+      "agent"
+    ],
+    "source_id": "yt-AYQtRqW1xX4",
+    "source_url": "https://www.youtube.com/watch?v=AYQtRqW1xX4",
+    "thai_call_to_action": "วันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message",
+    "thai_hook": "ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที",
+    "thai_problem": "หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มี owner, due date, risk หรือข้อความ follow-up ที่เอาไปส่งต่อได้",
+    "thai_tips": [
+      "วาง transcript หรือ notes หลังประชุม",
+      "ขอตาราง decision / owner / due date / risk",
+      "ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE",
+      "ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ",
+      "เก็บ template นี้ไว้ใช้ทุกประชุม"
+    ],
+    "thai_trend_angle": "AI meeting workflow ที่ดีต้องเปลี่ยน transcript/notes เป็น decision, action, owner, due date และ risk ไม่ใช่แค่สรุปว่าใครพูดอะไร"
+  }
+}

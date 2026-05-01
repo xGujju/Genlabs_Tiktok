@@ -1,0 +1,237 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a980aa7/eNoZNREopl6R7yfmlK02I_rua8bAbm.png",
+    "https://v3b.fal.media/files/b/0a980aac/bILiuXtpvlQP8N4pY74KF_TXRhWnNw.png",
+    "https://v3b.fal.media/files/b/0a980ab1/ZOnzs8-57HD-2l_uSqcll_ZmrG6bbv.png",
+    "https://v3b.fal.media/files/b/0a980ab6/WjHnUKPjX6khoRiW4KEU4_mfkSfenD.png",
+    "https://v3b.fal.media/files/b/0a980abc/sMlfa3BG-8UK_tOUs0isz_8o9lTJwR.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 6,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/5 role=hook. Exact Thai copy: หาเงินด้วย AI:\nจัด Sheet + Dashboard. Visual direction: spreadsheet turning into clean dashboard. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "หาเงินด้วย AI:\nจัด Sheet + Dashboard",
+        "visual_direction": "spreadsheet turning into clean dashboard"
+      },
+      {
+        "image_prompt": "Slide 2/5 role=pain. Exact Thai copy: ข้อมูลมีเต็มไปหมด\nแต่ดูไม่รู้เรื่อง. Visual direction: messy spreadsheet with confused shop owner. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 2,
+        "role": "pain",
+        "thai_copy": "ข้อมูลมีเต็มไปหมด\nแต่ดูไม่รู้เรื่อง",
+        "visual_direction": "messy spreadsheet with confused shop owner"
+      },
+      {
+        "image_prompt": "Slide 3/5 role=offer. Exact Thai copy: ขายผลลัพธ์:\nตารางสะอาด\nสูตร\nDashboard 1 หน้า. Visual direction: dashboard package cards. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 3,
+        "role": "offer",
+        "thai_copy": "ขายผลลัพธ์:\nตารางสะอาด\nสูตร\nDashboard 1 หน้า",
+        "visual_direction": "dashboard package cards"
+      },
+      {
+        "image_prompt": "Slide 4/5 role=workflow. Exact Thai copy: สำรองไฟล์ → จัดคอลัมน์ → AI ช่วยสูตร → ตรวจตัวเลข. Visual direction: data cleanup workflow. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 4,
+        "role": "workflow",
+        "thai_copy": "สำรองไฟล์ → จัดคอลัมน์ → AI ช่วยสูตร → ตรวจตัวเลข",
+        "visual_direction": "data cleanup workflow"
+      },
+      {
+        "image_prompt": "Slide 5/5 role=cta. Exact Thai copy: ลองวันนี้:\nทำ Dashboard\nจากข้อมูลตัวอย่าง. Visual direction: simple sales chart and action checklist. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 5,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nทำ Dashboard\nจากข้อมูลตัวอย่าง",
+        "visual_direction": "simple sales chart and action checklist"
+      }
+    ],
+    "source_id": "ai-money-spreadsheet-cleanup-dashboard-20260428",
+    "source_url": "internal://genlabs/ai-money/spreadsheet-cleanup-dashboard",
+    "thai_brief": {
+      "evidence": [
+        "Internal GenLabs educational content plan",
+        "Action-based Thai AI money-making lesson"
+      ],
+      "glossary": {
+        "AIหาเงิน": "AIหาเงิน",
+        "Excel": "Excel",
+        "Google Sheets": "Google Sheets",
+        "dashboard": "dashboard"
+      },
+      "original_keywords": [
+        "Excel",
+        "Google Sheets",
+        "AIหาเงิน",
+        "dashboard"
+      ],
+      "source_id": "ai-money-spreadsheet-cleanup-dashboard-20260428",
+      "source_url": "internal://genlabs/ai-money/spreadsheet-cleanup-dashboard",
+      "thai_call_to_action": "ฝึกกับข้อมูลตัวอย่าง แล้วทำ dashboard ยอดขาย 1 หน้า",
+      "thai_hook": "ใช้ AI รับจัด Google Sheet/Excel ให้ร้านดูยอดขายง่ายขึ้น",
+      "thai_problem": "หลายร้านมีข้อมูลยอดขายในไฟล์กระจัดกระจาย แต่ไม่รู้ยอดขายดีสุด สินค้าขายดี หรือเดือนที่ตกลง",
+      "thai_tips": [
+        "รับไฟล์ยอดขายแล้วสำรองก่อนแก้",
+        "ทำตารางสะอาด: วันที่ สินค้า ยอดขาย ช่องทาง",
+        "ใช้ AI ช่วยเขียนสูตร/สรุป insight",
+        "ทำ dashboard 1 หน้า",
+        "เริ่ม 1,000–3,000 บาทตามความยาก"
+      ],
+      "thai_trend_angle": "AI ช่วยคิดสูตร โครงตาราง และสรุป insight ได้ แต่คุณต้องตรวจตัวเลขและทำ dashboard ให้อ่านง่าย"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "genlabs-ai-learning",
+    "clean_headline": "ใช้ AI รับจัด Google Sheet/Excel ให้ร้านดูยอดขายง่ายขึ้น",
+    "clean_summary": "หลายร้านมีข้อมูลยอดขายในไฟล์กระจัดกระจาย แต่ไม่รู้ยอดขายดีสุด สินค้าขายดี หรือเดือนที่ตกลง",
+    "metrics_snapshot": {},
+    "original_keywords": [
+      "Excel",
+      "Google Sheets",
+      "AIหาเงิน",
+      "dashboard"
+    ],
+    "original_language": "th",
+    "raw_text": "ใช้ AI รับจัด Google Sheet/Excel ให้ร้านดูยอดขายง่ายขึ้น\nหลายร้านมีข้อมูลยอดขายในไฟล์กระจัดกระจาย แต่ไม่รู้ยอดขายดีสุด สินค้าขายดี หรือเดือนที่ตกลง\nAI ช่วยคิดสูตร โครงตาราง และสรุป insight ได้ แต่คุณต้องตรวจตัวเลขและทำ dashboard ให้อ่านง่าย\nรับไฟล์ยอดขายแล้วสำรองก่อนแก้\nทำตารางสะอาด: วันที่ สินค้า ยอดขาย ช่องทาง\nใช้ AI ช่วยเขียนสูตร/สรุป insight\nทำ dashboard 1 หน้า\nเริ่ม 1,000–3,000 บาทตามความยาก",
+    "source_id": "ai-money-spreadsheet-cleanup-dashboard-20260428",
+    "source_url": "internal://genlabs/ai-money/spreadsheet-cleanup-dashboard",
+    "why_it_matters": "Practical Thai AI money-making education; no fake income promises."
+  },
+  "content_brief": {
+    "call_to_action": "ฝึกกับข้อมูลตัวอย่าง แล้วทำ dashboard ยอดขาย 1 หน้า",
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "hook": "ใช้ AI รับจัด Google Sheet/Excel ให้ร้านดูยอดขายง่ายขึ้น",
+    "original_keywords": [
+      "Excel",
+      "Google Sheets",
+      "AIหาเงิน",
+      "dashboard"
+    ],
+    "original_language": "th",
+    "problem": "หลายร้านมีข้อมูลยอดขายในไฟล์กระจัดกระจาย แต่ไม่รู้ยอดขายดีสุด สินค้าขายดี หรือเดือนที่ตกลง",
+    "source_id": "ai-money-spreadsheet-cleanup-dashboard-20260428",
+    "source_url": "internal://genlabs/ai-money/spreadsheet-cleanup-dashboard",
+    "tips": [
+      "รับไฟล์ยอดขายแล้วสำรองก่อนแก้",
+      "ทำตารางสะอาด: วันที่ สินค้า ยอดขาย ช่องทาง",
+      "ใช้ AI ช่วยเขียนสูตร/สรุป insight",
+      "ทำ dashboard 1 หน้า",
+      "เริ่ม 1,000–3,000 บาทตามความยาก"
+    ],
+    "trend_angle": "AI ช่วยคิดสูตร โครงตาราง และสรุป insight ได้ แต่คุณต้องตรวจตัวเลขและทำ dashboard ให้อ่านง่าย"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public source URLs/X handles in generated images or caption; source attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "eNoZNREopl6R7yfmlK02I_rua8bAbm.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980aa7/eNoZNREopl6R7yfmlK02I_rua8bAbm.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-extra-20260428T080632Z-ai-money-spreadsheet-cleanup-dashboard-20260428/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "bILiuXtpvlQP8N4pY74KF_TXRhWnNw.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980aac/bILiuXtpvlQP8N4pY74KF_TXRhWnNw.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-extra-20260428T080632Z-ai-money-spreadsheet-cleanup-dashboard-20260428/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "ZOnzs8-57HD-2l_uSqcll_ZmrG6bbv.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980ab1/ZOnzs8-57HD-2l_uSqcll_ZmrG6bbv.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-extra-20260428T080632Z-ai-money-spreadsheet-cleanup-dashboard-20260428/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "WjHnUKPjX6khoRiW4KEU4_mfkSfenD.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980ab6/WjHnUKPjX6khoRiW4KEU4_mfkSfenD.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-extra-20260428T080632Z-ai-money-spreadsheet-cleanup-dashboard-20260428/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "sMlfa3BG-8UK_tOUs0isz_8o9lTJwR.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980abc/sMlfa3BG-8UK_tOUs0isz_8o9lTJwR.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-extra-20260428T080632Z-ai-money-spreadsheet-cleanup-dashboard-20260428/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": 1024,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 6,
+      "width": 1024
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-extra-20260428T080632Z-ai-money-spreadsheet-cleanup-dashboard-20260428/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: หลายร้านมีข้อมูลยอดขายในไฟล์กระจัดกระจาย แต่ไม่รู้ยอดขายดีสุด สินค้าขายดี หรือเดือนที่ตกลง\n\n📌 ทำไมควรเซฟโพสต์นี้: AI ช่วยคิดสูตร โครงตาราง และสรุป insight ได้ แต่คุณต้องตรวจตัวเลขและทำ dashboard ให้อ่านง่าย\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ รับไฟล์ยอดขายแล้วสำรองก่อนแก้\n\n2) ✨ ทำตารางสะอาด: วันที่ สินค้า ยอดขาย ช่องทาง\n\n3) ✨ ใช้ AI ช่วยเขียนสูตร/สรุป insight\n\n4) ✨ ทำ dashboard 1 หน้า\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ขายของออนไลน์"
+    ],
+    "title": "ใช้ AI รับจัด Google Sheet/Excel ให้ร้านดูยอดขายง่ายขึ้น #AIมือใหม่"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "glossary": {
+      "AIหาเงิน": "AIหาเงิน",
+      "Excel": "Excel",
+      "Google Sheets": "Google Sheets",
+      "dashboard": "dashboard"
+    },
+    "original_keywords": [
+      "Excel",
+      "Google Sheets",
+      "AIหาเงิน",
+      "dashboard"
+    ],
+    "source_id": "ai-money-spreadsheet-cleanup-dashboard-20260428",
+    "source_url": "internal://genlabs/ai-money/spreadsheet-cleanup-dashboard",
+    "thai_call_to_action": "ฝึกกับข้อมูลตัวอย่าง แล้วทำ dashboard ยอดขาย 1 หน้า",
+    "thai_hook": "ใช้ AI รับจัด Google Sheet/Excel ให้ร้านดูยอดขายง่ายขึ้น",
+    "thai_problem": "หลายร้านมีข้อมูลยอดขายในไฟล์กระจัดกระจาย แต่ไม่รู้ยอดขายดีสุด สินค้าขายดี หรือเดือนที่ตกลง",
+    "thai_tips": [
+      "รับไฟล์ยอดขายแล้วสำรองก่อนแก้",
+      "ทำตารางสะอาด: วันที่ สินค้า ยอดขาย ช่องทาง",
+      "ใช้ AI ช่วยเขียนสูตร/สรุป insight",
+      "ทำ dashboard 1 หน้า",
+      "เริ่ม 1,000–3,000 บาทตามความยาก"
+    ],
+    "thai_trend_angle": "AI ช่วยคิดสูตร โครงตาราง และสรุป insight ได้ แต่คุณต้องตรวจตัวเลขและทำ dashboard ให้อ่านง่าย"
+  }
+}

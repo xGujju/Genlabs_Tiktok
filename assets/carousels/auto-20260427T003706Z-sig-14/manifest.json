@@ -1,0 +1,165 @@
+{
+  "asset_urls": [],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 5,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/5 role=hook. Thai copy: Claude Code ใช้ได้ทันที\nจากไอเดียรก → PRD + แผน + Test. Visual direction: bold cover slide, strong Thai headline, cute robot mascot, AI workflow icon, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "Claude Code ใช้ได้ทันที\nจากไอเดียรก → PRD + แผน + Test",
+        "visual_direction": "bold cover slide, strong Thai headline, cute robot mascot, AI workflow icon, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/5 role=problem. Thai copy: ปัญหา: เห็นเทรนด์ AI แต่ไม่รู้จะเริ่มตรงไหน\nให้เริ่มจาก 'งานจริง 1 งาน' ไม่ใช่ลองเล่นมั่ว. Visual direction: problem-to-solution mini diagram, confused creator icon turning into clean workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: เห็นเทรนด์ AI แต่ไม่รู้จะเริ่มตรงไหน\nให้เริ่มจาก 'งานจริง 1 งาน' ไม่ใช่ลองเล่นมั่ว",
+        "visual_direction": "problem-to-solution mini diagram, confused creator icon turning into clean workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/5 role=trend. Thai copy: ทำไมโพสต์นี้เวิร์ก: มันขาย workflow ที่ copy ได้\nคีย์เวิร์ด: Claude Code • workflow. Visual direction: trend explainer with keyword chips, copyable workflow badge, small evidence/source badge, balanced text and icons. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมโพสต์นี้เวิร์ก: มันขาย workflow ที่ copy ได้\nคีย์เวิร์ด: Claude Code • workflow",
+        "visual_direction": "trend explainer with keyword chips, copyable workflow badge, small evidence/source badge, balanced text and icons"
+      },
+      {
+        "image_prompt": "Slide 4/5 role=tips. Thai copy: สูตร 4 ขั้น: ไอเดีย → Brief → แผน → Test\n1) เขียนโจทย์ 2) ให้ AI แตกงาน 3) เช็กด้วย test 4) เก็บเป็น template. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "สูตร 4 ขั้น: ไอเดีย → Brief → แผน → Test\n1) เขียนโจทย์ 2) ให้ AI แตกงาน 3) เช็กด้วย test 4) เก็บเป็น template",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/5 role=cta. Thai copy: ลองวันนี้: เลือกงาน 1 ชิ้น\nใช้ Claude Code ทำ brief → plan → test แล้วบันทึกเป็น template. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้: เลือกงาน 1 ชิ้น\nใช้ Claude Code ทำ brief → plan → test แล้วบันทึกเป็น template",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "sig-14",
+    "source_url": "https://x.com/eng_khairallah1/status/2047693100118880488",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://x.com/eng_khairallah1/status/2047693100118880488",
+        "Keywords: Claude Code, workflow",
+        "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+      ],
+      "glossary": {
+        "Claude Code": "Claude Code",
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "Claude Code",
+        "workflow"
+      ],
+      "source_id": "sig-14",
+      "source_url": "https://x.com/eng_khairallah1/status/2047693100118880488",
+      "thai_call_to_action": "ลองเอา workflow นี้ไปทำกับงานของคุณ 1 งานวันนี้ แล้วเก็บเป็น template ส่วนตัว",
+      "thai_hook": "Claude Code: เทรนด์นี้กำลังมา เพราะเอาไปใช้ได้ทันที",
+      "thai_problem": "คนส่วนใหญ่เห็นเทรนด์ AI แล้วตื่นเต้น แต่ไม่รู้ว่าต้องเอาไปใช้กับงานจริงยังไง",
+      "thai_tips": [
+        "แยกไอเดียดิบให้เป็นโจทย์งานที่ชัด",
+        "ให้ AI สร้าง brief ก่อนลงมือทำ",
+        "เปลี่ยน brief เป็นแผนงานและชุดทดสอบ",
+        "ใช้ผลลัพธ์เป็นระบบทำงานซ้ำ ไม่ใช่โพสต์ไวรัลครั้งเดียว"
+      ],
+      "thai_trend_angle": "โพสต์ต้นทางกำลังชนะเพราะขายเป็น workflow/prompt ที่หยิบไปทำตามได้ ไม่ใช่ข่าวทั่วไป: 🚨 Anthropic's own team just showed how to actually use Claude Code properly."
+    }
+  },
+  "clean_brief": {
+    "author_handle": "ai-signal-radar",
+    "clean_headline": "🚨 Anthropic's own team just showed how to actually use Claude Code properly.",
+    "clean_summary": "🚨 Anthropic's own team just showed how to actually use Claude Code properly. 30 minutes. free. the person who created C 🚨 Anthropic's own team just showed how to actually use Claude Code properly. 30 minutes. free. the person who created Claude Code. watch the workshop. bookmark it. worth more than every $500 course you almost bought. you've been using Claude without knowing 40 of its commands. Then read the guide below. Turn into a Thai handwritten carousel focused on why this matters and what to do now.",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 62,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "Claude Code",
+      "workflow"
+    ],
+    "original_language": "en",
+    "raw_text": "🚨 Anthropic's own team just showed how to actually use Claude Code properly.\n\n30 minutes. free. the person who created C\n🚨 Anthropic's own team just showed how to actually use Claude Code properly.\n\n30 minutes. free. the person who created Claude Code.\n\nwatch the workshop. bookmark it.\n\nworth more than every $500 course you almost bought.\n\nyou've been using Claude without knowing 40 of its commands.\n\nThen read the guide below.\nTurn into a Thai handwritten carousel focused on why this matters and what to do now.",
+    "source_id": "sig-14",
+    "source_url": "https://x.com/eng_khairallah1/status/2047693100118880488",
+    "why_it_matters": "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+  },
+  "content_brief": {
+    "call_to_action": "ลองเอา workflow นี้ไปทำกับงานของคุณ 1 งานวันนี้ แล้วเก็บเป็น template ส่วนตัว",
+    "evidence": [
+      "Source: https://x.com/eng_khairallah1/status/2047693100118880488",
+      "Keywords: Claude Code, workflow",
+      "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+    ],
+    "hook": "Claude Code: เทรนด์นี้กำลังมา เพราะเอาไปใช้ได้ทันที",
+    "original_keywords": [
+      "Claude Code",
+      "workflow"
+    ],
+    "original_language": "en",
+    "problem": "คนส่วนใหญ่เห็นเทรนด์ AI แล้วตื่นเต้น แต่ไม่รู้ว่าต้องเอาไปใช้กับงานจริงยังไง",
+    "source_id": "sig-14",
+    "source_url": "https://x.com/eng_khairallah1/status/2047693100118880488",
+    "tips": [
+      "แยกไอเดียดิบให้เป็นโจทย์งานที่ชัด",
+      "ให้ AI สร้าง brief ก่อนลงมือทำ",
+      "เปลี่ยน brief เป็นแผนงานและชุดทดสอบ",
+      "ใช้ผลลัพธ์เป็นระบบทำงานซ้ำ ไม่ใช่โพสต์ไวรัลครั้งเดียว"
+    ],
+    "trend_angle": "โพสต์ต้นทางกำลังชนะเพราะขายเป็น workflow/prompt ที่หยิบไปทำตามได้ ไม่ใช่ข่าวทั่วไป: 🚨 Anthropic's own team just showed how to actually use Claude Code properly."
+  },
+  "feedback_loop": "deferred",
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260427T003706Z-sig-14/manifest.json",
+  "social_post": {
+    "description": "ลองใช้ไอเดียนี้กับงานจริง 1 งานวันนี้: คนส่วนใหญ่เห็นเทรนด์ AI แล้วตื่นเต้น แต่ไม่รู้ว่าต้องเอาไปใช้กับงานจริงยังไง\nFramework สั้น ๆ: โพสต์ต้นทางกำลังชนะเพราะขายเป็น workflow/prompt ที่หยิบไปทำตามได้ ไม่ใช่ข่าวทั่วไป: 🚨 Anthropic's own team just showed how to actually use Claude Code properly.\n- แยกไอเดียดิบให้เป็นโจทย์งานที่ชัด\n- ให้ AI สร้าง brief ก่อนลงมือทำ\n- เปลี่ยน brief เป็นแผนงานและชุดทดสอบ\nที่มา: https://x.com/eng_khairallah1/status/2047693100118880488\nเซฟโพสต์นี้ไว้ลองทำตาม แล้วติดตาม GenLabs AI Learning สำหรับ workflow AI แบบใช้งานจริง",
+    "hashtags": [
+      "#GenLabs",
+      "#AI",
+      "#AITips",
+      "#ClaudeCode",
+      "#ClaudeAI",
+      "#PromptEngineering",
+      "#AIWorkflow",
+      "#เรียนAI"
+    ],
+    "title": "Claude Code: เทรนด์นี้กำลังมา เพราะเอาไปใช้ได้ทันที"
+  },
+  "status": "planned",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://x.com/eng_khairallah1/status/2047693100118880488",
+      "Keywords: Claude Code, workflow",
+      "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+    ],
+    "glossary": {
+      "Claude Code": "Claude Code",
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "Claude Code",
+      "workflow"
+    ],
+    "source_id": "sig-14",
+    "source_url": "https://x.com/eng_khairallah1/status/2047693100118880488",
+    "thai_call_to_action": "ลองเอา workflow นี้ไปทำกับงานของคุณ 1 งานวันนี้ แล้วเก็บเป็น template ส่วนตัว",
+    "thai_hook": "Claude Code: เทรนด์นี้กำลังมา เพราะเอาไปใช้ได้ทันที",
+    "thai_problem": "คนส่วนใหญ่เห็นเทรนด์ AI แล้วตื่นเต้น แต่ไม่รู้ว่าต้องเอาไปใช้กับงานจริงยังไง",
+    "thai_tips": [
+      "แยกไอเดียดิบให้เป็นโจทย์งานที่ชัด",
+      "ให้ AI สร้าง brief ก่อนลงมือทำ",
+      "เปลี่ยน brief เป็นแผนงานและชุดทดสอบ",
+      "ใช้ผลลัพธ์เป็นระบบทำงานซ้ำ ไม่ใช่โพสต์ไวรัลครั้งเดียว"
+    ],
+    "thai_trend_angle": "โพสต์ต้นทางกำลังชนะเพราะขายเป็น workflow/prompt ที่หยิบไปทำตามได้ ไม่ใช่ข่าวทั่วไป: 🚨 Anthropic's own team just showed how to actually use Claude Code properly."
+  }
+}

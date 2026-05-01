@@ -1,0 +1,258 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a980a9a/rEo_mXfCGKwlH0UlNGdFY_6rW5aNVM.png",
+    "https://v3b.fal.media/files/b/0a980aa6/ykjTxHU8PSrYCiXMqHpve_kDcrv58B.png",
+    "https://v3b.fal.media/files/b/0a980aaf/jpUHPHd3Yn81tjRnZqbiq_aNgTQhng.png",
+    "https://v3b.fal.media/files/b/0a980aba/EQr-FiISqA36fmxSrci6c_BCiERh00.png",
+    "https://v3b.fal.media/files/b/0a980ac5/Efc50IT05ED6NsDc86Znl_VwGaoX4I.png",
+    "https://v3b.fal.media/files/b/0a980acf/HLKkJp0XzfHY6hbG48lD1_Pba61NKw.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 7,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/6 role=hook. Exact Thai copy: ใช้ AI ทำของฟรี\nเพื่อดึงลูกค้า. Visual direction: magnet pulling customer icons toward checklist PDF. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "ใช้ AI ทำของฟรี\nเพื่อดึงลูกค้า",
+        "visual_direction": "magnet pulling customer icons toward checklist PDF"
+      },
+      {
+        "image_prompt": "Slide 2/6 role=concept. Exact Thai copy: Lead Magnet คืออะไร?\nChecklist • Template • Mini Guide. Visual direction: three free-resource cards with simple examples. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 2,
+        "role": "concept",
+        "thai_copy": "Lead Magnet คืออะไร?\nChecklist • Template • Mini Guide",
+        "visual_direction": "three free-resource cards with simple examples"
+      },
+      {
+        "image_prompt": "Slide 3/6 role=examples. Exact Thai copy: ตัวอย่างขายได้:\nPrompt pack\nตารางคอนเทนต์ 7 วัน\nเช็กลิสต์เปิดร้าน. Visual direction: resource shelf with labeled cards. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 3,
+        "role": "examples",
+        "thai_copy": "ตัวอย่างขายได้:\nPrompt pack\nตารางคอนเทนต์ 7 วัน\nเช็กลิสต์เปิดร้าน",
+        "visual_direction": "resource shelf with labeled cards"
+      },
+      {
+        "image_prompt": "Slide 4/6 role=workflow. Exact Thai copy: วิธีทำ:\nเลือกปัญหา → AI ทำโครง → ปรับไทย → ทำ PDF. Visual direction: four-step creation pipeline with Canva/PDF icon. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 4,
+        "role": "workflow",
+        "thai_copy": "วิธีทำ:\nเลือกปัญหา → AI ทำโครง → ปรับไทย → ทำ PDF",
+        "visual_direction": "four-step creation pipeline with Canva/PDF icon"
+      },
+      {
+        "image_prompt": "Slide 5/6 role=funnel. Exact Thai copy: แจกฟรี → ได้ DM/LINE → เสนอแพ็กบริการ. Visual direction: simple funnel diagram from free guide to service offer. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 5,
+        "role": "funnel",
+        "thai_copy": "แจกฟรี → ได้ DM/LINE → เสนอแพ็กบริการ",
+        "visual_direction": "simple funnel diagram from free guide to service offer"
+      },
+      {
+        "image_prompt": "Slide 6/6 role=cta. Exact Thai copy: ลองวันนี้:\nทำ Checklist 1 หน้า\nให้คนพิมพ์ ‘ขอ’. Visual direction: comment bubble CTA and save icon. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 6,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nทำ Checklist 1 หน้า\nให้คนพิมพ์ ‘ขอ’",
+        "visual_direction": "comment bubble CTA and save icon"
+      }
+    ],
+    "source_id": "ai-money-lead-magnet-service-20260428",
+    "source_url": "internal://genlabs/ai-money/lead-magnet-service",
+    "thai_brief": {
+      "evidence": [
+        "Internal GenLabs educational content plan",
+        "Action-based Thai AI money-making lesson"
+      ],
+      "glossary": {
+        "AIธุรกิจ": "AIธุรกิจ",
+        "checklist": "checklist",
+        "lead magnet": "lead magnet",
+        "template": "template"
+      },
+      "original_keywords": [
+        "AIธุรกิจ",
+        "lead magnet",
+        "checklist",
+        "template",
+        "ขายบริการ"
+      ],
+      "source_id": "ai-money-lead-magnet-service-20260428",
+      "source_url": "internal://genlabs/ai-money/lead-magnet-service",
+      "thai_call_to_action": "วันนี้ทำ checklist 1 หน้า แล้วโพสต์ให้คนคอมเมนต์คำว่า ขอ",
+      "thai_hook": "อยากขายบริการ? ใช้ AI ทำของฟรีเพื่อดึงลูกค้าให้เป็น",
+      "thai_problem": "คนส่วนใหญ่ไม่ซื้อทันที แต่จะยอมคุยหรือทัก DM ถ้าคุณมี checklist/template ที่ช่วยแก้ปัญหาชัด ๆ",
+      "thai_tips": [
+        "เลือกปัญหาเดียว เช่น เปิดร้านออนไลน์ หรือวางแผนคอนเทนต์ 7 วัน",
+        "ให้ AI ร่าง checklist/template 1 หน้า",
+        "ปรับภาษาไทยให้ง่ายและมีตัวอย่างจริง",
+        "โพสต์ให้คนคอมเมนต์คำว่า ขอ หรือทัก LINE",
+        "ต่อยอดเป็นบริการ/คอร์สเล็กหลังคนเห็นประโยชน์"
+      ],
+      "thai_trend_angle": "Lead magnet ทำให้การขายบริการนุ่มขึ้น: ให้คุณค่าก่อน แล้วค่อยเสนอแพ็กที่ช่วยต่อยอด"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "genlabs-ai-learning",
+    "clean_headline": "อยากขายบริการ? ใช้ AI ทำของฟรีเพื่อดึงลูกค้าให้เป็น",
+    "clean_summary": "คนส่วนใหญ่ไม่ซื้อทันที แต่จะยอมคุยหรือทัก DM ถ้าคุณมี checklist/template ที่ช่วยแก้ปัญหาชัด ๆ",
+    "metrics_snapshot": {},
+    "original_keywords": [
+      "AIธุรกิจ",
+      "lead magnet",
+      "checklist",
+      "template",
+      "ขายบริการ"
+    ],
+    "original_language": "th",
+    "raw_text": "อยากขายบริการ? ใช้ AI ทำของฟรีเพื่อดึงลูกค้าให้เป็น\nคนส่วนใหญ่ไม่ซื้อทันที แต่จะยอมคุยหรือทัก DM ถ้าคุณมี checklist/template ที่ช่วยแก้ปัญหาชัด ๆ\nLead magnet ทำให้การขายบริการนุ่มขึ้น: ให้คุณค่าก่อน แล้วค่อยเสนอแพ็กที่ช่วยต่อยอด\nเลือกปัญหาเดียว เช่น เปิดร้านออนไลน์ หรือวางแผนคอนเทนต์ 7 วัน\nให้ AI ร่าง checklist/template 1 หน้า\nปรับภาษาไทยให้ง่ายและมีตัวอย่างจริง\nโพสต์ให้คนคอมเมนต์คำว่า ขอ หรือทัก LINE\nต่อยอดเป็นบริการ/คอร์สเล็กหลังคนเห็นประโยชน์",
+    "source_id": "ai-money-lead-magnet-service-20260428",
+    "source_url": "internal://genlabs/ai-money/lead-magnet-service",
+    "why_it_matters": "Practical Thai AI money-making education; no fake income promises."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้ทำ checklist 1 หน้า แล้วโพสต์ให้คนคอมเมนต์คำว่า ขอ",
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "hook": "อยากขายบริการ? ใช้ AI ทำของฟรีเพื่อดึงลูกค้าให้เป็น",
+    "original_keywords": [
+      "AIธุรกิจ",
+      "lead magnet",
+      "checklist",
+      "template",
+      "ขายบริการ"
+    ],
+    "original_language": "th",
+    "problem": "คนส่วนใหญ่ไม่ซื้อทันที แต่จะยอมคุยหรือทัก DM ถ้าคุณมี checklist/template ที่ช่วยแก้ปัญหาชัด ๆ",
+    "source_id": "ai-money-lead-magnet-service-20260428",
+    "source_url": "internal://genlabs/ai-money/lead-magnet-service",
+    "tips": [
+      "เลือกปัญหาเดียว เช่น เปิดร้านออนไลน์ หรือวางแผนคอนเทนต์ 7 วัน",
+      "ให้ AI ร่าง checklist/template 1 หน้า",
+      "ปรับภาษาไทยให้ง่ายและมีตัวอย่างจริง",
+      "โพสต์ให้คนคอมเมนต์คำว่า ขอ หรือทัก LINE",
+      "ต่อยอดเป็นบริการ/คอร์สเล็กหลังคนเห็นประโยชน์"
+    ],
+    "trend_angle": "Lead magnet ทำให้การขายบริการนุ่มขึ้น: ให้คุณค่าก่อน แล้วค่อยเสนอแพ็กที่ช่วยต่อยอด"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public source URLs/X handles in generated images or caption; source attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "rEo_mXfCGKwlH0UlNGdFY_6rW5aNVM.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980a9a/rEo_mXfCGKwlH0UlNGdFY_6rW5aNVM.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-20260428T080425Z-ai-money-lead-magnet-service-20260428/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "ykjTxHU8PSrYCiXMqHpve_kDcrv58B.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980aa6/ykjTxHU8PSrYCiXMqHpve_kDcrv58B.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-20260428T080425Z-ai-money-lead-magnet-service-20260428/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "jpUHPHd3Yn81tjRnZqbiq_aNgTQhng.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980aaf/jpUHPHd3Yn81tjRnZqbiq_aNgTQhng.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-20260428T080425Z-ai-money-lead-magnet-service-20260428/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "EQr-FiISqA36fmxSrci6c_BCiERh00.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980aba/EQr-FiISqA36fmxSrci6c_BCiERh00.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-20260428T080425Z-ai-money-lead-magnet-service-20260428/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "Efc50IT05ED6NsDc86Znl_VwGaoX4I.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980ac5/Efc50IT05ED6NsDc86Znl_VwGaoX4I.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-20260428T080425Z-ai-money-lead-magnet-service-20260428/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "HLKkJp0XzfHY6hbG48lD1_Pba61NKw.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980acf/HLKkJp0XzfHY6hbG48lD1_Pba61NKw.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-20260428T080425Z-ai-money-lead-magnet-service-20260428/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": 1024,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 7,
+      "width": 1024
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-20260428T080425Z-ai-money-lead-magnet-service-20260428/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: คนส่วนใหญ่ไม่ซื้อทันที แต่จะยอมคุยหรือทัก DM ถ้าคุณมี checklist/template ที่ช่วยแก้ปัญหาชัด ๆ\n\n📌 ทำไมควรเซฟโพสต์นี้: Lead magnet ทำให้การขายบริการนุ่มขึ้น: ให้คุณค่าก่อน แล้วค่อยเสนอแพ็กที่ช่วยต่อยอด\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ เลือกปัญหาเดียว เช่น เปิดร้านออนไลน์ หรือวางแผนคอนเทนต์ 7 วัน\n\n2) ✨ ให้ AI ร่าง checklist/template 1 หน้า\n\n3) ✨ ปรับภาษาไทยให้ง่ายและมีตัวอย่างจริง\n\n4) ✨ โพสต์ให้คนคอมเมนต์คำว่า ขอ หรือทัก LINE\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ขายของออนไลน์"
+    ],
+    "title": "อยากขายบริการ? ใช้ AI ทำของฟรีเพื่อดึงลูกค้าให้เป็น #AIมือใหม่  เอาไปใช้กับงานจริงได้ทันที"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "glossary": {
+      "AIธุรกิจ": "AIธุรกิจ",
+      "checklist": "checklist",
+      "lead magnet": "lead magnet",
+      "template": "template"
+    },
+    "original_keywords": [
+      "AIธุรกิจ",
+      "lead magnet",
+      "checklist",
+      "template",
+      "ขายบริการ"
+    ],
+    "source_id": "ai-money-lead-magnet-service-20260428",
+    "source_url": "internal://genlabs/ai-money/lead-magnet-service",
+    "thai_call_to_action": "วันนี้ทำ checklist 1 หน้า แล้วโพสต์ให้คนคอมเมนต์คำว่า ขอ",
+    "thai_hook": "อยากขายบริการ? ใช้ AI ทำของฟรีเพื่อดึงลูกค้าให้เป็น",
+    "thai_problem": "คนส่วนใหญ่ไม่ซื้อทันที แต่จะยอมคุยหรือทัก DM ถ้าคุณมี checklist/template ที่ช่วยแก้ปัญหาชัด ๆ",
+    "thai_tips": [
+      "เลือกปัญหาเดียว เช่น เปิดร้านออนไลน์ หรือวางแผนคอนเทนต์ 7 วัน",
+      "ให้ AI ร่าง checklist/template 1 หน้า",
+      "ปรับภาษาไทยให้ง่ายและมีตัวอย่างจริง",
+      "โพสต์ให้คนคอมเมนต์คำว่า ขอ หรือทัก LINE",
+      "ต่อยอดเป็นบริการ/คอร์สเล็กหลังคนเห็นประโยชน์"
+    ],
+    "thai_trend_angle": "Lead magnet ทำให้การขายบริการนุ่มขึ้น: ให้คุณค่าก่อน แล้วค่อยเสนอแพ็กที่ช่วยต่อยอด"
+  }
+}

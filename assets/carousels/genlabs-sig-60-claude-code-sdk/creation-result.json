@@ -1,0 +1,32 @@
+{
+  "status": "created",
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-sig-60-claude-code-sdk/manifest.json",
+  "airtable_record_id": "recdQ9F9uLsXqo3ma",
+  "airtable_zernio_status": "draft_created",
+  "airtable_zernio_draft_id": "69ef45608b0e026bf9ab3503",
+  "zernio_draft_id": "69ef45608b0e026bf9ab3503",
+  "zernio_isDraft": null,
+  "media_count": 5,
+  "hashtag_count": 5,
+  "hashtags": [
+    "#GenLabsTH",
+    "#เรียนAI",
+    "#AIมือใหม่",
+    "#สอนใช้AI",
+    "#ทำงานด้วยAI"
+  ],
+  "local_assets": [
+    "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-sig-60-claude-code-sdk/slide-1.png",
+    "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-sig-60-claude-code-sdk/slide-2.png",
+    "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-sig-60-claude-code-sdk/slide-3.png",
+    "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-sig-60-claude-code-sdk/slide-4.png",
+    "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-sig-60-claude-code-sdk/slide-5.png"
+  ],
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a97ed55/zXqJHZ8mcaOvQeg80XVRr_slide-1.png",
+    "https://v3b.fal.media/files/b/0a97ed55/Z5ehdTYyddNJ3oaqD6LaA_slide-2.png",
+    "https://v3b.fal.media/files/b/0a97ed55/yogTG5vWOf5Ahsdy9UW7N_slide-3.png",
+    "https://v3b.fal.media/files/b/0a97ed55/1TYrvtRBHnNF0Dv3SNx31_slide-4.png",
+    "https://v3b.fal.media/files/b/0a97ed56/hmfpSY8eKpPVC7-Y6bP6e_slide-5.png"
+  ]
+}

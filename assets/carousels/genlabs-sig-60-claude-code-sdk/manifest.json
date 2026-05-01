@@ -1,0 +1,237 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a97ed55/zXqJHZ8mcaOvQeg80XVRr_slide-1.png",
+    "https://v3b.fal.media/files/b/0a97ed55/Z5ehdTYyddNJ3oaqD6LaA_slide-2.png",
+    "https://v3b.fal.media/files/b/0a97ed55/yogTG5vWOf5Ahsdy9UW7N_slide-3.png",
+    "https://v3b.fal.media/files/b/0a97ed55/1TYrvtRBHnNF0Dv3SNx31_slide-4.png",
+    "https://v3b.fal.media/files/b/0a97ed56/hmfpSY8eKpPVC7-Y6bP6e_slide-5.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 5,
+    "slides": [
+      {
+        "image_prompt": "local html screenshot asset",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "Claude Code SDK\nเปลี่ยน AI จากแชต\nเป็น automation infrastructure\nสำหรับงานวิศวกรรมซอฟต์แวร์",
+        "visual_direction": "Original GenLabs Thai sketchnote rendered as square HTML screenshot"
+      },
+      {
+        "image_prompt": "local html screenshot asset",
+        "index": 2,
+        "role": "concept",
+        "thai_copy": "แนวคิดหลัก\nHeadless mode = ให้ AI ทำงานหลังบ้าน\nต่อกับ terminal pipelines / bash / CI\nอ่าน log, review code, สร้างขั้นตอนอัตโนมัติ",
+        "visual_direction": "Original GenLabs Thai sketchnote rendered as square HTML screenshot"
+      },
+      {
+        "image_prompt": "local html screenshot asset",
+        "index": 3,
+        "role": "safety",
+        "thai_copy": "คุมสิทธิ์ก่อนให้ AI แตะโค้ด\n--allowed-tools: กำหนดว่าใช้เครื่องมืออะไรได้\n--permission-prompt-tool: ขออนุญาตผ่าน MCP\nหลักคิด: ให้สิทธิ์เท่าที่งานนั้นจำเป็น",
+        "visual_direction": "Original GenLabs Thai sketchnote rendered as square HTML screenshot"
+      },
+      {
+        "image_prompt": "local html screenshot asset",
+        "index": 4,
+        "role": "workflow",
+        "thai_copy": "จาก Issue → PR\nGitHub Action เรียก Claude Code\nใช้ session ID เพื่อจำบริบทข้ามรอบ\nให้ AI เสนอ patch แล้วเปิด PR ให้คนตรวจ",
+        "visual_direction": "Original GenLabs Thai sketchnote rendered as square HTML screenshot"
+      },
+      {
+        "image_prompt": "local html screenshot asset",
+        "index": 5,
+        "role": "cta",
+        "thai_copy": "ลองแบบปลอดภัยวันนี้\n1) ใช้ repo sandbox\n2) ให้ Claude review ไฟล์เล็ก ๆ\n3) จำกัด tool + ดู diff\n4) ถ้าดี ค่อยต่อ GitHub Action",
+        "visual_direction": "Original GenLabs Thai sketchnote rendered as square HTML screenshot"
+      }
+    ],
+    "source_id": "sig-60",
+    "source_url": "https://x.com/codewithimanshu/status/2047875091174981780",
+    "thai_brief": {
+      "evidence": [
+        "Source candidate sig-60: Claude Code SDK / GitHub Action automation workflow",
+        "Key facts: headless mode, terminal pipelines, allowed tools, permission prompt tool, session IDs, GitHub Action PR demo, 3-layer architecture"
+      ],
+      "glossary": {
+        "CI": "ระบบรันงานอัตโนมัติหลังบ้าน",
+        "PR": "Pull Request",
+        "headless mode": "โหมดทำงานผ่านคำสั่งโดยไม่ต้องเปิดแชต"
+      },
+      "original_keywords": [
+        "Claude Code",
+        "Claude Code SDK",
+        "GitHub Action",
+        "AI automation",
+        "pull request",
+        "workflow"
+      ],
+      "source_id": "sig-60",
+      "source_url": "https://x.com/codewithimanshu/status/2047875091174981780",
+      "thai_call_to_action": "ลองเลือกงาน dev ซ้ำ ๆ 1 งาน แล้วออกแบบ automation ที่ AI ทำ draft ให้ แต่คนยังตรวจและอนุมัติขั้นสุดท้าย",
+      "thai_hook": "Claude Code SDK เปลี่ยน AI จากแชตเป็น automation infrastructure",
+      "thai_problem": "หลายทีมยังใช้ AI แบบ copy-paste ในแชต ทั้งที่งาน dev บางส่วนทำเป็นระบบอัตโนมัติที่ควบคุมสิทธิ์ได้",
+      "thai_tips": [
+        "เริ่มจากงานเล็กใน repo sandbox เช่น code review หรือสรุป error log",
+        "จำกัดสิทธิ์ด้วย --allowed-tools ก่อนให้ AI เขียนหรือแก้ไฟล์",
+        "ใช้ session ID เมื่อ workflow ต้องจำบริบทข้ามหลายรอบ",
+        "ต่อ GitHub Action ให้สร้าง PR แล้วให้มนุษย์ตรวจ diff ก่อน merge"
+      ],
+      "thai_trend_angle": "หัวใจคือ Claude Code SDK ใน headless mode ต่อ terminal/CI ได้ ใช้ --allowed-tools และ --permission-prompt-tool คุมความเสี่ยง แล้วให้ GitHub Action ช่วยเปิด PR จาก issue โดยไม่ต้องสร้าง infrastructure เพิ่มตั้งแต่วันแรก"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "codewithimanshu",
+    "clean_headline": "Claude Code SDK เปลี่ยน AI จากแชตเป็น automation infrastructure",
+    "clean_summary": "Claude Code SDK supports headless terminal workflows, controlled tools, permission prompts, session persistence, and GitHub Action PR automation.",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "Claude Code",
+      "Claude Code SDK",
+      "GitHub Action",
+      "AI automation",
+      "pull request",
+      "workflow"
+    ],
+    "original_language": "en",
+    "raw_text": "Anthropic's Claude Code team just teaches how to automate your entire engineering workflow with Claude Code SDK in under 30 minutes.\n\nFor Free. From the engineers who built it.\n\nCANCEL Your Weekend Plans, and Learn to Automate Your Codebase Today.\n\nBookmark it. Watch it. Ship your first headless automation this weekend.\n\n$5,000/month. $10,000/month. $25,000/month.\n\nPeople are automating entire engineering teams with Claude Code SDK and charging clients $$$$. You're still copy-pasting code from ChatGPT manually.\n\nThis video fixes that tonight.\n\nFollow @codewithimanshu for more high-signal content that actually moves your AI engineering career forward.\n\n↓\n\nSid Bidasaria runs engineering on Claude Code at Anthropic. He just gave away the entire SDK + GitHub Action playbook in 30 minutes.\n\nThis is the talk that separates people automating their entire codebase from people still manually writing every commit.\n\nHere's everything inside.\n\nFollow @codewithimanshu for weekly Claude automation breakdowns.\n\n↓\n\nWhat the Claude Code SDK actually is.\n\nMost devs don't know this exists. They use Claude in the chat interface and call it a day.\n\nThe SDK is the real unlock.\n\nProgrammatic access to the Claude Code agent in headless mode. The primitive building block for every serious automation you'd ever want to build.\n\nDesigned like a Unix tool. Drops directly into terminal pipelines, bash scripts, CI/CD automation.\n\nUse it to review code. Write linters. Build chatbots. Manage remote code environments. Run an entire engineering pipeline.\n\nThis is how you stop \"using AI\" and start \"shipping with AI.\"\n\nFollow @codewithimanshu for full Claude SDK breakdowns every week.\n\n↓\n\nBasic usage that 99% of devs miss.\n\n`claude -p` to prompt the agent directly from your terminal.\n`--allowed-tools write` for controlled file system access.\n\nPipe anything into it:\n\n> Pipe `ifconfig` output → ask Claude to debug your network\n> Pipe error logs → get a fix before your coffee finishes brewing\n> Pipe a file → get instant code review without opening an editor\n\n`--output-format JSON` for structured responses you can parse in automated systems.\n\nThis is where Claude stops being a chat tool and becomes infrastructure.\n\nFollow @codewithimanshu for daily Claude SDK one-liners that save hours.\n\n↓\n\nPermission management without the security holes.\n\nThe biggest reason teams don't deploy AI in production: permission concerns.\n\nSid solves it cleanly:\n\n> No destructive permissions by default\n> `--allowed-tools` to pre-configure exactly what the agent can touch\n> `--permission-prompt-tool` to delegate authorization to an MCP server in real time\n\nYour AI agent gets full power exactly when it needs it. Zero access when it doesn't.\n\nThis is enterprise-grade AI security packaged as a single flag.\n\nMost tutorials hand-wave this. This one shows the architecture.\n\nFollow @codewithimanshu for production AI permission patterns every week.\n\n↓\n\nSession persistence: the multi-turn unlock.\n\nMost AI integrations forget everything between calls.\n\nThat's why your \"AI assistant\" feels like talking to someone with amnesia.\n\nReturn a `session ID` and Claude resumes exactly where you left off. Full context preserved. Multi-turn conversations across hours, days, deploys.\n\nThis is the foundation for building any real AI product that holds context.\n\nCustomize the system prompt while you're at it. `--system-prompt 'talk like a pirate'` if you want. Or build a serious agent persona for production.\n\nFollow @codewithimanshu for persistent context patterns for AI agents.\n\n↓\n\nThe Claude GitHub Action demo that should scare every dev.\n\nSid runs a live demo on a real quiz app:\n\n> Files an issue: \"add a 50/50 power-up and a skip power-up\"\n> Claude creates a to-do list\n> Claude modifies the files\n> Claude opens a Pull Request\n\nThe entire feature shipped from one issue. No human touching code.\n\nThis is automated code review, automated bug triage, automated feature implementation. From GitHub issues directly.\n\nJunior dev work just got compressed into the time it takes to write an issue description.\n\nFollow @codewithimanshu for GitHub Action setups for production.\n\n↓\n\nZero infrastructure required.\n\nEvery other AI automation tool needs:\n\n> A separate server\n> A deployment pipeline\n> Monitoring infrastructure\n> Auth setup\n> Cost tracking\n\nThe Claude GitHub Action uses your existing GitHub Action runners.\n\n`claude /install github action` in your local repo. Generates a YAML config. Done.\n\nYou go from idea to production AI automation in 60 seconds.\n\nMost people pay $200/month for tools that do less than this free Action.\n\nFollow @codewithimanshu for free Claude Action templates.\n\n↓\n\nThe 3-layer architecture nobody explains.\n\nSid breaks down the actual stack:\n\n> Layer 1: SDK - the foundation, raw programmatic access\n> Layer 2: Base Action - wraps the SDK as a clean API interface\n> Layer 3: PR Action - adds comments, formatting, full GitHub UX\n\nUnderstanding these layers is the difference between someone who copies tutorials and someone who builds custom AI infrastructure for clients.\n\nThis is the architectural insight that turns into $10K/month consulting contracts.\n\nFollow @codewithimanshu for weekly architecture deep dives.\n\n↓\n\n30 minutes from the engineer shipping this in production.\n\nYou'll learn more from this than from 6 months of YouTube tutorials made by people who've never automated a single deploy.\n\nPeople who watch this understand Claude Code automation at the infrastructure level.\n\nPeople who skip it keep manually reviewing PRs, manually filing issues, manually doing work that could've been automated last weekend.\n\nSave the video. Watch it tonight. Ship your first Claude SDK automation this weekend.\n\nFollow @codewithimanshu for more high-signal content that actually moves your AI engineering career forward.",
+    "source_id": "sig-60",
+    "source_url": "https://x.com/codewithimanshu/status/2047875091174981780",
+    "why_it_matters": "Thai builders can start from a small safe automation workflow before building larger AI engineering systems."
+  },
+  "content_brief": {
+    "call_to_action": "ลองเลือกงาน dev ซ้ำ ๆ 1 งาน แล้วออกแบบ automation ที่ AI ทำ draft ให้ แต่คนยังตรวจและอนุมัติขั้นสุดท้าย",
+    "evidence": [
+      "Source candidate sig-60: Claude Code SDK / GitHub Action automation workflow",
+      "Key facts: headless mode, terminal pipelines, allowed tools, permission prompt tool, session IDs, GitHub Action PR demo, 3-layer architecture"
+    ],
+    "hook": "Claude Code SDK เปลี่ยน AI จากแชตเป็น automation infrastructure",
+    "original_keywords": [
+      "Claude Code",
+      "Claude Code SDK",
+      "GitHub Action",
+      "AI automation",
+      "pull request",
+      "workflow"
+    ],
+    "original_language": "en",
+    "problem": "หลายทีมยังใช้ AI แบบ copy-paste ในแชต ทั้งที่งาน dev บางส่วนทำเป็นระบบอัตโนมัติที่ควบคุมสิทธิ์ได้",
+    "source_id": "sig-60",
+    "source_url": "https://x.com/codewithimanshu/status/2047875091174981780",
+    "tips": [
+      "เริ่มจากงานเล็กใน repo sandbox เช่น code review หรือสรุป error log",
+      "จำกัดสิทธิ์ด้วย --allowed-tools ก่อนให้ AI เขียนหรือแก้ไฟล์",
+      "ใช้ session ID เมื่อ workflow ต้องจำบริบทข้ามหลายรอบ",
+      "ต่อ GitHub Action ให้สร้าง PR แล้วให้มนุษย์ตรวจ diff ก่อน merge"
+    ],
+    "trend_angle": "หัวใจคือ Claude Code SDK ใน headless mode ต่อ terminal/CI ได้ ใช้ --allowed-tools และ --permission-prompt-tool คุมความเสี่ยง แล้วให้ GitHub Action ช่วยเปิด PR จาก issue โดยไม่ต้องสร้าง infrastructure เพิ่มตั้งแต่วันแรก"
+  },
+  "feedback_loop": "draft_created",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public source URLs/X handles in generated images or caption; source attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "slide-1.png",
+      "height": 1080,
+      "image_url": "https://v3b.fal.media/files/b/0a97ed55/zXqJHZ8mcaOvQeg80XVRr_slide-1.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-sig-60-claude-code-sdk/slide-1.png",
+      "slide_index": 1,
+      "width": 1080
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "slide-2.png",
+      "height": 1080,
+      "image_url": "https://v3b.fal.media/files/b/0a97ed55/Z5ehdTYyddNJ3oaqD6LaA_slide-2.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-sig-60-claude-code-sdk/slide-2.png",
+      "slide_index": 2,
+      "width": 1080
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "slide-3.png",
+      "height": 1080,
+      "image_url": "https://v3b.fal.media/files/b/0a97ed55/yogTG5vWOf5Ahsdy9UW7N_slide-3.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-sig-60-claude-code-sdk/slide-3.png",
+      "slide_index": 3,
+      "width": 1080
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "slide-4.png",
+      "height": 1080,
+      "image_url": "https://v3b.fal.media/files/b/0a97ed55/1TYrvtRBHnNF0Dv3SNx31_slide-4.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-sig-60-claude-code-sdk/slide-4.png",
+      "slide_index": 4,
+      "width": 1080
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "slide-5.png",
+      "height": 1080,
+      "image_url": "https://v3b.fal.media/files/b/0a97ed56/hmfpSY8eKpPVC7-Y6bP6e_slide-5.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-sig-60-claude-code-sdk/slide-5.png",
+      "slide_index": 5,
+      "width": 1080
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-sig-60-claude-code-sdk/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: หลายทีมยังใช้ AI แบบ copy-paste ในแชต ทั้งที่งาน dev บางส่วนทำเป็นระบบอัตโนมัติที่ควบคุมสิทธิ์ได้\n\n📌 ทำไมควรเซฟโพสต์นี้: หัวใจคือ Claude Code SDK ใน headless mode ต่อ terminal/CI ได้ ใช้ --allowed-tools และ --permission-prompt-tool คุมความเสี่ยง แล้วให้ GitHub Action ช่วยเปิด PR จาก issue โดยไม่ต้องสร้าง infrastructure เพิ่มตั้งแต่วันแรก\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ เริ่มจากงานเล็กใน repo sandbox เช่น code review หรือสรุป error log\n\n2) ✨ จำกัดสิทธิ์ด้วย --allowed-tools ก่อนให้ AI เขียนหรือแก้ไฟล์\n\n3) ✨ ใช้ session ID เมื่อ workflow ต้องจำบริบทข้ามหลายรอบ\n\n4) ✨ ต่อ GitHub Action ให้สร้าง PR แล้วให้มนุษย์ตรวจ diff ก่อน merge\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "Claude Code SDK เปลี่ยน AI จากแชตเป็น automation infrastructure #AIมือใหม่"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source candidate sig-60: Claude Code SDK / GitHub Action automation workflow",
+      "Key facts: headless mode, terminal pipelines, allowed tools, permission prompt tool, session IDs, GitHub Action PR demo, 3-layer architecture"
+    ],
+    "glossary": {
+      "CI": "ระบบรันงานอัตโนมัติหลังบ้าน",
+      "PR": "Pull Request",
+      "headless mode": "โหมดทำงานผ่านคำสั่งโดยไม่ต้องเปิดแชต"
+    },
+    "original_keywords": [
+      "Claude Code",
+      "Claude Code SDK",
+      "GitHub Action",
+      "AI automation",
+      "pull request",
+      "workflow"
+    ],
+    "source_id": "sig-60",
+    "source_url": "https://x.com/codewithimanshu/status/2047875091174981780",
+    "thai_call_to_action": "ลองเลือกงาน dev ซ้ำ ๆ 1 งาน แล้วออกแบบ automation ที่ AI ทำ draft ให้ แต่คนยังตรวจและอนุมัติขั้นสุดท้าย",
+    "thai_hook": "Claude Code SDK เปลี่ยน AI จากแชตเป็น automation infrastructure",
+    "thai_problem": "หลายทีมยังใช้ AI แบบ copy-paste ในแชต ทั้งที่งาน dev บางส่วนทำเป็นระบบอัตโนมัติที่ควบคุมสิทธิ์ได้",
+    "thai_tips": [
+      "เริ่มจากงานเล็กใน repo sandbox เช่น code review หรือสรุป error log",
+      "จำกัดสิทธิ์ด้วย --allowed-tools ก่อนให้ AI เขียนหรือแก้ไฟล์",
+      "ใช้ session ID เมื่อ workflow ต้องจำบริบทข้ามหลายรอบ",
+      "ต่อ GitHub Action ให้สร้าง PR แล้วให้มนุษย์ตรวจ diff ก่อน merge"
+    ],
+    "thai_trend_angle": "หัวใจคือ Claude Code SDK ใน headless mode ต่อ terminal/CI ได้ ใช้ --allowed-tools และ --permission-prompt-tool คุมความเสี่ยง แล้วให้ GitHub Action ช่วยเปิด PR จาก issue โดยไม่ต้องสร้าง infrastructure เพิ่มตั้งแต่วันแรก"
+  }
+}

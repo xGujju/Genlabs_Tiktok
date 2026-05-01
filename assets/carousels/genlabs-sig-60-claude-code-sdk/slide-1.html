@@ -1,0 +1,24 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@font-face { font-family:Loma; src:url('file:///usr/share/fonts/opentype/tlwg/Loma.otf'); }
+@font-face { font-family:Loma; src:url('file:///usr/share/fonts/opentype/tlwg/Loma-Bold.otf'); font-weight:700; }
+* { box-sizing:border-box } body { margin:0; width:1080px; height:1080px; font-family:Loma, sans-serif; background:#FFF8EC; }
+.slide { margin:48px; width:984px; height:984px; background:white; border:7px solid #6D5DF6; border-radius:48px; padding:34px; position:relative; overflow:hidden; }
+.top { height:100px; border-radius:30px; background:#6D5DF6; color:white; display:flex; align-items:center; justify-content:space-between; padding:0 34px; font-size:40px; font-weight:700; }
+.main { display:flex; gap:34px; margin-top:42px; align-items:center; }
+.robot { width:170px; height:170px; border:6px solid #111827; border-radius:36px; background:#F3F4F6; position:relative; flex:none; }
+.robot:before { content:''; position:absolute; left:78px; top:-45px; width:6px; height:45px; background:#111827; }
+.robot:after { content:''; position:absolute; left:67px; top:-59px; width:32px; height:32px; border-radius:50%; background:#FFD166; }
+.eye { position:absolute; top:58px; width:34px; height:34px; border-radius:50%; background:#6D5DF6; } .e1{left:42px} .e2{right:42px}
+.mouth { position:absolute; left:50px; top:105px; width:70px; border-bottom:7px solid #111827; border-radius:50%; height:30px; }
+.title { flex:1; min-height:170px; border:5px solid #111827; background:#F8FAFC; border-radius:36px; padding:25px 32px; font-size:56px; line-height:1.18; font-weight:700; color:#111827; display:flex; align-items:center; }
+.cards { margin-top:42px; display:flex; flex-direction:column; gap:24px; }
+.card { min-height:98px; border:3px solid #CBD5E1; border-radius:28px; background:#F8FAFC; padding:20px 28px; font-size:35px; line-height:1.25; color:#111827; display:flex; gap:22px; align-items:flex-start; }
+.card:nth-child(1){background:#EEF2FF} .card:nth-child(2){background:#ECFDF5} .card:nth-child(3){background:#FFF7ED} .card:nth-child(4){background:#F0F9FF}
+.check { color:#6D5DF6; font-weight:700; font-size:42px; line-height:1; }
+.flow { display:flex; align-items:center; justify-content:center; gap:16px; margin:28px 0 0; }
+.flow b { background:#E0F2FE; border:3px solid #6D5DF6; border-radius:20px; padding:14px 24px; font-size:30px; } .flow i { font-size:46px; font-style:normal; color:#111827; }
+.footer { position:absolute; left:82px; right:82px; bottom:42px; height:58px; border-radius:22px; background:#111827; color:white; display:flex; align-items:center; padding-left:30px; font-weight:700; font-size:30px; }
+.dots { position:absolute; right:-60px; bottom:90px; width:240px; height:240px; border-radius:50%; background:#6D5DF6; opacity:.10; }
+</style></head><body><div class="slide"><div class="top"><span>1/5</span><span>GenLabs</span></div><div class="main"><div class="robot"><span class="eye e1"></span><span class="eye e2"></span><span class="mouth"></span></div><div class="title">Claude Code SDK</div></div><div class="cards"><div class="card"><span class="check">✓</span><span>เปลี่ยน AI จากแชต</span></div>
+<div class="card"><span class="check">✓</span><span>เป็น automation infrastructure</span></div>
+<div class="card"><span class="check">✓</span><span>สำหรับงานวิศวกรรมซอฟต์แวร์</span></div></div><div class="dots"></div><div class="footer">GenLabs AI Learning</div></div></body></html>

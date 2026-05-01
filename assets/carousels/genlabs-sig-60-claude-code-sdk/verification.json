@@ -1,0 +1,15 @@
+{
+  "source_id": "sig-60",
+  "airtable_record_id": "recdQ9F9uLsXqo3ma",
+  "zernio_draft_id": "69ef45608b0e026bf9ab3503",
+  "airtable_zernio_status": "draft_created",
+  "zernio_status": "draft",
+  "zernio_tiktok_settings_draft": true,
+  "publishNow_present": false,
+  "scheduledFor_note": "Zernio GET response auto-populates scheduledFor equal to creation time despite draft payload omitting scheduledFor; draft status and TikTok draft=true verified.",
+  "media_count": 5,
+  "airtable_asset_count": 5,
+  "hashtag_count": 5,
+  "hashtags": ["#GenLabsTH", "#เรียนAI", "#AIมือใหม่", "#สอนใช้AI", "#ทำงานด้วยAI"],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-sig-60-claude-code-sdk/manifest.json"
+}

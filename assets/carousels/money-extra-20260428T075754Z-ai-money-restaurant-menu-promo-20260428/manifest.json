@@ -1,0 +1,237 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a980a73/8Pb-pDemrt7UlkT0D5Y4H_HYCDW1U6.png",
+    "https://v3b.fal.media/files/b/0a980a78/-zs7lZm2SrhUehb57oKqd_tCS3OOwT.png",
+    "https://v3b.fal.media/files/b/0a980a7f/Uz-vTHO597TT2644T_VzC_HPpXB53w.png",
+    "https://v3b.fal.media/files/b/0a980a83/SazBk4aKnrDRBVvxLZOs9_v2rPmQzo.png",
+    "https://v3b.fal.media/files/b/0a980a88/QV97nkPxwCuO7KTeq7DMv_UlSHibYm.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 6,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/5 role=hook. Exact Thai copy: หาเงินด้วย AI:\nโปรโมชันร้านอาหาร. Visual direction: restaurant menu board and AI promo robot. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "หาเงินด้วย AI:\nโปรโมชันร้านอาหาร",
+        "visual_direction": "restaurant menu board and AI promo robot"
+      },
+      {
+        "image_prompt": "Slide 2/5 role=pain. Exact Thai copy: ร้านยุ่งมาก\nไม่มีเวลาคิดโพสต์. Visual direction: busy restaurant owner and empty social calendar. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 2,
+        "role": "pain",
+        "thai_copy": "ร้านยุ่งมาก\nไม่มีเวลาคิดโพสต์",
+        "visual_direction": "busy restaurant owner and empty social calendar"
+      },
+      {
+        "image_prompt": "Slide 3/5 role=offer. Exact Thai copy: ขายเป็นชุด:\nโปร 5 แบบ\nโปสเตอร์\nCaption + LINE. Visual direction: promo package cards with menu icons. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 3,
+        "role": "offer",
+        "thai_copy": "ขายเป็นชุด:\nโปร 5 แบบ\nโปสเตอร์\nCaption + LINE",
+        "visual_direction": "promo package cards with menu icons"
+      },
+      {
+        "image_prompt": "Slide 4/5 role=workflow. Exact Thai copy: เมนูขายดี → AI คิดโปร → Canva ทำภาพ → ส่งโพสต์. Visual direction: food promo workflow with arrows. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 4,
+        "role": "workflow",
+        "thai_copy": "เมนูขายดี → AI คิดโปร → Canva ทำภาพ → ส่งโพสต์",
+        "visual_direction": "food promo workflow with arrows"
+      },
+      {
+        "image_prompt": "Slide 5/5 role=cta. Exact Thai copy: ลองวันนี้:\nทำโปร 3 แบบ\nให้ร้านใกล้บ้าน. Visual direction: food promotion sample board. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 5,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nทำโปร 3 แบบ\nให้ร้านใกล้บ้าน",
+        "visual_direction": "food promotion sample board"
+      }
+    ],
+    "source_id": "ai-money-restaurant-menu-promo-20260428",
+    "source_url": "internal://genlabs/ai-money/restaurant-menu-promo",
+    "thai_brief": {
+      "evidence": [
+        "Internal GenLabs educational content plan",
+        "Action-based Thai AI money-making lesson"
+      ],
+      "glossary": {
+        "AIหาเงิน": "AIหาเงิน",
+        "ร้านอาหาร": "ร้านอาหาร",
+        "เมนู": "เมนู",
+        "โปรโมชัน": "โปรโมชัน"
+      },
+      "original_keywords": [
+        "ร้านอาหาร",
+        "AIหาเงิน",
+        "เมนู",
+        "โปรโมชัน"
+      ],
+      "source_id": "ai-money-restaurant-menu-promo-20260428",
+      "source_url": "internal://genlabs/ai-money/restaurant-menu-promo",
+      "thai_call_to_action": "เลือกร้านอาหาร 1 ร้าน แล้วทำโปร 3 แบบให้ดูเป็นตัวอย่าง",
+      "thai_hook": "ใช้ AI ทำเมนู/โปรโมชันให้ร้านอาหารแล้วรับงานได้",
+      "thai_problem": "ร้านอาหารต้องคิดโปรโมชันและโพสต์เมนูตลอด แต่เจ้าของร้านมักยุ่งกับหน้าร้านจนไม่มีเวลาทำคอนเทนต์",
+      "thai_tips": [
+        "ขอเมนูขายดีและช่วงเวลาลูกค้าเยอะ",
+        "ให้ AI เสนอโปร 5 แบบ",
+        "ทำภาพเมนู/โปสเตอร์ใน Canva",
+        "เขียน caption + LINE broadcast",
+        "เริ่ม 500–1,500 บาทต่อชุดโปร"
+      ],
+      "thai_trend_angle": "AI ช่วยคิดชุดโปรโมชันตามช่วงเวลา เทศกาล และเมนูขายดี ทำให้ร้านมีโพสต์พร้อมใช้เร็วขึ้น"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "genlabs-ai-learning",
+    "clean_headline": "ใช้ AI ทำเมนู/โปรโมชันให้ร้านอาหารแล้วรับงานได้",
+    "clean_summary": "ร้านอาหารต้องคิดโปรโมชันและโพสต์เมนูตลอด แต่เจ้าของร้านมักยุ่งกับหน้าร้านจนไม่มีเวลาทำคอนเทนต์",
+    "metrics_snapshot": {},
+    "original_keywords": [
+      "ร้านอาหาร",
+      "AIหาเงิน",
+      "เมนู",
+      "โปรโมชัน"
+    ],
+    "original_language": "th",
+    "raw_text": "ใช้ AI ทำเมนู/โปรโมชันให้ร้านอาหารแล้วรับงานได้\nร้านอาหารต้องคิดโปรโมชันและโพสต์เมนูตลอด แต่เจ้าของร้านมักยุ่งกับหน้าร้านจนไม่มีเวลาทำคอนเทนต์\nAI ช่วยคิดชุดโปรโมชันตามช่วงเวลา เทศกาล และเมนูขายดี ทำให้ร้านมีโพสต์พร้อมใช้เร็วขึ้น\nขอเมนูขายดีและช่วงเวลาลูกค้าเยอะ\nให้ AI เสนอโปร 5 แบบ\nทำภาพเมนู/โปสเตอร์ใน Canva\nเขียน caption + LINE broadcast\nเริ่ม 500–1,500 บาทต่อชุดโปร",
+    "source_id": "ai-money-restaurant-menu-promo-20260428",
+    "source_url": "internal://genlabs/ai-money/restaurant-menu-promo",
+    "why_it_matters": "Practical Thai AI money-making education; no fake income promises."
+  },
+  "content_brief": {
+    "call_to_action": "เลือกร้านอาหาร 1 ร้าน แล้วทำโปร 3 แบบให้ดูเป็นตัวอย่าง",
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "hook": "ใช้ AI ทำเมนู/โปรโมชันให้ร้านอาหารแล้วรับงานได้",
+    "original_keywords": [
+      "ร้านอาหาร",
+      "AIหาเงิน",
+      "เมนู",
+      "โปรโมชัน"
+    ],
+    "original_language": "th",
+    "problem": "ร้านอาหารต้องคิดโปรโมชันและโพสต์เมนูตลอด แต่เจ้าของร้านมักยุ่งกับหน้าร้านจนไม่มีเวลาทำคอนเทนต์",
+    "source_id": "ai-money-restaurant-menu-promo-20260428",
+    "source_url": "internal://genlabs/ai-money/restaurant-menu-promo",
+    "tips": [
+      "ขอเมนูขายดีและช่วงเวลาลูกค้าเยอะ",
+      "ให้ AI เสนอโปร 5 แบบ",
+      "ทำภาพเมนู/โปสเตอร์ใน Canva",
+      "เขียน caption + LINE broadcast",
+      "เริ่ม 500–1,500 บาทต่อชุดโปร"
+    ],
+    "trend_angle": "AI ช่วยคิดชุดโปรโมชันตามช่วงเวลา เทศกาล และเมนูขายดี ทำให้ร้านมีโพสต์พร้อมใช้เร็วขึ้น"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public source URLs/X handles in generated images or caption; source attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "8Pb-pDemrt7UlkT0D5Y4H_HYCDW1U6.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980a73/8Pb-pDemrt7UlkT0D5Y4H_HYCDW1U6.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-extra-20260428T075754Z-ai-money-restaurant-menu-promo-20260428/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "-zs7lZm2SrhUehb57oKqd_tCS3OOwT.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980a78/-zs7lZm2SrhUehb57oKqd_tCS3OOwT.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-extra-20260428T075754Z-ai-money-restaurant-menu-promo-20260428/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "Uz-vTHO597TT2644T_VzC_HPpXB53w.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980a7f/Uz-vTHO597TT2644T_VzC_HPpXB53w.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-extra-20260428T075754Z-ai-money-restaurant-menu-promo-20260428/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "SazBk4aKnrDRBVvxLZOs9_v2rPmQzo.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980a83/SazBk4aKnrDRBVvxLZOs9_v2rPmQzo.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-extra-20260428T075754Z-ai-money-restaurant-menu-promo-20260428/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "QV97nkPxwCuO7KTeq7DMv_UlSHibYm.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980a88/QV97nkPxwCuO7KTeq7DMv_UlSHibYm.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-extra-20260428T075754Z-ai-money-restaurant-menu-promo-20260428/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": 1024,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 6,
+      "width": 1024
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-extra-20260428T075754Z-ai-money-restaurant-menu-promo-20260428/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: ร้านอาหารต้องคิดโปรโมชันและโพสต์เมนูตลอด แต่เจ้าของร้านมักยุ่งกับหน้าร้านจนไม่มีเวลาทำคอนเทนต์\n\n📌 ทำไมควรเซฟโพสต์นี้: AI ช่วยคิดชุดโปรโมชันตามช่วงเวลา เทศกาล และเมนูขายดี ทำให้ร้านมีโพสต์พร้อมใช้เร็วขึ้น\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ ขอเมนูขายดีและช่วงเวลาลูกค้าเยอะ\n\n2) ✨ ให้ AI เสนอโปร 5 แบบ\n\n3) ✨ ทำภาพเมนู/โปสเตอร์ใน Canva\n\n4) ✨ เขียน caption + LINE broadcast\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ขายของออนไลน์"
+    ],
+    "title": "ใช้ AI ทำเมนู/โปรโมชันให้ร้านอาหารแล้วรับงานได้ #AIมือใหม่  เอาไปใช้กับงานจริงได้ทันที"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "glossary": {
+      "AIหาเงิน": "AIหาเงิน",
+      "ร้านอาหาร": "ร้านอาหาร",
+      "เมนู": "เมนู",
+      "โปรโมชัน": "โปรโมชัน"
+    },
+    "original_keywords": [
+      "ร้านอาหาร",
+      "AIหาเงิน",
+      "เมนู",
+      "โปรโมชัน"
+    ],
+    "source_id": "ai-money-restaurant-menu-promo-20260428",
+    "source_url": "internal://genlabs/ai-money/restaurant-menu-promo",
+    "thai_call_to_action": "เลือกร้านอาหาร 1 ร้าน แล้วทำโปร 3 แบบให้ดูเป็นตัวอย่าง",
+    "thai_hook": "ใช้ AI ทำเมนู/โปรโมชันให้ร้านอาหารแล้วรับงานได้",
+    "thai_problem": "ร้านอาหารต้องคิดโปรโมชันและโพสต์เมนูตลอด แต่เจ้าของร้านมักยุ่งกับหน้าร้านจนไม่มีเวลาทำคอนเทนต์",
+    "thai_tips": [
+      "ขอเมนูขายดีและช่วงเวลาลูกค้าเยอะ",
+      "ให้ AI เสนอโปร 5 แบบ",
+      "ทำภาพเมนู/โปสเตอร์ใน Canva",
+      "เขียน caption + LINE broadcast",
+      "เริ่ม 500–1,500 บาทต่อชุดโปร"
+    ],
+    "thai_trend_angle": "AI ช่วยคิดชุดโปรโมชันตามช่วงเวลา เทศกาล และเมนูขายดี ทำให้ร้านมีโพสต์พร้อมใช้เร็วขึ้น"
+  }
+}

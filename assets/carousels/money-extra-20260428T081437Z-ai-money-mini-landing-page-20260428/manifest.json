@@ -1,0 +1,237 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a980ad8/rOzHJ5Kr43pEy5tp8TjQ5_S5C1r8JX.png",
+    "https://v3b.fal.media/files/b/0a980adc/B_OuWZO-8XcWFeJfLVSpW_01ClxvEn.png",
+    "https://v3b.fal.media/files/b/0a980ae0/k1z_K8OY_Et6bCrQdaCCg_wUz4TyrR.png",
+    "https://v3b.fal.media/files/b/0a980ae5/mZAMFdiipZlNKQDvLZYSz_p7ZsFnM9.png",
+    "https://v3b.fal.media/files/b/0a980aeb/CFgIVpAJBoGGmMCXY_HX0_2rfuslfN.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 6,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/5 role=hook. Exact Thai copy: หาเงินด้วย AI:\nLanding Page หน้าเดียว. Visual direction: simple website page with contact button and AI helper. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "หาเงินด้วย AI:\nLanding Page หน้าเดียว",
+        "visual_direction": "simple website page with contact button and AI helper"
+      },
+      {
+        "image_prompt": "Slide 2/5 role=pain. Exact Thai copy: ขายของอยู่\nแต่ข้อเสนอไม่ชัด. Visual direction: seller with scattered posts becoming one clear page. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 2,
+        "role": "pain",
+        "thai_copy": "ขายของอยู่\nแต่ข้อเสนอไม่ชัด",
+        "visual_direction": "seller with scattered posts becoming one clear page"
+      },
+      {
+        "image_prompt": "Slide 3/5 role=structure. Exact Thai copy: หน้าเดียวต้องมี:\nปัญหา • ข้อเสนอ • ราคา • รีวิว • FAQ. Visual direction: landing page wireframe cards. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 3,
+        "role": "structure",
+        "thai_copy": "หน้าเดียวต้องมี:\nปัญหา • ข้อเสนอ • ราคา • รีวิว • FAQ",
+        "visual_direction": "landing page wireframe cards"
+      },
+      {
+        "image_prompt": "Slide 4/5 role=workflow. Exact Thai copy: AI ร่าง Copy → ทำหน้าเว็บ → ใส่ปุ่ม LINE → ตรวจบนมือถือ. Visual direction: landing page creation workflow. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 4,
+        "role": "workflow",
+        "thai_copy": "AI ร่าง Copy → ทำหน้าเว็บ → ใส่ปุ่ม LINE → ตรวจบนมือถือ",
+        "visual_direction": "landing page creation workflow"
+      },
+      {
+        "image_prompt": "Slide 5/5 role=cta. Exact Thai copy: ลองวันนี้:\nทำเว็บตัวอย่าง\nบริการ 1 อย่าง. Visual direction: mobile landing page portfolio. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 5,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nทำเว็บตัวอย่าง\nบริการ 1 อย่าง",
+        "visual_direction": "mobile landing page portfolio"
+      }
+    ],
+    "source_id": "ai-money-mini-landing-page-20260428",
+    "source_url": "internal://genlabs/ai-money/mini-landing-page",
+    "thai_brief": {
+      "evidence": [
+        "Internal GenLabs educational content plan",
+        "Action-based Thai AI money-making lesson"
+      ],
+      "glossary": {
+        "AIหาเงิน": "AIหาเงิน",
+        "landing page": "landing page",
+        "ธุรกิจ": "ธุรกิจ",
+        "เว็บ": "เว็บ"
+      },
+      "original_keywords": [
+        "landing page",
+        "AIหาเงิน",
+        "ธุรกิจ",
+        "เว็บ"
+      ],
+      "source_id": "ai-money-mini-landing-page-20260428",
+      "source_url": "internal://genlabs/ai-money/mini-landing-page",
+      "thai_call_to_action": "ทำ landing page ตัวอย่างให้บริการสมมติ 1 อย่างวันนี้",
+      "thai_hook": "ใช้ AI ทำหน้า Landing Page แบบง่ายให้คนขายของ/บริการ",
+      "thai_problem": "คนขายของจำนวนมากมีแต่โพสต์หรือ LINE แต่ไม่มีหน้าที่อธิบายข้อเสนอ ราคา รีวิว และปุ่มติดต่อให้ชัด",
+      "thai_tips": [
+        "เริ่มจากหน้าเดียว: ปัญหา ข้อเสนอ ราคา รีวิว FAQ",
+        "ใช้ AI ร่าง copy",
+        "ทำใน Carrd/Notion/Google Sites/Canva website",
+        "ใส่ปุ่ม LINE/DM ให้ชัด",
+        "เริ่ม 1,000–5,000 บาทตามความละเอียด"
+      ],
+      "thai_trend_angle": "AI ช่วยร่างข้อความเว็บ โครงหน้า และ FAQ ได้เร็ว ทำให้คุณขายบริการทำหน้า landing แบบเล็กได้"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "genlabs-ai-learning",
+    "clean_headline": "ใช้ AI ทำหน้า Landing Page แบบง่ายให้คนขายของ/บริการ",
+    "clean_summary": "คนขายของจำนวนมากมีแต่โพสต์หรือ LINE แต่ไม่มีหน้าที่อธิบายข้อเสนอ ราคา รีวิว และปุ่มติดต่อให้ชัด",
+    "metrics_snapshot": {},
+    "original_keywords": [
+      "landing page",
+      "AIหาเงิน",
+      "ธุรกิจ",
+      "เว็บ"
+    ],
+    "original_language": "th",
+    "raw_text": "ใช้ AI ทำหน้า Landing Page แบบง่ายให้คนขายของ/บริการ\nคนขายของจำนวนมากมีแต่โพสต์หรือ LINE แต่ไม่มีหน้าที่อธิบายข้อเสนอ ราคา รีวิว และปุ่มติดต่อให้ชัด\nAI ช่วยร่างข้อความเว็บ โครงหน้า และ FAQ ได้เร็ว ทำให้คุณขายบริการทำหน้า landing แบบเล็กได้\nเริ่มจากหน้าเดียว: ปัญหา ข้อเสนอ ราคา รีวิว FAQ\nใช้ AI ร่าง copy\nทำใน Carrd/Notion/Google Sites/Canva website\nใส่ปุ่ม LINE/DM ให้ชัด\nเริ่ม 1,000–5,000 บาทตามความละเอียด",
+    "source_id": "ai-money-mini-landing-page-20260428",
+    "source_url": "internal://genlabs/ai-money/mini-landing-page",
+    "why_it_matters": "Practical Thai AI money-making education; no fake income promises."
+  },
+  "content_brief": {
+    "call_to_action": "ทำ landing page ตัวอย่างให้บริการสมมติ 1 อย่างวันนี้",
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "hook": "ใช้ AI ทำหน้า Landing Page แบบง่ายให้คนขายของ/บริการ",
+    "original_keywords": [
+      "landing page",
+      "AIหาเงิน",
+      "ธุรกิจ",
+      "เว็บ"
+    ],
+    "original_language": "th",
+    "problem": "คนขายของจำนวนมากมีแต่โพสต์หรือ LINE แต่ไม่มีหน้าที่อธิบายข้อเสนอ ราคา รีวิว และปุ่มติดต่อให้ชัด",
+    "source_id": "ai-money-mini-landing-page-20260428",
+    "source_url": "internal://genlabs/ai-money/mini-landing-page",
+    "tips": [
+      "เริ่มจากหน้าเดียว: ปัญหา ข้อเสนอ ราคา รีวิว FAQ",
+      "ใช้ AI ร่าง copy",
+      "ทำใน Carrd/Notion/Google Sites/Canva website",
+      "ใส่ปุ่ม LINE/DM ให้ชัด",
+      "เริ่ม 1,000–5,000 บาทตามความละเอียด"
+    ],
+    "trend_angle": "AI ช่วยร่างข้อความเว็บ โครงหน้า และ FAQ ได้เร็ว ทำให้คุณขายบริการทำหน้า landing แบบเล็กได้"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public source URLs/X handles in generated images or caption; source attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "rOzHJ5Kr43pEy5tp8TjQ5_S5C1r8JX.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980ad8/rOzHJ5Kr43pEy5tp8TjQ5_S5C1r8JX.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-extra-20260428T081437Z-ai-money-mini-landing-page-20260428/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "B_OuWZO-8XcWFeJfLVSpW_01ClxvEn.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980adc/B_OuWZO-8XcWFeJfLVSpW_01ClxvEn.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-extra-20260428T081437Z-ai-money-mini-landing-page-20260428/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "k1z_K8OY_Et6bCrQdaCCg_wUz4TyrR.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980ae0/k1z_K8OY_Et6bCrQdaCCg_wUz4TyrR.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-extra-20260428T081437Z-ai-money-mini-landing-page-20260428/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "mZAMFdiipZlNKQDvLZYSz_p7ZsFnM9.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980ae5/mZAMFdiipZlNKQDvLZYSz_p7ZsFnM9.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-extra-20260428T081437Z-ai-money-mini-landing-page-20260428/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "CFgIVpAJBoGGmMCXY_HX0_2rfuslfN.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980aeb/CFgIVpAJBoGGmMCXY_HX0_2rfuslfN.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-extra-20260428T081437Z-ai-money-mini-landing-page-20260428/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": 1024,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 6,
+      "width": 1024
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-extra-20260428T081437Z-ai-money-mini-landing-page-20260428/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: คนขายของจำนวนมากมีแต่โพสต์หรือ LINE แต่ไม่มีหน้าที่อธิบายข้อเสนอ ราคา รีวิว และปุ่มติดต่อให้ชัด\n\n📌 ทำไมควรเซฟโพสต์นี้: AI ช่วยร่างข้อความเว็บ โครงหน้า และ FAQ ได้เร็ว ทำให้คุณขายบริการทำหน้า landing แบบเล็กได้\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ เริ่มจากหน้าเดียว: ปัญหา ข้อเสนอ ราคา รีวิว FAQ\n\n2) ✨ ใช้ AI ร่าง copy\n\n3) ✨ ทำใน Carrd/Notion/Google Sites/Canva website\n\n4) ✨ ใส่ปุ่ม LINE/DM ให้ชัด\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ขายของออนไลน์"
+    ],
+    "title": "ใช้ AI ทำหน้า Landing Page แบบง่ายให้คนขายของ/บริการ #AIมือใหม่"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "glossary": {
+      "AIหาเงิน": "AIหาเงิน",
+      "landing page": "landing page",
+      "ธุรกิจ": "ธุรกิจ",
+      "เว็บ": "เว็บ"
+    },
+    "original_keywords": [
+      "landing page",
+      "AIหาเงิน",
+      "ธุรกิจ",
+      "เว็บ"
+    ],
+    "source_id": "ai-money-mini-landing-page-20260428",
+    "source_url": "internal://genlabs/ai-money/mini-landing-page",
+    "thai_call_to_action": "ทำ landing page ตัวอย่างให้บริการสมมติ 1 อย่างวันนี้",
+    "thai_hook": "ใช้ AI ทำหน้า Landing Page แบบง่ายให้คนขายของ/บริการ",
+    "thai_problem": "คนขายของจำนวนมากมีแต่โพสต์หรือ LINE แต่ไม่มีหน้าที่อธิบายข้อเสนอ ราคา รีวิว และปุ่มติดต่อให้ชัด",
+    "thai_tips": [
+      "เริ่มจากหน้าเดียว: ปัญหา ข้อเสนอ ราคา รีวิว FAQ",
+      "ใช้ AI ร่าง copy",
+      "ทำใน Carrd/Notion/Google Sites/Canva website",
+      "ใส่ปุ่ม LINE/DM ให้ชัด",
+      "เริ่ม 1,000–5,000 บาทตามความละเอียด"
+    ],
+    "thai_trend_angle": "AI ช่วยร่างข้อความเว็บ โครงหน้า และ FAQ ได้เร็ว ทำให้คุณขายบริการทำหน้า landing แบบเล็กได้"
+  }
+}

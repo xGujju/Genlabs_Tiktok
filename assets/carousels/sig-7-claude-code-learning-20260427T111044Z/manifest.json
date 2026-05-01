@@ -1,0 +1,271 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a97ed30/COrJUM8vFphDm9RP_IbwL_KPBr2qGT.png",
+    "https://v3b.fal.media/files/b/0a97ed31/Ld-t7BdUslMALI4SCXvyt_uo4g0ibo.png",
+    "https://v3b.fal.media/files/b/0a97ed31/D0ann__fm6fxW_QWcUuqS_8hymxvuK.png",
+    "https://v3b.fal.media/files/b/0a97ed31/nqBMdxjocQSKE7oJJ2AFC_HMHaE9Ri.png",
+    "https://v3b.fal.media/files/b/0a97ed32/0Uu80OiBg-YnVSb5In-pp_4uAf0bhA.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 5,
+    "slides": [
+      {
+        "image_prompt": "Generated square GenLabs Thai sketchnote slide: Claude Code ใช้ให้เป็น\nเริ่มจาก workflow ไม่ใช่ hype",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "Claude Code ใช้ให้เป็น\nเริ่มจาก workflow ไม่ใช่ hype",
+        "visual_direction": "cover with repo, terminal, and robot coach"
+      },
+      {
+        "image_prompt": "Generated square GenLabs Thai sketchnote slide: เส้นทางฝึก 30 นาที\n1 ดูภาพรวม\n2 เปิด repo จริง\n3 ถามก่อนแก้\n4 ให้ test",
+        "index": 2,
+        "role": "learning_path",
+        "thai_copy": "เส้นทางฝึก 30 นาที\n1 ดูภาพรวม\n2 เปิด repo จริง\n3 ถามก่อนแก้\n4 ให้ test",
+        "visual_direction": "four step learning path"
+      },
+      {
+        "image_prompt": "Generated square GenLabs Thai sketchnote slide: คำสั่งที่ควรรู้ก่อน\n/help • /model • /clear\n@file เพื่อให้บริบท\n! test เพื่อเช็กงาน",
+        "index": 3,
+        "role": "commands",
+        "thai_copy": "คำสั่งที่ควรรู้ก่อน\n/help • /model • /clear\n@file เพื่อให้บริบท\n! test เพื่อเช็กงาน",
+        "visual_direction": "command chips and terminal cards"
+      },
+      {
+        "image_prompt": "Generated square GenLabs Thai sketchnote slide: Workflow ที่ปลอดภัยกว่า\nอ่านไฟล์ → วางแผน → แก้ทีละส่วน → รันทดสอบ → ดู diff",
+        "index": 4,
+        "role": "workflow",
+        "thai_copy": "Workflow ที่ปลอดภัยกว่า\nอ่านไฟล์ → วางแผน → แก้ทีละส่วน → รันทดสอบ → ดู diff",
+        "visual_direction": "safe code workflow diagram"
+      },
+      {
+        "image_prompt": "Generated square GenLabs Thai sketchnote slide: ลองวันนี้ 1 งาน\nเลือก bug เล็ก ๆ\nให้ Claude อธิบาย repo\nแก้พร้อม test\nตรวจ diff ก่อนส่ง",
+        "index": 5,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้ 1 งาน\nเลือก bug เล็ก ๆ\nให้ Claude อธิบาย repo\nแก้พร้อม test\nตรวจ diff ก่อนส่ง",
+        "visual_direction": "action checklist"
+      }
+    ],
+    "source_id": "sig-7",
+    "source_url": "https://x.com/eng_khairallah1/status/2047693100118880488",
+    "thai_brief": {
+      "evidence": [
+        "Source: internal Airtable trend candidate sig-7",
+        "Public source URL retained internally; no public link included in caption because workshop/article link could not be reliably retrieved from the source page.",
+        "A short Claude Code workshop can be turned into a practical learning path: learn commands, inspect repo context, plan changes, run tests, and review diffs before shipping."
+      ],
+      "glossary": {
+        "Claude Code": "Claude Code",
+        "MCP": "MCP",
+        "prompt": "พรอมป์ต์",
+        "tests": "ชุดทดสอบ",
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "Claude Code",
+        "workflow",
+        "prompt",
+        "tests",
+        "MCP"
+      ],
+      "source_id": "sig-7",
+      "source_url": "https://x.com/eng_khairallah1/status/2047693100118880488",
+      "thai_call_to_action": "เลือก bug หรือฟีเจอร์เล็ก ๆ 1 งาน แล้วฝึก Claude Code ด้วยลำดับ อ่าน repo → วางแผน → แก้ → test → ดู diff",
+      "thai_hook": "Claude Code ใช้ให้เป็น: เส้นทางฝึกจาก workshop สู่ repo จริง",
+      "thai_problem": "หลายคนเปิด Claude Code แล้วสั่งให้เขียนโค้ดทันที แต่ยังไม่ใช้คำสั่งพื้นฐาน บริบทไฟล์ แผนงาน การทดสอบ และ diff review ให้ครบ",
+      "thai_tips": [
+        "เริ่มจาก /help, /model, /clear และการอ้างไฟล์ด้วย @file เพื่อคุมบริบทให้ชัด",
+        "ให้ Claude อ่าน repo แล้วสรุปโครงสร้างก่อนขอให้แก้โค้ด",
+        "ขอแผนสั้น ๆ ก่อนลงมือ จากนั้นแก้ทีละส่วน ไม่สั่งเปลี่ยนทั้งโปรเจกต์ทีเดียว",
+        "ให้รันทดสอบ ดูผลลัพธ์ และตรวจ diff ก่อน commit หรือส่งงานทุกครั้ง"
+      ],
+      "thai_trend_angle": "โพสต์ต้นทางชี้ไปที่ workshop สั้น ๆ จากทีม Anthropic และไกด์คำสั่งจำนวนมาก จุดที่ควรเรียนไม่ใช่ความไฮป์ แต่คือ workflow ที่ช่วยให้แก้โค้ดอย่างปลอดภัยขึ้น"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "eng_khairallah1",
+    "clean_headline": "Anthropic team workshop on using Claude Code properly",
+    "clean_summary": "🚨 Anthropic's own team just showed how to actually use Claude Code properly.\n\n30 minutes. free. the person who created Claude Code.\n\nwatch the workshop. bookmark it.\n\nworth more than every $500 course you almost bought.\n\nyou've been using Claude without knowing 40 of its commands.\n\nThen read the guide below.",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 55,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "Claude Code",
+      "workflow",
+      "prompt",
+      "tests",
+      "MCP"
+    ],
+    "original_language": "en",
+    "raw_text": "🚨 Anthropic's own team just showed how to actually use Claude Code properly.\n\n30 minutes. free. the person who created C\n🚨 Anthropic's own team just showed how to actually use Claude Code properly.\n\n30 minutes. free. the person who created Claude Code.\n\nwatch the workshop. bookmark it.\n\nworth more than every $500 course you almost bought.\n\nyou've been using Claude without knowing 40 of its commands.\n\nThen read the guide below.",
+    "source_id": "sig-7",
+    "source_url": "https://x.com/eng_khairallah1/status/2047693100118880488",
+    "why_it_matters": "A short Claude Code workshop can be turned into a practical learning path: learn commands, inspect repo context, plan changes, run tests, and review diffs before shipping."
+  },
+  "content_brief": {
+    "call_to_action": "เลือก bug หรือฟีเจอร์เล็ก ๆ 1 งาน แล้วฝึก Claude Code ด้วยลำดับ อ่าน repo → วางแผน → แก้ → test → ดู diff",
+    "evidence": [
+      "Source: internal Airtable trend candidate sig-7",
+      "Public source URL retained internally; no public link included in caption because workshop/article link could not be reliably retrieved from the source page.",
+      "A short Claude Code workshop can be turned into a practical learning path: learn commands, inspect repo context, plan changes, run tests, and review diffs before shipping."
+    ],
+    "hook": "Claude Code ใช้ให้เป็น: เส้นทางฝึกจาก workshop สู่ repo จริง",
+    "original_keywords": [
+      "Claude Code",
+      "workflow",
+      "prompt",
+      "tests",
+      "MCP"
+    ],
+    "original_language": "en",
+    "problem": "หลายคนเปิด Claude Code แล้วสั่งให้เขียนโค้ดทันที แต่ยังไม่ใช้คำสั่งพื้นฐาน บริบทไฟล์ แผนงาน การทดสอบ และ diff review ให้ครบ",
+    "source_id": "sig-7",
+    "source_url": "https://x.com/eng_khairallah1/status/2047693100118880488",
+    "tips": [
+      "เริ่มจาก /help, /model, /clear และการอ้างไฟล์ด้วย @file เพื่อคุมบริบทให้ชัด",
+      "ให้ Claude อ่าน repo แล้วสรุปโครงสร้างก่อนขอให้แก้โค้ด",
+      "ขอแผนสั้น ๆ ก่อนลงมือ จากนั้นแก้ทีละส่วน ไม่สั่งเปลี่ยนทั้งโปรเจกต์ทีเดียว",
+      "ให้รันทดสอบ ดูผลลัพธ์ และตรวจ diff ก่อน commit หรือส่งงานทุกครั้ง"
+    ],
+    "trend_angle": "โพสต์ต้นทางชี้ไปที่ workshop สั้น ๆ จากทีม Anthropic และไกด์คำสั่งจำนวนมาก จุดที่ควรเรียนไม่ใช่ความไฮป์ แต่คือ workflow ที่ช่วยให้แก้โค้ดอย่างปลอดภัยขึ้น"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public source URLs/X handles in generated images or caption; source attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "sig-7-slide-1.png",
+      "height": 1024,
+      "image_url": "https://v3b.fal.media/files/b/0a97ed30/COrJUM8vFphDm9RP_IbwL_KPBr2qGT.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/sig-7-claude-code-learning-20260427T111044Z/slide-1.png",
+      "slide_index": 1,
+      "width": 1024
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "sig-7-slide-2.png",
+      "height": 1024,
+      "image_url": "https://v3b.fal.media/files/b/0a97ed31/Ld-t7BdUslMALI4SCXvyt_uo4g0ibo.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/sig-7-claude-code-learning-20260427T111044Z/slide-2.png",
+      "slide_index": 2,
+      "width": 1024
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "sig-7-slide-3.png",
+      "height": 1024,
+      "image_url": "https://v3b.fal.media/files/b/0a97ed31/D0ann__fm6fxW_QWcUuqS_8hymxvuK.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/sig-7-claude-code-learning-20260427T111044Z/slide-3.png",
+      "slide_index": 3,
+      "width": 1024
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "sig-7-slide-4.png",
+      "height": 1024,
+      "image_url": "https://v3b.fal.media/files/b/0a97ed31/nqBMdxjocQSKE7oJJ2AFC_HMHaE9Ri.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/sig-7-claude-code-learning-20260427T111044Z/slide-4.png",
+      "slide_index": 4,
+      "width": 1024
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "sig-7-slide-5.png",
+      "height": 1024,
+      "image_url": "https://v3b.fal.media/files/b/0a97ed32/0Uu80OiBg-YnVSb5In-pp_4uAf0bhA.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/sig-7-claude-code-learning-20260427T111044Z/slide-5.png",
+      "slide_index": 5,
+      "width": 1024
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/sig-7-claude-code-learning-20260427T111044Z/manifest.json",
+  "publish_result": {
+    "airtable_id": "reco3l4d4k0CIKdlA",
+    "airtable_zernio_status": "draft_created",
+    "zernio_draft_id": "69ef443c94f5758a7c1be06c",
+    "zernio_response_keys": [
+      "message",
+      "post"
+    ]
+  },
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: หลายคนเปิด Claude Code แล้วสั่งให้เขียนโค้ดทันที แต่ยังไม่ใช้คำสั่งพื้นฐาน บริบทไฟล์ แผนงาน การทดสอบ และ diff review ให้ครบ\n\n📌 ทำไมควรเซฟโพสต์นี้: โพสต์ต้นทางชี้ไปที่ workshop สั้น ๆ จากทีม Anthropic และไกด์คำสั่งจำนวนมาก จุดที่ควรเรียนไม่ใช่ความไฮป์ แต่คือ workflow ที่ช่วยให้แก้โค้ดอย่างปลอดภัยขึ้น\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ เริ่มจาก /help, /model, /clear และการอ้างไฟล์ด้วย @file เพื่อคุมบริบทให้ชัด\n\n2) ✨ ให้ Claude อ่าน repo แล้วสรุปโครงสร้างก่อนขอให้แก้โค้ด\n\n3) ✨ ขอแผนสั้น ๆ ก่อนลงมือ จากนั้นแก้ทีละส่วน ไม่สั่งเปลี่ยนทั้งโปรเจกต์ทีเดียว\n\n4) ✨ ให้รันทดสอบ ดูผลลัพธ์ และตรวจ diff ก่อน commit หรือส่งงานทุกครั้ง\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "Claude Code ใช้ให้เป็น: เส้นทางฝึกจาก workshop สู่ repo จริง #AIมือใหม่"
+  },
+  "source_retrieval": {
+    "included_public_links": [],
+    "r_jina_status": "retrieved X post text and metrics; workshop/article target URL not exposed reliably"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: internal Airtable trend candidate sig-7",
+      "Public source URL retained internally; no public link included in caption because workshop/article link could not be reliably retrieved from the source page.",
+      "A short Claude Code workshop can be turned into a practical learning path: learn commands, inspect repo context, plan changes, run tests, and review diffs before shipping."
+    ],
+    "glossary": {
+      "Claude Code": "Claude Code",
+      "MCP": "MCP",
+      "prompt": "พรอมป์ต์",
+      "tests": "ชุดทดสอบ",
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "Claude Code",
+      "workflow",
+      "prompt",
+      "tests",
+      "MCP"
+    ],
+    "source_id": "sig-7",
+    "source_url": "https://x.com/eng_khairallah1/status/2047693100118880488",
+    "thai_call_to_action": "เลือก bug หรือฟีเจอร์เล็ก ๆ 1 งาน แล้วฝึก Claude Code ด้วยลำดับ อ่าน repo → วางแผน → แก้ → test → ดู diff",
+    "thai_hook": "Claude Code ใช้ให้เป็น: เส้นทางฝึกจาก workshop สู่ repo จริง",
+    "thai_problem": "หลายคนเปิด Claude Code แล้วสั่งให้เขียนโค้ดทันที แต่ยังไม่ใช้คำสั่งพื้นฐาน บริบทไฟล์ แผนงาน การทดสอบ และ diff review ให้ครบ",
+    "thai_tips": [
+      "เริ่มจาก /help, /model, /clear และการอ้างไฟล์ด้วย @file เพื่อคุมบริบทให้ชัด",
+      "ให้ Claude อ่าน repo แล้วสรุปโครงสร้างก่อนขอให้แก้โค้ด",
+      "ขอแผนสั้น ๆ ก่อนลงมือ จากนั้นแก้ทีละส่วน ไม่สั่งเปลี่ยนทั้งโปรเจกต์ทีเดียว",
+      "ให้รันทดสอบ ดูผลลัพธ์ และตรวจ diff ก่อน commit หรือส่งงานทุกครั้ง"
+    ],
+    "thai_trend_angle": "โพสต์ต้นทางชี้ไปที่ workshop สั้น ๆ จากทีม Anthropic และไกด์คำสั่งจำนวนมาก จุดที่ควรเรียนไม่ใช่ความไฮป์ แต่คือ workflow ที่ช่วยให้แก้โค้ดอย่างปลอดภัยขึ้น"
+  },
+  "zernio_safety": {
+    "isDraft": true,
+    "max_hashtags": 5,
+    "publishNow": "omitted",
+    "scheduledFor": "omitted",
+    "tiktokSettings.draft": true
+  },
+  "zernio_verification": {
+    "api_returned_scheduledFor": true,
+    "api_returned_scheduledFor_note": "Zernio GET response includes a scheduledFor timestamp equal to creation time even though draft payload omitted scheduledFor; status remains draft and TikTok draft=true.",
+    "media_count": 5,
+    "payload_scheduledFor_intentionally_sent": false,
+    "platform": "tiktok",
+    "platform_tiktokSettings_draft": true,
+    "publishNow_present": false,
+    "status": "draft",
+    "zernio_draft_id": "69ef443c94f5758a7c1be06c"
+  }
+}

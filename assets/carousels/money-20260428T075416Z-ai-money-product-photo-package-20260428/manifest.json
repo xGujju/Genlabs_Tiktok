@@ -1,0 +1,254 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a980a5d/cBT499lVcmkdvwNIhxpo9_JQPkcEKx.png",
+    "https://v3b.fal.media/files/b/0a980a68/vbcYig0DzwBFdvCrI_V2a_VSUeZQAa.png",
+    "https://v3b.fal.media/files/b/0a980a73/a7kgZKOqGbx-IC-fJTazr_cTuXqiOj.png",
+    "https://v3b.fal.media/files/b/0a980a7d/RqBN1MmpKa1H6JQod80d__i98cNJW7.png",
+    "https://v3b.fal.media/files/b/0a980a86/A3_oXF9v4pMt9QA3QCi5p_j4WlFVbp.png",
+    "https://v3b.fal.media/files/b/0a980a90/ds0vguWm7wb5NilNq3xyg_bMahWeuS.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 7,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/6 role=hook. Exact Thai copy: หาเงินด้วย AI:\nรับทำรูปสินค้า. Visual direction: product photo studio mini scene with phone, AI sparkle, online shop icons. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "หาเงินด้วย AI:\nรับทำรูปสินค้า",
+        "visual_direction": "product photo studio mini scene with phone, AI sparkle, online shop icons"
+      },
+      {
+        "image_prompt": "Slide 2/6 role=problem. Exact Thai copy: รูปไม่สวย = คนเลื่อนผ่าน\nแสงไม่ดี • พื้นหลังรก. Visual direction: before image messy product photo versus clean after preview. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "รูปไม่สวย = คนเลื่อนผ่าน\nแสงไม่ดี • พื้นหลังรก",
+        "visual_direction": "before image messy product photo versus clean after preview"
+      },
+      {
+        "image_prompt": "Slide 3/6 role=offer. Exact Thai copy: แพ็กเริ่มต้น:\n10 รูปสินค้า\n3 แบบพื้นหลัง. Visual direction: product package cards and background swatches. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 3,
+        "role": "offer",
+        "thai_copy": "แพ็กเริ่มต้น:\n10 รูปสินค้า\n3 แบบพื้นหลัง",
+        "visual_direction": "product package cards and background swatches"
+      },
+      {
+        "image_prompt": "Slide 4/6 role=workflow. Exact Thai copy: ขั้นตอน:\nขอรูปชัด → แต่งพื้นหลัง → ทำภาพโปรโมต → ตรวจสินค้า. Visual direction: four-step product-photo workflow with magnifier verification. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 4,
+        "role": "workflow",
+        "thai_copy": "ขั้นตอน:\nขอรูปชัด → แต่งพื้นหลัง → ทำภาพโปรโมต → ตรวจสินค้า",
+        "visual_direction": "four-step product-photo workflow with magnifier verification"
+      },
+      {
+        "image_prompt": "Slide 5/6 role=safety. Exact Thai copy: กฎสำคัญ:\nห้ามเปลี่ยนสี/โลโก้/รูปทรงสินค้า. Visual direction: warning badge and accurate product checklist. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 5,
+        "role": "safety",
+        "thai_copy": "กฎสำคัญ:\nห้ามเปลี่ยนสี/โลโก้/รูปทรงสินค้า",
+        "visual_direction": "warning badge and accurate product checklist"
+      },
+      {
+        "image_prompt": "Slide 6/6 role=cta. Exact Thai copy: ลองวันนี้:\nทำ Before/After\nจากสินค้า 1 ชิ้น. Visual direction: portfolio board with before after arrow. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 6,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nทำ Before/After\nจากสินค้า 1 ชิ้น",
+        "visual_direction": "portfolio board with before after arrow"
+      }
+    ],
+    "source_id": "ai-money-product-photo-package-20260428",
+    "source_url": "internal://genlabs/ai-money/product-photo-package",
+    "thai_brief": {
+      "evidence": [
+        "Internal GenLabs educational content plan",
+        "Action-based Thai AI money-making lesson"
+      ],
+      "glossary": {
+        "AIสร้างภาพ": "AIสร้างภาพ",
+        "product photo": "product photo",
+        "ขายของออนไลน์": "ขายของออนไลน์",
+        "รูปสินค้า": "รูปสินค้า"
+      },
+      "original_keywords": [
+        "ขายของออนไลน์",
+        "รูปสินค้า",
+        "AIสร้างภาพ",
+        "product photo"
+      ],
+      "source_id": "ai-money-product-photo-package-20260428",
+      "source_url": "internal://genlabs/ai-money/product-photo-package",
+      "thai_call_to_action": "ถ่ายสินค้า 1 ชิ้น แล้วทำ before/after เป็น portfolio วันนี้",
+      "thai_hook": "มีมือถือ + AI ก็เริ่มรับทำรูปสินค้าให้ร้านออนไลน์ได้",
+      "thai_problem": "ร้านออนไลน์จำนวนมากมีสินค้าดี แต่รูปไม่ชัด แสงไม่สวย หรือพื้นหลังรกจนคนไม่หยุดดู",
+      "thai_tips": [
+        "ขอรูปสินค้าชัด ๆ บนพื้นเรียบก่อนเริ่ม",
+        "ทำ 3 แบบ: ภาพพื้นขาว ภาพไลฟ์สไตล์ และภาพโปรโมชัน",
+        "ใช้ prompt กำกับว่า ห้ามเปลี่ยนรูปร่าง สี โลโก้ หรือรายละเอียดสินค้า",
+        "ทำ before/after เป็น portfolio เพื่อขายงานแรก",
+        "เริ่มราคา 300–1,000 บาทต่อชุดสำหรับร้านเล็ก"
+      ],
+      "thai_trend_angle": "AI ช่วยให้คนเริ่มต้นทำภาพโปรโมตได้เร็วขึ้น แต่ต้องรักษาความจริงของสินค้า ไม่แต่งจนหลอกลูกค้า"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "genlabs-ai-learning",
+    "clean_headline": "มีมือถือ + AI ก็เริ่มรับทำรูปสินค้าให้ร้านออนไลน์ได้",
+    "clean_summary": "ร้านออนไลน์จำนวนมากมีสินค้าดี แต่รูปไม่ชัด แสงไม่สวย หรือพื้นหลังรกจนคนไม่หยุดดู",
+    "metrics_snapshot": {},
+    "original_keywords": [
+      "ขายของออนไลน์",
+      "รูปสินค้า",
+      "AIสร้างภาพ",
+      "product photo"
+    ],
+    "original_language": "th",
+    "raw_text": "มีมือถือ + AI ก็เริ่มรับทำรูปสินค้าให้ร้านออนไลน์ได้\nร้านออนไลน์จำนวนมากมีสินค้าดี แต่รูปไม่ชัด แสงไม่สวย หรือพื้นหลังรกจนคนไม่หยุดดู\nAI ช่วยให้คนเริ่มต้นทำภาพโปรโมตได้เร็วขึ้น แต่ต้องรักษาความจริงของสินค้า ไม่แต่งจนหลอกลูกค้า\nขอรูปสินค้าชัด ๆ บนพื้นเรียบก่อนเริ่ม\nทำ 3 แบบ: ภาพพื้นขาว ภาพไลฟ์สไตล์ และภาพโปรโมชัน\nใช้ prompt กำกับว่า ห้ามเปลี่ยนรูปร่าง สี โลโก้ หรือรายละเอียดสินค้า\nทำ before/after เป็น portfolio เพื่อขายงานแรก\nเริ่มราคา 300–1,000 บาทต่อชุดสำหรับร้านเล็ก",
+    "source_id": "ai-money-product-photo-package-20260428",
+    "source_url": "internal://genlabs/ai-money/product-photo-package",
+    "why_it_matters": "Practical Thai AI money-making education; no fake income promises."
+  },
+  "content_brief": {
+    "call_to_action": "ถ่ายสินค้า 1 ชิ้น แล้วทำ before/after เป็น portfolio วันนี้",
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "hook": "มีมือถือ + AI ก็เริ่มรับทำรูปสินค้าให้ร้านออนไลน์ได้",
+    "original_keywords": [
+      "ขายของออนไลน์",
+      "รูปสินค้า",
+      "AIสร้างภาพ",
+      "product photo"
+    ],
+    "original_language": "th",
+    "problem": "ร้านออนไลน์จำนวนมากมีสินค้าดี แต่รูปไม่ชัด แสงไม่สวย หรือพื้นหลังรกจนคนไม่หยุดดู",
+    "source_id": "ai-money-product-photo-package-20260428",
+    "source_url": "internal://genlabs/ai-money/product-photo-package",
+    "tips": [
+      "ขอรูปสินค้าชัด ๆ บนพื้นเรียบก่อนเริ่ม",
+      "ทำ 3 แบบ: ภาพพื้นขาว ภาพไลฟ์สไตล์ และภาพโปรโมชัน",
+      "ใช้ prompt กำกับว่า ห้ามเปลี่ยนรูปร่าง สี โลโก้ หรือรายละเอียดสินค้า",
+      "ทำ before/after เป็น portfolio เพื่อขายงานแรก",
+      "เริ่มราคา 300–1,000 บาทต่อชุดสำหรับร้านเล็ก"
+    ],
+    "trend_angle": "AI ช่วยให้คนเริ่มต้นทำภาพโปรโมตได้เร็วขึ้น แต่ต้องรักษาความจริงของสินค้า ไม่แต่งจนหลอกลูกค้า"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public source URLs/X handles in generated images or caption; source attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "cBT499lVcmkdvwNIhxpo9_JQPkcEKx.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980a5d/cBT499lVcmkdvwNIhxpo9_JQPkcEKx.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-20260428T075416Z-ai-money-product-photo-package-20260428/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "vbcYig0DzwBFdvCrI_V2a_VSUeZQAa.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980a68/vbcYig0DzwBFdvCrI_V2a_VSUeZQAa.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-20260428T075416Z-ai-money-product-photo-package-20260428/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "a7kgZKOqGbx-IC-fJTazr_cTuXqiOj.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980a73/a7kgZKOqGbx-IC-fJTazr_cTuXqiOj.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-20260428T075416Z-ai-money-product-photo-package-20260428/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "RqBN1MmpKa1H6JQod80d__i98cNJW7.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980a7d/RqBN1MmpKa1H6JQod80d__i98cNJW7.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-20260428T075416Z-ai-money-product-photo-package-20260428/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "A3_oXF9v4pMt9QA3QCi5p_j4WlFVbp.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980a86/A3_oXF9v4pMt9QA3QCi5p_j4WlFVbp.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-20260428T075416Z-ai-money-product-photo-package-20260428/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "ds0vguWm7wb5NilNq3xyg_bMahWeuS.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980a90/ds0vguWm7wb5NilNq3xyg_bMahWeuS.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-20260428T075416Z-ai-money-product-photo-package-20260428/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": 1024,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 7,
+      "width": 1024
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-20260428T075416Z-ai-money-product-photo-package-20260428/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: ร้านออนไลน์จำนวนมากมีสินค้าดี แต่รูปไม่ชัด แสงไม่สวย หรือพื้นหลังรกจนคนไม่หยุดดู\n\n📌 ทำไมควรเซฟโพสต์นี้: AI ช่วยให้คนเริ่มต้นทำภาพโปรโมตได้เร็วขึ้น แต่ต้องรักษาความจริงของสินค้า ไม่แต่งจนหลอกลูกค้า\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ ขอรูปสินค้าชัด ๆ บนพื้นเรียบก่อนเริ่ม\n\n2) ✨ ทำ 3 แบบ: ภาพพื้นขาว ภาพไลฟ์สไตล์ และภาพโปรโมชัน\n\n3) ✨ ใช้ prompt กำกับว่า ห้ามเปลี่ยนรูปร่าง สี โลโก้ หรือรายละเอียดสินค้า\n\n4) ✨ ทำ before/after เป็น portfolio เพื่อขายงานแรก\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#พร้อมท์ไทย"
+    ],
+    "title": "มีมือถือ + AI ก็เริ่มรับทำรูปสินค้าให้ร้านออนไลน์ได้ #AIมือใหม่"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "glossary": {
+      "AIสร้างภาพ": "AIสร้างภาพ",
+      "product photo": "product photo",
+      "ขายของออนไลน์": "ขายของออนไลน์",
+      "รูปสินค้า": "รูปสินค้า"
+    },
+    "original_keywords": [
+      "ขายของออนไลน์",
+      "รูปสินค้า",
+      "AIสร้างภาพ",
+      "product photo"
+    ],
+    "source_id": "ai-money-product-photo-package-20260428",
+    "source_url": "internal://genlabs/ai-money/product-photo-package",
+    "thai_call_to_action": "ถ่ายสินค้า 1 ชิ้น แล้วทำ before/after เป็น portfolio วันนี้",
+    "thai_hook": "มีมือถือ + AI ก็เริ่มรับทำรูปสินค้าให้ร้านออนไลน์ได้",
+    "thai_problem": "ร้านออนไลน์จำนวนมากมีสินค้าดี แต่รูปไม่ชัด แสงไม่สวย หรือพื้นหลังรกจนคนไม่หยุดดู",
+    "thai_tips": [
+      "ขอรูปสินค้าชัด ๆ บนพื้นเรียบก่อนเริ่ม",
+      "ทำ 3 แบบ: ภาพพื้นขาว ภาพไลฟ์สไตล์ และภาพโปรโมชัน",
+      "ใช้ prompt กำกับว่า ห้ามเปลี่ยนรูปร่าง สี โลโก้ หรือรายละเอียดสินค้า",
+      "ทำ before/after เป็น portfolio เพื่อขายงานแรก",
+      "เริ่มราคา 300–1,000 บาทต่อชุดสำหรับร้านเล็ก"
+    ],
+    "thai_trend_angle": "AI ช่วยให้คนเริ่มต้นทำภาพโปรโมตได้เร็วขึ้น แต่ต้องรักษาความจริงของสินค้า ไม่แต่งจนหลอกลูกค้า"
+  }
+}

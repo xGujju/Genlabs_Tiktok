@@ -1,0 +1,190 @@
+{
+  "asset_urls": [],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 7,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/7 role=hook. Thai copy: อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน\nworkflow • AI automation • Make. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน\nworkflow • AI automation • Make",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/7 role=problem. Thai copy: ปัญหา: หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/7 role=trend. Thai copy: ทำไมควรสนใจ:\nโพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ: YouTube title: How to Use AI in Your. Visual direction: trend explainer with source-media-inspired layout, keyword chips, practical-use badge, balanced text and icons. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nโพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ: YouTube title: How to Use AI in Your",
+        "visual_direction": "trend explainer with source-media-inspired layout, keyword chips, practical-use badge, balanced text and icons"
+      },
+      {
+        "image_prompt": "Slide 4/7 role=tips. Thai copy: ลองใช้แบบนี้:\n1) จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง\n2) เลือกงานที่มีกฎชัดที่สุด 1 งาน\n3) เขียน input/output ที่ต้องการ\n4) ให้ AI ช่วยทำเช็กลิสต์ก่อนค่อยต่อ automation. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง\n2) เลือกงานที่มีกฎชัดที่สุด 1 งาน\n3) เขียน input/output ที่ต้องการ\n4) ให้ AI ช่วยทำเช็กลิสต์ก่อนค่อยต่อ automation",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/7 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/7 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\n5) เลือกงานจริง 1 งาน แล้วให้ AI ช่วยทีละขั้น\n6) เลือกงานจริง 1 งาน แล้วให้ AI ช่วยทีละขั้น. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\n5) เลือกงานจริง 1 งาน แล้วให้ AI ช่วยทีละขั้น\n6) เลือกงานจริง 1 งาน แล้วให้ AI ช่วยทีละขั้น",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/7 role=cta. Thai copy: ลองวันนี้:\nวันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "yt-fr78adfAnuA",
+    "source_url": "https://www.youtube.com/watch?v=fr78adfAnuA",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://www.youtube.com/watch?v=fr78adfAnuA",
+        "Keywords: workflow, AI automation, Make",
+        "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+      ],
+      "glossary": {
+        "AI automation": "ระบบอัตโนมัติด้วย AI",
+        "Make": "Make",
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "workflow",
+        "AI automation",
+        "Make"
+      ],
+      "source_id": "yt-fr78adfAnuA",
+      "source_url": "https://www.youtube.com/watch?v=fr78adfAnuA",
+      "thai_call_to_action": "วันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น",
+      "thai_hook": "อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน",
+      "thai_problem": "หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้",
+      "thai_tips": [
+        "จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง",
+        "เลือกงานที่มีกฎชัดที่สุด 1 งาน",
+        "เขียน input/output ที่ต้องการ",
+        "ให้ AI ช่วยทำเช็กลิสต์ก่อนค่อยต่อ automation"
+      ],
+      "thai_trend_angle": "โพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ: YouTube title: How to Use AI in Your Business in 2026 Channel: Alex Hormozi Description: Download your free scaling roadmap here: https://www.acquisition.com/roadmap-yta499 If you're new to my channel, my name is ..."
+    }
+  },
+  "clean_brief": {
+    "author_handle": "Alex Hormozi",
+    "clean_headline": "YouTube title: How to Use AI in Your Business in 2026 Channel: Alex Hormozi Description: Download your free scaling roadmap here: https://www.acquisition.com/roadmap-yta499 If you're new to my channel, my name is ...",
+    "clean_summary": "YouTube title: How to Use AI in Your Business in 2026 Channel: Alex Hormozi Description: Download your free scaling roadmap here: https://www.acquisition.com/roadmap-yta499 If you're new to my channel, my name is ... Transcript: Title: How to Use AI in Your Business in 2026 description&redir_token=REDACTED&q=https%3A%2F%2Fwww.acquisition.com%2Froadmap-yta499&v=fr78adfAnuA) If you’re new to my channel, my name is Alex Hormozi. I’m the founder and managing partner of Acquisition.com. It’s a fa…...more ...more Alex Hormozi tagged products below.[Learn more](https://www.youtube.com/watch?v=fr78adfAnuA) [![Image 8](https://www.youtube.com/watch?v=fr78adfAnuA) $100M Money Models Hardback Book + VIP Acquisition.com shop.acquisition.com/products/100m-money-models?variant=46471142834401&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqyNdVMK8i0Ezu8E8E3T0XWnjw5Y3Szxv9b-qhDtk4s9BVOGo0pOk4 Shop Acquisition.com](https://www.youtube.com/watch?v=fr78adfAnuA)[![Image 9](https://www.youtube.com/watch?v=fr78adfAnuA) $100M Offers: How To Make Offers So Good People Feel Stupid Saying No (Hardcover) Acquisition.com shop.acquisition.com/products/100m-offers-hardcover?variant=44059582628065&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqEufp44gKvHBV2k_vq1yhjPaHCvbeIq7E_Z6-B89XfeCAWqrjkCPQ Shop Acquisition.com](https://www.youtube.com/watch?v=fr78adfAnuA)[![Image 10](https://www.youtube.com/watch?v=fr78adfAnuA) $100M Leads - Hardcover Edition (Single) Acquisition.com shop.acquisition.com/products/single-hardback?variant=43129007374561&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoomCcBH6UvCXXQnkrihzw0vPXNXsMUtQ3WYbmGdS5kWsgR1Dvm1ELU Shop Acquisition.com](https://www.youtube.com/watch?v=fr78adfAnuA) Explore the podcast [![Image 11](https://www.youtube.com/watch?v=fr78adfAnuA)247 episodes 247 episodes](https://www.youtube.com/playlist?list=PLjkaUn6QNTZTd2rKxXdy-_I0JDHlwdy6j) The Game w/ Alex Hormozi Alex Hormozi [![Image 12](https://www.youtube.com/watch?v=fr78adfAnuA) Podcasts](https://www.youtube.com/podcasts) Transcript Follow along using the transcript. Show transcript [![Image 13](https://www.youtube.com/watch?v=fr78adfAnuA) ### Alex Hormozi 4.14M subscribers](https://www.youtube.com/@AlexHormozi) [Videos](https://www.youtube.com/channel/UCUyDOdBWhC1MCxEjC46d-zw/videos)[About](https://www.youtube.com/channel/UCUyDOdBWhC1MCxEjC46d-zw/about) Show less [](https://www.youtube.com/watch?v=fr78adfAnuA)3 products # How to Use AI in Your Business in 2026 133,837 views 133K views Apr 21, 2026 4.3K Share Save Download Download ## 171 Comments Sort comments Sort by [Top Show featured comments](https://www.youtube.com/watch?v=fr78adfAnuA)[Newest Show recent comments, including potential spam](https://www.youtube.com/watch?v=fr78adfAnuA) ![Image 14: Default profile photo](https://yt3.ggpht.com/a/default-user=s48-c-k-c0x00ffffff-no-rj) Add a comment... ![Image 15](https://yt3.ggpht.com/29XFUn3pc3cC81yUUCFiyCKKdgi856IGMJ4EZBnf53zTfrWWUGvmYnYGx86K08f4XR03UxpWyw=s88-c-k-c0x00ffffff-no-rj) Pinned by @AlexHormozi ### [@AlexHormozi](https://www.youtube.com/@AlexHormozi) [@AlexHormozi @AlexHormozi](https://www.youtube.com/@AlexHormozi)[7 days ago (edited)](https://www.youtube.com/watch?v=fr78adfAnuA&lc=UgwjcjypRcMx7e41zct4AaABAg) Download your free scaling roadmap here: [https://www.acquisition.com/roadmap-yta499](https://www.youtube.com/redirect?event=comments&redir_token=REDACTED&q=https%3A%2F%2Fwww.acquisition.com%2Froadmap-yta499) Show less Read more Like 9 Dislike Reply 3 replies Hide replies 3 replies ![Image 16](https://yt3.ggpht.com/A48qpJFnbpoPUdUjfeOT4aU-iAEauWXSZLKSlMcO5AaiXKqLj9hk22gmi_ZH0ajdfXgrl3Vlqw=s88-c-k-c0x00ffffff-no-rj) ### [@dolphin4788](https://www.youtube.com/@dolphin4788) [7 days ago](https://www.youtube.com/watch?v=fr78adfAnuA&lc=UgxyXNX5vdsN3N5Hjv94AaABAg) We need a technical meta ads video Show less Read more Like 247 Dislike Reply 13 replies Hide replies 13 replies ![Image 17](https://yt3.ggpht.com/QcceMwxQRFfzv2k368eqZKqT9ACAXa69qR_uIQrbHv3LOuwsZxVte-9nRNNXw2ekPzy4bPaz_A=s88-c-k-c0x00ffffff-no-rj",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 133843,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "workflow",
+      "AI automation",
+      "Make"
+    ],
+    "original_language": "en",
+    "raw_text": "YouTube title: How to Use AI in Your Business in 2026\nChannel: Alex Hormozi\nDescription: Download your free scaling roadmap here: https://www.acquisition.com/roadmap-yta499 If you're new to my channel, my name is ...\nTranscript:\nTitle: How to Use AI in Your Business in 2026 description&redir_token=REDACTED&q=https%3A%2F%2Fwww.acquisition.com%2Froadmap-yta499&v=fr78adfAnuA) If you’re new to my channel, my name is Alex Hormozi. I’m the founder and managing partner of Acquisition.com. It’s a fa…...more ...more Alex Hormozi tagged products below.[Learn more](https://www.youtube.com/watch?v=fr78adfAnuA) [![Image 8](https://www.youtube.com/watch?v=fr78adfAnuA) $100M Money Models Hardback Book + VIP Acquisition.com shop.acquisition.com/products/100m-money-models?variant=46471142834401&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqyNdVMK8i0Ezu8E8E3T0XWnjw5Y3Szxv9b-qhDtk4s9BVOGo0pOk4 Shop Acquisition.com](https://www.youtube.com/watch?v=fr78adfAnuA)[![Image 9](https://www.youtube.com/watch?v=fr78adfAnuA) $100M Offers: How To Make Offers So Good People Feel Stupid Saying No (Hardcover) Acquisition.com shop.acquisition.com/products/100m-offers-hardcover?variant=44059582628065&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqEufp44gKvHBV2k_vq1yhjPaHCvbeIq7E_Z6-B89XfeCAWqrjkCPQ Shop Acquisition.com](https://www.youtube.com/watch?v=fr78adfAnuA)[![Image 10](https://www.youtube.com/watch?v=fr78adfAnuA) $100M Leads - Hardcover Edition (Single) Acquisition.com shop.acquisition.com/products/single-hardback?variant=43129007374561&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoomCcBH6UvCXXQnkrihzw0vPXNXsMUtQ3WYbmGdS5kWsgR1Dvm1ELU Shop Acquisition.com](https://www.youtube.com/watch?v=fr78adfAnuA) Explore the podcast [![Image 11](https://www.youtube.com/watch?v=fr78adfAnuA)247 episodes 247 episodes](https://www.youtube.com/playlist?list=PLjkaUn6QNTZTd2rKxXdy-_I0JDHlwdy6j) The Game w/ Alex Hormozi Alex Hormozi [![Image 12](https://www.youtube.com/watch?v=fr78adfAnuA) Podcasts](https://www.youtube.com/podcasts) Transcript Follow along using the transcript. Show transcript [![Image 13](https://www.youtube.com/watch?v=fr78adfAnuA) ### Alex Hormozi 4.14M subscribers](https://www.youtube.com/@AlexHormozi) [Videos](https://www.youtube.com/channel/UCUyDOdBWhC1MCxEjC46d-zw/videos)[About](https://www.youtube.com/channel/UCUyDOdBWhC1MCxEjC46d-zw/about) Show less [](https://www.youtube.com/watch?v=fr78adfAnuA)3 products # How to Use AI in Your Business in 2026 133,837 views 133K views Apr 21, 2026 4.3K Share Save Download Download ## 171 Comments Sort comments Sort by [Top Show featured comments](https://www.youtube.com/watch?v=fr78adfAnuA)[Newest Show recent comments, including potential spam](https://www.youtube.com/watch?v=fr78adfAnuA) ![Image 14: Default profile photo](https://yt3.ggpht.com/a/default-user=s48-c-k-c0x00ffffff-no-rj) Add a comment... ![Image 15](https://yt3.ggpht.com/29XFUn3pc3cC81yUUCFiyCKKdgi856IGMJ4EZBnf53zTfrWWUGvmYnYGx86K08f4XR03UxpWyw=s88-c-k-c0x00ffffff-no-rj) Pinned by @AlexHormozi ### [@AlexHormozi](https://www.youtube.com/@AlexHormozi) [@AlexHormozi @AlexHormozi](https://www.youtube.com/@AlexHormozi)[7 days ago (edited)](https://www.youtube.com/watch?v=fr78adfAnuA&lc=UgwjcjypRcMx7e41zct4AaABAg) Download your free scaling roadmap here: [https://www.acquisition.com/roadmap-yta499](https://www.youtube.com/redirect?event=comments&redir_token=REDACTED&q=https%3A%2F%2Fwww.acquisition.com%2Froadmap-yta499) Show less Read more Like 9 Dislike Reply 3 replies Hide replies 3 replies ![Image 16](https://yt3.ggpht.com/A48qpJFnbpoPUdUjfeOT4aU-iAEauWXSZLKSlMcO5AaiXKqLj9hk22gmi_ZH0ajdfXgrl3Vlqw=s88-c-k-c0x00ffffff-no-rj) ### [@dolphin4788](https://www.youtube.com/@dolphin4788) [7 days ago](https://www.youtube.com/watch?v=fr78adfAnuA&lc=UgxyXNX5vdsN3N5Hjv94AaABAg) We need a technical meta ads video Show less Read more Like 247 Dislike Reply 13 replies Hide replies 13 replies ![Image 17](https://yt3.ggpht.com/QcceMwxQRFfzv2k368eqZKqT9ACAXa69qR_uIQrbHv3LOuwsZxVte-9nRNNXw2ekPzy4bPaz_A=s88-c-k-c0x00ffffff-no-rj",
+    "source_id": "yt-fr78adfAnuA",
+    "source_url": "https://www.youtube.com/watch?v=fr78adfAnuA",
+    "why_it_matters": "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น",
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=fr78adfAnuA",
+      "Keywords: workflow, AI automation, Make",
+      "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+    ],
+    "hook": "อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน",
+    "original_keywords": [
+      "workflow",
+      "AI automation",
+      "Make"
+    ],
+    "original_language": "en",
+    "problem": "หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้",
+    "source_id": "yt-fr78adfAnuA",
+    "source_url": "https://www.youtube.com/watch?v=fr78adfAnuA",
+    "tips": [
+      "จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง",
+      "เลือกงานที่มีกฎชัดที่สุด 1 งาน",
+      "เขียน input/output ที่ต้องการ",
+      "ให้ AI ช่วยทำเช็กลิสต์ก่อนค่อยต่อ automation"
+    ],
+    "trend_angle": "โพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ: YouTube title: How to Use AI in Your Business in 2026 Channel: Alex Hormozi Description: Download your free scaling roadmap here: https://www.acquisition.com/roadmap-yta499 If you're new to my channel, my name is ..."
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public source URLs/X handles in generated images or caption; source attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260429T064338Z-yt-fr78adfAnuA/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้\n\n📌 ทำไมควรเซฟโพสต์นี้: โพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ: YouTube title: How to Use AI in Your Business in 2026 Channel: Alex Hormozi Description: Download your free scaling roadmap here: https://www.acquisition.com/roadmap-yta499 If you're new to my channel, my name is ...\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง\n\n2) ✨ เลือกงานที่มีกฎชัดที่สุด 1 งาน\n\n3) ✨ เขียน input/output ที่ต้องการ\n\n4) ✨ ให้ AI ช่วยทำเช็กลิสต์ก่อนค่อยต่อ automation\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน #AIมือใหม่  เอาไปใช้กับงานจริงได้ทันที"
+  },
+  "status": "planned",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=fr78adfAnuA",
+      "Keywords: workflow, AI automation, Make",
+      "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+    ],
+    "glossary": {
+      "AI automation": "ระบบอัตโนมัติด้วย AI",
+      "Make": "Make",
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "workflow",
+      "AI automation",
+      "Make"
+    ],
+    "source_id": "yt-fr78adfAnuA",
+    "source_url": "https://www.youtube.com/watch?v=fr78adfAnuA",
+    "thai_call_to_action": "วันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น",
+    "thai_hook": "อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน",
+    "thai_problem": "หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้",
+    "thai_tips": [
+      "จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง",
+      "เลือกงานที่มีกฎชัดที่สุด 1 งาน",
+      "เขียน input/output ที่ต้องการ",
+      "ให้ AI ช่วยทำเช็กลิสต์ก่อนค่อยต่อ automation"
+    ],
+    "thai_trend_angle": "โพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ: YouTube title: How to Use AI in Your Business in 2026 Channel: Alex Hormozi Description: Download your free scaling roadmap here: https://www.acquisition.com/roadmap-yta499 If you're new to my channel, my name is ..."
+  }
+}

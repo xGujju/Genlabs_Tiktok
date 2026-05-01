@@ -1,0 +1,269 @@
+{
+  "airtable_record_id": "recf4zzWC6OBZeLaA",
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a97ee59/R0D8hJIfR_GJUnX9ae1UP_rV6lPSKD.png",
+    "https://v3b.fal.media/files/b/0a97ee62/8FV6-MiCQ9LXXylIq8Kf4_g8r9GRh1.png",
+    "https://v3b.fal.media/files/b/0a97ee6d/mekiheeETgYCBxPrhtxQI_Dm8pBPmY.png",
+    "https://v3b.fal.media/files/b/0a97ee74/r4_5VKJgz4JXy6fRkbk1d_lFuPnC0f.png",
+    "https://v3b.fal.media/files/b/0a97ee7e/LeFDdb9IqSGk0IOpx3o6D_CeQgrNug.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 5,
+    "slides": [
+      {
+        "image_prompt": "Create square 1:1 GenLabs Thai handwritten sketchnote carousel slide 1/5. EXACT MAIN THAI TEXT: Claude ไม่ใช่แค่แชต. Visual: Claude chat bubble transforms into automation conveyor belt; terminal window, gear, cute helper robot. Style reference: Thai handwritten sketchnote, light paper/whiteboard, thick imperfect marker lines, rounded cards, arrows, checkmarks, sticky notes, cute robot/helper icons. Small subtle GenLabs logo/brand mark in a corner. IMPORTANT: render ONLY the exact main Thai phrase above; no extra Thai, no random letters, no pseudo-Thai, no URL, no X handle. Make text very large, clean, readable, correctly spelled. White/off-white background; explanatory diagram; not dark/futuristic.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "Claude ไม่ใช่แค่แชต",
+        "visual_direction": "Claude chat bubble transforms into automation conveyor belt; terminal window, gear, cute helper robot"
+      },
+      {
+        "image_prompt": "Create square 1:1 GenLabs Thai handwritten sketchnote carousel slide 2/5. EXACT MAIN THAI TEXT: SDK = สั่งงานผ่าน CLI. Visual: terminal pipeline: input log/code arrow to Claude CLI arrow to result; cute robot in terminal. Style reference: Thai handwritten sketchnote, light paper/whiteboard, thick imperfect marker lines, rounded cards, arrows, checkmarks, sticky notes, cute robot/helper icons. Small subtle GenLabs logo/brand mark in a corner. IMPORTANT: render ONLY the exact main Thai phrase above; no extra Thai, no random letters, no pseudo-Thai, no URL, no X handle. Make text very large, clean, readable, correctly spelled. White/off-white background; explanatory diagram; not dark/futuristic.",
+        "index": 2,
+        "role": "concept",
+        "thai_copy": "SDK = สั่งงานผ่าน CLI",
+        "visual_direction": "terminal pipeline: input log/code arrow to Claude CLI arrow to result; cute robot in terminal"
+      },
+      {
+        "image_prompt": "Create square 1:1 GenLabs Thai handwritten sketchnote carousel slide 3/5. EXACT MAIN THAI TEXT: กำหนดสิทธิ์ให้ชัด. Visual: permission checklist: allowed tools, approve step, lock icon, checkmarks, sandbox. Style reference: Thai handwritten sketchnote, light paper/whiteboard, thick imperfect marker lines, rounded cards, arrows, checkmarks, sticky notes, cute robot/helper icons. Small subtle GenLabs logo/brand mark in a corner. IMPORTANT: render ONLY the exact main Thai phrase above; no extra Thai, no random letters, no pseudo-Thai, no URL, no X handle. Make text very large, clean, readable, correctly spelled. White/off-white background; explanatory diagram; not dark/futuristic.",
+        "index": 3,
+        "role": "safety",
+        "thai_copy": "กำหนดสิทธิ์ให้ชัด",
+        "visual_direction": "permission checklist: allowed tools, approve step, lock icon, checkmarks, sandbox"
+      },
+      {
+        "image_prompt": "Create square 1:1 GenLabs Thai handwritten sketchnote carousel slide 4/5. EXACT MAIN THAI TEXT: Issue → PR อัตโนมัติ. Visual: GitHub issue card arrows to Claude helper then PR card; human review magnifier. Style reference: Thai handwritten sketchnote, light paper/whiteboard, thick imperfect marker lines, rounded cards, arrows, checkmarks, sticky notes, cute robot/helper icons. Small subtle GenLabs logo/brand mark in a corner. IMPORTANT: render ONLY the exact main Thai phrase above; no extra Thai, no random letters, no pseudo-Thai, no URL, no X handle. Make text very large, clean, readable, correctly spelled. White/off-white background; explanatory diagram; not dark/futuristic.",
+        "index": 4,
+        "role": "workflow",
+        "thai_copy": "Issue → PR อัตโนมัติ",
+        "visual_direction": "GitHub issue card arrows to Claude helper then PR card; human review magnifier"
+      },
+      {
+        "image_prompt": "Create square 1:1 GenLabs Thai handwritten sketchnote carousel slide 5/5. EXACT MAIN THAI TEXT: เริ่มจากงานเล็ก. Visual: tiny first-step checklist: sandbox, small file, diff, then action; friendly robot points to sticky note. Style reference: Thai handwritten sketchnote, light paper/whiteboard, thick imperfect marker lines, rounded cards, arrows, checkmarks, sticky notes, cute robot/helper icons. Small subtle GenLabs logo/brand mark in a corner. IMPORTANT: render ONLY the exact main Thai phrase above; no extra Thai, no random letters, no pseudo-Thai, no URL, no X handle. Make text very large, clean, readable, correctly spelled. White/off-white background; explanatory diagram; not dark/futuristic.",
+        "index": 5,
+        "role": "cta",
+        "thai_copy": "เริ่มจากงานเล็ก",
+        "visual_direction": "tiny first-step checklist: sandbox, small file, diff, then action; friendly robot points to sticky note"
+      }
+    ],
+    "source_id": "sig-60-redo-gptimage2-v2",
+    "source_url": "https://x.com/codewithimanshu/status/2047875091174981780",
+    "thai_brief": {
+      "evidence": [
+        "Key facts: headless mode, terminal pipelines, allowed tools, session ID, GitHub Action issue to PR workflow"
+      ],
+      "glossary": {
+        "CI": "ระบบรันงานอัตโนมัติ",
+        "PR": "Pull Request",
+        "headless mode": "โหมดสั่งงานผ่านคำสั่ง"
+      },
+      "original_keywords": [
+        "Claude Code",
+        "Claude Code SDK",
+        "GitHub Action",
+        "AI automation",
+        "pull request",
+        "workflow"
+      ],
+      "source_id": "sig-60-redo-gptimage2-v2",
+      "source_url": "https://x.com/codewithimanshu/status/2047875091174981780",
+      "thai_call_to_action": "เริ่มจากงานเล็ก 1 งาน จำกัดสิทธิ์ ดู diff แล้วค่อยต่อเป็น GitHub Action",
+      "thai_hook": "Claude Code SDK เปลี่ยน Claude จากแชตเป็น automation infrastructure",
+      "thai_problem": "หลายทีมยังใช้ Claude แบบคุยในแชต ทั้งที่งาน dev ซ้ำ ๆ ต่อเป็นระบบอัตโนมัติที่ควบคุมสิทธิ์ได้",
+      "thai_tips": [
+        "เริ่มจาก repo sandbox หรืองานไฟล์เล็ก ๆ",
+        "จำกัด allowed tools ก่อนให้ AI แตะโค้ด",
+        "ใช้ session ID เมื่อต้องจำบริบทข้ามรอบ",
+        "ให้ GitHub Action เปิด PR แล้วคนตรวจ diff ก่อน merge"
+      ],
+      "thai_trend_angle": "หัวใจคือ headless mode ที่ต่อ terminal/CI ได้ ใช้ allowed tools และ session ID คุมบริบท แล้วให้ GitHub Action ช่วยจาก issue ไปเป็น PR ให้คนตรวจ"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "codewithimanshu",
+    "clean_headline": "Claude Code SDK turns Claude from chat into automation infrastructure",
+    "clean_summary": "Claude Code SDK supports headless terminal workflows, controlled allowed tools, permission prompts, session persistence, and GitHub Action PR automation.",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "Claude Code",
+      "Claude Code SDK",
+      "GitHub Action",
+      "AI automation",
+      "pull request",
+      "workflow"
+    ],
+    "original_language": "en",
+    "raw_text": "Claude Code SDK turns Claude from chat into automation infrastructure: headless mode, terminal pipelines, allowed tools, session ID, GitHub Action from issue to PR.",
+    "source_id": "sig-60-redo-gptimage2-v2",
+    "source_url": "https://x.com/codewithimanshu/status/2047875091174981780",
+    "why_it_matters": "Thai builders can start from a small safe automation workflow before building larger AI engineering systems."
+  },
+  "content_brief": {
+    "call_to_action": "เริ่มจากงานเล็ก 1 งาน จำกัดสิทธิ์ ดู diff แล้วค่อยต่อเป็น GitHub Action",
+    "evidence": [
+      "Key facts: headless mode, terminal pipelines, allowed tools, session ID, GitHub Action issue to PR workflow"
+    ],
+    "hook": "Claude Code SDK เปลี่ยน Claude จากแชตเป็น automation infrastructure",
+    "original_keywords": [
+      "Claude Code",
+      "Claude Code SDK",
+      "GitHub Action",
+      "AI automation",
+      "pull request",
+      "workflow"
+    ],
+    "original_language": "en",
+    "problem": "หลายทีมยังใช้ Claude แบบคุยในแชต ทั้งที่งาน dev ซ้ำ ๆ ต่อเป็นระบบอัตโนมัติที่ควบคุมสิทธิ์ได้",
+    "source_id": "sig-60-redo-gptimage2-v2",
+    "source_url": "https://x.com/codewithimanshu/status/2047875091174981780",
+    "tips": [
+      "เริ่มจาก repo sandbox หรืองานไฟล์เล็ก ๆ",
+      "จำกัด allowed tools ก่อนให้ AI แตะโค้ด",
+      "ใช้ session ID เมื่อต้องจำบริบทข้ามรอบ",
+      "ให้ GitHub Action เปิด PR แล้วคนตรวจ diff ก่อน merge"
+    ],
+    "trend_angle": "หัวใจคือ headless mode ที่ต่อ terminal/CI ได้ ใช้ allowed tools และ session ID คุมบริบท แล้วให้ GitHub Action ช่วยจาก issue ไปเป็น PR ให้คนตรวจ"
+  },
+  "feedback_loop": "draft_pending",
+  "generation_method": "FAL GPT Image 2 edit endpoint only",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public source URLs/X handles in generated images or caption; source attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "R0D8hJIfR_GJUnX9ae1UP_rV6lPSKD.png",
+      "height": 816,
+      "image_url": "https://v3b.fal.media/files/b/0a97ee59/R0D8hJIfR_GJUnX9ae1UP_rV6lPSKD.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/sig-60-redo-gptimage2-v2/slide-1.png",
+      "slide_index": 1,
+      "width": 816
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "8FV6-MiCQ9LXXylIq8Kf4_g8r9GRh1.png",
+      "height": 816,
+      "image_url": "https://v3b.fal.media/files/b/0a97ee62/8FV6-MiCQ9LXXylIq8Kf4_g8r9GRh1.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/sig-60-redo-gptimage2-v2/slide-2.png",
+      "slide_index": 2,
+      "width": 816
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "mekiheeETgYCBxPrhtxQI_Dm8pBPmY.png",
+      "height": 816,
+      "image_url": "https://v3b.fal.media/files/b/0a97ee6d/mekiheeETgYCBxPrhtxQI_Dm8pBPmY.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/sig-60-redo-gptimage2-v2/slide-3.png",
+      "slide_index": 3,
+      "width": 816
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "r4_5VKJgz4JXy6fRkbk1d_lFuPnC0f.png",
+      "height": 816,
+      "image_url": "https://v3b.fal.media/files/b/0a97ee74/r4_5VKJgz4JXy6fRkbk1d_lFuPnC0f.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/sig-60-redo-gptimage2-v2/slide-4.png",
+      "slide_index": 4,
+      "width": 816
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "LeFDdb9IqSGk0IOpx3o6D_CeQgrNug.png",
+      "height": 816,
+      "image_url": "https://v3b.fal.media/files/b/0a97ee7e/LeFDdb9IqSGk0IOpx3o6D_CeQgrNug.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/sig-60-redo-gptimage2-v2/slide-5.png",
+      "slide_index": 5,
+      "width": 816
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/sig-60-redo-gptimage2-v2/manifest.json",
+  "old_bad_zernio_draft_not_deleted": "69ef45608b0e026bf9ab3503",
+  "qa_result": {
+    "slides_checked": [
+      1,
+      3,
+      5
+    ],
+    "status": "pass",
+    "summary": "Vision QA passed for slides 1, 3, and 5: readable Thai, light handwritten/sketchnote style, useful diagrams, and small GenLabs brand mark present. No major garbled-text blockers."
+  },
+  "reference_image_urls": [
+    "https://v3b.fal.media/files/b/0a97d701/Vhm1gBXLp8sUVctXuc_P1_6s1m8A9G.png",
+    "https://v3b.fal.media/files/b/0a97d707/3KuQvEv4c6qYuaYdo8vUP_6UMQ5URA.png",
+    "https://v3b.fal.media/files/b/0a97d70e/DOqSvkA3TjiP-aeQXUlw2_Iuqig1c6.png",
+    "https://v3b.fal.media/files/b/0a97dbe2/GiBJZaGOi8h_7Ce2KYB0u_genlabs-logo-light-square.png",
+    "https://v3b.fal.media/files/b/0a97dbe2/npJEnj7Mdsi8qRSLdwXt9_genlabs-logo-dark-square.png"
+  ],
+  "social_post": {
+    "description": "Claude Code SDK ทำให้ Claude ไม่ได้อยู่แค่ในหน้าต่างแชต แต่กลายเป็นผู้ช่วยใน workflow วิศวกรรมซอฟต์แวร์ได้\n\nจำแกนหลัก 4 อย่าง:\n1) headless mode: สั่งงานผ่าน CLI/terminal ได้\n2) terminal pipelines: ส่ง log/code เข้าไปให้ช่วยวิเคราะห์\n3) allowed tools: จำกัดสิทธิ์ก่อนให้แตะไฟล์หรือโค้ด\n4) session ID + GitHub Action: จำบริบท แล้วช่วยจาก issue ไปเป็น PR ให้คนตรวจ\n\nเริ่มแบบปลอดภัย: ใช้ repo sandbox → งานไฟล์เล็ก → จำกัด tools → ดู diff → ค่อยต่อ GitHub Action\n\nเซฟไว้เป็น checklist ก่อนทดลอง automation งาน dev งานแรกของคุณ",
+    "hashtags": [
+      "#GenLabsTH",
+      "#ClaudeCode",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "Claude Code SDK: จากแชตสู่ระบบอัตโนมัติ #AIมือใหม่"
+  },
+  "square_slide_verification": "file command verified all 5 local PNG slides are 816 x 816 square images",
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Key facts: headless mode, terminal pipelines, allowed tools, session ID, GitHub Action issue to PR workflow"
+    ],
+    "glossary": {
+      "CI": "ระบบรันงานอัตโนมัติ",
+      "PR": "Pull Request",
+      "headless mode": "โหมดสั่งงานผ่านคำสั่ง"
+    },
+    "original_keywords": [
+      "Claude Code",
+      "Claude Code SDK",
+      "GitHub Action",
+      "AI automation",
+      "pull request",
+      "workflow"
+    ],
+    "source_id": "sig-60-redo-gptimage2-v2",
+    "source_url": "https://x.com/codewithimanshu/status/2047875091174981780",
+    "thai_call_to_action": "เริ่มจากงานเล็ก 1 งาน จำกัดสิทธิ์ ดู diff แล้วค่อยต่อเป็น GitHub Action",
+    "thai_hook": "Claude Code SDK เปลี่ยน Claude จากแชตเป็น automation infrastructure",
+    "thai_problem": "หลายทีมยังใช้ Claude แบบคุยในแชต ทั้งที่งาน dev ซ้ำ ๆ ต่อเป็นระบบอัตโนมัติที่ควบคุมสิทธิ์ได้",
+    "thai_tips": [
+      "เริ่มจาก repo sandbox หรืองานไฟล์เล็ก ๆ",
+      "จำกัด allowed tools ก่อนให้ AI แตะโค้ด",
+      "ใช้ session ID เมื่อต้องจำบริบทข้ามรอบ",
+      "ให้ GitHub Action เปิด PR แล้วคนตรวจ diff ก่อน merge"
+    ],
+    "thai_trend_angle": "หัวใจคือ headless mode ที่ต่อ terminal/CI ได้ ใช้ allowed tools และ session ID คุมบริบท แล้วให้ GitHub Action ช่วยจาก issue ไปเป็น PR ให้คนตรวจ"
+  },
+  "zernio_draft_id": "69ef519605ac30c44b521965",
+  "zernio_response_summary": {
+    "post": {
+      "_id": "69ef519605ac30c44b521965",
+      "status": "draft"
+    }
+  },
+  "zernio_safety": {
+    "hashtags_count": 5,
+    "isDraft": true,
+    "old_bad_zernio_draft_not_deleted": "69ef45608b0e026bf9ab3503",
+    "publishNow_present": false,
+    "scheduledFor_present": false,
+    "tiktokSettings.draft": true
+  }
+}

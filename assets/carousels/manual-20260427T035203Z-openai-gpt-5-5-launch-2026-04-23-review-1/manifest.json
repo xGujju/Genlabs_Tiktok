@@ -1,0 +1,229 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a97e2f0/mLJ-bcSDS6x05fae0PNzX_2RKXyKFj.png",
+    "https://v3b.fal.media/files/b/0a97e2f8/8GgvD5MGvuBq-BOnWP-Wt_wb2LDEbg.png",
+    "https://v3b.fal.media/files/b/0a97e303/7mVZEAULYZdalVyWf2mIN_5Bdz9gUz.png",
+    "https://v3b.fal.media/files/b/0a97e30b/6p4TVTRsl39hVHkHoX4Gn_XbW2ARZd.png",
+    "https://v3b.fal.media/files/b/0a97e313/qbZORMFqaz4idZTctE4Yh_bQkJgspm.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 5,
+    "slides": [
+      {
+        "image_prompt": "Target endpoint: openai/gpt-image-2/edit\nBrand: GenLabs AI Learning\nFormat: square 1:1 social media carousel slide for TikTok, 1024x1024 composition, hand-drawn Thai sketchnote educational style.\nArt direction: white background, thick marker-like lines, colorful rounded boxes, cute robot/icon illustrations, arrows, badges, checkmarks, simple mini-diagrams.\nBalance approximately 50% graphics and 50% useful Thai text; make it feel like a valuable mini-lesson, not just decoration.\nHook/CTA slides may be more visual; middle teaching slides should include concrete tips, steps, frameworks, or examples directly on the slide.\nPlace a small GenLabs logo/brand mark from the provided references in a corner or footer; keep it subtle and never oversized.\nReadable text density: headline plus short teaching bullets/labels, no dense paragraphs.\nThai text must be readable, short, correctly spelled, high-contrast, and mobile-first.\nDo not invent facts beyond the provided source context.\nDo not add engagement analytics, feedback-loop metrics, or fake UI dashboards.\nSource URL for context only: https://openai.com/index/introducing-gpt-5-5/\nOriginal trend keywords to preserve conceptually: GPT-5.5, ChatGPT, OpenAI, agentic AI, AI workflow, beginner AI, AIช่วยทำงาน\nSlide role: hook\nExact Thai copy to place on slide: GPT-5.5 มาแล้ว\nมือใหม่ควรเริ่มยังไง?\nVisual direction: big friendly headline, beginner badge, cute AI helper robot, simple ChatGPT-style card, Thai mobile-readable\nStyle: colorful marker-drawn Thai education poster, useful teaching hierarchy, mobile-readable 50/50 text-and-graphics carousel.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "GPT-5.5 มาแล้ว\nมือใหม่ควรเริ่มยังไง?",
+        "visual_direction": "big friendly headline, beginner badge, cute AI helper robot, simple ChatGPT-style card, Thai mobile-readable"
+      },
+      {
+        "image_prompt": "Target endpoint: openai/gpt-image-2/edit\nBrand: GenLabs AI Learning\nFormat: square 1:1 social media carousel slide for TikTok, 1024x1024 composition, hand-drawn Thai sketchnote educational style.\nArt direction: white background, thick marker-like lines, colorful rounded boxes, cute robot/icon illustrations, arrows, badges, checkmarks, simple mini-diagrams.\nBalance approximately 50% graphics and 50% useful Thai text; make it feel like a valuable mini-lesson, not just decoration.\nHook/CTA slides may be more visual; middle teaching slides should include concrete tips, steps, frameworks, or examples directly on the slide.\nPlace a small GenLabs logo/brand mark from the provided references in a corner or footer; keep it subtle and never oversized.\nReadable text density: headline plus short teaching bullets/labels, no dense paragraphs.\nThai text must be readable, short, correctly spelled, high-contrast, and mobile-first.\nDo not invent facts beyond the provided source context.\nDo not add engagement analytics, feedback-loop metrics, or fake UI dashboards.\nSource URL for context only: https://openai.com/index/introducing-gpt-5-5/\nOriginal trend keywords to preserve conceptually: GPT-5.5, ChatGPT, OpenAI, agentic AI, AI workflow, beginner AI, AIช่วยทำงาน\nSlide role: problem\nExact Thai copy to place on slide: อย่าเริ่มจาก ‘ลองเล่น’\nให้เริ่มจากงานจริง 1 งาน\nVisual direction: split screen: confused person reading AI news vs clear small task checklist, icons for shop/content/document\nStyle: colorful marker-drawn Thai education poster, useful teaching hierarchy, mobile-readable 50/50 text-and-graphics carousel.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "อย่าเริ่มจาก ‘ลองเล่น’\nให้เริ่มจากงานจริง 1 งาน",
+        "visual_direction": "split screen: confused person reading AI news vs clear small task checklist, icons for shop/content/document"
+      },
+      {
+        "image_prompt": "Target endpoint: openai/gpt-image-2/edit\nBrand: GenLabs AI Learning\nFormat: square 1:1 social media carousel slide for TikTok, 1024x1024 composition, hand-drawn Thai sketchnote educational style.\nArt direction: white background, thick marker-like lines, colorful rounded boxes, cute robot/icon illustrations, arrows, badges, checkmarks, simple mini-diagrams.\nBalance approximately 50% graphics and 50% useful Thai text; make it feel like a valuable mini-lesson, not just decoration.\nHook/CTA slides may be more visual; middle teaching slides should include concrete tips, steps, frameworks, or examples directly on the slide.\nPlace a small GenLabs logo/brand mark from the provided references in a corner or footer; keep it subtle and never oversized.\nReadable text density: headline plus short teaching bullets/labels, no dense paragraphs.\nThai text must be readable, short, correctly spelled, high-contrast, and mobile-first.\nDo not invent facts beyond the provided source context.\nDo not add engagement analytics, feedback-loop metrics, or fake UI dashboards.\nSource URL for context only: https://openai.com/index/introducing-gpt-5-5/\nOriginal trend keywords to preserve conceptually: GPT-5.5, ChatGPT, OpenAI, agentic AI, AI workflow, beginner AI, AIช่วยทำงาน\nSlide role: framework\nExact Thai copy to place on slide: สูตรใช้ GPT-5.5\nเป้าหมาย → บริบท → ตัวอย่าง → ขั้นตอน → ตรวจแก้\nVisual direction: five-step flow diagram with arrows and checkmarks, beginner-friendly labels, save-worthy checklist layout\nStyle: colorful marker-drawn Thai education poster, useful teaching hierarchy, mobile-readable 50/50 text-and-graphics carousel.",
+        "index": 3,
+        "role": "framework",
+        "thai_copy": "สูตรใช้ GPT-5.5\nเป้าหมาย → บริบท → ตัวอย่าง → ขั้นตอน → ตรวจแก้",
+        "visual_direction": "five-step flow diagram with arrows and checkmarks, beginner-friendly labels, save-worthy checklist layout"
+      },
+      {
+        "image_prompt": "Target endpoint: openai/gpt-image-2/edit\nBrand: GenLabs AI Learning\nFormat: square 1:1 social media carousel slide for TikTok, 1024x1024 composition, hand-drawn Thai sketchnote educational style.\nArt direction: white background, thick marker-like lines, colorful rounded boxes, cute robot/icon illustrations, arrows, badges, checkmarks, simple mini-diagrams.\nBalance approximately 50% graphics and 50% useful Thai text; make it feel like a valuable mini-lesson, not just decoration.\nHook/CTA slides may be more visual; middle teaching slides should include concrete tips, steps, frameworks, or examples directly on the slide.\nPlace a small GenLabs logo/brand mark from the provided references in a corner or footer; keep it subtle and never oversized.\nReadable text density: headline plus short teaching bullets/labels, no dense paragraphs.\nThai text must be readable, short, correctly spelled, high-contrast, and mobile-first.\nDo not invent facts beyond the provided source context.\nDo not add engagement analytics, feedback-loop metrics, or fake UI dashboards.\nSource URL for context only: https://openai.com/index/introducing-gpt-5-5/\nOriginal trend keywords to preserve conceptually: GPT-5.5, ChatGPT, OpenAI, agentic AI, AI workflow, beginner AI, AIช่วยทำงาน\nSlide role: examples\nExact Thai copy to place on slide: ตัวอย่างงานที่เริ่มได้วันนี้\nแคปชั่นสินค้า • สรุปเอกสาร • ไอเดียคอนเทนต์ • แผนโพสต์\nVisual direction: four rounded cards showing online shop, document, content calendar, product photo, practical Thai examples\nStyle: colorful marker-drawn Thai education poster, useful teaching hierarchy, mobile-readable 50/50 text-and-graphics carousel.",
+        "index": 4,
+        "role": "examples",
+        "thai_copy": "ตัวอย่างงานที่เริ่มได้วันนี้\nแคปชั่นสินค้า • สรุปเอกสาร • ไอเดียคอนเทนต์ • แผนโพสต์",
+        "visual_direction": "four rounded cards showing online shop, document, content calendar, product photo, practical Thai examples"
+      },
+      {
+        "image_prompt": "Target endpoint: openai/gpt-image-2/edit\nBrand: GenLabs AI Learning\nFormat: square 1:1 social media carousel slide for TikTok, 1024x1024 composition, hand-drawn Thai sketchnote educational style.\nArt direction: white background, thick marker-like lines, colorful rounded boxes, cute robot/icon illustrations, arrows, badges, checkmarks, simple mini-diagrams.\nBalance approximately 50% graphics and 50% useful Thai text; make it feel like a valuable mini-lesson, not just decoration.\nHook/CTA slides may be more visual; middle teaching slides should include concrete tips, steps, frameworks, or examples directly on the slide.\nPlace a small GenLabs logo/brand mark from the provided references in a corner or footer; keep it subtle and never oversized.\nReadable text density: headline plus short teaching bullets/labels, no dense paragraphs.\nThai text must be readable, short, correctly spelled, high-contrast, and mobile-first.\nDo not invent facts beyond the provided source context.\nDo not add engagement analytics, feedback-loop metrics, or fake UI dashboards.\nSource URL for context only: https://openai.com/index/introducing-gpt-5-5/\nOriginal trend keywords to preserve conceptually: GPT-5.5, ChatGPT, OpenAI, agentic AI, AI workflow, beginner AI, AIช่วยทำงาน\nSlide role: cta\nExact Thai copy to place on slide: เซฟไว้ลองทำ\nเลือกงานเล็ก 1 งาน แล้วให้ AI ช่วยทีละขั้น\nVisual direction: final save/share CTA, checklist with one task today, GenLabs logo footer, warm helpful educational tone\nStyle: colorful marker-drawn Thai education poster, useful teaching hierarchy, mobile-readable 50/50 text-and-graphics carousel.",
+        "index": 5,
+        "role": "cta",
+        "thai_copy": "เซฟไว้ลองทำ\nเลือกงานเล็ก 1 งาน แล้วให้ AI ช่วยทีละขั้น",
+        "visual_direction": "final save/share CTA, checklist with one task today, GenLabs logo footer, warm helpful educational tone"
+      }
+    ],
+    "source_id": "openai-gpt-5-5-launch-2026-04-23-review-1",
+    "source_url": "https://openai.com/index/introducing-gpt-5-5/",
+    "thai_brief": {
+      "evidence": [
+        "OpenAI announced GPT-5.5 on Apr 23, 2026",
+        "API availability update Apr 24, 2026"
+      ],
+      "glossary": {
+        "agentic AI": "AI ที่ช่วยวางแผนและทำงานหลายขั้นตอน",
+        "workflow": "ขั้นตอนการทำงาน"
+      },
+      "original_keywords": [
+        "GPT-5.5",
+        "ChatGPT",
+        "OpenAI",
+        "agentic AI",
+        "AI workflow",
+        "beginner AI",
+        "AIช่วยทำงาน"
+      ],
+      "source_id": "openai-gpt-5-5-launch-2026-04-23-review-1",
+      "source_url": "https://openai.com/index/introducing-gpt-5-5/",
+      "thai_call_to_action": "เซฟโพสต์นี้ แล้วลองให้ GPT-5.5 ช่วยงานเล็ก ๆ 1 งานวันนี้",
+      "thai_hook": "GPT-5.5 มาแล้ว: มือใหม่ควรเริ่มตรงไหน?",
+      "thai_problem": "หลายคนเห็นข่าว ChatGPT รุ่นใหม่แล้วตื่นเต้น แต่ยังไม่รู้ว่าจะเอาไปช่วยงานจริงยังไง",
+      "thai_tips": [
+        "เริ่มจากงานเดียวก่อน เช่น เขียนแคปชั่นสินค้า สรุปเอกสาร หรือคิดไอเดียคอนเทนต์",
+        "บอก AI ให้ชัดว่าเป้าหมายคืออะไร กลุ่มเป้าหมายคือใคร และอยากได้ผลลัพธ์รูปแบบไหน",
+        "ใช้สูตร: เป้าหมาย → บริบท → ตัวอย่าง → ขั้นตอน → ตรวจแก้",
+        "ให้ AI ช่วยทำทีละรอบ แล้วถามต่อว่า ‘มีจุดไหนที่ควรปรับให้ง่ายขึ้นไหม’",
+        "ตรวจข้อมูลสำคัญก่อนใช้จริง โดยเฉพาะตัวเลข ราคา กฎหมาย สุขภาพ หรือคำกล่าวอ้างใหญ่ ๆ"
+      ],
+      "thai_trend_angle": "จุดสำคัญคือ GPT-5.5 ถูกออกแบบให้ช่วยทำงานหลายขั้นตอนมากขึ้น เช่น วางแผน ใช้เครื่องมือ ตรวจงาน และทำงานต่อเนื่องจนเสร็จ"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "openai",
+    "clean_headline": "OpenAI เปิดตัว GPT-5.5: จากแชตบอตสู่ผู้ช่วยทำงานจริง",
+    "clean_summary": "GPT-5.5 เน้นทำงานหลายขั้นตอน ใช้เครื่องมือ ตรวจงาน และช่วยคนทั่วไปเริ่มเอา AI ไปใช้กับงานประจำวันได้ง่ายขึ้น",
+    "metrics_snapshot": {},
+    "original_keywords": [
+      "GPT-5.5",
+      "ChatGPT",
+      "OpenAI",
+      "agentic AI",
+      "AI workflow",
+      "beginner AI",
+      "AIช่วยทำงาน"
+    ],
+    "original_language": "en",
+    "raw_text": "OpenAI announced GPT-5.5 on Apr 23, 2026. The model is described as smarter and more intuitive, stronger at agentic coding, computer use, knowledge work, online research, data analysis, documents, spreadsheets, operating software, and carrying messy multi-part tasks. OpenAI says GPT-5.5 and GPT-5.5 Pro rolled out to ChatGPT/Codex users, with API availability updated Apr 24, 2026.",
+    "source_id": "openai-gpt-5-5-launch-2026-04-23-review-1",
+    "source_url": "https://openai.com/index/introducing-gpt-5-5/",
+    "why_it_matters": "เหมาะกับคอนเทนต์ beginner-friendly เพราะคนไทยจำนวนมากยังไม่รู้ว่าควรใช้โมเดลใหม่กับงานจริงอย่างไร"
+  },
+  "content_brief": {
+    "call_to_action": "เซฟไว้ แล้วลองใช้ GPT-5.5 กับงานเล็ก ๆ 1 งานวันนี้",
+    "evidence": [
+      "OpenAI announced GPT-5.5 on Apr 23, 2026",
+      "API availability update Apr 24, 2026"
+    ],
+    "hook": "GPT-5.5 มาแล้ว: มือใหม่ควรเริ่มใช้ยังไง?",
+    "original_keywords": [
+      "GPT-5.5",
+      "ChatGPT",
+      "OpenAI",
+      "agentic AI",
+      "AI workflow",
+      "beginner AI",
+      "AIช่วยทำงาน"
+    ],
+    "original_language": "en",
+    "problem": "หลายคนเห็นข่าวโมเดลใหม่แล้วตื่นเต้น แต่ไม่รู้ว่าจะเอาไปช่วยงานจริงตรงไหน",
+    "source_id": "openai-gpt-5-5-launch-2026-04-23-review-1",
+    "source_url": "https://openai.com/index/introducing-gpt-5-5/",
+    "tips": [
+      "เริ่มจากงานเดียวก่อน เช่น เขียนแคปชั่น สรุปเอกสาร หรือวางแผนโพสต์",
+      "บอกเป้าหมาย บริบท และรูปแบบคำตอบที่ต้องการให้ชัด",
+      "ให้ AI ทำเป็นขั้นตอน: วิเคราะห์ → เสนอแผน → ทำตัวอย่าง → ตรวจแก้",
+      "อย่าเชื่อทันที ให้ตรวจข้อมูล ตัวเลข และคำแนะนำก่อนใช้งานจริง"
+    ],
+    "trend_angle": "GPT-5.5 สำคัญเพราะมันถูกวางให้ช่วยทำงานเป็นขั้นตอนมากขึ้น ไม่ใช่แค่ตอบคำถามสั้น ๆ"
+  },
+  "feedback_loop": "deferred",
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "mLJ-bcSDS6x05fae0PNzX_2RKXyKFj.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a97e2f0/mLJ-bcSDS6x05fae0PNzX_2RKXyKFj.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/manual-20260427T035203Z-openai-gpt-5-5-launch-2026-04-23-review-1/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "8GgvD5MGvuBq-BOnWP-Wt_wb2LDEbg.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a97e2f8/8GgvD5MGvuBq-BOnWP-Wt_wb2LDEbg.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/manual-20260427T035203Z-openai-gpt-5-5-launch-2026-04-23-review-1/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "7mVZEAULYZdalVyWf2mIN_5Bdz9gUz.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a97e303/7mVZEAULYZdalVyWf2mIN_5Bdz9gUz.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/manual-20260427T035203Z-openai-gpt-5-5-launch-2026-04-23-review-1/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "6p4TVTRsl39hVHkHoX4Gn_XbW2ARZd.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a97e30b/6p4TVTRsl39hVHkHoX4Gn_XbW2ARZd.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/manual-20260427T035203Z-openai-gpt-5-5-launch-2026-04-23-review-1/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "qbZORMFqaz4idZTctE4Yh_bQkJgspm.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a97e313/qbZORMFqaz4idZTctE4Yh_bQkJgspm.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/manual-20260427T035203Z-openai-gpt-5-5-launch-2026-04-23-review-1/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/manual-20260427T035203Z-openai-gpt-5-5-launch-2026-04-23-review-1/manifest.json",
+  "social_post": {
+    "description": "เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\nไอเดียหลัก: หลายคนเห็นข่าว ChatGPT รุ่นใหม่แล้วตื่นเต้น แต่ยังไม่รู้ว่าจะเอาไปช่วยงานจริงยังไง\n\nทำไมควรเซฟโพสต์นี้: จุดสำคัญคือ GPT-5.5 ถูกออกแบบให้ช่วยทำงานหลายขั้นตอนมากขึ้น เช่น วางแผน ใช้เครื่องมือ ตรวจงาน และทำงานต่อเนื่องจนเสร็จ\n\nวิธีเอาไปใช้แบบง่าย ๆ:\n\n1) เริ่มจากงานเดียวก่อน เช่น เขียนแคปชั่นสินค้า สรุปเอกสาร หรือคิดไอเดียคอนเทนต์\n\n2) บอก AI ให้ชัดว่าเป้าหมายคืออะไร กลุ่มเป้าหมายคือใคร และอยากได้ผลลัพธ์รูปแบบไหน\n\n3) ใช้สูตร: เป้าหมาย → บริบท → ตัวอย่าง → ขั้นตอน → ตรวจแก้\n\n4) ให้ AI ช่วยทำทีละรอบ แล้วถามต่อว่า ‘มีจุดไหนที่ควรปรับให้ง่ายขึ้นไหม’\n\nตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\nสูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\nถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\nเซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\nติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI",
+      "#AIช่วยทำงาน",
+      "#เพิ่มประสิทธิภาพ",
+      "#ChatGPTภาษาไทย"
+    ],
+    "title": "GPT-5.5 มาแล้ว: มือใหม่ควรเริ่มตรงไหน?"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "OpenAI announced GPT-5.5 on Apr 23, 2026",
+      "API availability update Apr 24, 2026"
+    ],
+    "glossary": {
+      "agentic AI": "AI ที่ช่วยวางแผนและทำงานหลายขั้นตอน",
+      "workflow": "ขั้นตอนการทำงาน"
+    },
+    "original_keywords": [
+      "GPT-5.5",
+      "ChatGPT",
+      "OpenAI",
+      "agentic AI",
+      "AI workflow",
+      "beginner AI",
+      "AIช่วยทำงาน"
+    ],
+    "source_id": "openai-gpt-5-5-launch-2026-04-23-review-1",
+    "source_url": "https://openai.com/index/introducing-gpt-5-5/",
+    "thai_call_to_action": "เซฟโพสต์นี้ แล้วลองให้ GPT-5.5 ช่วยงานเล็ก ๆ 1 งานวันนี้",
+    "thai_hook": "GPT-5.5 มาแล้ว: มือใหม่ควรเริ่มตรงไหน?",
+    "thai_problem": "หลายคนเห็นข่าว ChatGPT รุ่นใหม่แล้วตื่นเต้น แต่ยังไม่รู้ว่าจะเอาไปช่วยงานจริงยังไง",
+    "thai_tips": [
+      "เริ่มจากงานเดียวก่อน เช่น เขียนแคปชั่นสินค้า สรุปเอกสาร หรือคิดไอเดียคอนเทนต์",
+      "บอก AI ให้ชัดว่าเป้าหมายคืออะไร กลุ่มเป้าหมายคือใคร และอยากได้ผลลัพธ์รูปแบบไหน",
+      "ใช้สูตร: เป้าหมาย → บริบท → ตัวอย่าง → ขั้นตอน → ตรวจแก้",
+      "ให้ AI ช่วยทำทีละรอบ แล้วถามต่อว่า ‘มีจุดไหนที่ควรปรับให้ง่ายขึ้นไหม’",
+      "ตรวจข้อมูลสำคัญก่อนใช้จริง โดยเฉพาะตัวเลข ราคา กฎหมาย สุขภาพ หรือคำกล่าวอ้างใหญ่ ๆ"
+    ],
+    "thai_trend_angle": "จุดสำคัญคือ GPT-5.5 ถูกออกแบบให้ช่วยทำงานหลายขั้นตอนมากขึ้น เช่น วางแผน ใช้เครื่องมือ ตรวจงาน และทำงานต่อเนื่องจนเสร็จ"
+  }
+}

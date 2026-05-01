@@ -1,0 +1,184 @@
+{
+  "asset_urls": [],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 7,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/7 role=hook. Thai copy: 8 วิธีใช้ ChatGPT ให้ทำงานออฟฟิศเร็วขึ้น\nprompt • Make. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "8 วิธีใช้ ChatGPT ให้ทำงานออฟฟิศเร็วขึ้น\nprompt • Make",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/7 role=problem. Thai copy: ปัญหา: หลายคนใช้ ChatGPT แค่ถามตอบทั่วไป ทั้งที่งานเอกสาร ประชุม แผนงาน และ brief สามารถย่นเวลาได้มาก. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: หลายคนใช้ ChatGPT แค่ถามตอบทั่วไป ทั้งที่งานเอกสาร ประชุม แผนงาน และ brief สามารถย่นเวลาได้มาก",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/7 role=trend. Thai copy: ทำไมควรสนใจ:\nวิดีโอแนว productivity ชนะเพราะให้ use case ที่คนทำงานเอาไปลองได้ทันที: YouTube title: Top 8 ChatGPT Productivity. Visual direction: trend explainer with source-media-inspired layout, keyword chips, practical-use badge, balanced text and icons. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nวิดีโอแนว productivity ชนะเพราะให้ use case ที่คนทำงานเอาไปลองได้ทันที: YouTube title: Top 8 ChatGPT Productivity",
+        "visual_direction": "trend explainer with source-media-inspired layout, keyword chips, practical-use badge, balanced text and icons"
+      },
+      {
+        "image_prompt": "Slide 4/7 role=tips. Thai copy: ลองใช้แบบนี้:\n1) ให้ ChatGPT ช่วยร่าง self-review จากผลงานจริง\n2) สร้าง onboarding plan ให้พนักงานใหม่\n3) เปลี่ยนโน้ตประชุมเป็น project brief\n4) ขอ 3 เวอร์ชัน: สั้น กลาง ละเอียด แล้วเลือกใช้. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) ให้ ChatGPT ช่วยร่าง self-review จากผลงานจริง\n2) สร้าง onboarding plan ให้พนักงานใหม่\n3) เปลี่ยนโน้ตประชุมเป็น project brief\n4) ขอ 3 เวอร์ชัน: สั้น กลาง ละเอียด แล้วเลือกใช้",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/7 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/7 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\n5) เลือกงานจริง 1 งาน แล้วให้ AI ช่วยทีละขั้น\n6) เลือกงานจริง 1 งาน แล้วให้ AI ช่วยทีละขั้น. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\n5) เลือกงานจริง 1 งาน แล้วให้ AI ช่วยทีละขั้น\n6) เลือกงานจริง 1 งาน แล้วให้ AI ช่วยทีละขั้น",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/7 role=cta. Thai copy: ลองวันนี้:\nวันนี้เลือกงานเอกสาร 1 ชิ้น แล้วให้ ChatGPT ทำ draft แรกให้ก่อน. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้เลือกงานเอกสาร 1 ชิ้น แล้วให้ ChatGPT ทำ draft แรกให้ก่อน",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "yt-Q07rFZtc2Ao",
+    "source_url": "https://www.youtube.com/watch?v=Q07rFZtc2Ao",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://www.youtube.com/watch?v=Q07rFZtc2Ao",
+        "Keywords: prompt, Make",
+        "This is trending because people can copy the workflow immediately instead of only reading AI news."
+      ],
+      "glossary": {
+        "Make": "Make",
+        "prompt": "พรอมป์ต์"
+      },
+      "original_keywords": [
+        "prompt",
+        "Make"
+      ],
+      "source_id": "yt-Q07rFZtc2Ao",
+      "source_url": "https://www.youtube.com/watch?v=Q07rFZtc2Ao",
+      "thai_call_to_action": "วันนี้เลือกงานเอกสาร 1 ชิ้น แล้วให้ ChatGPT ทำ draft แรกให้ก่อน",
+      "thai_hook": "8 วิธีใช้ ChatGPT ให้ทำงานออฟฟิศเร็วขึ้น",
+      "thai_problem": "หลายคนใช้ ChatGPT แค่ถามตอบทั่วไป ทั้งที่งานเอกสาร ประชุม แผนงาน และ brief สามารถย่นเวลาได้มาก",
+      "thai_tips": [
+        "ให้ ChatGPT ช่วยร่าง self-review จากผลงานจริง",
+        "สร้าง onboarding plan ให้พนักงานใหม่",
+        "เปลี่ยนโน้ตประชุมเป็น project brief",
+        "ขอ 3 เวอร์ชัน: สั้น กลาง ละเอียด แล้วเลือกใช้"
+      ],
+      "thai_trend_angle": "วิดีโอแนว productivity ชนะเพราะให้ use case ที่คนทำงานเอาไปลองได้ทันที: YouTube title: Top 8 ChatGPT Productivity Tips for Work!"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "Jeff Su",
+    "clean_headline": "YouTube title: Top 8 ChatGPT Productivity Tips for Work!",
+    "clean_summary": "YouTube title: Top 8 ChatGPT Productivity Tips for Work! Channel: Jeff Su Transcript: Title: Top 8 ChatGPT Productivity Tips for Work! description&redir_token=REDACTED&q=https%3A%2F%2Facademy.jeffsu.org%2Fai-toolkit%3Futm_source%3Dyoutube%26utm_medium%3Dvideo%26utm_campaign%3D136&v=Q07rFZtc2Ao) 🖥️You can make a copy of the 8 ChatGPT prompts here: [https://www.jeffsu.org/top-8-chatgpt-...](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fwww.jeffsu.org%2Ftop-8-chatgpt-productivity-tips-for-work%2F&v=Q07rFZtc2Ao)…...more ...more ## Chapters View all [![Image 8](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### Real Footage of ChatGPT at Work #### Real Footage of ChatGPT at Work 0:00](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### [Real Footage of ChatGPT at Work](https://www.youtube.com/watch?v=Q07rFZtc2Ao) 0:00 [![Image 9](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### ChatGPT to write Self-Evaluation #### ChatGPT to write Self-Evaluation 0:34](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=34s) #### [ChatGPT to write Self-Evaluation](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=34s) 0:34 [![Image 10](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### Create an Onboarding Plan for New Hires #### Create an Onboarding Plan for New Hires 1:36](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=96s&pp=0gcJCREDDuyUWbzu) #### [Create an Onboarding Plan for New Hires](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=96s&pp=0gcJCREDDuyUWbzu) 1:36 [![Image 11](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### Generate High Quality Project Briefs #### Generate High Quality Project Briefs 2:31](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=151s) #### [Generate High Quality Project Briefs](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=151s) 2:31 [![Image 12](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### ChatGPT to Analyze Feedback #### ChatGPT to Analyze Feedback 3:39](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=219s) #### [ChatGPT to Analyze Feedback](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=219s) 3:39 [![Image 13](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### Prepare Amazing Presentations #### Prepare Amazing Presentations 5:07](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=307s) #### [Prepare Amazing Presentations](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=307s) 5:07 [![Image 14](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### ChatGPT to Prepare Social Media Posts #### ChatGPT to Prepare Social Media Posts 6:36](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=396s) #### [ChatGPT to Prepare Social Media Posts](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=396s) 6:36 [![Image 15](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### Convert to Full-Time Employee #### Convert to Full-Time Employee 7:29](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=449s) #### [Convert to Full-Time Employee](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=449s) 7:29 Transcript Follow along using the transcript. Show transcript [![Image 16](https://www.youtube.com/watch?v=Q07rFZtc2Ao) ### Jeff Su 1.7M subscribers](https://www.youtube.com/@JeffSu) [Videos](https://www.youtube.com/channel/UCwAnu01qlnVg1Ai2AbtTMaA/videos)[About](https://www.youtube.com/channel/UCwAnu01qlnVg1Ai2AbtTMaA/about)[![Image 17](https://www.youtube.com/watch?v=Q07rFZtc2Ao) Follow me on Instagram](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=REDACTED&q=https%3A%2F%2Fwww.instagram.com%2Fj.sushie%2F)[![Image 18](https://www.youtube.com/watch?v=Q07rFZtc2Ao) Let's Connect on LinkedIn](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=REDACTED&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjsu05%2F) Show less [](https://www.youtube.com/hashtag/productivity)[#productivity](https://www.youtube.com/hashtag/productivity)[#chatgp ## Chapters View all [![Image 8](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### Real Footage of ChatGPT at Work #### Real Footage of ChatGPT at Work 0:00](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### [Real Footage of ChatGPT at Work](https://www.youtube.com/watch?v=Q07rFZtc2Ao) 0:00 [![Image 9](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### ChatGPT to write Self-Evaluation #### ChatGPT to write Self-Evaluation 0:34](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=34s) #### [ChatGPT to write Self-Evaluation](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=34s) 0:34 [![Image 10](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### Create an Onboarding Plan for New Hires #### Create an Onboarding Plan for New Hires 1:36](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=96s&pp=0gcJCREDDuyUWbzu) #### [Create an Onboarding Plan for New Hires](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=96s&pp=0gcJCREDDuyUWbzu) 1:36 [![Image 11](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### Generate High Quality Project Briefs #### Generate High Quality Project Briefs 2:31](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=151s) #### [Generate High Quality Project Briefs](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=151s) 2:31 [![Image 12](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### ChatGPT to Analyze Feedback #### ChatGPT to Analyze Feedback 3:39](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=219s) #### [ChatGPT to Analyze Feedback](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=219s) 3:39 [![Image 13](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### Prepare Amazing Presentations #### Prepare Amazing Presentations 5:07](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=307s) #### [Prepare Amazing Presentations](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=307s) 5:07 [![Image 14](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### ChatGPT to Prepare Social Media Posts #### ChatGPT to Prepare Social Media Posts 6:36](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=396s) #### [ChatGPT to Prepare Social Media Posts](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=396s) 6:36 [![Image 15](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### Convert to Full-Time Employee #### Convert to Full-Time Employee 7:29](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=449s) #### [Convert to Full-Time Employee](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=449s) 7:29 Transcript Follow along using the transcript. Show transcript [![Image 16](https://www.youtube.com/watch?v=Q07rFZtc2Ao) ### Jeff Su 1.7M subscribers](https://www.youtube.com/@JeffSu) [Videos](https://www.youtube.com/channel/UCwAnu01qlnVg1Ai2AbtTMaA/videos)[About](https://www.youtube.com/channel/UCwAnu01qlnVg1Ai2AbtTMaA/about)[![Image 17](https://www.youtube.com/watch?v=Q07rFZtc2Ao) Follow me on Instagram](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=REDACTED",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "prompt",
+      "Make"
+    ],
+    "original_language": "en",
+    "raw_text": "YouTube title: Top 8 ChatGPT Productivity Tips for Work!\nChannel: Jeff Su\nTranscript:\nTitle: Top 8 ChatGPT Productivity Tips for Work! description&redir_token=REDACTED&q=https%3A%2F%2Facademy.jeffsu.org%2Fai-toolkit%3Futm_source%3Dyoutube%26utm_medium%3Dvideo%26utm_campaign%3D136&v=Q07rFZtc2Ao) 🖥️You can make a copy of the 8 ChatGPT prompts here: [https://www.jeffsu.org/top-8-chatgpt-...](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fwww.jeffsu.org%2Ftop-8-chatgpt-productivity-tips-for-work%2F&v=Q07rFZtc2Ao)…...more ...more ## Chapters View all [![Image 8](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### Real Footage of ChatGPT at Work #### Real Footage of ChatGPT at Work 0:00](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### [Real Footage of ChatGPT at Work](https://www.youtube.com/watch?v=Q07rFZtc2Ao) 0:00 [![Image 9](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### ChatGPT to write Self-Evaluation #### ChatGPT to write Self-Evaluation 0:34](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=34s) #### [ChatGPT to write Self-Evaluation](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=34s) 0:34 [![Image 10](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### Create an Onboarding Plan for New Hires #### Create an Onboarding Plan for New Hires 1:36](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=96s&pp=0gcJCREDDuyUWbzu) #### [Create an Onboarding Plan for New Hires](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=96s&pp=0gcJCREDDuyUWbzu) 1:36 [![Image 11](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### Generate High Quality Project Briefs #### Generate High Quality Project Briefs 2:31](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=151s) #### [Generate High Quality Project Briefs](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=151s) 2:31 [![Image 12](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### ChatGPT to Analyze Feedback #### ChatGPT to Analyze Feedback 3:39](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=219s) #### [ChatGPT to Analyze Feedback](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=219s) 3:39 [![Image 13](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### Prepare Amazing Presentations #### Prepare Amazing Presentations 5:07](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=307s) #### [Prepare Amazing Presentations](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=307s) 5:07 [![Image 14](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### ChatGPT to Prepare Social Media Posts #### ChatGPT to Prepare Social Media Posts 6:36](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=396s) #### [ChatGPT to Prepare Social Media Posts](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=396s) 6:36 [![Image 15](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### Convert to Full-Time Employee #### Convert to Full-Time Employee 7:29](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=449s) #### [Convert to Full-Time Employee](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=449s) 7:29 Transcript Follow along using the transcript. Show transcript [![Image 16](https://www.youtube.com/watch?v=Q07rFZtc2Ao) ### Jeff Su 1.7M subscribers](https://www.youtube.com/@JeffSu) [Videos](https://www.youtube.com/channel/UCwAnu01qlnVg1Ai2AbtTMaA/videos)[About](https://www.youtube.com/channel/UCwAnu01qlnVg1Ai2AbtTMaA/about)[![Image 17](https://www.youtube.com/watch?v=Q07rFZtc2Ao) Follow me on Instagram](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=REDACTED&q=https%3A%2F%2Fwww.instagram.com%2Fj.sushie%2F)[![Image 18](https://www.youtube.com/watch?v=Q07rFZtc2Ao) Let's Connect on LinkedIn](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=REDACTED&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjsu05%2F) Show less [](https://www.youtube.com/hashtag/productivity)[#productivity](https://www.youtube.com/hashtag/productivity)[#chatgp ## Chapters View all [![Image 8](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### Real Footage of ChatGPT at Work #### Real Footage of ChatGPT at Work 0:00](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### [Real Footage of ChatGPT at Work](https://www.youtube.com/watch?v=Q07rFZtc2Ao) 0:00 [![Image 9](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### ChatGPT to write Self-Evaluation #### ChatGPT to write Self-Evaluation 0:34](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=34s) #### [ChatGPT to write Self-Evaluation](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=34s) 0:34 [![Image 10](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### Create an Onboarding Plan for New Hires #### Create an Onboarding Plan for New Hires 1:36](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=96s&pp=0gcJCREDDuyUWbzu) #### [Create an Onboarding Plan for New Hires](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=96s&pp=0gcJCREDDuyUWbzu) 1:36 [![Image 11](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### Generate High Quality Project Briefs #### Generate High Quality Project Briefs 2:31](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=151s) #### [Generate High Quality Project Briefs](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=151s) 2:31 [![Image 12](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### ChatGPT to Analyze Feedback #### ChatGPT to Analyze Feedback 3:39](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=219s) #### [ChatGPT to Analyze Feedback](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=219s) 3:39 [![Image 13](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### Prepare Amazing Presentations #### Prepare Amazing Presentations 5:07](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=307s) #### [Prepare Amazing Presentations](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=307s) 5:07 [![Image 14](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### ChatGPT to Prepare Social Media Posts #### ChatGPT to Prepare Social Media Posts 6:36](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=396s) #### [ChatGPT to Prepare Social Media Posts](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=396s) 6:36 [![Image 15](https://www.youtube.com/watch?v=Q07rFZtc2Ao) #### Convert to Full-Time Employee #### Convert to Full-Time Employee 7:29](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=449s) #### [Convert to Full-Time Employee](https://www.youtube.com/watch?v=Q07rFZtc2Ao&t=449s) 7:29 Transcript Follow along using the transcript. Show transcript [![Image 16](https://www.youtube.com/watch?v=Q07rFZtc2Ao) ### Jeff Su 1.7M subscribers](https://www.youtube.com/@JeffSu) [Videos](https://www.youtube.com/channel/UCwAnu01qlnVg1Ai2AbtTMaA/videos)[About](https://www.youtube.com/channel/UCwAnu01qlnVg1Ai2AbtTMaA/about)[![Image 17](https://www.youtube.com/watch?v=Q07rFZtc2Ao) Follow me on Instagram](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=REDACTED",
+    "source_id": "yt-Q07rFZtc2Ao",
+    "source_url": "https://www.youtube.com/watch?v=Q07rFZtc2Ao",
+    "why_it_matters": "This is trending because people can copy the workflow immediately instead of only reading AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้เลือกงานเอกสาร 1 ชิ้น แล้วให้ ChatGPT ทำ draft แรกให้ก่อน",
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=Q07rFZtc2Ao",
+      "Keywords: prompt, Make",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "hook": "8 วิธีใช้ ChatGPT ให้ทำงานออฟฟิศเร็วขึ้น",
+    "original_keywords": [
+      "prompt",
+      "Make"
+    ],
+    "original_language": "en",
+    "problem": "หลายคนใช้ ChatGPT แค่ถามตอบทั่วไป ทั้งที่งานเอกสาร ประชุม แผนงาน และ brief สามารถย่นเวลาได้มาก",
+    "source_id": "yt-Q07rFZtc2Ao",
+    "source_url": "https://www.youtube.com/watch?v=Q07rFZtc2Ao",
+    "tips": [
+      "ให้ ChatGPT ช่วยร่าง self-review จากผลงานจริง",
+      "สร้าง onboarding plan ให้พนักงานใหม่",
+      "เปลี่ยนโน้ตประชุมเป็น project brief",
+      "ขอ 3 เวอร์ชัน: สั้น กลาง ละเอียด แล้วเลือกใช้"
+    ],
+    "trend_angle": "วิดีโอแนว productivity ชนะเพราะให้ use case ที่คนทำงานเอาไปลองได้ทันที: YouTube title: Top 8 ChatGPT Productivity Tips for Work!"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public source URLs/X handles in generated images or caption; source attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/youtube-pilot-jeffsu-dryrun/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: หลายคนใช้ ChatGPT แค่ถามตอบทั่วไป ทั้งที่งานเอกสาร ประชุม แผนงาน และ brief สามารถย่นเวลาได้มาก\n\n📌 ทำไมควรเซฟโพสต์นี้: วิดีโอแนว productivity ชนะเพราะให้ use case ที่คนทำงานเอาไปลองได้ทันที: YouTube title: Top 8 ChatGPT Productivity Tips for Work!\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ ให้ ChatGPT ช่วยร่าง self-review จากผลงานจริง\n\n2) ✨ สร้าง onboarding plan ให้พนักงานใหม่\n\n3) ✨ เปลี่ยนโน้ตประชุมเป็น project brief\n\n4) ✨ ขอ 3 เวอร์ชัน: สั้น กลาง ละเอียด แล้วเลือกใช้\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#พร้อมท์ไทย"
+    ],
+    "title": "8 วิธีใช้ ChatGPT ให้ทำงานออฟฟิศเร็วขึ้น #AIมือใหม่  เอาไปใช้กับงานจริงได้ทันที"
+  },
+  "status": "planned",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=Q07rFZtc2Ao",
+      "Keywords: prompt, Make",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "glossary": {
+      "Make": "Make",
+      "prompt": "พรอมป์ต์"
+    },
+    "original_keywords": [
+      "prompt",
+      "Make"
+    ],
+    "source_id": "yt-Q07rFZtc2Ao",
+    "source_url": "https://www.youtube.com/watch?v=Q07rFZtc2Ao",
+    "thai_call_to_action": "วันนี้เลือกงานเอกสาร 1 ชิ้น แล้วให้ ChatGPT ทำ draft แรกให้ก่อน",
+    "thai_hook": "8 วิธีใช้ ChatGPT ให้ทำงานออฟฟิศเร็วขึ้น",
+    "thai_problem": "หลายคนใช้ ChatGPT แค่ถามตอบทั่วไป ทั้งที่งานเอกสาร ประชุม แผนงาน และ brief สามารถย่นเวลาได้มาก",
+    "thai_tips": [
+      "ให้ ChatGPT ช่วยร่าง self-review จากผลงานจริง",
+      "สร้าง onboarding plan ให้พนักงานใหม่",
+      "เปลี่ยนโน้ตประชุมเป็น project brief",
+      "ขอ 3 เวอร์ชัน: สั้น กลาง ละเอียด แล้วเลือกใช้"
+    ],
+    "thai_trend_angle": "วิดีโอแนว productivity ชนะเพราะให้ use case ที่คนทำงานเอาไปลองได้ทันที: YouTube title: Top 8 ChatGPT Productivity Tips for Work!"
+  }
+}

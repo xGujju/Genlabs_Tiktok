@@ -1,0 +1,184 @@
+{
+  "asset_urls": [],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 7,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/7 role=hook. Thai copy: อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน\nworkflow • AI automation. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน\nworkflow • AI automation",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/7 role=problem. Thai copy: ปัญหา: หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/7 role=trend. Thai copy: ทำไมควรสนใจ:\nโพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ: YouTube title: AI Workflow Automation. Visual direction: trend explainer with source-media-inspired layout, keyword chips, practical-use badge, balanced text and icons. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nโพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ: YouTube title: AI Workflow Automation",
+        "visual_direction": "trend explainer with source-media-inspired layout, keyword chips, practical-use badge, balanced text and icons"
+      },
+      {
+        "image_prompt": "Slide 4/7 role=tips. Thai copy: ลองใช้แบบนี้:\n1) จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง\n2) เลือกงานที่มีกฎชัดที่สุด 1 งาน\n3) เขียน input/output ที่ต้องการ\n4) ให้ AI ช่วยทำเช็กลิสต์ก่อนค่อยต่อ automation. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง\n2) เลือกงานที่มีกฎชัดที่สุด 1 งาน\n3) เขียน input/output ที่ต้องการ\n4) ให้ AI ช่วยทำเช็กลิสต์ก่อนค่อยต่อ automation",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/7 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/7 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\n5) เลือกงานจริง 1 งาน แล้วให้ AI ช่วยทีละขั้น\n6) เลือกงานจริง 1 งาน แล้วให้ AI ช่วยทีละขั้น. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\n5) เลือกงานจริง 1 งาน แล้วให้ AI ช่วยทีละขั้น\n6) เลือกงานจริง 1 งาน แล้วให้ AI ช่วยทีละขั้น",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/7 role=cta. Thai copy: ลองวันนี้:\nวันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "yt-Rfa6b3PG41U",
+    "source_url": "https://www.youtube.com/watch?v=Rfa6b3PG41U",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://www.youtube.com/watch?v=Rfa6b3PG41U",
+        "Keywords: workflow, AI automation",
+        "This is trending because people can copy the workflow immediately instead of only reading AI news."
+      ],
+      "glossary": {
+        "AI automation": "ระบบอัตโนมัติด้วย AI",
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "workflow",
+        "AI automation"
+      ],
+      "source_id": "yt-Rfa6b3PG41U",
+      "source_url": "https://www.youtube.com/watch?v=Rfa6b3PG41U",
+      "thai_call_to_action": "วันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น",
+      "thai_hook": "อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน",
+      "thai_problem": "หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้",
+      "thai_tips": [
+        "จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง",
+        "เลือกงานที่มีกฎชัดที่สุด 1 งาน",
+        "เขียน input/output ที่ต้องการ",
+        "ให้ AI ช่วยทำเช็กลิสต์ก่อนค่อยต่อ automation"
+      ],
+      "thai_trend_angle": "โพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ: YouTube title: AI Workflow Automation Tools for Small Business 2026 Guide Channel: AI Pro Studios Description: AI workflow automation tools for small business — a plain-English guide to automating repetitive tasks and sa"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "AI Pro Studios",
+    "clean_headline": "YouTube title: AI Workflow Automation Tools for Small Business 2026 Guide Channel: AI Pro Studios Description: AI workflow automation tools for small business — a plain-English guide to automating repetitive tasks and sa",
+    "clean_summary": "YouTube title: AI Workflow Automation Tools for Small Business 2026 Guide Channel: AI Pro Studios Description: AI workflow automation tools for small business — a plain-English guide to automating repetitive tasks and saving hours every ... Transcript: Title: AI Workflow Automation Tools for Small Business 2026 Guide Description AI Workflow Automation Tools for Small Business 2026 Guide 0 Likes 1 Views 48m Ago AI workflow automation tools for small business — a plain-English guide to automating repetitive tasks and saving hours every week in 2026. [https://www.aiprostudios.com/ai-busin...](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fwww.aiprostudios.com%2Fai-business-tools%2Fai-workflow-automation-tools%2F&v=Rfa6b3PG41U) Explore AI Pro Studios: [https://www.aiprostudios.com/](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fwww.aiprostudios.com%2F&v=Rfa6b3PG41U) CHAPTERS: [0:00](https://www.youtube.com/watch?v=Rfa6b3PG41U) The problem with manual work [0:22](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=22s) What AI workflow automation actually is [0:45](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=45s) How it works for small businesses [1:08](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=68s) How to start automating today [1:30](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=90s) Where to learn more [#AIWorkflowAutomation](https://www.youtube.com/hashtag/aiworkflowautomation)[#AIBusiness](https://www.youtube.com/hashtag/aibusiness)[#AITools](https://www.youtube.com/hashtag/aitools)[#SmallBusiness](https://www.youtube.com/hashtag/smallbusiness)[#AIProStudios](https://www.youtube.com/hashtag/aiprostudios)…...more ...more Show less How this was made Altered or synthetic content Sound or visuals were significantly edited or digitally generated. [Learn more](https://support.google.com/youtube/answer/15447836?hl=en) ## Chapters View all [![Image 22](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### The problem with manual work #### The problem with manual work 0:00](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### [The problem with manual work](https://www.youtube.com/watch?v=Rfa6b3PG41U) 0:00 [![Image 23](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### What AI workflow automation actually is #### What AI workflow automation actually is 0:22](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=22s) #### [What AI workflow automation actually is](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=22s) 0:22 [![Image 24](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### How it works for small businesses #### How it works for small businesses 0:45](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=45s) #### [How it works for small businesses](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=45s) 0:45 [![Image 25](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### How to start automating today #### How to start automating today 1:08](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=68s) #### [How to start automating today](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=68s) 1:08 Transcript Follow along using the transcript. Show transcript [![Image 26](https://www.youtube.com/watch?v=Rfa6b3PG41U) ### AI Pro Studios 3 subscribers](https://www.youtube.com/@aiprostudios) [Videos](https://www.youtube.com/channel/UCnoUePGSwIsc1nh3ec0kheA/videos)[About](https://www.youtube.com/channel/UCnoUePGSwIsc1nh3ec0kheA/about) ## Transcript NaN / NaN [![Image 27](https://i.ytimg.com/vi/pzaq_vltAiA/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYZSBJKFYwDw==&rs=AOn4CLCxDLTxUVxVG1QIpCfGWPP0Qw0FLw) 2:22:22](https://www.youtube.com/watch?v=pzaq_vltAiA) ![Image 28](https://www.youtube.com/watch?v=Rfa6b3PG41U) ### [Light Pink Aura Screen 🌸 | Pink Ombre Background & Screensaver for Study & Sleep No Sound Wallpaper](https://www.youtube.com/watch?v=pzaq_vltAiA) Pink World Station 55K views • 2 months ago [![Image 29](https://i.ytimg.com/vi/XssFuBIQvvw/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYXCATKH8wDw==&rs=AOn4CLCYNXtn8hlogM5wdoUEhENSfQPZYg) 1:06:34](https://www.youtube.com/watch?v=XssFuBIQvvw) ![Image 30](https://www.youtube.com/watch?v=Rfa6b3PG41U) ### [60 Minutes LED Lights | Euphoria Inspired Mood Lights](https://www.youtube.com/watch?v=XssFuBIQvv ## Chapters View all [![Image 10](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### The problem with manual work #### The problem with manual work 0:00](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### [The problem with manual work](https://www.youtube.com/watch?v=Rfa6b3PG41U) 0:00 [![Image 11](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### What AI workflow automation actually is #### What AI workflow automation actually is 0:22](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=22s) #### [What AI workflow automation actually is](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=22s) 0:22 [![Image 12](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### How it works for small businesses #### How it works for small businesses 0:45](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=45s) #### [How it works for small businesses](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=45s) 0:45 [![Image 13](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### How to start automating today #### How to start automating today 1:08](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=68s) #### [How to start automating today](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=68s) 1:08 [![Image 14](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### Where to learn more #### Where to learn more 1:30](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=90s) #### [Where to learn more](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=90s) 1:30 Transcript Follow along using the transcript. Show transcript [![Image 15](https://www.youtube.com/watch?v=Rfa6b3PG41U) ### AI Pro Studios 3 subscribers](https://www.youtube.com/@aiprostudios) [Videos](https://www.youtube.com/channel/UCnoUePGSwIsc1nh3ec0kheA/videos)[About](https://www.youtube.com/channel/UCnoUePGSwIsc1nh3ec0kheA/about) Show less [](https://www.youtube.com/hashtag/aiworkflowautomation)[#AIWorkflowAutomation](https://www.youtube.com/hashtag/aiworkflowautomation)[#AIBusiness](https://www.youtube.com/hashtag/aibusiness)[#AITools](https://www.youtube.com/hashtag/aitools) # AI Workflow Automation Tools for Small Business 2026 Guide 1 view Apr 28, 2026 0 Share Save Download Download ## 0 Comments Sort comments Sort by [Top Show featured comments](https://www.youtube.com/watch?v=Rfa6b3PG41U)[Newest Show recent comments, including potential spam](https://www.youtube.com/watch?v=Rfa6b3PG41U) ![Image 16: Default profile photo](https://yt3.ggpht.com/a/default-user=s48-c-k-c0x00ffffff-no-rj) Add a comment... ## Comments [Top Show featured comments](https://www.youtube.com/watch?v=Rfa6b3PG41U)[Newest Show recent comments, including potential spam](https://www.youtube.com/watch?v=Rfa6b3PG41U) ## In this video Chapters Transcript ## Chapters [![Image 17](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### The problem with manual work #### The problem with manual work 0:00](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### [The problem with manual work](https://www.youtube.com/watch?v=Rfa6b3PG41U) 0:00 [![Image 18](ht",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 1,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "workflow",
+      "AI automation"
+    ],
+    "original_language": "en",
+    "raw_text": "YouTube title: AI Workflow Automation Tools for Small Business 2026 Guide\nChannel: AI Pro Studios\nDescription: AI workflow automation tools for small business — a plain-English guide to automating repetitive tasks and saving hours every ...\nTranscript:\nTitle: AI Workflow Automation Tools for Small Business 2026 Guide Description AI Workflow Automation Tools for Small Business 2026 Guide 0 Likes 1 Views 48m Ago AI workflow automation tools for small business — a plain-English guide to automating repetitive tasks and saving hours every week in 2026. [https://www.aiprostudios.com/ai-busin...](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fwww.aiprostudios.com%2Fai-business-tools%2Fai-workflow-automation-tools%2F&v=Rfa6b3PG41U) Explore AI Pro Studios: [https://www.aiprostudios.com/](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fwww.aiprostudios.com%2F&v=Rfa6b3PG41U) CHAPTERS: [0:00](https://www.youtube.com/watch?v=Rfa6b3PG41U) The problem with manual work [0:22](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=22s) What AI workflow automation actually is [0:45](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=45s) How it works for small businesses [1:08](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=68s) How to start automating today [1:30](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=90s) Where to learn more [#AIWorkflowAutomation](https://www.youtube.com/hashtag/aiworkflowautomation)[#AIBusiness](https://www.youtube.com/hashtag/aibusiness)[#AITools](https://www.youtube.com/hashtag/aitools)[#SmallBusiness](https://www.youtube.com/hashtag/smallbusiness)[#AIProStudios](https://www.youtube.com/hashtag/aiprostudios)…...more ...more Show less How this was made Altered or synthetic content Sound or visuals were significantly edited or digitally generated. [Learn more](https://support.google.com/youtube/answer/15447836?hl=en) ## Chapters View all [![Image 22](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### The problem with manual work #### The problem with manual work 0:00](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### [The problem with manual work](https://www.youtube.com/watch?v=Rfa6b3PG41U) 0:00 [![Image 23](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### What AI workflow automation actually is #### What AI workflow automation actually is 0:22](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=22s) #### [What AI workflow automation actually is](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=22s) 0:22 [![Image 24](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### How it works for small businesses #### How it works for small businesses 0:45](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=45s) #### [How it works for small businesses](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=45s) 0:45 [![Image 25](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### How to start automating today #### How to start automating today 1:08](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=68s) #### [How to start automating today](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=68s) 1:08 Transcript Follow along using the transcript. Show transcript [![Image 26](https://www.youtube.com/watch?v=Rfa6b3PG41U) ### AI Pro Studios 3 subscribers](https://www.youtube.com/@aiprostudios) [Videos](https://www.youtube.com/channel/UCnoUePGSwIsc1nh3ec0kheA/videos)[About](https://www.youtube.com/channel/UCnoUePGSwIsc1nh3ec0kheA/about) ## Transcript NaN / NaN [![Image 27](https://i.ytimg.com/vi/pzaq_vltAiA/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYZSBJKFYwDw==&rs=AOn4CLCxDLTxUVxVG1QIpCfGWPP0Qw0FLw) 2:22:22](https://www.youtube.com/watch?v=pzaq_vltAiA) ![Image 28](https://www.youtube.com/watch?v=Rfa6b3PG41U) ### [Light Pink Aura Screen 🌸 | Pink Ombre Background & Screensaver for Study & Sleep No Sound Wallpaper](https://www.youtube.com/watch?v=pzaq_vltAiA) Pink World Station 55K views • 2 months ago [![Image 29](https://i.ytimg.com/vi/XssFuBIQvvw/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYXCATKH8wDw==&rs=AOn4CLCYNXtn8hlogM5wdoUEhENSfQPZYg) 1:06:34](https://www.youtube.com/watch?v=XssFuBIQvvw) ![Image 30](https://www.youtube.com/watch?v=Rfa6b3PG41U) ### [60 Minutes LED Lights | Euphoria Inspired Mood Lights](https://www.youtube.com/watch?v=XssFuBIQvv ## Chapters View all [![Image 10](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### The problem with manual work #### The problem with manual work 0:00](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### [The problem with manual work](https://www.youtube.com/watch?v=Rfa6b3PG41U) 0:00 [![Image 11](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### What AI workflow automation actually is #### What AI workflow automation actually is 0:22](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=22s) #### [What AI workflow automation actually is](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=22s) 0:22 [![Image 12](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### How it works for small businesses #### How it works for small businesses 0:45](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=45s) #### [How it works for small businesses](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=45s) 0:45 [![Image 13](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### How to start automating today #### How to start automating today 1:08](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=68s) #### [How to start automating today](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=68s) 1:08 [![Image 14](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### Where to learn more #### Where to learn more 1:30](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=90s) #### [Where to learn more](https://www.youtube.com/watch?v=Rfa6b3PG41U&t=90s) 1:30 Transcript Follow along using the transcript. Show transcript [![Image 15](https://www.youtube.com/watch?v=Rfa6b3PG41U) ### AI Pro Studios 3 subscribers](https://www.youtube.com/@aiprostudios) [Videos](https://www.youtube.com/channel/UCnoUePGSwIsc1nh3ec0kheA/videos)[About](https://www.youtube.com/channel/UCnoUePGSwIsc1nh3ec0kheA/about) Show less [](https://www.youtube.com/hashtag/aiworkflowautomation)[#AIWorkflowAutomation](https://www.youtube.com/hashtag/aiworkflowautomation)[#AIBusiness](https://www.youtube.com/hashtag/aibusiness)[#AITools](https://www.youtube.com/hashtag/aitools) # AI Workflow Automation Tools for Small Business 2026 Guide 1 view Apr 28, 2026 0 Share Save Download Download ## 0 Comments Sort comments Sort by [Top Show featured comments](https://www.youtube.com/watch?v=Rfa6b3PG41U)[Newest Show recent comments, including potential spam](https://www.youtube.com/watch?v=Rfa6b3PG41U) ![Image 16: Default profile photo](https://yt3.ggpht.com/a/default-user=s48-c-k-c0x00ffffff-no-rj) Add a comment... ## Comments [Top Show featured comments](https://www.youtube.com/watch?v=Rfa6b3PG41U)[Newest Show recent comments, including potential spam](https://www.youtube.com/watch?v=Rfa6b3PG41U) ## In this video Chapters Transcript ## Chapters [![Image 17](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### The problem with manual work #### The problem with manual work 0:00](https://www.youtube.com/watch?v=Rfa6b3PG41U) #### [The problem with manual work](https://www.youtube.com/watch?v=Rfa6b3PG41U) 0:00 [![Image 18](ht",
+    "source_id": "yt-Rfa6b3PG41U",
+    "source_url": "https://www.youtube.com/watch?v=Rfa6b3PG41U",
+    "why_it_matters": "This is trending because people can copy the workflow immediately instead of only reading AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น",
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=Rfa6b3PG41U",
+      "Keywords: workflow, AI automation",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "hook": "อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน",
+    "original_keywords": [
+      "workflow",
+      "AI automation"
+    ],
+    "original_language": "en",
+    "problem": "หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้",
+    "source_id": "yt-Rfa6b3PG41U",
+    "source_url": "https://www.youtube.com/watch?v=Rfa6b3PG41U",
+    "tips": [
+      "จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง",
+      "เลือกงานที่มีกฎชัดที่สุด 1 งาน",
+      "เขียน input/output ที่ต้องการ",
+      "ให้ AI ช่วยทำเช็กลิสต์ก่อนค่อยต่อ automation"
+    ],
+    "trend_angle": "โพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ: YouTube title: AI Workflow Automation Tools for Small Business 2026 Guide Channel: AI Pro Studios Description: AI workflow automation tools for small business — a plain-English guide to automating repetitive tasks and sa"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public source URLs/X handles in generated images or caption; source attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/youtube-pilot-dryrun/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้\n\n📌 ทำไมควรเซฟโพสต์นี้: โพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ: YouTube title: AI Workflow Automation Tools for Small Business 2026 Guide Channel: AI Pro Studios Description: AI workflow automation tools for small business — a plain-English guide to automating repetitive tasks and sa\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง\n\n2) ✨ เลือกงานที่มีกฎชัดที่สุด 1 งาน\n\n3) ✨ เขียน input/output ที่ต้องการ\n\n4) ✨ ให้ AI ช่วยทำเช็กลิสต์ก่อนค่อยต่อ automation\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน #AIมือใหม่  เอาไปใช้กับงานจริงได้ทันที"
+  },
+  "status": "planned",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=Rfa6b3PG41U",
+      "Keywords: workflow, AI automation",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "glossary": {
+      "AI automation": "ระบบอัตโนมัติด้วย AI",
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "workflow",
+      "AI automation"
+    ],
+    "source_id": "yt-Rfa6b3PG41U",
+    "source_url": "https://www.youtube.com/watch?v=Rfa6b3PG41U",
+    "thai_call_to_action": "วันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น",
+    "thai_hook": "อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน",
+    "thai_problem": "หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้",
+    "thai_tips": [
+      "จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง",
+      "เลือกงานที่มีกฎชัดที่สุด 1 งาน",
+      "เขียน input/output ที่ต้องการ",
+      "ให้ AI ช่วยทำเช็กลิสต์ก่อนค่อยต่อ automation"
+    ],
+    "thai_trend_angle": "โพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ: YouTube title: AI Workflow Automation Tools for Small Business 2026 Guide Channel: AI Pro Studios Description: AI workflow automation tools for small business — a plain-English guide to automating repetitive tasks and sa"
+  }
+}

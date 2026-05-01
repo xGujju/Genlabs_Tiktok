@@ -1,0 +1,254 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a980ad8/NLYzyO1ziBU5WD9oopJfX_hkEtuX9C.png",
+    "https://v3b.fal.media/files/b/0a980ae0/lgeXw3s3SSHhsg61pEIBx_IdiQYC9P.png",
+    "https://v3b.fal.media/files/b/0a980aea/XEaG4YXkUPHadMxFcF8tD_W04oekFe.png",
+    "https://v3b.fal.media/files/b/0a980af4/Lkq_pTMRqHG6ZcLR5ch2S_kclmGOQN.png",
+    "https://v3b.fal.media/files/b/0a980b00/D_7nK1cUmyktafNEULapl_dQgaLWVS.png",
+    "https://v3b.fal.media/files/b/0a980b09/LHCxxhCLnNYh0teezWVg__xA9cp8ZN.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 7,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/6 role=hook. Exact Thai copy: หาเงินด้วย AI:\nสรุปเอกสารเป็น 1 หน้า. Visual direction: long document shrinking into one-page executive brief. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "หาเงินด้วย AI:\nสรุปเอกสารเป็น 1 หน้า",
+        "visual_direction": "long document shrinking into one-page executive brief"
+      },
+      {
+        "image_prompt": "Slide 2/6 role=problem. Exact Thai copy: ลูกค้าไม่มีเวลาอ่าน\nรายงาน • ประชุม • Feedback. Visual direction: busy business owner surrounded by long papers. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ลูกค้าไม่มีเวลาอ่าน\nรายงาน • ประชุม • Feedback",
+        "visual_direction": "busy business owner surrounded by long papers"
+      },
+      {
+        "image_prompt": "Slide 3/6 role=offer. Exact Thai copy: ขายผลลัพธ์:\nสรุปผู้บริหาร\nAction list\nRisk ที่ต้องระวัง. Visual direction: one-page brief with three highlighted sections. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 3,
+        "role": "offer",
+        "thai_copy": "ขายผลลัพธ์:\nสรุปผู้บริหาร\nAction list\nRisk ที่ต้องระวัง",
+        "visual_direction": "one-page brief with three highlighted sections"
+      },
+      {
+        "image_prompt": "Slide 4/6 role=workflow. Exact Thai copy: ขั้นตอน:\nลบข้อมูลส่วนตัว → สรุป → ตรวจความถูกต้อง → จัดหน้า. Visual direction: privacy shield then summary document pipeline. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 4,
+        "role": "workflow",
+        "thai_copy": "ขั้นตอน:\nลบข้อมูลส่วนตัว → สรุป → ตรวจความถูกต้อง → จัดหน้า",
+        "visual_direction": "privacy shield then summary document pipeline"
+      },
+      {
+        "image_prompt": "Slide 5/6 role=prompt. Exact Thai copy: Prompt:\nสรุป 5 ประเด็น\nสิ่งที่ต้องทำ\nความเสี่ยง. Visual direction: prompt card and checklist. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 5,
+        "role": "prompt",
+        "thai_copy": "Prompt:\nสรุป 5 ประเด็น\nสิ่งที่ต้องทำ\nความเสี่ยง",
+        "visual_direction": "prompt card and checklist"
+      },
+      {
+        "image_prompt": "Slide 6/6 role=cta. Exact Thai copy: ลองวันนี้:\nทำ Portfolio\nสรุป 1 หน้า. Visual direction: portfolio folder with one-page examples. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 6,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nทำ Portfolio\nสรุป 1 หน้า",
+        "visual_direction": "portfolio folder with one-page examples"
+      }
+    ],
+    "source_id": "ai-money-document-summary-service-20260428",
+    "source_url": "internal://genlabs/ai-money/document-summary-service",
+    "thai_brief": {
+      "evidence": [
+        "Internal GenLabs educational content plan",
+        "Action-based Thai AI money-making lesson"
+      ],
+      "glossary": {
+        "AIช่วยทำงาน": "AIช่วยทำงาน",
+        "one-page brief": "one-page brief",
+        "สรุปเอกสาร": "สรุปเอกสาร",
+        "เจ้าของธุรกิจ": "เจ้าของธุรกิจ"
+      },
+      "original_keywords": [
+        "AIช่วยทำงาน",
+        "สรุปเอกสาร",
+        "one-page brief",
+        "เจ้าของธุรกิจ"
+      ],
+      "source_id": "ai-money-document-summary-service-20260428",
+      "source_url": "internal://genlabs/ai-money/document-summary-service",
+      "thai_call_to_action": "ฝึกกับบทความยาว 1 ชิ้น แล้วทำ portfolio สรุป 1 หน้า",
+      "thai_hook": "ใช้ AI เปลี่ยนเอกสารยาว ๆ เป็นสรุปที่เจ้าของธุรกิจใช้ได้",
+      "thai_problem": "เจ้าของธุรกิจและทีมเล็กไม่มีเวลาอ่านเอกสารยาว รายงาน ประชุม หรือ feedback ลูกค้าทั้งหมด",
+      "thai_tips": [
+        "รับไฟล์แล้วลบข้อมูลส่วนตัวก่อนใช้ AI",
+        "ให้ AI สรุป 5 ประเด็นหลักและ action list",
+        "เพิ่มส่วน ความเสี่ยง และ คำถามที่ต้องถามต่อ",
+        "จัดเป็น one-page brief ให้ผู้บริหารอ่านง่าย",
+        "ทำ portfolio จากบทความ/รายงานสาธารณะ 3 ชิ้นก่อนขายจริง"
+      ],
+      "thai_trend_angle": "บริการที่มีเงินจริงคือเปลี่ยนข้อมูลยาวให้เป็นสิ่งที่ตัดสินใจได้: สรุป ประเด็นเสี่ยง และ action list"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "genlabs-ai-learning",
+    "clean_headline": "ใช้ AI เปลี่ยนเอกสารยาว ๆ เป็นสรุปที่เจ้าของธุรกิจใช้ได้",
+    "clean_summary": "เจ้าของธุรกิจและทีมเล็กไม่มีเวลาอ่านเอกสารยาว รายงาน ประชุม หรือ feedback ลูกค้าทั้งหมด",
+    "metrics_snapshot": {},
+    "original_keywords": [
+      "AIช่วยทำงาน",
+      "สรุปเอกสาร",
+      "one-page brief",
+      "เจ้าของธุรกิจ"
+    ],
+    "original_language": "th",
+    "raw_text": "ใช้ AI เปลี่ยนเอกสารยาว ๆ เป็นสรุปที่เจ้าของธุรกิจใช้ได้\nเจ้าของธุรกิจและทีมเล็กไม่มีเวลาอ่านเอกสารยาว รายงาน ประชุม หรือ feedback ลูกค้าทั้งหมด\nบริการที่มีเงินจริงคือเปลี่ยนข้อมูลยาวให้เป็นสิ่งที่ตัดสินใจได้: สรุป ประเด็นเสี่ยง และ action list\nรับไฟล์แล้วลบข้อมูลส่วนตัวก่อนใช้ AI\nให้ AI สรุป 5 ประเด็นหลักและ action list\nเพิ่มส่วน ความเสี่ยง และ คำถามที่ต้องถามต่อ\nจัดเป็น one-page brief ให้ผู้บริหารอ่านง่าย\nทำ portfolio จากบทความ/รายงานสาธารณะ 3 ชิ้นก่อนขายจริง",
+    "source_id": "ai-money-document-summary-service-20260428",
+    "source_url": "internal://genlabs/ai-money/document-summary-service",
+    "why_it_matters": "Practical Thai AI money-making education; no fake income promises."
+  },
+  "content_brief": {
+    "call_to_action": "ฝึกกับบทความยาว 1 ชิ้น แล้วทำ portfolio สรุป 1 หน้า",
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "hook": "ใช้ AI เปลี่ยนเอกสารยาว ๆ เป็นสรุปที่เจ้าของธุรกิจใช้ได้",
+    "original_keywords": [
+      "AIช่วยทำงาน",
+      "สรุปเอกสาร",
+      "one-page brief",
+      "เจ้าของธุรกิจ"
+    ],
+    "original_language": "th",
+    "problem": "เจ้าของธุรกิจและทีมเล็กไม่มีเวลาอ่านเอกสารยาว รายงาน ประชุม หรือ feedback ลูกค้าทั้งหมด",
+    "source_id": "ai-money-document-summary-service-20260428",
+    "source_url": "internal://genlabs/ai-money/document-summary-service",
+    "tips": [
+      "รับไฟล์แล้วลบข้อมูลส่วนตัวก่อนใช้ AI",
+      "ให้ AI สรุป 5 ประเด็นหลักและ action list",
+      "เพิ่มส่วน ความเสี่ยง และ คำถามที่ต้องถามต่อ",
+      "จัดเป็น one-page brief ให้ผู้บริหารอ่านง่าย",
+      "ทำ portfolio จากบทความ/รายงานสาธารณะ 3 ชิ้นก่อนขายจริง"
+    ],
+    "trend_angle": "บริการที่มีเงินจริงคือเปลี่ยนข้อมูลยาวให้เป็นสิ่งที่ตัดสินใจได้: สรุป ประเด็นเสี่ยง และ action list"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public source URLs/X handles in generated images or caption; source attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "NLYzyO1ziBU5WD9oopJfX_hkEtuX9C.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980ad8/NLYzyO1ziBU5WD9oopJfX_hkEtuX9C.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-20260428T081441Z-ai-money-document-summary-service-20260428/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "lgeXw3s3SSHhsg61pEIBx_IdiQYC9P.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980ae0/lgeXw3s3SSHhsg61pEIBx_IdiQYC9P.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-20260428T081441Z-ai-money-document-summary-service-20260428/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "XEaG4YXkUPHadMxFcF8tD_W04oekFe.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980aea/XEaG4YXkUPHadMxFcF8tD_W04oekFe.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-20260428T081441Z-ai-money-document-summary-service-20260428/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "Lkq_pTMRqHG6ZcLR5ch2S_kclmGOQN.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980af4/Lkq_pTMRqHG6ZcLR5ch2S_kclmGOQN.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-20260428T081441Z-ai-money-document-summary-service-20260428/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "D_7nK1cUmyktafNEULapl_dQgaLWVS.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b00/D_7nK1cUmyktafNEULapl_dQgaLWVS.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-20260428T081441Z-ai-money-document-summary-service-20260428/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "LHCxxhCLnNYh0teezWVg__xA9cp8ZN.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b09/LHCxxhCLnNYh0teezWVg__xA9cp8ZN.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-20260428T081441Z-ai-money-document-summary-service-20260428/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": 1024,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 7,
+      "width": 1024
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-20260428T081441Z-ai-money-document-summary-service-20260428/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: เจ้าของธุรกิจและทีมเล็กไม่มีเวลาอ่านเอกสารยาว รายงาน ประชุม หรือ feedback ลูกค้าทั้งหมด\n\n📌 ทำไมควรเซฟโพสต์นี้: บริการที่มีเงินจริงคือเปลี่ยนข้อมูลยาวให้เป็นสิ่งที่ตัดสินใจได้: สรุป ประเด็นเสี่ยง และ action list\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ รับไฟล์แล้วลบข้อมูลส่วนตัวก่อนใช้ AI\n\n2) ✨ ให้ AI สรุป 5 ประเด็นหลักและ action list\n\n3) ✨ เพิ่มส่วน ความเสี่ยง และ คำถามที่ต้องถามต่อ\n\n4) ✨ จัดเป็น one-page brief ให้ผู้บริหารอ่านง่าย\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ขายของออนไลน์"
+    ],
+    "title": "ใช้ AI เปลี่ยนเอกสารยาว ๆ เป็นสรุปที่เจ้าของธุรกิจใช้ได้ #AIมือใหม่"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "glossary": {
+      "AIช่วยทำงาน": "AIช่วยทำงาน",
+      "one-page brief": "one-page brief",
+      "สรุปเอกสาร": "สรุปเอกสาร",
+      "เจ้าของธุรกิจ": "เจ้าของธุรกิจ"
+    },
+    "original_keywords": [
+      "AIช่วยทำงาน",
+      "สรุปเอกสาร",
+      "one-page brief",
+      "เจ้าของธุรกิจ"
+    ],
+    "source_id": "ai-money-document-summary-service-20260428",
+    "source_url": "internal://genlabs/ai-money/document-summary-service",
+    "thai_call_to_action": "ฝึกกับบทความยาว 1 ชิ้น แล้วทำ portfolio สรุป 1 หน้า",
+    "thai_hook": "ใช้ AI เปลี่ยนเอกสารยาว ๆ เป็นสรุปที่เจ้าของธุรกิจใช้ได้",
+    "thai_problem": "เจ้าของธุรกิจและทีมเล็กไม่มีเวลาอ่านเอกสารยาว รายงาน ประชุม หรือ feedback ลูกค้าทั้งหมด",
+    "thai_tips": [
+      "รับไฟล์แล้วลบข้อมูลส่วนตัวก่อนใช้ AI",
+      "ให้ AI สรุป 5 ประเด็นหลักและ action list",
+      "เพิ่มส่วน ความเสี่ยง และ คำถามที่ต้องถามต่อ",
+      "จัดเป็น one-page brief ให้ผู้บริหารอ่านง่าย",
+      "ทำ portfolio จากบทความ/รายงานสาธารณะ 3 ชิ้นก่อนขายจริง"
+    ],
+    "thai_trend_angle": "บริการที่มีเงินจริงคือเปลี่ยนข้อมูลยาวให้เป็นสิ่งที่ตัดสินใจได้: สรุป ประเด็นเสี่ยง และ action list"
+  }
+}

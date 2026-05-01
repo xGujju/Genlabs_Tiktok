@@ -1,0 +1,228 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a980364/9WkjGnI3xjOjsl407FbuO_RtP6nta3.png",
+    "https://v3b.fal.media/files/b/0a98036c/x6wKvfg18o3PDW6MhLJws_5cIGinnY.png",
+    "https://v3b.fal.media/files/b/0a980376/NX4nubszCnyfT2P1jQ3KM_UyyUstJG.png",
+    "https://v3b.fal.media/files/b/0a98037f/xbsgkIVZhktxErnDBhVhp_la2Epuyz.png",
+    "https://v3b.fal.media/files/b/0a98038b/sLPa8nyFDRxaM2J9Uobbp_lmJJu6l1.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 5,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/5 role=hook. Thai copy: workflow: เทรนด์นี้กำลังมา เพราะเอาไปใช้ได้ทันที\nworkflow • agent • MCP. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "workflow: เทรนด์นี้กำลังมา เพราะเอาไปใช้ได้ทันที\nworkflow • agent • MCP",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/5 role=problem. Thai copy: ปัญหา: คนส่วนใหญ่เห็นเทรนด์ AI แล้วตื่นเต้น แต่ไม่รู้ว่าต้องเอาไปใช้กับงานจริงยังไง. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: คนส่วนใหญ่เห็นเทรนด์ AI แล้วตื่นเต้น แต่ไม่รู้ว่าต้องเอาไปใช้กับงานจริงยังไง",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/5 role=trend. Thai copy: ทำไมควรสนใจ:\nโพสต์ต้นทางกำลังชนะเพราะขายเป็น workflow/prompt ที่หยิบไปทำตามได้ ไม่ใช่ข่าวทั่วไป: Anthropic's Claude Ai Agents. Visual direction: trend explainer with source-media-inspired layout, keyword chips, practical-use badge, balanced text and icons. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nโพสต์ต้นทางกำลังชนะเพราะขายเป็น workflow/prompt ที่หยิบไปทำตามได้ ไม่ใช่ข่าวทั่วไป: Anthropic's Claude Ai Agents",
+        "visual_direction": "trend explainer with source-media-inspired layout, keyword chips, practical-use badge, balanced text and icons"
+      },
+      {
+        "image_prompt": "Slide 4/5 role=tips. Thai copy: ลองใช้แบบนี้:\n1) แยกไอเดียดิบให้เป็นโจทย์งานที่ชัด\n2) ให้ AI สร้าง brief ก่อนลงมือทำ\n3) เปลี่ยน brief เป็นแผนงานและชุดทดสอบ\n4) ใช้ผลลัพธ์เป็นระบบทำงานซ้ำ. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) แยกไอเดียดิบให้เป็นโจทย์งานที่ชัด\n2) ให้ AI สร้าง brief ก่อนลงมือทำ\n3) เปลี่ยน brief เป็นแผนงานและชุดทดสอบ\n4) ใช้ผลลัพธ์เป็นระบบทำงานซ้ำ",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/5 role=cta. Thai copy: ลองวันนี้:\nลองเอา workflow นี้ไปทำกับงานของคุณ 1 งานวันนี้ แล้วเก็บเป็น template ส่วนตัว. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nลองเอา workflow นี้ไปทำกับงานของคุณ 1 งานวันนี้ แล้วเก็บเป็น template ส่วนตัว",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "sig-47",
+    "source_url": "https://x.com/codewithimanshu/status/2047714256968466628",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://x.com/codewithimanshu/status/2047714256968466628",
+        "Keywords: workflow, agent, MCP",
+        "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+      ],
+      "glossary": {
+        "MCP": "MCP",
+        "agent": "เอเจนต์ AI",
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "workflow",
+        "agent",
+        "MCP"
+      ],
+      "source_id": "sig-47",
+      "source_url": "https://x.com/codewithimanshu/status/2047714256968466628",
+      "thai_call_to_action": "ลองเอา workflow นี้ไปทำกับงานของคุณ 1 งานวันนี้ แล้วเก็บเป็น template ส่วนตัว",
+      "thai_hook": "workflow: เทรนด์นี้กำลังมา เพราะเอาไปใช้ได้ทันที",
+      "thai_problem": "คนส่วนใหญ่เห็นเทรนด์ AI แล้วตื่นเต้น แต่ไม่รู้ว่าต้องเอาไปใช้กับงานจริงยังไง",
+      "thai_tips": [
+        "แยกไอเดียดิบให้เป็นโจทย์งานที่ชัด",
+        "ให้ AI สร้าง brief ก่อนลงมือทำ",
+        "เปลี่ยน brief เป็นแผนงานและชุดทดสอบ",
+        "ใช้ผลลัพธ์เป็นระบบทำงานซ้ำ ไม่ใช่โพสต์ไวรัลครั้งเดียว"
+      ],
+      "thai_trend_angle": "โพสต์ต้นทางกำลังชนะเพราะขายเป็น workflow/prompt ที่หยิบไปทำตามได้ ไม่ใช่ข่าวทั่วไป: Anthropic's Claude Ai Agents Team just Educated how to build production AI agents in under 30 mins."
+    }
+  },
+  "clean_brief": {
+    "author_handle": "ai-signal-radar",
+    "clean_headline": "Anthropic's Claude Ai Agents Team just Educated how to build production AI agents in under 30 mins.",
+    "clean_summary": "Anthropic's Claude Ai Agents Team just Educated how to build production AI agents in under 30 mins. For Free. From the Anthropic's Claude Ai Agents Team just Educated how to build production AI agents in under 30 mins. For Free. From the engineers who built the stack. CANCEL Your Weekend Plans, and Learn to Build AI Agents Today. Bookmark it. Watch it. Build your first production agent this weekend. $5,000/month. $7,000/month. $12,000/month. People are building agents for clients and charging $$$ as Beginners. You're still stuck in the thinking about AI phase. This video fixes that tonight. Follow @codewithimanshu for more high-signal content that actually moves your AI engineering career forward. ↓ Ivan Nardini runs Developer Relations for AI at Google Cloud. He just gave away the entire production agent stack in 30 minutes. This is the talk that separates people deploying AI agents that actually scale from people whose agents break the moment they leave localhost. Here's everything inside. I break down a production AI video like this every week. Follow @codewithimanshu. ↓ The 4-part agent stack that actually scales. Most devs are duct-taping frameworks together and calling it an \"AI agent.\" Ivan lays out the real stack: Agent Development Kit (ADK): open-source, code-first framework for building, evaluating, and deploying agents. Supports Claude models through Vertex AI directly. Model Context Protocol (MCP): lets your agent talk to any tool or data source with one standard. Vertex AI Agent Engine: managed platform for deploying, monitoring, and scaling agents in production. No DevOps headaches. Agent-to-Agent Protocol: open protocol so agents built on different frameworks can actually work together. This is the stack replacing every hacky agent setup in production right now. Full MCP + Claude breakdowns drop weekly on @codewithimanshu. ↓ Building your first real agent. Ivan builds a birthday planner agent live. LLM Agent class. Name it. Define instructions. Pick the model. He uses Claude 3.7 Sonnet. You could use Opus 4.7 for better reasoning. Full agent built in minutes. Not weeks. Watch the build once and you'll never structure an agent the wrong way again. I post agent architectures people pay $500 courses to learn. @codewithimanshu. ↓ Multi-agent systems without the chaos. Single agents are easy. Multi-agent systems are where 99% of builders fail. Ivan extends the birthday planner by: Adding a calendar service through MCP tools Creating an orchestrator agent to route requests between agents Handling state and context across agent handoffs This is production multi-agent architecture. Clean. Scalable. Debuggable. Most tutorials hand-wave this part. This one shows you every step. Multi-agent orchestration content drops weekly on @codewithimanshu. ↓ Deployment without the DevOps nightmare. This is where most AI projects die. You build a cool agent locally. It works. You try to deploy it. Everything breaks. Vertex AI Agent Engine fixes this: Minimal code deployment Automatic monitoring of latency, CPU, and memory Built-in observability and logging No infrastructure setup needed You provide config and requirements. The platform handles the rest. This is how agents actually get to production. Deployment guides for Claude agents post every week. @codewithimanshu. ↓ Agent-to-Agent Protocol: the future nobody's talking about. Most people don't know this exists yet. The A2A Protocol lets agents built in different frameworks communicate seamlessly. Your Claude agent. My LangChain agent. Someone else's CrewAI agent. All talking to each other. All solving parts of the same problem. All without custom integration code. This is the infrastructure layer of the coming AI economy. Getting in early on A2A Protocol is like getting in early on HTTP in 1995. A2A deep dive coming soon. @codewithimanshu. ↓ 30 minutes from the team shipping this in production. You'll learn more from this than from 6 months of YouTube tutorials made by people who've never deployed an agent past localhost. People who watch this understand production AI agents at the architect level. People who skip it keep hacking together frameworks that break every time an API updates. Save the video. Watch it tonight. Build a real agent this weekend. Follow @codewithimanshu for more high-signal content that actually moves your AI engineering career forward. Watch for more corroboration before converting.",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 28,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "workflow",
+      "agent",
+      "MCP"
+    ],
+    "original_language": "en",
+    "raw_text": "Anthropic's Claude Ai Agents Team just Educated how to build production AI agents in under 30 mins.\n\nFor Free. From the \nAnthropic's Claude Ai Agents Team just Educated how to build production AI agents in under 30 mins.\n\nFor Free. From the engineers who built the stack.\n\nCANCEL Your Weekend Plans, and Learn to Build AI Agents Today.\n\nBookmark it. Watch it. Build your first production agent this weekend.\n\n$5,000/month. $7,000/month. $12,000/month.\n\nPeople are building agents for clients and charging $$$ as Beginners. You're still stuck in the thinking about AI phase.\n\nThis video fixes that tonight.\n\nFollow @codewithimanshu for more high-signal content that actually moves your AI engineering career forward.\n↓\n\nIvan Nardini runs Developer Relations for AI at Google Cloud. He just gave away the entire production agent stack in 30 minutes.\n\nThis is the talk that separates people deploying AI agents that actually scale from people whose agents break the moment they leave localhost.\n\nHere's everything inside.\n\nI break down a production AI video like this every week. Follow @codewithimanshu.\n\n↓\nThe 4-part agent stack that actually scales.\n\nMost devs are duct-taping frameworks together and calling it an \"AI agent.\"\n\nIvan lays out the real stack:\n\nAgent Development Kit (ADK): open-source, code-first framework for building, evaluating, and deploying agents. Supports Claude models through Vertex AI directly.\n\nModel Context Protocol (MCP): lets your agent talk to any tool or data source with one standard. Vertex AI Agent Engine: managed platform for deploying, monitoring, and scaling agents in production. No DevOps headaches.\n\nAgent-to-Agent Protocol: open protocol so agents built on different frameworks can actually work together.\n\nThis is the stack replacing every hacky agent setup in production right now.\nFull MCP + Claude breakdowns drop weekly on @codewithimanshu.\n\n↓\nBuilding your first real agent.\nIvan builds a birthday planner agent live.\n\nLLM Agent class. Name it. Define instructions. Pick the model.\n\nHe uses Claude 3.7 Sonnet. You could use Opus 4.7 for better reasoning.\n\nFull agent built in minutes. Not weeks.\n\nWatch the build once and you'll never structure an agent the wrong way again.\n\nI post agent architectures people pay $500 courses to learn. @codewithimanshu.\n\n↓\nMulti-agent systems without the chaos.\n\nSingle agents are easy. Multi-agent systems are where 99% of builders fail.\n\nIvan extends the birthday planner by:\nAdding a calendar service through MCP tools Creating an orchestrator agent to route requests between agents Handling state and context across agent handoffs\n\nThis is production multi-agent architecture. Clean. Scalable. Debuggable.\nMost tutorials hand-wave this part. This one shows you every step.\n\nMulti-agent orchestration content drops weekly on @codewithimanshu.\n\n↓\nDeployment without the DevOps nightmare.\nThis is where most AI projects die.\n\nYou build a cool agent locally. It works. You try to deploy it. Everything breaks.\nVertex AI Agent Engine fixes this:\n\nMinimal code deployment Automatic monitoring of latency, CPU, and memory Built-in observability and logging No infrastructure setup needed\n\nYou provide config and requirements. The platform handles the rest.\nThis is how agents actually get to production.\n\nDeployment guides for Claude agents post every week. @codewithimanshu.\n\n↓\nAgent-to-Agent Protocol: the future nobody's talking about.\nMost people don't know this exists yet.\n\nThe A2A Protocol lets agents built in different frameworks communicate seamlessly.\n\nYour Claude agent. My LangChain agent. Someone else's CrewAI agent.\nAll talking to each other. All solving parts of the same problem. All without custom integration code.\n\nThis is the infrastructure layer of the coming AI economy.\nGetting in early on A2A Protocol is like getting in early on HTTP in 1995.\n\nA2A deep dive coming soon. @codewithimanshu.\n\n↓\n30 minutes from the team shipping this in production.\n\nYou'll learn more from this than from 6 months of YouTube tutorials made by people who've never deployed an agent past localhost.\n\nPeople who watch this understand production AI agents at the architect level.\nPeople who skip it keep hacking together frameworks that break every time an API updates.\n\nSave the video. Watch it tonight. Build a real agent this weekend.\n\nFollow @codewithimanshu for more high-signal content that actually moves your AI engineering career forward.\nWatch for more corroboration before converting.",
+    "source_id": "sig-47",
+    "source_url": "https://x.com/codewithimanshu/status/2047714256968466628",
+    "why_it_matters": "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+  },
+  "content_brief": {
+    "call_to_action": "ลองเอา workflow นี้ไปทำกับงานของคุณ 1 งานวันนี้ แล้วเก็บเป็น template ส่วนตัว",
+    "evidence": [
+      "Source: https://x.com/codewithimanshu/status/2047714256968466628",
+      "Keywords: workflow, agent, MCP",
+      "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+    ],
+    "hook": "workflow: เทรนด์นี้กำลังมา เพราะเอาไปใช้ได้ทันที",
+    "original_keywords": [
+      "workflow",
+      "agent",
+      "MCP"
+    ],
+    "original_language": "en",
+    "problem": "คนส่วนใหญ่เห็นเทรนด์ AI แล้วตื่นเต้น แต่ไม่รู้ว่าต้องเอาไปใช้กับงานจริงยังไง",
+    "source_id": "sig-47",
+    "source_url": "https://x.com/codewithimanshu/status/2047714256968466628",
+    "tips": [
+      "แยกไอเดียดิบให้เป็นโจทย์งานที่ชัด",
+      "ให้ AI สร้าง brief ก่อนลงมือทำ",
+      "เปลี่ยน brief เป็นแผนงานและชุดทดสอบ",
+      "ใช้ผลลัพธ์เป็นระบบทำงานซ้ำ ไม่ใช่โพสต์ไวรัลครั้งเดียว"
+    ],
+    "trend_angle": "โพสต์ต้นทางกำลังชนะเพราะขายเป็น workflow/prompt ที่หยิบไปทำตามได้ ไม่ใช่ข่าวทั่วไป: Anthropic's Claude Ai Agents Team just Educated how to build production AI agents in under 30 mins."
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public source URLs/X handles in generated images or caption; source attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "9WkjGnI3xjOjsl407FbuO_RtP6nta3.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980364/9WkjGnI3xjOjsl407FbuO_RtP6nta3.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260428T025639Z-sig-47/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "x6wKvfg18o3PDW6MhLJws_5cIGinnY.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98036c/x6wKvfg18o3PDW6MhLJws_5cIGinnY.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260428T025639Z-sig-47/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "NX4nubszCnyfT2P1jQ3KM_UyyUstJG.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980376/NX4nubszCnyfT2P1jQ3KM_UyyUstJG.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260428T025639Z-sig-47/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "xbsgkIVZhktxErnDBhVhp_la2Epuyz.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98037f/xbsgkIVZhktxErnDBhVhp_la2Epuyz.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260428T025639Z-sig-47/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "sLPa8nyFDRxaM2J9Uobbp_lmJJu6l1.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98038b/sLPa8nyFDRxaM2J9Uobbp_lmJJu6l1.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260428T025639Z-sig-47/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260428T025639Z-sig-47/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: คนส่วนใหญ่เห็นเทรนด์ AI แล้วตื่นเต้น แต่ไม่รู้ว่าต้องเอาไปใช้กับงานจริงยังไง\n\n📌 ทำไมควรเซฟโพสต์นี้: โพสต์ต้นทางกำลังชนะเพราะขายเป็น workflow/prompt ที่หยิบไปทำตามได้ ไม่ใช่ข่าวทั่วไป: Anthropic's Claude Ai Agents Team just Educated how to build production AI agents in under 30 mins.\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ แยกไอเดียดิบให้เป็นโจทย์งานที่ชัด\n\n2) ✨ ให้ AI สร้าง brief ก่อนลงมือทำ\n\n3) ✨ เปลี่ยน brief เป็นแผนงานและชุดทดสอบ\n\n4) ✨ ใช้ผลลัพธ์เป็นระบบทำงานซ้ำ ไม่ใช่โพสต์ไวรัลครั้งเดียว\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "workflow: เทรนด์นี้กำลังมา เพราะเอาไปใช้ได้ทันที #AIมือใหม่  เอาไปใช้กับงานจริงได้ทันที"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://x.com/codewithimanshu/status/2047714256968466628",
+      "Keywords: workflow, agent, MCP",
+      "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+    ],
+    "glossary": {
+      "MCP": "MCP",
+      "agent": "เอเจนต์ AI",
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "workflow",
+      "agent",
+      "MCP"
+    ],
+    "source_id": "sig-47",
+    "source_url": "https://x.com/codewithimanshu/status/2047714256968466628",
+    "thai_call_to_action": "ลองเอา workflow นี้ไปทำกับงานของคุณ 1 งานวันนี้ แล้วเก็บเป็น template ส่วนตัว",
+    "thai_hook": "workflow: เทรนด์นี้กำลังมา เพราะเอาไปใช้ได้ทันที",
+    "thai_problem": "คนส่วนใหญ่เห็นเทรนด์ AI แล้วตื่นเต้น แต่ไม่รู้ว่าต้องเอาไปใช้กับงานจริงยังไง",
+    "thai_tips": [
+      "แยกไอเดียดิบให้เป็นโจทย์งานที่ชัด",
+      "ให้ AI สร้าง brief ก่อนลงมือทำ",
+      "เปลี่ยน brief เป็นแผนงานและชุดทดสอบ",
+      "ใช้ผลลัพธ์เป็นระบบทำงานซ้ำ ไม่ใช่โพสต์ไวรัลครั้งเดียว"
+    ],
+    "thai_trend_angle": "โพสต์ต้นทางกำลังชนะเพราะขายเป็น workflow/prompt ที่หยิบไปทำตามได้ ไม่ใช่ข่าวทั่วไป: Anthropic's Claude Ai Agents Team just Educated how to build production AI agents in under 30 mins."
+  }
+}

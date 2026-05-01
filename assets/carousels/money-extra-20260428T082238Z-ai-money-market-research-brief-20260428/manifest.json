@@ -1,0 +1,237 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a980b08/tgmV53MZ8brSnJx96YuDM_yQmfdkMs.png",
+    "https://v3b.fal.media/files/b/0a980b0c/jTdvsNDjmn9C-eVFOI6LL_BWgBPMIz.png",
+    "https://v3b.fal.media/files/b/0a980b10/5L88yvGwukywzcUW03jX7_hZhz4eVo.png",
+    "https://v3b.fal.media/files/b/0a980b15/O1wr_TZGomzqQqtOkNT3K_aEfPo0Mm.png",
+    "https://v3b.fal.media/files/b/0a980b1b/I5PWu5giAVaC6kWG8n-Ua_MBjibkJj.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 6,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/5 role=hook. Exact Thai copy: หาเงินด้วย AI:\nรายงานคู่แข่งฉบับสั้น. Visual direction: market research board with competitor cards. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "หาเงินด้วย AI:\nรายงานคู่แข่งฉบับสั้น",
+        "visual_direction": "market research board with competitor cards"
+      },
+      {
+        "image_prompt": "Slide 2/5 role=pain. Exact Thai copy: SME อยากรู้ตลาด\nแต่ไม่มีเวลาหาข้อมูล. Visual direction: business owner with question marks and competitors. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 2,
+        "role": "pain",
+        "thai_copy": "SME อยากรู้ตลาด\nแต่ไม่มีเวลาหาข้อมูล",
+        "visual_direction": "business owner with question marks and competitors"
+      },
+      {
+        "image_prompt": "Slide 3/5 role=offer. Exact Thai copy: ขายอะไร:\nคู่แข่ง 5–10 ราย\nราคา\nจุดขาย\nโอกาส. Visual direction: brief package comparison table. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 3,
+        "role": "offer",
+        "thai_copy": "ขายอะไร:\nคู่แข่ง 5–10 ราย\nราคา\nจุดขาย\nโอกาส",
+        "visual_direction": "brief package comparison table"
+      },
+      {
+        "image_prompt": "Slide 4/5 role=workflow. Exact Thai copy: เลือกตลาด → เก็บข้อมูล → AI ทำตาราง → สรุป Action. Visual direction: market research workflow. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 4,
+        "role": "workflow",
+        "thai_copy": "เลือกตลาด → เก็บข้อมูล → AI ทำตาราง → สรุป Action",
+        "visual_direction": "market research workflow"
+      },
+      {
+        "image_prompt": "Slide 5/5 role=cta. Exact Thai copy: ลองวันนี้:\nทำ Brief 1 หน้า\nจากตลาดเล็ก ๆ. Visual direction: one-page competitor brief. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 5,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nทำ Brief 1 หน้า\nจากตลาดเล็ก ๆ",
+        "visual_direction": "one-page competitor brief"
+      }
+    ],
+    "source_id": "ai-money-market-research-brief-20260428",
+    "source_url": "internal://genlabs/ai-money/market-research-brief",
+    "thai_brief": {
+      "evidence": [
+        "Internal GenLabs educational content plan",
+        "Action-based Thai AI money-making lesson"
+      ],
+      "glossary": {
+        "AIหาเงิน": "AIหาเงิน",
+        "คู่แข่ง": "คู่แข่ง",
+        "ธุรกิจ": "ธุรกิจ",
+        "วิจัยตลาด": "วิจัยตลาด"
+      },
+      "original_keywords": [
+        "วิจัยตลาด",
+        "AIหาเงิน",
+        "คู่แข่ง",
+        "ธุรกิจ"
+      ],
+      "source_id": "ai-money-market-research-brief-20260428",
+      "source_url": "internal://genlabs/ai-money/market-research-brief",
+      "thai_call_to_action": "เลือกตลาดเล็ก 1 ตลาด แล้วทำ competitor brief 1 หน้า",
+      "thai_hook": "ใช้ AI ทำรายงานคู่แข่งฉบับสั้นให้ SME ก่อนเปิดสินค้าใหม่",
+      "thai_problem": "เจ้าของธุรกิจอยากรู้คู่แข่ง ราคา จุดขาย และไอเดียคอนเทนต์ แต่ไม่มีเวลาหาข้อมูลเอง",
+      "thai_tips": [
+        "กำหนดตลาดแคบ ๆ เช่น คาเฟ่ย่านสุขุมวิท",
+        "เก็บคู่แข่ง 5–10 ราย",
+        "ให้ AI ช่วยจัดตารางเปรียบเทียบ",
+        "สรุปโอกาส 3 ข้อและสิ่งที่ควรเลี่ยง",
+        "เริ่ม 1,500–5,000 บาทต่อ brief"
+      ],
+      "thai_trend_angle": "AI ช่วยรวบรวมโครงรายงานและเปรียบเทียบได้เร็ว ถ้าคุณตรวจแหล่งข้อมูลและสรุปเป็น action ได้"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "genlabs-ai-learning",
+    "clean_headline": "ใช้ AI ทำรายงานคู่แข่งฉบับสั้นให้ SME ก่อนเปิดสินค้าใหม่",
+    "clean_summary": "เจ้าของธุรกิจอยากรู้คู่แข่ง ราคา จุดขาย และไอเดียคอนเทนต์ แต่ไม่มีเวลาหาข้อมูลเอง",
+    "metrics_snapshot": {},
+    "original_keywords": [
+      "วิจัยตลาด",
+      "AIหาเงิน",
+      "คู่แข่ง",
+      "ธุรกิจ"
+    ],
+    "original_language": "th",
+    "raw_text": "ใช้ AI ทำรายงานคู่แข่งฉบับสั้นให้ SME ก่อนเปิดสินค้าใหม่\nเจ้าของธุรกิจอยากรู้คู่แข่ง ราคา จุดขาย และไอเดียคอนเทนต์ แต่ไม่มีเวลาหาข้อมูลเอง\nAI ช่วยรวบรวมโครงรายงานและเปรียบเทียบได้เร็ว ถ้าคุณตรวจแหล่งข้อมูลและสรุปเป็น action ได้\nกำหนดตลาดแคบ ๆ เช่น คาเฟ่ย่านสุขุมวิท\nเก็บคู่แข่ง 5–10 ราย\nให้ AI ช่วยจัดตารางเปรียบเทียบ\nสรุปโอกาส 3 ข้อและสิ่งที่ควรเลี่ยง\nเริ่ม 1,500–5,000 บาทต่อ brief",
+    "source_id": "ai-money-market-research-brief-20260428",
+    "source_url": "internal://genlabs/ai-money/market-research-brief",
+    "why_it_matters": "Practical Thai AI money-making education; no fake income promises."
+  },
+  "content_brief": {
+    "call_to_action": "เลือกตลาดเล็ก 1 ตลาด แล้วทำ competitor brief 1 หน้า",
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "hook": "ใช้ AI ทำรายงานคู่แข่งฉบับสั้นให้ SME ก่อนเปิดสินค้าใหม่",
+    "original_keywords": [
+      "วิจัยตลาด",
+      "AIหาเงิน",
+      "คู่แข่ง",
+      "ธุรกิจ"
+    ],
+    "original_language": "th",
+    "problem": "เจ้าของธุรกิจอยากรู้คู่แข่ง ราคา จุดขาย และไอเดียคอนเทนต์ แต่ไม่มีเวลาหาข้อมูลเอง",
+    "source_id": "ai-money-market-research-brief-20260428",
+    "source_url": "internal://genlabs/ai-money/market-research-brief",
+    "tips": [
+      "กำหนดตลาดแคบ ๆ เช่น คาเฟ่ย่านสุขุมวิท",
+      "เก็บคู่แข่ง 5–10 ราย",
+      "ให้ AI ช่วยจัดตารางเปรียบเทียบ",
+      "สรุปโอกาส 3 ข้อและสิ่งที่ควรเลี่ยง",
+      "เริ่ม 1,500–5,000 บาทต่อ brief"
+    ],
+    "trend_angle": "AI ช่วยรวบรวมโครงรายงานและเปรียบเทียบได้เร็ว ถ้าคุณตรวจแหล่งข้อมูลและสรุปเป็น action ได้"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public source URLs/X handles in generated images or caption; source attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "tgmV53MZ8brSnJx96YuDM_yQmfdkMs.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b08/tgmV53MZ8brSnJx96YuDM_yQmfdkMs.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-extra-20260428T082238Z-ai-money-market-research-brief-20260428/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "jTdvsNDjmn9C-eVFOI6LL_BWgBPMIz.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b0c/jTdvsNDjmn9C-eVFOI6LL_BWgBPMIz.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-extra-20260428T082238Z-ai-money-market-research-brief-20260428/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "5L88yvGwukywzcUW03jX7_hZhz4eVo.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b10/5L88yvGwukywzcUW03jX7_hZhz4eVo.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-extra-20260428T082238Z-ai-money-market-research-brief-20260428/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "O1wr_TZGomzqQqtOkNT3K_aEfPo0Mm.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b15/O1wr_TZGomzqQqtOkNT3K_aEfPo0Mm.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-extra-20260428T082238Z-ai-money-market-research-brief-20260428/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "I5PWu5giAVaC6kWG8n-Ua_MBjibkJj.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b1b/I5PWu5giAVaC6kWG8n-Ua_MBjibkJj.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-extra-20260428T082238Z-ai-money-market-research-brief-20260428/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": 1024,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 6,
+      "width": 1024
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/money-extra-20260428T082238Z-ai-money-market-research-brief-20260428/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: เจ้าของธุรกิจอยากรู้คู่แข่ง ราคา จุดขาย และไอเดียคอนเทนต์ แต่ไม่มีเวลาหาข้อมูลเอง\n\n📌 ทำไมควรเซฟโพสต์นี้: AI ช่วยรวบรวมโครงรายงานและเปรียบเทียบได้เร็ว ถ้าคุณตรวจแหล่งข้อมูลและสรุปเป็น action ได้\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ กำหนดตลาดแคบ ๆ เช่น คาเฟ่ย่านสุขุมวิท\n\n2) ✨ เก็บคู่แข่ง 5–10 ราย\n\n3) ✨ ให้ AI ช่วยจัดตารางเปรียบเทียบ\n\n4) ✨ สรุปโอกาส 3 ข้อและสิ่งที่ควรเลี่ยง\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ขายของออนไลน์"
+    ],
+    "title": "ใช้ AI ทำรายงานคู่แข่งฉบับสั้นให้ SME ก่อนเปิดสินค้าใหม่ #AIมือใหม่"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "glossary": {
+      "AIหาเงิน": "AIหาเงิน",
+      "คู่แข่ง": "คู่แข่ง",
+      "ธุรกิจ": "ธุรกิจ",
+      "วิจัยตลาด": "วิจัยตลาด"
+    },
+    "original_keywords": [
+      "วิจัยตลาด",
+      "AIหาเงิน",
+      "คู่แข่ง",
+      "ธุรกิจ"
+    ],
+    "source_id": "ai-money-market-research-brief-20260428",
+    "source_url": "internal://genlabs/ai-money/market-research-brief",
+    "thai_call_to_action": "เลือกตลาดเล็ก 1 ตลาด แล้วทำ competitor brief 1 หน้า",
+    "thai_hook": "ใช้ AI ทำรายงานคู่แข่งฉบับสั้นให้ SME ก่อนเปิดสินค้าใหม่",
+    "thai_problem": "เจ้าของธุรกิจอยากรู้คู่แข่ง ราคา จุดขาย และไอเดียคอนเทนต์ แต่ไม่มีเวลาหาข้อมูลเอง",
+    "thai_tips": [
+      "กำหนดตลาดแคบ ๆ เช่น คาเฟ่ย่านสุขุมวิท",
+      "เก็บคู่แข่ง 5–10 ราย",
+      "ให้ AI ช่วยจัดตารางเปรียบเทียบ",
+      "สรุปโอกาส 3 ข้อและสิ่งที่ควรเลี่ยง",
+      "เริ่ม 1,500–5,000 บาทต่อ brief"
+    ],
+    "thai_trend_angle": "AI ช่วยรวบรวมโครงรายงานและเปรียบเทียบได้เร็ว ถ้าคุณตรวจแหล่งข้อมูลและสรุปเป็น action ได้"
+  }
+}

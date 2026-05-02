@@ -1,9 +1,9 @@
 # GenLabs Asset + Learning Index
 
-Updated: 2026-05-01 17:01:23 UTC
+Updated: 2026-05-02 16:56:06 UTC
 
-- Carousel image assets copied: 590
-- Carousel manifests copied: 87
+- Carousel image assets copied: 703
+- Carousel manifests copied: 103
 - Learning/operations notes copied: 19
 
 ## Carousel folders
@@ -82,6 +82,22 @@ Updated: 2026-05-01 17:01:23 UTC
 - `auto-20260501T124556Z-yt-6q8joS_592k` — 7 image(s)
 - `auto-20260501T151229Z-yt-iUNzRKOC25w` — 7 image(s)
 - `auto-20260501T162736Z-yt-Qgi5hb7yxjU` — 7 image(s)
+- `auto-20260501T174220Z-yt-IuyVVtr1uhY` — 7 image(s)
+- `auto-20260501T190452Z-yt-CINi8iduBuI` — 7 image(s)
+- `auto-20260501T202638Z-yt--y4swMaeJeI` — 7 image(s)
+- `auto-20260501T225001Z-yt-ti1Qt7WhUtI` — 7 image(s)
+- `auto-20260502T000250Z-yt-ZpLSWXAPoLo` — 7 image(s)
+- `auto-20260502T022006Z-yt-SNo_recKZyY` — 7 image(s)
+- `auto-20260502T043458Z-yt-XUYvDbAv1IA` — 8 image(s)
+- `auto-20260502T054844Z-yt-6J5xkmfbaNI` — 7 image(s)
+- `auto-20260502T070518Z-yt--J85WE-t1i4` — 7 image(s)
+- `auto-20260502T113630Z-yt-jBF48jNWPJE` — 7 image(s)
+- `auto-20260502T130427Z-evergreen-chatgpt-projec` — 7 image(s)
+- `auto-20260502T131424Z-evergreen-perplexity-sup` — 7 image(s)
+- `auto-20260502T132401Z-evergreen-notebooklm-new` — 7 image(s)
+- `auto-20260502T133358Z-evergreen-chatgpt-voice-` — 7 image(s)
+- `auto-20260502T134346Z-evergreen-claude-artifac` — 7 image(s)
+- `auto-20260502T135306Z-evergreen-gemini-sheets-` — 7 image(s)
 - `evergreen-recovery-live-20260429T105258Z-evergreen-chatgpt-projects-sales-followup` — 5 image(s)
 - `first-public-cdn-live` — 5 image(s)
 - `first-public-cdn-live-v2` — 5 image(s)

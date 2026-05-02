@@ -1,0 +1,263 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a989954/JWDDFHT8OSNbrp7iez_sq_clopo0wm.png",
+    "https://v3b.fal.media/files/b/0a98995c/OhDf3yE-s5vTeXZg2GLEJ_q4IS6okA.png",
+    "https://v3b.fal.media/files/b/0a989965/52q0lQ4tEs7Z-ZoN80Z3W_63XEE8Jz.png",
+    "https://v3b.fal.media/files/b/0a98996d/Wl4wv9SAO4g3sDS7gSdnQ_tGCHvRqH.png",
+    "https://v3b.fal.media/files/b/0a989975/b7sV83-22JGsnQ7w5uwXA_TcckVglT.png",
+    "https://v3b.fal.media/files/b/0a98997d/R8fMuA5Lc-wNhAp0IFRPV_F6tJoyUE.png",
+    "https://v3b.fal.media/files/b/0a989987/xV_AR-lHslKWiHB6VYGvx_xAFuWvFL.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 7,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/7 role=hook. Thai copy: ลูกค้าบอกแพง? ซ้อมตอบกับ ChatGPT Voice ก่อนคุยจริง\nworkflow. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "ลูกค้าบอกแพง? ซ้อมตอบกับ ChatGPT Voice ก่อนคุยจริง\nworkflow",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/7 role=problem. Thai copy: ปัญหา: หลายคนรู้จุดขายของตัวเอง แต่พอเจอ objection จริงกลับตอบยาว วกวน หรือรีบลดราคา. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: หลายคนรู้จุดขายของตัวเอง แต่พอเจอ objection จริงกลับตอบยาว วกวน หรือรีบลดราคา",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/7 role=trend. Thai copy: ทำไมควรสนใจ:\nVoice mode ใช้เป็นสนามซ้อมขาย เพราะ AI เล่นบทลูกค้าและให้ feedback หลังซ้อมได้ทันที. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nVoice mode ใช้เป็นสนามซ้อมขาย เพราะ AI เล่นบทลูกค้าและให้ feedback หลังซ้อมได้ทันที",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/7 role=tips. Thai copy: ลองใช้แบบนี้:\n1) บอกสินค้า ราคา และลูกค้าเป้าหมาย\n2) ให้ AI roleplay ลูกค้าที่ลังเลหรือเทียบคู่แข่ง\n3) ซ้อมตอบ objection: แพง ขอคิดก่อน ไม่มั่นใจ\n4) ขอ critique ว่าคำตอบยาวหรือกดดันเกินไหม. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) บอกสินค้า ราคา และลูกค้าเป้าหมาย\n2) ให้ AI roleplay ลูกค้าที่ลังเลหรือเทียบคู่แข่ง\n3) ซ้อมตอบ objection: แพง ขอคิดก่อน ไม่มั่นใจ\n4) ขอ critique ว่าคำตอบยาวหรือกดดันเกินไหม",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/7 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/7 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\n5) retry ด้วยลูกค้าที่พูดยากขึ้น 1 รอบ. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\n5) retry ด้วยลูกค้าที่พูดยากขึ้น 1 รอบ",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/7 role=cta. Thai copy: ลองวันนี้:\nวันนี้ซ้อม objection ที่เจอบ่อยที่สุด 1 ข้อกับ ChatGPT Voice ก่อนคุยลูกค้าจริง. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้ซ้อม objection ที่เจอบ่อยที่สุด 1 ข้อกับ ChatGPT Voice ก่อนคุยลูกค้าจริง",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "evergreen-chatgpt-voice-sales-objections",
+    "source_url": "https://genlabs.in.th/ai-learning/evergreen",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://genlabs.in.th/ai-learning/evergreen",
+        "Keywords: workflow",
+        "This is trending because people can copy the workflow immediately instead of only reading AI news."
+      ],
+      "glossary": {
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "workflow"
+      ],
+      "source_id": "evergreen-chatgpt-voice-sales-objections",
+      "source_url": "https://genlabs.in.th/ai-learning/evergreen",
+      "thai_call_to_action": "วันนี้ซ้อม objection ที่เจอบ่อยที่สุด 1 ข้อกับ ChatGPT Voice ก่อนคุยลูกค้าจริง",
+      "thai_hook": "ลูกค้าบอกแพง? ซ้อมตอบกับ ChatGPT Voice ก่อนคุยจริง",
+      "thai_problem": "หลายคนรู้จุดขายของตัวเอง แต่พอเจอ objection จริงกลับตอบยาว วกวน หรือรีบลดราคา",
+      "thai_tips": [
+        "บอกสินค้า ราคา และลูกค้าเป้าหมาย",
+        "ให้ AI roleplay ลูกค้าที่ลังเลหรือเทียบคู่แข่ง",
+        "ซ้อมตอบ objection: แพง ขอคิดก่อน ไม่มั่นใจ",
+        "ขอ critique ว่าคำตอบยาวหรือกดดันเกินไหม",
+        "retry ด้วยลูกค้าที่พูดยากขึ้น 1 รอบ"
+      ],
+      "thai_trend_angle": "Voice mode ใช้เป็นสนามซ้อมขาย เพราะ AI เล่นบทลูกค้าและให้ feedback หลังซ้อมได้ทันที"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "genlabs-ai-learning",
+    "clean_headline": "ChatGPT Voice ช่วยซ้อมตอบ objection ลูกค้าก่อนคุยจริง Audience: sales, founder, freelancer, online seller Tool: ChatGPT Voice Practical workflow: กำหนดสินค้าและ",
+    "clean_summary": "ChatGPT Voice ช่วยซ้อมตอบ objection ลูกค้าก่อนคุยจริง Audience: sales, founder, freelancer, online seller Tool: ChatGPT Voice Practical workflow: กำหนดสินค้าและลูกค้า -> ให้ AI roleplay buyer -> ซ้อม objection แพง/ขอคิดก่อน/เทียบคู่แข่ง -> ขอ critique -> retry ด้วย tone ที่ยากขึ้น พร้อม visual metaphor: phone-call bubbles, buyer mood meter, retry loop Create a Thai GenLabs AI Learning carousel with exact steps, input/output examples, checklist, common mistake, and one action to try today. No source attribution, no news framing, no hype, no income promise.",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "workflow"
+    ],
+    "original_language": "en",
+    "raw_text": "ChatGPT Voice ช่วยซ้อมตอบ objection ลูกค้าก่อนคุยจริง\nAudience: sales, founder, freelancer, online seller\nTool: ChatGPT Voice\nPractical workflow: กำหนดสินค้าและลูกค้า -> ให้ AI roleplay buyer -> ซ้อม objection แพง/ขอคิดก่อน/เทียบคู่แข่ง -> ขอ critique -> retry ด้วย tone ที่ยากขึ้น พร้อม visual metaphor: phone-call bubbles, buyer mood meter, retry loop\nCreate a Thai GenLabs AI Learning carousel with exact steps, input/output examples, checklist, common mistake, and one action to try today. No source attribution, no news framing, no hype, no income promise.",
+    "source_id": "evergreen-chatgpt-voice-sales-objections",
+    "source_url": "https://genlabs.in.th/ai-learning/evergreen",
+    "why_it_matters": "This is trending because people can copy the workflow immediately instead of only reading AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้ซ้อม objection ที่เจอบ่อยที่สุด 1 ข้อกับ ChatGPT Voice ก่อนคุยลูกค้าจริง",
+    "evidence": [
+      "Source: https://genlabs.in.th/ai-learning/evergreen",
+      "Keywords: workflow",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "hook": "ลูกค้าบอกแพง? ซ้อมตอบกับ ChatGPT Voice ก่อนคุยจริง",
+    "original_keywords": [
+      "workflow"
+    ],
+    "original_language": "en",
+    "problem": "หลายคนรู้จุดขายของตัวเอง แต่พอเจอ objection จริงกลับตอบยาว วกวน หรือรีบลดราคา",
+    "source_id": "evergreen-chatgpt-voice-sales-objections",
+    "source_url": "https://genlabs.in.th/ai-learning/evergreen",
+    "tips": [
+      "บอกสินค้า ราคา และลูกค้าเป้าหมาย",
+      "ให้ AI roleplay ลูกค้าที่ลังเลหรือเทียบคู่แข่ง",
+      "ซ้อมตอบ objection: แพง ขอคิดก่อน ไม่มั่นใจ",
+      "ขอ critique ว่าคำตอบยาวหรือกดดันเกินไหม",
+      "retry ด้วยลูกค้าที่พูดยากขึ้น 1 รอบ"
+    ],
+    "trend_angle": "Voice mode ใช้เป็นสนามซ้อมขาย เพราะ AI เล่นบทลูกค้าและให้ feedback หลังซ้อมได้ทันที"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "JWDDFHT8OSNbrp7iez_sq_clopo0wm.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a989954/JWDDFHT8OSNbrp7iez_sq_clopo0wm.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260502T133358Z-evergreen-chatgpt-voice-/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "OhDf3yE-s5vTeXZg2GLEJ_q4IS6okA.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98995c/OhDf3yE-s5vTeXZg2GLEJ_q4IS6okA.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260502T133358Z-evergreen-chatgpt-voice-/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "52q0lQ4tEs7Z-ZoN80Z3W_63XEE8Jz.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a989965/52q0lQ4tEs7Z-ZoN80Z3W_63XEE8Jz.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260502T133358Z-evergreen-chatgpt-voice-/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "Wl4wv9SAO4g3sDS7gSdnQ_tGCHvRqH.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98996d/Wl4wv9SAO4g3sDS7gSdnQ_tGCHvRqH.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260502T133358Z-evergreen-chatgpt-voice-/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "b7sV83-22JGsnQ7w5uwXA_TcckVglT.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a989975/b7sV83-22JGsnQ7w5uwXA_TcckVglT.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260502T133358Z-evergreen-chatgpt-voice-/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "R8fMuA5Lc-wNhAp0IFRPV_F6tJoyUE.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98997d/R8fMuA5Lc-wNhAp0IFRPV_F6tJoyUE.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260502T133358Z-evergreen-chatgpt-voice-/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "xV_AR-lHslKWiHB6VYGvx_xAFuWvFL.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a989987/xV_AR-lHslKWiHB6VYGvx_xAFuWvFL.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260502T133358Z-evergreen-chatgpt-voice-/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 8,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260502T133358Z-evergreen-chatgpt-voice-/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: หลายคนรู้จุดขายของตัวเอง แต่พอเจอ objection จริงกลับตอบยาว วกวน หรือรีบลดราคา\n\n📌 ทำไมควรเซฟโพสต์นี้: Voice mode ใช้เป็นสนามซ้อมขาย เพราะ AI เล่นบทลูกค้าและให้ feedback หลังซ้อมได้ทันที\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ บอกสินค้า ราคา และลูกค้าเป้าหมาย\n\n2) ✨ ให้ AI roleplay ลูกค้าที่ลังเลหรือเทียบคู่แข่ง\n\n3) ✨ ซ้อมตอบ objection: แพง ขอคิดก่อน ไม่มั่นใจ\n\n4) ✨ ขอ critique ว่าคำตอบยาวหรือกดดันเกินไหม\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "ลูกค้าบอกแพง? ซ้อมตอบกับ ChatGPT Voice ก่อนคุยจริง #AIมือใหม่  เอาไปใช้กับงานจริงได้ทันที"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://genlabs.in.th/ai-learning/evergreen",
+      "Keywords: workflow",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "glossary": {
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "workflow"
+    ],
+    "source_id": "evergreen-chatgpt-voice-sales-objections",
+    "source_url": "https://genlabs.in.th/ai-learning/evergreen",
+    "thai_call_to_action": "วันนี้ซ้อม objection ที่เจอบ่อยที่สุด 1 ข้อกับ ChatGPT Voice ก่อนคุยลูกค้าจริง",
+    "thai_hook": "ลูกค้าบอกแพง? ซ้อมตอบกับ ChatGPT Voice ก่อนคุยจริง",
+    "thai_problem": "หลายคนรู้จุดขายของตัวเอง แต่พอเจอ objection จริงกลับตอบยาว วกวน หรือรีบลดราคา",
+    "thai_tips": [
+      "บอกสินค้า ราคา และลูกค้าเป้าหมาย",
+      "ให้ AI roleplay ลูกค้าที่ลังเลหรือเทียบคู่แข่ง",
+      "ซ้อมตอบ objection: แพง ขอคิดก่อน ไม่มั่นใจ",
+      "ขอ critique ว่าคำตอบยาวหรือกดดันเกินไหม",
+      "retry ด้วยลูกค้าที่พูดยากขึ้น 1 รอบ"
+    ],
+    "thai_trend_angle": "Voice mode ใช้เป็นสนามซ้อมขาย เพราะ AI เล่นบทลูกค้าและให้ feedback หลังซ้อมได้ทันที"
+  }
+}

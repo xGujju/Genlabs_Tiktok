@@ -93,3 +93,10 @@
 - Evidence: partial folder `auto-20260430T042427Z-evergreen-chatgpt-email-` has 6 PNGs, no `manifest.json`; exact Airtable `Carousel Posts.Source ID=evergreen-chatgpt-email-inbox-triage` not found; no lingering `scheduled_ai_social_draft_factory.py` process.
 - Blocker classification: FAL/image-generation timeout before publish stage, not Zernio publish failure.
 - Next improvement: inspect why the evergreen email triage source times out repeatedly and avoid retry loops without a complete manifest.
+
+## 2026-05-02T12:50:40.268060+00:00 — Hourly Zernio draft factory no-draft
+- Command: `venv/bin/python scripts/scheduled_ai_social_draft_factory.py --limit 1 --apply --quality medium --send-to-zernio`
+- Result: status ok but `draft_count=0`; no Airtable record, no Zernio draft, no media manifest.
+- Verification: latest_social_draft_factory generated_at/mtime matched current run; eligible canonical sample count 0; evergreen remaining 0/20; partial source IDs 18; no lingering scheduled_ai_social_draft_factory/staged radar processes.
+- Classification: source-lane exhaustion / empty eligible selector rather than FAL or Zernio failure.
+- Next improvement: refresh or add cleaner eligible source lanes (YouTube practical workflows, first-party releases, Sway-approved accounts) before retrying paid generation.

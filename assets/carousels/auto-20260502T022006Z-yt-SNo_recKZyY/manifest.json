@@ -1,0 +1,269 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a988989/ETowD6Lu7TAQcR5UOcJFP_pwWtmGed.png",
+    "https://v3b.fal.media/files/b/0a988991/C0wTBAmZO83x_j7k43YbL_jz1FU51F.png",
+    "https://v3b.fal.media/files/b/0a988999/2-Npq8yzm9uk_9nz5NIC8_c1kMtmkL.png",
+    "https://v3b.fal.media/files/b/0a9889a1/Jf-pVNPJRaRvdiICznk4o_mTnLJtQa.png",
+    "https://v3b.fal.media/files/b/0a9889a9/ummxvXagbS4rml9CrySDQ_X123YD9U.png",
+    "https://v3b.fal.media/files/b/0a9889b1/peL_vy13QFnowzjZB8vq7_AAHweg3t.png",
+    "https://v3b.fal.media/files/b/0a9889b9/yOGBTwhaRJ0IFvG80DgZu_xrXuXG8E.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 7,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/7 role=hook. Thai copy: ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที\nworkflow • AI automation. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที\nworkflow • AI automation",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/7 role=problem. Thai copy: ปัญหา: หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มี owner, due date, risk หรือข้อความ follow-up ที่เอาไปส่งต่อได้. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มี owner, due date, risk หรือข้อความ follow-up ที่เอาไปส่งต่อได้",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/7 role=trend. Thai copy: ทำไมควรสนใจ:\nAI meeting workflow ที่ดีต้องเปลี่ยน transcript/notes เป็น decision, action, owner, due date และ risk. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nAI meeting workflow ที่ดีต้องเปลี่ยน transcript/notes เป็น decision, action, owner, due date และ risk",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/7 role=tips. Thai copy: ลองใช้แบบนี้:\n1) วาง transcript หรือ notes หลังประชุม\n2) ขอตาราง decision / owner / due date / risk\n3) ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE\n4) ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) วาง transcript หรือ notes หลังประชุม\n2) ขอตาราง decision / owner / due date / risk\n3) ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE\n4) ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/7 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/7 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\n5) เก็บ template นี้ไว้ใช้ทุกประชุม. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\n5) เก็บ template นี้ไว้ใช้ทุกประชุม",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/7 role=cta. Thai copy: ลองวันนี้:\nวันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "yt-SNo_recKZyY",
+    "source_url": "https://www.youtube.com/watch?v=SNo_recKZyY",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://www.youtube.com/watch?v=SNo_recKZyY",
+        "Keywords: workflow, AI automation",
+        "This is trending because people can copy the workflow immediately instead of only reading AI news."
+      ],
+      "glossary": {
+        "AI automation": "ระบบอัตโนมัติด้วย AI",
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "workflow",
+        "AI automation"
+      ],
+      "source_id": "yt-SNo_recKZyY",
+      "source_url": "https://www.youtube.com/watch?v=SNo_recKZyY",
+      "thai_call_to_action": "วันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message",
+      "thai_hook": "ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที",
+      "thai_problem": "หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มี owner, due date, risk หรือข้อความ follow-up ที่เอาไปส่งต่อได้",
+      "thai_tips": [
+        "วาง transcript หรือ notes หลังประชุม",
+        "ขอตาราง decision / owner / due date / risk",
+        "ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE",
+        "ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ",
+        "เก็บ template นี้ไว้ใช้ทุกประชุม"
+      ],
+      "thai_trend_angle": "AI meeting workflow ที่ดีต้องเปลี่ยน transcript/notes เป็น decision, action, owner, due date และ risk ไม่ใช่แค่สรุปว่าใครพูดอะไร"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "AI Master",
+    "clean_headline": "How to Use Claude Cowork – Full Workflow Automation Guide 2026 AI Master sponsored Start building with Softr!",
+    "clean_summary": "How to Use Claude Cowork – Full Workflow Automation Guide 2026 AI Master sponsored Start building with Softr! Transcript: How to Use Claude Cowork – Full Workflow Automation Guide 2026 description&redir_token=REDACTED&q=https%3A%2F%2Fsoftr.io%2Fbuild-with%2Farthur-winer%3Futm_source%3Dai_master%26utm_medium%3Dinfluencer%26utm_campaign%3Dai_co-builder%26utm_content%3Dai_master_march_launch_yt_integration1&v=SNo_recKZyY) 🚀 Become an AI Master – All-in-one AI Learning [ ...more How this was made Auto-dubbed Audio tracks for some languages were automatically generated. [Learn more]( ## Chapters View all [![Image 8]( #### Intro #### Intro 0:00]( #### [Intro]( 0:00 [![Image 9]( #### What is Claude Cowork #### What is Claude Cowork 0:28]( #### [What is Claude Cowork]( 0:28 [![Image 10]( #### The Setup That Changes Everything #### The Setup That Changes Everything 1:39]( #### [The Setup That Changes Everything]( 1:39 [![Image 11]( #### Meeting Transcripts Demo #### Meeting Transcripts Demo 3:00]( #### [Meeting Transcripts Demo]( 3:00 [![Image 12]( #### Live Demo: Research to Report #### Live Demo: Research to Report 4:53]( #### [Live Demo: Research to Report]( 4:53 [![Image 13]( #### Projects & Persistent Memory #### Projects & Persistent Memory 6:38]( #### [Projects & Persistent Memory]( 6:38 [![Image 14]( #### Skills: Repeatable Playbooks #### Skills: Repeatable Playbooks 9:37]( #### [Skills: Repeatable Playbooks]( 9:37 [![Image 15]( #### Scheduled Tasks & Dispatch #### Scheduled Tasks & Dispatch 10:54]( #### [Scheduled Tasks & Dispatch]( 10:54 Explore this course [![Image 16]( lessons 11 lessons]( Claude – Full Course 2026 (How to use Claude AI for beginners) AI Master ### Course progress 0 of 11 lessons complete Transcript Follow along using the transcript. Show transcript [![Image 17]( ### AI Master 273K subscribers]( [Videos]( 18]( Instagram]( Show less []( – Full Course 2026 (How to use Claude AI for beginners)]( # How to Use Claude Cowork – Full Workflow Automation G ## Chapters View all [![Image 8]( #### Intro #### Intro 0:00]( #### [Intro]( 0:00 [![Image 9]( #### What is Claude Cowork #### What is Claude Cowork 0:28]( #### [What is Claude Cowork]( 0:28 [![Image 10]( #### The Setup That Changes Everything #### The Setup That Changes Everything 1:39]( #### [The Setup That Changes Everything]( 1:39 [![Image 11]( #### Meeting Transcripts Demo #### Meeting Transcripts Demo 3:00]( #### [Meeting Transcripts Demo]( 3:00 [![Image 12]( #### Live Demo: Research to Report #### Live Demo: Research to Report 4:53]( #### [Live Demo: Research to Report]( 4:53 [![Image 13]( #### Projects & Persistent Memory #### Projects & Persistent Memory 6:38]( #### [Projects & Persistent Memory]( 6:38 [![Image 14]( #### Skills: Repeatable Playbooks #### Skills: Repeatable Playbooks 9:37]( #### [Skills: Repeatable Playbooks]( 9:37 [![Image 15]( #### Scheduled Tasks & Dispatch #### Scheduled Tasks & Dispatch 10:54]( #### [Scheduled Tasks & Dispatch]( 10:54 Explore this course [![Image 16]( lessons 11 lessons]( Claude – Full Course 2026 (How to use Claude AI for beginners) AI Master ### Course progress 0 of 11 lessons complete Transcript Follow along using the transcript. Show transcript [![Image 17]( ### AI Master 273K subscribers]( [Videos]( 18]( Instagram](",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 70868,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "workflow",
+      "AI automation"
+    ],
+    "original_language": "en",
+    "raw_text": "YouTube title: How to Use Claude Cowork – Full Workflow Automation Guide 2026\nChannel: AI Master\nDescription: sponsored Start building with Softr!\nTranscript:\nTitle: How to Use Claude Cowork – Full Workflow Automation Guide 2026 description&redir_token=REDACTED&q=https%3A%2F%2Fsoftr.io%2Fbuild-with%2Farthur-winer%3Futm_source%3Dai_master%26utm_medium%3Dinfluencer%26utm_campaign%3Dai_co-builder%26utm_content%3Dai_master_march_launch_yt_integration1&v=SNo_recKZyY) 🚀 Become an AI Master – All-in-one AI Learning [https://aimaster.me/yt/cowork](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Faimaster.me%2Fyt%2Fcowork&v=SNo_recKZyY)…...more ...more How this was made Auto-dubbed Audio tracks for some languages were automatically generated. [Learn more](https://support.google.com/youtube/answer/15569972?hl=en) ## Chapters View all [![Image 8](https://www.youtube.com/watch?v=SNo_recKZyY) #### Intro #### Intro 0:00](https://www.youtube.com/watch?v=SNo_recKZyY) #### [Intro](https://www.youtube.com/watch?v=SNo_recKZyY) 0:00 [![Image 9](https://www.youtube.com/watch?v=SNo_recKZyY) #### What is Claude Cowork #### What is Claude Cowork 0:28](https://www.youtube.com/watch?v=SNo_recKZyY&t=28s) #### [What is Claude Cowork](https://www.youtube.com/watch?v=SNo_recKZyY&t=28s) 0:28 [![Image 10](https://www.youtube.com/watch?v=SNo_recKZyY) #### The Setup That Changes Everything #### The Setup That Changes Everything 1:39](https://www.youtube.com/watch?v=SNo_recKZyY&t=99s) #### [The Setup That Changes Everything](https://www.youtube.com/watch?v=SNo_recKZyY&t=99s) 1:39 [![Image 11](https://www.youtube.com/watch?v=SNo_recKZyY) #### Meeting Transcripts Demo #### Meeting Transcripts Demo 3:00](https://www.youtube.com/watch?v=SNo_recKZyY&t=180s) #### [Meeting Transcripts Demo](https://www.youtube.com/watch?v=SNo_recKZyY&t=180s) 3:00 [![Image 12](https://www.youtube.com/watch?v=SNo_recKZyY) #### Live Demo: Research to Report #### Live Demo: Research to Report 4:53](https://www.youtube.com/watch?v=SNo_recKZyY&t=293s) #### [Live Demo: Research to Report](https://www.youtube.com/watch?v=SNo_recKZyY&t=293s) 4:53 [![Image 13](https://www.youtube.com/watch?v=SNo_recKZyY) #### Projects & Persistent Memory #### Projects & Persistent Memory 6:38](https://www.youtube.com/watch?v=SNo_recKZyY&t=398s) #### [Projects & Persistent Memory](https://www.youtube.com/watch?v=SNo_recKZyY&t=398s) 6:38 [![Image 14](https://www.youtube.com/watch?v=SNo_recKZyY) #### Skills: Repeatable Playbooks #### Skills: Repeatable Playbooks 9:37](https://www.youtube.com/watch?v=SNo_recKZyY&t=577s) #### [Skills: Repeatable Playbooks](https://www.youtube.com/watch?v=SNo_recKZyY&t=577s) 9:37 [![Image 15](https://www.youtube.com/watch?v=SNo_recKZyY) #### Scheduled Tasks & Dispatch #### Scheduled Tasks & Dispatch 10:54](https://www.youtube.com/watch?v=SNo_recKZyY&t=654s) #### [Scheduled Tasks & Dispatch](https://www.youtube.com/watch?v=SNo_recKZyY&t=654s) 10:54 Explore this course [![Image 16](https://www.youtube.com/watch?v=SNo_recKZyY)11 lessons 11 lessons](https://www.youtube.com/playlist?list=PLHmEk7iRj6dszZo_nqcNtYVBGgMw5THsK) Claude – Full Course 2026 (How to use Claude AI for beginners) AI Master ### Course progress 0 of 11 lessons complete Transcript Follow along using the transcript. Show transcript [![Image 17](https://www.youtube.com/watch?v=SNo_recKZyY) ### AI Master 273K subscribers](https://www.youtube.com/@iamAImaster) [Videos](https://www.youtube.com/channel/UC0yHbz4OxdQFwmVX2BBQqLg/videos)[About](https://www.youtube.com/channel/UC0yHbz4OxdQFwmVX2BBQqLg/about)[![Image 18](https://www.youtube.com/watch?v=SNo_recKZyY) Instagram](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=REDACTED&q=https%3A%2F%2Fwww.instagram.com%2Fiam.aimaster%2F) Show less [](https://www.youtube.com/playlist?list=PLHmEk7iRj6dszZo_nqcNtYVBGgMw5THsK)[Claude – Full Course 2026 (How to use Claude AI for beginners)](https://www.youtube.com/playlist?list=PLHmEk7iRj6dszZo_nqcNtYVBGgMw5THsK) # How to Use Claude Cowork – Full Workflow Automation G ## Chapters View all [![Image 8](https://www.youtube.com/watch?v=SNo_recKZyY) #### Intro #### Intro 0:00](https://www.youtube.com/watch?v=SNo_recKZyY) #### [Intro](https://www.youtube.com/watch?v=SNo_recKZyY) 0:00 [![Image 9](https://www.youtube.com/watch?v=SNo_recKZyY) #### What is Claude Cowork #### What is Claude Cowork 0:28](https://www.youtube.com/watch?v=SNo_recKZyY&t=28s) #### [What is Claude Cowork](https://www.youtube.com/watch?v=SNo_recKZyY&t=28s) 0:28 [![Image 10](https://www.youtube.com/watch?v=SNo_recKZyY) #### The Setup That Changes Everything #### The Setup That Changes Everything 1:39](https://www.youtube.com/watch?v=SNo_recKZyY&t=99s) #### [The Setup That Changes Everything](https://www.youtube.com/watch?v=SNo_recKZyY&t=99s) 1:39 [![Image 11](https://www.youtube.com/watch?v=SNo_recKZyY) #### Meeting Transcripts Demo #### Meeting Transcripts Demo 3:00](https://www.youtube.com/watch?v=SNo_recKZyY&t=180s) #### [Meeting Transcripts Demo](https://www.youtube.com/watch?v=SNo_recKZyY&t=180s) 3:00 [![Image 12](https://www.youtube.com/watch?v=SNo_recKZyY) #### Live Demo: Research to Report #### Live Demo: Research to Report 4:53](https://www.youtube.com/watch?v=SNo_recKZyY&t=293s) #### [Live Demo: Research to Report](https://www.youtube.com/watch?v=SNo_recKZyY&t=293s) 4:53 [![Image 13](https://www.youtube.com/watch?v=SNo_recKZyY) #### Projects & Persistent Memory #### Projects & Persistent Memory 6:38](https://www.youtube.com/watch?v=SNo_recKZyY&t=398s) #### [Projects & Persistent Memory](https://www.youtube.com/watch?v=SNo_recKZyY&t=398s) 6:38 [![Image 14](https://www.youtube.com/watch?v=SNo_recKZyY) #### Skills: Repeatable Playbooks #### Skills: Repeatable Playbooks 9:37](https://www.youtube.com/watch?v=SNo_recKZyY&t=577s) #### [Skills: Repeatable Playbooks](https://www.youtube.com/watch?v=SNo_recKZyY&t=577s) 9:37 [![Image 15](https://www.youtube.com/watch?v=SNo_recKZyY) #### Scheduled Tasks & Dispatch #### Scheduled Tasks & Dispatch 10:54](https://www.youtube.com/watch?v=SNo_recKZyY&t=654s) #### [Scheduled Tasks & Dispatch](https://www.youtube.com/watch?v=SNo_recKZyY&t=654s) 10:54 Explore this course [![Image 16](https://www.youtube.com/watch?v=SNo_recKZyY)11 lessons 11 lessons](https://www.youtube.com/playlist?list=PLHmEk7iRj6dszZo_nqcNtYVBGgMw5THsK) Claude – Full Course 2026 (How to use Claude AI for beginners) AI Master ### Course progress 0 of 11 lessons complete Transcript Follow along using the transcript. Show transcript [![Image 17](https://www.youtube.com/watch?v=SNo_recKZyY) ### AI Master 273K subscribers](https://www.youtube.com/@iamAImaster) [Videos](https://www.youtube.com/channel/UC0yHbz4OxdQFwmVX2BBQqLg/videos)[About](https://www.youtube.com/channel/UC0yHbz4OxdQFwmVX2BBQqLg/about)[![Image 18](https://www.youtube.com/watch?v=SNo_recKZyY) Instagram](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=REDACTED",
+    "source_id": "yt-SNo_recKZyY",
+    "source_url": "https://www.youtube.com/watch?v=SNo_recKZyY",
+    "why_it_matters": "This is trending because people can copy the workflow immediately instead of only reading AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message",
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=SNo_recKZyY",
+      "Keywords: workflow, AI automation",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "hook": "ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที",
+    "original_keywords": [
+      "workflow",
+      "AI automation"
+    ],
+    "original_language": "en",
+    "problem": "หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มี owner, due date, risk หรือข้อความ follow-up ที่เอาไปส่งต่อได้",
+    "source_id": "yt-SNo_recKZyY",
+    "source_url": "https://www.youtube.com/watch?v=SNo_recKZyY",
+    "tips": [
+      "วาง transcript หรือ notes หลังประชุม",
+      "ขอตาราง decision / owner / due date / risk",
+      "ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE",
+      "ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ",
+      "เก็บ template นี้ไว้ใช้ทุกประชุม"
+    ],
+    "trend_angle": "AI meeting workflow ที่ดีต้องเปลี่ยน transcript/notes เป็น decision, action, owner, due date และ risk ไม่ใช่แค่สรุปว่าใครพูดอะไร"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "ETowD6Lu7TAQcR5UOcJFP_pwWtmGed.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a988989/ETowD6Lu7TAQcR5UOcJFP_pwWtmGed.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260502T022006Z-yt-SNo_recKZyY/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "C0wTBAmZO83x_j7k43YbL_jz1FU51F.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a988991/C0wTBAmZO83x_j7k43YbL_jz1FU51F.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260502T022006Z-yt-SNo_recKZyY/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "2-Npq8yzm9uk_9nz5NIC8_c1kMtmkL.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a988999/2-Npq8yzm9uk_9nz5NIC8_c1kMtmkL.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260502T022006Z-yt-SNo_recKZyY/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "Jf-pVNPJRaRvdiICznk4o_mTnLJtQa.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9889a1/Jf-pVNPJRaRvdiICznk4o_mTnLJtQa.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260502T022006Z-yt-SNo_recKZyY/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "ummxvXagbS4rml9CrySDQ_X123YD9U.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9889a9/ummxvXagbS4rml9CrySDQ_X123YD9U.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260502T022006Z-yt-SNo_recKZyY/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "peL_vy13QFnowzjZB8vq7_AAHweg3t.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9889b1/peL_vy13QFnowzjZB8vq7_AAHweg3t.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260502T022006Z-yt-SNo_recKZyY/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "yOGBTwhaRJ0IFvG80DgZu_xrXuXG8E.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9889b9/yOGBTwhaRJ0IFvG80DgZu_xrXuXG8E.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260502T022006Z-yt-SNo_recKZyY/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 8,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260502T022006Z-yt-SNo_recKZyY/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มี owner, due date, risk หรือข้อความ follow-up ที่เอาไปส่งต่อได้\n\n📌 ทำไมควรเซฟโพสต์นี้: AI meeting workflow ที่ดีต้องเปลี่ยน transcript/notes เป็น decision, action, owner, due date และ risk ไม่ใช่แค่สรุปว่าใครพูดอะไร\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ วาง transcript หรือ notes หลังประชุม\n\n2) ✨ ขอตาราง decision / owner / due date / risk\n\n3) ✨ ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE\n\n4) ✨ ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที #AIมือใหม่  เอาไปใช้กับงานจริงได้ทันที"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=SNo_recKZyY",
+      "Keywords: workflow, AI automation",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "glossary": {
+      "AI automation": "ระบบอัตโนมัติด้วย AI",
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "workflow",
+      "AI automation"
+    ],
+    "source_id": "yt-SNo_recKZyY",
+    "source_url": "https://www.youtube.com/watch?v=SNo_recKZyY",
+    "thai_call_to_action": "วันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message",
+    "thai_hook": "ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที",
+    "thai_problem": "หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มี owner, due date, risk หรือข้อความ follow-up ที่เอาไปส่งต่อได้",
+    "thai_tips": [
+      "วาง transcript หรือ notes หลังประชุม",
+      "ขอตาราง decision / owner / due date / risk",
+      "ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE",
+      "ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ",
+      "เก็บ template นี้ไว้ใช้ทุกประชุม"
+    ],
+    "thai_trend_angle": "AI meeting workflow ที่ดีต้องเปลี่ยน transcript/notes เป็น decision, action, owner, due date และ risk ไม่ใช่แค่สรุปว่าใครพูดอะไร"
+  }
+}

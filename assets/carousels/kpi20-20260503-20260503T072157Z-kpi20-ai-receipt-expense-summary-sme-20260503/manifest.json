@@ -1,0 +1,237 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a98b25c/HgvOWmbSSU-Pzaf9GOgZH_vsCWilvB.png",
+    "https://v3b.fal.media/files/b/0a98b260/dKPuouixCw8wa3g6Is9l3_Qk4m3JHd.png",
+    "https://v3b.fal.media/files/b/0a98b265/RFhRaLkD2KY-6Fdrc-b4J_gN2tI2l9.png",
+    "https://v3b.fal.media/files/b/0a98b269/xMelKxIyGWQgfAQsTkr5s_nAYWDUqY.png",
+    "https://v3b.fal.media/files/b/0a98b26d/EY7LDWD9f6-cjQDUXPMQl_PqdwAmXf.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 5,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/5 role=hook. Exact Thai copy: ใช้ AI\nสรุปใบเสร็จ\nก่อนส่งบัญชี. Visual direction: pile of receipts becoming clean expense table. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "ใช้ AI\nสรุปใบเสร็จ\nก่อนส่งบัญชี",
+        "visual_direction": "pile of receipts becoming clean expense table"
+      },
+      {
+        "image_prompt": "Slide 2/5 role=problem. Exact Thai copy: ปลายเดือนวุ่น:\nใบเสร็จปนกัน\nยอดไม่ตรง\nหมวดไม่ชัด. Visual direction: stressed shop owner sorting receipts. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปลายเดือนวุ่น:\nใบเสร็จปนกัน\nยอดไม่ตรง\nหมวดไม่ชัด",
+        "visual_direction": "stressed shop owner sorting receipts"
+      },
+      {
+        "image_prompt": "Slide 3/5 role=workflow. Exact Thai copy: ขั้นตอน:\nถ่ายชัด → AI ดึงข้อมูล → ทำ Sheet → ตรวจยอด. Visual direction: receipt OCR workflow with verification magnifier. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 3,
+        "role": "workflow",
+        "thai_copy": "ขั้นตอน:\nถ่ายชัด → AI ดึงข้อมูล → ทำ Sheet → ตรวจยอด",
+        "visual_direction": "receipt OCR workflow with verification magnifier"
+      },
+      {
+        "image_prompt": "Slide 4/5 role=safety. Exact Thai copy: กฎสำคัญ:\nปิดข้อมูลส่วนตัว\nให้บัญชีตรวจภาษีจริง. Visual direction: privacy shield and accountant check stamp. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 4,
+        "role": "safety",
+        "thai_copy": "กฎสำคัญ:\nปิดข้อมูลส่วนตัว\nให้บัญชีตรวจภาษีจริง",
+        "visual_direction": "privacy shield and accountant check stamp"
+      },
+      {
+        "image_prompt": "Slide 5/5 role=cta. Exact Thai copy: ลองวันนี้:\nใบเสร็จ 10 ใบ\nเป็นตาราง 1 หน้า. Visual direction: small receipt batch action checklist. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 5,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nใบเสร็จ 10 ใบ\nเป็นตาราง 1 หน้า",
+        "visual_direction": "small receipt batch action checklist"
+      }
+    ],
+    "source_id": "kpi20-ai-receipt-expense-summary-sme-20260503",
+    "source_url": "internal://genlabs/kpi20/ai-receipt-expense-summary-sme",
+    "thai_brief": {
+      "evidence": [
+        "Internal GenLabs educational content plan",
+        "Action-based Thai AI money-making lesson"
+      ],
+      "glossary": {
+        "AI": "AI",
+        "expense": "expense",
+        "receipt": "receipt",
+        "บัญชี": "บัญชี"
+      },
+      "original_keywords": [
+        "AI",
+        "receipt",
+        "expense",
+        "บัญชี"
+      ],
+      "source_id": "kpi20-ai-receipt-expense-summary-sme-20260503",
+      "source_url": "internal://genlabs/kpi20/ai-receipt-expense-summary-sme",
+      "thai_call_to_action": "วันนี้ลองกับใบเสร็จ 10 ใบ แล้วทำตารางค่าใช้จ่าย 1 หน้า",
+      "thai_hook": "ใบเสร็จกองเต็มโต๊ะ? ใช้ AI สรุปค่าใช้จ่ายก่อนส่งบัญชี",
+      "thai_problem": "เจ้าของร้านมักเก็บใบเสร็จปนกัน ไม่รู้หมวดค่าใช้จ่าย และส่งข้อมูลให้บัญชีแบบกระจัดกระจายตอนปลายเดือน",
+      "thai_tips": [
+        "ถ่ายใบเสร็จให้ชัด แยกเดือนและร้านค้า",
+        "ให้ AI ดึงวันที่ ร้าน ยอด และหมวดค่าใช้จ่าย",
+        "ส่งออกเป็นตาราง Google Sheets",
+        "สุ่มตรวจยอดใหญ่และใบเสร็จที่อ่านไม่ชัด",
+        "ห้ามให้ AI ตัดสินภาษีแทนนักบัญชี"
+      ],
+      "thai_trend_angle": "AI ช่วยอ่านและจัดหมวดเบื้องต้นได้ แต่ต้องปิดข้อมูลส่วนตัว ตรวจยอด และให้บัญชีเป็นคนตัดสินภาษีจริง"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "genlabs-ai-learning",
+    "clean_headline": "ใบเสร็จกองเต็มโต๊ะ? ใช้ AI สรุปค่าใช้จ่ายก่อนส่งบัญชี",
+    "clean_summary": "เจ้าของร้านมักเก็บใบเสร็จปนกัน ไม่รู้หมวดค่าใช้จ่าย และส่งข้อมูลให้บัญชีแบบกระจัดกระจายตอนปลายเดือน",
+    "metrics_snapshot": {},
+    "original_keywords": [
+      "AI",
+      "receipt",
+      "expense",
+      "บัญชี"
+    ],
+    "original_language": "th",
+    "raw_text": "ใบเสร็จกองเต็มโต๊ะ? ใช้ AI สรุปค่าใช้จ่ายก่อนส่งบัญชี\nเจ้าของร้านมักเก็บใบเสร็จปนกัน ไม่รู้หมวดค่าใช้จ่าย และส่งข้อมูลให้บัญชีแบบกระจัดกระจายตอนปลายเดือน\nAI ช่วยอ่านและจัดหมวดเบื้องต้นได้ แต่ต้องปิดข้อมูลส่วนตัว ตรวจยอด และให้บัญชีเป็นคนตัดสินภาษีจริง\nถ่ายใบเสร็จให้ชัด แยกเดือนและร้านค้า\nให้ AI ดึงวันที่ ร้าน ยอด และหมวดค่าใช้จ่าย\nส่งออกเป็นตาราง Google Sheets\nสุ่มตรวจยอดใหญ่และใบเสร็จที่อ่านไม่ชัด\nห้ามให้ AI ตัดสินภาษีแทนนักบัญชี",
+    "source_id": "kpi20-ai-receipt-expense-summary-sme-20260503",
+    "source_url": "internal://genlabs/kpi20/ai-receipt-expense-summary-sme",
+    "why_it_matters": "Practical Thai AI money-making education; no fake income promises."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้ลองกับใบเสร็จ 10 ใบ แล้วทำตารางค่าใช้จ่าย 1 หน้า",
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "hook": "ใบเสร็จกองเต็มโต๊ะ? ใช้ AI สรุปค่าใช้จ่ายก่อนส่งบัญชี",
+    "original_keywords": [
+      "AI",
+      "receipt",
+      "expense",
+      "บัญชี"
+    ],
+    "original_language": "th",
+    "problem": "เจ้าของร้านมักเก็บใบเสร็จปนกัน ไม่รู้หมวดค่าใช้จ่าย และส่งข้อมูลให้บัญชีแบบกระจัดกระจายตอนปลายเดือน",
+    "source_id": "kpi20-ai-receipt-expense-summary-sme-20260503",
+    "source_url": "internal://genlabs/kpi20/ai-receipt-expense-summary-sme",
+    "tips": [
+      "ถ่ายใบเสร็จให้ชัด แยกเดือนและร้านค้า",
+      "ให้ AI ดึงวันที่ ร้าน ยอด และหมวดค่าใช้จ่าย",
+      "ส่งออกเป็นตาราง Google Sheets",
+      "สุ่มตรวจยอดใหญ่และใบเสร็จที่อ่านไม่ชัด",
+      "ห้ามให้ AI ตัดสินภาษีแทนนักบัญชี"
+    ],
+    "trend_angle": "AI ช่วยอ่านและจัดหมวดเบื้องต้นได้ แต่ต้องปิดข้อมูลส่วนตัว ตรวจยอด และให้บัญชีเป็นคนตัดสินภาษีจริง"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "HgvOWmbSSU-Pzaf9GOgZH_vsCWilvB.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b25c/HgvOWmbSSU-Pzaf9GOgZH_vsCWilvB.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072157Z-kpi20-ai-receipt-expense-summary-sme-20260503/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "dKPuouixCw8wa3g6Is9l3_Qk4m3JHd.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b260/dKPuouixCw8wa3g6Is9l3_Qk4m3JHd.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072157Z-kpi20-ai-receipt-expense-summary-sme-20260503/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "RFhRaLkD2KY-6Fdrc-b4J_gN2tI2l9.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b265/RFhRaLkD2KY-6Fdrc-b4J_gN2tI2l9.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072157Z-kpi20-ai-receipt-expense-summary-sme-20260503/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "xMelKxIyGWQgfAQsTkr5s_nAYWDUqY.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b269/xMelKxIyGWQgfAQsTkr5s_nAYWDUqY.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072157Z-kpi20-ai-receipt-expense-summary-sme-20260503/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "EY7LDWD9f6-cjQDUXPMQl_PqdwAmXf.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b26d/EY7LDWD9f6-cjQDUXPMQl_PqdwAmXf.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072157Z-kpi20-ai-receipt-expense-summary-sme-20260503/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 6,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072157Z-kpi20-ai-receipt-expense-summary-sme-20260503/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: เจ้าของร้านมักเก็บใบเสร็จปนกัน ไม่รู้หมวดค่าใช้จ่าย และส่งข้อมูลให้บัญชีแบบกระจัดกระจายตอนปลายเดือน\n\n📌 ทำไมควรเซฟโพสต์นี้: AI ช่วยอ่านและจัดหมวดเบื้องต้นได้ แต่ต้องปิดข้อมูลส่วนตัว ตรวจยอด และให้บัญชีเป็นคนตัดสินภาษีจริง\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ ถ่ายใบเสร็จให้ชัด แยกเดือนและร้านค้า\n\n2) ✨ ให้ AI ดึงวันที่ ร้าน ยอด และหมวดค่าใช้จ่าย\n\n3) ✨ ส่งออกเป็นตาราง Google Sheets\n\n4) ✨ สุ่มตรวจยอดใหญ่และใบเสร็จที่อ่านไม่ชัด\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ขายของออนไลน์"
+    ],
+    "title": "ใบเสร็จกองเต็มโต๊ะ? ใช้ AI สรุปค่าใช้จ่ายก่อนส่งบัญชี #AIมือใหม่"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "glossary": {
+      "AI": "AI",
+      "expense": "expense",
+      "receipt": "receipt",
+      "บัญชี": "บัญชี"
+    },
+    "original_keywords": [
+      "AI",
+      "receipt",
+      "expense",
+      "บัญชี"
+    ],
+    "source_id": "kpi20-ai-receipt-expense-summary-sme-20260503",
+    "source_url": "internal://genlabs/kpi20/ai-receipt-expense-summary-sme",
+    "thai_call_to_action": "วันนี้ลองกับใบเสร็จ 10 ใบ แล้วทำตารางค่าใช้จ่าย 1 หน้า",
+    "thai_hook": "ใบเสร็จกองเต็มโต๊ะ? ใช้ AI สรุปค่าใช้จ่ายก่อนส่งบัญชี",
+    "thai_problem": "เจ้าของร้านมักเก็บใบเสร็จปนกัน ไม่รู้หมวดค่าใช้จ่าย และส่งข้อมูลให้บัญชีแบบกระจัดกระจายตอนปลายเดือน",
+    "thai_tips": [
+      "ถ่ายใบเสร็จให้ชัด แยกเดือนและร้านค้า",
+      "ให้ AI ดึงวันที่ ร้าน ยอด และหมวดค่าใช้จ่าย",
+      "ส่งออกเป็นตาราง Google Sheets",
+      "สุ่มตรวจยอดใหญ่และใบเสร็จที่อ่านไม่ชัด",
+      "ห้ามให้ AI ตัดสินภาษีแทนนักบัญชี"
+    ],
+    "thai_trend_angle": "AI ช่วยอ่านและจัดหมวดเบื้องต้นได้ แต่ต้องปิดข้อมูลส่วนตัว ตรวจยอด และให้บัญชีเป็นคนตัดสินภาษีจริง"
+  }
+}

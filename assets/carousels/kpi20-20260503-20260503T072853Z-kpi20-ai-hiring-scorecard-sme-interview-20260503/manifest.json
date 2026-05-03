@@ -1,0 +1,237 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a98b285/RLpA90qdO86EDvbHx9Q80_fSCFPCWI.png",
+    "https://v3b.fal.media/files/b/0a98b289/cDZLVqIe4Xz6C7TqHP4Rd_XouAZ0U2.png",
+    "https://v3b.fal.media/files/b/0a98b28d/ezJbFJiPB4EJtGmfgdnhx_s0N3M98x.png",
+    "https://v3b.fal.media/files/b/0a98b291/EcwezBQ6dlqqG5-dwvvz0_muFjimjE.png",
+    "https://v3b.fal.media/files/b/0a98b295/Jbe-60MGwISCO-1jFbnxV_dxV1rDBD.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 5,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/5 role=hook. Exact Thai copy: ใช้ AI ทำ\nInterview Scorecard\nก่อนสัมภาษณ์. Visual direction: interview table with scorecard and AI assistant. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "ใช้ AI ทำ\nInterview Scorecard\nก่อนสัมภาษณ์",
+        "visual_direction": "interview table with scorecard and AI assistant"
+      },
+      {
+        "image_prompt": "Slide 2/5 role=problem. Exact Thai copy: ถามตามความรู้สึก\nเทียบผู้สมัครยาก. Visual direction: two candidates with inconsistent interview notes. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ถามตามความรู้สึก\nเทียบผู้สมัครยาก",
+        "visual_direction": "two candidates with inconsistent interview notes"
+      },
+      {
+        "image_prompt": "Slide 3/5 role=setup. Exact Thai copy: ใส่ JD + งานจริง\nขอ Competency 5 ข้อ. Visual direction: job description turning into competency cards. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 3,
+        "role": "setup",
+        "thai_copy": "ใส่ JD + งานจริง\nขอ Competency 5 ข้อ",
+        "visual_direction": "job description turning into competency cards"
+      },
+      {
+        "image_prompt": "Slide 4/5 role=rubric. Exact Thai copy: ให้ AI ทำ:\nคำถาม\nRubric 1–5\nRed flags. Visual direction: scorecard columns with red flag icon. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 4,
+        "role": "rubric",
+        "thai_copy": "ให้ AI ทำ:\nคำถาม\nRubric 1–5\nRed flags",
+        "visual_direction": "scorecard columns with red flag icon"
+      },
+      {
+        "image_prompt": "Slide 5/5 role=cta. Exact Thai copy: ลองวันนี้:\nJD 1 ตำแหน่ง\nเป็น Scorecard 5 ข้อ. Visual direction: action checklist for interview prep. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 5,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nJD 1 ตำแหน่ง\nเป็น Scorecard 5 ข้อ",
+        "visual_direction": "action checklist for interview prep"
+      }
+    ],
+    "source_id": "kpi20-ai-hiring-scorecard-sme-interview-20260503",
+    "source_url": "internal://genlabs/kpi20/ai-hiring-scorecard-sme-interview",
+    "thai_brief": {
+      "evidence": [
+        "Internal GenLabs educational content plan",
+        "Action-based Thai AI money-making lesson"
+      ],
+      "glossary": {
+        "AI": "AI",
+        "HR": "HR",
+        "interview": "interview",
+        "scorecard": "scorecard"
+      },
+      "original_keywords": [
+        "AI",
+        "HR",
+        "interview",
+        "scorecard"
+      ],
+      "source_id": "kpi20-ai-hiring-scorecard-sme-interview-20260503",
+      "source_url": "internal://genlabs/kpi20/ai-hiring-scorecard-sme-interview",
+      "thai_call_to_action": "วันนี้เอา JD 1 ตำแหน่งมาทำ scorecard 5 ข้อก่อนสัมภาษณ์",
+      "thai_hook": "สัมภาษณ์คนแบบถามไปเรื่อย? ใช้ AI ทำ scorecard ก่อนคุยผู้สมัคร",
+      "thai_problem": "SME หลายที่สัมภาษณ์ตามความรู้สึก ทำให้เทียบผู้สมัครยาก ลืมถามเรื่องสำคัญ และรับคนไม่ตรงงาน",
+      "thai_tips": [
+        "ใส่ JD ระดับตำแหน่ง และงานที่ต้องทำจริง",
+        "ขอ competency 5 ข้อที่วัดได้",
+        "ให้ AI สร้างคำถามเชิงพฤติกรรมและงานจริง",
+        "ทำ rubric 1–5 พร้อมตัวอย่างคำตอบ",
+        "เพิ่ม red flags ที่ต้องถามต่อ ไม่ใช่ตัดสินจาก AI ล้วน"
+      ],
+      "thai_trend_angle": "AI ช่วยแตก JD เป็น competency, คำถาม และ rubric 1–5 ได้ แต่การตัดสินใจยังต้องใช้คนและหลักฐานจริง"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "genlabs-ai-learning",
+    "clean_headline": "สัมภาษณ์คนแบบถามไปเรื่อย? ใช้ AI ทำ scorecard ก่อนคุยผู้สมัคร",
+    "clean_summary": "SME หลายที่สัมภาษณ์ตามความรู้สึก ทำให้เทียบผู้สมัครยาก ลืมถามเรื่องสำคัญ และรับคนไม่ตรงงาน",
+    "metrics_snapshot": {},
+    "original_keywords": [
+      "AI",
+      "HR",
+      "interview",
+      "scorecard"
+    ],
+    "original_language": "th",
+    "raw_text": "สัมภาษณ์คนแบบถามไปเรื่อย? ใช้ AI ทำ scorecard ก่อนคุยผู้สมัคร\nSME หลายที่สัมภาษณ์ตามความรู้สึก ทำให้เทียบผู้สมัครยาก ลืมถามเรื่องสำคัญ และรับคนไม่ตรงงาน\nAI ช่วยแตก JD เป็น competency, คำถาม และ rubric 1–5 ได้ แต่การตัดสินใจยังต้องใช้คนและหลักฐานจริง\nใส่ JD ระดับตำแหน่ง และงานที่ต้องทำจริง\nขอ competency 5 ข้อที่วัดได้\nให้ AI สร้างคำถามเชิงพฤติกรรมและงานจริง\nทำ rubric 1–5 พร้อมตัวอย่างคำตอบ\nเพิ่ม red flags ที่ต้องถามต่อ ไม่ใช่ตัดสินจาก AI ล้วน",
+    "source_id": "kpi20-ai-hiring-scorecard-sme-interview-20260503",
+    "source_url": "internal://genlabs/kpi20/ai-hiring-scorecard-sme-interview",
+    "why_it_matters": "Practical Thai AI money-making education; no fake income promises."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้เอา JD 1 ตำแหน่งมาทำ scorecard 5 ข้อก่อนสัมภาษณ์",
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "hook": "สัมภาษณ์คนแบบถามไปเรื่อย? ใช้ AI ทำ scorecard ก่อนคุยผู้สมัคร",
+    "original_keywords": [
+      "AI",
+      "HR",
+      "interview",
+      "scorecard"
+    ],
+    "original_language": "th",
+    "problem": "SME หลายที่สัมภาษณ์ตามความรู้สึก ทำให้เทียบผู้สมัครยาก ลืมถามเรื่องสำคัญ และรับคนไม่ตรงงาน",
+    "source_id": "kpi20-ai-hiring-scorecard-sme-interview-20260503",
+    "source_url": "internal://genlabs/kpi20/ai-hiring-scorecard-sme-interview",
+    "tips": [
+      "ใส่ JD ระดับตำแหน่ง และงานที่ต้องทำจริง",
+      "ขอ competency 5 ข้อที่วัดได้",
+      "ให้ AI สร้างคำถามเชิงพฤติกรรมและงานจริง",
+      "ทำ rubric 1–5 พร้อมตัวอย่างคำตอบ",
+      "เพิ่ม red flags ที่ต้องถามต่อ ไม่ใช่ตัดสินจาก AI ล้วน"
+    ],
+    "trend_angle": "AI ช่วยแตก JD เป็น competency, คำถาม และ rubric 1–5 ได้ แต่การตัดสินใจยังต้องใช้คนและหลักฐานจริง"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "RLpA90qdO86EDvbHx9Q80_fSCFPCWI.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b285/RLpA90qdO86EDvbHx9Q80_fSCFPCWI.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072853Z-kpi20-ai-hiring-scorecard-sme-interview-20260503/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "cDZLVqIe4Xz6C7TqHP4Rd_XouAZ0U2.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b289/cDZLVqIe4Xz6C7TqHP4Rd_XouAZ0U2.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072853Z-kpi20-ai-hiring-scorecard-sme-interview-20260503/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "ezJbFJiPB4EJtGmfgdnhx_s0N3M98x.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b28d/ezJbFJiPB4EJtGmfgdnhx_s0N3M98x.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072853Z-kpi20-ai-hiring-scorecard-sme-interview-20260503/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "EcwezBQ6dlqqG5-dwvvz0_muFjimjE.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b291/EcwezBQ6dlqqG5-dwvvz0_muFjimjE.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072853Z-kpi20-ai-hiring-scorecard-sme-interview-20260503/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "Jbe-60MGwISCO-1jFbnxV_dxV1rDBD.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b295/Jbe-60MGwISCO-1jFbnxV_dxV1rDBD.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072853Z-kpi20-ai-hiring-scorecard-sme-interview-20260503/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 6,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072853Z-kpi20-ai-hiring-scorecard-sme-interview-20260503/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: SME หลายที่สัมภาษณ์ตามความรู้สึก ทำให้เทียบผู้สมัครยาก ลืมถามเรื่องสำคัญ และรับคนไม่ตรงงาน\n\n📌 ทำไมควรเซฟโพสต์นี้: AI ช่วยแตก JD เป็น competency, คำถาม และ rubric 1–5 ได้ แต่การตัดสินใจยังต้องใช้คนและหลักฐานจริง\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ ใส่ JD ระดับตำแหน่ง และงานที่ต้องทำจริง\n\n2) ✨ ขอ competency 5 ข้อที่วัดได้\n\n3) ✨ ให้ AI สร้างคำถามเชิงพฤติกรรมและงานจริง\n\n4) ✨ ทำ rubric 1–5 พร้อมตัวอย่างคำตอบ\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ขายของออนไลน์"
+    ],
+    "title": "สัมภาษณ์คนแบบถามไปเรื่อย? ใช้ AI ทำ scorecard ก่อนคุยผู้สมัคร #AIมือใหม่"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "glossary": {
+      "AI": "AI",
+      "HR": "HR",
+      "interview": "interview",
+      "scorecard": "scorecard"
+    },
+    "original_keywords": [
+      "AI",
+      "HR",
+      "interview",
+      "scorecard"
+    ],
+    "source_id": "kpi20-ai-hiring-scorecard-sme-interview-20260503",
+    "source_url": "internal://genlabs/kpi20/ai-hiring-scorecard-sme-interview",
+    "thai_call_to_action": "วันนี้เอา JD 1 ตำแหน่งมาทำ scorecard 5 ข้อก่อนสัมภาษณ์",
+    "thai_hook": "สัมภาษณ์คนแบบถามไปเรื่อย? ใช้ AI ทำ scorecard ก่อนคุยผู้สมัคร",
+    "thai_problem": "SME หลายที่สัมภาษณ์ตามความรู้สึก ทำให้เทียบผู้สมัครยาก ลืมถามเรื่องสำคัญ และรับคนไม่ตรงงาน",
+    "thai_tips": [
+      "ใส่ JD ระดับตำแหน่ง และงานที่ต้องทำจริง",
+      "ขอ competency 5 ข้อที่วัดได้",
+      "ให้ AI สร้างคำถามเชิงพฤติกรรมและงานจริง",
+      "ทำ rubric 1–5 พร้อมตัวอย่างคำตอบ",
+      "เพิ่ม red flags ที่ต้องถามต่อ ไม่ใช่ตัดสินจาก AI ล้วน"
+    ],
+    "thai_trend_angle": "AI ช่วยแตก JD เป็น competency, คำถาม และ rubric 1–5 ได้ แต่การตัดสินใจยังต้องใช้คนและหลักฐานจริง"
+  }
+}

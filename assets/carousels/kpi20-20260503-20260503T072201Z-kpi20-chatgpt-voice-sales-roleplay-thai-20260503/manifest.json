@@ -1,0 +1,237 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a98b25c/wDezpLaE8ktXoG36VG-0V_lZID6Pyp.png",
+    "https://v3b.fal.media/files/b/0a98b260/Hn4RcFDwvD8_hdCfgRVSB_IpRivjRG.png",
+    "https://v3b.fal.media/files/b/0a98b264/RvU2an33FHiUA-abqmyxK_QePmKYy2.png",
+    "https://v3b.fal.media/files/b/0a98b268/UK8p2OgVkmWF8XNJK0jlM_NX6FRism.png",
+    "https://v3b.fal.media/files/b/0a98b26c/qUanGuPx_Kudk28evsyXU_bYpom9kx.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 5,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/5 role=hook. Exact Thai copy: ChatGPT Voice\nซ้อมตอบลูกค้า\nก่อนโทรจริง. Visual direction: phone call roleplay with AI buyer mood meter. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "ChatGPT Voice\nซ้อมตอบลูกค้า\nก่อนโทรจริง",
+        "visual_direction": "phone call roleplay with AI buyer mood meter"
+      },
+      {
+        "image_prompt": "Slide 2/5 role=problem. Exact Thai copy: ลูกค้าบอก:\nแพงไป\nขอคิดก่อน\nเทียบเจ้าอื่นอยู่. Visual direction: salesperson facing objection bubbles. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ลูกค้าบอก:\nแพงไป\nขอคิดก่อน\nเทียบเจ้าอื่นอยู่",
+        "visual_direction": "salesperson facing objection bubbles"
+      },
+      {
+        "image_prompt": "Slide 3/5 role=setup. Exact Thai copy: บอก AI:\nสินค้า + ลูกค้า + objection\nแล้วให้เล่นเป็นคนซื้อ. Visual direction: voice prompt setup card. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 3,
+        "role": "setup",
+        "thai_copy": "บอก AI:\nสินค้า + ลูกค้า + objection\nแล้วให้เล่นเป็นคนซื้อ",
+        "visual_direction": "voice prompt setup card"
+      },
+      {
+        "image_prompt": "Slide 4/5 role=loop. Exact Thai copy: ซ้อม → ขอ critique → ซ้อมใหม่\nจนตอบเป็นธรรมชาติ. Visual direction: retry loop with feedback notes. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 4,
+        "role": "loop",
+        "thai_copy": "ซ้อม → ขอ critique → ซ้อมใหม่\nจนตอบเป็นธรรมชาติ",
+        "visual_direction": "retry loop with feedback notes"
+      },
+      {
+        "image_prompt": "Slide 5/5 role=cta. Exact Thai copy: ลองวันนี้:\nซ้อม objection 1 ข้อ\nเก็บประโยคที่เวิร์ก. Visual direction: notebook with best reply highlighted. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 5,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nซ้อม objection 1 ข้อ\nเก็บประโยคที่เวิร์ก",
+        "visual_direction": "notebook with best reply highlighted"
+      }
+    ],
+    "source_id": "kpi20-chatgpt-voice-sales-roleplay-thai-20260503",
+    "source_url": "internal://genlabs/kpi20/chatgpt-voice-sales-roleplay-thai",
+    "thai_brief": {
+      "evidence": [
+        "Internal GenLabs educational content plan",
+        "Action-based Thai AI money-making lesson"
+      ],
+      "glossary": {
+        "ChatGPT Voice": "ChatGPT Voice",
+        "objection": "objection",
+        "roleplay": "roleplay",
+        "sales": "sales"
+      },
+      "original_keywords": [
+        "ChatGPT Voice",
+        "sales",
+        "roleplay",
+        "objection"
+      ],
+      "source_id": "kpi20-chatgpt-voice-sales-roleplay-thai-20260503",
+      "source_url": "internal://genlabs/kpi20/chatgpt-voice-sales-roleplay-thai",
+      "thai_call_to_action": "วันนี้ซ้อม objection 1 เรื่องด้วยเสียง แล้วเก็บประโยคตอบที่ดีที่สุด",
+      "thai_hook": "กลัวคุยขายไม่ลื่น? ใช้ ChatGPT Voice ซ้อมตอบ objection ก่อนโทรจริง",
+      "thai_problem": "ฝ่ายขายและฟรีแลนซ์จำนวนมากรู้ว่าของดี แต่พอลูกค้าบอกแพง ขอคิดก่อน หรือขอเทียบคู่แข่ง กลับตอบไม่เป็นธรรมชาติ",
+      "thai_tips": [
+        "บอก AI ว่าสินค้าคืออะไร ลูกค้าเป็นใคร และ objection ที่เจอบ่อย",
+        "ให้ AI roleplay เป็นลูกค้ายาก 5 นาที",
+        "หลังจบให้ critique 3 จุดที่ควรปรับ",
+        "ซ้อมใหม่ด้วย tone ยากขึ้น เช่น รีบ แพง หรือไม่มั่นใจ",
+        "จดประโยคที่พูดแล้วเป็นธรรมชาติไว้ใช้จริง"
+      ],
+      "thai_trend_angle": "Voice mode ทำให้การซ้อมขายใกล้เคียงสถานการณ์จริงขึ้น เพราะได้ฝึกจังหวะ น้ำเสียง และการถามกลับ ไม่ใช่แค่อ่าน script"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "genlabs-ai-learning",
+    "clean_headline": "กลัวคุยขายไม่ลื่น? ใช้ ChatGPT Voice ซ้อมตอบ objection ก่อนโทรจริง",
+    "clean_summary": "ฝ่ายขายและฟรีแลนซ์จำนวนมากรู้ว่าของดี แต่พอลูกค้าบอกแพง ขอคิดก่อน หรือขอเทียบคู่แข่ง กลับตอบไม่เป็นธรรมชาติ",
+    "metrics_snapshot": {},
+    "original_keywords": [
+      "ChatGPT Voice",
+      "sales",
+      "roleplay",
+      "objection"
+    ],
+    "original_language": "th",
+    "raw_text": "กลัวคุยขายไม่ลื่น? ใช้ ChatGPT Voice ซ้อมตอบ objection ก่อนโทรจริง\nฝ่ายขายและฟรีแลนซ์จำนวนมากรู้ว่าของดี แต่พอลูกค้าบอกแพง ขอคิดก่อน หรือขอเทียบคู่แข่ง กลับตอบไม่เป็นธรรมชาติ\nVoice mode ทำให้การซ้อมขายใกล้เคียงสถานการณ์จริงขึ้น เพราะได้ฝึกจังหวะ น้ำเสียง และการถามกลับ ไม่ใช่แค่อ่าน script\nบอก AI ว่าสินค้าคืออะไร ลูกค้าเป็นใคร และ objection ที่เจอบ่อย\nให้ AI roleplay เป็นลูกค้ายาก 5 นาที\nหลังจบให้ critique 3 จุดที่ควรปรับ\nซ้อมใหม่ด้วย tone ยากขึ้น เช่น รีบ แพง หรือไม่มั่นใจ\nจดประโยคที่พูดแล้วเป็นธรรมชาติไว้ใช้จริง",
+    "source_id": "kpi20-chatgpt-voice-sales-roleplay-thai-20260503",
+    "source_url": "internal://genlabs/kpi20/chatgpt-voice-sales-roleplay-thai",
+    "why_it_matters": "Practical Thai AI money-making education; no fake income promises."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้ซ้อม objection 1 เรื่องด้วยเสียง แล้วเก็บประโยคตอบที่ดีที่สุด",
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "hook": "กลัวคุยขายไม่ลื่น? ใช้ ChatGPT Voice ซ้อมตอบ objection ก่อนโทรจริง",
+    "original_keywords": [
+      "ChatGPT Voice",
+      "sales",
+      "roleplay",
+      "objection"
+    ],
+    "original_language": "th",
+    "problem": "ฝ่ายขายและฟรีแลนซ์จำนวนมากรู้ว่าของดี แต่พอลูกค้าบอกแพง ขอคิดก่อน หรือขอเทียบคู่แข่ง กลับตอบไม่เป็นธรรมชาติ",
+    "source_id": "kpi20-chatgpt-voice-sales-roleplay-thai-20260503",
+    "source_url": "internal://genlabs/kpi20/chatgpt-voice-sales-roleplay-thai",
+    "tips": [
+      "บอก AI ว่าสินค้าคืออะไร ลูกค้าเป็นใคร และ objection ที่เจอบ่อย",
+      "ให้ AI roleplay เป็นลูกค้ายาก 5 นาที",
+      "หลังจบให้ critique 3 จุดที่ควรปรับ",
+      "ซ้อมใหม่ด้วย tone ยากขึ้น เช่น รีบ แพง หรือไม่มั่นใจ",
+      "จดประโยคที่พูดแล้วเป็นธรรมชาติไว้ใช้จริง"
+    ],
+    "trend_angle": "Voice mode ทำให้การซ้อมขายใกล้เคียงสถานการณ์จริงขึ้น เพราะได้ฝึกจังหวะ น้ำเสียง และการถามกลับ ไม่ใช่แค่อ่าน script"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "wDezpLaE8ktXoG36VG-0V_lZID6Pyp.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b25c/wDezpLaE8ktXoG36VG-0V_lZID6Pyp.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072201Z-kpi20-chatgpt-voice-sales-roleplay-thai-20260503/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "Hn4RcFDwvD8_hdCfgRVSB_IpRivjRG.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b260/Hn4RcFDwvD8_hdCfgRVSB_IpRivjRG.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072201Z-kpi20-chatgpt-voice-sales-roleplay-thai-20260503/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "RvU2an33FHiUA-abqmyxK_QePmKYy2.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b264/RvU2an33FHiUA-abqmyxK_QePmKYy2.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072201Z-kpi20-chatgpt-voice-sales-roleplay-thai-20260503/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "UK8p2OgVkmWF8XNJK0jlM_NX6FRism.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b268/UK8p2OgVkmWF8XNJK0jlM_NX6FRism.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072201Z-kpi20-chatgpt-voice-sales-roleplay-thai-20260503/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "qUanGuPx_Kudk28evsyXU_bYpom9kx.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b26c/qUanGuPx_Kudk28evsyXU_bYpom9kx.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072201Z-kpi20-chatgpt-voice-sales-roleplay-thai-20260503/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 6,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072201Z-kpi20-chatgpt-voice-sales-roleplay-thai-20260503/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: ฝ่ายขายและฟรีแลนซ์จำนวนมากรู้ว่าของดี แต่พอลูกค้าบอกแพง ขอคิดก่อน หรือขอเทียบคู่แข่ง กลับตอบไม่เป็นธรรมชาติ\n\n📌 ทำไมควรเซฟโพสต์นี้: Voice mode ทำให้การซ้อมขายใกล้เคียงสถานการณ์จริงขึ้น เพราะได้ฝึกจังหวะ น้ำเสียง และการถามกลับ ไม่ใช่แค่อ่าน script\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ บอก AI ว่าสินค้าคืออะไร ลูกค้าเป็นใคร และ objection ที่เจอบ่อย\n\n2) ✨ ให้ AI roleplay เป็นลูกค้ายาก 5 นาที\n\n3) ✨ หลังจบให้ critique 3 จุดที่ควรปรับ\n\n4) ✨ ซ้อมใหม่ด้วย tone ยากขึ้น เช่น รีบ แพง หรือไม่มั่นใจ\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ChatGPTภาษาไทย"
+    ],
+    "title": "กลัวคุยขายไม่ลื่น? ใช้ ChatGPT Voice ซ้อมตอบ objection ก่อนโทรจริง #AIมือใหม่"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "glossary": {
+      "ChatGPT Voice": "ChatGPT Voice",
+      "objection": "objection",
+      "roleplay": "roleplay",
+      "sales": "sales"
+    },
+    "original_keywords": [
+      "ChatGPT Voice",
+      "sales",
+      "roleplay",
+      "objection"
+    ],
+    "source_id": "kpi20-chatgpt-voice-sales-roleplay-thai-20260503",
+    "source_url": "internal://genlabs/kpi20/chatgpt-voice-sales-roleplay-thai",
+    "thai_call_to_action": "วันนี้ซ้อม objection 1 เรื่องด้วยเสียง แล้วเก็บประโยคตอบที่ดีที่สุด",
+    "thai_hook": "กลัวคุยขายไม่ลื่น? ใช้ ChatGPT Voice ซ้อมตอบ objection ก่อนโทรจริง",
+    "thai_problem": "ฝ่ายขายและฟรีแลนซ์จำนวนมากรู้ว่าของดี แต่พอลูกค้าบอกแพง ขอคิดก่อน หรือขอเทียบคู่แข่ง กลับตอบไม่เป็นธรรมชาติ",
+    "thai_tips": [
+      "บอก AI ว่าสินค้าคืออะไร ลูกค้าเป็นใคร และ objection ที่เจอบ่อย",
+      "ให้ AI roleplay เป็นลูกค้ายาก 5 นาที",
+      "หลังจบให้ critique 3 จุดที่ควรปรับ",
+      "ซ้อมใหม่ด้วย tone ยากขึ้น เช่น รีบ แพง หรือไม่มั่นใจ",
+      "จดประโยคที่พูดแล้วเป็นธรรมชาติไว้ใช้จริง"
+    ],
+    "thai_trend_angle": "Voice mode ทำให้การซ้อมขายใกล้เคียงสถานการณ์จริงขึ้น เพราะได้ฝึกจังหวะ น้ำเสียง และการถามกลับ ไม่ใช่แค่อ่าน script"
+  }
+}

@@ -1,0 +1,682 @@
+{
+  "batch_id": "prompt-drop-15-wow-gptimage2-low-2026-05-03-seg06-10",
+  "started_at": "2026-05-03T14:38:01.993894+00:00",
+  "items": [
+    {
+      "slug": "modern-thai-herbal-inhaler-pocket-pack",
+      "status": "zernio_draft_created_verified",
+      "events": [
+        {
+          "ts": "2026-05-03T14:38:01.999776+00:00",
+          "event": "generating_images"
+        },
+        {
+          "ts": "2026-05-03T14:38:38.592518+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98bc95/vqb335v5adsDIKUty2hN3_1pXWSblS.png"
+        },
+        {
+          "ts": "2026-05-03T14:39:11.907079+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98bc98/PrNplv2pqBJaO8k2HlTEM_JzEz0mdd.png"
+        },
+        {
+          "ts": "2026-05-03T14:39:45.942313+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98bc9b/qVvWOQlftWBEAe0GGgIgA_BYjklnw3.png"
+        },
+        {
+          "ts": "2026-05-03T14:40:38.154098+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98bc9e/vqxePgowOUHiVwU53-ySw_uy9n9N9P.png"
+        },
+        {
+          "ts": "2026-05-03T14:41:34.676520+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98bca4/WYdiL66F3_cTHu_oI_reH_ecf41ZF5.png"
+        },
+        {
+          "ts": "2026-05-03T14:41:35.177462+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg06-10/06-modern-thai-herbal-inhaler-pocket-pack/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-03T14:41:35.178062+00:00",
+          "event": "dry_run_ok",
+          "asset_count": 5,
+          "description_length": 3900,
+          "quality": "low",
+          "no_post_processing": true,
+          "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+        },
+        {
+          "ts": "2026-05-03T14:41:35.178084+00:00",
+          "event": "creating_zernio_draft"
+        },
+        {
+          "ts": "2026-05-03T14:41:36.561593+00:00",
+          "event": "zernio_verified",
+          "draft_id": "69f75e9f82b15c9cc4fdcb89",
+          "status": "draft",
+          "media_count": 5
+        },
+        {
+          "ts": "2026-05-03T14:55:15.774772+00:00",
+          "event": "skipped_verified_zernio_draft",
+          "draft_id": "69f75e9f82b15c9cc4fdcb89",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg06-10/06-modern-thai-herbal-inhaler-pocket-pack/manifest.json"
+        }
+      ],
+      "index": 6,
+      "mix": "product_commerce",
+      "title_th": "Prompt Drop: ยาดม/สมุนไพรไทยให้ดู Modern Wellness",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg06-10/06-modern-thai-herbal-inhaler-pocket-pack",
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98bc95/vqb335v5adsDIKUty2hN3_1pXWSblS.png",
+        "https://v3b.fal.media/files/b/0a98bc98/PrNplv2pqBJaO8k2HlTEM_JzEz0mdd.png",
+        "https://v3b.fal.media/files/b/0a98bc9b/qVvWOQlftWBEAe0GGgIgA_BYjklnw3.png",
+        "https://v3b.fal.media/files/b/0a98bc9e/vqxePgowOUHiVwU53-ySw_uy9n9N9P.png",
+        "https://v3b.fal.media/files/b/0a98bca4/WYdiL66F3_cTHu_oI_reH_ecf41ZF5.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg06-10/06-modern-thai-herbal-inhaler-pocket-pack/manifest.json",
+      "asset_count": 5,
+      "dry_run": {
+        "asset_count": 5,
+        "description_length": 3900,
+        "quality": "low",
+        "no_post_processing": true,
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+      },
+      "zernio_draft_id": "69f76b0fbbe86e8fd15b8911",
+      "zernio_verification": {
+        "get_http_status": 200,
+        "draft_id": "69f75e9f82b15c9cc4fdcb89",
+        "status": "draft",
+        "platform_statuses": [
+          "pending"
+        ],
+        "media_count": 5,
+        "payload_isDraft": true,
+        "payload_tiktok_draft": true,
+        "payload_publishNow_present": false,
+        "payload_scheduledFor_present": false,
+        "payload_media_count": 5,
+        "payload_description_length_with_hashtags": 3966,
+        "response_nested_tiktok_drafts": [
+          true
+        ],
+        "publishAttempts": 0,
+        "forbidden_found_payload": [],
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient",
+        "quality": "low",
+        "no_post_processing": true
+      },
+      "replacement_history": [
+        {
+          "old_zernio_draft_id": "69f75e9f82b15c9cc4fdcb89",
+          "new_zernio_draft_id": "69f76b0fbbe86e8fd15b8911",
+          "reason": "old counted ID failed fresh draft-only verification"
+        }
+      ]
+    },
+    {
+      "slug": "rainy-bangkok-streetwear-lookbook",
+      "status": "zernio_draft_created_verified",
+      "events": [
+        {
+          "ts": "2026-05-03T14:41:36.562703+00:00",
+          "event": "generating_images"
+        },
+        {
+          "ts": "2026-05-03T14:42:06.155030+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98bca9/OveeI4yBDfJsmKqFdSqvG_4fFdtfcA.png"
+        },
+        {
+          "ts": "2026-05-03T14:42:42.558277+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98bcac/P_1rQ79UiNkkY7CmAEBxB_zt7w4vnz.png"
+        },
+        {
+          "ts": "2026-05-03T14:43:13.487835+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98bcb0/iN_fnubFZ0-2_0DpY1uY3_7Mm5IXY5.png"
+        },
+        {
+          "ts": "2026-05-03T14:44:18.990545+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98bcb3/XbqfvYbxft-GRXcWU8s3-_FsOJpE6o.png"
+        },
+        {
+          "ts": "2026-05-03T14:44:52.617760+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98bcba/2lF_Z3rTtI9LtBUIoBkG1_8aBgBrTH.png"
+        },
+        {
+          "ts": "2026-05-03T14:44:53.119894+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg06-10/07-rainy-bangkok-streetwear-lookbook/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-03T14:44:53.120500+00:00",
+          "event": "dry_run_failed",
+          "error": "ValueError('Product Prompt Drop manifest must include packaging_requirement; plain white/unbranded packaging is not acceptable')"
+        },
+        {
+          "ts": "2026-05-03T14:55:15.775718+00:00",
+          "event": "generating_images"
+        },
+        {
+          "ts": "2026-05-03T14:55:15.776600+00:00",
+          "event": "reused_existing_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98bca9/OveeI4yBDfJsmKqFdSqvG_4fFdtfcA.png"
+        },
+        {
+          "ts": "2026-05-03T14:55:15.776943+00:00",
+          "event": "reused_existing_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98bcac/P_1rQ79UiNkkY7CmAEBxB_zt7w4vnz.png"
+        },
+        {
+          "ts": "2026-05-03T14:55:15.777184+00:00",
+          "event": "reused_existing_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98bcb0/iN_fnubFZ0-2_0DpY1uY3_7Mm5IXY5.png"
+        },
+        {
+          "ts": "2026-05-03T14:55:15.777521+00:00",
+          "event": "reused_existing_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98bcb3/XbqfvYbxft-GRXcWU8s3-_FsOJpE6o.png"
+        },
+        {
+          "ts": "2026-05-03T14:55:15.777764+00:00",
+          "event": "reused_existing_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98bcba/2lF_Z3rTtI9LtBUIoBkG1_8aBgBrTH.png"
+        },
+        {
+          "ts": "2026-05-03T14:55:15.778133+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg06-10/07-rainy-bangkok-streetwear-lookbook/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-03T14:55:15.778540+00:00",
+          "event": "dry_run_ok",
+          "asset_count": 5,
+          "description_length": 3900,
+          "quality": "low",
+          "no_post_processing": true,
+          "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+        },
+        {
+          "ts": "2026-05-03T14:55:15.778545+00:00",
+          "event": "creating_zernio_draft"
+        },
+        {
+          "ts": "2026-05-03T14:55:16.902605+00:00",
+          "event": "zernio_verified",
+          "draft_id": "69f761d47aa7b46ff03d2598",
+          "status": "draft",
+          "media_count": 5
+        }
+      ],
+      "index": 7,
+      "mix": "fashion_creator",
+      "title_th": "Prompt Drop: Lookbook Streetwear ฝนกรุงเทพ",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg06-10/07-rainy-bangkok-streetwear-lookbook",
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98bca9/OveeI4yBDfJsmKqFdSqvG_4fFdtfcA.png",
+        "https://v3b.fal.media/files/b/0a98bcac/P_1rQ79UiNkkY7CmAEBxB_zt7w4vnz.png",
+        "https://v3b.fal.media/files/b/0a98bcb0/iN_fnubFZ0-2_0DpY1uY3_7Mm5IXY5.png",
+        "https://v3b.fal.media/files/b/0a98bcb3/XbqfvYbxft-GRXcWU8s3-_FsOJpE6o.png",
+        "https://v3b.fal.media/files/b/0a98bcba/2lF_Z3rTtI9LtBUIoBkG1_8aBgBrTH.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg06-10/07-rainy-bangkok-streetwear-lookbook/manifest.json",
+      "asset_count": 5,
+      "dry_run": {
+        "asset_count": 5,
+        "description_length": 3900,
+        "quality": "low",
+        "no_post_processing": true,
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+      },
+      "zernio_draft_id": "69f761d47aa7b46ff03d2598",
+      "zernio_verification": {
+        "get_http_status": 200,
+        "draft_id": "69f761d47aa7b46ff03d2598",
+        "status": "draft",
+        "platform_statuses": [
+          "pending"
+        ],
+        "media_count": 5,
+        "payload_isDraft": true,
+        "payload_tiktok_draft": true,
+        "payload_publishNow_present": false,
+        "payload_scheduledFor_present": false,
+        "payload_media_count": 5,
+        "payload_description_length_with_hashtags": 3966,
+        "response_nested_tiktok_drafts": [
+          true
+        ],
+        "publishAttempts": 0,
+        "forbidden_found_payload": [],
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient",
+        "quality": "low",
+        "no_post_processing": true
+      }
+    },
+    {
+      "slug": "thai-silk-scarf-editorial-styling",
+      "status": "zernio_draft_created_verified",
+      "events": [
+        {
+          "ts": "2026-05-03T14:44:53.121139+00:00",
+          "event": "generating_images"
+        },
+        {
+          "ts": "2026-05-03T14:45:24.914851+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98bcbd/aUz8qQX6TgMttegQpETUZ_6lTKpJgj.png"
+        },
+        {
+          "ts": "2026-05-03T14:46:02.327768+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98bcc1/1cdPfDwfpYgo7N79IfEym_TA8jOx75.png"
+        },
+        {
+          "ts": "2026-05-03T14:46:37.781673+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98bcc4/BU49jVS8rBlYsszbuJrS2_KxfsLtXq.png"
+        },
+        {
+          "ts": "2026-05-03T14:47:17.672259+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98bcc8/geeXMJTtYUqNqp0Syl980_vYkk6CwF.png"
+        },
+        {
+          "ts": "2026-05-03T14:47:55.584025+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98bccc/DiKKqeXH7LUQvnoQkmOh-_BVfhJCAN.png"
+        },
+        {
+          "ts": "2026-05-03T14:47:56.085498+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg06-10/08-thai-silk-scarf-editorial-styling/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-03T14:48:01.827345+00:00",
+          "event": "dry_run_failed",
+          "error": "ValueError('Product Prompt Drop manifest must include packaging_requirement; plain white/unbranded packaging is not acceptable')"
+        },
+        {
+          "ts": "2026-05-03T14:55:16.903404+00:00",
+          "event": "generating_images"
+        },
+        {
+          "ts": "2026-05-03T14:55:16.905209+00:00",
+          "event": "reused_existing_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98bcbd/aUz8qQX6TgMttegQpETUZ_6lTKpJgj.png"
+        },
+        {
+          "ts": "2026-05-03T14:55:16.905563+00:00",
+          "event": "reused_existing_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98bcc1/1cdPfDwfpYgo7N79IfEym_TA8jOx75.png"
+        },
+        {
+          "ts": "2026-05-03T14:55:16.906227+00:00",
+          "event": "reused_existing_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98bcc4/BU49jVS8rBlYsszbuJrS2_KxfsLtXq.png"
+        },
+        {
+          "ts": "2026-05-03T14:55:16.906514+00:00",
+          "event": "reused_existing_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98bcc8/geeXMJTtYUqNqp0Syl980_vYkk6CwF.png"
+        },
+        {
+          "ts": "2026-05-03T14:55:16.908256+00:00",
+          "event": "reused_existing_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98bccc/DiKKqeXH7LUQvnoQkmOh-_BVfhJCAN.png"
+        },
+        {
+          "ts": "2026-05-03T14:55:16.908848+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg06-10/08-thai-silk-scarf-editorial-styling/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-03T14:55:16.911363+00:00",
+          "event": "dry_run_ok",
+          "asset_count": 5,
+          "description_length": 3899,
+          "quality": "low",
+          "no_post_processing": true,
+          "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+        },
+        {
+          "ts": "2026-05-03T14:55:16.911371+00:00",
+          "event": "creating_zernio_draft"
+        },
+        {
+          "ts": "2026-05-03T14:55:17.957684+00:00",
+          "event": "zernio_verified",
+          "draft_id": "69f761d56cfea776725db96b",
+          "status": "draft",
+          "media_count": 5
+        }
+      ],
+      "index": 8,
+      "mix": "fashion_creator",
+      "title_th": "Prompt Drop: ผ้าพันคอ/แฟชั่นไทยให้ดู Editorial",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg06-10/08-thai-silk-scarf-editorial-styling",
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98bcbd/aUz8qQX6TgMttegQpETUZ_6lTKpJgj.png",
+        "https://v3b.fal.media/files/b/0a98bcc1/1cdPfDwfpYgo7N79IfEym_TA8jOx75.png",
+        "https://v3b.fal.media/files/b/0a98bcc4/BU49jVS8rBlYsszbuJrS2_KxfsLtXq.png",
+        "https://v3b.fal.media/files/b/0a98bcc8/geeXMJTtYUqNqp0Syl980_vYkk6CwF.png",
+        "https://v3b.fal.media/files/b/0a98bccc/DiKKqeXH7LUQvnoQkmOh-_BVfhJCAN.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg06-10/08-thai-silk-scarf-editorial-styling/manifest.json",
+      "asset_count": 5,
+      "dry_run": {
+        "asset_count": 5,
+        "description_length": 3899,
+        "quality": "low",
+        "no_post_processing": true,
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+      },
+      "zernio_draft_id": "69f761d56cfea776725db96b",
+      "zernio_verification": {
+        "get_http_status": 200,
+        "draft_id": "69f761d56cfea776725db96b",
+        "status": "draft",
+        "platform_statuses": [
+          "pending"
+        ],
+        "media_count": 5,
+        "payload_isDraft": true,
+        "payload_tiktok_draft": true,
+        "payload_publishNow_present": false,
+        "payload_scheduledFor_present": false,
+        "payload_media_count": 5,
+        "payload_description_length_with_hashtags": 3965,
+        "response_nested_tiktok_drafts": [
+          true
+        ],
+        "publishAttempts": 0,
+        "forbidden_found_payload": [],
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient",
+        "quality": "low",
+        "no_post_processing": true
+      }
+    },
+    {
+      "slug": "quiet-luxury-founder-portrait-system",
+      "status": "zernio_draft_created_verified",
+      "events": [
+        {
+          "ts": "2026-05-03T14:48:01.830495+00:00",
+          "event": "generating_images"
+        },
+        {
+          "ts": "2026-05-03T14:48:41.630776+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98bcd0/jrJur7lAyqL-10ipFnU_W_9vwnR4GY.png"
+        },
+        {
+          "ts": "2026-05-03T14:49:13.256633+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98bcd4/71cZpZYyHittF3fg2AyQU_fz2H3jGz.png"
+        },
+        {
+          "ts": "2026-05-03T14:49:49.205819+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98bcd7/QWUfvpXZEsQ--rtp1tML0_Ro5EUeZ1.png"
+        },
+        {
+          "ts": "2026-05-03T14:55:17.958864+00:00",
+          "event": "generating_images"
+        },
+        {
+          "ts": "2026-05-03T14:55:17.959189+00:00",
+          "event": "reused_existing_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98bcd0/jrJur7lAyqL-10ipFnU_W_9vwnR4GY.png"
+        },
+        {
+          "ts": "2026-05-03T14:55:17.959558+00:00",
+          "event": "reused_existing_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98bcd4/71cZpZYyHittF3fg2AyQU_fz2H3jGz.png"
+        },
+        {
+          "ts": "2026-05-03T14:55:17.959848+00:00",
+          "event": "reused_existing_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98bcd7/QWUfvpXZEsQ--rtp1tML0_Ro5EUeZ1.png"
+        },
+        {
+          "ts": "2026-05-03T14:55:57.957068+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98bcfc/9eUc_hcu37HiZ9YkHExUc_mJicP3S0.png"
+        },
+        {
+          "ts": "2026-05-03T14:56:38.662091+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98bd00/hqQmbEpAp3GQiOtDOLIvo_9w02zPdA.png"
+        },
+        {
+          "ts": "2026-05-03T14:56:39.163425+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg06-10/09-quiet-luxury-founder-portrait-system/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-03T14:56:39.164429+00:00",
+          "event": "dry_run_ok",
+          "asset_count": 5,
+          "description_length": 3900,
+          "quality": "low",
+          "no_post_processing": true,
+          "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+        },
+        {
+          "ts": "2026-05-03T14:56:39.164441+00:00",
+          "event": "creating_zernio_draft"
+        },
+        {
+          "ts": "2026-05-03T14:56:40.266412+00:00",
+          "event": "zernio_verified",
+          "draft_id": "69f762274ce6829c93d615ee",
+          "status": "draft",
+          "media_count": 5
+        }
+      ],
+      "index": 9,
+      "mix": "fashion_creator",
+      "title_th": "Prompt Drop: Portrait เจ้าของแบรนด์แบบ Quiet Luxury",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg06-10/09-quiet-luxury-founder-portrait-system",
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98bcd0/jrJur7lAyqL-10ipFnU_W_9vwnR4GY.png",
+        "https://v3b.fal.media/files/b/0a98bcd4/71cZpZYyHittF3fg2AyQU_fz2H3jGz.png",
+        "https://v3b.fal.media/files/b/0a98bcd7/QWUfvpXZEsQ--rtp1tML0_Ro5EUeZ1.png",
+        "https://v3b.fal.media/files/b/0a98bcfc/9eUc_hcu37HiZ9YkHExUc_mJicP3S0.png",
+        "https://v3b.fal.media/files/b/0a98bd00/hqQmbEpAp3GQiOtDOLIvo_9w02zPdA.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg06-10/09-quiet-luxury-founder-portrait-system/manifest.json",
+      "asset_count": 5,
+      "dry_run": {
+        "asset_count": 5,
+        "description_length": 3900,
+        "quality": "low",
+        "no_post_processing": true,
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+      },
+      "zernio_draft_id": "69f762274ce6829c93d615ee",
+      "zernio_verification": {
+        "get_http_status": 200,
+        "draft_id": "69f762274ce6829c93d615ee",
+        "status": "draft",
+        "platform_statuses": [
+          "pending"
+        ],
+        "media_count": 5,
+        "payload_isDraft": true,
+        "payload_tiktok_draft": true,
+        "payload_publishNow_present": false,
+        "payload_scheduledFor_present": false,
+        "payload_media_count": 5,
+        "payload_description_length_with_hashtags": 3966,
+        "response_nested_tiktok_drafts": [
+          true
+        ],
+        "publishAttempts": 0,
+        "forbidden_found_payload": [],
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient",
+        "quality": "low",
+        "no_post_processing": true
+      }
+    },
+    {
+      "slug": "line-oa-cafe-promo-poster-kit",
+      "status": "zernio_draft_created_verified",
+      "events": [
+        {
+          "ts": "2026-05-03T14:56:40.268262+00:00",
+          "event": "generating_images"
+        },
+        {
+          "ts": "2026-05-03T14:57:15.647719+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98bd04/CeuZ962bZRAWg4jhdhAfk_Hfb8O1OO.png"
+        },
+        {
+          "ts": "2026-05-03T14:57:59.056883+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98bd08/b6NHAYsYfAfFDw2TEw41y_6c6LHyOG.png"
+        },
+        {
+          "ts": "2026-05-03T14:58:35.156198+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98bd0c/qfWpT4iq1KcTiQLFqcMLh_RakoHXAJ.png"
+        },
+        {
+          "ts": "2026-05-03T14:59:17.301921+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98bd0f/oEjVJF7IzrLlB7CZe_mvO_wIZ5Mld3.png"
+        },
+        {
+          "ts": "2026-05-03T14:59:54.984497+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98bd14/8l_MqmOKei_OanaRWPZAr_Ksr41Ati.png"
+        },
+        {
+          "ts": "2026-05-03T14:59:55.485661+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg06-10/10-line-oa-cafe-promo-poster-kit/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-03T14:59:55.486676+00:00",
+          "event": "dry_run_ok",
+          "asset_count": 5,
+          "description_length": 3900,
+          "quality": "low",
+          "no_post_processing": true,
+          "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+        },
+        {
+          "ts": "2026-05-03T14:59:55.486687+00:00",
+          "event": "creating_zernio_draft"
+        },
+        {
+          "ts": "2026-05-03T14:59:57.710663+00:00",
+          "event": "zernio_verified",
+          "draft_id": "69f762ebad443304a6032924",
+          "status": "draft",
+          "media_count": 5
+        }
+      ],
+      "index": 10,
+      "mix": "marketing_business",
+      "title_th": "Prompt Drop: โปสเตอร์โปร LINE OA ให้ดูแพง",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg06-10/10-line-oa-cafe-promo-poster-kit",
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98bd04/CeuZ962bZRAWg4jhdhAfk_Hfb8O1OO.png",
+        "https://v3b.fal.media/files/b/0a98bd08/b6NHAYsYfAfFDw2TEw41y_6c6LHyOG.png",
+        "https://v3b.fal.media/files/b/0a98bd0c/qfWpT4iq1KcTiQLFqcMLh_RakoHXAJ.png",
+        "https://v3b.fal.media/files/b/0a98bd0f/oEjVJF7IzrLlB7CZe_mvO_wIZ5Mld3.png",
+        "https://v3b.fal.media/files/b/0a98bd14/8l_MqmOKei_OanaRWPZAr_Ksr41Ati.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg06-10/10-line-oa-cafe-promo-poster-kit/manifest.json",
+      "asset_count": 5,
+      "dry_run": {
+        "asset_count": 5,
+        "description_length": 3900,
+        "quality": "low",
+        "no_post_processing": true,
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+      },
+      "zernio_draft_id": "69f762ebad443304a6032924",
+      "zernio_verification": {
+        "get_http_status": 200,
+        "draft_id": "69f762ebad443304a6032924",
+        "status": "draft",
+        "platform_statuses": [
+          "pending"
+        ],
+        "media_count": 5,
+        "payload_isDraft": true,
+        "payload_tiktok_draft": true,
+        "payload_publishNow_present": false,
+        "payload_scheduledFor_present": false,
+        "payload_media_count": 5,
+        "payload_description_length_with_hashtags": 3966,
+        "response_nested_tiktok_drafts": [
+          true
+        ],
+        "publishAttempts": 0,
+        "forbidden_found_payload": [],
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient",
+        "quality": "low",
+        "no_post_processing": true
+      }
+    }
+  ],
+  "finished_at": "2026-05-03T14:59:57.711267+00:00"
+}

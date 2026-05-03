@@ -1,0 +1,618 @@
+{
+  "batch_id": "prompt-drop-15-wow-gptimage2-low-2026-05-03-seg11-15",
+  "started_at": "2026-05-03T14:38:03.202176+00:00",
+  "items": [
+    {
+      "slug": "popup-market-event-poster-system",
+      "status": "zernio_draft_created_verified",
+      "events": [
+        {
+          "ts": "2026-05-03T14:38:03.209217+00:00",
+          "event": "generating_images"
+        },
+        {
+          "ts": "2026-05-03T14:38:42.815596+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98bc94/OUrXpNf55LMfFlOu3Uz58_nuNBJc3l.png"
+        },
+        {
+          "ts": "2026-05-03T14:39:41.050366+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98bc98/qT3KNZ303dFr8iRBor70d_AurWDRLU.png"
+        },
+        {
+          "ts": "2026-05-03T14:40:18.848281+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98bc9e/j7itz46QtAziMBTmXD5sb_NqOIi1aR.png"
+        },
+        {
+          "ts": "2026-05-03T14:41:09.180881+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98bca2/14SM0SUHneAOBzldO2UV8_wAVZatcP.png"
+        },
+        {
+          "ts": "2026-05-03T14:42:03.453455+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98bca7/knDuhLBN061n-Aw0xGyC8_4EjQzA81.png"
+        },
+        {
+          "ts": "2026-05-03T14:42:03.954621+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg11-15/11-popup-market-event-poster-system/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-03T14:42:03.955179+00:00",
+          "event": "dry_run_failed",
+          "error": "ValueError('Product Prompt Drop manifest must include packaging_requirement; plain white/unbranded packaging is not acceptable')"
+        },
+        {
+          "ts": "2026-05-03T14:55:16.930652+00:00",
+          "event": "generating_images"
+        },
+        {
+          "ts": "2026-05-03T14:55:16.931105+00:00",
+          "event": "reused_existing_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98bc94/OUrXpNf55LMfFlOu3Uz58_nuNBJc3l.png"
+        },
+        {
+          "ts": "2026-05-03T14:55:16.933207+00:00",
+          "event": "reused_existing_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98bc98/qT3KNZ303dFr8iRBor70d_AurWDRLU.png"
+        },
+        {
+          "ts": "2026-05-03T14:55:16.933462+00:00",
+          "event": "reused_existing_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98bc9e/j7itz46QtAziMBTmXD5sb_NqOIi1aR.png"
+        },
+        {
+          "ts": "2026-05-03T14:55:16.933637+00:00",
+          "event": "reused_existing_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98bca2/14SM0SUHneAOBzldO2UV8_wAVZatcP.png"
+        },
+        {
+          "ts": "2026-05-03T14:55:16.933840+00:00",
+          "event": "reused_existing_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98bca7/knDuhLBN061n-Aw0xGyC8_4EjQzA81.png"
+        },
+        {
+          "ts": "2026-05-03T14:55:16.934194+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg11-15/11-popup-market-event-poster-system/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-03T14:55:16.934565+00:00",
+          "event": "dry_run_ok",
+          "asset_count": 5,
+          "description_length": 3900,
+          "quality": "low",
+          "no_post_processing": true,
+          "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+        },
+        {
+          "ts": "2026-05-03T14:55:16.934570+00:00",
+          "event": "creating_zernio_draft"
+        },
+        {
+          "ts": "2026-05-03T14:55:17.983062+00:00",
+          "event": "zernio_verified",
+          "draft_id": "69f761d5a7f40f8d96aad047",
+          "status": "draft",
+          "media_count": 5
+        }
+      ],
+      "index": 11,
+      "mix": "marketing_business",
+      "title_th": "Prompt Drop: Event Poster ให้ดูเหมือนงานดีไซน์",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg11-15/11-popup-market-event-poster-system",
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98bc94/OUrXpNf55LMfFlOu3Uz58_nuNBJc3l.png",
+        "https://v3b.fal.media/files/b/0a98bc98/qT3KNZ303dFr8iRBor70d_AurWDRLU.png",
+        "https://v3b.fal.media/files/b/0a98bc9e/j7itz46QtAziMBTmXD5sb_NqOIi1aR.png",
+        "https://v3b.fal.media/files/b/0a98bca2/14SM0SUHneAOBzldO2UV8_wAVZatcP.png",
+        "https://v3b.fal.media/files/b/0a98bca7/knDuhLBN061n-Aw0xGyC8_4EjQzA81.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg11-15/11-popup-market-event-poster-system/manifest.json",
+      "asset_count": 5,
+      "dry_run": {
+        "asset_count": 5,
+        "description_length": 3900,
+        "quality": "low",
+        "no_post_processing": true,
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+      },
+      "zernio_draft_id": "69f761d5a7f40f8d96aad047",
+      "zernio_verification": {
+        "get_http_status": 200,
+        "draft_id": "69f761d5a7f40f8d96aad047",
+        "status": "draft",
+        "platform_statuses": [
+          "pending"
+        ],
+        "media_count": 5,
+        "payload_isDraft": true,
+        "payload_tiktok_draft": true,
+        "payload_publishNow_present": false,
+        "payload_scheduledFor_present": false,
+        "payload_media_count": 5,
+        "payload_description_length_with_hashtags": 3966,
+        "response_nested_tiktok_drafts": [
+          true
+        ],
+        "publishAttempts": 0,
+        "forbidden_found_payload": [],
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient",
+        "quality": "low",
+        "no_post_processing": true
+      }
+    },
+    {
+      "slug": "tiktok-shop-launch-ad-board",
+      "status": "zernio_draft_created_verified",
+      "events": [
+        {
+          "ts": "2026-05-03T14:42:03.957915+00:00",
+          "event": "generating_images"
+        },
+        {
+          "ts": "2026-05-03T14:42:34.029289+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98bcac/lgstCpVLZU1n6j3HCe3WK_bSGChEt5.png"
+        },
+        {
+          "ts": "2026-05-03T14:43:32.231696+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98bcb0/QI7BiLKObjUNfQHcydDO-_ckPp7SJb.png"
+        },
+        {
+          "ts": "2026-05-03T14:55:17.983655+00:00",
+          "event": "generating_images"
+        },
+        {
+          "ts": "2026-05-03T14:55:17.983886+00:00",
+          "event": "reused_existing_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98bcac/lgstCpVLZU1n6j3HCe3WK_bSGChEt5.png"
+        },
+        {
+          "ts": "2026-05-03T14:55:17.984091+00:00",
+          "event": "reused_existing_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98bcb0/QI7BiLKObjUNfQHcydDO-_ckPp7SJb.png"
+        },
+        {
+          "ts": "2026-05-03T14:56:11.935327+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98bcfc/EzmudOsn2FKa4apftW6au_B1Nmdnx1.png"
+        },
+        {
+          "ts": "2026-05-03T14:56:57.862291+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98bd02/9SRn0j0LfoZqN1h1pjmLI_k2GvG9pD.png"
+        },
+        {
+          "ts": "2026-05-03T14:57:39.315324+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98bd06/jCKAdUCTnGfMcpynVn-X7_krA1CZBg.png"
+        },
+        {
+          "ts": "2026-05-03T14:57:39.816530+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg11-15/12-tiktok-shop-launch-ad-board/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-03T14:57:39.818505+00:00",
+          "event": "dry_run_ok",
+          "asset_count": 5,
+          "description_length": 3898,
+          "quality": "low",
+          "no_post_processing": true,
+          "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+        },
+        {
+          "ts": "2026-05-03T14:57:39.818517+00:00",
+          "event": "creating_zernio_draft"
+        },
+        {
+          "ts": "2026-05-03T14:57:40.931697+00:00",
+          "event": "zernio_verified",
+          "draft_id": "69f762644ce6829c93d617ff",
+          "status": "draft",
+          "media_count": 5
+        }
+      ],
+      "index": 12,
+      "mix": "marketing_business",
+      "title_th": "Prompt Drop: Launch Ad Board สำหรับ TikTok Shop",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg11-15/12-tiktok-shop-launch-ad-board",
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98bcac/lgstCpVLZU1n6j3HCe3WK_bSGChEt5.png",
+        "https://v3b.fal.media/files/b/0a98bcb0/QI7BiLKObjUNfQHcydDO-_ckPp7SJb.png",
+        "https://v3b.fal.media/files/b/0a98bcfc/EzmudOsn2FKa4apftW6au_B1Nmdnx1.png",
+        "https://v3b.fal.media/files/b/0a98bd02/9SRn0j0LfoZqN1h1pjmLI_k2GvG9pD.png",
+        "https://v3b.fal.media/files/b/0a98bd06/jCKAdUCTnGfMcpynVn-X7_krA1CZBg.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg11-15/12-tiktok-shop-launch-ad-board/manifest.json",
+      "asset_count": 5,
+      "dry_run": {
+        "asset_count": 5,
+        "description_length": 3898,
+        "quality": "low",
+        "no_post_processing": true,
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+      },
+      "zernio_draft_id": "69f762644ce6829c93d617ff",
+      "zernio_verification": {
+        "get_http_status": 200,
+        "draft_id": "69f762644ce6829c93d617ff",
+        "status": "draft",
+        "platform_statuses": [
+          "pending"
+        ],
+        "media_count": 5,
+        "payload_isDraft": true,
+        "payload_tiktok_draft": true,
+        "payload_publishNow_present": false,
+        "payload_scheduledFor_present": false,
+        "payload_media_count": 5,
+        "payload_description_length_with_hashtags": 3964,
+        "response_nested_tiktok_drafts": [
+          true
+        ],
+        "publishAttempts": 0,
+        "forbidden_found_payload": [],
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient",
+        "quality": "low",
+        "no_post_processing": true
+      }
+    },
+    {
+      "slug": "thermal-receipt-zine-streetwear-drop",
+      "status": "zernio_draft_created_verified",
+      "events": [
+        {
+          "ts": "2026-05-03T14:57:40.933317+00:00",
+          "event": "generating_images"
+        },
+        {
+          "ts": "2026-05-03T14:58:32.951183+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98bd0a/zfZZBQqCVsaPMdu9pW4D4_tW0jUJc0.png"
+        },
+        {
+          "ts": "2026-05-03T14:59:24.270219+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98bd0f/L-Wf8p5N6-RkXuA6Ma0IP_9WURXO4P.png"
+        },
+        {
+          "ts": "2026-05-03T14:59:59.249223+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98bd14/-aGO2K1ZSAWORHhay7K9e_eFLiiVxW.png"
+        },
+        {
+          "ts": "2026-05-03T15:00:43.898884+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98bd18/jP4zcl0KiGdyz3UtjdjWV_n7ehKz2N.png"
+        },
+        {
+          "ts": "2026-05-03T15:01:28.936725+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98bd1c/ANlgNR2wNOqkPdgrmgdfp_yFT97tGI.png"
+        },
+        {
+          "ts": "2026-05-03T15:01:29.438391+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg11-15/13-thermal-receipt-zine-streetwear-drop/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-03T15:01:29.439374+00:00",
+          "event": "dry_run_ok",
+          "asset_count": 5,
+          "description_length": 3900,
+          "quality": "low",
+          "no_post_processing": true,
+          "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+        },
+        {
+          "ts": "2026-05-03T15:01:29.439385+00:00",
+          "event": "creating_zernio_draft"
+        },
+        {
+          "ts": "2026-05-03T15:01:30.516864+00:00",
+          "event": "zernio_verified",
+          "draft_id": "69f76349f9105cbfb512d3fa",
+          "status": "draft",
+          "media_count": 5
+        }
+      ],
+      "index": 13,
+      "mix": "experimental",
+      "title_th": "Prompt Drop: Receipt/Zine Poster สำหรับ Drop ใหม่",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg11-15/13-thermal-receipt-zine-streetwear-drop",
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98bd0a/zfZZBQqCVsaPMdu9pW4D4_tW0jUJc0.png",
+        "https://v3b.fal.media/files/b/0a98bd0f/L-Wf8p5N6-RkXuA6Ma0IP_9WURXO4P.png",
+        "https://v3b.fal.media/files/b/0a98bd14/-aGO2K1ZSAWORHhay7K9e_eFLiiVxW.png",
+        "https://v3b.fal.media/files/b/0a98bd18/jP4zcl0KiGdyz3UtjdjWV_n7ehKz2N.png",
+        "https://v3b.fal.media/files/b/0a98bd1c/ANlgNR2wNOqkPdgrmgdfp_yFT97tGI.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg11-15/13-thermal-receipt-zine-streetwear-drop/manifest.json",
+      "asset_count": 5,
+      "dry_run": {
+        "asset_count": 5,
+        "description_length": 3900,
+        "quality": "low",
+        "no_post_processing": true,
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+      },
+      "zernio_draft_id": "69f76349f9105cbfb512d3fa",
+      "zernio_verification": {
+        "get_http_status": 200,
+        "draft_id": "69f76349f9105cbfb512d3fa",
+        "status": "draft",
+        "platform_statuses": [
+          "pending"
+        ],
+        "media_count": 5,
+        "payload_isDraft": true,
+        "payload_tiktok_draft": true,
+        "payload_publishNow_present": false,
+        "payload_scheduledFor_present": false,
+        "payload_media_count": 5,
+        "payload_description_length_with_hashtags": 3966,
+        "response_nested_tiktok_drafts": [
+          true
+        ],
+        "publishAttempts": 0,
+        "forbidden_found_payload": [],
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient",
+        "quality": "low",
+        "no_post_processing": true
+      }
+    },
+    {
+      "slug": "rainy-season-travel-kit-packaging",
+      "status": "zernio_draft_created_verified",
+      "events": [
+        {
+          "ts": "2026-05-03T15:01:30.517979+00:00",
+          "event": "generating_images"
+        },
+        {
+          "ts": "2026-05-03T15:02:06.335388+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98bd21/33C6cdCROzRNu3uzklylt_w5e7eP1b.png"
+        },
+        {
+          "ts": "2026-05-03T15:02:38.028290+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98bd25/5IDIo_FYnrooEssNS3FKd_SxEqKxCC.png"
+        },
+        {
+          "ts": "2026-05-03T15:03:12.957400+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98bd28/SqYGrlfIiIRiQjZxlYAvx_iELDWG3Y.png"
+        },
+        {
+          "ts": "2026-05-03T15:03:57.326360+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98bd2b/KHdYw0ggnmDuZG2GqylYL_X1LiBRyY.png"
+        },
+        {
+          "ts": "2026-05-03T15:04:41.951302+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98bd30/0jtaoIbB8EzuXgR-gc8sU_mEoINgxH.png"
+        },
+        {
+          "ts": "2026-05-03T15:04:42.452856+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg11-15/14-rainy-season-travel-kit-packaging/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-03T15:04:42.453735+00:00",
+          "event": "dry_run_ok",
+          "asset_count": 5,
+          "description_length": 3900,
+          "quality": "low",
+          "no_post_processing": true,
+          "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+        },
+        {
+          "ts": "2026-05-03T15:04:42.453746+00:00",
+          "event": "creating_zernio_draft"
+        },
+        {
+          "ts": "2026-05-03T15:04:43.535609+00:00",
+          "event": "zernio_verified",
+          "draft_id": "69f7640a9d496a8e97fa40c4",
+          "status": "draft",
+          "media_count": 5
+        }
+      ],
+      "index": 14,
+      "mix": "seasonal_trend",
+      "title_th": "Prompt Drop: Rainy Season Travel Kit ให้ดู Premium",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg11-15/14-rainy-season-travel-kit-packaging",
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98bd21/33C6cdCROzRNu3uzklylt_w5e7eP1b.png",
+        "https://v3b.fal.media/files/b/0a98bd25/5IDIo_FYnrooEssNS3FKd_SxEqKxCC.png",
+        "https://v3b.fal.media/files/b/0a98bd28/SqYGrlfIiIRiQjZxlYAvx_iELDWG3Y.png",
+        "https://v3b.fal.media/files/b/0a98bd2b/KHdYw0ggnmDuZG2GqylYL_X1LiBRyY.png",
+        "https://v3b.fal.media/files/b/0a98bd30/0jtaoIbB8EzuXgR-gc8sU_mEoINgxH.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg11-15/14-rainy-season-travel-kit-packaging/manifest.json",
+      "asset_count": 5,
+      "dry_run": {
+        "asset_count": 5,
+        "description_length": 3900,
+        "quality": "low",
+        "no_post_processing": true,
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+      },
+      "zernio_draft_id": "69f7640a9d496a8e97fa40c4",
+      "zernio_verification": {
+        "get_http_status": 200,
+        "draft_id": "69f7640a9d496a8e97fa40c4",
+        "status": "draft",
+        "platform_statuses": [
+          "pending"
+        ],
+        "media_count": 5,
+        "payload_isDraft": true,
+        "payload_tiktok_draft": true,
+        "payload_publishNow_present": false,
+        "payload_scheduledFor_present": false,
+        "payload_media_count": 5,
+        "payload_description_length_with_hashtags": 3966,
+        "response_nested_tiktok_drafts": [
+          true
+        ],
+        "publishAttempts": 0,
+        "forbidden_found_payload": [],
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient",
+        "quality": "low",
+        "no_post_processing": true
+      }
+    },
+    {
+      "slug": "six-six-sale-marketplace-hero",
+      "status": "zernio_draft_created_verified",
+      "events": [
+        {
+          "ts": "2026-05-03T15:04:43.536680+00:00",
+          "event": "generating_images"
+        },
+        {
+          "ts": "2026-05-03T15:05:26.468097+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98bd35/lq88-X9ICy-ez3yXNP8hD_5oVOfagv.png"
+        },
+        {
+          "ts": "2026-05-03T15:06:06.722919+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98bd39/1eg4R3hihKS7bFmqfksC2_TAgh5OuM.png"
+        },
+        {
+          "ts": "2026-05-03T15:06:40.050441+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98bd3d/sBv5x9TBA4CBaJKiTEIPA_UfmqSKqF.png"
+        },
+        {
+          "ts": "2026-05-03T15:07:31.892724+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98bd41/F9uDBkDrcJSKT8gEDCp1m_eErAJiXJ.png"
+        },
+        {
+          "ts": "2026-05-03T15:08:11.333958+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98bd45/IEoF_FlnuRyupYoci9wzV_7elbRUR2.png"
+        },
+        {
+          "ts": "2026-05-03T15:08:11.835976+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg11-15/15-six-six-sale-marketplace-hero/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-03T15:08:11.837172+00:00",
+          "event": "dry_run_ok",
+          "asset_count": 5,
+          "description_length": 3900,
+          "quality": "low",
+          "no_post_processing": true,
+          "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+        },
+        {
+          "ts": "2026-05-03T15:08:11.837183+00:00",
+          "event": "creating_zernio_draft"
+        },
+        {
+          "ts": "2026-05-03T15:08:13.228072+00:00",
+          "event": "zernio_verified",
+          "draft_id": "69f764dcf3a222fe9fed3d93",
+          "status": "draft",
+          "media_count": 5
+        }
+      ],
+      "index": 15,
+      "mix": "seasonal_trend",
+      "title_th": "Prompt Drop: 6.6 Sale Visual ที่ไม่ดูถูก",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg11-15/15-six-six-sale-marketplace-hero",
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98bd35/lq88-X9ICy-ez3yXNP8hD_5oVOfagv.png",
+        "https://v3b.fal.media/files/b/0a98bd39/1eg4R3hihKS7bFmqfksC2_TAgh5OuM.png",
+        "https://v3b.fal.media/files/b/0a98bd3d/sBv5x9TBA4CBaJKiTEIPA_UfmqSKqF.png",
+        "https://v3b.fal.media/files/b/0a98bd41/F9uDBkDrcJSKT8gEDCp1m_eErAJiXJ.png",
+        "https://v3b.fal.media/files/b/0a98bd45/IEoF_FlnuRyupYoci9wzV_7elbRUR2.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg11-15/15-six-six-sale-marketplace-hero/manifest.json",
+      "asset_count": 5,
+      "dry_run": {
+        "asset_count": 5,
+        "description_length": 3900,
+        "quality": "low",
+        "no_post_processing": true,
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+      },
+      "zernio_draft_id": "69f764dcf3a222fe9fed3d93",
+      "zernio_verification": {
+        "get_http_status": 200,
+        "draft_id": "69f764dcf3a222fe9fed3d93",
+        "status": "draft",
+        "platform_statuses": [
+          "pending"
+        ],
+        "media_count": 5,
+        "payload_isDraft": true,
+        "payload_tiktok_draft": true,
+        "payload_publishNow_present": false,
+        "payload_scheduledFor_present": false,
+        "payload_media_count": 5,
+        "payload_description_length_with_hashtags": 3966,
+        "response_nested_tiktok_drafts": [
+          true
+        ],
+        "publishAttempts": 0,
+        "forbidden_found_payload": [],
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient",
+        "quality": "low",
+        "no_post_processing": true
+      }
+    }
+  ],
+  "finished_at": "2026-05-03T15:08:13.228668+00:00"
+}

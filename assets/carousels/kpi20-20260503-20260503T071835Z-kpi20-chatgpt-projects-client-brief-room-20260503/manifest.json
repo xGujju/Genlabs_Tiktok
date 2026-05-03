@@ -1,0 +1,237 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a98b248/qGajx2bwYd9h5hg858FzV_8uWBOyj4.png",
+    "https://v3b.fal.media/files/b/0a98b24c/pujvmhI55MZIgnpRKl3sX_2iMpPUdH.png",
+    "https://v3b.fal.media/files/b/0a98b24f/70jN2es2FbMbvxn7AeQeR_bx3XoyjJ.png",
+    "https://v3b.fal.media/files/b/0a98b252/mptlD5YxsKlHTgwLTbXLk_SizumMp4.png",
+    "https://v3b.fal.media/files/b/0a98b256/NH_FS0JLV11rWK2VCtPcn_hgs6PzgU.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 5,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/5 role=hook. Exact Thai copy: ลูกค้าหลายเจ้า?\nแยก ChatGPT Project\nให้เป็นห้องบรีฟ. Visual direction: freelancer desk with separate client folders becoming AI project rooms. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "ลูกค้าหลายเจ้า?\nแยก ChatGPT Project\nให้เป็นห้องบรีฟ",
+        "visual_direction": "freelancer desk with separate client folders becoming AI project rooms"
+      },
+      {
+        "image_prompt": "Slide 2/5 role=problem. Exact Thai copy: ปัญหา:\nไฟล์/แชท/โทนแบรนด์\nกระจัดกระจาย. Visual direction: messy sticky notes and chat bubbles mixing different client briefs. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา:\nไฟล์/แชท/โทนแบรนด์\nกระจัดกระจาย",
+        "visual_direction": "messy sticky notes and chat bubbles mixing different client briefs"
+      },
+      {
+        "image_prompt": "Slide 3/5 role=setup. Exact Thai copy: ตั้งค่า:\n1 ลูกค้า = 1 Project\nใส่ไฟล์ + โทน + ข้อห้าม. Visual direction: project folder tabs with files, tone card, banned claims stamp. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 3,
+        "role": "setup",
+        "thai_copy": "ตั้งค่า:\n1 ลูกค้า = 1 Project\nใส่ไฟล์ + โทน + ข้อห้าม",
+        "visual_direction": "project folder tabs with files, tone card, banned claims stamp"
+      },
+      {
+        "image_prompt": "Slide 4/5 role=workflow. Exact Thai copy: ถาม AI ก่อนทำ:\nBrief ขาดอะไร?\nเสี่ยงตรงไหน?\nต้องถามลูกค้าอะไรเพิ่ม?. Visual direction: AI helper holding gap checklist and question marks. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 4,
+        "role": "workflow",
+        "thai_copy": "ถาม AI ก่อนทำ:\nBrief ขาดอะไร?\nเสี่ยงตรงไหน?\nต้องถามลูกค้าอะไรเพิ่ม?",
+        "visual_direction": "AI helper holding gap checklist and question marks"
+      },
+      {
+        "image_prompt": "Slide 5/5 role=cta. Exact Thai copy: ลองวันนี้:\nจัด Project ลูกค้า 1 เจ้า\nก่อนทำ deliverable แรก. Visual direction: action checklist and client project room illustration. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 5,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nจัด Project ลูกค้า 1 เจ้า\nก่อนทำ deliverable แรก",
+        "visual_direction": "action checklist and client project room illustration"
+      }
+    ],
+    "source_id": "kpi20-chatgpt-projects-client-brief-room-20260503",
+    "source_url": "internal://genlabs/kpi20/chatgpt-projects-client-brief-room",
+    "thai_brief": {
+      "evidence": [
+        "Internal GenLabs educational content plan",
+        "Action-based Thai AI money-making lesson"
+      ],
+      "glossary": {
+        "ChatGPT Projects": "ChatGPT Projects",
+        "brief": "brief",
+        "ฟรีแลนซ์": "ฟรีแลนซ์",
+        "ลูกค้า": "ลูกค้า"
+      },
+      "original_keywords": [
+        "ChatGPT Projects",
+        "ลูกค้า",
+        "brief",
+        "ฟรีแลนซ์"
+      ],
+      "source_id": "kpi20-chatgpt-projects-client-brief-room-20260503",
+      "source_url": "internal://genlabs/kpi20/chatgpt-projects-client-brief-room",
+      "thai_call_to_action": "วันนี้เลือกลูกค้า 1 เจ้า แล้วจัด Project room ให้ครบก่อนสั่ง AI ทำงาน",
+      "thai_hook": "ฟรีแลนซ์คุยลูกค้าหลายเจ้า? ใช้ ChatGPT Projects แยกห้องบรีฟ",
+      "thai_problem": "งานลูกค้ามักพังเพราะไฟล์ แชท โทนแบรนด์ และเงื่อนไขกระจัดกระจายจน AI ตอบมั่วหรือใช้บริบทผิดเจ้า",
+      "thai_tips": [
+        "สร้าง Project แยก 1 ลูกค้า = 1 ห้องบรีฟ",
+        "ใส่ไฟล์ราคา ตัวอย่างงาน โทนภาษา และข้อห้ามของแบรนด์",
+        "ให้ AI สรุปช่องว่างใน brief ก่อนเริ่มทำงาน",
+        "ขอ deliverable แรกพร้อม checklist ตรวจคุณภาพ",
+        "เก็บ prompt ที่ใช้ซ้ำเป็น template ใน Project เดิม"
+      ],
+      "thai_trend_angle": "Projects ช่วยเก็บบริบทแยกตามลูกค้า ทำให้ AI กลายเป็นผู้ช่วย account ที่จำโจทย์เดิมได้และลดการเริ่มใหม่ทุกครั้ง"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "genlabs-ai-learning",
+    "clean_headline": "ฟรีแลนซ์คุยลูกค้าหลายเจ้า? ใช้ ChatGPT Projects แยกห้องบรีฟ",
+    "clean_summary": "งานลูกค้ามักพังเพราะไฟล์ แชท โทนแบรนด์ และเงื่อนไขกระจัดกระจายจน AI ตอบมั่วหรือใช้บริบทผิดเจ้า",
+    "metrics_snapshot": {},
+    "original_keywords": [
+      "ChatGPT Projects",
+      "ลูกค้า",
+      "brief",
+      "ฟรีแลนซ์"
+    ],
+    "original_language": "th",
+    "raw_text": "ฟรีแลนซ์คุยลูกค้าหลายเจ้า? ใช้ ChatGPT Projects แยกห้องบรีฟ\nงานลูกค้ามักพังเพราะไฟล์ แชท โทนแบรนด์ และเงื่อนไขกระจัดกระจายจน AI ตอบมั่วหรือใช้บริบทผิดเจ้า\nProjects ช่วยเก็บบริบทแยกตามลูกค้า ทำให้ AI กลายเป็นผู้ช่วย account ที่จำโจทย์เดิมได้และลดการเริ่มใหม่ทุกครั้ง\nสร้าง Project แยก 1 ลูกค้า = 1 ห้องบรีฟ\nใส่ไฟล์ราคา ตัวอย่างงาน โทนภาษา และข้อห้ามของแบรนด์\nให้ AI สรุปช่องว่างใน brief ก่อนเริ่มทำงาน\nขอ deliverable แรกพร้อม checklist ตรวจคุณภาพ\nเก็บ prompt ที่ใช้ซ้ำเป็น template ใน Project เดิม",
+    "source_id": "kpi20-chatgpt-projects-client-brief-room-20260503",
+    "source_url": "internal://genlabs/kpi20/chatgpt-projects-client-brief-room",
+    "why_it_matters": "Practical Thai AI money-making education; no fake income promises."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้เลือกลูกค้า 1 เจ้า แล้วจัด Project room ให้ครบก่อนสั่ง AI ทำงาน",
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "hook": "ฟรีแลนซ์คุยลูกค้าหลายเจ้า? ใช้ ChatGPT Projects แยกห้องบรีฟ",
+    "original_keywords": [
+      "ChatGPT Projects",
+      "ลูกค้า",
+      "brief",
+      "ฟรีแลนซ์"
+    ],
+    "original_language": "th",
+    "problem": "งานลูกค้ามักพังเพราะไฟล์ แชท โทนแบรนด์ และเงื่อนไขกระจัดกระจายจน AI ตอบมั่วหรือใช้บริบทผิดเจ้า",
+    "source_id": "kpi20-chatgpt-projects-client-brief-room-20260503",
+    "source_url": "internal://genlabs/kpi20/chatgpt-projects-client-brief-room",
+    "tips": [
+      "สร้าง Project แยก 1 ลูกค้า = 1 ห้องบรีฟ",
+      "ใส่ไฟล์ราคา ตัวอย่างงาน โทนภาษา และข้อห้ามของแบรนด์",
+      "ให้ AI สรุปช่องว่างใน brief ก่อนเริ่มทำงาน",
+      "ขอ deliverable แรกพร้อม checklist ตรวจคุณภาพ",
+      "เก็บ prompt ที่ใช้ซ้ำเป็น template ใน Project เดิม"
+    ],
+    "trend_angle": "Projects ช่วยเก็บบริบทแยกตามลูกค้า ทำให้ AI กลายเป็นผู้ช่วย account ที่จำโจทย์เดิมได้และลดการเริ่มใหม่ทุกครั้ง"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "qGajx2bwYd9h5hg858FzV_8uWBOyj4.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b248/qGajx2bwYd9h5hg858FzV_8uWBOyj4.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T071835Z-kpi20-chatgpt-projects-client-brief-room-20260503/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "pujvmhI55MZIgnpRKl3sX_2iMpPUdH.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b24c/pujvmhI55MZIgnpRKl3sX_2iMpPUdH.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T071835Z-kpi20-chatgpt-projects-client-brief-room-20260503/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "70jN2es2FbMbvxn7AeQeR_bx3XoyjJ.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b24f/70jN2es2FbMbvxn7AeQeR_bx3XoyjJ.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T071835Z-kpi20-chatgpt-projects-client-brief-room-20260503/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "mptlD5YxsKlHTgwLTbXLk_SizumMp4.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b252/mptlD5YxsKlHTgwLTbXLk_SizumMp4.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T071835Z-kpi20-chatgpt-projects-client-brief-room-20260503/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "NH_FS0JLV11rWK2VCtPcn_hgs6PzgU.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b256/NH_FS0JLV11rWK2VCtPcn_hgs6PzgU.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T071835Z-kpi20-chatgpt-projects-client-brief-room-20260503/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 6,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T071835Z-kpi20-chatgpt-projects-client-brief-room-20260503/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: งานลูกค้ามักพังเพราะไฟล์ แชท โทนแบรนด์ และเงื่อนไขกระจัดกระจายจน AI ตอบมั่วหรือใช้บริบทผิดเจ้า\n\n📌 ทำไมควรเซฟโพสต์นี้: Projects ช่วยเก็บบริบทแยกตามลูกค้า ทำให้ AI กลายเป็นผู้ช่วย account ที่จำโจทย์เดิมได้และลดการเริ่มใหม่ทุกครั้ง\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ สร้าง Project แยก 1 ลูกค้า = 1 ห้องบรีฟ\n\n2) ✨ ใส่ไฟล์ราคา ตัวอย่างงาน โทนภาษา และข้อห้ามของแบรนด์\n\n3) ✨ ให้ AI สรุปช่องว่างใน brief ก่อนเริ่มทำงาน\n\n4) ✨ ขอ deliverable แรกพร้อม checklist ตรวจคุณภาพ\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#พร้อมท์ไทย"
+    ],
+    "title": "ฟรีแลนซ์คุยลูกค้าหลายเจ้า? ใช้ ChatGPT Projects แยกห้องบรีฟ #AIมือใหม่"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "glossary": {
+      "ChatGPT Projects": "ChatGPT Projects",
+      "brief": "brief",
+      "ฟรีแลนซ์": "ฟรีแลนซ์",
+      "ลูกค้า": "ลูกค้า"
+    },
+    "original_keywords": [
+      "ChatGPT Projects",
+      "ลูกค้า",
+      "brief",
+      "ฟรีแลนซ์"
+    ],
+    "source_id": "kpi20-chatgpt-projects-client-brief-room-20260503",
+    "source_url": "internal://genlabs/kpi20/chatgpt-projects-client-brief-room",
+    "thai_call_to_action": "วันนี้เลือกลูกค้า 1 เจ้า แล้วจัด Project room ให้ครบก่อนสั่ง AI ทำงาน",
+    "thai_hook": "ฟรีแลนซ์คุยลูกค้าหลายเจ้า? ใช้ ChatGPT Projects แยกห้องบรีฟ",
+    "thai_problem": "งานลูกค้ามักพังเพราะไฟล์ แชท โทนแบรนด์ และเงื่อนไขกระจัดกระจายจน AI ตอบมั่วหรือใช้บริบทผิดเจ้า",
+    "thai_tips": [
+      "สร้าง Project แยก 1 ลูกค้า = 1 ห้องบรีฟ",
+      "ใส่ไฟล์ราคา ตัวอย่างงาน โทนภาษา และข้อห้ามของแบรนด์",
+      "ให้ AI สรุปช่องว่างใน brief ก่อนเริ่มทำงาน",
+      "ขอ deliverable แรกพร้อม checklist ตรวจคุณภาพ",
+      "เก็บ prompt ที่ใช้ซ้ำเป็น template ใน Project เดิม"
+    ],
+    "thai_trend_angle": "Projects ช่วยเก็บบริบทแยกตามลูกค้า ทำให้ AI กลายเป็นผู้ช่วย account ที่จำโจทย์เดิมได้และลดการเริ่มใหม่ทุกครั้ง"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "series": "prompt_drop_th",
+  "slug": "midnight-roaster-artifact-gptimage2-low-2026-05-03",
+  "created_at": "2026-05-03T12:59:24.809191+00:00",
+  "title_th": "Prompt Drop: แพ็กเกจกาแฟดริปแบบ Luxury Gift Set",
+  "generator": "openai/gpt-image-2/edit via FalGptImage2EditClient",
+  "generation_model": "openai/gpt-image-2/edit",
+  "quality": "low",
+  "no_post_processing": true,
+  "reference_source": "Pinterest search screenshots used as broad quality/style audit references only; no exact pin copied.",
+  "visual_world": "Midnight Roaster Artifact — luxury Thai drip coffee gift system",
+  "visual_intention": "Turn a basic coffee packet into a premium packaging ecosystem with gift-box unboxing, material richness, label hierarchy, and cinematic product campaign staging so the prompt feels worth saving.",
+  "packaging_requirement": "Full retail-ready ecosystem: stand-up pouch, rigid gift box, molded insert, drip sachets, cylindrical tin, tasting cards, copper seal/foil, origin badge, tear notch, zipper seam, gusset, SKU/accent hierarchy through shapes/materials; no blank pouch or generic kraft mockup.",
+  "slides": [
+    {
+      "slide_index": 1,
+      "role": "cover_hero",
+      "prompt": "Use the reference screenshots only as broad Pinterest-quality inspiration: premium product photography, campaign-world staging, packaging ecosystems, sculptural sets, controlled lighting, and material richness. Do NOT copy any exact pin, brand, UI, Pinterest layout, login modal, text, watermark, or product design from the references.\n\nProduction model target: GPT Image 2 / openai/gpt-image-2/edit, quality low. Create a square 1:1 TikTok/Pinterest carousel visual. Final image must be generated natively; no post-processing. Avoid tiny pseudo-text, fake readable labels, URLs, QR codes, barcodes, watermarks, GenLabs CTA, or no-prompt sales bridge. Packaging must be real retail-ready, not blank.\n\nSlide 1 cover / hero. Visual world: MIDNIGHT ROASTER ARTIFACT — a luxury Thai drip coffee gift system staged like a collectible artifact.\n\nMain packaging ecosystem: matte black and deep espresso-brown stand-up coffee pouch with gusset, zipper seam, tear notch, folded top, copper foil roast band, embossed abstract origin badge, clear label hierarchy made from shapes/materials only; matching open rigid gift box with molded insert; several individual drip sachets; cylindrical coffee tin with copper lid; blank tasting cards with abstract blocks; copper scoop; espresso cup with crema; scattered beans.\n\nSet design: wet black stone tabletop, subtle Bangkok monsoon reflections, warm cinematic side light from upper left, deep shadows, copper glints, visible paper grain and foil highlights, slight steam. Composition must feel like a high-end Pinterest product campaign, not a basic coffee packet render. Strong focal hierarchy, enough negative space. One integrated editorial word only: PROMPT DROP, large but tasteful, part of the scene, not pasted-on. No other readable text.",
+      "image": {
+        "slide_index": 1,
+        "image_url": "https://v3b.fal.media/files/b/0a98ba3d/MMVpoeAfWAmkD2bvLkw3w_4TiMFeqd.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/midnight-roaster-artifact-gptimage2-low-2026-05-03/slide-1.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "MMVpoeAfWAmkD2bvLkw3w_4TiMFeqd.png"
+      }
+    },
+    {
+      "slide_index": 5,
+      "role": "prompt_recipe_visual",
+      "prompt": "Use the reference screenshots only as broad Pinterest-quality inspiration: premium product photography, campaign-world staging, packaging ecosystems, sculptural sets, controlled lighting, and material richness. Do NOT copy any exact pin, brand, UI, Pinterest layout, login modal, text, watermark, or product design from the references.\n\nProduction model target: GPT Image 2 / openai/gpt-image-2/edit, quality low. Create a square 1:1 TikTok/Pinterest carousel visual. Final image must be generated natively; no post-processing. Avoid tiny pseudo-text, fake readable labels, URLs, QR codes, barcodes, watermarks, GenLabs CTA, or no-prompt sales bridge. Packaging must be real retail-ready, not blank.\n\nSlide 5 / premium prompt recipe visual. This must fix a basic prompt sheet by making it look like a collectible luxury product moodboard, not a plain text card.\n\nCreate an editorial campaign moodboard for the same MIDNIGHT ROASTER ARTIFACT coffee gift system: hero packaging image fragment, close-up material swatches (matte black paper, copper foil, wet stone, coffee beans, cream paper), miniature open gift-box detail, copper scoop, espresso crema, dark monsoon reflection. Layout is like a premium design studio art board with large image area and small recipe modules.\n\nTypography: minimal, integrated, magazine-quality. Use only these short readable module labels if possible: SET, PROPS, LIGHT, MATERIAL, ANGLE. Do not render the full prompt text in the image. Use abstract lines/cards for the prompt body so TikTok caption can hold the copyable prompt. Elegant negative space, refined grid, high-end Pinterest save graphic.",
+      "image": {
+        "slide_index": 5,
+        "image_url": "https://v3b.fal.media/files/b/0a98ba41/phbQ7-slBE-j6zmcx-L6O_8pzZzf29.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/midnight-roaster-artifact-gptimage2-low-2026-05-03/slide-5.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "phbQ7-slBE-j6zmcx-L6O_8pzZzf29.png"
+      }
+    }
+  ],
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a98ba3d/MMVpoeAfWAmkD2bvLkw3w_4TiMFeqd.png",
+    "https://v3b.fal.media/files/b/0a98ba41/phbQ7-slBE-j6zmcx-L6O_8pzZzf29.png"
+  ],
+  "selected_preview_assets": [
+    {
+      "slide_index": 11,
+      "role": "cover_hero_v2_no_prompt_brand",
+      "asset_url": "https://v3b.fal.media/files/b/0a98ba50/UatcbNYFsW-IEt6S3aWTc_LOVqAuBz.png",
+      "qa_status": "pass_with_minor_microtext_caution",
+      "why_selected": "Stronger wow factor: full coffee packaging ecosystem, open rigid gift box, pouch, tin, sachets, cup, copper scoop, wet stone/city-rain lighting; no PROMPT DROP on packaging."
+    },
+    {
+      "slide_index": 15,
+      "role": "prompt_recipe_visual_v2_actionable",
+      "asset_url": "https://v3b.fal.media/files/b/0a98ba53/aNnqa9c01NOUiQdDL1lGu_m6HsQ9B4.png",
+      "qa_status": "pass_with_minor_microtext_caution",
+      "why_selected": "Fixes basic prompt sheet: premium moodboard layout with hero image, material swatches, macro panels, and actionable SET/PROPS/LIGHT/MATERIAL/ANGLE modules."
+    }
+  ],
+  "v2_regeneration": {
+    "refs": [
+      "https://v3b.fal.media/files/b/0a98ba4e/EjQQ1iIMY8wY5Xvlx8bIn_browser_screenshot_cd5af5696f75445d8bfd64f173438f5b.png",
+      "https://v3b.fal.media/files/b/0a98ba4f/Ac_HIP-yCqKicR4UiMDWu_browser_screenshot_b8b39e809c294fcda2c4df7448fe4862.png",
+      "https://v3b.fal.media/files/b/0a98ba41/phbQ7-slBE-j6zmcx-L6O_8pzZzf29.png"
+    ],
+    "slides": [
+      {
+        "slide_index": 11,
+        "role": "cover_hero_v2_no_prompt_brand",
+        "prompt": "Use references only for broad Pinterest-quality direction: premium product photography, campaign-world staging, full packaging systems, sculptural set design, controlled shadows, material richness. Do NOT copy any exact pin, Pinterest UI, browser modal, brand, watermark, or layout.\n\nProduction model target: GPT Image 2 / openai/gpt-image-2/edit, quality low. Square 1:1 TikTok/Pinterest carousel visual. Final image generated natively, no post-processing. No GenLabs, no website, no CTA, no QR, no barcode, no watermark, no random pseudo-text. Packaging must look retail-ready with real structure and clear hierarchy through shapes/materials, not blank.\n\nRegenerate cover hero and fix these issues: no visible word PROMPT or PROMPT DROP anywhere; do not use prompt-related branding on the coffee packaging. Use a fictional premium coffee brand system named MIDNIGHT ROASTER only if text is legible and intentional; otherwise use abstract copper brand marks.\n\nVisual world: MIDNIGHT ROASTER ARTIFACT — luxury Thai drip coffee gift system staged like a collectible artifact. Main packaging ecosystem: matte black and deep espresso-brown stand-up pouch with gusset, zipper seam, tear notch, folded top, copper foil roast band, embossed abstract origin badge, shaped label panels, SKU color strip, matching open rigid gift box with molded insert, several drip sachets, cylindrical coffee tin with copper lid, blank tasting cards with clean abstract blocks, copper scoop, espresso cup with crema, scattered beans.\n\nSet design: wet black stone tabletop, subtle Bangkok monsoon reflections, warm cinematic side light, deep shadows, copper glints, paper grain, foil highlights, slight steam. Must feel like a high-end Pinterest coffee packaging campaign with wow factor, not a basic pouch. If text appears, only clean large brand text MIDNIGHT ROASTER and ARTIFACT COFFEE; no tiny microtext.",
+        "image": {
+          "slide_index": 11,
+          "image_url": "https://v3b.fal.media/files/b/0a98ba50/UatcbNYFsW-IEt6S3aWTc_LOVqAuBz.png",
+          "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/midnight-roaster-artifact-gptimage2-low-2026-05-03/slide-11.png",
+          "width": null,
+          "height": null,
+          "content_type": "image/png",
+          "file_name": "UatcbNYFsW-IEt6S3aWTc_LOVqAuBz.png"
+        }
+      },
+      {
+        "slide_index": 15,
+        "role": "prompt_recipe_visual_v2_actionable",
+        "prompt": "Use references only for broad Pinterest-quality direction: premium product photography, campaign-world staging, full packaging systems, sculptural set design, controlled shadows, material richness. Do NOT copy any exact pin, Pinterest UI, browser modal, brand, watermark, or layout.\n\nProduction model target: GPT Image 2 / openai/gpt-image-2/edit, quality low. Square 1:1 TikTok/Pinterest carousel visual. Final image generated natively, no post-processing. No GenLabs, no website, no CTA, no QR, no barcode, no watermark, no random pseudo-text. Packaging must look retail-ready with real structure and clear hierarchy through shapes/materials, not blank.\n\nRegenerate prompt recipe/moodboard visual. It must look like a premium design studio art-board, not a basic prompt sheet. Keep the same Midnight Roaster Artifact coffee gift system: hero packaging fragment, material swatches, open box detail, drip sachets, copper scoop, espresso crema, coffee beans, wet stone, copper foil.\n\nLayout: left large luxury product image, right stacked material swatches, bottom three macro detail tiles, lower-right recipe panel. Make recipe panel more actionable but avoid dense text. Use only short clean labels and short values if legible:\nSET: WET STONE\nPROPS: BOX + SCOOP\nLIGHT: WARM SIDE\nMATERIAL: BLACK + COPPER\nANGLE: 3/4 HERO\nNo full prompt paragraph. No pseudo-text. Elegant grid, negative space, premium Pinterest save graphic.",
+        "image": {
+          "slide_index": 15,
+          "image_url": "https://v3b.fal.media/files/b/0a98ba53/aNnqa9c01NOUiQdDL1lGu_m6HsQ9B4.png",
+          "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/midnight-roaster-artifact-gptimage2-low-2026-05-03/slide-15.png",
+          "width": null,
+          "height": null,
+          "content_type": "image/png",
+          "file_name": "aNnqa9c01NOUiQdDL1lGu_m6HsQ9B4.png"
+        }
+      }
+    ]
+  },
+  "status": "preview_assets_generated_not_zernio_ready",
+  "zernio_status": "not_sent_incomplete_preview_only",
+  "qa_summary": {
+    "pinterest_audit": "Completed: coffee and skincare product packaging search results audited for full packaging ecosystems, unboxing/gift setup, material systems, prop logic, lighting/shadows, and moodboard prompt-card treatment.",
+    "v1_cover": "Failed production QA due PROMPT DROP used as product branding and microtext risk, though visual direction was strong.",
+    "v2_cover": "Passed with minor microtext caution; solves basic coffee pouch issue with a full premium coffee packaging ecosystem.",
+    "v2_recipe_visual": "Passed with minor microtext caution; solves basic prompt sheet issue with a premium actionable moodboard/card.",
+    "generation_policy": "GPT Image 2 / openai/gpt-image-2/edit via FalGptImage2EditClient, quality=low, no post-processing, no Flux/image_generate."
+  }
+}

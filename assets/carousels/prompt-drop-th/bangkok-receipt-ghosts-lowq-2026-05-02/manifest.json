@@ -1,0 +1,118 @@
+{
+  "series": "prompt_drop_th",
+  "slug": "bangkok-receipt-ghosts",
+  "created_at": "2026-05-02T21:07:31.377584+00:00",
+  "generator": "openai/gpt-image-2/edit via FAL; no post-processing; low quality",
+  "quality": "low",
+  "no_post_processing": true,
+  "creative_goal": "Completely new artistic visual graphics from Aion's own idea; first slide must feature PROMPT in the graphic style; final slide must mention GenLabs in same typography/world.",
+  "visual_world": "Bangkok Receipt Ghosts / Thai-modern thermal receipt night-market commerce poster",
+  "reference_image_urls": [
+    "https://v3b.fal.media/files/b/0a98a129/r9n9AmWy_RLOPngRm6m64_img_50ea105e7581.png",
+    "https://v3b.fal.media/files/b/0a98a129/o2hqDZtUQCzM3p61JrHPl_img_ef5523e1b99b.png",
+    "https://v3b.fal.media/files/b/0a98a12a/4wynQTd9W4CUszGdNj1pE_img_38ee1eae9b21.png",
+    "https://v3b.fal.media/files/b/0a98a12a/563GlSLvdf3CE7qt5LYLU_img_65bbc4f14055.png"
+  ],
+  "slide_count": 7,
+  "master_prompt": "BANGKOK RECEIPT GHOSTS: Thai-modern night-market commerce/poster campaign where PROMPT is built from torn thermal receipt strips, black ink bloom, barcode and QR fragments, smoky street-food steam, translucent plastic-bag material, chrome sauce droplets, orange-green neon, and wet asphalt reflections. Explore the same world through hero seller/product scene, macro ink/steam texture, deconstructed commerce poster, rainy night-market atmosphere, prompt recipe card, and GenLabs final slide.",
+  "slides": [
+    {
+      "index": 1,
+      "role": "cover_prompt_receipt_ink",
+      "prompt": "Create ONE square 1:1 image for a GenLabs Prompt Drop carousel.\nUse the attached references only for overall prompt-gallery energy: bold, stylish, editorial, social-feed-worthy, artistic, strong typography integration. Do not copy exact people, layouts, logos, faces, or existing words.\n\nVisual world: BANGKOK RECEIPT GHOSTS — a Thai-modern night-market commerce/poster world built from thermal receipt paper, black ink bloom, LINE-order style message fragments without readable UI, QR-code texture fragments, smoky street-food steam, plastic bag translucency, chrome sauce reflections, orange-green neon, rain on asphalt, and ghostly product silhouettes.\n\nThe style must feel unique and prompt-worthy, not generic food photography or generic cyberpunk. Think experimental album cover + Thai seller receipt + night market poster + cinematic macro materials. Thai localization should be contemporary and commercial, not touristy: no temples, tuk-tuks, flags, elephants, tourist costumes, or fake readable Thai signs.\n\nTypography must be generated inside the image and must match the receipt/poster world. No ugly pasted text. Avoid dense text. No watermark. No random brand names.\n\nSlide 1 / Main cover. The word PROMPT is the hero typography, physically formed from torn thermal receipt strips, black ink bloom, barcode fragments, QR-code texture, neon orange-green edge glow, and wet asphalt reflections. Around it: ghostly silhouettes of Thai street-food packaging, plastic bags, steam, sauce chrome, and night-market rain. Layout like a premium Instagram prompt cover: bold, clean, artistic, high contrast. The text must read exactly: PROMPT. Make this the strongest, most correct image of the carousel.\n",
+      "image": {
+        "slide_index": 1,
+        "image_url": "https://v3b.fal.media/files/b/0a98a3da/20kv-CKV_5uh5Df9hu-ba_9cb6MyTS.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/bangkok-receipt-ghosts-lowq-2026-05-02/slide-1.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "20kv-CKV_5uh5Df9hu-ba_9cb6MyTS.png"
+      }
+    },
+    {
+      "index": 2,
+      "role": "hero_receipt_product_world",
+      "prompt": "Create ONE square 1:1 image for a GenLabs Prompt Drop carousel.\nUse the attached references only for overall prompt-gallery energy: bold, stylish, editorial, social-feed-worthy, artistic, strong typography integration. Do not copy exact people, layouts, logos, faces, or existing words.\n\nVisual world: BANGKOK RECEIPT GHOSTS — a Thai-modern night-market commerce/poster world built from thermal receipt paper, black ink bloom, LINE-order style message fragments without readable UI, QR-code texture fragments, smoky street-food steam, plastic bag translucency, chrome sauce reflections, orange-green neon, rain on asphalt, and ghostly product silhouettes.\n\nThe style must feel unique and prompt-worthy, not generic food photography or generic cyberpunk. Think experimental album cover + Thai seller receipt + night market poster + cinematic macro materials. Thai localization should be contemporary and commercial, not touristy: no temples, tuk-tuks, flags, elephants, tourist costumes, or fake readable Thai signs.\n\nTypography must be generated inside the image and must match the receipt/poster world. No ugly pasted text. Avoid dense text. No watermark. No random brand names.\n\nSlide 2 / Hero output. A surreal Thai night-market seller campaign scene: a fictional takeout bag and food cup on wet black asphalt, surrounded by floating thermal receipts, barcode ghosts, smoky noodle steam, translucent plastic bag folds, chrome sauce droplets, and orange-green neon reflections. No large headline. It should show the world that the cover prompt creates.\n",
+      "image": {
+        "slide_index": 2,
+        "image_url": "https://v3b.fal.media/files/b/0a98a3e0/UsZHj4vg6UohSUieC_5pT_Eho1wi8G.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/bangkok-receipt-ghosts-lowq-2026-05-02/slide-2.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "UsZHj4vg6UohSUieC_5pT_Eho1wi8G.png"
+      }
+    },
+    {
+      "index": 3,
+      "role": "macro_ink_steam_texture",
+      "prompt": "Create ONE square 1:1 image for a GenLabs Prompt Drop carousel.\nUse the attached references only for overall prompt-gallery energy: bold, stylish, editorial, social-feed-worthy, artistic, strong typography integration. Do not copy exact people, layouts, logos, faces, or existing words.\n\nVisual world: BANGKOK RECEIPT GHOSTS — a Thai-modern night-market commerce/poster world built from thermal receipt paper, black ink bloom, LINE-order style message fragments without readable UI, QR-code texture fragments, smoky street-food steam, plastic bag translucency, chrome sauce reflections, orange-green neon, rain on asphalt, and ghostly product silhouettes.\n\nThe style must feel unique and prompt-worthy, not generic food photography or generic cyberpunk. Think experimental album cover + Thai seller receipt + night market poster + cinematic macro materials. Thai localization should be contemporary and commercial, not touristy: no temples, tuk-tuks, flags, elephants, tourist costumes, or fake readable Thai signs.\n\nTypography must be generated inside the image and must match the receipt/poster world. No ugly pasted text. Avoid dense text. No watermark. No random brand names.\n\nSlide 3 / Macro texture universe. Extreme close-up: thermal receipt fibers, black ink bleeding into paper, barcode lines dissolving into smoky noodle steam, tiny sauce droplets like chrome beads, rain droplets magnifying receipt texture, warm orange light and green shadow. Cinematic macro lens. No headline. Make viewers feel inside the prompt material system.\n",
+      "image": {
+        "slide_index": 3,
+        "image_url": "https://v3b.fal.media/files/b/0a98a3e4/gfiBnSyAxTkATCo50AB3K_equUgjsE.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/bangkok-receipt-ghosts-lowq-2026-05-02/slide-3.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "gfiBnSyAxTkATCo50AB3K_equUgjsE.png"
+      }
+    },
+    {
+      "index": 4,
+      "role": "deconstructed_commerce_poster",
+      "prompt": "Create ONE square 1:1 image for a GenLabs Prompt Drop carousel.\nUse the attached references only for overall prompt-gallery energy: bold, stylish, editorial, social-feed-worthy, artistic, strong typography integration. Do not copy exact people, layouts, logos, faces, or existing words.\n\nVisual world: BANGKOK RECEIPT GHOSTS — a Thai-modern night-market commerce/poster world built from thermal receipt paper, black ink bloom, LINE-order style message fragments without readable UI, QR-code texture fragments, smoky street-food steam, plastic bag translucency, chrome sauce reflections, orange-green neon, rain on asphalt, and ghostly product silhouettes.\n\nThe style must feel unique and prompt-worthy, not generic food photography or generic cyberpunk. Think experimental album cover + Thai seller receipt + night market poster + cinematic macro materials. Thai localization should be contemporary and commercial, not touristy: no temples, tuk-tuks, flags, elephants, tourist costumes, or fake readable Thai signs.\n\nTypography must be generated inside the image and must match the receipt/poster world. No ugly pasted text. Avoid dense text. No watermark. No random brand names.\n\nSlide 4 / Deconstructed commerce poster. Floating layers arranged like an experimental editorial poster: torn receipt strips, abstract QR-code blocks, price-tag silhouettes, plastic-bag film, sauce-chrome arcs, food steam ribbons, wet black poster fragments, neon market reflection shards. Dynamic diagonal layout, collage depth, album-cover energy. No readable fake Thai. Tiny abstract marks only.\n",
+      "image": {
+        "slide_index": 4,
+        "image_url": "https://v3b.fal.media/files/b/0a98a3e7/7j50A8Q5HlbTaux8QPvbt_50pFaojV.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/bangkok-receipt-ghosts-lowq-2026-05-02/slide-4.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "7j50A8Q5HlbTaux8QPvbt_50pFaojV.png"
+      }
+    },
+    {
+      "index": 5,
+      "role": "night_market_ghost_scene",
+      "prompt": "Create ONE square 1:1 image for a GenLabs Prompt Drop carousel.\nUse the attached references only for overall prompt-gallery energy: bold, stylish, editorial, social-feed-worthy, artistic, strong typography integration. Do not copy exact people, layouts, logos, faces, or existing words.\n\nVisual world: BANGKOK RECEIPT GHOSTS — a Thai-modern night-market commerce/poster world built from thermal receipt paper, black ink bloom, LINE-order style message fragments without readable UI, QR-code texture fragments, smoky street-food steam, plastic bag translucency, chrome sauce reflections, orange-green neon, rain on asphalt, and ghostly product silhouettes.\n\nThe style must feel unique and prompt-worthy, not generic food photography or generic cyberpunk. Think experimental album cover + Thai seller receipt + night market poster + cinematic macro materials. Thai localization should be contemporary and commercial, not touristy: no temples, tuk-tuks, flags, elephants, tourist costumes, or fake readable Thai signs.\n\nTypography must be generated inside the image and must match the receipt/poster world. No ugly pasted text. Avoid dense text. No watermark. No random brand names.\n\nSlide 5 / Atmosphere scene. A Bangkok-modern night-market alley after rain, but abstract and non-touristy: wet floor, blurred seller lights, ghostly receipt paper flying through steam, takeout bag silhouette, chrome sauce highlights, plastic-bag translucency, orange-green neon haze. The scene should feel commercial, cinematic, and usable for Thai online sellers, not a travel postcard.\n",
+      "image": {
+        "slide_index": 5,
+        "image_url": "https://v3b.fal.media/files/b/0a98a3ea/Njbzb0VCZYtqk4zz4AXpe_pa5MpgFd.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/bangkok-receipt-ghosts-lowq-2026-05-02/slide-5.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "Njbzb0VCZYtqk4zz4AXpe_pa5MpgFd.png"
+      }
+    },
+    {
+      "index": 6,
+      "role": "prompt_recipe_receipt_card",
+      "prompt": "Create ONE square 1:1 image for a GenLabs Prompt Drop carousel.\nUse the attached references only for overall prompt-gallery energy: bold, stylish, editorial, social-feed-worthy, artistic, strong typography integration. Do not copy exact people, layouts, logos, faces, or existing words.\n\nVisual world: BANGKOK RECEIPT GHOSTS — a Thai-modern night-market commerce/poster world built from thermal receipt paper, black ink bloom, LINE-order style message fragments without readable UI, QR-code texture fragments, smoky street-food steam, plastic bag translucency, chrome sauce reflections, orange-green neon, rain on asphalt, and ghostly product silhouettes.\n\nThe style must feel unique and prompt-worthy, not generic food photography or generic cyberpunk. Think experimental album cover + Thai seller receipt + night market poster + cinematic macro materials. Thai localization should be contemporary and commercial, not touristy: no temples, tuk-tuks, flags, elephants, tourist costumes, or fake readable Thai signs.\n\nTypography must be generated inside the image and must match the receipt/poster world. No ugly pasted text. Avoid dense text. No watermark. No random brand names.\n\nSlide 6 / Prompt reveal card. Make a stylish prompt card that belongs to the Bangkok Receipt Ghosts world. It should look like a designer receipt/poster artifact, not a classroom slide. Use torn thermal paper, black ink bloom, barcode texture, neon orange-green accents, material swatches, tiny abstract thumbnails. Include only this readable text in a beautiful style-matched layout:\nPROMPT RECIPE\nthermal receipt paper\nink bloom\nQR fragments\nstreet-food steam\nwet neon market\nKeep text elegant, integrated, and not too large.\n",
+      "image": {
+        "slide_index": 6,
+        "image_url": "https://v3b.fal.media/files/b/0a98a3ee/T_opwlI5E3-7pMlyabSZy_OKe9apDu.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/bangkok-receipt-ghosts-lowq-2026-05-02/slide-6.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "T_opwlI5E3-7pMlyabSZy_OKe9apDu.png"
+      }
+    },
+    {
+      "index": 7,
+      "role": "genlabs_final_receipt_world",
+      "prompt": "Create ONE square 1:1 image for a GenLabs Prompt Drop carousel.\nUse the attached references only for overall prompt-gallery energy: bold, stylish, editorial, social-feed-worthy, artistic, strong typography integration. Do not copy exact people, layouts, logos, faces, or existing words.\n\nVisual world: BANGKOK RECEIPT GHOSTS — a Thai-modern night-market commerce/poster world built from thermal receipt paper, black ink bloom, LINE-order style message fragments without readable UI, QR-code texture fragments, smoky street-food steam, plastic bag translucency, chrome sauce reflections, orange-green neon, rain on asphalt, and ghostly product silhouettes.\n\nThe style must feel unique and prompt-worthy, not generic food photography or generic cyberpunk. Think experimental album cover + Thai seller receipt + night market poster + cinematic macro materials. Thai localization should be contemporary and commercial, not touristy: no temples, tuk-tuks, flags, elephants, tourist costumes, or fake readable Thai signs.\n\nTypography must be generated inside the image and must match the receipt/poster world. No ugly pasted text. Avoid dense text. No watermark. No random brand names.\n\nSlide 7 / Final GenLabs slide in the exact same Bangkok Receipt Ghosts visual language. Use torn thermal receipt paper, black ink bloom, barcode fragments, QR texture, orange-green neon, wet asphalt reflections, ghostly Thai seller packaging, steam, and plastic-bag translucency. Typography should be integrated like a campaign poster printed on receipt paper. Include readable text:\nGENLABS\nvisuals like this\nwithout prompt writing\nDo not make it look like a separate ad. It should feel like the final page of the same prompt-art carousel.\n",
+      "image": {
+        "slide_index": 7,
+        "image_url": "https://v3b.fal.media/files/b/0a98a3f2/AZqu-agrSI7Xn-XMDFDjn_JNSJRvD9.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/bangkok-receipt-ghosts-lowq-2026-05-02/slide-7.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "AZqu-agrSI7Xn-XMDFDjn_JNSJRvD9.png"
+      }
+    }
+  ]
+}

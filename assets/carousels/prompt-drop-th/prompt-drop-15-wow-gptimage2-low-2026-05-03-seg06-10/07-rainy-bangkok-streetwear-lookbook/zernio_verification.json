@@ -1,0 +1,23 @@
+{
+  "get_http_status": 200,
+  "draft_id": "69f761d47aa7b46ff03d2598",
+  "status": "draft",
+  "platform_statuses": [
+    "pending"
+  ],
+  "media_count": 5,
+  "payload_isDraft": true,
+  "payload_tiktok_draft": true,
+  "payload_publishNow_present": false,
+  "payload_scheduledFor_present": false,
+  "payload_media_count": 5,
+  "payload_description_length_with_hashtags": 3966,
+  "response_nested_tiktok_drafts": [
+    true
+  ],
+  "publishAttempts": 0,
+  "forbidden_found_payload": [],
+  "generation_model": "openai/gpt-image-2/edit",
+  "quality": "low",
+  "no_post_processing": true
+}

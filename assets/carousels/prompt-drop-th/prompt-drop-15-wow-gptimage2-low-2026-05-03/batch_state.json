@@ -1,0 +1,723 @@
+{
+  "batch_id": "prompt-drop-15-wow-gptimage2-low-2026-05-03",
+  "started_at": "2026-05-03T14:29:04.774877+00:00",
+  "items": [
+    {
+      "slug": "lunar-yuzu-serum-capsule-kit",
+      "status": "zernio_draft_created_verified",
+      "events": [
+        {
+          "ts": "2026-05-03T14:29:04.780537+00:00",
+          "event": "generating_images"
+        },
+        {
+          "ts": "2026-05-03T14:29:48.266287+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98bc5e/xRWOYsadRHrd7SLsJEDRu_CFmewpXd.png"
+        },
+        {
+          "ts": "2026-05-03T14:30:27.206545+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98bc63/AfWFgYpFqdrJA4-OpeycA_qrok2qVP.png"
+        },
+        {
+          "ts": "2026-05-03T14:31:01.464606+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98bc67/osW3swuQfjksK8DXoehDD_R32ZWoyh.png"
+        },
+        {
+          "ts": "2026-05-03T14:31:56.361910+00:00",
+          "event": "generating_images"
+        },
+        {
+          "ts": "2026-05-03T14:31:56.362344+00:00",
+          "event": "reused_existing_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98bc5e/xRWOYsadRHrd7SLsJEDRu_CFmewpXd.png"
+        },
+        {
+          "ts": "2026-05-03T14:31:56.362806+00:00",
+          "event": "reused_existing_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98bc63/AfWFgYpFqdrJA4-OpeycA_qrok2qVP.png"
+        },
+        {
+          "ts": "2026-05-03T14:31:56.365185+00:00",
+          "event": "reused_existing_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98bc67/osW3swuQfjksK8DXoehDD_R32ZWoyh.png"
+        },
+        {
+          "ts": "2026-05-03T14:32:40.702637+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98bc70/DarP8253sMHHSJi6ulUdh_xKbNsETd.png"
+        },
+        {
+          "ts": "2026-05-03T14:33:25.971434+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98bc74/RltKkZsSHO_1JhTqJa0rE_fa6wljou.png"
+        },
+        {
+          "ts": "2026-05-03T14:33:26.472720+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03/01-lunar-yuzu-serum-capsule-kit/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-03T14:33:26.473722+00:00",
+          "event": "dry_run_failed",
+          "error": "ValueError(\"forbidden terms in generated post: ['GenLabs']\")"
+        },
+        {
+          "ts": "2026-05-03T14:34:30.597640+00:00",
+          "event": "generating_images"
+        },
+        {
+          "ts": "2026-05-03T14:34:30.598022+00:00",
+          "event": "reused_existing_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98bc5e/xRWOYsadRHrd7SLsJEDRu_CFmewpXd.png"
+        },
+        {
+          "ts": "2026-05-03T14:34:30.598352+00:00",
+          "event": "reused_existing_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98bc63/AfWFgYpFqdrJA4-OpeycA_qrok2qVP.png"
+        },
+        {
+          "ts": "2026-05-03T14:34:30.598672+00:00",
+          "event": "reused_existing_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98bc67/osW3swuQfjksK8DXoehDD_R32ZWoyh.png"
+        },
+        {
+          "ts": "2026-05-03T14:34:30.599279+00:00",
+          "event": "reused_existing_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98bc70/DarP8253sMHHSJi6ulUdh_xKbNsETd.png"
+        },
+        {
+          "ts": "2026-05-03T14:34:30.599490+00:00",
+          "event": "reused_existing_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98bc74/RltKkZsSHO_1JhTqJa0rE_fa6wljou.png"
+        },
+        {
+          "ts": "2026-05-03T14:34:30.599812+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03/01-lunar-yuzu-serum-capsule-kit/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-03T14:34:30.600202+00:00",
+          "event": "dry_run_ok",
+          "asset_count": 5,
+          "description_length": 3900,
+          "quality": "low",
+          "no_post_processing": true,
+          "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+        },
+        {
+          "ts": "2026-05-03T14:34:30.600208+00:00",
+          "event": "creating_zernio_draft"
+        },
+        {
+          "ts": "2026-05-03T14:34:31.663154+00:00",
+          "event": "zernio_verified",
+          "draft_id": "69f75cf7fb9d49b2f5f9a073",
+          "status": "draft",
+          "media_count": 5
+        },
+        {
+          "ts": "2026-05-03T14:38:00.936929+00:00",
+          "event": "generating_images"
+        },
+        {
+          "ts": "2026-05-03T14:38:00.937424+00:00",
+          "event": "reused_existing_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98bc5e/xRWOYsadRHrd7SLsJEDRu_CFmewpXd.png"
+        },
+        {
+          "ts": "2026-05-03T14:38:00.937692+00:00",
+          "event": "reused_existing_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98bc63/AfWFgYpFqdrJA4-OpeycA_qrok2qVP.png"
+        },
+        {
+          "ts": "2026-05-03T14:38:00.937928+00:00",
+          "event": "reused_existing_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98bc67/osW3swuQfjksK8DXoehDD_R32ZWoyh.png"
+        },
+        {
+          "ts": "2026-05-03T14:38:00.938187+00:00",
+          "event": "reused_existing_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98bc70/DarP8253sMHHSJi6ulUdh_xKbNsETd.png"
+        },
+        {
+          "ts": "2026-05-03T14:38:00.938552+00:00",
+          "event": "reused_existing_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98bc74/RltKkZsSHO_1JhTqJa0rE_fa6wljou.png"
+        },
+        {
+          "ts": "2026-05-03T14:38:00.939175+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03/01-lunar-yuzu-serum-capsule-kit/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-03T14:38:00.940010+00:00",
+          "event": "dry_run_ok",
+          "asset_count": 5,
+          "description_length": 3900,
+          "quality": "low",
+          "no_post_processing": true,
+          "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+        },
+        {
+          "ts": "2026-05-03T14:38:00.940016+00:00",
+          "event": "creating_zernio_draft"
+        },
+        {
+          "ts": "2026-05-03T14:38:02.146164+00:00",
+          "event": "zernio_verified",
+          "draft_id": "69f75dc9b1a3e24507e39a9f",
+          "status": "draft",
+          "media_count": 5
+        }
+      ],
+      "index": 1,
+      "mix": "product_commerce",
+      "title_th": "Prompt Drop: เซรั่มให้ดูเหมือนแคมเปญ Luxury",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03/01-lunar-yuzu-serum-capsule-kit",
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98bc5e/xRWOYsadRHrd7SLsJEDRu_CFmewpXd.png",
+        "https://v3b.fal.media/files/b/0a98bc63/AfWFgYpFqdrJA4-OpeycA_qrok2qVP.png",
+        "https://v3b.fal.media/files/b/0a98bc67/osW3swuQfjksK8DXoehDD_R32ZWoyh.png",
+        "https://v3b.fal.media/files/b/0a98bc70/DarP8253sMHHSJi6ulUdh_xKbNsETd.png",
+        "https://v3b.fal.media/files/b/0a98bc74/RltKkZsSHO_1JhTqJa0rE_fa6wljou.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03/01-lunar-yuzu-serum-capsule-kit/manifest.json",
+      "asset_count": 5,
+      "dry_run": {
+        "asset_count": 5,
+        "description_length": 3900,
+        "quality": "low",
+        "no_post_processing": true,
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+      },
+      "zernio_draft_id": "69f75dc9b1a3e24507e39a9f",
+      "zernio_verification": {
+        "get_http_status": 200,
+        "draft_id": "69f75dc9b1a3e24507e39a9f",
+        "status": "draft",
+        "platform_statuses": [
+          "pending"
+        ],
+        "media_count": 5,
+        "payload_isDraft": true,
+        "payload_tiktok_draft": true,
+        "payload_publishNow_present": false,
+        "payload_scheduledFor_present": false,
+        "payload_media_count": 5,
+        "payload_description_length_with_hashtags": 3966,
+        "response_nested_tiktok_drafts": [
+          true
+        ],
+        "publishAttempts": 0,
+        "forbidden_found_payload": [],
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient",
+        "quality": "low",
+        "no_post_processing": true
+      }
+    },
+    {
+      "slug": "golden-sticky-rice-dessert-giftbox",
+      "status": "zernio_draft_created_verified",
+      "events": [
+        {
+          "ts": "2026-05-03T14:33:26.474638+00:00",
+          "event": "generating_images"
+        },
+        {
+          "ts": "2026-05-03T14:34:31.664013+00:00",
+          "event": "generating_images"
+        },
+        {
+          "ts": "2026-05-03T14:35:06.478602+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98bc7f/pGvo0WKQR0i0SqkeGC1Iu_Uf8S8qB9.png"
+        },
+        {
+          "ts": "2026-05-03T14:35:39.662494+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98bc83/KIiC4Iwb7PtczZdabS16a_iWoCVZNd.png"
+        },
+        {
+          "ts": "2026-05-03T14:36:23.040170+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98bc86/vEUIC2Q_IX1x3UgoGb6vg_s9aoNpdr.png"
+        },
+        {
+          "ts": "2026-05-03T14:37:09.462763+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98bc8a/F6fco6XGyuFDr7jO0FfrT_BOYwM2bN.png"
+        },
+        {
+          "ts": "2026-05-03T14:38:02.147108+00:00",
+          "event": "generating_images"
+        },
+        {
+          "ts": "2026-05-03T14:38:02.147492+00:00",
+          "event": "reused_existing_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98bc7f/pGvo0WKQR0i0SqkeGC1Iu_Uf8S8qB9.png"
+        },
+        {
+          "ts": "2026-05-03T14:38:02.147754+00:00",
+          "event": "reused_existing_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98bc83/KIiC4Iwb7PtczZdabS16a_iWoCVZNd.png"
+        },
+        {
+          "ts": "2026-05-03T14:38:02.147990+00:00",
+          "event": "reused_existing_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98bc86/vEUIC2Q_IX1x3UgoGb6vg_s9aoNpdr.png"
+        },
+        {
+          "ts": "2026-05-03T14:38:02.148207+00:00",
+          "event": "reused_existing_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98bc8a/F6fco6XGyuFDr7jO0FfrT_BOYwM2bN.png"
+        },
+        {
+          "ts": "2026-05-03T14:38:44.004407+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98bc94/2HeEuwetC3hVItzlEtI7C_KpjCtiAu.png"
+        },
+        {
+          "ts": "2026-05-03T14:38:44.505802+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03/02-golden-sticky-rice-dessert-giftbox/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-03T14:38:44.506847+00:00",
+          "event": "dry_run_ok",
+          "asset_count": 5,
+          "description_length": 3900,
+          "quality": "low",
+          "no_post_processing": true,
+          "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+        },
+        {
+          "ts": "2026-05-03T14:38:44.506966+00:00",
+          "event": "creating_zernio_draft"
+        },
+        {
+          "ts": "2026-05-03T14:38:45.525329+00:00",
+          "event": "zernio_verified",
+          "draft_id": "69f75df423ef1c7a3db65768",
+          "status": "draft",
+          "media_count": 5
+        }
+      ],
+      "index": 2,
+      "mix": "product_commerce",
+      "title_th": "Prompt Drop: ขนมไทยให้เป็น Gift Box แบรนด์พรีเมียม",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03/02-golden-sticky-rice-dessert-giftbox",
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98bc7f/pGvo0WKQR0i0SqkeGC1Iu_Uf8S8qB9.png",
+        "https://v3b.fal.media/files/b/0a98bc83/KIiC4Iwb7PtczZdabS16a_iWoCVZNd.png",
+        "https://v3b.fal.media/files/b/0a98bc86/vEUIC2Q_IX1x3UgoGb6vg_s9aoNpdr.png",
+        "https://v3b.fal.media/files/b/0a98bc8a/F6fco6XGyuFDr7jO0FfrT_BOYwM2bN.png",
+        "https://v3b.fal.media/files/b/0a98bc94/2HeEuwetC3hVItzlEtI7C_KpjCtiAu.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03/02-golden-sticky-rice-dessert-giftbox/manifest.json",
+      "asset_count": 5,
+      "dry_run": {
+        "asset_count": 5,
+        "description_length": 3900,
+        "quality": "low",
+        "no_post_processing": true,
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+      },
+      "zernio_draft_id": "69f75df423ef1c7a3db65768",
+      "zernio_verification": {
+        "get_http_status": 200,
+        "draft_id": "69f75df423ef1c7a3db65768",
+        "status": "draft",
+        "platform_statuses": [
+          "pending"
+        ],
+        "media_count": 5,
+        "payload_isDraft": true,
+        "payload_tiktok_draft": true,
+        "payload_publishNow_present": false,
+        "payload_scheduledFor_present": false,
+        "payload_media_count": 5,
+        "payload_description_length_with_hashtags": 3966,
+        "response_nested_tiktok_drafts": [
+          true
+        ],
+        "publishAttempts": 0,
+        "forbidden_found_payload": [],
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient",
+        "quality": "low",
+        "no_post_processing": true
+      }
+    },
+    {
+      "slug": "black-garlic-chili-oil-artifact",
+      "status": "zernio_draft_created_verified",
+      "events": [
+        {
+          "ts": "2026-05-03T14:38:45.526415+00:00",
+          "event": "generating_images"
+        },
+        {
+          "ts": "2026-05-03T14:39:20.385610+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98bc98/iZ-1lXYuk6CRDoC5mwZ_6_7FdJ4tCK.png"
+        },
+        {
+          "ts": "2026-05-03T14:40:00.226514+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98bc9c/sDrfBGIUDj6yZJEIFZG4v_ykuHCLzs.png"
+        },
+        {
+          "ts": "2026-05-03T14:40:39.232221+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98bca0/9OSv6KaujlGr09LX_NihN_dn3adPEP.png"
+        },
+        {
+          "ts": "2026-05-03T14:41:22.982409+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98bca4/s5R9RWQnqNIgiEnTZPQD8_pxMQtqJa.png"
+        },
+        {
+          "ts": "2026-05-03T14:42:02.634479+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98bca8/lFYQzS959ueacxVKrrTD7_JuH0OWc0.png"
+        },
+        {
+          "ts": "2026-05-03T14:42:03.136099+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03/03-black-garlic-chili-oil-artifact/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-03T14:42:03.139323+00:00",
+          "event": "dry_run_ok",
+          "asset_count": 5,
+          "description_length": 3900,
+          "quality": "low",
+          "no_post_processing": true,
+          "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+        },
+        {
+          "ts": "2026-05-03T14:42:03.139339+00:00",
+          "event": "creating_zernio_draft"
+        },
+        {
+          "ts": "2026-05-03T14:42:04.403461+00:00",
+          "event": "zernio_verified",
+          "draft_id": "69f75ebb82b15c9cc4fdcd84",
+          "status": "draft",
+          "media_count": 5
+        }
+      ],
+      "index": 3,
+      "mix": "product_commerce",
+      "title_th": "Prompt Drop: ซอส/พริกออยล์ให้ดูเป็นสินค้า Artisan",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03/03-black-garlic-chili-oil-artifact",
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98bc98/iZ-1lXYuk6CRDoC5mwZ_6_7FdJ4tCK.png",
+        "https://v3b.fal.media/files/b/0a98bc9c/sDrfBGIUDj6yZJEIFZG4v_ykuHCLzs.png",
+        "https://v3b.fal.media/files/b/0a98bca0/9OSv6KaujlGr09LX_NihN_dn3adPEP.png",
+        "https://v3b.fal.media/files/b/0a98bca4/s5R9RWQnqNIgiEnTZPQD8_pxMQtqJa.png",
+        "https://v3b.fal.media/files/b/0a98bca8/lFYQzS959ueacxVKrrTD7_JuH0OWc0.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03/03-black-garlic-chili-oil-artifact/manifest.json",
+      "asset_count": 5,
+      "dry_run": {
+        "asset_count": 5,
+        "description_length": 3900,
+        "quality": "low",
+        "no_post_processing": true,
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+      },
+      "zernio_draft_id": "69f75ebb82b15c9cc4fdcd84",
+      "zernio_verification": {
+        "get_http_status": 200,
+        "draft_id": "69f75ebb82b15c9cc4fdcd84",
+        "status": "draft",
+        "platform_statuses": [
+          "pending"
+        ],
+        "media_count": 5,
+        "payload_isDraft": true,
+        "payload_tiktok_draft": true,
+        "payload_publishNow_present": false,
+        "payload_scheduledFor_present": false,
+        "payload_media_count": 5,
+        "payload_description_length_with_hashtags": 3966,
+        "response_nested_tiktok_drafts": [
+          true
+        ],
+        "publishAttempts": 0,
+        "forbidden_found_payload": [],
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient",
+        "quality": "low",
+        "no_post_processing": true
+      }
+    },
+    {
+      "slug": "thai-tea-canister-launch-system",
+      "status": "zernio_draft_created_verified",
+      "events": [
+        {
+          "ts": "2026-05-03T14:42:04.405014+00:00",
+          "event": "generating_images"
+        },
+        {
+          "ts": "2026-05-03T14:42:48.386183+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98bcad/15ahSKCV7y2v4CRPi2NjC_LEQz3IHt.png"
+        },
+        {
+          "ts": "2026-05-03T14:43:30.023729+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98bcb1/ElhWPsNdAV04bKVqGUfL3_R971AA9G.png"
+        },
+        {
+          "ts": "2026-05-03T14:44:11.045914+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98bcb5/4hbRb9ZKzXqa2un0MSgh6_5Thuzc4p.png"
+        },
+        {
+          "ts": "2026-05-03T14:44:50.196325+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98bcb9/IaNnRsqQ5ut4O9K63KTHG_Ov9Fozge.png"
+        },
+        {
+          "ts": "2026-05-03T14:45:34.774124+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98bcbd/jEHkhh3ellTiJVMfqbRmv_LyhyWT6b.png"
+        },
+        {
+          "ts": "2026-05-03T14:45:35.275178+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03/04-thai-tea-canister-launch-system/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-03T14:45:35.276027+00:00",
+          "event": "dry_run_ok",
+          "asset_count": 5,
+          "description_length": 3900,
+          "quality": "low",
+          "no_post_processing": true,
+          "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+        },
+        {
+          "ts": "2026-05-03T14:45:35.276035+00:00",
+          "event": "creating_zernio_draft"
+        },
+        {
+          "ts": "2026-05-03T14:45:36.353691+00:00",
+          "event": "zernio_verified",
+          "draft_id": "69f75f8fadffd1eb47869d32",
+          "status": "draft",
+          "media_count": 5
+        }
+      ],
+      "index": 4,
+      "mix": "product_commerce",
+      "title_th": "Prompt Drop: ชาไทยให้เป็น Launch Campaign",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03/04-thai-tea-canister-launch-system",
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98bcad/15ahSKCV7y2v4CRPi2NjC_LEQz3IHt.png",
+        "https://v3b.fal.media/files/b/0a98bcb1/ElhWPsNdAV04bKVqGUfL3_R971AA9G.png",
+        "https://v3b.fal.media/files/b/0a98bcb5/4hbRb9ZKzXqa2un0MSgh6_5Thuzc4p.png",
+        "https://v3b.fal.media/files/b/0a98bcb9/IaNnRsqQ5ut4O9K63KTHG_Ov9Fozge.png",
+        "https://v3b.fal.media/files/b/0a98bcbd/jEHkhh3ellTiJVMfqbRmv_LyhyWT6b.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03/04-thai-tea-canister-launch-system/manifest.json",
+      "asset_count": 5,
+      "dry_run": {
+        "asset_count": 5,
+        "description_length": 3900,
+        "quality": "low",
+        "no_post_processing": true,
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+      },
+      "zernio_draft_id": "69f75f8fadffd1eb47869d32",
+      "zernio_verification": {
+        "get_http_status": 200,
+        "draft_id": "69f75f8fadffd1eb47869d32",
+        "status": "draft",
+        "platform_statuses": [
+          "pending"
+        ],
+        "media_count": 5,
+        "payload_isDraft": true,
+        "payload_tiktok_draft": true,
+        "payload_publishNow_present": false,
+        "payload_scheduledFor_present": false,
+        "payload_media_count": 5,
+        "payload_description_length_with_hashtags": 3966,
+        "response_nested_tiktok_drafts": [
+          true
+        ],
+        "publishAttempts": 0,
+        "forbidden_found_payload": [],
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient",
+        "quality": "low",
+        "no_post_processing": true
+      }
+    },
+    {
+      "slug": "eco-pet-treat-pouch-system",
+      "status": "zernio_draft_created_verified",
+      "events": [
+        {
+          "ts": "2026-05-03T14:45:36.354838+00:00",
+          "event": "generating_images"
+        },
+        {
+          "ts": "2026-05-03T14:46:22.676488+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98bcc2/bTw2UNSfTZ-5RdOpjOIrt_OiQanTnN.png"
+        },
+        {
+          "ts": "2026-05-03T14:47:02.327287+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98bcc6/q2ZCpKyWyD5sHBNwgHEby_1vfc3zSE.png"
+        },
+        {
+          "ts": "2026-05-03T14:47:42.157706+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98bcca/7zSLZA5_duvOWNPP9yZAh_iLx7EmGA.png"
+        },
+        {
+          "ts": "2026-05-03T14:48:30.546921+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98bcce/kEMksMGii8mOAClv2liSr_8wHz7VjO.png"
+        },
+        {
+          "ts": "2026-05-03T14:49:17.596527+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98bcd3/pcH2phBV4sM2g6V1Eg4Dp_ztBKU692.png"
+        },
+        {
+          "ts": "2026-05-03T14:49:18.098533+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03/05-eco-pet-treat-pouch-system/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-03T14:49:18.099730+00:00",
+          "event": "dry_run_ok",
+          "asset_count": 5,
+          "description_length": 3900,
+          "quality": "low",
+          "no_post_processing": true,
+          "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+        },
+        {
+          "ts": "2026-05-03T14:49:18.099740+00:00",
+          "event": "creating_zernio_draft"
+        },
+        {
+          "ts": "2026-05-03T14:49:19.176844+00:00",
+          "event": "zernio_verified",
+          "draft_id": "69f7606e3006f95f18a5394f",
+          "status": "draft",
+          "media_count": 5
+        }
+      ],
+      "index": 5,
+      "mix": "product_commerce",
+      "title_th": "Prompt Drop: ขนมสัตว์เลี้ยงให้ดูเป็นแบรนด์จริง",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03/05-eco-pet-treat-pouch-system",
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98bcc2/bTw2UNSfTZ-5RdOpjOIrt_OiQanTnN.png",
+        "https://v3b.fal.media/files/b/0a98bcc6/q2ZCpKyWyD5sHBNwgHEby_1vfc3zSE.png",
+        "https://v3b.fal.media/files/b/0a98bcca/7zSLZA5_duvOWNPP9yZAh_iLx7EmGA.png",
+        "https://v3b.fal.media/files/b/0a98bcce/kEMksMGii8mOAClv2liSr_8wHz7VjO.png",
+        "https://v3b.fal.media/files/b/0a98bcd3/pcH2phBV4sM2g6V1Eg4Dp_ztBKU692.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03/05-eco-pet-treat-pouch-system/manifest.json",
+      "asset_count": 5,
+      "dry_run": {
+        "asset_count": 5,
+        "description_length": 3900,
+        "quality": "low",
+        "no_post_processing": true,
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient"
+      },
+      "zernio_draft_id": "69f76b0fbbe86e8fd15b88f4",
+      "zernio_verification": {
+        "get_http_status": 200,
+        "draft_id": "69f7606e3006f95f18a5394f",
+        "status": "draft",
+        "platform_statuses": [
+          "pending"
+        ],
+        "media_count": 5,
+        "payload_isDraft": true,
+        "payload_tiktok_draft": true,
+        "payload_publishNow_present": false,
+        "payload_scheduledFor_present": false,
+        "payload_media_count": 5,
+        "payload_description_length_with_hashtags": 3966,
+        "response_nested_tiktok_drafts": [
+          true
+        ],
+        "publishAttempts": 0,
+        "forbidden_found_payload": [],
+        "generation_model": "openai/gpt-image-2/edit openai/gpt-image-2/edit via FalGptImage2EditClient",
+        "quality": "low",
+        "no_post_processing": true
+      },
+      "replacement_history": [
+        {
+          "old_zernio_draft_id": "69f7606e3006f95f18a5394f",
+          "new_zernio_draft_id": "69f76b0fbbe86e8fd15b88f4",
+          "reason": "old counted ID failed fresh draft-only verification"
+        }
+      ]
+    }
+  ],
+  "finished_at": "2026-05-03T14:49:19.181938+00:00"
+}

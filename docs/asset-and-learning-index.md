@@ -1,9 +1,9 @@
 # GenLabs Asset + Learning Index
 
-Updated: 2026-05-02 16:56:06 UTC
+Updated: 2026-05-03 16:56:50 UTC
 
-- Carousel image assets copied: 703
-- Carousel manifests copied: 103
+- Carousel image assets copied: 995
+- Carousel manifests copied: 151
 - Learning/operations notes copied: 19
 
 ## Carousel folders
@@ -98,11 +98,35 @@ Updated: 2026-05-02 16:56:06 UTC
 - `auto-20260502T133358Z-evergreen-chatgpt-voice-` — 7 image(s)
 - `auto-20260502T134346Z-evergreen-claude-artifac` — 7 image(s)
 - `auto-20260502T135306Z-evergreen-gemini-sheets-` — 7 image(s)
+- `auto-20260503T071358Z-evergreen-chatgpt-image-` — 7 image(s)
+- `auto-20260503T071940Z-evergreen-zapier-make-cu` — 7 image(s)
+- `auto-20260503T072429Z-evergreen-chatgpt-brand-` — 7 image(s)
+- `auto-20260503T072911Z-evergreen-canva-ai-promo` — 7 image(s)
+- `auto-20260503T074742Z-yt-r2vYObllqJU` — 7 image(s)
 - `evergreen-recovery-live-20260429T105258Z-evergreen-chatgpt-projects-sales-followup` — 5 image(s)
 - `first-public-cdn-live` — 5 image(s)
 - `first-public-cdn-live-v2` — 5 image(s)
 - `genlabs-cta-10baht-sme` — 1 image(s)
 - `genlabs-sig-60-claude-code-sdk` — 5 image(s)
+- `kpi20-20260503-20260503T071835Z-kpi20-chatgpt-projects-client-brief-room-20260503` — 5 image(s)
+- `kpi20-20260503-20260503T071836Z-kpi20-perplexity-packaging-supplier-matrix-20260503` — 5 image(s)
+- `kpi20-20260503-20260503T071837Z-kpi20-notebooklm-staff-training-manual-20260503` — 5 image(s)
+- `kpi20-20260503-20260503T071838Z-kpi20-claude-code-promo-page-reviewable-diff-20260503` — 5 image(s)
+- `kpi20-20260503-20260503T072140Z-kpi20-gemini-sheets-vip-customer-segment-20260503` — 5 image(s)
+- `kpi20-20260503-20260503T072157Z-kpi20-ai-receipt-expense-summary-sme-20260503` — 5 image(s)
+- `kpi20-20260503-20260503T072201Z-kpi20-chatgpt-voice-sales-roleplay-thai-20260503` — 5 image(s)
+- `kpi20-20260503-20260503T072214Z-kpi20-claude-artifacts-quote-calculator-sme-20260503` — 5 image(s)
+- `kpi20-20260503-20260503T072447Z-kpi20-custom-gpt-shop-policy-guardrails-20260503` — 5 image(s)
+- `kpi20-20260503-20260503T072531Z-kpi20-canva-ai-menu-refresh-restaurant-20260503` — 5 image(s)
+- `kpi20-20260503-20260503T072534Z-kpi20-prompt-library-team-standard-work-20260503` — 5 image(s)
+- `kpi20-20260503-20260503T072552Z-kpi20-ai-review-comment-mining-product-insight-20260503` — 5 image(s)
+- `kpi20-20260503-20260503T072812Z-kpi20-chatgpt-file-analysis-inventory-slow-moving-20260503` — 5 image(s)
+- `kpi20-20260503-20260503T072853Z-kpi20-ai-hiring-scorecard-sme-interview-20260503` — 5 image(s)
+- `kpi20-20260503-20260503T072903Z-kpi20-chatgpt-deep-research-local-market-map-20260503` — 5 image(s)
+- `kpi20-20260503-20260503T072918Z-kpi20-agentic-coding-test-first-small-feature-20260503` — 5 image(s)
+- `kpi20-20260503-20260503T073142Z-kpi20-ai-line-broadcast-personalization-20260503` — 2 image(s)
+- `kpi20-20260503-20260503T073211Z-kpi20-ai-product-page-faq-objection-blocks-20260503` — 5 image(s)
+- `kpi20-20260503-20260503T073250Z-kpi20-ai-image-brief-brand-consistency-sme-20260503` — 5 image(s)
 - `manual-20260427T035203Z-openai-gpt-5-5-launch-2026-04-23-review-1` — 5 image(s)
 - `money-20260428T074345Z-ai-money-content-pack-shops-20260428` — 6 image(s)
 - `money-20260428T075416Z-ai-money-product-photo-package-20260428` — 6 image(s)

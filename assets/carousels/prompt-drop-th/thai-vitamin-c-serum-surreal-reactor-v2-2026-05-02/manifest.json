@@ -1,0 +1,102 @@
+{
+  "series": "prompt_drop_th",
+  "slug": "thai-vitamin-c-serum-surreal-reactor-v2",
+  "created_at": "2026-05-02T20:19:56.927285+00:00",
+  "generator": "openai/gpt-image-2/edit via FAL; no post-processing; high quality",
+  "no_post_processing": true,
+  "reason_for_v2": "V1 was too generic/basic. V2 pushes unique layered product-art direction that makes the prompt desirable.",
+  "reference_image_urls": [
+    "https://v3b.fal.media/files/b/0a98a21c/AwdbjHnAFxUD9W8cA7lZN_img_e774544699b0.jpeg",
+    "https://v3b.fal.media/files/b/0a98a129/r9n9AmWy_RLOPngRm6m64_img_50ea105e7581.png",
+    "https://v3b.fal.media/files/b/0a98a12a/4wynQTd9W4CUszGdNj1pE_img_38ee1eae9b21.png",
+    "https://v3b.fal.media/files/b/0a98a12a/563GlSLvdf3CE7qt5LYLU_img_65bbc4f14055.png"
+  ],
+  "slide_count": 6,
+  "master_prompt": "Transform a small amber Vitamin C serum dropper bottle into a surreal citrus-reactor skincare campaign: preserve amber glass, black dropper, white label and orange brightening accent; place the bottle inside translucent orange-peel helixes, amber glass rings, liquid serum ribbons, micro droplets, refracted golden light, and editorial dark-to-warm studio lighting; create multiple shots including hero, deconstructed packaging, macro droplet universe, skin-glow landscape, and monsoon glasshouse; high-end commercial product art, impossible studio set, no generic ecommerce styling.",
+  "slides": [
+    {
+      "index": 1,
+      "role": "hero_citrus_reactor",
+      "prompt": "Create ONE square 1:1 image for a GenLabs Prompt Drop product carousel.\nPrimary reference product: small amber glass Vitamin C serum dropper bottle with black rubber dropper, black cap, white label, orange BRIGHTEN/Vitamin C accent. Preserve this product silhouette and packaging identity as much as possible.\nSecondary style references are only for bold prompt-gallery art direction: editorial, striking, unusual, high-design. Do not copy their subjects or text.\n\nThis must NOT look like normal ecommerce product photography. Avoid basic citrus next to bottle, generic lab, generic spa stones, simple dew surface, or ordinary clean packshot. Build a distinctive layered visual world that makes people want the prompt.\nNo big ugly text overlays. No random typography. No fake logos/watermarks. If text appears, it should be only the product label or extremely subtle art-direction marks.\n\nVisual world: CITRUS REACTOR — a surreal high-end skincare campaign. The amber serum bottle floats upright inside a translucent spiral helix made from orange peel, amber glass, and liquid serum ribbons. Around it: suspended micro droplets, thin glass rings, refracted golden light, citrus membranes like stained glass, clean dark-to-warm gradient background. Product label faces camera enough to read main Vitamin C/BRIGHTEN identity. Editorial, impossible studio set, dramatic shadows, artful negative space, ultra-detailed commercial render.\n",
+      "image": {
+        "slide_index": 1,
+        "image_url": "https://v3b.fal.media/files/b/0a98a265/m3oez0yT7HGCRpNlNfihR_FgYC0Ons.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-vitamin-c-serum-surreal-reactor-v2-2026-05-02/slide-1.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "m3oez0yT7HGCRpNlNfihR_FgYC0Ons.png"
+      }
+    },
+    {
+      "index": 2,
+      "role": "deconstructed_packaging",
+      "prompt": "Create ONE square 1:1 image for a GenLabs Prompt Drop product carousel.\nPrimary reference product: small amber glass Vitamin C serum dropper bottle with black rubber dropper, black cap, white label, orange BRIGHTEN/Vitamin C accent. Preserve this product silhouette and packaging identity as much as possible.\nSecondary style references are only for bold prompt-gallery art direction: editorial, striking, unusual, high-design. Do not copy their subjects or text.\n\nThis must NOT look like normal ecommerce product photography. Avoid basic citrus next to bottle, generic lab, generic spa stones, simple dew surface, or ordinary clean packshot. Build a distinctive layered visual world that makes people want the prompt.\nNo big ugly text overlays. No random typography. No fake logos/watermarks. If text appears, it should be only the product label or extremely subtle art-direction marks.\n\nVisual world: DECONSTRUCTED PACKAGING POSTER — the serum bottle exploded into elegant floating layers: amber glass cylinder, black dropper cap, white label plane, orange brighten band, transparent serum core, all hovering in precise alignment like a museum display. Add thin shadows, orange light refractions, citrus glass fragments, and black editorial background. It should feel like product design meets high-fashion poster art, not a technical diagram. Product remains recognizable.\n",
+      "image": {
+        "slide_index": 2,
+        "image_url": "https://v3b.fal.media/files/b/0a98a278/xa1tECIUgRkva3eDtE9zj_QPCmRWHB.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-vitamin-c-serum-surreal-reactor-v2-2026-05-02/slide-2.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "xa1tECIUgRkva3eDtE9zj_QPCmRWHB.png"
+      }
+    },
+    {
+      "index": 3,
+      "role": "macro_orange_universe",
+      "prompt": "Create ONE square 1:1 image for a GenLabs Prompt Drop product carousel.\nPrimary reference product: small amber glass Vitamin C serum dropper bottle with black rubber dropper, black cap, white label, orange BRIGHTEN/Vitamin C accent. Preserve this product silhouette and packaging identity as much as possible.\nSecondary style references are only for bold prompt-gallery art direction: editorial, striking, unusual, high-design. Do not copy their subjects or text.\n\nThis must NOT look like normal ecommerce product photography. Avoid basic citrus next to bottle, generic lab, generic spa stones, simple dew surface, or ordinary clean packshot. Build a distinctive layered visual world that makes people want the prompt.\nNo big ugly text overlays. No random typography. No fake logos/watermarks. If text appears, it should be only the product label or extremely subtle art-direction marks.\n\nVisual world: MACRO ORANGE UNIVERSE — extreme macro beauty image. A golden serum droplet hangs from the black dropper; inside the droplet is a tiny refracted world of orange citrus cells, amber crystals, and glowing micro bubbles. The actual serum bottle appears behind as a soft but recognizable silhouette with white/orange label. Cinematic macro lens, shallow depth, impossible detail, jewel-like lighting, no ordinary product setup.\n",
+      "image": {
+        "slide_index": 3,
+        "image_url": "https://v3b.fal.media/files/b/0a98a289/Drgj94RsfY605xdzJDqdp_BTGiqVCw.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-vitamin-c-serum-surreal-reactor-v2-2026-05-02/slide-3.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "Drgj94RsfY605xdzJDqdp_BTGiqVCw.png"
+      }
+    },
+    {
+      "index": 4,
+      "role": "skin_glow_landscape",
+      "prompt": "Create ONE square 1:1 image for a GenLabs Prompt Drop product carousel.\nPrimary reference product: small amber glass Vitamin C serum dropper bottle with black rubber dropper, black cap, white label, orange BRIGHTEN/Vitamin C accent. Preserve this product silhouette and packaging identity as much as possible.\nSecondary style references are only for bold prompt-gallery art direction: editorial, striking, unusual, high-design. Do not copy their subjects or text.\n\nThis must NOT look like normal ecommerce product photography. Avoid basic citrus next to bottle, generic lab, generic spa stones, simple dew surface, or ordinary clean packshot. Build a distinctive layered visual world that makes people want the prompt.\nNo big ugly text overlays. No random typography. No fake logos/watermarks. If text appears, it should be only the product label or extremely subtle art-direction marks.\n\nVisual world: SKIN GLOW LANDSCAPE — the serum bottle stands on an abstract satin surface resembling luminous close-up skin texture, with amber-gold serum flowing like a thin river across the surface. Orange light passes through transparent glass slabs and creates cellular patterns. Add subtle pores/skin texture, glowing serum trail, black dropper reflection. Artistic beauty-science campaign, sensual but clean, not medical, not generic.\n",
+      "image": {
+        "slide_index": 4,
+        "image_url": "https://v3b.fal.media/files/b/0a98a29d/kMoIHxC_b6NIGXpOlxyvq_giFHVkSr.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-vitamin-c-serum-surreal-reactor-v2-2026-05-02/slide-4.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "kMoIHxC_b6NIGXpOlxyvq_giFHVkSr.png"
+      }
+    },
+    {
+      "index": 5,
+      "role": "thai_monsoon_glasshouse",
+      "prompt": "Create ONE square 1:1 image for a GenLabs Prompt Drop product carousel.\nPrimary reference product: small amber glass Vitamin C serum dropper bottle with black rubber dropper, black cap, white label, orange BRIGHTEN/Vitamin C accent. Preserve this product silhouette and packaging identity as much as possible.\nSecondary style references are only for bold prompt-gallery art direction: editorial, striking, unusual, high-design. Do not copy their subjects or text.\n\nThis must NOT look like normal ecommerce product photography. Avoid basic citrus next to bottle, generic lab, generic spa stones, simple dew surface, or ordinary clean packshot. Build a distinctive layered visual world that makes people want the prompt.\nNo big ugly text overlays. No random typography. No fake logos/watermarks. If text appears, it should be only the product label or extremely subtle art-direction marks.\n\nVisual world: THAI MONSOON GLASSHOUSE — a modern Thai tropical skincare scene without tourist clichés. The product stands inside a futuristic glasshouse set with rain streaks on glass, abstract tropical leaf shadows, warm orange light, amber reflections, and black stone. Think Bangkok design studio after monsoon rain: cinematic, humid, premium, mysterious. No temples, no tuk-tuks, no flags, no spa cliché. Product label still visible.\n",
+      "image": {
+        "slide_index": 5,
+        "image_url": "https://v3b.fal.media/files/b/0a98a2b0/lbdKF3NFjs6SFCIdXTOME_2AN3TXSN.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-vitamin-c-serum-surreal-reactor-v2-2026-05-02/slide-5.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "lbdKF3NFjs6SFCIdXTOME_2AN3TXSN.png"
+      }
+    },
+    {
+      "index": 6,
+      "role": "campaign_cover_prompt_world",
+      "prompt": "Create ONE square 1:1 image for a GenLabs Prompt Drop product carousel.\nPrimary reference product: small amber glass Vitamin C serum dropper bottle with black rubber dropper, black cap, white label, orange BRIGHTEN/Vitamin C accent. Preserve this product silhouette and packaging identity as much as possible.\nSecondary style references are only for bold prompt-gallery art direction: editorial, striking, unusual, high-design. Do not copy their subjects or text.\n\nThis must NOT look like normal ecommerce product photography. Avoid basic citrus next to bottle, generic lab, generic spa stones, simple dew surface, or ordinary clean packshot. Build a distinctive layered visual world that makes people want the prompt.\nNo big ugly text overlays. No random typography. No fake logos/watermarks. If text appears, it should be only the product label or extremely subtle art-direction marks.\n\nVisual world: FINAL CAMPAIGN COVER — the most striking version of the set. Combine the product, citrus reactor helix, amber glass rings, orange liquid ribbons, dark editorial poster background, and a single elegant small caption treatment that says only: PROMPT DROP. The text must be tiny/refined and integrated like a luxury art-book label, not a big overlay. Hero image should feel rare, high-end, and save-worthy.\n",
+      "image": {
+        "slide_index": 6,
+        "image_url": "https://v3b.fal.media/files/b/0a98a2c3/LMLQSGuIXQFrnHJ4w3NzH_spBGijrJ.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-vitamin-c-serum-surreal-reactor-v2-2026-05-02/slide-6.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "LMLQSGuIXQFrnHJ4w3NzH_spBGijrJ.png"
+      }
+    }
+  ]
+}

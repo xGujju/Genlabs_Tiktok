@@ -1,0 +1,237 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a98b281/pZAmcyx9gax88iyrRGnLl_MAoiGR8K.png",
+    "https://v3b.fal.media/files/b/0a98b285/7bMCPq-9tgUbbEXBajJaG_5bZtWPv9.png",
+    "https://v3b.fal.media/files/b/0a98b289/SbDk70nB_yznPOKiPJKma_1NzkAWAU.png",
+    "https://v3b.fal.media/files/b/0a98b28d/9tSBbnMdO4C0Nirb5mIbm_L8cb1Tm5.png",
+    "https://v3b.fal.media/files/b/0a98b292/PFqrOZi60NvBzI-96DV72_45GAvYsR.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 5,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/5 role=hook. Exact Thai copy: ใช้ ChatGPT\nหา Slow-moving Stock\nจากไฟล์ขาย. Visual direction: inventory spreadsheet highlighting slow items. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "ใช้ ChatGPT\nหา Slow-moving Stock\nจากไฟล์ขาย",
+        "visual_direction": "inventory spreadsheet highlighting slow items"
+      },
+      {
+        "image_prompt": "Slide 2/5 role=problem. Exact Thai copy: ของค้างเต็มร้าน\nแต่ไม่รู้ตัวไหนควรจัดการก่อน. Visual direction: stockroom with question marks and boxes. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ของค้างเต็มร้าน\nแต่ไม่รู้ตัวไหนควรจัดการก่อน",
+        "visual_direction": "stockroom with question marks and boxes"
+      },
+      {
+        "image_prompt": "Slide 3/5 role=data. Exact Thai copy: ไฟล์ต้องมี:\nSKU\nStock\nยอดขาย\nวันที่ขายล่าสุด. Visual direction: clean inventory columns card. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 3,
+        "role": "data",
+        "thai_copy": "ไฟล์ต้องมี:\nSKU\nStock\nยอดขาย\nวันที่ขายล่าสุด",
+        "visual_direction": "clean inventory columns card"
+      },
+      {
+        "image_prompt": "Slide 4/5 role=output. Exact Thai copy: ขอ AI ทำ:\nTop 20 สินค้าค้าง\nสาเหตุสมมติ\nAction แนะนำ. Visual direction: ranked slow-moving table and action arrows. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 4,
+        "role": "output",
+        "thai_copy": "ขอ AI ทำ:\nTop 20 สินค้าค้าง\nสาเหตุสมมติ\nAction แนะนำ",
+        "visual_direction": "ranked slow-moving table and action arrows"
+      },
+      {
+        "image_prompt": "Slide 5/5 role=cta. Exact Thai copy: ลองวันนี้:\nหา 10 SKU\nที่ต้องรีบจัดการ. Visual direction: inventory action checklist. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 5,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nหา 10 SKU\nที่ต้องรีบจัดการ",
+        "visual_direction": "inventory action checklist"
+      }
+    ],
+    "source_id": "kpi20-chatgpt-file-analysis-inventory-slow-moving-20260503",
+    "source_url": "internal://genlabs/kpi20/chatgpt-file-analysis-inventory-slow-moving",
+    "thai_brief": {
+      "evidence": [
+        "Internal GenLabs educational content plan",
+        "Action-based Thai AI money-making lesson"
+      ],
+      "glossary": {
+        "ChatGPT": "ChatGPT",
+        "SME": "SME",
+        "file analysis": "file analysis",
+        "inventory": "inventory"
+      },
+      "original_keywords": [
+        "ChatGPT",
+        "file analysis",
+        "inventory",
+        "SME"
+      ],
+      "source_id": "kpi20-chatgpt-file-analysis-inventory-slow-moving-20260503",
+      "source_url": "internal://genlabs/kpi20/chatgpt-file-analysis-inventory-slow-moving",
+      "thai_call_to_action": "วันนี้ลองอัปโหลดไฟล์ตัวอย่าง แล้วหา 10 SKU ที่ควรรีบจัดการ",
+      "thai_hook": "ของค้างสต็อกเยอะ? ให้ ChatGPT วิเคราะห์ไฟล์ขายหา slow-moving items",
+      "thai_problem": "ร้านเล็กจำนวนมากรู้สึกว่าสินค้าเหลือเยอะ แต่ไม่รู้ว่าตัวไหนค้างนาน ตัวไหนขายช้า และควรทำโปรกับกลุ่มไหนก่อน",
+      "thai_tips": [
+        "เตรียมไฟล์ SKU, stock, sold quantity, last sold date",
+        "ถาม AI หา slow-moving 20 อันดับแรก",
+        "ให้แยกสาเหตุสมมติ: ราคา ช่องทาง ฤดูกาล รูปสินค้า",
+        "ขอ action: ลดราคา bundle ยิงโปร หรือหยุดสั่งเพิ่ม",
+        "ตรวจกับทีมขายก่อนตัดสินใจ clearance จริง"
+      ],
+      "thai_trend_angle": "File analysis ช่วยให้เจ้าของร้านถามข้อมูลขายเป็นภาษาคนได้ แต่ต้องเตรียมไฟล์สะอาดและตรวจสูตรก่อนตัดสินใจซื้อของเพิ่ม"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "genlabs-ai-learning",
+    "clean_headline": "ของค้างสต็อกเยอะ? ให้ ChatGPT วิเคราะห์ไฟล์ขายหา slow-moving items",
+    "clean_summary": "ร้านเล็กจำนวนมากรู้สึกว่าสินค้าเหลือเยอะ แต่ไม่รู้ว่าตัวไหนค้างนาน ตัวไหนขายช้า และควรทำโปรกับกลุ่มไหนก่อน",
+    "metrics_snapshot": {},
+    "original_keywords": [
+      "ChatGPT",
+      "file analysis",
+      "inventory",
+      "SME"
+    ],
+    "original_language": "th",
+    "raw_text": "ของค้างสต็อกเยอะ? ให้ ChatGPT วิเคราะห์ไฟล์ขายหา slow-moving items\nร้านเล็กจำนวนมากรู้สึกว่าสินค้าเหลือเยอะ แต่ไม่รู้ว่าตัวไหนค้างนาน ตัวไหนขายช้า และควรทำโปรกับกลุ่มไหนก่อน\nFile analysis ช่วยให้เจ้าของร้านถามข้อมูลขายเป็นภาษาคนได้ แต่ต้องเตรียมไฟล์สะอาดและตรวจสูตรก่อนตัดสินใจซื้อของเพิ่ม\nเตรียมไฟล์ SKU, stock, sold quantity, last sold date\nถาม AI หา slow-moving 20 อันดับแรก\nให้แยกสาเหตุสมมติ: ราคา ช่องทาง ฤดูกาล รูปสินค้า\nขอ action: ลดราคา bundle ยิงโปร หรือหยุดสั่งเพิ่ม\nตรวจกับทีมขายก่อนตัดสินใจ clearance จริง",
+    "source_id": "kpi20-chatgpt-file-analysis-inventory-slow-moving-20260503",
+    "source_url": "internal://genlabs/kpi20/chatgpt-file-analysis-inventory-slow-moving",
+    "why_it_matters": "Practical Thai AI money-making education; no fake income promises."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้ลองอัปโหลดไฟล์ตัวอย่าง แล้วหา 10 SKU ที่ควรรีบจัดการ",
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "hook": "ของค้างสต็อกเยอะ? ให้ ChatGPT วิเคราะห์ไฟล์ขายหา slow-moving items",
+    "original_keywords": [
+      "ChatGPT",
+      "file analysis",
+      "inventory",
+      "SME"
+    ],
+    "original_language": "th",
+    "problem": "ร้านเล็กจำนวนมากรู้สึกว่าสินค้าเหลือเยอะ แต่ไม่รู้ว่าตัวไหนค้างนาน ตัวไหนขายช้า และควรทำโปรกับกลุ่มไหนก่อน",
+    "source_id": "kpi20-chatgpt-file-analysis-inventory-slow-moving-20260503",
+    "source_url": "internal://genlabs/kpi20/chatgpt-file-analysis-inventory-slow-moving",
+    "tips": [
+      "เตรียมไฟล์ SKU, stock, sold quantity, last sold date",
+      "ถาม AI หา slow-moving 20 อันดับแรก",
+      "ให้แยกสาเหตุสมมติ: ราคา ช่องทาง ฤดูกาล รูปสินค้า",
+      "ขอ action: ลดราคา bundle ยิงโปร หรือหยุดสั่งเพิ่ม",
+      "ตรวจกับทีมขายก่อนตัดสินใจ clearance จริง"
+    ],
+    "trend_angle": "File analysis ช่วยให้เจ้าของร้านถามข้อมูลขายเป็นภาษาคนได้ แต่ต้องเตรียมไฟล์สะอาดและตรวจสูตรก่อนตัดสินใจซื้อของเพิ่ม"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "pZAmcyx9gax88iyrRGnLl_MAoiGR8K.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b281/pZAmcyx9gax88iyrRGnLl_MAoiGR8K.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072812Z-kpi20-chatgpt-file-analysis-inventory-slow-moving-20260503/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "7bMCPq-9tgUbbEXBajJaG_5bZtWPv9.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b285/7bMCPq-9tgUbbEXBajJaG_5bZtWPv9.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072812Z-kpi20-chatgpt-file-analysis-inventory-slow-moving-20260503/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "SbDk70nB_yznPOKiPJKma_1NzkAWAU.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b289/SbDk70nB_yznPOKiPJKma_1NzkAWAU.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072812Z-kpi20-chatgpt-file-analysis-inventory-slow-moving-20260503/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "9tSBbnMdO4C0Nirb5mIbm_L8cb1Tm5.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b28d/9tSBbnMdO4C0Nirb5mIbm_L8cb1Tm5.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072812Z-kpi20-chatgpt-file-analysis-inventory-slow-moving-20260503/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "PFqrOZi60NvBzI-96DV72_45GAvYsR.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b292/PFqrOZi60NvBzI-96DV72_45GAvYsR.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072812Z-kpi20-chatgpt-file-analysis-inventory-slow-moving-20260503/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 6,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072812Z-kpi20-chatgpt-file-analysis-inventory-slow-moving-20260503/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: ร้านเล็กจำนวนมากรู้สึกว่าสินค้าเหลือเยอะ แต่ไม่รู้ว่าตัวไหนค้างนาน ตัวไหนขายช้า และควรทำโปรกับกลุ่มไหนก่อน\n\n📌 ทำไมควรเซฟโพสต์นี้: File analysis ช่วยให้เจ้าของร้านถามข้อมูลขายเป็นภาษาคนได้ แต่ต้องเตรียมไฟล์สะอาดและตรวจสูตรก่อนตัดสินใจซื้อของเพิ่ม\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ เตรียมไฟล์ SKU, stock, sold quantity, last sold date\n\n2) ✨ ถาม AI หา slow-moving 20 อันดับแรก\n\n3) ✨ ให้แยกสาเหตุสมมติ: ราคา ช่องทาง ฤดูกาล รูปสินค้า\n\n4) ✨ ขอ action: ลดราคา bundle ยิงโปร หรือหยุดสั่งเพิ่ม\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ChatGPTภาษาไทย"
+    ],
+    "title": "ของค้างสต็อกเยอะ? ให้ ChatGPT วิเคราะห์ไฟล์ขายหา slow-moving items #AIมือใหม่"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "glossary": {
+      "ChatGPT": "ChatGPT",
+      "SME": "SME",
+      "file analysis": "file analysis",
+      "inventory": "inventory"
+    },
+    "original_keywords": [
+      "ChatGPT",
+      "file analysis",
+      "inventory",
+      "SME"
+    ],
+    "source_id": "kpi20-chatgpt-file-analysis-inventory-slow-moving-20260503",
+    "source_url": "internal://genlabs/kpi20/chatgpt-file-analysis-inventory-slow-moving",
+    "thai_call_to_action": "วันนี้ลองอัปโหลดไฟล์ตัวอย่าง แล้วหา 10 SKU ที่ควรรีบจัดการ",
+    "thai_hook": "ของค้างสต็อกเยอะ? ให้ ChatGPT วิเคราะห์ไฟล์ขายหา slow-moving items",
+    "thai_problem": "ร้านเล็กจำนวนมากรู้สึกว่าสินค้าเหลือเยอะ แต่ไม่รู้ว่าตัวไหนค้างนาน ตัวไหนขายช้า และควรทำโปรกับกลุ่มไหนก่อน",
+    "thai_tips": [
+      "เตรียมไฟล์ SKU, stock, sold quantity, last sold date",
+      "ถาม AI หา slow-moving 20 อันดับแรก",
+      "ให้แยกสาเหตุสมมติ: ราคา ช่องทาง ฤดูกาล รูปสินค้า",
+      "ขอ action: ลดราคา bundle ยิงโปร หรือหยุดสั่งเพิ่ม",
+      "ตรวจกับทีมขายก่อนตัดสินใจ clearance จริง"
+    ],
+    "thai_trend_angle": "File analysis ช่วยให้เจ้าของร้านถามข้อมูลขายเป็นภาษาคนได้ แต่ต้องเตรียมไฟล์สะอาดและตรวจสูตรก่อนตัดสินใจซื้อของเพิ่ม"
+  }
+}

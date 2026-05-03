@@ -1,0 +1,80 @@
+{
+  "refs": [
+    "https://v3b.fal.media/files/b/0a98ba4e/EjQQ1iIMY8wY5Xvlx8bIn_browser_screenshot_cd5af5696f75445d8bfd64f173438f5b.png",
+    "https://v3b.fal.media/files/b/0a98ba4f/Ac_HIP-yCqKicR4UiMDWu_browser_screenshot_b8b39e809c294fcda2c4df7448fe4862.png",
+    "https://v3b.fal.media/files/b/0a98ba50/UatcbNYFsW-IEt6S3aWTc_LOVqAuBz.png",
+    "https://v3b.fal.media/files/b/0a98ba53/aNnqa9c01NOUiQdDL1lGu_m6HsQ9B4.png"
+  ],
+  "slides": [
+    {
+      "slide_index": 2,
+      "role": "hero_output_full_packaging_family",
+      "prompt": "Use references only for broad Pinterest and Midjourney-style visual quality: premium editorial composition, cinematic contrast, rich materials, stylized but realistic packaging, controlled shadows, luxury moodboard confidence. Do NOT copy exact pins, Pinterest UI, browser modal, brand, watermark, or layout.\n\nProduction model target: GPT Image 2 / openai/gpt-image-2/edit, quality low. Square 1:1 TikTok/Pinterest carousel visual. Final image generated natively, no post-processing. No Flux. No GenLabs, no website, no CTA, no QR, no barcode, no watermark, no no-prompt bridge. Avoid tiny pseudo-text. Packaging must look retail-ready with structure and hierarchy, not blank or generic.\n\nVisual world for all slides: MIDNIGHT ROASTER ARTIFACT — luxury Thai drip coffee gift system; matte black + espresso brown + copper foil; wet black stone, Bangkok monsoon reflections, warm side light, deep shadows, coffee ritual props. Keep packaging consistent: stand-up pouch, rigid gift box, drip sachets, cylindrical tin, tasting cards, copper scoop, espresso cup, beans.\n\nSlide 2 / Hero output. Show the complete packaging family as a high-end campaign still life: pouch standing front-left, open rigid gift box with molded insert behind, tin canister with copper lid, three drip sachets fanned in foreground, espresso cup with crema, copper scoop, scattered beans, blank tasting card. Make the label hierarchy clear with large clean brand blocks and copper/brown panels, but avoid microtext. Midjourney-quality aesthetic: dramatic composition, cinematic reflections, tactile material rendering, high-end product advertising.",
+      "image": {
+        "slide_index": 2,
+        "image_url": "https://v3b.fal.media/files/b/0a98bae0/OWgPLBN5iq1nbQpfhez4c_WBf6fIpq.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/midnight-roaster-artifact-gptimage2-low-2026-05-03/slide-2.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "OWgPLBN5iq1nbQpfhez4c_WBf6fIpq.png"
+      }
+    },
+    {
+      "slide_index": 3,
+      "role": "marketplace_thumbnail_flatlay",
+      "prompt": "Use references only for broad Pinterest and Midjourney-style visual quality: premium editorial composition, cinematic contrast, rich materials, stylized but realistic packaging, controlled shadows, luxury moodboard confidence. Do NOT copy exact pins, Pinterest UI, browser modal, brand, watermark, or layout.\n\nProduction model target: GPT Image 2 / openai/gpt-image-2/edit, quality low. Square 1:1 TikTok/Pinterest carousel visual. Final image generated natively, no post-processing. No Flux. No GenLabs, no website, no CTA, no QR, no barcode, no watermark, no no-prompt bridge. Avoid tiny pseudo-text. Packaging must look retail-ready with structure and hierarchy, not blank or generic.\n\nVisual world for all slides: MIDNIGHT ROASTER ARTIFACT — luxury Thai drip coffee gift system; matte black + espresso brown + copper foil; wet black stone, Bangkok monsoon reflections, warm side light, deep shadows, coffee ritual props. Keep packaging consistent: stand-up pouch, rigid gift box, drip sachets, cylindrical tin, tasting cards, copper scoop, espresso cup, beans.\n\nSlide 3 / Marketplace thumbnail and product page crop. Top-down luxury unboxing flat lay: open black rigid box centered with drip sachets and tin arranged in compartments, pouch angled diagonally, blank phone-like rectangle/card area on one side for marketplace crop safety, beans as texture, copper scoop, wet stone surface. Must feel premium and sellable on TikTok Shop/Shopee, not cluttered. Strong geometric arrangement, clear product hierarchy, no readable small text.",
+      "image": {
+        "slide_index": 3,
+        "image_url": "https://v3b.fal.media/files/b/0a98bae5/6DWXpI_fxzlBh0OoecLKb_i0NJOKbc.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/midnight-roaster-artifact-gptimage2-low-2026-05-03/slide-3.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "6DWXpI_fxzlBh0OoecLKb_i0NJOKbc.png"
+      }
+    },
+    {
+      "slide_index": 4,
+      "role": "macro_packaging_detail",
+      "prompt": "Use references only for broad Pinterest and Midjourney-style visual quality: premium editorial composition, cinematic contrast, rich materials, stylized but realistic packaging, controlled shadows, luxury moodboard confidence. Do NOT copy exact pins, Pinterest UI, browser modal, brand, watermark, or layout.\n\nProduction model target: GPT Image 2 / openai/gpt-image-2/edit, quality low. Square 1:1 TikTok/Pinterest carousel visual. Final image generated natively, no post-processing. No Flux. No GenLabs, no website, no CTA, no QR, no barcode, no watermark, no no-prompt bridge. Avoid tiny pseudo-text. Packaging must look retail-ready with structure and hierarchy, not blank or generic.\n\nVisual world for all slides: MIDNIGHT ROASTER ARTIFACT — luxury Thai drip coffee gift system; matte black + espresso brown + copper foil; wet black stone, Bangkok monsoon reflections, warm side light, deep shadows, coffee ritual props. Keep packaging consistent: stand-up pouch, rigid gift box, drip sachets, cylindrical tin, tasting cards, copper scoop, espresso cup, beans.\n\nSlide 4 / Macro packaging detail. Extreme cinematic close-up of the stand-up pouch and drip sachet details: zipper seam, tear notch, gusset edge, copper foil roast band, embossed abstract origin badge, paper grain, matte black laminate, copper glints, one sachet corner, a few beans and espresso reflection. Make the packaging look physically manufactured and premium. No fake tiny labels; use abstract clean label shapes and material hierarchy.",
+      "image": {
+        "slide_index": 4,
+        "image_url": "https://v3b.fal.media/files/b/0a98bae9/jhpOd5JaHAMgePw6RnVv__8oUCXn3G.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/midnight-roaster-artifact-gptimage2-low-2026-05-03/slide-4.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "jhpOd5JaHAMgePw6RnVv__8oUCXn3G.png"
+      }
+    },
+    {
+      "slide_index": 6,
+      "role": "variation_warm_thai_cafe_gift",
+      "prompt": "Use references only for broad Pinterest and Midjourney-style visual quality: premium editorial composition, cinematic contrast, rich materials, stylized but realistic packaging, controlled shadows, luxury moodboard confidence. Do NOT copy exact pins, Pinterest UI, browser modal, brand, watermark, or layout.\n\nProduction model target: GPT Image 2 / openai/gpt-image-2/edit, quality low. Square 1:1 TikTok/Pinterest carousel visual. Final image generated natively, no post-processing. No Flux. No GenLabs, no website, no CTA, no QR, no barcode, no watermark, no no-prompt bridge. Avoid tiny pseudo-text. Packaging must look retail-ready with structure and hierarchy, not blank or generic.\n\nVisual world for all slides: MIDNIGHT ROASTER ARTIFACT — luxury Thai drip coffee gift system; matte black + espresso brown + copper foil; wet black stone, Bangkok monsoon reflections, warm side light, deep shadows, coffee ritual props. Keep packaging consistent: stand-up pouch, rigid gift box, drip sachets, cylindrical tin, tasting cards, copper scoop, espresso cup, beans.\n\nSlide 6 / Variation A: warm Thai cafe gift set. Same Midnight Roaster Artifact packaging system, but in a warmer boutique cafe scene: dark wooden counter, rainy Bangkok window glow, warm amber cafe lights, open gift box, pouch, sachets, tin, small ceramic cup, copper scoop, folded dark linen. A little softer and more human than the cover, still luxury and wow. No extra readable microtext, no website, no CTA.",
+      "image": {
+        "slide_index": 6,
+        "image_url": "https://v3b.fal.media/files/b/0a98baed/JdWj11cKu5dquaEygy0JS_CDVE9Bt7.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/midnight-roaster-artifact-gptimage2-low-2026-05-03/slide-6.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "JdWj11cKu5dquaEygy0JS_CDVE9Bt7.png"
+      }
+    },
+    {
+      "slide_index": 7,
+      "role": "copy_remix_ending_visual",
+      "prompt": "Use references only for broad Pinterest and Midjourney-style visual quality: premium editorial composition, cinematic contrast, rich materials, stylized but realistic packaging, controlled shadows, luxury moodboard confidence. Do NOT copy exact pins, Pinterest UI, browser modal, brand, watermark, or layout.\n\nProduction model target: GPT Image 2 / openai/gpt-image-2/edit, quality low. Square 1:1 TikTok/Pinterest carousel visual. Final image generated natively, no post-processing. No Flux. No GenLabs, no website, no CTA, no QR, no barcode, no watermark, no no-prompt bridge. Avoid tiny pseudo-text. Packaging must look retail-ready with structure and hierarchy, not blank or generic.\n\nVisual world for all slides: MIDNIGHT ROASTER ARTIFACT — luxury Thai drip coffee gift system; matte black + espresso brown + copper foil; wet black stone, Bangkok monsoon reflections, warm side light, deep shadows, coffee ritual props. Keep packaging consistent: stand-up pouch, rigid gift box, drip sachets, cylindrical tin, tasting cards, copper scoop, espresso cup, beans.\n\nSlide 7 / practical copy-remix ending visual, not an ad. Premium design-board ending for the same campaign world: a clean art-direction card beside the product packaging ecosystem. Show five refined visual ingredient chips with short labels only if legible: PRODUCT, SET, PROPS, LIGHT, MATERIAL. Include product fragments, material swatches, and an elegant blank prompt card area. It should tell the viewer to remix the visual system without using GenLabs, website, CTA, or no-prompt language. Keep it collectible and Midjourney-style, not a plain text sheet.",
+      "image": {
+        "slide_index": 7,
+        "image_url": "https://v3b.fal.media/files/b/0a98baf2/oXv_jEl1dwN2PpZXfMX9f_l1saWNva.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/midnight-roaster-artifact-gptimage2-low-2026-05-03/slide-7.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "oXv_jEl1dwN2PpZXfMX9f_l1saWNva.png"
+      }
+    }
+  ]
+}

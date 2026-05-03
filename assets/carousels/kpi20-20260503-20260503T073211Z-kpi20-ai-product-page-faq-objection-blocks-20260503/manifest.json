@@ -1,0 +1,237 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a98b299/6LN404lbYNHa2m97x8pDc_FBJf4yPN.png",
+    "https://v3b.fal.media/files/b/0a98b29d/NWuA4dEzhHS8KaCQvnMMu_huF1zB3Y.png",
+    "https://v3b.fal.media/files/b/0a98b2a2/mEIU9MpW9XQEmQGValuzr_kN8wdX7w.png",
+    "https://v3b.fal.media/files/b/0a98b2a6/PE-o2VH_8Cb4VeFsS_KUr_JGNQ0sq0.png",
+    "https://v3b.fal.media/files/b/0a98b2aa/QQqhlaw90PYsJOPb5CuyZ_4wPG503O.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 5,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/5 role=hook. Exact Thai copy: ใช้ AI เพิ่ม FAQ\nจาก Objection ลูกค้า\nบนหน้าเพจสินค้า. Visual direction: product page gaining FAQ and objection blocks. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "ใช้ AI เพิ่ม FAQ\nจาก Objection ลูกค้า\nบนหน้าเพจสินค้า",
+        "visual_direction": "product page gaining FAQ and objection blocks"
+      },
+      {
+        "image_prompt": "Slide 2/5 role=problem. Exact Thai copy: ลูกค้ายังสงสัย\nเลยไม่ทักซื้อ. Visual direction: customer hesitating with question bubbles. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ลูกค้ายังสงสัย\nเลยไม่ทักซื้อ",
+        "visual_direction": "customer hesitating with question bubbles"
+      },
+      {
+        "image_prompt": "Slide 3/5 role=input. Exact Thai copy: เอาข้อมูลจาก:\nInbox\nรีวิว\nคอมเมนต์\nคำถามซ้ำ. Visual direction: customer questions flowing into AI. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 3,
+        "role": "input",
+        "thai_copy": "เอาข้อมูลจาก:\nInbox\nรีวิว\nคอมเมนต์\nคำถามซ้ำ",
+        "visual_direction": "customer questions flowing into AI"
+      },
+      {
+        "image_prompt": "Slide 4/5 role=output. Exact Thai copy: ให้ AI ทำ:\nFAQ สั้น\nObjection block\nคำตอบที่ไม่รับปากเกินจริง. Visual direction: FAQ cards with safety check. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 4,
+        "role": "output",
+        "thai_copy": "ให้ AI ทำ:\nFAQ สั้น\nObjection block\nคำตอบที่ไม่รับปากเกินจริง",
+        "visual_direction": "FAQ cards with safety check"
+      },
+      {
+        "image_prompt": "Slide 5/5 role=cta. Exact Thai copy: ลองวันนี้:\nสินค้า 1 ตัว\nFAQ 8 ข้อ. Visual direction: product page checklist. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 5,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nสินค้า 1 ตัว\nFAQ 8 ข้อ",
+        "visual_direction": "product page checklist"
+      }
+    ],
+    "source_id": "kpi20-ai-product-page-faq-objection-blocks-20260503",
+    "source_url": "internal://genlabs/kpi20/ai-product-page-faq-objection-blocks",
+    "thai_brief": {
+      "evidence": [
+        "Internal GenLabs educational content plan",
+        "Action-based Thai AI money-making lesson"
+      ],
+      "glossary": {
+        "AI": "AI",
+        "FAQ": "FAQ",
+        "objection": "objection",
+        "product page": "product page"
+      },
+      "original_keywords": [
+        "AI",
+        "product page",
+        "FAQ",
+        "objection"
+      ],
+      "source_id": "kpi20-ai-product-page-faq-objection-blocks-20260503",
+      "source_url": "internal://genlabs/kpi20/ai-product-page-faq-objection-blocks",
+      "thai_call_to_action": "วันนี้เลือกสินค้า 1 ตัว แล้วทำ FAQ 8 ข้อจากคำถามลูกค้าจริง",
+      "thai_hook": "หน้าเพจขายของตอบไม่ครบ? ใช้ AI เพิ่ม FAQ จาก objection ลูกค้า",
+      "thai_problem": "ลูกค้าไม่ทักซื้อเพราะยังสงสัยเรื่องราคา ขนาด ส่งของ วิธีใช้ หรือความน่าเชื่อถือ แต่หน้าเพจไม่มีคำตอบก่อนตัดสินใจ",
+      "thai_tips": [
+        "รวบรวมคำถามลูกค้า 20–50 ข้อจาก inbox",
+        "ให้ AI จัดหมวด: ราคา วิธีใช้ ส่งของ เปรียบเทียบ ความเสี่ยง",
+        "เขียน FAQ แบบสั้นและจริง ไม่รับปากเกินเงื่อนไข",
+        "เพิ่ม objection block ใต้สินค้าหรือ landing page",
+        "วัดว่าคำถามซ้ำใน inbox ลดลงไหม"
+      ],
+      "thai_trend_angle": "AI ช่วยเปลี่ยนคำถามซ้ำและรีวิวเป็น FAQ/objection blocks ที่ทำให้หน้าเพจตอบข้อสงสัยได้ก่อนแชท"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "genlabs-ai-learning",
+    "clean_headline": "หน้าเพจขายของตอบไม่ครบ? ใช้ AI เพิ่ม FAQ จาก objection ลูกค้า",
+    "clean_summary": "ลูกค้าไม่ทักซื้อเพราะยังสงสัยเรื่องราคา ขนาด ส่งของ วิธีใช้ หรือความน่าเชื่อถือ แต่หน้าเพจไม่มีคำตอบก่อนตัดสินใจ",
+    "metrics_snapshot": {},
+    "original_keywords": [
+      "AI",
+      "product page",
+      "FAQ",
+      "objection"
+    ],
+    "original_language": "th",
+    "raw_text": "หน้าเพจขายของตอบไม่ครบ? ใช้ AI เพิ่ม FAQ จาก objection ลูกค้า\nลูกค้าไม่ทักซื้อเพราะยังสงสัยเรื่องราคา ขนาด ส่งของ วิธีใช้ หรือความน่าเชื่อถือ แต่หน้าเพจไม่มีคำตอบก่อนตัดสินใจ\nAI ช่วยเปลี่ยนคำถามซ้ำและรีวิวเป็น FAQ/objection blocks ที่ทำให้หน้าเพจตอบข้อสงสัยได้ก่อนแชท\nรวบรวมคำถามลูกค้า 20–50 ข้อจาก inbox\nให้ AI จัดหมวด: ราคา วิธีใช้ ส่งของ เปรียบเทียบ ความเสี่ยง\nเขียน FAQ แบบสั้นและจริง ไม่รับปากเกินเงื่อนไข\nเพิ่ม objection block ใต้สินค้าหรือ landing page\nวัดว่าคำถามซ้ำใน inbox ลดลงไหม",
+    "source_id": "kpi20-ai-product-page-faq-objection-blocks-20260503",
+    "source_url": "internal://genlabs/kpi20/ai-product-page-faq-objection-blocks",
+    "why_it_matters": "Practical Thai AI money-making education; no fake income promises."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้เลือกสินค้า 1 ตัว แล้วทำ FAQ 8 ข้อจากคำถามลูกค้าจริง",
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "hook": "หน้าเพจขายของตอบไม่ครบ? ใช้ AI เพิ่ม FAQ จาก objection ลูกค้า",
+    "original_keywords": [
+      "AI",
+      "product page",
+      "FAQ",
+      "objection"
+    ],
+    "original_language": "th",
+    "problem": "ลูกค้าไม่ทักซื้อเพราะยังสงสัยเรื่องราคา ขนาด ส่งของ วิธีใช้ หรือความน่าเชื่อถือ แต่หน้าเพจไม่มีคำตอบก่อนตัดสินใจ",
+    "source_id": "kpi20-ai-product-page-faq-objection-blocks-20260503",
+    "source_url": "internal://genlabs/kpi20/ai-product-page-faq-objection-blocks",
+    "tips": [
+      "รวบรวมคำถามลูกค้า 20–50 ข้อจาก inbox",
+      "ให้ AI จัดหมวด: ราคา วิธีใช้ ส่งของ เปรียบเทียบ ความเสี่ยง",
+      "เขียน FAQ แบบสั้นและจริง ไม่รับปากเกินเงื่อนไข",
+      "เพิ่ม objection block ใต้สินค้าหรือ landing page",
+      "วัดว่าคำถามซ้ำใน inbox ลดลงไหม"
+    ],
+    "trend_angle": "AI ช่วยเปลี่ยนคำถามซ้ำและรีวิวเป็น FAQ/objection blocks ที่ทำให้หน้าเพจตอบข้อสงสัยได้ก่อนแชท"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "6LN404lbYNHa2m97x8pDc_FBJf4yPN.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b299/6LN404lbYNHa2m97x8pDc_FBJf4yPN.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T073211Z-kpi20-ai-product-page-faq-objection-blocks-20260503/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "NWuA4dEzhHS8KaCQvnMMu_huF1zB3Y.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b29d/NWuA4dEzhHS8KaCQvnMMu_huF1zB3Y.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T073211Z-kpi20-ai-product-page-faq-objection-blocks-20260503/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "mEIU9MpW9XQEmQGValuzr_kN8wdX7w.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b2a2/mEIU9MpW9XQEmQGValuzr_kN8wdX7w.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T073211Z-kpi20-ai-product-page-faq-objection-blocks-20260503/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "PE-o2VH_8Cb4VeFsS_KUr_JGNQ0sq0.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b2a6/PE-o2VH_8Cb4VeFsS_KUr_JGNQ0sq0.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T073211Z-kpi20-ai-product-page-faq-objection-blocks-20260503/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "QQqhlaw90PYsJOPb5CuyZ_4wPG503O.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b2aa/QQqhlaw90PYsJOPb5CuyZ_4wPG503O.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T073211Z-kpi20-ai-product-page-faq-objection-blocks-20260503/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 6,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T073211Z-kpi20-ai-product-page-faq-objection-blocks-20260503/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: ลูกค้าไม่ทักซื้อเพราะยังสงสัยเรื่องราคา ขนาด ส่งของ วิธีใช้ หรือความน่าเชื่อถือ แต่หน้าเพจไม่มีคำตอบก่อนตัดสินใจ\n\n📌 ทำไมควรเซฟโพสต์นี้: AI ช่วยเปลี่ยนคำถามซ้ำและรีวิวเป็น FAQ/objection blocks ที่ทำให้หน้าเพจตอบข้อสงสัยได้ก่อนแชท\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ รวบรวมคำถามลูกค้า 20–50 ข้อจาก inbox\n\n2) ✨ ให้ AI จัดหมวด: ราคา วิธีใช้ ส่งของ เปรียบเทียบ ความเสี่ยง\n\n3) ✨ เขียน FAQ แบบสั้นและจริง ไม่รับปากเกินเงื่อนไข\n\n4) ✨ เพิ่ม objection block ใต้สินค้าหรือ landing page\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ขายของออนไลน์"
+    ],
+    "title": "หน้าเพจขายของตอบไม่ครบ? ใช้ AI เพิ่ม FAQ จาก objection ลูกค้า #AIมือใหม่"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "glossary": {
+      "AI": "AI",
+      "FAQ": "FAQ",
+      "objection": "objection",
+      "product page": "product page"
+    },
+    "original_keywords": [
+      "AI",
+      "product page",
+      "FAQ",
+      "objection"
+    ],
+    "source_id": "kpi20-ai-product-page-faq-objection-blocks-20260503",
+    "source_url": "internal://genlabs/kpi20/ai-product-page-faq-objection-blocks",
+    "thai_call_to_action": "วันนี้เลือกสินค้า 1 ตัว แล้วทำ FAQ 8 ข้อจากคำถามลูกค้าจริง",
+    "thai_hook": "หน้าเพจขายของตอบไม่ครบ? ใช้ AI เพิ่ม FAQ จาก objection ลูกค้า",
+    "thai_problem": "ลูกค้าไม่ทักซื้อเพราะยังสงสัยเรื่องราคา ขนาด ส่งของ วิธีใช้ หรือความน่าเชื่อถือ แต่หน้าเพจไม่มีคำตอบก่อนตัดสินใจ",
+    "thai_tips": [
+      "รวบรวมคำถามลูกค้า 20–50 ข้อจาก inbox",
+      "ให้ AI จัดหมวด: ราคา วิธีใช้ ส่งของ เปรียบเทียบ ความเสี่ยง",
+      "เขียน FAQ แบบสั้นและจริง ไม่รับปากเกินเงื่อนไข",
+      "เพิ่ม objection block ใต้สินค้าหรือ landing page",
+      "วัดว่าคำถามซ้ำใน inbox ลดลงไหม"
+    ],
+    "thai_trend_angle": "AI ช่วยเปลี่ยนคำถามซ้ำและรีวิวเป็น FAQ/objection blocks ที่ทำให้หน้าเพจตอบข้อสงสัยได้ก่อนแชท"
+  }
+}

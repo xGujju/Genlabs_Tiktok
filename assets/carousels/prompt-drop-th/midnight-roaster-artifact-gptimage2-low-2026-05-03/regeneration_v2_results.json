@@ -1,0 +1,37 @@
+{
+  "refs": [
+    "https://v3b.fal.media/files/b/0a98ba4e/EjQQ1iIMY8wY5Xvlx8bIn_browser_screenshot_cd5af5696f75445d8bfd64f173438f5b.png",
+    "https://v3b.fal.media/files/b/0a98ba4f/Ac_HIP-yCqKicR4UiMDWu_browser_screenshot_b8b39e809c294fcda2c4df7448fe4862.png",
+    "https://v3b.fal.media/files/b/0a98ba41/phbQ7-slBE-j6zmcx-L6O_8pzZzf29.png"
+  ],
+  "slides": [
+    {
+      "slide_index": 11,
+      "role": "cover_hero_v2_no_prompt_brand",
+      "prompt": "Use references only for broad Pinterest-quality direction: premium product photography, campaign-world staging, full packaging systems, sculptural set design, controlled shadows, material richness. Do NOT copy any exact pin, Pinterest UI, browser modal, brand, watermark, or layout.\n\nProduction model target: GPT Image 2 / openai/gpt-image-2/edit, quality low. Square 1:1 TikTok/Pinterest carousel visual. Final image generated natively, no post-processing. No GenLabs, no website, no CTA, no QR, no barcode, no watermark, no random pseudo-text. Packaging must look retail-ready with real structure and clear hierarchy through shapes/materials, not blank.\n\nRegenerate cover hero and fix these issues: no visible word PROMPT or PROMPT DROP anywhere; do not use prompt-related branding on the coffee packaging. Use a fictional premium coffee brand system named MIDNIGHT ROASTER only if text is legible and intentional; otherwise use abstract copper brand marks.\n\nVisual world: MIDNIGHT ROASTER ARTIFACT — luxury Thai drip coffee gift system staged like a collectible artifact. Main packaging ecosystem: matte black and deep espresso-brown stand-up pouch with gusset, zipper seam, tear notch, folded top, copper foil roast band, embossed abstract origin badge, shaped label panels, SKU color strip, matching open rigid gift box with molded insert, several drip sachets, cylindrical coffee tin with copper lid, blank tasting cards with clean abstract blocks, copper scoop, espresso cup with crema, scattered beans.\n\nSet design: wet black stone tabletop, subtle Bangkok monsoon reflections, warm cinematic side light, deep shadows, copper glints, paper grain, foil highlights, slight steam. Must feel like a high-end Pinterest coffee packaging campaign with wow factor, not a basic pouch. If text appears, only clean large brand text MIDNIGHT ROASTER and ARTIFACT COFFEE; no tiny microtext.",
+      "image": {
+        "slide_index": 11,
+        "image_url": "https://v3b.fal.media/files/b/0a98ba50/UatcbNYFsW-IEt6S3aWTc_LOVqAuBz.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/midnight-roaster-artifact-gptimage2-low-2026-05-03/slide-11.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "UatcbNYFsW-IEt6S3aWTc_LOVqAuBz.png"
+      }
+    },
+    {
+      "slide_index": 15,
+      "role": "prompt_recipe_visual_v2_actionable",
+      "prompt": "Use references only for broad Pinterest-quality direction: premium product photography, campaign-world staging, full packaging systems, sculptural set design, controlled shadows, material richness. Do NOT copy any exact pin, Pinterest UI, browser modal, brand, watermark, or layout.\n\nProduction model target: GPT Image 2 / openai/gpt-image-2/edit, quality low. Square 1:1 TikTok/Pinterest carousel visual. Final image generated natively, no post-processing. No GenLabs, no website, no CTA, no QR, no barcode, no watermark, no random pseudo-text. Packaging must look retail-ready with real structure and clear hierarchy through shapes/materials, not blank.\n\nRegenerate prompt recipe/moodboard visual. It must look like a premium design studio art-board, not a basic prompt sheet. Keep the same Midnight Roaster Artifact coffee gift system: hero packaging fragment, material swatches, open box detail, drip sachets, copper scoop, espresso crema, coffee beans, wet stone, copper foil.\n\nLayout: left large luxury product image, right stacked material swatches, bottom three macro detail tiles, lower-right recipe panel. Make recipe panel more actionable but avoid dense text. Use only short clean labels and short values if legible:\nSET: WET STONE\nPROPS: BOX + SCOOP\nLIGHT: WARM SIDE\nMATERIAL: BLACK + COPPER\nANGLE: 3/4 HERO\nNo full prompt paragraph. No pseudo-text. Elegant grid, negative space, premium Pinterest save graphic.",
+      "image": {
+        "slide_index": 15,
+        "image_url": "https://v3b.fal.media/files/b/0a98ba53/aNnqa9c01NOUiQdDL1lGu_m6HsQ9B4.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/midnight-roaster-artifact-gptimage2-low-2026-05-03/slide-15.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "aNnqa9c01NOUiQdDL1lGu_m6HsQ9B4.png"
+      }
+    }
+  ]
+}

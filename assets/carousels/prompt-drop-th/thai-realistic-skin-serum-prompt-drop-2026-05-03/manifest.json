@@ -1,0 +1,139 @@
+{
+  "series": "prompt_drop_th",
+  "slug": "thai-realistic-skin-serum-prompt-drop",
+  "created_at": "2026-05-03T08:07:56.250322+00:00",
+  "generator": "fal/gpt-image low-quality draft path via Hermes image_generate",
+  "quality": "low",
+  "no_post_processing": true,
+  "title_th": "PROMPT DROP: พรอมต์ภาพเซรั่มบนผิวจริง",
+  "title_en": "Prompt Drop: Realistic Skin Serum Product Visuals",
+  "audience": "เจ้าของแบรนด์สกินแคร์ไทย, TikTok Shop seller, คลินิกความงาม, ครีเอเตอร์สายบิวตี้",
+  "business_goal": "สร้าง Prompt Drop ที่เซฟได้ ใช้ทำภาพสินค้าได้จริง และพาไปสู่ GenLabs no-prompt workflow",
+  "topic_category": "product_image_prompt",
+  "slot_type": "product_commerce",
+  "real_use_case": "ทำภาพแคมเปญเซรั่ม/สกินแคร์ให้เห็นผิวจริง รูขุมขน แสงฉ่ำ และ product placement ที่ใช้ขายจริงได้บน TikTok Shop, IG, LINE OA และ marketplace thumbnail",
+  "output": "คารูเซล Prompt Drop 5 ภาพพร้อมพรอมต์ภาษาไทยที่คัดลอกไปใช้สร้างภาพ realistic skin product campaign ได้ทันที",
+  "visual_world": "realistic dewy Thai skin macro + premium serum product photography",
+  "thai_context": "แบรนด์สกินแคร์ไทยต้องการภาพเปิดตัวเซรั่มที่ดูแพงแต่ยังน่าเชื่อ ไม่ใช่ผิว AI พลาสติก",
+  "cover_hook": "PROMPT DROP",
+  "utility_line_th": "เซรั่มบนผิวจริง เห็น texture ขายได้จริง",
+  "copy_prompt_th": "สร้างภาพโฆษณาเซรั่มวิตามินซีสำหรับแบรนด์สกินแคร์ไทยในมุม macro beauty product photography, มีผิวมนุษย์จริงระยะใกล้ เห็นรูขุมขนละเอียด เส้นขนบาง ๆ texture ผิวธรรมชาติ และความฉ่ำแบบสุขภาพดี, วางขวดเซรั่มแก้วสีชา/สีอำพันพร้อม dropper ใกล้ผิวแต่ไม่บังสินค้า, มีหยดเซรั่มสีทองหนึ่งหยดบนแก้มหรือหลังมือ, แสง soft studio premium, โทนอุ่น beige gold, ฉากสะอาดแบบ editorial skincare campaign, depth of field แบบเลนส์ macro, ภาพต้องดูเหมือนถ่ายแคมเปญจริงสำหรับ TikTok Shop / Instagram / LINE OA, ไม่ใช่ภาพ stock ทั่วไป, ห้ามทำผิวพลาสติก ห้ามรีทัชจนเนียนเกินจริง ห้ามใส่โลโก้ปลอม ห้ามมีตัวหนังสือมั่วบนแพ็กเกจ ห้ามเปลี่ยนรูปทรงขวด, ให้ภาพเป็น 1:1, commercial, realistic, premium, high trust, natural Thai beauty market mood",
+  "editable_fields": [
+    "สินค้า",
+    "สีแพ็กเกจ",
+    "texture",
+    "ตำแหน่งหยดเซรั่ม",
+    "แพลตฟอร์ม",
+    "mood ของแบรนด์"
+  ],
+  "selection_score": {
+    "practical_usefulness": 24,
+    "genlabs_business_fit": 20,
+    "save_copy_prompt_value": 19,
+    "visual_stop_power": 18,
+    "novelty_vs_recent": 8,
+    "production_risk": 4,
+    "total": 93
+  },
+  "qa_summary": {
+    "status": "draft_ready",
+    "cover": "Vision QA passed: PROMPT DROP readable, no gibberish/extra labels, realistic skin/product relevance.",
+    "hero": "Vision QA suitable: strong skincare relevance, no fake logos/gibberish, generic unlabeled bottle acceptable for draft.",
+    "macro": "Replacement Vision QA approved: visible pores/dewy amber serum realism, blurred unlabeled bottle, no text/gibberish/fake label risk, low risk.",
+    "prompt_card": "Vision QA passed: PROMPT readable, no gibberish, product-relevant prompt card.",
+    "cta": "Vision QA passed: GenLabs readable, no fake UI or gibberish, premium product relevance."
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "role": "cover",
+      "image": {
+        "image_url": "https://v3b.fal.media/files/b/0a98b368/mmVE-x9pMADWOUL2NhNvq_FbDvI64n.png"
+      },
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-realistic-skin-serum-prompt-drop-2026-05-03/01-cover-prompt-drop.png"
+    },
+    {
+      "slide_index": 2,
+      "role": "hero_product",
+      "image": {
+        "image_url": "https://v3b.fal.media/files/b/0a98b34a/eHTjqTBhEDSn32W5xhTNR_7AAlLnD1.png"
+      },
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-realistic-skin-serum-prompt-drop-2026-05-03/02-hero-serum-on-skin.png"
+    },
+    {
+      "slide_index": 3,
+      "role": "skin_macro",
+      "image": {
+        "image_url": "https://v3b.fal.media/files/b/0a98b392/Hl8Y1errSdnIfUdqGtNb3_7TtweIs9.png"
+      },
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-realistic-skin-serum-prompt-drop-2026-05-03/03-macro-skin-droplet.png"
+    },
+    {
+      "slide_index": 4,
+      "role": "prompt_card",
+      "image": {
+        "image_url": "https://v3b.fal.media/files/b/0a98b34a/pF_to4TVP_HsbkHyhXYEi_Gka5yfuc.png"
+      },
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-realistic-skin-serum-prompt-drop-2026-05-03/04-prompt-card.png"
+    },
+    {
+      "slide_index": 5,
+      "role": "genlabs_cta",
+      "image": {
+        "image_url": "https://v3b.fal.media/files/b/0a98b368/wnvDm_-MIl8M3yeI2iU0l_aS1nbSGV.png"
+      },
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-realistic-skin-serum-prompt-drop-2026-05-03/05-genlabs-cta.png"
+    }
+  ],
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a98b368/mmVE-x9pMADWOUL2NhNvq_FbDvI64n.png",
+    "https://v3b.fal.media/files/b/0a98b34a/eHTjqTBhEDSn32W5xhTNR_7AAlLnD1.png",
+    "https://v3b.fal.media/files/b/0a98b392/Hl8Y1errSdnIfUdqGtNb3_7TtweIs9.png",
+    "https://v3b.fal.media/files/b/0a98b34a/pF_to4TVP_HsbkHyhXYEi_Gka5yfuc.png",
+    "https://v3b.fal.media/files/b/0a98b368/wnvDm_-MIl8M3yeI2iU0l_aS1nbSGV.png"
+  ],
+  "hashtags": [
+    "#GenLabsTH",
+    "#PromptTH",
+    "#AIภาพสินค้า",
+    "#ขายของออนไลน์",
+    "#สกินแคร์ไทย"
+  ],
+  "zernio": {
+    "draft_only": true,
+    "scheduled": false,
+    "publish_now": false,
+    "draft_id": "69f706f2fc6b7a5c36445f00",
+    "verified_at": "2026-05-03T08:49:32Z",
+    "status": "draft",
+    "platform_status": "pending",
+    "tiktokSettings_draft": true,
+    "media_type": "photo",
+    "media_count": 5,
+    "description_length": 3963,
+    "prompt_giveaway_present": true,
+    "genlabs_cta_present": true,
+    "outgoing_payload_safety": {
+      "isDraft": true,
+      "tiktokSettings_draft": true,
+      "publishNow_present": false,
+      "scheduledFor_present": false
+    },
+    "note": "Zernio API returned server-side scheduledFor metadata on the saved draft even though the outgoing payload omitted scheduledFor; top-level status remained draft and tiktokSettings.draft=true.",
+    "latest_verifier_checked_at": "2026-05-03T15:16:22.084492+00:00",
+    "latest_api_status": "draft",
+    "latest_api_platform_statuses": [
+      "pending"
+    ],
+    "latest_api_tiktok_draft": true,
+    "latest_api_media_count": 5,
+    "latest_api_description_length": 3963,
+    "latest_api_forbidden_found": [
+      "genlabs.in.th",
+      "#GenLabsTH",
+      "no-prompt",
+      "GenLabs"
+    ],
+    "latest_api_draft_only_verified": false
+  }
+}

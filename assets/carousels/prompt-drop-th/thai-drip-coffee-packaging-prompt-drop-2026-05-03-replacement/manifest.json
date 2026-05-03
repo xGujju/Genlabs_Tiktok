@@ -1,0 +1,115 @@
+{
+  "series": "prompt_drop_th",
+  "slug": "thai-drip-coffee-packaging-prompt-drop-2026-05-03-replacement",
+  "title_th": "Prompt Drop: ภาพแพ็กเกจกาแฟดริปสำหรับร้านไทย",
+  "topic_category": "product_image_prompt",
+  "slot_type": "product_commerce",
+  "audience": "เจ้าของคาเฟ่ไทย, แบรนด์กาแฟดริป, คนขายของบน TikTok Shop/Shopee, และทีมคอนเทนต์ SME ที่ต้องทำภาพสินค้าเอง",
+  "real_use_case": "สร้างภาพ hero shot, marketplace thumbnail, macro/detail และภาพปิดท้ายสำหรับแพ็กเกจกาแฟหรือสินค้าไลฟ์สไตล์ที่ขายจริงในไทย",
+  "output": "ชุดภาพสินค้า 5 สไลด์ที่ใช้เป็น prompt bank: cover, hero output, marketplace thumbnail, packaging detail, และ final remix scene",
+  "visual_world": "realistic Thai cafe product photography with text-free designed packaging",
+  "visual_intention": "เลือกกาแฟดริปเพราะเป็นเคสที่คนไทยเอาไปใช้ได้จริงทันที: คาเฟ่และแบรนด์เล็กต้องมีภาพสินค้าเชื่อถือได้บน TikTok Shop/Shopee โดยภาพแต่ละสไลด์สอนให้เห็นว่าแพ็กเกจ วัสดุ พร็อพ ฉาก และมุมกล้องช่วยขายสินค้าอย่างไร ไม่ใช่แค่ทำภาพเท่",
+  "packaging_requirement": "แพ็กเกจต้องเป็น retail-ready designed packaging: kraft pouch/ซองดริปมี gusset, tear notch, copper foil band, label hierarchy จากสี รูปทรง ไอคอน ภาพภูเขา/เมล็ดกาแฟ และวัสดุจริง ห้ามใช้กล่องหรือซองโล่ง ห้ามแพ็กเกจขาวเปล่า ห้ามโลโก้ปลอม/ข้อความมั่ว/เว็บไซต์/QR",
+  "copy_prompt_th": "สร้างภาพสินค้าแนว realistic product photography สำหรับ [สินค้า/แพ็กเกจของคุณ] ที่ขายให้ [กลุ่มลูกค้าไทย] ใช้งานจริงบน [TikTok Shop / Shopee / LINE OA / Instagram]\n\nโจทย์ภาพ: ทำ hero shot สำหรับแพ็กเกจ [ประเภทสินค้า เช่น กาแฟดริป / เครื่องดื่ม / ขนม / สกินแคร์] ให้ดูเหมือนสินค้าพร้อมขาย ไม่ใช่ mockup โล่ง ๆ\n\nรายละเอียดสินค้า: แพ็กเกจหลักเป็น [วัสดุ เช่น kraft paper pouch / glass bottle / matte tube / foil sachet] มี [สีหลักของแบรนด์] + [สี accent] + label hierarchy ชัดเจนด้วยรูปทรง ไอคอน สี วัสดุ และโครงสร้างแพ็กเกจ หลีกเลี่ยงตัวหนังสือเล็ก ๆ ที่อ่านมั่วหรือโลโก้ปลอม\n\nฉากและพร็อพ: วางสินค้าในบริบทที่ลูกค้าจะเข้าใจทันที เช่น โต๊ะคาเฟ่ไทย แสงเช้า แก้วเครื่องดื่มจริง วัตถุดิบที่เกี่ยวข้อง พื้นไม้หรือหินธรรมชาติ พร็อพต้องช่วยอธิบายสินค้า ไม่ใช่ตกแต่งสุ่ม\n\nมุมกล้อง: ถ่ายแบบ commercial campaign, 50mm lens, shallow depth of field, natural warm light, visible texture on packaging, believable shadows, clean composition, enough negative space for cropping into cover / marketplace thumbnail\n\nผลลัพธ์ที่ต้องการ: ภาพต้องทำให้คนดูรู้ว่า 1) สินค้าคืออะไร 2) เหมาะกับใคร 3) แพ็กเกจดูน่าเชื่อถือ 4) ใช้เป็นภาพขายจริงได้\n\nข้อห้าม: no blank white packaging, no unreadable fake text, no fake logo, no website, no QR code, no watermark, no random splash, no plastic skin, no over-retouched AI look, no decorative props without purpose",
+  "cta_policy": "omit_genlabs_promo_unless_sway_reapproves",
+  "default_hashtags": [
+    "#PromptTH",
+    "#AIภาพสินค้า",
+    "#ขายของออนไลน์",
+    "#ProductPhotoAI",
+    "#แบรนด์ไทย"
+  ],
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a98b5d9/vFaxd390BWChtpbC8fH92_5Jc8uSzI.png",
+    "https://v3b.fal.media/files/b/0a98b5f1/1y378ljgG37fGGABW0MWH_QYunntGe.png",
+    "https://v3b.fal.media/files/b/0a98b5f3/KyvP6rUa3evwyMqYrx0g2_KLoCgJh0.png",
+    "https://v3b.fal.media/files/b/0a98b5f9/TBwDekQkIe09FY0n9LUfs_Nmn2fjHK.png",
+    "https://v3b.fal.media/files/b/0a98b5fa/0YB4utZ8wVS8Arz-0jzv8_TLsiu2Vt.png"
+  ],
+  "slides": [
+    {
+      "slide_index": 1,
+      "role": "cover",
+      "asset_url": "https://v3b.fal.media/files/b/0a98b5d9/vFaxd390BWChtpbC8fH92_5Jc8uSzI.png",
+      "qa_status": "pass",
+      "visual_intention": "เปิดด้วยแพ็กเกจกาแฟในฉากคาเฟ่ เพื่อให้คนขายเห็นภาพ output ที่ใช้เป็นหน้าปกได้จริง"
+    },
+    {
+      "slide_index": 2,
+      "role": "hero_output",
+      "asset_url": "https://v3b.fal.media/files/b/0a98b5f1/1y378ljgG37fGGABW0MWH_QYunntGe.png",
+      "qa_status": "pass",
+      "visual_intention": "โชว์ hero shot ที่สินค้าเด่น พร็อพอธิบายรสชาติ/บริบท และไม่มีตัวหนังสือมั่วบนแพ็กเกจ"
+    },
+    {
+      "slide_index": 3,
+      "role": "marketplace_thumbnail",
+      "asset_url": "https://v3b.fal.media/files/b/0a98b5f3/KyvP6rUa3evwyMqYrx0g2_KLoCgJh0.png",
+      "qa_status": "pass",
+      "visual_intention": "สอนมุม flat lay สำหรับ TikTok Shop/Shopee พร้อมมือถือ blank-safe และแพ็กเกจออกแบบชัด"
+    },
+    {
+      "slide_index": 4,
+      "role": "packaging_detail",
+      "asset_url": "https://v3b.fal.media/files/b/0a98b5f9/TBwDekQkIe09FY0n9LUfs_Nmn2fjHK.png",
+      "qa_status": "pass",
+      "visual_intention": "ซูมวัสดุและโครงสร้างแพ็กเกจให้เห็นว่าความน่าเชื่อถือมาจาก texture, seam, tear notch, foil band และ pictorial label"
+    },
+    {
+      "slide_index": 5,
+      "role": "final_remix_scene",
+      "asset_url": "https://v3b.fal.media/files/b/0a98b5fa/0YB4utZ8wVS8Arz-0jzv8_TLsiu2Vt.png",
+      "qa_status": "pass",
+      "visual_intention": "ปิดด้วยฉากใช้งาน/รีมิกซ์ที่ให้คนเอา prompt ไปปรับกับสินค้าเอง โดยไม่มี CTA โปรโมตหรือสะพานขาย"
+    }
+  ],
+  "qa_summary": {
+    "vision_qa": "Visual QA passed for composition, but production QA failed because generator was Flux/image_generate instead of GPT Image 2 low.",
+    "rejected_assets_not_used": [
+      "69f706f2fc6b7a5c36445f00"
+    ],
+    "native_generation": "FAL/GPT-native image generation only; no local Pillow/ffmpeg/Canva compositing for final images."
+  },
+  "zernio": {
+    "draft_id": "69f71c2ae923876e52080cc1",
+    "status": "draft",
+    "platform_statuses": [
+      "pending"
+    ],
+    "media_count": 5,
+    "description_length_with_hashtags": 3966,
+    "draft_only_verified": true,
+    "publish_attempts": 0,
+    "forbidden_found_payload": [],
+    "verified_at": "2026-05-03",
+    "review_status": "do_not_review_wrong_generator",
+    "replacement_required": "regenerate_with_gpt_image_2_low_before_sending_new_draft",
+    "latest_verifier_checked_at": "2026-05-03T15:16:22.084492+00:00",
+    "latest_api_status": "draft",
+    "latest_api_platform_statuses": [
+      "pending"
+    ],
+    "latest_api_tiktok_draft": true,
+    "latest_api_media_count": 5,
+    "latest_api_description_length": 3966,
+    "latest_api_forbidden_found": [],
+    "latest_api_draft_only_verified": true
+  },
+  "status": "invalid_wrong_generator_do_not_review_as_production",
+  "quality": "low",
+  "no_post_processing": true,
+  "selection_score": {
+    "total": 86,
+    "practical_usefulness_for_thai_viewer": 24,
+    "genlabs_business_fit": 18,
+    "save_copy_prompt_value": 18,
+    "visual_stop_power": 16,
+    "novelty_vs_recent_genlabs_posts": 7,
+    "production_qa_risk_lower_is_better": 3,
+    "notes": "Superseded: useful concept, but assets were generated with Hermes image_generate/Flux. Regenerate with GPT Image 2 low before any production Zernio draft."
+  },
+  "generator": "INVALID: Flux/FLUX 2 Klein via Hermes image_generate tool, not GPT Image 2",
+  "generation_model": "invalid_flux_image_generate",
+  "production_status": "invalid_wrong_generator_do_not_review_as_production",
+  "invalid_reason": "Sway corrected workflow: Prompt Drop production visuals must be GPT Image 2 (openai/gpt-image-2/edit) with quality=low. These asset URLs were generated with Hermes image_generate / Flux, so this draft is preserved only as rough reference and should not be used for production review."
+}

@@ -1,0 +1,115 @@
+{
+  "series": "prompt_drop_th",
+  "batch_id": "prompt-drop-15-wow-gptimage2-low-2026-05-03-seg06-10",
+  "slug": "modern-thai-herbal-inhaler-pocket-pack",
+  "created_at": "2026-05-03T14:41:35.177057+00:00",
+  "status": "zernio_draft_created_verified",
+  "title_th": "Prompt Drop: ยาดม/สมุนไพรไทยให้ดู Modern Wellness",
+  "topic_category": "product_commerce",
+  "slot_type": "product_commerce",
+  "audience": "แบรนด์สมุนไพรไทย, wellness sellers, ร้านของฝาก, SME health product",
+  "real_use_case": "ทำภาพยาดมหรือสมุนไพรพกพาให้ดูโมเดิร์นแบบ wellness brand",
+  "output": "pocket pack hero, tube/case detail, ingredient moodboard, gift set, marketplace image",
+  "visual_world": "Herbal Air Capsule — frosted mint tubes, brass pocket case, eucalyptus mist, quiet wellness tray",
+  "visual_intention": "ยกระดับสินค้าสมุนไพรไทยที่คุ้นเคยให้เป็น modern wellness ผ่าน tube/case/box system, mist, mint/brass material, clean product hierarchy",
+  "packaging_requirement": "modern wellness packaging ecosystem: inhaler tubes, pocket case, small rigid box, blister/sample card, herb ingredient tray, mint/brass accent, cap/closure detail, label hierarchy; no generic plastic tube",
+  "wow_factor_notes": "Thai herbal utility + modern premium wellness material system",
+  "copy_prompt_th": "สร้างภาพแนว premium Pinterest / Midjourney-style visual quality สำหรับ ทำภาพยาดมหรือสมุนไพรพกพาให้ดูโมเดิร์นแบบ wellness brand\n\nผู้ใช้หลัก: แบรนด์สมุนไพรไทย, wellness sellers, ร้านของฝาก, SME health product\n\nVisual world: Herbal Air Capsule — frosted mint tubes, brass pocket case, eucalyptus mist, quiet wellness tray\n\nสิ่งที่ต้องได้: pocket pack hero, tube/case detail, ingredient moodboard, gift set, marketplace image\n\nข้อกำหนดแพ็กเกจ/ระบบภาพ: modern wellness packaging ecosystem: inhaler tubes, pocket case, small rigid box, blister/sample card, herb ingredient tray, mint/brass accent, cap/closure detail, label hierarchy; no generic plastic tube\n\nวิธีคิด: เริ่มจาก use case จริงก่อน แล้วค่อยเลือกฉาก พร็อพ วัสดุ แสง มุมกล้อง และ mood ให้ทุกอย่างช่วยขายไอเดียเดียวกัน ไม่ใช่วางของสวย ๆ แบบสุ่ม\n\nรายละเอียดที่ต้องใส่ใน prompt ของคุณ:\n1) hero subject และ hierarchy ให้ชัด\n2) set design ที่มี wow factor เช่น plinth, open box, material board, wet stone, mirror, fabric, city light หรือ studio shadow\n3) props with purpose ที่ช่วยอธิบาย origin / ingredient / ritual / campaign / usage\n4) lighting ที่เป็นส่วนหนึ่งของดีไซน์ เช่น warm side light, deep shadow, foil highlight, natural window light, neon reflection\n5) material cues เช่น paper grain, foil, glass, metal, fabric, stone, skin texture, packaging seam, cap, box insert\n6) camera direction เช่น 3/4 hero, macro detail, top-down marketplace crop, editorial portrait, poster crop\n\nข้อห้าม: no basic render, no blank mockup, no random props, no copied Pinterest design, no fake website, no QR, no barcode, no watermark, no broken tiny text, no plastic AI look, no promo CTA",
+  "generator": "openai/gpt-image-2/edit via FalGptImage2EditClient",
+  "generation_model": "openai/gpt-image-2/edit",
+  "quality": "low",
+  "no_post_processing": true,
+  "reference_source": "Pinterest audit screenshots used only as broad quality-system references; exact pins/UI not copied.",
+  "cta_policy": "omit_brand promo_promo_unless_sway_reapproves",
+  "default_hashtags": [
+    "#PromptTH",
+    "#AIภาพสินค้า",
+    "#ขายของออนไลน์",
+    "#ProductPhotoAI",
+    "#แบรนด์ไทย"
+  ],
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a98bc95/vqb335v5adsDIKUty2hN3_1pXWSblS.png",
+    "https://v3b.fal.media/files/b/0a98bc98/PrNplv2pqBJaO8k2HlTEM_JzEz0mdd.png",
+    "https://v3b.fal.media/files/b/0a98bc9b/qVvWOQlftWBEAe0GGgIgA_BYjklnw3.png",
+    "https://v3b.fal.media/files/b/0a98bc9e/vqxePgowOUHiVwU53-ySw_uy9n9N9P.png",
+    "https://v3b.fal.media/files/b/0a98bca4/WYdiL66F3_cTHu_oI_reH_ecf41ZF5.png"
+  ],
+  "slides": [
+    {
+      "slide_index": 1,
+      "role": "cover",
+      "asset_url": "https://v3b.fal.media/files/b/0a98bc95/vqb335v5adsDIKUty2hN3_1pXWSblS.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg06-10/06-modern-thai-herbal-inhaler-pocket-pack/slide-1.png",
+      "qa_status": "prompt_qa_passed_pending_or_spot_vision_review",
+      "visual_intention": "cover hook with strongest wow factor"
+    },
+    {
+      "slide_index": 2,
+      "role": "hero_output",
+      "asset_url": "https://v3b.fal.media/files/b/0a98bc98/PrNplv2pqBJaO8k2HlTEM_JzEz0mdd.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg06-10/06-modern-thai-herbal-inhaler-pocket-pack/slide-2.png",
+      "qa_status": "prompt_qa_passed_pending_or_spot_vision_review",
+      "visual_intention": "main usable output"
+    },
+    {
+      "slide_index": 3,
+      "role": "practical_angle",
+      "asset_url": "https://v3b.fal.media/files/b/0a98bc9b/qVvWOQlftWBEAe0GGgIgA_BYjklnw3.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg06-10/06-modern-thai-herbal-inhaler-pocket-pack/slide-3.png",
+      "qa_status": "prompt_qa_passed_pending_or_spot_vision_review",
+      "visual_intention": "practical platform/detail angle"
+    },
+    {
+      "slide_index": 4,
+      "role": "recipe_moodboard",
+      "asset_url": "https://v3b.fal.media/files/b/0a98bc9e/vqxePgowOUHiVwU53-ySw_uy9n9N9P.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg06-10/06-modern-thai-herbal-inhaler-pocket-pack/slide-4.png",
+      "qa_status": "prompt_qa_passed_pending_or_spot_vision_review",
+      "visual_intention": "premium prompt recipe moodboard"
+    },
+    {
+      "slide_index": 5,
+      "role": "variation_remix",
+      "asset_url": "https://v3b.fal.media/files/b/0a98bca4/WYdiL66F3_cTHu_oI_reH_ecf41ZF5.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-15-wow-gptimage2-low-2026-05-03-seg06-10/06-modern-thai-herbal-inhaler-pocket-pack/slide-5.png",
+      "qa_status": "prompt_qa_passed_pending_or_spot_vision_review",
+      "visual_intention": "variation and copy/remix ending visual"
+    }
+  ],
+  "selection_score": {
+    "total": 87,
+    "practical_usefulness_for_thai_viewer": 23,
+    "save_copy_prompt_value": 18,
+    "visual_stop_power": 18,
+    "production_qa_risk_lower_is_better": 3,
+    "notes": "Pinterest/Midjourney-style wow gate applied; GPT Image 2 low; no Flux/image_generate; full visual intention declared.",
+    "business_fit": 18,
+    "novelty_vs_recent_prompt_posts": 8
+  },
+  "qa_summary": {
+    "prompt_qa": "Prompts enforce GPT Image 2 low, no Flux, no brand promo/website/CTA/prompt-free sales bridge, no copied Pinterest UI, wow factor, and practical use-case-first art direction.",
+    "vision_qa": "Batch upload mode: image prompts structured for quality; human/Sway review still expected inside Zernio drafts."
+  },
+  "zernio": {
+    "draft_id": "69f76b0fbbe86e8fd15b8911",
+    "status": "draft",
+    "platform_statuses": [
+      "pending"
+    ],
+    "media_count": 5,
+    "description_length_with_hashtags": 3966,
+    "draft_only_verified": true,
+    "publish_attempts": 0,
+    "forbidden_found_payload": [],
+    "verified_at": "2026-05-03T15:37:47.008500+00:00"
+  },
+  "zernio_replacement_history": [
+    {
+      "old_draft_id": "69f75e9f82b15c9cc4fdcb89",
+      "old_status": "published",
+      "reason": "replacement for failed verification: old ID was not draft-only/API-reachable for counted batch",
+      "replaced_at": null
+    }
+  ]
+}

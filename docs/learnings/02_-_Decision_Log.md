@@ -79,3 +79,63 @@
 - **Consequences:** Draft generation should choose slide count based on explanation need. Extra slides should carry real educational value such as examples, deeper tips, frameworks, common mistakes, glossary/evidence, or CTA. Never pad weak content just to reach a higher image count.
 - **Implementation:** Hermes repo carousel code now supports 5–10 slide plans, CLI accepts `--slide-count {5..10}`, and the scheduled draft factory uses adaptive slide count for future drafts. SOP updated at [[Aion OS/SOPs/genlabs-ai-carousel-production-process]].
 - **Revisit Trigger:** Revisit if TikTok performance shows longer carousels reduce completion/saves, or if specific topics consistently perform better at a fixed length.
+
+---
+
+## 2026-05-03 — Prompt Drop topics and visuals use a structured mix, not random style choice
+- **Project:** [[Aion OS/Projects/genlabs-ai-learning-state]]
+- **Decision:** GenLabs Prompt Drop planning must choose audience/use-case first, then visual world. The default 10-post mix is 4 product/commerce visuals, 2 fashion/styling/creator editorial, 2 marketing/ad/business assets, 1 experimental/grunge aesthetic world, and 1 analytics/seasonal practical remix.
+- **Why:** GenLabs AI Learning must stay practically useful for Thai sellers, creators, SMEs, and marketers while still using premium visuals to stop the scroll. Cool styles such as grunge are allowed, but only when attached to a real output people can use.
+- **Consequences:** Prompt Drop candidates must state bucket, audience, real use case, output, visual world, GenLabs fit, novelty, and score before generation. No more choosing visual styles only because they feel cool in the moment.
+- **Implementation:** SOP added at [[Aion OS/SOPs/genlabs-prompt-drop-selection-and-scheduling]]. Skills `genlabs-prompt-drop-series` and `genlabs-prompt-drop-visual-first` updated with the mix/selection rule.
+- **Revisit Trigger:** Revisit after enough Prompt Drop posts are published to compare saves, shares, follows, and views by bucket/style.
+
+---
+
+## 2026-05-03 — GPT Image/FAL generation defaults to low quality for speed
+- **Project:** [[Aion OS/Projects/genlabs-ai-learning-state]]
+- **Decision:** GenLabs GPT Image/FAL carousel and Prompt Drop generation should default to `quality=low`, not `high` or `medium`.
+- **Why:** Sway corrected that high-quality GPT Image generation takes too long. Faster iteration matters more for the draft factory and Prompt Drop experiments, as long as QA still protects output quality.
+- **Consequences:** Production scripts, manual Prompt Drop scripts, YouTube draft CLI, and the hourly Zernio draft cron should use `--quality low` by default. Use QA/regeneration for bad outputs; only use medium/high when Sway explicitly asks for a special final-quality exception.
+- **Implementation:** Hermes code defaults updated in `tools/ai_signal_radar/carousel.py`, `scripts/generate_ai_signal_carousel.py`, `scripts/scheduled_ai_social_draft_factory.py`, `scripts/create_youtube_genlabs_draft.py`, and Prompt Drop generation scripts. Skills and SOPs updated.
+- **Revisit Trigger:** Revisit only if low quality consistently fails visual QA or if a specific final asset needs higher quality by explicit approval.
+
+---
+
+## 2026-05-03 — Prompt Drop daily KPI is 15 complete carousel/image sets
+- **Project:** [[Aion OS/Projects/genlabs-ai-learning-state]]
+- **Decision:** Prompt Drop now targets **15 complete carousel/image sets per day**. A set only counts when it has candidate intake, visual inspiration/source category, JSON manifest, complete image folder, QA status, Airtable tracking, and Zernio draft ID when ready for Sway review.
+- **Why:** Sway wants the Prompt Series to become an execution engine, not occasional experiments. The KPI forces enough volume to test visual styles and prompt use cases while keeping QA gates.
+- **Consequences:** Daily planning uses a 15-slot mix: 6 product/commerce, 3 fashion/styling/creator, 3 marketing/ad/business assets, 1 experimental visual world, and 2 performance/seasonal practical remixes. Pinterest/Behance/Dieline/Branding in Asia can be used for inspiration, but exact layouts/compositions are not copied.
+- **Implementation:** Execution plan saved at `/home/clawd/.hermes/hermes-agent/docs/superpowers/plans/2026-05-03-genlabs-prompt-drop-15-sets-daily-execution.md`; Obsidian SOP saved at [[Aion OS/SOPs/genlabs-prompt-drop-15-sets-daily-plan]].
+- **Revisit Trigger:** Revisit after first 3 production days or if completion rate is below 10 QA-pass sets/day due to generation/QA bottlenecks.
+
+---
+
+## 2026-05-03 — Prompt Drop visuals require intention and realistic packaging
+- **Project:** [[Aion OS/Projects/genlabs-ai-learning-state]]
+- **Decision:** Prompt Drop visuals must have explicit business/use-case intention before generation. Product/commerce posts must specify realistic designed packaging; skin/macro/beauty realism is allowed only when it strengthens a real brand/product/output.
+- **Why:** Sway rejected arbitrary drop-on-skin/skin-close-up visuals that looked cool but did not explain the product, brand, or usable output. GenLabs AI Learning must stay useful for Thai sellers, creators, SMEs, and marketers, not become random aesthetics.
+- **Consequences:** Candidate manifests must include `visual_intention` and product posts must include `packaging_requirement`. QA rejects blank/plain/unbranded packaging, decorative liquid drops/props without meaning, fake claims/logos, and any visual world chosen only because it looks cool.
+- **Implementation:** First technical pilot `thai-realistic-skin-serum-prompt-drop-2026-05-03` / Zernio draft `69f706f2fc6b7a5c36445f00` is marked creatively rejected and must not be used as an accepted template.
+- **Revisit Trigger:** Revisit after replacement Prompt Drop drafts generate enough performance data to compare saves/shares/follows by product packaging, fashion styling, marketing asset, and experimental buckets.
+
+---
+
+## 2026-05-03 — Prompt Drop Zernio drafts require long Thai prompt-giveaway descriptions with no promo by default
+- **Project:** [[Aion OS/Projects/genlabs-ai-learning-state]]
+- **Decision:** Prompt Drop Zernio/TikTok photo drafts should use long-form Thai descriptions of about 2,000+ characters in `tiktokSettings.description`. They must include the actual copyable prompt giveaway, customization guidance, Thai use cases, visual intention, product packaging requirement when relevant, and max 5 relevant hashtags.
+- **Why:** The Prompt Drop series wins when viewers can save and use the prompt immediately. Short captions waste the format and make the post feel like only a cool image instead of a useful GenLabs AI Learning asset.
+- **Consequences:** Existing short `caption_draft_th` text in generation manifests is not enough for Zernio. Zernio-ready Prompt Drop posts should route through the dedicated Prompt Drop draft factory/CLI, which builds the long Thai caption and uses the safe draft-only Zernio client. GenLabs promotional endings/CTA, `genlabs.in.th`, and no-prompt sales bridges are omitted unless Sway explicitly re-approves them.
+- **Implementation:** Added `tools/ai_signal_radar/prompt_drop_draft_factory.py` and `scripts/create_prompt_drop_zernio_draft.py`. After Sway's correction, tests/code enforce no default GenLabs promo, required `visual_intention`, required `packaging_requirement` for product posts, and no `#GenLabsTH` default hashtag. The earlier live draft `69f706f2fc6b7a5c36445f00` remains technically draft-safe but creatively rejected.
+- **Revisit Trigger:** Revisit if long descriptions reduce performance, if TikTok/Zernio caption limits/behavior change, or if Sway explicitly re-approves Prompt Drop promo endings.
+
+---
+
+## 2026-05-03 — Prompt Drop cron cadence established for research, execution, and verification
+- **Project:** [[Aion OS/Projects/genlabs-ai-learning-state]]
+- **Decision:** Prompt Drop production runs through three recurring jobs: research/style-bank slate, 5-set draft factory batches, and QA/Zernio verification.
+- **Why:** The 15-set/day target needs a repeatable operating cadence, not random manual selection.
+- **Consequences:** Candidate intake, visual sourcing, generation, Zernio draft-only handoff, and verification are split into clear lanes that can learn from daily results.
+- **Implementation:** Cron jobs created: `c0968d77c962` / `GenLabs Prompt Drop research + style-bank slate` at `15 */4 * * *`; `465464d576f2` / `GenLabs Prompt Drop 5-set draft factory` at `0 1,7,13 * * *`; `faf32927c4a1` / `GenLabs Prompt Drop QA + Zernio verifier` at `45 2,8,14 * * *`.
+- **Revisit Trigger:** Revisit cadence after the first 3 production days or if either research backlog, image generation, QA, or Zernio verification becomes the bottleneck.

@@ -1,0 +1,127 @@
+{
+  "series": "prompt_drop_th",
+  "slug": "midnight-roaster-artifact-gptimage2-low-2026-05-03",
+  "created_at": "2026-05-03",
+  "status": "zernio_draft_created_verified",
+  "title_th": "Prompt Drop: แพ็กเกจสินค้าให้มี Wow Factor",
+  "topic_category": "product_image_prompt",
+  "slot_type": "product_commerce",
+  "audience": "เจ้าของแบรนด์ไทย, ร้านกาแฟ/คาเฟ่, คนขายของบน TikTok Shop/Shopee, นักการตลาด SME และครีเอเตอร์ที่อยากทำภาพสินค้าให้ดูเหมือนแคมเปญจริง",
+  "real_use_case": "สร้างภาพ hero shot, marketplace thumbnail, packaging detail, premium moodboard และภาพ variation สำหรับสินค้าไทยที่ต้องการดูแพงและน่าเซฟ ไม่ใช่แค่ mockup ธรรมดา",
+  "output": "คารูเซล Prompt Drop 7 สไลด์: cover, hero output, marketplace flatlay, macro packaging detail, prompt recipe moodboard, warm cafe variation, copy/remix ending visual",
+  "visual_world": "Midnight Roaster Artifact — luxury Thai drip coffee gift system with Pinterest/Midjourney-style wow factor",
+  "visual_intention": "แก้ปัญหาภาพสินค้า basic โดยเปลี่ยนจากซองกาแฟเดี่ยวเป็นโลกแคมเปญเต็มชุด: ซองหลัก กล่อง gift box ซองดริป tin tasting cards copper scoop wet stone/cafe lighting และ material board เพื่อสอนคนขายไทยให้ prompt ภาพสินค้าที่มี brand world, packaging hierarchy และ wow factor จริง",
+  "packaging_requirement": "ต้องเป็น full retail-ready packaging ecosystem ไม่ใช่ single pouch: stand-up pouch มี gusset/zipper/tear notch, rigid gift box มี molded insert, drip sachets, cylindrical tin, tasting cards/material cards, copper foil/seal, label panels, SKU/accent logic, material cues. ห้าม blank pouch, generic kraft mockup, กล่องขาวโล่ง, logo/text มั่ว, QR/barcode/website/watermark",
+  "copy_prompt_th": "สร้างภาพแคมเปญสินค้าแบบ premium Pinterest / Midjourney-style visual quality สำหรับ [สินค้า/แพ็กเกจของคุณ] ที่ต้องดูเหมือนแบรนด์จริงพร้อมขายบน [TikTok Shop / Shopee / LINE OA / Instagram / Pinterest]\n\nโจทย์หลัก: อย่าสร้างแค่รูปสินค้า 1 ชิ้นบนพื้นหลังสวย ๆ ให้สร้าง “ระบบแพ็กเกจและโลกของแบรนด์” ที่มี wow factor เหมือนงานแคมเปญจริง\n\nสินค้าและแพ็กเกจ: [ประเภทสินค้า เช่น กาแฟดริป / สกินแคร์ / ขนม / เครื่องดื่ม] มี full packaging ecosystem: [ซองหลัก / กล่อง rigid gift box / sachet หรือ sample pack / กระปุกหรือขวด / card หรือ insert / accessory ที่เกี่ยวข้อง] แพ็กเกจต้องมี form factor ชัดเจน เช่น gusset, zipper seam, tear notch, cap, lid, molded insert, label panel, accent strip, foil seal, embossed badge และวัสดุที่ดูจับต้องได้\n\nVisual world: ตั้งชื่อโลกภาพก่อน เช่น [Midnight Roaster Artifact / Citrus Reactor / Forest Origin Sampler / Bangkok Monsoon Gift Kit] แล้วให้ทุกองค์ประกอบอยู่ในโลกเดียวกัน ไม่ใช่พร็อพสุ่ม\n\nSet design: ใช้ฉากแบบ art-directed เช่น wet black stone, sculptural plinths, open gift box, warm Thai cafe counter, monsoon window reflection, marble tray, linen, wood block, arched backdrop หรือ material board เลือกฉากที่ช่วยเล่าแบรนด์และทำให้สินค้าดูแพงขึ้น\n\nProps with purpose: ใส่พร็อพที่อธิบายสินค้า เช่น เมล็ดกาแฟ, copper scoop, espresso crema, tasting card, ผลไม้/ingredient, mirror tray, towel, botanical, sample sachet พร็อพทุกชิ้นต้องช่วยบอก origin, ingredient, ritual, gifting หรือ usage ห้ามตกแต่งมั่ว\n\nLighting and camera: cinematic editorial product photography, warm side light, controlled deep shadows, copper/foil highlights, visible paper grain, tactile texture, shallow depth of field, 3/4 hero angle + macro detail option, square 1:1 composition, strong negative space for carousel crop\n\nผลลัพธ์ที่ต้องการ: ภาพต้องตอบได้ทันทีว่า 1) สินค้าคืออะไร 2) แบรนด์ดูระดับไหน 3) แพ็กเกจขายจริงได้ไหม 4) คนดูจะเซฟเพราะอยากได้ prompt นี้หรือไม่\n\nข้อห้าม: no basic single pouch render, no blank packaging, no generic white mockup, no random props, no unreadable fake microtext, no fake logo, no barcode, no QR code, no website, no watermark, no over-clean AI plastic look, no copied Pinterest design, no GenLabs CTA, no no-prompt sales bridge",
+  "generator": "openai/gpt-image-2/edit via FalGptImage2EditClient",
+  "generation_model": "openai/gpt-image-2/edit",
+  "quality": "low",
+  "no_post_processing": true,
+  "reference_source": "Pinterest coffee/skincare packaging search screenshots used only as broad quality-system references; exact pins/UI not copied.",
+  "cta_policy": "omit_genlabs_promo_unless_sway_reapproves",
+  "default_hashtags": [
+    "#PromptTH",
+    "#AIภาพสินค้า",
+    "#ขายของออนไลน์",
+    "#ProductPhotoAI",
+    "#แบรนด์ไทย"
+  ],
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a98ba50/UatcbNYFsW-IEt6S3aWTc_LOVqAuBz.png",
+    "https://v3b.fal.media/files/b/0a98bae0/OWgPLBN5iq1nbQpfhez4c_WBf6fIpq.png",
+    "https://v3b.fal.media/files/b/0a98bae5/6DWXpI_fxzlBh0OoecLKb_i0NJOKbc.png",
+    "https://v3b.fal.media/files/b/0a98bae9/jhpOd5JaHAMgePw6RnVv__8oUCXn3G.png",
+    "https://v3b.fal.media/files/b/0a98ba53/aNnqa9c01NOUiQdDL1lGu_m6HsQ9B4.png",
+    "https://v3b.fal.media/files/b/0a98baed/JdWj11cKu5dquaEygy0JS_CDVE9Bt7.png",
+    "https://v3b.fal.media/files/b/0a98baf2/oXv_jEl1dwN2PpZXfMX9f_l1saWNva.png"
+  ],
+  "slides": [
+    {
+      "slide_index": 1,
+      "role": "cover_hero",
+      "asset_url": "https://v3b.fal.media/files/b/0a98ba50/UatcbNYFsW-IEt6S3aWTc_LOVqAuBz.png",
+      "qa_status": "pass_minor_microtext_acceptable",
+      "visual_intention": "เปิดด้วย full packaging ecosystem ที่มี gift box, pouch, tin, sachets, cup, scoop และ monsoon/copper lighting เพื่อให้หยุดนิ้วทันที"
+    },
+    {
+      "slide_index": 2,
+      "role": "hero_output_full_packaging_family",
+      "asset_url": "https://v3b.fal.media/files/b/0a98bae0/OWgPLBN5iq1nbQpfhez4c_WBf6fIpq.png",
+      "qa_status": "pass_minor_microtext_acceptable",
+      "visual_intention": "โชว์ output หลักว่า prompt นี้สร้างภาพสินค้าแบบแคมเปญเต็มชุด ไม่ใช่ซองเดียว"
+    },
+    {
+      "slide_index": 3,
+      "role": "marketplace_thumbnail_flatlay",
+      "asset_url": "https://v3b.fal.media/files/b/0a98bae5/6DWXpI_fxzlBh0OoecLKb_i0NJOKbc.png",
+      "qa_status": "pass_minor_microtext_acceptable",
+      "visual_intention": "สอนมุม flatlay/product page ที่ใช้กับ TikTok Shop/Shopee ได้จริงและยังดู premium"
+    },
+    {
+      "slide_index": 4,
+      "role": "macro_packaging_detail",
+      "asset_url": "https://v3b.fal.media/files/b/0a98bae9/jhpOd5JaHAMgePw6RnVv__8oUCXn3G.png",
+      "qa_status": "pass_minor_microtext_acceptable",
+      "visual_intention": "พิสูจน์ material/rendering quality ผ่าน seam, tear notch, foil, paper grain, texture, origin badge และ sachet detail"
+    },
+    {
+      "slide_index": 5,
+      "role": "prompt_recipe_moodboard",
+      "asset_url": "https://v3b.fal.media/files/b/0a98ba53/aNnqa9c01NOUiQdDL1lGu_m6HsQ9B4.png",
+      "qa_status": "pass_minor_microtext_acceptable",
+      "visual_intention": "แก้ prompt sheet basic ด้วย premium moodboard ที่แยก SET/PROPS/LIGHT/MATERIAL/ANGLE แบบ actionable"
+    },
+    {
+      "slide_index": 6,
+      "role": "warm_thai_cafe_variation",
+      "asset_url": "https://v3b.fal.media/files/b/0a98baed/JdWj11cKu5dquaEygy0JS_CDVE9Bt7.png",
+      "qa_status": "pass_minor_microtext_acceptable",
+      "visual_intention": "ให้ variation ที่ยังอยู่ในโลกเดียวกันแต่เป็นบริบทคาเฟ่ไทย อบอุ่น ใช้เป็น lifestyle/LINE OA/launch image ได้"
+    },
+    {
+      "slide_index": 7,
+      "role": "copy_remix_ending_visual",
+      "asset_url": "https://v3b.fal.media/files/b/0a98baf2/oXv_jEl1dwN2PpZXfMX9f_l1saWNva.png",
+      "qa_status": "pass_minor_microtext_acceptable",
+      "visual_intention": "ปิดด้วย visual ingredients board สำหรับให้คน copy/remix โดยไม่ทำเป็น GenLabs ad หรือ no-prompt bridge"
+    }
+  ],
+  "selection_score": {
+    "total": 92,
+    "practical_usefulness_for_thai_viewer": 24,
+    "genlabs_business_fit": 18,
+    "save_copy_prompt_value": 19,
+    "visual_stop_power": 20,
+    "novelty_vs_recent_genlabs_posts": 8,
+    "production_qa_risk_lower_is_better": 3,
+    "notes": "Pinterest/Midjourney-style wow gate applied; full packaging ecosystem and prompt recipe moodboard. Minor AI microtext accepted because main hierarchy/brand and no forbidden CTA/website/GenLabs are clear."
+  },
+  "qa_summary": {
+    "vision_qa": "7/7 selected slides passed vision QA with minor microtext caution acceptable; no GenLabs/website/CTA/no-prompt bridge; no Prompt Drop product branding; no copied Pinterest UI; full packaging ecosystem and wow factor present.",
+    "generation_policy": "GPT Image 2 low only via openai/gpt-image-2/edit; no Flux/image_generate; no post-processing.",
+    "old_invalid_draft_to_ignore": "69f71c2ae923876e52080cc1"
+  },
+  "zernio": {
+    "draft_id": "69f74e598ec85f80588d235c",
+    "status": "draft",
+    "platform_statuses": [
+      "pending"
+    ],
+    "media_count": 7,
+    "description_length_with_hashtags": 3966,
+    "draft_only_verified": true,
+    "publish_attempts": 0,
+    "forbidden_found_payload": [],
+    "verified_at": "2026-05-03",
+    "latest_verifier_checked_at": "2026-05-03T15:16:22.084492+00:00",
+    "latest_api_status": "draft",
+    "latest_api_platform_statuses": [
+      "pending"
+    ],
+    "latest_api_tiktok_draft": true,
+    "latest_api_media_count": 7,
+    "latest_api_description_length": 3966,
+    "latest_api_forbidden_found": [],
+    "latest_api_draft_only_verified": true
+  }
+}

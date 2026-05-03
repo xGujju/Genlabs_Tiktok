@@ -23,10 +23,11 @@ Build long-term trust that later supports [[genlabs.in.th]].
 - Strategic destination:
   - attention and trust should eventually flow toward [[genlabs.in.th]]
 - GenLabs promotion rule:
-  - education comes first; the final banner is the baseline CTA
-  - selectively integrate/promote `genlabs.in.th` when the lesson naturally fits GenLabs software, especially same-day product-photo posts, SME utility visuals, image generation, product photos, brand graphics, promo visuals, menus, posters, thumbnails, and visual assets for SMEs/sellers/creators
-  - product positioning: GenLabs removes the prompt-writing burden; users focus on product upload/product context, and GenLabs handles the image/visual generation
-  - do not force GenLabs into unrelated AI education posts; use it as an option/example when it genuinely helps the viewer
+  - education comes first; promotional bridges must be earned by usefulness, not forced
+  - general GenLabs carousels may still use approved brand/CTA systems when Sway has approved that lane
+  - current Prompt Drop exception: omit GenLabs promotional ending/CTA, `genlabs.in.th`, and no-prompt sales bridges by default unless Sway explicitly re-approves them
+  - product positioning remains useful internally: GenLabs can remove prompt-writing burden, but Prompt Drop drafts should currently teach the prompt/use case first rather than hard-sell
+  - do not force GenLabs into unrelated AI education posts; use it only when it genuinely helps the viewer and the lane allows it
 
 ## Operating Stack
 ### Discord
@@ -249,6 +250,44 @@ If a fact should survive thread changes, it must be promoted into at least one o
 - Output must stay same as GenLabs carousel path: Thai handwritten/sketchnote, 5–10 slides, reusable GenLabs CTA as final media, Airtable/Zernio draft-only safety.
 - New copywriting skill: `genlabs-carousel-copywriting`. Use it before carousel image generation, especially for YouTube/numbered-tip posts. It requires promise accounting: if the hook says 8 tips, slide copy must visibly teach 8 distinct tips and cannot rely on generic repeated workflow slides.
 - Replacement note: the default publisher intentionally skips new Zernio creation when Airtable already has a `Zernio Draft ID` / `draft_created` for the same Source ID. For known-bad YouTube draft replacements, use `--force-zernio-replacement`; otherwise the run may only regenerate assets and not add a new Zernio draft.
+
+## 2026-05-03 — Prompt Drop selection and scheduling system locked
+- Prompt Drop topics/visuals must be selected through a structured mix, not random session taste.
+- Use-case comes before style: choose audience, real output, and GenLabs fit first; then choose visual world such as product editorial, fashion styling, grunge, street poster, or experimental collage.
+- Default 10-post mix: 4 product/commerce visuals, 2 fashion/styling/creator editorial, 2 marketing/ad/business assets, 1 experimental/grunge aesthetic world, 1 analytics/seasonal practical remix.
+- Guardrail: grungy/cool styles are allowed, but only when attached to a practical output people can use; after any experimental post, return to product/business/fashion practicality.
+- SOP: [[Aion OS/SOPs/genlabs-prompt-drop-selection-and-scheduling]].
+- Decision: [[Aion OS/02 - Decision Log#2026-05-03 — Prompt Drop topics and visuals use a structured mix, not random style choice]].
+
+## 2026-05-03 — GPT Image/FAL generation quality defaults to low
+- Sway corrected the generation-speed tradeoff: GPT Image/FAL `high` takes too long, so GenLabs carousel and Prompt Drop image generation should default to `quality=low`.
+- Use low-quality generation for faster iteration and draft production; protect quality with QA/regeneration instead of defaulting to slow high-quality jobs.
+- Only use `medium` or `high` for a specific final-quality exception when Sway explicitly asks.
+- Updated code defaults, prompt/drop scripts, hourly draft cron prompt, skills, and SOP references.
+
+## 2026-05-03 — Prompt Drop daily KPI: 15 complete sets/day
+- Sway set Prompt Series target to 15 carousel/image sets per day.
+- Count only complete, QA-tracked sets; rough ideas, partial folders, failed generation, or unverified assets do not count.
+- Daily mix: 6 product/commerce, 3 fashion/styling/creator editorial, 3 marketing/ad/business assets, 1 experimental aesthetic, 2 performance/seasonal practical remixes.
+- Pinterest is an approved primary visual scouting source; Behance, Dieline, and Branding in Asia are supporting sources. Borrow visual primitives and art-direction logic, not exact copyrighted layouts.
+- Execution plan: `/home/clawd/.hermes/hermes-agent/docs/superpowers/plans/2026-05-03-genlabs-prompt-drop-15-sets-daily-execution.md`.
+- SOP: [[Aion OS/SOPs/genlabs-prompt-drop-15-sets-daily-plan]].
+
+## 2026-05-03 — Prompt Drop correction: no promo, visual intention, real packaging
+- Sway rejected the first realistic-skin/drop-on-skin pilot as a creative/content template even though the Zernio draft safety was technically verified.
+- Rejected pilot: `/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-realistic-skin-serum-prompt-drop-2026-05-03/`, Zernio draft ID `69f706f2fc6b7a5c36445f00`.
+- Rejection reasons: arbitrary skin/drop visual logic, weak brand/use-case intention, product packaging not strong enough, and GenLabs CTA/promo included despite current direction.
+- Current Prompt Drop Zernio drafts require long Thai educational descriptions in `tiktokSettings.description`: target 2,000+ characters, include actual copyable prompt giveaway, customization/use-case instructions, visual intention, product packaging requirement when relevant, and max 5 relevant hashtags.
+- Current Prompt Drop drafts must omit GenLabs promotional ending/CTA, `genlabs.in.th`, and no-prompt sales bridges by default unless Sway explicitly re-approves them.
+- Product/commerce visuals must specify and show realistic designed packaging: label hierarchy, material cues, cap/pump/box/sachet details, category-appropriate design, and commercial plausibility. Plain white/unbranded/default packaging is a QA failure.
+- Skin/macro/beauty realism is allowed only when tied to a real brand/product/output reason; arbitrary skin drops, liquid effects, or decorative props are rejected.
+- Dedicated draft path now exists and enforces the new manifest/caption contract:
+  - `tools/ai_signal_radar/prompt_drop_draft_factory.py`
+  - `scripts/create_prompt_drop_zernio_draft.py`
+- Prompt Drop cron cadence must follow these constraints:
+  - `c0968d77c962` / `GenLabs Prompt Drop research + style-bank slate` — `15 */4 * * *`
+  - `465464d576f2` / `GenLabs Prompt Drop 5-set draft factory` — `0 1,7,13 * * *`
+  - `faf32927c4a1` / `GenLabs Prompt Drop QA + Zernio verifier` — `45 2,8,14 * * *`
 
 ## 2026-04-28 — sig-77 timeout root cause + selector gate
 - Hourly Zernio draft factory produced partial `auto-*` assets for `sig-77` but no manifest because GPT Image 2 slide generation consumed almost all of the 600s run budget; the process was killed before manifest/Airtable/Zernio completion.

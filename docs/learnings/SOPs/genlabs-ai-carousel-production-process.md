@@ -61,7 +61,7 @@ Raw-signal JSON should include:
      --output-dir ~/.hermes/ai_signal_radar/carousels/manual-test \
      --slide-count 5 \
      --reference-image-url https://example.com/genlabs-template.png \
-     --quality medium \
+     --quality low \
      --apply
    ```
 8. Review every slide manually.

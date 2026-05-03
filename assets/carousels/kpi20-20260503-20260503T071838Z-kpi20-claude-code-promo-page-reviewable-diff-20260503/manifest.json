@@ -1,0 +1,237 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a98b248/Yr16JXrxir2k9GT7ZJYvH_lhFWkNeq.png",
+    "https://v3b.fal.media/files/b/0a98b24c/gCOyOFgGAhySXJfXAjX53_L9UT0sZs.png",
+    "https://v3b.fal.media/files/b/0a98b250/K2WCf3DJGK5TpDROe5rLG_AZjyuIOk.png",
+    "https://v3b.fal.media/files/b/0a98b254/e4tiMJBMWRWGRUepiHfFz_UqwQeaCV.png",
+    "https://v3b.fal.media/files/b/0a98b257/0QVAW2EKxbgbUzIjk7aAe_ugsnKWwz.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 5,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/5 role=hook. Exact Thai copy: Claude Code\nทำหน้าโปรโมชัน\nแบบตรวจได้. Visual direction: code editor and shop promo landing page with approval stamp. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "Claude Code\nทำหน้าโปรโมชัน\nแบบตรวจได้",
+        "visual_direction": "code editor and shop promo landing page with approval stamp"
+      },
+      {
+        "image_prompt": "Slide 2/5 role=problem. Exact Thai copy: AI แก้เว็บให้แล้ว\nแต่เราไม่รู้ว่าแก้อะไร. Visual direction: confused owner looking at unknown code changes. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "AI แก้เว็บให้แล้ว\nแต่เราไม่รู้ว่าแก้อะไร",
+        "visual_direction": "confused owner looking at unknown code changes"
+      },
+      {
+        "image_prompt": "Slide 3/5 role=workflow. Exact Thai copy: สั่งให้ชัด:\nBrief → Page → Test → Diff summary. Visual direction: four-step coding workflow with arrows. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 3,
+        "role": "workflow",
+        "thai_copy": "สั่งให้ชัด:\nBrief → Page → Test → Diff summary",
+        "visual_direction": "four-step coding workflow with arrows"
+      },
+      {
+        "image_prompt": "Slide 4/5 role=check. Exact Thai copy: ก่อน Deploy เช็ก:\nมือถือ\nปุ่ม LINE\nข้อความราคา\nไฟล์ที่แก้. Visual direction: deployment checklist with phone and LINE button. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 4,
+        "role": "check",
+        "thai_copy": "ก่อน Deploy เช็ก:\nมือถือ\nปุ่ม LINE\nข้อความราคา\nไฟล์ที่แก้",
+        "visual_direction": "deployment checklist with phone and LINE button"
+      },
+      {
+        "image_prompt": "Slide 5/5 role=cta. Exact Thai copy: ลองวันนี้:\nทำหน้าโปร 1 หน้า\nแล้วขอ Diff ภาษาไทย. Visual direction: diff summary card readable by shop owner. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 5,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nทำหน้าโปร 1 หน้า\nแล้วขอ Diff ภาษาไทย",
+        "visual_direction": "diff summary card readable by shop owner"
+      }
+    ],
+    "source_id": "kpi20-claude-code-promo-page-reviewable-diff-20260503",
+    "source_url": "internal://genlabs/kpi20/claude-code-promo-page-reviewable-diff",
+    "thai_brief": {
+      "evidence": [
+        "Internal GenLabs educational content plan",
+        "Action-based Thai AI money-making lesson"
+      ],
+      "glossary": {
+        "Claude Code": "Claude Code",
+        "SME": "SME",
+        "diff": "diff",
+        "landing page": "landing page"
+      },
+      "original_keywords": [
+        "Claude Code",
+        "landing page",
+        "SME",
+        "diff"
+      ],
+      "source_id": "kpi20-claude-code-promo-page-reviewable-diff-20260503",
+      "source_url": "internal://genlabs/kpi20/claude-code-promo-page-reviewable-diff",
+      "thai_call_to_action": "วันนี้ลองให้ Claude Code ทำหน้าโปรเล็ก ๆ แล้วขอ diff summary ก่อนใช้จริง",
+      "thai_hook": "Claude Code ทำหน้าโปรโมชันได้ แต่ต้องสั่งให้เจ้าของร้านตรวจ diff เป็น",
+      "thai_problem": "หลายคนให้ AI เขียนเว็บแล้วไม่รู้ว่ามันแก้ไฟล์อะไร เปลี่ยนข้อความไหน หรือมีส่วนไหนเสี่ยงก่อน deploy",
+      "thai_tips": [
+        "เริ่มจาก brief โปรโมชัน 1 หน้า ไม่ใช่สั่งกว้าง ๆ",
+        "ให้ Claude Code สร้างหน้า responsive พร้อม copy และ CTA",
+        "ขอ test checklist: มือถือ โหลดเร็ว ปุ่ม LINE ทำงาน",
+        "ขอ diff summary ภาษาไทยว่าแก้ไฟล์อะไร",
+        "ให้เจ้าของร้านอนุมัติก่อน deploy ทุกครั้ง"
+      ],
+      "thai_trend_angle": "agentic coding จะมีค่าก็ต่อเมื่อมนุษย์ตรวจงานได้: brief ชัด test ได้ และมี diff summary อ่านง่าย"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "genlabs-ai-learning",
+    "clean_headline": "Claude Code ทำหน้าโปรโมชันได้ แต่ต้องสั่งให้เจ้าของร้านตรวจ diff เป็น",
+    "clean_summary": "หลายคนให้ AI เขียนเว็บแล้วไม่รู้ว่ามันแก้ไฟล์อะไร เปลี่ยนข้อความไหน หรือมีส่วนไหนเสี่ยงก่อน deploy",
+    "metrics_snapshot": {},
+    "original_keywords": [
+      "Claude Code",
+      "landing page",
+      "SME",
+      "diff"
+    ],
+    "original_language": "th",
+    "raw_text": "Claude Code ทำหน้าโปรโมชันได้ แต่ต้องสั่งให้เจ้าของร้านตรวจ diff เป็น\nหลายคนให้ AI เขียนเว็บแล้วไม่รู้ว่ามันแก้ไฟล์อะไร เปลี่ยนข้อความไหน หรือมีส่วนไหนเสี่ยงก่อน deploy\nagentic coding จะมีค่าก็ต่อเมื่อมนุษย์ตรวจงานได้: brief ชัด test ได้ และมี diff summary อ่านง่าย\nเริ่มจาก brief โปรโมชัน 1 หน้า ไม่ใช่สั่งกว้าง ๆ\nให้ Claude Code สร้างหน้า responsive พร้อม copy และ CTA\nขอ test checklist: มือถือ โหลดเร็ว ปุ่ม LINE ทำงาน\nขอ diff summary ภาษาไทยว่าแก้ไฟล์อะไร\nให้เจ้าของร้านอนุมัติก่อน deploy ทุกครั้ง",
+    "source_id": "kpi20-claude-code-promo-page-reviewable-diff-20260503",
+    "source_url": "internal://genlabs/kpi20/claude-code-promo-page-reviewable-diff",
+    "why_it_matters": "Practical Thai AI money-making education; no fake income promises."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้ลองให้ Claude Code ทำหน้าโปรเล็ก ๆ แล้วขอ diff summary ก่อนใช้จริง",
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "hook": "Claude Code ทำหน้าโปรโมชันได้ แต่ต้องสั่งให้เจ้าของร้านตรวจ diff เป็น",
+    "original_keywords": [
+      "Claude Code",
+      "landing page",
+      "SME",
+      "diff"
+    ],
+    "original_language": "th",
+    "problem": "หลายคนให้ AI เขียนเว็บแล้วไม่รู้ว่ามันแก้ไฟล์อะไร เปลี่ยนข้อความไหน หรือมีส่วนไหนเสี่ยงก่อน deploy",
+    "source_id": "kpi20-claude-code-promo-page-reviewable-diff-20260503",
+    "source_url": "internal://genlabs/kpi20/claude-code-promo-page-reviewable-diff",
+    "tips": [
+      "เริ่มจาก brief โปรโมชัน 1 หน้า ไม่ใช่สั่งกว้าง ๆ",
+      "ให้ Claude Code สร้างหน้า responsive พร้อม copy และ CTA",
+      "ขอ test checklist: มือถือ โหลดเร็ว ปุ่ม LINE ทำงาน",
+      "ขอ diff summary ภาษาไทยว่าแก้ไฟล์อะไร",
+      "ให้เจ้าของร้านอนุมัติก่อน deploy ทุกครั้ง"
+    ],
+    "trend_angle": "agentic coding จะมีค่าก็ต่อเมื่อมนุษย์ตรวจงานได้: brief ชัด test ได้ และมี diff summary อ่านง่าย"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "Yr16JXrxir2k9GT7ZJYvH_lhFWkNeq.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b248/Yr16JXrxir2k9GT7ZJYvH_lhFWkNeq.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T071838Z-kpi20-claude-code-promo-page-reviewable-diff-20260503/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "gCOyOFgGAhySXJfXAjX53_L9UT0sZs.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b24c/gCOyOFgGAhySXJfXAjX53_L9UT0sZs.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T071838Z-kpi20-claude-code-promo-page-reviewable-diff-20260503/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "K2WCf3DJGK5TpDROe5rLG_AZjyuIOk.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b250/K2WCf3DJGK5TpDROe5rLG_AZjyuIOk.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T071838Z-kpi20-claude-code-promo-page-reviewable-diff-20260503/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "e4tiMJBMWRWGRUepiHfFz_UqwQeaCV.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b254/e4tiMJBMWRWGRUepiHfFz_UqwQeaCV.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T071838Z-kpi20-claude-code-promo-page-reviewable-diff-20260503/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "0QVAW2EKxbgbUzIjk7aAe_ugsnKWwz.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b257/0QVAW2EKxbgbUzIjk7aAe_ugsnKWwz.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T071838Z-kpi20-claude-code-promo-page-reviewable-diff-20260503/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 6,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T071838Z-kpi20-claude-code-promo-page-reviewable-diff-20260503/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: หลายคนให้ AI เขียนเว็บแล้วไม่รู้ว่ามันแก้ไฟล์อะไร เปลี่ยนข้อความไหน หรือมีส่วนไหนเสี่ยงก่อน deploy\n\n📌 ทำไมควรเซฟโพสต์นี้: agentic coding จะมีค่าก็ต่อเมื่อมนุษย์ตรวจงานได้: brief ชัด test ได้ และมี diff summary อ่านง่าย\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ เริ่มจาก brief โปรโมชัน 1 หน้า ไม่ใช่สั่งกว้าง ๆ\n\n2) ✨ ให้ Claude Code สร้างหน้า responsive พร้อม copy และ CTA\n\n3) ✨ ขอ test checklist: มือถือ โหลดเร็ว ปุ่ม LINE ทำงาน\n\n4) ✨ ขอ diff summary ภาษาไทยว่าแก้ไฟล์อะไร\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#Claudeภาษาไทย"
+    ],
+    "title": "Claude Code ทำหน้าโปรโมชันได้ แต่ต้องสั่งให้เจ้าของร้านตรวจ diff เป็น #AIมือใหม่"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "glossary": {
+      "Claude Code": "Claude Code",
+      "SME": "SME",
+      "diff": "diff",
+      "landing page": "landing page"
+    },
+    "original_keywords": [
+      "Claude Code",
+      "landing page",
+      "SME",
+      "diff"
+    ],
+    "source_id": "kpi20-claude-code-promo-page-reviewable-diff-20260503",
+    "source_url": "internal://genlabs/kpi20/claude-code-promo-page-reviewable-diff",
+    "thai_call_to_action": "วันนี้ลองให้ Claude Code ทำหน้าโปรเล็ก ๆ แล้วขอ diff summary ก่อนใช้จริง",
+    "thai_hook": "Claude Code ทำหน้าโปรโมชันได้ แต่ต้องสั่งให้เจ้าของร้านตรวจ diff เป็น",
+    "thai_problem": "หลายคนให้ AI เขียนเว็บแล้วไม่รู้ว่ามันแก้ไฟล์อะไร เปลี่ยนข้อความไหน หรือมีส่วนไหนเสี่ยงก่อน deploy",
+    "thai_tips": [
+      "เริ่มจาก brief โปรโมชัน 1 หน้า ไม่ใช่สั่งกว้าง ๆ",
+      "ให้ Claude Code สร้างหน้า responsive พร้อม copy และ CTA",
+      "ขอ test checklist: มือถือ โหลดเร็ว ปุ่ม LINE ทำงาน",
+      "ขอ diff summary ภาษาไทยว่าแก้ไฟล์อะไร",
+      "ให้เจ้าของร้านอนุมัติก่อน deploy ทุกครั้ง"
+    ],
+    "thai_trend_angle": "agentic coding จะมีค่าก็ต่อเมื่อมนุษย์ตรวจงานได้: brief ชัด test ได้ และมี diff summary อ่านง่าย"
+  }
+}

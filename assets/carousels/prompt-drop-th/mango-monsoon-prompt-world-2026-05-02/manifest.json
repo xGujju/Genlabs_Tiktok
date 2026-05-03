@@ -1,0 +1,117 @@
+{
+  "series": "prompt_drop_th",
+  "slug": "mango-monsoon-prompt-world",
+  "created_at": "2026-05-02T20:57:28.188653+00:00",
+  "generator": "openai/gpt-image-2/edit via FAL; no post-processing; high quality",
+  "no_post_processing": true,
+  "creative_goal": "Fresh artistic visual graphics from Aion's own idea; first slide must feature PROMPT in the graphic style; final slide must mention GenLabs in same typography/world.",
+  "visual_world": "Mango Monsoon / Thai-modern surreal product poster",
+  "reference_image_urls": [
+    "https://v3b.fal.media/files/b/0a98a129/r9n9AmWy_RLOPngRm6m64_img_50ea105e7581.png",
+    "https://v3b.fal.media/files/b/0a98a129/o2hqDZtUQCzM3p61JrHPl_img_ef5523e1b99b.png",
+    "https://v3b.fal.media/files/b/0a98a12a/4wynQTd9W4CUszGdNj1pE_img_38ee1eae9b21.png",
+    "https://v3b.fal.media/files/b/0a98a12a/563GlSLvdf3CE7qt5LYLU_img_65bbc4f14055.png"
+  ],
+  "slide_count": 7,
+  "master_prompt": "MANGO MONSOON: Thai-modern surreal product/poster campaign where the word PROMPT is built from glossy mango ribbons, coconut-milk chrome, wet black street-poster ink, sticky-rice pearl textures, Bangkok monsoon rain, neon market reflections, and cinematic high-contrast product-art lighting. Explore the same world through hero product, macro texture, deconstructed poster, monsoon market angle, prompt recipe card, and GenLabs final slide.",
+  "slides": [
+    {
+      "index": 1,
+      "role": "cover_prompt_mango_ribbon",
+      "prompt": "Create ONE square 1:1 image for a GenLabs Prompt Drop carousel.\nUse the attached references only for overall prompt-gallery energy: bold, stylish, editorial, social-feed-worthy, artistic, strong typography integration. Do not copy exact people, layouts, logos, or existing words.\n\nVisual world: MANGO MONSOON — a Thai-modern surreal product/poster campaign inspired by mango sticky rice, coconut milk, Bangkok monsoon rain, neon market reflections, chrome liquid, sticky-rice pearl textures, street-poster collage, and high-end product-art direction.\n\nThe style must feel unique and prompt-worthy, not generic food photography. Use layered visual worlds, impossible studio sets, wet reflections, mango ribbons, coconut-milk chrome, translucent dessert materials, cinematic lighting, and Thai-modern street culture without tourist clichés.\n\nTypography must be generated inside the image and must match the graphic world. No ugly pasted text. No random fake brand names. No watermark. Avoid temples, tuk-tuks, flags, elephants, tourist Thailand clichés.\n\nSlide 1 / Main cover. The word PROMPT is the hero typography, physically built from glossy mango flesh ribbons, black wet street-poster ink, and thin coconut-milk chrome highlights. Behind it: a surreal Thai mango dessert product world — mango slices floating, sticky-rice pearls like tiny moons, rain droplets, neon yellow/orange reflections on black wet surface. Layout like a premium Instagram prompt cover: bold, clean, artistic, high contrast. The text must read exactly: PROMPT. Make this the strongest, most correct image of the carousel.\n",
+      "image": {
+        "slide_index": 1,
+        "image_url": "https://v3b.fal.media/files/b/0a98a32b/cNN9zxofr9icOH9dvC9ti_yc05YNbD.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/mango-monsoon-prompt-world-2026-05-02/slide-1.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "cNN9zxofr9icOH9dvC9ti_yc05YNbD.png"
+      }
+    },
+    {
+      "index": 2,
+      "role": "hero_product_world",
+      "prompt": "Create ONE square 1:1 image for a GenLabs Prompt Drop carousel.\nUse the attached references only for overall prompt-gallery energy: bold, stylish, editorial, social-feed-worthy, artistic, strong typography integration. Do not copy exact people, layouts, logos, or existing words.\n\nVisual world: MANGO MONSOON — a Thai-modern surreal product/poster campaign inspired by mango sticky rice, coconut milk, Bangkok monsoon rain, neon market reflections, chrome liquid, sticky-rice pearl textures, street-poster collage, and high-end product-art direction.\n\nThe style must feel unique and prompt-worthy, not generic food photography. Use layered visual worlds, impossible studio sets, wet reflections, mango ribbons, coconut-milk chrome, translucent dessert materials, cinematic lighting, and Thai-modern street culture without tourist clichés.\n\nTypography must be generated inside the image and must match the graphic world. No ugly pasted text. No random fake brand names. No watermark. Avoid temples, tuk-tuks, flags, elephants, tourist Thailand clichés.\n\nSlide 2 / Hero campaign visual. A fictional Thai mango dessert cup or premium mango drink container sits inside an impossible monsoon studio set. Mango ribbons orbit the product, coconut milk pours like liquid chrome, sticky-rice pearls float in slow motion, black reflective floor, neon market signs blurred into abstract color only, rain streaks on glass. Minimal tiny editorial label if needed, but no large text. This should show the world that the cover prompt creates.\n",
+      "image": {
+        "slide_index": 2,
+        "image_url": "https://v3b.fal.media/files/b/0a98a33e/HKkl8fMGutJJ7TWUtAOTt_IvLrM9TF.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/mango-monsoon-prompt-world-2026-05-02/slide-2.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "HKkl8fMGutJJ7TWUtAOTt_IvLrM9TF.png"
+      }
+    },
+    {
+      "index": 3,
+      "role": "macro_texture_universe",
+      "prompt": "Create ONE square 1:1 image for a GenLabs Prompt Drop carousel.\nUse the attached references only for overall prompt-gallery energy: bold, stylish, editorial, social-feed-worthy, artistic, strong typography integration. Do not copy exact people, layouts, logos, or existing words.\n\nVisual world: MANGO MONSOON — a Thai-modern surreal product/poster campaign inspired by mango sticky rice, coconut milk, Bangkok monsoon rain, neon market reflections, chrome liquid, sticky-rice pearl textures, street-poster collage, and high-end product-art direction.\n\nThe style must feel unique and prompt-worthy, not generic food photography. Use layered visual worlds, impossible studio sets, wet reflections, mango ribbons, coconut-milk chrome, translucent dessert materials, cinematic lighting, and Thai-modern street culture without tourist clichés.\n\nTypography must be generated inside the image and must match the graphic world. No ugly pasted text. No random fake brand names. No watermark. Avoid temples, tuk-tuks, flags, elephants, tourist Thailand clichés.\n\nSlide 3 / Macro texture universe. Extreme close-up: mango flesh becomes a glowing landscape, sticky-rice grains look like pearls, coconut milk forms glossy white rivers, rain droplets magnify tiny orange/yellow cells. Cinematic macro lens, surreal edible material detail, black and mango-gold palette. No headline. Make it feel like viewers are inside the prompt world.\n",
+      "image": {
+        "slide_index": 3,
+        "image_url": "https://v3b.fal.media/files/b/0a98a352/Zao-yTe3ayHyfpA2UtTO0_5HYVyipC.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/mango-monsoon-prompt-world-2026-05-02/slide-3.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "Zao-yTe3ayHyfpA2UtTO0_5HYVyipC.png"
+      }
+    },
+    {
+      "index": 4,
+      "role": "deconstructed_food_poster",
+      "prompt": "Create ONE square 1:1 image for a GenLabs Prompt Drop carousel.\nUse the attached references only for overall prompt-gallery energy: bold, stylish, editorial, social-feed-worthy, artistic, strong typography integration. Do not copy exact people, layouts, logos, or existing words.\n\nVisual world: MANGO MONSOON — a Thai-modern surreal product/poster campaign inspired by mango sticky rice, coconut milk, Bangkok monsoon rain, neon market reflections, chrome liquid, sticky-rice pearl textures, street-poster collage, and high-end product-art direction.\n\nThe style must feel unique and prompt-worthy, not generic food photography. Use layered visual worlds, impossible studio sets, wet reflections, mango ribbons, coconut-milk chrome, translucent dessert materials, cinematic lighting, and Thai-modern street culture without tourist clichés.\n\nTypography must be generated inside the image and must match the graphic world. No ugly pasted text. No random fake brand names. No watermark. Avoid temples, tuk-tuks, flags, elephants, tourist Thailand clichés.\n\nSlide 4 / Deconstructed poster. Break the Thai mango dessert visual into floating layers: mango slice sheets, coconut-milk arcs, sticky rice pearl clusters, wet black poster fragments, translucent orange gel panels, chrome spoon reflection, rain-glass shards. Arrange like high-fashion product poster design with dynamic diagonal composition. No tourist clichés. Tiny style-native microtext is acceptable but no readable fake brand names.\n",
+      "image": {
+        "slide_index": 4,
+        "image_url": "https://v3b.fal.media/files/b/0a98a366/qdP-wPYQ1F7pkRFhHqmsu_KVauE2WE.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/mango-monsoon-prompt-world-2026-05-02/slide-4.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "qdP-wPYQ1F7pkRFhHqmsu_KVauE2WE.png"
+      }
+    },
+    {
+      "index": 5,
+      "role": "bangkok_monsoon_market_angle",
+      "prompt": "Create ONE square 1:1 image for a GenLabs Prompt Drop carousel.\nUse the attached references only for overall prompt-gallery energy: bold, stylish, editorial, social-feed-worthy, artistic, strong typography integration. Do not copy exact people, layouts, logos, or existing words.\n\nVisual world: MANGO MONSOON — a Thai-modern surreal product/poster campaign inspired by mango sticky rice, coconut milk, Bangkok monsoon rain, neon market reflections, chrome liquid, sticky-rice pearl textures, street-poster collage, and high-end product-art direction.\n\nThe style must feel unique and prompt-worthy, not generic food photography. Use layered visual worlds, impossible studio sets, wet reflections, mango ribbons, coconut-milk chrome, translucent dessert materials, cinematic lighting, and Thai-modern street culture without tourist clichés.\n\nTypography must be generated inside the image and must match the graphic world. No ugly pasted text. No random fake brand names. No watermark. Avoid temples, tuk-tuks, flags, elephants, tourist Thailand clichés.\n\nSlide 5 / Bangkok monsoon angle. A Thai-modern street product campaign scene after rain: the mango dessert/drink product on a glossy black cart or pedestal, abstract neon market reflections, rain on glass, mango-yellow light cutting through humidity, silhouettes and motion blur in background, product world still surreal with coconut-milk chrome and mango ribbons. It should feel Bangkok-modern, not touristy.\n",
+      "image": {
+        "slide_index": 5,
+        "image_url": "https://v3b.fal.media/files/b/0a98a37b/eLnv_vdfM2kTjkA2jHRPs_IRfgnygU.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/mango-monsoon-prompt-world-2026-05-02/slide-5.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "eLnv_vdfM2kTjkA2jHRPs_IRfgnygU.png"
+      }
+    },
+    {
+      "index": 6,
+      "role": "prompt_reveal_card",
+      "prompt": "Create ONE square 1:1 image for a GenLabs Prompt Drop carousel.\nUse the attached references only for overall prompt-gallery energy: bold, stylish, editorial, social-feed-worthy, artistic, strong typography integration. Do not copy exact people, layouts, logos, or existing words.\n\nVisual world: MANGO MONSOON — a Thai-modern surreal product/poster campaign inspired by mango sticky rice, coconut milk, Bangkok monsoon rain, neon market reflections, chrome liquid, sticky-rice pearl textures, street-poster collage, and high-end product-art direction.\n\nThe style must feel unique and prompt-worthy, not generic food photography. Use layered visual worlds, impossible studio sets, wet reflections, mango ribbons, coconut-milk chrome, translucent dessert materials, cinematic lighting, and Thai-modern street culture without tourist clichés.\n\nTypography must be generated inside the image and must match the graphic world. No ugly pasted text. No random fake brand names. No watermark. Avoid temples, tuk-tuks, flags, elephants, tourist Thailand clichés.\n\nSlide 6 / Prompt reveal card. Make a stylish prompt card that belongs to the Mango Monsoon world. It should feel like a designer art card, not a classroom slide. Use black wet paper, mango-yellow typography, coconut-white accents, small material swatches, and tiny product-world thumbnails. Include only this readable text, in beautiful style-matched layout:\nPROMPT RECIPE\nmango ribbons\ncoconut chrome\nmonsoon glass\nwet poster light\nThai-modern product world\nKeep text elegant and integrated, not huge or ugly.\n",
+      "image": {
+        "slide_index": 6,
+        "image_url": "https://v3b.fal.media/files/b/0a98a391/wPVTupgZvpd2rlun62lqp_RZONbmb2.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/mango-monsoon-prompt-world-2026-05-02/slide-6.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "wPVTupgZvpd2rlun62lqp_RZONbmb2.png"
+      }
+    },
+    {
+      "index": 7,
+      "role": "genlabs_final_same_style",
+      "prompt": "Create ONE square 1:1 image for a GenLabs Prompt Drop carousel.\nUse the attached references only for overall prompt-gallery energy: bold, stylish, editorial, social-feed-worthy, artistic, strong typography integration. Do not copy exact people, layouts, logos, or existing words.\n\nVisual world: MANGO MONSOON — a Thai-modern surreal product/poster campaign inspired by mango sticky rice, coconut milk, Bangkok monsoon rain, neon market reflections, chrome liquid, sticky-rice pearl textures, street-poster collage, and high-end product-art direction.\n\nThe style must feel unique and prompt-worthy, not generic food photography. Use layered visual worlds, impossible studio sets, wet reflections, mango ribbons, coconut-milk chrome, translucent dessert materials, cinematic lighting, and Thai-modern street culture without tourist clichés.\n\nTypography must be generated inside the image and must match the graphic world. No ugly pasted text. No random fake brand names. No watermark. Avoid temples, tuk-tuks, flags, elephants, tourist Thailand clichés.\n\nSlide 7 / Final GenLabs slide in the exact same Mango Monsoon visual language. Use mango ribbons, coconut-milk chrome, black wet poster texture, neon rain reflections, sticky-rice pearl details. The typography should be stylish, integrated, and campaign-like. Include readable text:\nGENLABS\nmake visuals like this\nwithout writing prompts\nDo not make it look like a separate ad. It should feel like the final page of the same prompt-art carousel.\n",
+      "image": {
+        "slide_index": 7,
+        "image_url": "https://v3b.fal.media/files/b/0a98a3a5/AzQGpgc022a1APIjjVDOj_V53FI5lM.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/mango-monsoon-prompt-world-2026-05-02/slide-7.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "AzQGpgc022a1APIjjVDOj_V53FI5lM.png"
+      }
+    }
+  ]
+}

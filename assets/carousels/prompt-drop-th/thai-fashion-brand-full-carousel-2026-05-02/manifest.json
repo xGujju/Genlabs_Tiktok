@@ -1,0 +1,144 @@
+{
+  "series": "prompt_drop_th",
+  "slug": "thai-fashion-brand-prompt-drop",
+  "created_at": "2026-05-02T19:36:39.681236+00:00",
+  "generator": "openai/gpt-image-2/edit via FAL; no post-processing",
+  "no_post_processing": true,
+  "selected_cover_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/gpt-image-cover-prototypes-2026-05-02/slide-10.png",
+  "selected_cover_reference_url": "https://v3b.fal.media/files/b/0a98a1a5/UFzo9DlrvXvEldasQ-JTt_slide-10.png",
+  "slide_count": 8,
+  "promise_accounting": {
+    "hook_promise": "Thai fashion-brand visual prompt drop",
+    "visible_deliverables": [
+      "GenLabs no-prompt hint",
+      "copy prompt",
+      "variation 01",
+      "variation 02",
+      "before/after",
+      "formula",
+      "GenLabs CTA"
+    ],
+    "cta_counted_as_prompt_tip": false
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "role": "cover",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-fashion-brand-full-carousel-2026-05-02/slide-1.png",
+      "reference_source": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/gpt-image-cover-prototypes-2026-05-02/slide-10.png"
+    },
+    {
+      "index": 2,
+      "role": "genlabs_hint",
+      "title": "STYLE นี้ทำอะไรได้",
+      "visible_text": "ทำภาพแฟชั่นแบรนด์\nให้ดูเหมือนแคมเปญจริง\n\nไม่อยากเขียน prompt?\nGenLabs ทำให้ได้",
+      "prompt": "Create ONE square 1:1 inside slide for the same Thai AI Prompt Drop carousel. Use the reference cover's exact art direction: charcoal studio, beige/taupe fashion, deep red sculptural ribbon prop, luxury editorial lighting, bold white condensed typography, minimal premium layout.\n\nVisible text inside the image, exact and readable:\nSTYLE นี้ทำอะไรได้\nทำภาพแฟชั่นแบรนด์\nให้ดูเหมือนแคมเปญจริง\nไม่อยากเขียน prompt?\nGenLabs ทำให้ได้\n\nComposition: full-page editorial slide, not an infographic. Show a Thai boutique fashion campaign moodboard: model crop, fabric swatches, red sculptural accent, clean negative space. The GenLabs hint must be small but catchy, like a premium side note/tag, not a loud ad. No random extra text, no fake logos, no watermark.",
+      "image": {
+        "slide_index": 2,
+        "image_url": "https://v3b.fal.media/files/b/0a98a1a5/F6TeczduGQCgAi2dt-mfs_cHuipRny.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-fashion-brand-full-carousel-2026-05-02/slide-2.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "F6TeczduGQCgAi2dt-mfs_cHuipRny.png"
+      }
+    },
+    {
+      "index": 3,
+      "role": "copy_prompt",
+      "title": "copy_prompt",
+      "visible_text": "COPY PROMPT\nสร้างภาพแฟชั่นแบรนด์ไทย\nลุค editorial studio\nชุดโทน beige / taupe\nพร็อพสีแดง sculptural\nแสง cinematic luxury\nพื้นหลัง charcoal gray\nภาพคมชัด 1:1",
+      "prompt": "Create ONE square 1:1 prompt-card slide for the same Thai Prompt Drop carousel. Match the reference cover: dark charcoal studio, beige/taupe neutral blocks, deep red sculptural accent, huge white condensed typography, luxury fashion editorial.\n\nVisible text inside image, exact and readable:\nCOPY PROMPT\nสร้างภาพแฟชั่นแบรนด์ไทย\nลุค editorial studio\nชุดโทน beige / taupe\nพร็อพสีแดง sculptural\nแสง cinematic luxury\nพื้นหลัง charcoal gray\nภาพคมชัด 1:1\n\nDesign: premium prompt card, visual-first, not crowded. Use a dark card with red vertical accent and a small fashion image crop. The prompt text should look copyable and saveable. No random extra words, no fake logos, no watermark.",
+      "image": {
+        "slide_index": 3,
+        "image_url": "https://v3b.fal.media/files/b/0a98a1ac/wUtiwr882T4mpBLDmTMH6_KpojmMjd.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-fashion-brand-full-carousel-2026-05-02/slide-3.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "wUtiwr882T4mpBLDmTMH6_KpojmMjd.png"
+      }
+    },
+    {
+      "index": 4,
+      "role": "variation_a",
+      "title": "variation_a",
+      "visible_text": "VARIATION 01\nLOOKBOOK CLEAN\nเหมาะกับ IG / เว็บไซต์",
+      "prompt": "Create ONE square 1:1 variation slide for the same Thai Prompt Drop carousel. Match the reference cover's luxury fashion art direction.\n\nVisible text inside image, exact and readable:\nVARIATION 01\nLOOKBOOK CLEAN\nเหมาะกับ IG / เว็บไซต์\n\nVisual: Thai fashion model in beige tailored outfit, clean gray studio, red sculptural ribbon prop cropped on one side, luxury lookbook campaign. Show this as an example output from the prompt. Big white condensed type, minimal text, premium spacing. No fake logos, no random extra text, no watermark.",
+      "image": {
+        "slide_index": 4,
+        "image_url": "https://v3b.fal.media/files/b/0a98a1b3/CKK2zEltxvlsbaN1xNWfk_gtpYjP83.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-fashion-brand-full-carousel-2026-05-02/slide-4.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "CKK2zEltxvlsbaN1xNWfk_gtpYjP83.png"
+      }
+    },
+    {
+      "index": 5,
+      "role": "variation_b",
+      "title": "variation_b",
+      "visible_text": "VARIATION 02\nPOSTER BOLD\nเหมาะกับ TikTok Shop",
+      "prompt": "Create ONE square 1:1 variation slide for the same Thai Prompt Drop carousel. Use same palette and typography as reference cover: charcoal, beige, deep red, huge white type.\n\nVisible text inside image, exact and readable:\nVARIATION 02\nPOSTER BOLD\nเหมาะกับ TikTok Shop\n\nVisual: Thai fashion campaign poster, stronger red sculptural prop, closer model crop, dramatic shadows, product/shopping energy but still premium editorial. This should look more commercial and thumb-stopping than variation 01. No platform logos, no fake brand names, no random extra text, no watermark.",
+      "image": {
+        "slide_index": 5,
+        "image_url": "https://v3b.fal.media/files/b/0a98a1b9/WJ0066rdrzvtmZgqc0TtZ_u4Onj01U.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-fashion-brand-full-carousel-2026-05-02/slide-5.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "WJ0066rdrzvtmZgqc0TtZ_u4Onj01U.png"
+      }
+    },
+    {
+      "index": 6,
+      "role": "before_after",
+      "title": "before_after",
+      "visible_text": "BEFORE / AFTER\nพรอมต์กว้าง = ภาพธรรมดา\nพรอมต์มีสไตล์ = ภาพดูแพง",
+      "prompt": "Create ONE square 1:1 before/after slide for the same Thai Prompt Drop carousel. Keep it premium and editorial, not a basic infographic.\n\nVisible text inside image, exact and readable:\nBEFORE / AFTER\nพรอมต์กว้าง = ภาพธรรมดา\nพรอมต์มีสไตล์ = ภาพดูแพง\n\nVisual: split composition. Left side muted simple fashion photo with weak lighting; right side premium version matching the cover: beige outfit, red sculptural prop, charcoal studio, cinematic luxury lighting. Use red divider/ribbon between sides. Big clean white typography. No random extra text, no watermark.",
+      "image": {
+        "slide_index": 6,
+        "image_url": "https://v3b.fal.media/files/b/0a98a1c0/-EORAEQDRBijA-7Gzb8LJ_FgbumPFG.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-fashion-brand-full-carousel-2026-05-02/slide-6.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "-EORAEQDRBijA-7Gzb8LJ_FgbumPFG.png"
+      }
+    },
+    {
+      "index": 7,
+      "role": "formula",
+      "title": "formula",
+      "visible_text": "สูตรจำง่าย\nสินค้า / คน\nสไตล์\nแสง\nฉาก\nอารมณ์แบรนด์",
+      "prompt": "Create ONE square 1:1 formula slide for the same Thai Prompt Drop carousel. Match the reference: charcoal studio, red sculptural accent, beige/taupe fashion, bold white condensed type.\n\nVisible text inside image, exact and readable:\nสูตรจำง่าย\nสินค้า / คน\nสไตล์\nแสง\nฉาก\nอารมณ์แบรนด์\n\nDesign: elegant angle breakdown, not cluttered. Use five stacked premium blocks or labels arranged around a faded fashion image crop and red sculptural ribbon. This slide teaches the formula visually. No random extra words, no fake logos, no watermark.",
+      "image": {
+        "slide_index": 7,
+        "image_url": "https://v3b.fal.media/files/b/0a98a1c7/0Dikr6WPDFzmbL1Mi7nua_dS2xdIey.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-fashion-brand-full-carousel-2026-05-02/slide-7.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "0Dikr6WPDFzmbL1Mi7nua_dS2xdIey.png"
+      }
+    },
+    {
+      "index": 8,
+      "role": "final_cta",
+      "title": "genlabs_cta",
+      "visible_text": "อยากได้ภาพแบบนี้\nแต่ไม่อยากเขียน prompt?\n\nใช้ GenLabs\nสร้างภาพแบรนด์ให้ดูโปร\ngenlabs.in.th",
+      "prompt": "Create ONE square 1:1 final CTA slide for the same Thai Prompt Drop carousel. It must fit the cover style exactly: luxury fashion editorial, charcoal studio, beige/taupe tones, deep red sculptural prop, huge white condensed typography, clean premium layout.\n\nVisible text inside image, exact and readable:\nอยากได้ภาพแบบนี้\nแต่ไม่อยากเขียน prompt?\nใช้ GenLabs\nสร้างภาพแบรนด์ให้ดูโปร\ngenlabs.in.th\n\nVisual: polished final brand bridge, Thai boutique fashion/product visual mockup, red sculptural ribbon as frame, tasteful GenLabs mention. It should feel like part of the same carousel, not a separate ad banner. No fake app UI, no random extra text, no watermark.",
+      "image": {
+        "slide_index": 8,
+        "image_url": "https://v3b.fal.media/files/b/0a98a1cd/IWHFfJpnQ9oYjP6vsd0S1_uCDhTc0A.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-fashion-brand-full-carousel-2026-05-02/slide-8.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "IWHFfJpnQ9oYjP6vsd0S1_uCDhTc0A.png"
+      }
+    }
+  ],
+  "caption_draft_th": "PROMPT DROP สำหรับแบรนด์แฟชั่นไทย: ก็อปสูตรนี้ไปทำภาพลุค editorial studio ได้เลย หรือถ้าไม่อยากเขียน prompt เอง ลองใช้ GenLabs ให้ช่วยสร้างภาพแบรนด์ให้ดูโปรได้ที่ genlabs.in.th #GenLabsTH #เรียนAI #PromptTH #แฟชั่นแบรนด์ไทย #AIภาพสินค้า"
+}

@@ -1,0 +1,19 @@
+{
+  "series": "prompt_drop_th",
+  "purpose": "10 GPT Image native cover prototypes for Sway style selection; first page only",
+  "generator": "openai/gpt-image-2/edit via FalGptImage2EditClient / direct FAL retry for slide 10",
+  "no_post_processing": true,
+  "created_at": "2026-05-02",
+  "prototypes": [
+    {"index": 1, "style": "Thai Luxury Product Editorial", "url": "https://v3b.fal.media/files/b/0a98a12d/z96NHUB8y7Vi0gqqhn99l_CswKcy5e.png", "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/gpt-image-cover-prototypes-2026-05-02/slide-1.png"},
+    {"index": 2, "style": "Bangkok Street Motion Poster", "url": "https://v3b.fal.media/files/b/0a98a134/IPIGeCQLla-h58nGCow1h_TqyKyGxd.png", "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/gpt-image-cover-prototypes-2026-05-02/slide-2.png"},
+    {"index": 3, "style": "Thai Cafe Product Pop", "url": "https://v3b.fal.media/files/b/0a98a13c/zHnmJzWrZTACFf8EDz-5Z_Nd6G6uL9.png", "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/gpt-image-cover-prototypes-2026-05-02/slide-3.png"},
+    {"index": 4, "style": "Thai Seller Studio Collage", "url": "https://v3b.fal.media/files/b/0a98a145/MXn6dlhoVTOsGQiV5l4DN_2ZbFACkI.png", "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/gpt-image-cover-prototypes-2026-05-02/slide-4.png"},
+    {"index": 5, "style": "Thai Editorial Portrait Prompt", "url": "https://v3b.fal.media/files/b/0a98a14d/b-r9ue2XE9dGOzS--EH52_ddlrOuui.png", "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/gpt-image-cover-prototypes-2026-05-02/slide-5.png"},
+    {"index": 6, "style": "AI Voice Warning Minimal", "url": "https://v3b.fal.media/files/b/0a98a155/Py5uTMyrOMdPRJP6YP6Ur_7jtriHfQ.png", "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/gpt-image-cover-prototypes-2026-05-02/slide-6.png"},
+    {"index": 7, "style": "Thai Creator Lifestyle Flatlay", "url": "https://v3b.fal.media/files/b/0a98a15d/tMsKpjFc84jidMk7PGdvS_qaEtmw1U.png", "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/gpt-image-cover-prototypes-2026-05-02/slide-7.png"},
+    {"index": 8, "style": "Cinematic Thai Food Prompt", "url": "https://v3b.fal.media/files/b/0a98a165/KJoc5CiqEuPRQGlESEw8L_QbTg8Cg7.png", "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/gpt-image-cover-prototypes-2026-05-02/slide-8.png"},
+    {"index": 9, "style": "Prompt Zine UI Collage", "url": "https://v3b.fal.media/files/b/0a98a16d/H8dBVU5g-18nqOP5K_tsa_5uS698Ce.png", "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/gpt-image-cover-prototypes-2026-05-02/slide-9.png"},
+    {"index": 10, "style": "Clean Thai Fashion Brand Lookbook", "url": "https://v3b.fal.media/files/b/0a98a17b/UlQCVRrizwbtA-MN42EcK_IqavWIZa.png", "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/gpt-image-cover-prototypes-2026-05-02/slide-10.png"}
+  ]
+}

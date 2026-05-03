@@ -1,0 +1,237 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a98b288/7gZKeiuS1WHVxzgOk_eBk_UTH2dK5t.png",
+    "https://v3b.fal.media/files/b/0a98b28c/4EHlOgoJ0e8URzk4xJhmH_TYaFTG95.png",
+    "https://v3b.fal.media/files/b/0a98b290/qQAFncM-JpX-yZHaHhJuv_rDFR2S7v.png",
+    "https://v3b.fal.media/files/b/0a98b295/0poncOeSUb5AJP7e6cisd_rG0YWH68.png",
+    "https://v3b.fal.media/files/b/0a98b299/jAXAbf5aZrW2dSjdUbDL5_ixpGndua.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 5,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/5 role=hook. Exact Thai copy: Agentic Coding\nให้ AI เขียน Test ก่อน\nค่อยแก้จริง. Visual direction: AI coding agent writing tests before code change. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "Agentic Coding\nให้ AI เขียน Test ก่อน\nค่อยแก้จริง",
+        "visual_direction": "AI coding agent writing tests before code change"
+      },
+      {
+        "image_prompt": "Slide 2/5 role=problem. Exact Thai copy: แก้เร็วแต่ไม่มี Test\n= ไม่รู้ว่าพังอะไร. Visual direction: bug escaping through broken safety net. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "แก้เร็วแต่ไม่มี Test\n= ไม่รู้ว่าพังอะไร",
+        "visual_direction": "bug escaping through broken safety net"
+      },
+      {
+        "image_prompt": "Slide 3/5 role=workflow. Exact Thai copy: ขั้นตอน:\nRequirement → Test fail → Fix → Test pass → Diff summary. Visual direction: test-first coding pipeline. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 3,
+        "role": "workflow",
+        "thai_copy": "ขั้นตอน:\nRequirement → Test fail → Fix → Test pass → Diff summary",
+        "visual_direction": "test-first coding pipeline"
+      },
+      {
+        "image_prompt": "Slide 4/5 role=prompt. Exact Thai copy: สั่งแบบนี้:\nเขียน regression test\nห้ามแก้ logic ก่อน test fail. Visual direction: prompt card with red-green cycle. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 4,
+        "role": "prompt",
+        "thai_copy": "สั่งแบบนี้:\nเขียน regression test\nห้ามแก้ logic ก่อน test fail",
+        "visual_direction": "prompt card with red-green cycle"
+      },
+      {
+        "image_prompt": "Slide 5/5 role=cta. Exact Thai copy: ลองวันนี้:\nBug เล็ก 1 จุด\nTest ก่อน Fix. Visual direction: developer checklist with green test badge. GenLabs AI Learning brand. Square 1:1 TikTok carousel. Thai handwritten sketchnote style, white background, colorful marker lines, rounded cards, cute robot helper, arrows/checkmarks/icons. Mobile readable. One clear money-making action idea, no fake income claims, no dense paragraphs, no public source URLs. Small subtle GenLabs logo in corner.",
+        "index": 5,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nBug เล็ก 1 จุด\nTest ก่อน Fix",
+        "visual_direction": "developer checklist with green test badge"
+      }
+    ],
+    "source_id": "kpi20-agentic-coding-test-first-small-feature-20260503",
+    "source_url": "internal://genlabs/kpi20/agentic-coding-test-first-small-feature",
+    "thai_brief": {
+      "evidence": [
+        "Internal GenLabs educational content plan",
+        "Action-based Thai AI money-making lesson"
+      ],
+      "glossary": {
+        "Claude Code": "Claude Code",
+        "agentic coding": "agentic coding",
+        "dev": "dev",
+        "testing": "testing"
+      },
+      "original_keywords": [
+        "Claude Code",
+        "agentic coding",
+        "testing",
+        "dev"
+      ],
+      "source_id": "kpi20-agentic-coding-test-first-small-feature-20260503",
+      "source_url": "internal://genlabs/kpi20/agentic-coding-test-first-small-feature",
+      "thai_call_to_action": "วันนี้ลองกับ bug เล็ก 1 จุด: test ก่อน fix แล้วขอ diff summary",
+      "thai_hook": "ใช้ AI เขียนโค้ดเร็วขึ้นได้ แต่ต้องให้มันเขียน test ก่อนแก้จริง",
+      "thai_problem": "หลายคนให้ agent แก้โค้ดทันทีแล้วไม่รู้ว่าฟีเจอร์พังตรงไหน เพราะไม่มี test จับ requirement สำคัญ",
+      "thai_tips": [
+        "อธิบาย behavior ที่ต้องการเป็น input/output ชัด ๆ",
+        "สั่งให้ AI เขียน regression test ก่อนแก้ไฟล์หลัก",
+        "ให้รัน test แล้วเห็น fail จากปัญหาเดิม",
+        "ค่อยให้แก้โค้ดและรัน test ซ้ำ",
+        "ขอ diff summary และ risk list ก่อน merge"
+      ],
+      "thai_trend_angle": "Agentic coding ที่ปลอดภัยคือให้ AI เข้าใจ requirement, เขียน test, เห็น test fail, ค่อยแก้ และสรุป diff ให้คน review"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "genlabs-ai-learning",
+    "clean_headline": "ใช้ AI เขียนโค้ดเร็วขึ้นได้ แต่ต้องให้มันเขียน test ก่อนแก้จริง",
+    "clean_summary": "หลายคนให้ agent แก้โค้ดทันทีแล้วไม่รู้ว่าฟีเจอร์พังตรงไหน เพราะไม่มี test จับ requirement สำคัญ",
+    "metrics_snapshot": {},
+    "original_keywords": [
+      "Claude Code",
+      "agentic coding",
+      "testing",
+      "dev"
+    ],
+    "original_language": "th",
+    "raw_text": "ใช้ AI เขียนโค้ดเร็วขึ้นได้ แต่ต้องให้มันเขียน test ก่อนแก้จริง\nหลายคนให้ agent แก้โค้ดทันทีแล้วไม่รู้ว่าฟีเจอร์พังตรงไหน เพราะไม่มี test จับ requirement สำคัญ\nAgentic coding ที่ปลอดภัยคือให้ AI เข้าใจ requirement, เขียน test, เห็น test fail, ค่อยแก้ และสรุป diff ให้คน review\nอธิบาย behavior ที่ต้องการเป็น input/output ชัด ๆ\nสั่งให้ AI เขียน regression test ก่อนแก้ไฟล์หลัก\nให้รัน test แล้วเห็น fail จากปัญหาเดิม\nค่อยให้แก้โค้ดและรัน test ซ้ำ\nขอ diff summary และ risk list ก่อน merge",
+    "source_id": "kpi20-agentic-coding-test-first-small-feature-20260503",
+    "source_url": "internal://genlabs/kpi20/agentic-coding-test-first-small-feature",
+    "why_it_matters": "Practical Thai AI money-making education; no fake income promises."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้ลองกับ bug เล็ก 1 จุด: test ก่อน fix แล้วขอ diff summary",
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "hook": "ใช้ AI เขียนโค้ดเร็วขึ้นได้ แต่ต้องให้มันเขียน test ก่อนแก้จริง",
+    "original_keywords": [
+      "Claude Code",
+      "agentic coding",
+      "testing",
+      "dev"
+    ],
+    "original_language": "th",
+    "problem": "หลายคนให้ agent แก้โค้ดทันทีแล้วไม่รู้ว่าฟีเจอร์พังตรงไหน เพราะไม่มี test จับ requirement สำคัญ",
+    "source_id": "kpi20-agentic-coding-test-first-small-feature-20260503",
+    "source_url": "internal://genlabs/kpi20/agentic-coding-test-first-small-feature",
+    "tips": [
+      "อธิบาย behavior ที่ต้องการเป็น input/output ชัด ๆ",
+      "สั่งให้ AI เขียน regression test ก่อนแก้ไฟล์หลัก",
+      "ให้รัน test แล้วเห็น fail จากปัญหาเดิม",
+      "ค่อยให้แก้โค้ดและรัน test ซ้ำ",
+      "ขอ diff summary และ risk list ก่อน merge"
+    ],
+    "trend_angle": "Agentic coding ที่ปลอดภัยคือให้ AI เข้าใจ requirement, เขียน test, เห็น test fail, ค่อยแก้ และสรุป diff ให้คน review"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "7gZKeiuS1WHVxzgOk_eBk_UTH2dK5t.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b288/7gZKeiuS1WHVxzgOk_eBk_UTH2dK5t.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072918Z-kpi20-agentic-coding-test-first-small-feature-20260503/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "4EHlOgoJ0e8URzk4xJhmH_TYaFTG95.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b28c/4EHlOgoJ0e8URzk4xJhmH_TYaFTG95.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072918Z-kpi20-agentic-coding-test-first-small-feature-20260503/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "qQAFncM-JpX-yZHaHhJuv_rDFR2S7v.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b290/qQAFncM-JpX-yZHaHhJuv_rDFR2S7v.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072918Z-kpi20-agentic-coding-test-first-small-feature-20260503/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "0poncOeSUb5AJP7e6cisd_rG0YWH68.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b295/0poncOeSUb5AJP7e6cisd_rG0YWH68.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072918Z-kpi20-agentic-coding-test-first-small-feature-20260503/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "jAXAbf5aZrW2dSjdUbDL5_ixpGndua.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98b299/jAXAbf5aZrW2dSjdUbDL5_ixpGndua.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072918Z-kpi20-agentic-coding-test-first-small-feature-20260503/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 6,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/kpi20-20260503-20260503T072918Z-kpi20-agentic-coding-test-first-small-feature-20260503/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: หลายคนให้ agent แก้โค้ดทันทีแล้วไม่รู้ว่าฟีเจอร์พังตรงไหน เพราะไม่มี test จับ requirement สำคัญ\n\n📌 ทำไมควรเซฟโพสต์นี้: Agentic coding ที่ปลอดภัยคือให้ AI เข้าใจ requirement, เขียน test, เห็น test fail, ค่อยแก้ และสรุป diff ให้คน review\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ อธิบาย behavior ที่ต้องการเป็น input/output ชัด ๆ\n\n2) ✨ สั่งให้ AI เขียน regression test ก่อนแก้ไฟล์หลัก\n\n3) ✨ ให้รัน test แล้วเห็น fail จากปัญหาเดิม\n\n4) ✨ ค่อยให้แก้โค้ดและรัน test ซ้ำ\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#Claudeภาษาไทย"
+    ],
+    "title": "ใช้ AI เขียนโค้ดเร็วขึ้นได้ แต่ต้องให้มันเขียน test ก่อนแก้จริง #AIมือใหม่"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Internal GenLabs educational content plan",
+      "Action-based Thai AI money-making lesson"
+    ],
+    "glossary": {
+      "Claude Code": "Claude Code",
+      "agentic coding": "agentic coding",
+      "dev": "dev",
+      "testing": "testing"
+    },
+    "original_keywords": [
+      "Claude Code",
+      "agentic coding",
+      "testing",
+      "dev"
+    ],
+    "source_id": "kpi20-agentic-coding-test-first-small-feature-20260503",
+    "source_url": "internal://genlabs/kpi20/agentic-coding-test-first-small-feature",
+    "thai_call_to_action": "วันนี้ลองกับ bug เล็ก 1 จุด: test ก่อน fix แล้วขอ diff summary",
+    "thai_hook": "ใช้ AI เขียนโค้ดเร็วขึ้นได้ แต่ต้องให้มันเขียน test ก่อนแก้จริง",
+    "thai_problem": "หลายคนให้ agent แก้โค้ดทันทีแล้วไม่รู้ว่าฟีเจอร์พังตรงไหน เพราะไม่มี test จับ requirement สำคัญ",
+    "thai_tips": [
+      "อธิบาย behavior ที่ต้องการเป็น input/output ชัด ๆ",
+      "สั่งให้ AI เขียน regression test ก่อนแก้ไฟล์หลัก",
+      "ให้รัน test แล้วเห็น fail จากปัญหาเดิม",
+      "ค่อยให้แก้โค้ดและรัน test ซ้ำ",
+      "ขอ diff summary และ risk list ก่อน merge"
+    ],
+    "thai_trend_angle": "Agentic coding ที่ปลอดภัยคือให้ AI เข้าใจ requirement, เขียน test, เห็น test fail, ค่อยแก้ และสรุป diff ให้คน review"
+  }
+}

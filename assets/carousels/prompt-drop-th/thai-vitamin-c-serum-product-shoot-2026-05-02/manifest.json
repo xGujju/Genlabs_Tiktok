@@ -1,0 +1,98 @@
+{
+  "series": "prompt_drop_th",
+  "slug": "thai-vitamin-c-serum-product-shoot",
+  "created_at": "2026-05-02T19:55:02.340196+00:00",
+  "generator": "openai/gpt-image-2/edit via FAL; no post-processing; product-reference-driven",
+  "no_post_processing": true,
+  "product_reference": "/home/clawd/.hermes/image_cache/img_e774544699b0.jpeg",
+  "product_reference_url": "https://v3b.fal.media/files/b/0a98a21c/AwdbjHnAFxUD9W8cA7lZN_img_e774544699b0.jpeg",
+  "slide_count": 6,
+  "creative_rule": "one complete product photoshoot; same serum explored through multiple product-photo worlds and detail shots; minimal/no overlay text",
+  "slides": [
+    {
+      "index": 1,
+      "role": "hero_citrus_glow",
+      "prompt": "Create ONE square 1:1 image for a visual-first Thai product Prompt Drop carousel.\nUse the attached product photo as the product reference. Preserve the same product identity as much as possible: small amber glass skincare serum dropper bottle, black rubber dropper and black cap, white label with orange Vitamin C / brighten accent, compact 10 ml serum shape. Keep the product recognizable and label facing camera when possible.\n\nThis is a premium product photoshoot carousel, not an infographic. Do not add ugly headline overlays. Do not add big social-media text. Do not add random labels, fake logos, watermarks, stickers, or extra packaging text. Any typography must be only the product label itself or extremely subtle campaign-like microtext if unavoidable.\n\nStyle: high-end commercial product photography for Thai skincare/e-commerce. Strong visual composition, beautiful lighting, realistic shadows/reflections, artistic but sellable. The image should wow people by showing how far AI product photography can push one simple product.\n\nSlide 1 / Hero shot: Vitamin C citrus glow campaign. Place the amber serum bottle upright on a warm cream stone pedestal, label visible, with fresh orange slices, curled orange peel, tiny dew droplets, and warm morning sunlight beams. Clean premium skincare ad composition, orange glow connecting to the label accent, shallow depth of field, expensive but natural. No added typography.\n",
+      "image": {
+        "slide_index": 1,
+        "image_url": "https://v3b.fal.media/files/b/0a98a21c/KxKq_Zd8XU5gPXVXVQU6y_tFpV415Y.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-vitamin-c-serum-product-shoot-2026-05-02/slide-1.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "KxKq_Zd8XU5gPXVXVQU6y_tFpV415Y.png"
+      }
+    },
+    {
+      "index": 2,
+      "role": "macro_dropper_detail",
+      "prompt": "Create ONE square 1:1 image for a visual-first Thai product Prompt Drop carousel.\nUse the attached product photo as the product reference. Preserve the same product identity as much as possible: small amber glass skincare serum dropper bottle, black rubber dropper and black cap, white label with orange Vitamin C / brighten accent, compact 10 ml serum shape. Keep the product recognizable and label facing camera when possible.\n\nThis is a premium product photoshoot carousel, not an infographic. Do not add ugly headline overlays. Do not add big social-media text. Do not add random labels, fake logos, watermarks, stickers, or extra packaging text. Any typography must be only the product label itself or extremely subtle campaign-like microtext if unavoidable.\n\nStyle: high-end commercial product photography for Thai skincare/e-commerce. Strong visual composition, beautiful lighting, realistic shadows/reflections, artistic but sellable. The image should wow people by showing how far AI product photography can push one simple product.\n\nSlide 2 / Macro detail: extreme close-up of the black dropper pipette and amber golden serum droplet falling slowly, with the amber bottle blurred in the background. Show the liquid texture, glass reflections, skin-care formula richness, clean cream-white background, cinematic macro beauty photography. No added typography.\n",
+      "image": {
+        "slide_index": 2,
+        "image_url": "https://v3b.fal.media/files/b/0a98a222/iTuvkEFVTyrVhYvOSfckZ_0xabSr9c.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-vitamin-c-serum-product-shoot-2026-05-02/slide-2.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "iTuvkEFVTyrVhYvOSfckZ_0xabSr9c.png"
+      }
+    },
+    {
+      "index": 3,
+      "role": "clinical_minimal_trust",
+      "prompt": "Create ONE square 1:1 image for a visual-first Thai product Prompt Drop carousel.\nUse the attached product photo as the product reference. Preserve the same product identity as much as possible: small amber glass skincare serum dropper bottle, black rubber dropper and black cap, white label with orange Vitamin C / brighten accent, compact 10 ml serum shape. Keep the product recognizable and label facing camera when possible.\n\nThis is a premium product photoshoot carousel, not an infographic. Do not add ugly headline overlays. Do not add big social-media text. Do not add random labels, fake logos, watermarks, stickers, or extra packaging text. Any typography must be only the product label itself or extremely subtle campaign-like microtext if unavoidable.\n\nStyle: high-end commercial product photography for Thai skincare/e-commerce. Strong visual composition, beautiful lighting, realistic shadows/reflections, artistic but sellable. The image should wow people by showing how far AI product photography can push one simple product.\n\nSlide 3 / Clinical minimal: place the serum bottle on glossy white acrylic blocks with soft frosted glass panels, subtle laboratory glassware silhouettes, clean dermatologist skincare aesthetic, high-key white lighting with warm amber highlights. Label should be visible and product centered. Minimal, trustworthy, premium. No added typography.\n",
+      "image": {
+        "slide_index": 3,
+        "image_url": "https://v3b.fal.media/files/b/0a98a229/zCjzz_COBkUZWXx4A9Hea_KSnPmoTV.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-vitamin-c-serum-product-shoot-2026-05-02/slide-3.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "zCjzz_COBkUZWXx4A9Hea_KSnPmoTV.png"
+      }
+    },
+    {
+      "index": 4,
+      "role": "thai_spa_natural",
+      "prompt": "Create ONE square 1:1 image for a visual-first Thai product Prompt Drop carousel.\nUse the attached product photo as the product reference. Preserve the same product identity as much as possible: small amber glass skincare serum dropper bottle, black rubber dropper and black cap, white label with orange Vitamin C / brighten accent, compact 10 ml serum shape. Keep the product recognizable and label facing camera when possible.\n\nThis is a premium product photoshoot carousel, not an infographic. Do not add ugly headline overlays. Do not add big social-media text. Do not add random labels, fake logos, watermarks, stickers, or extra packaging text. Any typography must be only the product label itself or extremely subtle campaign-like microtext if unavoidable.\n\nStyle: high-end commercial product photography for Thai skincare/e-commerce. Strong visual composition, beautiful lighting, realistic shadows/reflections, artistic but sellable. The image should wow people by showing how far AI product photography can push one simple product.\n\nSlide 4 / Thai premium spa: serum bottle on beige stone tray with soft linen, subtle tropical leaves, gentle orange flower/citrus accent, warm Thai spa morning sunlight, calm natural skincare atmosphere. Product upright, label visible, realistic premium spa product photography. No tourist clichés, no temples, no extra text.\n",
+      "image": {
+        "slide_index": 4,
+        "image_url": "https://v3b.fal.media/files/b/0a98a22f/YZSDH7Il0CqBtHdtxHER__3HrCSvUP.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-vitamin-c-serum-product-shoot-2026-05-02/slide-4.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "YZSDH7Il0CqBtHdtxHER__3HrCSvUP.png"
+      }
+    },
+    {
+      "index": 5,
+      "role": "water_dew_freshness",
+      "prompt": "Create ONE square 1:1 image for a visual-first Thai product Prompt Drop carousel.\nUse the attached product photo as the product reference. Preserve the same product identity as much as possible: small amber glass skincare serum dropper bottle, black rubber dropper and black cap, white label with orange Vitamin C / brighten accent, compact 10 ml serum shape. Keep the product recognizable and label facing camera when possible.\n\nThis is a premium product photoshoot carousel, not an infographic. Do not add ugly headline overlays. Do not add big social-media text. Do not add random labels, fake logos, watermarks, stickers, or extra packaging text. Any typography must be only the product label itself or extremely subtle campaign-like microtext if unavoidable.\n\nStyle: high-end commercial product photography for Thai skincare/e-commerce. Strong visual composition, beautiful lighting, realistic shadows/reflections, artistic but sellable. The image should wow people by showing how far AI product photography can push one simple product.\n\nSlide 5 / Dew freshness: product bottle standing on wet reflective glass or polished stone with fine water droplets, soft mist, clean white background, a small orange citrus reflection, crisp fresh skincare lighting. Show amber glass reflections and black dropper silhouette beautifully. No added typography.\n",
+      "image": {
+        "slide_index": 5,
+        "image_url": "https://v3b.fal.media/files/b/0a98a236/FcV7mzF57I0drHIfjBTLX_eQ4aHRXI.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-vitamin-c-serum-product-shoot-2026-05-02/slide-5.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "FcV7mzF57I0drHIfjBTLX_eQ4aHRXI.png"
+      }
+    },
+    {
+      "index": 6,
+      "role": "golden_radiance_campaign",
+      "prompt": "Create ONE square 1:1 image for a visual-first Thai product Prompt Drop carousel.\nUse the attached product photo as the product reference. Preserve the same product identity as much as possible: small amber glass skincare serum dropper bottle, black rubber dropper and black cap, white label with orange Vitamin C / brighten accent, compact 10 ml serum shape. Keep the product recognizable and label facing camera when possible.\n\nThis is a premium product photoshoot carousel, not an infographic. Do not add ugly headline overlays. Do not add big social-media text. Do not add random labels, fake logos, watermarks, stickers, or extra packaging text. Any typography must be only the product label itself or extremely subtle campaign-like microtext if unavoidable.\n\nStyle: high-end commercial product photography for Thai skincare/e-commerce. Strong visual composition, beautiful lighting, realistic shadows/reflections, artistic but sellable. The image should wow people by showing how far AI product photography can push one simple product.\n\nSlide 6 / Golden radiance campaign: premium golden-orange gradient studio background, serum bottle slightly off-center with warm rim light, glossy reflections, subtle floating serum droplets or glass highlights, elegant radiance skincare advertising. Keep it minimal, expensive, and visually powerful. No added typography.\n",
+      "image": {
+        "slide_index": 6,
+        "image_url": "https://v3b.fal.media/files/b/0a98a23b/JZ2ny7pJne3-xjCtkPBa8_c5wreWG8.png",
+        "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/thai-vitamin-c-serum-product-shoot-2026-05-02/slide-6.png",
+        "width": null,
+        "height": null,
+        "content_type": "image/png",
+        "file_name": "JZ2ny7pJne3-xjCtkPBa8_c5wreWG8.png"
+      }
+    }
+  ],
+  "caption_draft_th": "PROMPT DROP: เปลี่ยนรูปสินค้าเซรั่มธรรมดาให้กลายเป็นเซตภาพโฆษณาแบบมืออาชีพ — citrus glow, macro dropper, clinical minimal, Thai spa, dew freshness, golden radiance #GenLabsTH #PromptDropTH #AIภาพสินค้า #สกินแคร์ไทย #ProductPhotography"
+}

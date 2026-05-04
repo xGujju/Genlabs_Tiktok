@@ -139,3 +139,13 @@
 - **Consequences:** Candidate intake, visual sourcing, generation, Zernio draft-only handoff, and verification are split into clear lanes that can learn from daily results.
 - **Implementation:** Cron jobs created: `c0968d77c962` / `GenLabs Prompt Drop research + style-bank slate` at `15 */4 * * *`; `465464d576f2` / `GenLabs Prompt Drop 5-set draft factory` at `0 1,7,13 * * *`; `faf32927c4a1` / `GenLabs Prompt Drop QA + Zernio verifier` at `45 2,8,14 * * *`.
 - **Revisit Trigger:** Revisit cadence after the first 3 production days or if either research backlog, image generation, QA, or Zernio verification becomes the bottleneck.
+
+---
+
+## 2026-05-04 — GenLabs/Zernio production crons stay enabled
+- **Project:** [[Aion OS/Projects/genlabs-ai-learning-state]]
+- **Decision:** GenLabs/Zernio production cron jobs must not be left paused as the default safety response. If blockers appear, Aion fixes/unblocks, uses safe draft-only recovery, and keeps the KPI loop active.
+- **Why:** Pausing production prevents daily draft output and blocks the 100k-view KPI learning loop.
+- **Consequences:** Manual-batch reconciliation, QA, and source repair run in parallel with enabled production crons. Public publishing remains manual/draft-only safe.
+- **Implementation:** Resumed `a97a7703af32` and `465464d576f2`; patched skills, memory, cron prompt, and source backstop tests at 2026-05-04T13:03:56Z.
+- **Revisit Trigger:** Revisit only if Sway explicitly orders a temporary pause in the current task.

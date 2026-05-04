@@ -335,25 +335,25 @@ Lesson: The protected GenLabs CTA can stay, but the educational hook before it m
 ### KPI status
 - Goal: one TikTok post reaches **100,000 views**.
 - Best post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
-- Current best views: 9084
-- Gap to 100,000: 90916
-- Closest post views: 9084
-- Strongest velocity post: 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: พนักงานใหม่ต้องอ่านเอกสารหลายไฟล์…
-- Recent 72h post count: 12
-- Snapshot time: 2026-05-03T02:06:00.358971+00:00
+- Current best views: 12381
+- Gap to 100,000: 87619
+- Closest post views: 12381
+- Strongest velocity post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- Recent 72h post count: 16
+- Snapshot time: 2026-05-03T23:56:42.329979+00:00
 
 ### Signals learned today
 - Winning hook samples:
 - ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
-- 👋 หลายคนเห็น Claude สร้างแอปได้ แล้วรีบพิมพ์ว่า “ช่วยทำแอปให้หน่อย” ทันที ปัญหาคือ AI ไม่ได้ขาดความเก่งเสมอไป แต่บรีฟของเรายังไม่ชัดพอ แอปที่ออกมาจึงมักดูสวยแค่…
 - 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: พนักงานใหม่ต้…
+- 👋 หลายคนเห็น Claude สร้างแอปได้ แล้วรีบพิมพ์ว่า “ช่วยทำแอปให้หน่อย” ทันที ปัญหาคือ AI ไม่ได้ขาดความเก่งเสมอไป แต่บรีฟของเรายังไม่ชัดพอ แอปที่ออกมาจึงมักดูสวยแค่…
 - Weak hook samples:
 - 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายร้านมีข้อ…
-- 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: แอดมินตอบลูกค…
-- 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายคนอยากทำ …
+- Prompt Drop: ยาดม/สมุนไพรไทยให้ดู Modern Wellness เซฟโพสต์นี้ไว้ถ้าคุณทำคอนเทนต์ขายของออนไลน์ แล้วอยากได้ภาพที่ดูเหมือนถ่ายแคมเปญจริง ไม่ใช่ภาพ AI พลาสติกหรือภา…
+- 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา A
 - Protected CTA note: Sway-added CTA phrase is protected and must not be treated as hook/topic signal; learn from educational_signal instead.
-- Protected CTA occurrences in low-view sample: 5
-- Breakout candidates: 5
+- Protected CTA occurrences in low-view sample: 3
+- Breakout candidates: 1
 - Current issue count: 0
 
 ### Mistakes / weak spots to correct
@@ -611,4 +611,532 @@ Lesson: The protected GenLabs CTA can stay, but the educational hook before it m
 - Baseline caveat: 16:30 same-window delta is 0 because TikTok/Zernio analytics lastUpdated stayed 2026-05-03 15:10:20 UTC (~80m old); preserve the 16:00 confirmed momentum signal (+221 since previous snapshot, ~430.72 views/hr) until the next normal analytics window confirms or rejects it.
 - Action: updated compact JSON memory, Obsidian memory, and the existing Open Loops production/result-closure handoff instead of creating a duplicate task. Draft-only amplification stays focused on one problem-first onboarding/docs remix, three CTA-stripped variations, one follow-up hook, and a save/comment prompt; factory remains paused pending manual-batch reconciliation, so no public posting/no spending.
 - System fix: live hourly Zernio draft factory `a97a7703af32` had drifted back to enabled=True/state=scheduled despite the unresolved manual-batch audit; fix applied now: set enabled=False/state=paused with explicit paused_reason. Keep no-public-posting/no-spending.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-03-1700-breakout-watch -->
+### 2026-05-03 17:00 UTC — Breakout watch
+- KPI: best post remains ChatGPT 8 productivity tips (7634027210248097042) at 12,148 views; gap to 100,000 = 87,852. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: employee onboarding/doc-reading workflow (7635310153126087954) at 5,035 views after 25.95h; +149 since the previous snapshot (~298.19 views/hr); 38 shares; 2.58% engagement; ~4.9x channel average. Breakout reasons: recent_views_2x_average and high_velocity_since_last_snapshot.
+- Secondary watch: true best ChatGPT productivity winner also re-accelerated by +318 views and now has 183 shares; keep the main remix/action grounded in practical ChatGPT work-output content, not CTA copy.
+- Action: updated compact JSON memory, Obsidian memory, and the existing Open Loops production/result-closure handoff instead of creating a duplicate task. Draft-only amplification stays focused on one problem-first onboarding/docs remix, three CTA-stripped variations, one follow-up hook, and a save/comment prompt; factory remains paused pending manual-batch reconciliation, so no public posting/no spending.
+- Watch: Airtable import is fresh (~28.9m), TikTok analytics update age is ~42.5m, and snapshot issues are empty. Close or mark blocked active 2h/24h result loops by 2026-05-03T18:00Z before scaling more near-duplicate variants.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-03-1730-breakout-watch -->
+### 2026-05-03 17:30 UTC — Breakout watch
+- KPI: best post remains ChatGPT 8 productivity tips (7634027210248097042) at 12,148 views; gap to 100,000 = 87,852. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: employee onboarding/doc-reading workflow (7635310153126087954) at 5,035 views after 26.45h; 38 shares; 2.58% engagement; ~4.9x channel average. Current 17:30 reason: recent_views_2x_average.
+- Baseline caveat: 17:30 same-window delta is 0 because the 17:00 baseline already captured +149 views (~298.19 views/hr) and TikTok/Zernio analytics lastUpdated stayed 2026-05-03 16:17:49 UTC (~72.4m old). Preserve the 17:00 confirmed momentum signal until the next normal analytics window confirms or rejects it.
+- Action: updated compact JSON memory, Obsidian memory, and the existing Open Loops production/result-closure handoff instead of creating a duplicate task. Draft-only amplification stays focused on one problem-first onboarding/docs remix, three CTA-stripped variations, one follow-up hook, and a save/comment prompt; factory remains paused pending manual-batch reconciliation, so no public posting/no spending.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-03-1800-growth-check -->
+### 2026-05-03 18:00 UTC — Hermes Growth Check
+- KPI: best/closest post remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 12,229 views; gap 87,771 to 100,000.
+- Signal: strongest actionable breakout remains TikTok 7635310153126087954, CTA-stripped workflow = employee onboarding/doc-reading workflow → one-page 30-day plan + owner/deadline/risk. Current 18:00 snapshot has 5,177 views after ~26.96h, +142 since the previous snapshot (~281.43/hr), 38 shares, 2.55% engagement, and ~5.0x channel average. Secondary watch: TikTok 7635687022018972935 has higher short-window velocity (+175, ~346.84/hr) but only 239 views, so watch rather than pivot.
+- Action: updated compact JSON memory, Obsidian memory, and the existing Open Loops production/result-closure handoff instead of creating duplicate experiments. Draft-only next action remains one problem-first onboarding/docs carousel/script, one follow-up hook, and an explicit save/comment prompt; close or mark blocked active 2h/24h result loops before scaling more near-duplicates.
+- Issues/watch: Airtable import is fresh (~30.1m), TikTok analytics lastUpdated is ~37.4m old, and snapshot issues are empty. Hourly Zernio draft factory live state is verified paused (`enabled=false`, `state=paused`) pending manual-batch reconciliation; no public posting/no spending.
+- Lesson/rule: concrete ChatGPT work-output transformations are still the growth lane. Treat the protected GenLabs product-photo/10-baht/no-prompt phrase as CTA copy only, not hook/topic evidence; watch low-absolute-view velocity candidates without pivoting away from the >2x-average onboarding breakout until result closure is done.
+
+<!-- ZG-DLOG-2026-05-03-1800-breakout-watch -->
+### 2026-05-03 18:00 UTC — Breakout watch
+- KPI: best post remains ChatGPT 8 productivity tips (7634027210248097042) at 12,229 views; gap to 100,000 = 87,771. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: employee onboarding/doc-reading workflow (7635310153126087954) at 5,177 views after 26.96h; +142 since the 17:30 snapshot (~281.44 views/hr); 38 shares; 2.55% engagement; ~5.0x channel average. Breakout reasons: recent_views_2x_average and high_velocity_since_last_snapshot.
+- Secondary watch: newest storefront/shelf-signage workflow (7635687022018972935) is the strongest early-velocity post at 239 views after 2.58h, +175 since baseline (~346.84/hr), 4.60% engagement; monitor one more normal window before scaling because absolute views are still low.
+- Action: updated compact JSON memory, Obsidian memory, and the existing Open Loops production/result-closure handoff instead of creating a duplicate task. Draft-only amplification stays focused on one problem-first onboarding/docs remix, three CTA-stripped variations, one follow-up hook, and a save/comment prompt; factory remains paused pending manual-batch reconciliation, so no public posting/no spending.
+- Watch: Airtable import is fresh (~30.1m), TikTok analytics update age is ~37.4m, and snapshot issues are empty. Close or mark blocked active 2h/4h/24h result loops before scaling more near-duplicate variants.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-03-1830-breakout-watch -->
+### 2026-05-03 18:30 UTC — Breakout watch
+- KPI: best post remains ChatGPT 8 productivity tips (7634027210248097042) at 12,229 views; gap to 100,000 = 87,771. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: employee onboarding/doc-reading workflow (7635310153126087954) at 5,177 views after 27.46h; current same-window delta is 0, but preserve the 18:00 confirmed normal-baseline momentum of +142 views since 17:30 (~281.44 views/hr); 38 shares; 2.55% engagement; ~5.0x channel average. Current breakout reason: recent_views_2x_average.
+- Baseline caveat: TikTok/Zernio analytics lastUpdated stayed 2026-05-03 17:23:11 UTC (~67.2m old), so the 18:30 zero delta should not erase the previous confirmed acceleration. Confirm again in the next normal analytics window.
+- Action: updated compact JSON memory, Obsidian memory, and the existing Open Loops production/result-closure handoff instead of creating a duplicate task. Draft-only amplification stays focused on one problem-first onboarding/docs remix, three CTA-stripped variations, one follow-up hook, and a save/comment prompt; factory remains paused pending manual-batch reconciliation, so no public posting/no spending.
+- Watch: Airtable import is fresh (~28.5m) and snapshot issues are empty. Close or mark blocked active 2h/4h/24h result loops before scaling more near-duplicate variants.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-03-1832-issue-check -->
+### 2026-05-03 18:32 UTC — Hermes Issue Check
+- CTA regression scan: no current unsafe durable winner/hook/topic/weak-pattern regression found in local memory, Obsidian Zernio memory/daily log/Open Loops, active scripts, or cron prompts; current labels keep 7634027210248097042 as ChatGPT 8 practical productivity/workflow tips, not protected product-photo/10-baht/no-prompt CTA.
+- Data/freshness: fresh import at 18:31; snapshot 18:32 best=12,291/gap=87,709; onboarding/doc-reading breakout=5,232 views after 27.50h, +55 since 18:30, 38 shares, 2.52% engagement; TikTok analytics lastUpdated 18:28; snapshot issues empty. Baseline caveat: 18:32 hourly velocity is refresh-window inflated because previous_seen_at=18:30 and the minimum update interval is 15m; preserve the 18:00 confirmed +142/~281/hr until the next normal baseline.
+- Issue: learning loop blocker remains active 2h/4h/24h experiment result closure; production blocker remains hourly draft factory `a97a7703af32` paused pending manual-batch reconciliation.
+- Fix: updated compact JSON memory, Zernio Growth Memory, and existing Open Loops instead of creating duplicate tasks; verified live factory state `enabled=false/state=paused` and growth crons are scheduled/last_status ok. Closed the satisfied AI Signal Radar lightweight-slice monitor because the scheduled dry-run has last_status=ok; broad collector repair remains open. Draft-only/no public posting/no spending.
+- Prevention: keep protected CTA guarded, close or mark blocked/no-result before new near-duplicate experiments, and only trust fresh-import small-window velocity as absolute delta until a normal baseline confirms it.
+
+<!-- ZG-DLOG-2026-05-03-1900-breakout-watch -->
+### 2026-05-03 19:00 UTC — Breakout watch
+- KPI: best post remains ChatGPT 8 productivity tips (7634027210248097042) at 12,291 views; gap to 100,000 = 87,709. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: employee onboarding/doc-reading workflow (7635310153126087954) at 5,232 views after 27.96h; +55 since the 18:30 snapshot (~108.8/hr); 38 shares; 2.52% engagement; ~5.0x channel average. Breakout reasons: recent_views_2x_average and high_velocity_since_last_snapshot.
+- Secondary watch: newest storefront/shelf-signage workflow (7635687022018972935) is the strongest early-velocity post by current delta at 326 views after 3.59h, +87 since 18:30 (~172.1/hr), 3.68% engagement; monitor one more normal window before scaling because absolute views are still low.
+- Action: updated compact JSON memory, Obsidian memory, and the existing Open Loops production/result-closure handoff instead of creating a duplicate task. Draft-only amplification stays focused on one problem-first onboarding/docs remix, three CTA-stripped variations, one follow-up hook, and a save/comment prompt; factory remains paused pending manual-batch reconciliation, so no public posting/no spending.
+- Watch: Airtable import is fresh (~29.2m), TikTok analytics update age is ~32.2m, and snapshot issues are empty. Close or mark blocked active 2h/4h/24h result loops before scaling more near-duplicate variants.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-03-1930-breakout-watch -->
+### 2026-05-03 19:30 UTC — Breakout watch
+- KPI: best post remains ChatGPT 8 productivity tips (7634027210248097042) at 12,291 views; gap to 100,000 = 87,709. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: employee onboarding/doc-reading workflow (7635310153126087954) at 5,232 views after 28.46h; current snapshot delta is 0, but it remains ~5.0x channel average with 38 shares and 2.52% engagement. Current breakout reason: recent_views_2x_average.
+- Baseline caveat: TikTok/Zernio analytics lastUpdated stayed 2026-05-03 18:28:31 UTC (~62.4m old), so preserve the 19:00 confirmed momentum of +55 views since 18:30 (~108.8/hr) until the next normal analytics update; do not treat the same-view 19:30 snapshot as failure.
+- Action: updated compact JSON memory, Obsidian memory, and the existing Open Loops production/result-closure handoff instead of creating a duplicate task. Draft-only amplification stays focused on one problem-first onboarding/docs remix, three CTA-stripped variations, one follow-up hook, and a save/comment prompt; factory remains paused pending manual-batch reconciliation, so no public posting/no spending.
+- Watch: Airtable import is fresh (~29.1m) and snapshot issues are empty. Close or mark blocked active 2h/4h/24h result loops before scaling more near-duplicate variants.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-03-2000-breakout-watch -->
+### 2026-05-03 20:00 UTC — Breakout watch
+- KPI: best post remains ChatGPT 8 productivity tips (7634027210248097042) at 12,291 views; gap to 100,000 = 87,709. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: employee onboarding/doc-reading workflow (7635310153126087954) at 5,232 views after 28.96h; current snapshot delta is 0, but it remains ~5.0x channel average with 38 shares and 2.52% engagement. Current breakout reason: recent_views_2x_average.
+- Baseline caveat: TikTok/Zernio analytics lastUpdated stayed 2026-05-03 18:28:31 UTC (~91.9m old), so preserve the 19:00 confirmed momentum of +55 views since 18:30 (~108.8/hr) until the next normal analytics update; do not treat the same-view 20:00 snapshot as failure.
+- Action: updated compact JSON memory, Obsidian memory, and the existing Open Loops production/result-closure handoff instead of creating a duplicate task. Draft-only amplification stays focused on one problem-first onboarding/docs remix, three CTA-stripped variations, one follow-up hook, and a save/comment prompt; factory remains paused pending manual-batch reconciliation, so no public posting/no spending.
+- Watch: Airtable import is fresh (~29.3m) and snapshot issues are empty. Close or mark blocked active 2h/4h/24h result loops before scaling more near-duplicate variants.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+
+<!-- ZG-DLOG-2026-05-03-2000-growth-check -->
+### 2026-05-03 20:00 UTC — Hermes Growth Check
+- KPI: best/closest post remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 12,291 views; gap 87,709 to 100,000.
+- Signal: strongest actionable breakout remains TikTok 7635310153126087954, CTA-stripped workflow = employee onboarding/doc-reading → one-page 30-day plan + owner/deadline/risk. Current 20:00 snapshot has 5,232 views after ~28.96h, 38 shares, 2.52% engagement, ~5.0x channel average, and breakout reason `recent_views_2x_average`; same-window delta is 0 because TikTok analytics lastUpdated stayed 2026-05-03 18:28:31 UTC (~91.9m old), so preserve the 19:00 confirmed +55/~108.8/hr momentum until the next normal analytics update.
+- Action: updated compact JSON memory, Obsidian memory, and the existing Open Loops production/result-closure handoff instead of creating duplicate experiments. Draft-only next action remains one problem-first onboarding/docs carousel/script, one follow-up hook, and an explicit save/comment prompt; close or mark blocked active 2h/4h/24h result loops before scaling more near-duplicates.
+- Issues/watch: Airtable import is fresh (~29.3m) and snapshot issues are empty; TikTok analytics update age is ~91.9m, so watch the next import/snapshot for sync freshness. Hourly Zernio draft factory live state verified `enabled=false`, `state=paused`; keep paused pending manual-batch reconciliation. No public posting/no spending.
+- Lesson/rule: concrete ChatGPT work-output transformations remain the growth lane. Treat the protected GenLabs product-photo/10-baht/no-prompt phrase as CTA copy only, not hook/topic evidence; update existing result-closure tasks rather than creating more near-duplicate remixes.
+
+<!-- ZG-DLOG-2026-05-03-2030-breakout-watch -->
+### 2026-05-03 20:30 UTC — Breakout watch
+- KPI: best post remains ChatGPT 8 productivity tips (7634027210248097042) at 12,321 views; gap to 100,000 = 87,679. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: employee onboarding/doc-reading workflow (7635310153126087954) at 5,259 views after 29.47h; +27 since the 20:00 snapshot (~52.34 views/hr); 39 shares; 2.53% engagement; ~5.0x channel average. Breakout reasons: recent_views_2x_average and high_velocity_since_last_snapshot.
+- Action: updated compact JSON memory, Obsidian memory, and the existing Open Loops production/result-closure handoff instead of creating a duplicate task. Draft-only amplification stays focused on one problem-first onboarding/docs remix, three CTA-stripped variations, one follow-up hook, and a save/comment prompt; factory remains paused pending manual-batch reconciliation, so no public posting/no spending.
+- Watch: Airtable import is fresh (~29.8m), TikTok analytics update age is ~56.2m, and snapshot issues are empty. Close or mark blocked active 2h/4h/24h result loops before scaling more near-duplicate variants.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-03-2100-breakout-watch -->
+### 2026-05-03 21:00 UTC — Breakout watch
+- KPI: best post remains ChatGPT 8 productivity tips (7634027210248097042) at 12,321 views; gap to 100,000 = 87,679. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: employee onboarding/doc-reading workflow (7635310153126087954) at 5,259 views after 29.95h; current delta is 0, but it remains ~5.0x channel average with 39 shares and 2.53% engagement. Current breakout reason: recent_views_2x_average.
+- Baseline caveat: views were unchanged since the 20:31 confirmed baseline and TikTok/Zernio analytics lastUpdated stayed 2026-05-03 19:35:14 UTC (~85.0m old), so preserve the 20:31 confirmed +27 views since 20:00 (~52.34/hr) until the next normal analytics update; do not treat the same-view 21:00 snapshot as failure.
+- Action: updated compact JSON memory, Obsidian memory, and the existing Open Loops production/result-closure handoff instead of creating a duplicate task. Draft-only amplification stays focused on one problem-first onboarding/docs remix, three CTA-stripped variations, one follow-up hook, and a save/comment prompt; factory remains paused pending manual-batch reconciliation, so no public posting/no spending.
+- Watch: Airtable import is fresh (~26.7m), TikTok analytics update age is ~85.0m, and snapshot issues are empty. Close or mark blocked active 2h/4h/24h result loops before scaling more near-duplicate variants.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-03-2130-breakout-watch -->
+### 2026-05-03 21:30 UTC — Breakout watch
+- KPI: best post remains ChatGPT 8 productivity tips (7634027210248097042) at 12,339 views; gap to 100,000 = 87,661. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: employee onboarding/doc-reading workflow (7635310153126087954) at 5,274 views after 30.46h; +15 since the 21:00 snapshot (~29.34/hr); 39 shares; 2.52% engagement; ~5.0x channel average. Breakout reason: recent_views_2x_average.
+- Action: updated compact JSON memory, Obsidian memory, and the existing Open Loops production/result-closure handoff instead of creating a duplicate task. Draft-only amplification stays focused on one problem-first onboarding/docs remix, three CTA-stripped variations, one follow-up hook, and a save/comment prompt; factory remains paused pending manual-batch reconciliation, so no public posting/no spending.
+- Watch: Airtable import is fresh (~29.4m), TikTok analytics update age is ~49.4m, and snapshot issues are empty. Close or mark blocked active 2h/4h/24h result loops before scaling more near-duplicate variants.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-03-2200-growth-check -->
+### 2026-05-03 22:00 UTC — Growth check
+- KPI: best post remains ChatGPT 8 productivity tips (7634027210248097042) at 12,339 views; gap to 100,000 = 87,661. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Signal: onboarding/doc-reading workflow (7635310153126087954) remains the active breakout candidate at 5,274 views after 30.96h, 39 shares, 2.52% engagement, and ~5.0x channel average. Current 22:00 delta is 0 because views were unchanged from 21:30 while TikTok analytics lastUpdated stayed 2026-05-03 20:41:29 UTC (~78.9m old); preserve the 21:30 confirmed +15 views since 21:00 (~29.34/hr) until the next normal analytics update.
+- Action: synced compact JSON memory, Obsidian memory, and the existing Open Loops production/result-closure handoff instead of creating duplicate remix tasks. Next action stays one draft-only problem-first onboarding/docs remix plus result closure for active 2h/4h/24h loops; no public posting/no spending while the hourly factory remains paused.
+- Issues: Airtable import is fresh (~28.2m) and snapshot issues are empty. Operational issue remains result closure/blocked-no-result marking for active ChatGPT/onboarding experiments before scaling more near-duplicates.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-03-2200-breakout-watch -->
+### 2026-05-03 22:00 UTC — Breakout watch
+- KPI: best post remains ChatGPT 8 productivity tips (7634027210248097042) at 12,339 views; gap to 100,000 = 87,661. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: employee onboarding/doc-reading workflow (7635310153126087954) at 5,274 views after 30.96h; current same-window delta is 0 because views were unchanged since the 21:30 baseline; preserve the 21:30 confirmed +15 since 21:00 (~29.34/hr); 39 shares; 2.52% engagement; ~5.0x channel average. Breakout reason: recent_views_2x_average.
+- Action: updated compact JSON memory, Obsidian memory, and the existing Open Loops production/result-closure handoff instead of creating a duplicate task. Draft-only amplification stays focused on one problem-first onboarding/docs remix, three CTA-stripped variations, one follow-up hook, and a save/comment prompt; factory remains paused pending manual-batch reconciliation, so no public posting/no spending.
+- Watch: Airtable import is fresh (~28.2m), TikTok analytics update age is ~78.9m, and snapshot issues are empty. Close or mark blocked active 2h/4h/24h result loops before scaling more near-duplicate variants.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-03-2230-breakout-watch -->
+### 2026-05-03 22:30 UTC — Breakout watch
+- KPI: best post remains ChatGPT 8 productivity tips (7634027210248097042) at 12,360 views; gap to 100,000 = 87,640. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: onboarding/doc-reading workflow (7635310153126087954) at 5,279 views after 31.45h; +5 since the 22:00 snapshot (~10.03/hr); 39 shares; 2.52% engagement; ~5.0x channel average. Breakout reason: recent_views_2x_average.
+- Action: updated compact JSON memory, Obsidian memory, and the existing Open Loops production/result-closure handoff instead of creating a duplicate task. Draft-only amplification stays focused on one problem-first onboarding/docs remix, three CTA-stripped variations, one follow-up hook, and a save/comment prompt; factory remains paused pending manual-batch reconciliation, so no public posting/no spending.
+- Watch: Airtable import is fresh (~28.2m), TikTok analytics update age is ~43.4m, and snapshot issues are empty. Close or mark blocked active 2h/4h/24h result loops before scaling more near-duplicate variants.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-03-2300-breakout-watch -->
+### 2026-05-03 23:00 UTC — Breakout watch
+- KPI: best post remains ChatGPT 8 productivity tips (7634027210248097042) at 12,360 views; gap to 100,000 = 87,640. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: onboarding/doc-reading workflow (7635310153126087954) at 5,279 views after 31.95h; current same-window delta is 0 because views were unchanged since 22:30; preserve the 22:30 confirmed +5 views since 22:00 (~10.03/hr); 39 shares; 2.52% engagement; ~5.0x channel average. Breakout reason: recent_views_2x_average.
+- Baseline caveat: TikTok/Zernio analytics lastUpdated stayed 2026-05-03 21:46:54 UTC (~73.3m old), so do not treat the 23:00 zero delta as failure. Confirm again in the next normal analytics window.
+- Action: updated compact JSON memory, Obsidian memory, and the existing Open Loops production/result-closure handoff instead of creating a duplicate task. Draft-only amplification stays focused on one problem-first onboarding/docs remix, three CTA-stripped variations, one follow-up hook, and a save/comment prompt; factory remains paused pending manual-batch reconciliation, so no public posting/no spending.
+- Watch: Airtable import is fresh (~28.5m), snapshot issues are empty, and active 2h/4h/24h result loops still need closure or blocked/no-result marking before scaling more near-duplicate variants.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-03-2330-breakout-watch -->
+### 2026-05-03 23:30 UTC — Breakout watch
+- KPI: best post remains ChatGPT 8 productivity tips (7634027210248097042) at 12,381 views; gap to 100,000 = 87,619. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: onboarding/doc-reading workflow (7635310153126087954) at 5,293 views after 32.47h; +14 views since the 23:00 snapshot (~27.29/hr); 39 shares; 2.51% engagement; ~5.0x channel average. Breakout reason: recent_views_2x_average.
+- Action: updated compact JSON memory, Obsidian memory, and the existing Open Loops production/result-closure handoff instead of creating a duplicate task. Draft-only amplification stays focused on one problem-first onboarding/docs remix, three CTA-stripped variations, one follow-up hook, and a save/comment prompt; factory remains paused pending manual-batch reconciliation, so no public posting/no spending.
+- Watch: Airtable import is fresh (~29.5m), TikTok analytics update age is ~37.3m, snapshot issues are empty, and active 2h/4h/24h result loops still need closure or blocked/no-result marking before scaling more near-duplicate variants.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-04-0000-growth-check -->
+### 2026-05-04 00:00 UTC — Growth Check
+- KPI: best/closest post remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 12,381 views; gap 87,619 to 100,000.
+- Signal: strongest actionable breakout remains TikTok 7635310153126087954, CTA-stripped workflow = employee onboarding/doc-reading → one-page 30-day plan + owner/deadline/risk. Current 00:00 snapshot has 5,293 views after 32.96h, 39 shares, 2.51% engagement, ~5.0x channel average, and breakout reason `recent_views_2x_average`; same-window delta is 0, so preserve the 23:31 confirmed +14 since 23:00 (~27.29/hr) until the next normal analytics window.
+- Action: updated compact JSON memory, Obsidian memory, and the existing Open Loops production/result-closure handoff instead of creating duplicate experiments. Draft-only next action remains one problem-first onboarding/docs carousel/script, one follow-up hook, and explicit save/comment prompt; close or mark blocked active 2h/4h/24h result loops before scaling more near-duplicates.
+- Issues/watch: Airtable import is fresh (~28.5m), snapshot issues are empty, and TikTok analytics lastUpdated is ~66.8m old; watch the next import/snapshot. Hourly Zernio draft factory live state is verified paused (`enabled=false`, `state=paused`) pending manual-batch reconciliation; no public posting/no spending.
+- Lesson/rule: preserve confirmed breakout momentum during same-window zero-delta checks and prioritize result closure over more near-duplicate ChatGPT remixes. The protected GenLabs product-photo/10-baht/no-prompt phrase remains CTA copy only, not hook/topic evidence.
+
+<!-- ZG-DLOG-2026-05-04-0000-breakout-watch -->
+### 2026-05-04 00:00 UTC — Breakout watch
+- KPI: best post remains ChatGPT 8 productivity tips (7634027210248097042) at 12,381 views; gap to 100,000 = 87,619. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: onboarding/doc-reading workflow (7635310153126087954) at 5,293 views after 32.96h; current same-window delta is 0 because the 23:55 baseline already captured the current view count, so preserve the 23:31 confirmed +14 since 23:00 (~27.29/hr); 39 shares; 2.51% engagement; ~5.0x channel average. Breakout reason: recent_views_2x_average.
+- Baseline caveat: Airtable import is fresh (~28.5m) but TikTok analytics lastUpdated is ~66.8m old; do not treat the zero delta as dead momentum until the next normal analytics/baseline window confirms it.
+- Action: updated compact JSON memory, Obsidian memory, and the existing Open Loops production/result-closure handoff instead of creating a duplicate task. Draft-only amplification stays focused on one problem-first onboarding/docs remix, three CTA-stripped variations, one follow-up hook, and a save/comment prompt; factory remains paused pending manual-batch reconciliation, so no public posting/no spending.
+- Watch: snapshot issues are empty, breakout reason remains recent_views_2x_average, and active 2h/4h/24h result loops still need closure or blocked/no-result marking before scaling more near-duplicate variants.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DAILY-2026-05-04-0000-EXPERIMENT-CREATOR -->
+### 2026-05-04 00:00 UTC — Experiment Creator
+- KPI: best post remains ChatGPT 8 productivity tips (7634027210248097042) at 12,381 views; gap to 100,000 = 87,619. This is practical-workflow evidence, not a protected GenLabs CTA/product-photo signal.
+- Data signal: ChatGPT practical tips are the current winner; onboarding/doc-reading workflow (7635310153126087954) is the current breakout at 5,293 views, 39 shares, and ~5.0x channel average. Sway direction: prioritize ChatGPT and NotebookLM because they appear popular in Thailand.
+- Experiments created draft-only: (1) ChatGPT LINE OA/admin FAQ builder — 8 tips; (2) NotebookLM SOP/product knowledge team coach — 7 tips; (3) Canva AI seller promo asset kit — 7 tips. These are new practical numbered-tip lanes, not duplicate onboarding/meeting-note remixes.
+- Next action: feed these three source briefs into the post factory/future drafts only after safe factory reconciliation; keep public posting disabled/no spending while the hourly educational factory remains paused. Close older ChatGPT/onboarding 2h/24h result loops before scaling near-duplicates.
+- Protected CTA: reusable GenLabs CTA remains promo copy only; learn from educational_signal/body and tool-workflow performance.
+
+<!-- ZG-DLOG-2026-05-04-0030-breakout-watch -->
+### 2026-05-04 00:30 UTC — Breakout watch
+- KPI: best/closest post remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 12,460 views; gap 87,540 to 100,000. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: ChatGPT practical productivity winner (7634027210248097042) re-accelerated with +79 views since the 23:55 baseline (~136.18/hr), 188 shares, 4.33% engagement, and breakout reason `high_velocity_since_last_snapshot`.
+- Secondary watch: onboarding/doc-reading workflow (7635310153126087954) is still above average at 5,316 views after 33.46h, +23 since last snapshot (~39.65/hr), 39 shares, 2.5% engagement, reason `recent_views_2x_average`.
+- Action: updated compact JSON memory, Zernio Growth Memory, and existing Open Loops handoffs instead of spawning duplicate near-duplicate tasks. Draft-only amplification: three ChatGPT practical-work remix angles (self-review, onboarding 30-day plan, project brief/action-items), one follow-up/comment prompt, and closure of active LINE OA/NotebookLM experiment results before scaling.
+- Watch: Airtable import is fresh (~28.4m), TikTok analytics update age is ~30.1m, snapshot issues are empty, and hourly educational Zernio factory remains paused pending manual-batch reconciliation; no public posting/no spending.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+
+<!-- ZG-DLOG-2026-05-04-0030-issue-check -->
+### 2026-05-04 00:30 UTC — Hermes Issue Check
+- Issue: compact memory was losing open experiment accountability because `zernio_growth_snapshot.py` trimmed `active_experiments` to the newest 3, hiding the 2026-05-03 12:00 onboarding/feedback/meeting experiments before their 4h/24h continue/stop/remix closure. The Prompt Drop 5-set draft factory was also paused without an explicit `paused_reason`.
+- Fix: patched the snapshot script so it no longer trims `active_experiments`; restored all 6 open experiments into compact memory from Obsidian; updated the existing Open Loops result-closure gate instead of adding a duplicate; set explicit paused_reason on cron `465464d576f2`. Hourly educational factory `a97a7703af32` remains correctly paused with explicit reason; no draft-factory processes were running.
+- Current evidence: best/closest post is TikTok 7634027210248097042 = ChatGPT 8 productivity/workflow tips at 12,460 views, 188 shares, +79 since baseline (~136.18/hr), gap 87,540. Secondary breakout: onboarding/doc-reading workflow 7635310153126087954 at 5,316 views, 39 shares, +23 (~39.65/hr), ~5.0x channel average.
+- CTA guard: no current unsafe winner/hook/topic/weak-pattern classification found; the repeated GenLabs 10-baht/no-prompt text remains protected CTA copy only, not performance evidence.
+- Prevention: keep all open experiments visible until closed/blocked, keep production pauses explicit, and close older result loops before creating more near-duplicate ChatGPT/onboarding variants. Draft-only/no public posting/no spending.
+
+<!-- ZG-DLOG-2026-05-04-0100-breakout-watch -->
+### 2026-05-04 01:00 UTC — Breakout watch
+- KPI: best/closest post remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 12,460 views; gap 87,540 to 100,000. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: onboarding/doc-reading workflow (7635310153126087954) remains above average at 5,316 views after 33.96h, 39 shares, 2.5% engagement, and reason `recent_views_2x_average` (~5.0x channel average).
+- Baseline caveat: the 01:00 snapshot shows 0 new views because TikTok/Zernio analytics lastUpdated is still 2026-05-04 00:00:13. Preserve the confirmed 00:30 momentum until the next normal baseline: ChatGPT productivity winner +79 (~136.18/hr), onboarding/docs +23 (~39.65/hr).
+- Action: updated compact JSON memory, Zernio Growth Memory, and existing Open Loops handoffs instead of spawning duplicate tasks. Keep work draft-only: execute/QA existing practical-work remix handoff, add the save/comment prompt, and close 2h/4h/24h result loops before scaling near-duplicates.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-04-0130-breakout-watch -->
+### 2026-05-04 01:30 UTC — Breakout watch
+- KPI: best/closest post remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 12,460 views; gap 87,540 to 100,000. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: onboarding/doc-reading workflow (7635310153126087954) remains above average at 5,316 views after 34.46h, 39 shares, 2.5% engagement, and reason `recent_views_2x_average` (~5.0x channel average).
+- Baseline caveat: the 01:30 snapshot shows 0 new views because TikTok/Zernio analytics lastUpdated is still 2026-05-04 00:00:13 (~90.5m old). Preserve the confirmed 00:30 momentum until the next normal baseline: ChatGPT productivity winner +79 (~136.18/hr), onboarding/docs +23 (~39.65/hr).
+- Action: updated compact JSON memory, Zernio Growth Memory, and existing Open Loops handoffs instead of spawning duplicate tasks. Keep work draft-only: execute/QA existing practical-work remix handoff, add the save/comment prompt, and close 2h/4h/24h result loops before scaling near-duplicates.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-04-0200-growth-check -->
+### 2026-05-04 02:00 UTC — Growth Check
+- KPI: best/closest post remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 12,662 views; gap 87,338 to 100,000. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Signal: primary breakout is the ChatGPT practical productivity winner with +202 views since 01:30 (~413.1/hr refresh-window velocity), 191 shares, 4.34% engagement, and 1.508% share rate. Secondary breakout: onboarding/doc-reading workflow 7635310153126087954 at 5,353 views, +37 (~75.67/hr), 39 shares, ~5.0x channel average.
+- Action: updated compact JSON memory, Zernio Growth Memory, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Draft-only next action remains ChatGPT practical-work remix QA/closure: self-review, onboarding 30-day plan, and project brief/action-items; keep NotebookLM/SOP as secondary input.
+- Issues/watch: Airtable import is fresh (~28.3m), snapshot issues are empty, TikTok analytics lastUpdated is 2026-05-04 01:06:06 (~54.0m old), and hourly educational Zernio factory remains verified paused pending manual-batch reconciliation; no public posting/no spending.
+- Lesson/rule: analytics can re-accelerate after stale zero-delta windows; use absolute view deltas/share counts for action but treat hourly velocity as refresh-window inflated until the next normal baseline confirms sustained pace. Protected GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-04-0200-breakout-watch -->
+### 2026-05-04 02:00 UTC — Breakout watch
+- KPI: best/closest post remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 12,662 views; gap 87,338 to 100,000. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: ChatGPT practical productivity winner (7634027210248097042) re-accelerated with +202 views since the 01:30 baseline (~413.1/hr refresh-window velocity), 191 shares, 4.34% engagement, and reason `high_velocity_since_last_snapshot`.
+- Secondary watch: onboarding/doc-reading workflow (7635310153126087954) remains above average at 5,353 views after 34.95h, +37 since last snapshot (~75.67/hr), 39 shares, 2.5% engagement, reasons `recent_views_2x_average` + `high_velocity_since_last_snapshot`.
+- Action: synchronized compact JSON memory/Zernio Growth Memory with the same-window growth-check evidence and updated existing Open Loops handoffs instead of spawning duplicate tasks. Keep work draft-only: execute/QA the practical-work remix handoff, add the save/comment prompt, and close 2h/4h/24h result loops before scaling near-duplicates.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-04-0230-breakout-watch -->
+### 2026-05-04 02:30 UTC — Breakout watch
+- KPI: best/closest post remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 12,662 views; gap 87,338 to 100,000. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: current snapshot flags onboarding/doc-reading workflow (7635310153126087954) at 5,353 views after 35.46h; current same-window delta is 0, but it remains ~5.0x channel average with 39 shares and reason `recent_views_2x_average`. Preserve 02:00 confirmed +37 (~75.67/hr) until the next normal analytics update.
+- Primary KPI watch: ChatGPT productivity winner (7634027210248097042) stayed at 12,662 views with 191 shares and 4.34% engagement; preserve 02:00 confirmed +202 since 01:30 (~413.1/hr refresh-window velocity) because TikTok/Zernio analytics lastUpdated stayed 2026-05-04 01:06:06 (~84.6m old).
+- Action: updated compact JSON memory, Zernio Growth Memory, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Keep work draft-only: execute/QA the practical-work remix handoff, add the save/comment prompt, and close 2h/4h/24h result loops before scaling near-duplicates; hourly educational factory remains paused pending reconciliation.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-04-0300-breakout-watch -->
+### 2026-05-04 03:00 UTC — Breakout watch
+- KPI: best/closest post remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 12,783 views; gap 87,217 to 100,000. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: ChatGPT practical productivity winner (7634027210248097042) re-accelerated again with +121 views since the 02:30 baseline (~232.45/hr), 193 shares, 4.34% engagement, 1.51% share rate, and reason `high_velocity_since_last_snapshot`.
+- Secondary watch: onboarding/doc-reading workflow (7635310153126087954) remains above average at 5,394 views after 35.98h, +41 since last snapshot (~78.76/hr), 39 shares, 2.52% engagement, reasons `recent_views_2x_average` + `high_velocity_since_last_snapshot`.
+- Action: synchronized compact JSON memory, Zernio Growth Memory, local task evidence, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Keep work draft-only: execute/QA the practical-work remix handoff, add the save/comment prompt, and close 2h/4h/24h result loops before scaling near-duplicates; hourly educational factory remains paused pending reconciliation.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-04-0330-breakout-watch -->
+### 2026-05-04 03:30 UTC — Breakout watch (03:34 freshness verification)
+- KPI: best/closest post remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 12,854 views; gap 87,146 to 100,000. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: current fresh verification flags the ChatGPT practical productivity winner (7634027210248097042) at +71 absolute views since 03:30, 194 shares, 4.35% engagement, and 1.51% share rate. Treat the computed ~924.33/hr as refresh-window inflated because the verification landed inside the 15-minute baseline window after a fresh import.
+- Secondary watch: onboarding/doc-reading workflow (7635310153126087954) remains above average at 5,443 views after 36.53h, +49 absolute views since 03:30, 39 shares, 2.5% engagement, and reasons `recent_views_2x_average` + `high_velocity_since_last_snapshot`; treat ~637.92/hr as refresh-window inflated until the next normal baseline.
+- Action: updated compact JSON memory, Zernio Growth Memory, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Keep work draft-only: execute/QA the practical-work remix handoff, add the save/comment prompt, and close 2h/4h/24h result loops before scaling near-duplicates; hourly educational factory remains paused pending reconciliation.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-04-0400-growth-check -->
+### 2026-05-04 04:00 UTC — Growth check
+- KPI: best/closest post remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 12,854 views; gap 87,146 to 100,000. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Signal: primary watch has +71 views since the 03:30 baseline (~141.96/hr), 194 shares, 4.35% engagement, 1.51% share rate, and reason `high_velocity_since_last_snapshot`. Caveat: the count matches the 03:34 fresh-import verification, so treat velocity as import-refresh carry-forward until the next analytics window confirms new growth.
+- Secondary watch: onboarding/doc-reading workflow (7635310153126087954) remains above average at 5,443 views after 36.95h, +49 since 03:30 (~97.97/hr), 39 shares, 2.5% engagement, reasons `recent_views_2x_average` + `high_velocity_since_last_snapshot`.
+- Action: updated compact JSON memory, Zernio Growth Memory, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Keep work draft-only: close/mark blocked active 2h/4h/24h experiment loops, then execute/QA the strongest practical-work remix handoff when the hourly educational factory pause is reconciled.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-04-0400-breakout-watch -->
+### 2026-05-04 04:00 UTC — Breakout watch
+- KPI: best/closest post remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 12,854 views; gap 87,146 to 100,000. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: ChatGPT practical productivity winner (7634027210248097042) remains primary by KPI leverage and share volume with +71 views since the 03:30 baseline (~141.97/hr computed), 194 shares, 4.35% engagement, and 1.51% share rate; analytics lastUpdated is 2026-05-04 03:17:27 (~42.9m old), so keep this as watch evidence until the next fresh TikTok analytics refresh confirms continued pace.
+- Secondary watch: onboarding/doc-reading workflow (7635310153126087954) remains above average at 5,443 views after 36.95h, +49 since last baseline (~97.98/hr), 39 shares, 2.5% engagement, ~5.18x channel average, reasons `recent_views_2x_average` + `high_velocity_since_last_snapshot`.
+- Action: synchronized compact JSON memory, Zernio Growth Memory, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Keep work draft-only: execute/QA the practical-work remix handoff, add the save/comment prompt, and close 2h/4h/24h result loops before scaling near-duplicates; hourly educational factory remains paused pending reconciliation.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-04-0500-breakout-watch -->
+### 2026-05-04 05:00 UTC — Breakout watch
+- KPI: best/closest post remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 12,854 views; gap 87,146 to 100,000. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: onboarding/doc-reading workflow (7635310153126087954) remains the current snapshot candidate at 5,443 views after 37.95h, 39 shares, 2.5% engagement, and ~5.18x channel average; current 05:00 reason is `recent_views_2x_average`.
+- Primary KPI watch: ChatGPT productivity winner stayed at 12,854 views with 194 shares; same-window delta is 0 because TikTok/Zernio analytics lastUpdated stayed 2026-05-04 03:17:27 (~102.6m old). Preserve the 04:00 confirmed +71 primary and +49 secondary momentum until the next fresh analytics window.
+- Action: synchronized compact JSON memory, Zernio Growth Memory, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Keep work draft-only: execute/QA the practical-work remix handoff, add the save/comment prompt, and close or mark blocked 2h/4h/24h result loops before scaling near-duplicates; hourly educational factory remains paused pending reconciliation.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-04-0530-breakout-watch -->
+### 2026-05-04 05:30 UTC — Breakout watch
+- KPI: best/closest post remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 12,930 views; gap 87,070 to 100,000. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: ChatGPT practical productivity winner (7634027210248097042) is primary by KPI leverage and share volume with +76 views since the 05:00 baseline (~148.58/hr), 194 shares, 4.35% engagement, and 1.50% share rate; analytics lastUpdated advanced to 2026-05-04 04:23:15 (~67.5m old), so treat this as fresh-normal breakout evidence while waiting for the next analytics window to confirm pace.
+- Secondary watch: onboarding/doc-reading workflow (7635310153126087954) remains above average at 5,476 views after 38.46h, +33 since 05:00 (~64.52/hr), 39 shares, 2.5% engagement, ~5.18x channel average, reasons `recent_views_2x_average` + `high_velocity_since_last_snapshot`. New prompt-consistency/work-standardization workflow (7635864606426041607) has +60 but only 70 views, so keep it watch-only.
+- Action: synchronized compact JSON memory, Zernio Growth Memory, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Keep work draft-only: execute/QA the practical-work remix handoff, add the save/comment prompt, and close or mark blocked 2h/4h/24h result loops before scaling near-duplicates; hourly educational factory remains paused pending reconciliation.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-04-0600-breakout-watch -->
+### 2026-05-04 06:00 UTC — Breakout watch
+- KPI: best/closest post remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 12,998 views; gap 87,002 to 100,000. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: ChatGPT practical productivity winner (7634027210248097042) remains primary by KPI leverage and share volume with +68 views since the 05:30 baseline (~138.26/hr), 197 shares, 4.38% engagement, and 1.52% share rate; analytics lastUpdated advanced to 2026-05-04 05:29:17 (~31.0m old), so treat this as fresh-normal breakout evidence while waiting for the next analytics window to confirm pace.
+- Secondary watch: onboarding/doc-reading workflow (7635310153126087954) remains above average at 5,504 views after 38.95h, +28 since 05:30 (~56.93/hr), 39 shares, 2.49% engagement, ~5.17x channel average, reasons `recent_views_2x_average` + `high_velocity_since_last_snapshot`. New prompt-consistency/work-standardization workflow (7635864606426041607) is strongest early velocity at 232 views, +162 since 05:30 (~329.39/hr), 2 shares; keep it watch-only until absolute views/shares clear a useful threshold.
+- Action: synchronized compact JSON memory, Zernio Growth Memory, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Keep work draft-only: execute/QA the practical-work remix handoff, add the save/comment prompt, and close or mark blocked 2h/4h/24h result loops before scaling near-duplicates; hourly educational factory remains paused pending reconciliation.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-04-0600-growth-check -->
+### 2026-05-04 06:00 UTC — Growth Check
+- KPI: best/closest post remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 12,998 views; gap 87,002 to 100,000. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Signal: primary KPI watch has +68 views since the 05:30 baseline (~138.26/hr), 197 shares, 4.38% engagement, and 1.52% share rate. Secondary onboarding/doc-reading workflow 7635310153126087954 is at 5,504 views after 38.95h, +28 (~56.93/hr), 39 shares, ~5.17x channel average. Strongest early-velocity post is 7635864606426041607 = prompt-consistency/work-standardization at 232 views after 3.09h, +162 (~329.39/hr), 2 shares; keep watch-only because absolute reach is still low.
+- Action: synced compact JSON memory, Zernio Growth Memory, Daily Log, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Keep work draft-only: close or mark blocked active 2h/4h/24h experiment loops, then execute/QA the practical-work remix handoff (self-review, onboarding 30-day plan, project brief/action-items) and add the save/comment prompt.
+- Issues/watch: snapshot issues are empty; Airtable import is fresh (~28.4m), TikTok analytics lastUpdated is ~31.0m old, and hourly educational Zernio factory remains verified paused pending manual-batch reconciliation. No public posting/no spending. Weak pattern to avoid: generic audience-list intro without a concrete problem-first first line.
+- Lesson/rule: choose the primary amplification candidate by KPI leverage + share volume when the best/closest post is still moving; keep low-absolute-view high-velocity posts watch-only until they clear useful thresholds. Protected GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-04-0630-issue-check -->
+### 2026-05-04 06:30 UTC — Issue Check
+- Issue found: active experiment result closure is still open/overdue, not a CTA-classification regression. All 6 active experiments remain present in compact memory; 3 older 2026-05-03T12:00Z experiments are overdue for 4h/24h closure, and the 2026-05-04T00:00Z LINE OA/NotebookLM/Canva experiments have crossed the 4h measurement window.
+- Fix applied: updated compact memory, Zernio Growth Memory, and the existing Open Loops result-closure task instead of creating duplicate near-duplicate experiment tasks. Since hourly educational factory `a97a7703af32` remains paused, the next action is to mark each open experiment continue/stop/remix if manual evidence exists, or blocked/no-result if no draft/post exists.
+- CTA guard: guarded regression scan found 0 unsafe durable lines that classify the protected GenLabs 10-baht/no-prompt CTA as winner/hook/topic/weak pattern. Post 7634027210248097042 stays classified as ChatGPT 8 practical productivity/workflow content.
+- Automation health: zernio_growth_snapshot.py and zernio_obsidian_daily_log.py compiled; analytics import and five growth crons are enabled/ok; hourly educational factory remains verified paused with explicit paused_reason; AI Signal Radar lightweight dry-run is ok while broad collector repair remains an open loop. Draft-only/no public posting/no spending.
+
+<!-- ZG-DLOG-2026-05-04-0630-breakout-watch -->
+### 2026-05-04 06:30/07:00 UTC — Breakout watch
+- KPI: best/closest post remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 12,998 views; gap 87,002 to 100,000. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: onboarding/doc-reading workflow (7635310153126087954) remains the current snapshot candidate at 5,504 views after 39.96h, 39 shares, 2.49% engagement, and ~5.17x channel average. Current 07:00 reason is `recent_views_2x_average`.
+- Baseline caveat: current 07:00 delta is 0 for both the candidate and the primary KPI post because TikTok/Zernio analytics lastUpdated stayed 2026-05-04 05:29:17 (~91.3m old) even though Airtable import is fresh (~29.1m). Preserve the 06:00 confirmed momentum: ChatGPT productivity winner +68 since 05:30 (~138.26/hr) and onboarding/docs +28 (~56.93/hr) until the next fresh analytics window.
+- Action: synchronized compact JSON memory, Zernio Growth Memory, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Keep work draft-only: execute/QA the practical-work remix handoff, add the save/comment prompt, and close or mark blocked 2h/4h/24h result loops before scaling near-duplicates; hourly educational factory remains paused pending reconciliation.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-04-0730-breakout-watch -->
+### 2026-05-04 07:30 UTC — Breakout watch
+- KPI: best/closest post remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 13,074 views; gap 86,926 to 100,000. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Breakout candidate: ChatGPT practical productivity winner (7634027210248097042) is primary by KPI leverage and share volume with +76 views since the 07:00 baseline (~154.13/hr), 197 shares, 4.38% engagement, and 1.51% share rate; reasons: high_velocity_since_last_snapshot + best/closest post.
+- Secondary watch: onboarding/doc-reading workflow (7635310153126087954) remains above average at 5,542 views after 40.45h, +38 since 07:00 (~77.07/hr), 40 shares, 2.53% engagement, ~5.17x channel average, reasons `recent_views_2x_average` + `high_velocity_since_last_snapshot`. New prompt-consistency/work-standardization workflow (7635864606426041607) is strongest early velocity at 358 views, +126 (~255.54/hr), 3 shares; keep watch-only until absolute views/shares clear a useful threshold.
+- Action: synchronized compact JSON memory, Zernio Growth Memory, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Keep work draft-only: execute/QA the practical-work remix handoff, add the save/comment prompt, and close or mark blocked 2h/4h/24h result loops before scaling near-duplicates; hourly educational factory remains paused pending reconciliation.
+- Watch: Airtable import is fresh (~27.8m), TikTok analytics lastUpdated advanced to 2026-05-04 06:34:33 (~55.6m old), and snapshot issues are empty.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-04-0800-growth-check -->
+### 2026-05-04 08:01 UTC — Growth Check
+- KPI: best/closest post remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 13,074 views; gap 86,926 to 100,000. This is the practical-work-tips winner, not a protected CTA/product-photo signal.
+- Signal: the 08:01 snapshot has current deltas at 0 because TikTok/Zernio analytics lastUpdated stayed 2026-05-04 06:34:33 (~87m old), but the active breakout evidence should not be erased. Preserve the 07:30 confirmed momentum: primary ChatGPT productivity winner +76 since 07:00 (~154.13/hr), onboarding/doc-reading secondary 7635310153126087954 at 5,542 views/40 shares with +38 (~77.07/hr), and prompt-consistency/work-standardization 7635864606426041607 +126 (~255.54/hr) but watch-only because it has only 358 views/3 shares.
+- Action: synced compact JSON memory, Zernio Growth Memory, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Keep work draft-only: close or mark blocked active 2h/4h/24h experiment loops, then execute/QA the practical-work remix handoff (self-review, onboarding 30-day plan, project brief/action-items) and add the save/comment prompt.
+- Issues/watch: snapshot data issues are empty and Airtable import is fresh (~30m), but TikTok analytics age is ~87m; watch the next normal analytics window. Operational issue remains active experiment result closure. Fix applied: patched zernio_growth_snapshot.py so compact memory preserves unresolved operational issues even when data-health issues are empty; regression test and py_compile pass. Hourly educational Zernio factory remains verified paused pending manual-batch reconciliation, so no public posting/no spending.
+- Lesson/rule: same-window zero-delta after a confirmed breakout window is not a stop signal; preserve the latest confirmed momentum and prioritize result closure over more near-duplicate ChatGPT/onboarding remixes. Protected GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-04-0805-breakout-watch -->
+### 2026-05-04 08:05 UTC — Breakout watch
+- KPI: primary KPI watch is TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 13,130 views; gap 86,870 to 100,000; 197 shares. This is practical-work-tips evidence, not the protected GenLabs CTA/product-photo text.
+- Breakout candidate: primary by KPI leverage is the ChatGPT productivity winner (+56 since the 08:01 baseline; hourly velocity is refresh-window inflated). Secondary active breakout remains employee onboarding/doc-reading workflow 7635310153126087954 at 5,557 views/40 shares/~5.17x channel average, +15 since 08:01. Preserve 07:30 normal-baseline momentum before over-scaling: primary +76 (~154.13/hr), secondary +38 (~77.07/hr).
+- Action: updated compact JSON memory, Zernio Growth Memory, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Draft-only/no public posting/no spending: close or mark blocked active 2h/4h/24h loops, then QA/execute the practical-work remix set (self-review, onboarding 30-day plan, project brief/action-items) with the save/comment prompt.
+- Issues/watch: snapshot data issues are empty; operational issue remains result-closure for 6 active experiments. Fix applied this growth run: zernio_growth_snapshot.py now preserves unresolved operational issues in compact memory; regression test and py_compile pass. Hourly educational Zernio factory verified live `enabled=false/state=paused`; keep paused pending manual-batch reconciliation.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-04-0830-breakout-watch -->
+### 2026-05-04 08:30 UTC — Breakout watch
+- KPI: primary KPI watch is TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 13,130 views; gap 86,870 to 100,000; 197 shares. This is practical-work-tips evidence, not the protected GenLabs CTA/product-photo text.
+- Breakout candidate: primary by KPI leverage is the ChatGPT productivity winner (+56 since the 08:01 baseline, ~117.62/hr). Secondary active breakout remains employee onboarding/doc-reading workflow 7635310153126087954 at 5,557 views/40 shares/~5.17x channel average, +15 since 08:01 (~31.51/hr). Watch-only tertiary is prompt-consistency/work-standardization 7635864606426041607 at 382 views/3 shares, +24 (~50.41/hr).
+- Action: updated compact JSON memory, Zernio Growth Memory, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Draft-only/no public posting/no spending: close or mark blocked active 2h/4h/24h loops, then QA/execute the practical-work remix set (self-review, onboarding 30-day plan, project brief/action-items) with the save/comment prompt.
+- Issues/watch: snapshot data issues are empty; operational issue remains result-closure for 6 active experiments. Hourly educational Zernio factory verified live `enabled=false/state=paused` with explicit paused_reason; keep paused pending manual-batch reconciliation.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-04-0900-breakout-watch -->
+### 2026-05-04 09:03 UTC — Breakout watch
+- KPI: primary KPI watch is TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 13,182 views; gap 86,818 to 100,000; 198 shares. This is practical-work-tips evidence, not the protected GenLabs CTA/product-photo text.
+- Breakout candidate: primary by KPI leverage is the ChatGPT productivity winner, +52 since 09:00 after a fresh import; hourly velocity is refresh-window inflated, so preserve 08:30 confirmed normal-window +56 (~117.62/hr). Secondary active breakout is employee onboarding/doc-reading workflow 7635310153126087954 at 5,599 views/40 shares/~5.18x channel average, +42 since 09:00. Watch-only early signal: meeting-notes/action-matrix 7635243951582088456 at 1,121 views/12 shares, +53 since 09:00.
+- Action: updated compact JSON memory, Zernio Growth Memory, tasks.json, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Draft-only/no public posting/no spending: close or mark blocked active 2h/4h/24h loops, then QA/execute the practical-work remix set (self-review, onboarding 30-day plan, project brief/action-items) with the save/comment prompt.
+- Issues/watch: snapshot data issues are empty; operational issue remains result-closure for 6 active experiments. Hourly educational Zernio factory remains live-verified `enabled=false/state=paused` with explicit paused_reason; keep paused pending manual-batch reconciliation.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-04-0930-breakout-watch -->
+### 2026-05-04 09:30 UTC — Breakout watch
+- KPI: primary KPI watch is TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 13,182 views; gap 86,818 to 100,000; 198 shares. This is practical-work-tips evidence, not the protected GenLabs CTA/product-photo text.
+- Breakout candidate: primary by KPI leverage is the ChatGPT productivity winner with +52 since the 09:00 baseline (~105.14/hr normal >15m baseline), 4.38% engagement, and 1.50% share rate. Secondary active breakout remains employee onboarding/doc-reading workflow 7635310153126087954 at 5,599 views/40 shares/~5.18x channel average, +42 since 09:00 (~84.92/hr). Strongest early-velocity watch-only signal: meeting-notes/action-matrix 7635243951582088456 at 1,121 views/12 shares, +53 (~107.16/hr).
+- Action: updated compact JSON memory, Zernio Growth Memory, tasks.json, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Draft-only/no public posting/no spending: close or mark blocked active 2h/4h/24h loops, then QA/execute the practical-work remix set (self-review, onboarding 30-day plan, project brief/action-items) with the save/comment prompt.
+- Issues/watch: snapshot data issues are empty; operational issue remains result-closure for 6 active experiments. Hourly educational Zernio factory remains live-verified `enabled=false/state=paused` with explicit paused_reason; keep paused pending manual-batch reconciliation.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-04-1000-growth-check -->
+### 2026-05-04 10:00/10:07 UTC — Growth check
+- KPI: primary KPI watch is TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, now at 13,238 views; gap 86,762 to 100,000; 198 shares. This is practical-work-tips evidence, not the protected GenLabs CTA/product-photo text.
+- Signal: 10:07 fresh verification/import advanced the stale 10:00 snapshot by +56 primary views, +30 onboarding/docs views, and +82 meeting-notes views. Treat the short-window hourly rates as refresh-window inflated; preserve 09:30 confirmed normal-baseline momentum until the next normal update. Secondary onboarding/doc-reading `7635310153126087954` is 5,629 views/40 shares/~5.17x average; meeting-notes/action-matrix `7635243951582088456` is watch-only at 1,203 views/14 shares.
+- Action: updated compact JSON memory, Zernio Growth Memory, tasks.json, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Draft-only/no public posting/no spending: close or mark blocked active 2h/4h/24h loops before scaling near-duplicates.
+- Issues/watch: snapshot data-health issues are empty; operational issue remains result-closure for 6 active experiments. Hourly educational Zernio factory remains live-verified `enabled=false/state=paused` with explicit paused_reason; keep paused pending manual-batch reconciliation.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+<!-- ZG-DLOG-2026-05-04-1000-breakout-watch -->
+### 2026-05-04 10:00/10:07 UTC — Breakout watch
+- KPI: primary KPI watch remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, now at 13,238 views; gap 86,762 to 100,000; 198 shares. This is practical-work-tips evidence, not the protected GenLabs CTA/product-photo text.
+- Breakout candidate: primary by KPI leverage is still the ChatGPT productivity winner; 10:07 fresh verification shows +56 views since the 10:00 stale pre-run snapshot, but this is a refresh-window update, so preserve 09:30 confirmed normal-baseline +52 since 09:00 (~105.14/hr) until a normal baseline confirms. Secondary active breakout remains employee onboarding/doc-reading workflow 7635310153126087954 at 5,629 views/40 shares/~5.17x average. Watch-only early signal remains meeting-notes/action-matrix 7635243951582088456 at 1,203 views/14 shares.
+- Action: updated compact JSON memory, Zernio Growth Memory, tasks.json, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Draft-only/no public posting/no spending: close or mark blocked active 2h/4h/24h loops, then QA/execute the practical-work remix set only if the paused factory is safely reconciled.
+- Issues/watch: snapshot data issues are empty; operational issue remains result-closure for 6 active experiments. Hourly educational Zernio factory remains live-verified `enabled=false/state=paused` with explicit paused_reason; keep paused pending manual-batch reconciliation.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+<!-- ZG-DLOG-2026-05-04-1000-self-improvement -->
+### 2026-05-04 10:07 UTC — 3-day self-improvement review
+- KPI: best post is ChatGPT practical productivity/workflow `7634027210248097042` at 13,238 views, 198 shares, gap 86,762. It gained +3,212 views since the 2026-05-03 self-improvement evidence and +56 since the stale 10:00 pre-run snapshot; short-window velocity is refresh-window inflated.
+- Worked: practical numbered/work-output transformations; secondary onboarding/doc-reading `7635310153126087954` is still the strongest relative breakout at 5,629 views/40 shares/~5.17x average. Meeting-notes/action-matrix is watch-only at 1,203 views/14 shares.
+- Failed/system miss: 6 active experiments still lack 2h/4h/24h closure; do not create more near-duplicate ChatGPT/onboarding variants until results are closed or marked blocked/no-result. Hourly educational factory remains paused pending reconciliation.
+- Rule/action: next 3 days prioritize ChatGPT + NotebookLM practical numbered tips, then one concrete software-tip test each for Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude tools, and Zapier/Make. Protected GenLabs CTA remains CTA copy only, not hook/topic/winner evidence.
+<!-- ZG-DLOG-2026-05-04-1030-breakout-watch -->
+### 2026-05-04 10:30 UTC — Breakout watch
+- KPI: primary KPI watch remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 13,238 views; gap 86,762 to 100,000; 198 shares. This is practical-work-tips evidence, not the protected GenLabs CTA/product-photo text.
+- Breakout candidate: primary by KPI leverage is still the ChatGPT productivity winner; 10:30 normal >15m baseline shows +56 views since 10:00 (~110.8/hr), 4.37% engagement, and 1.50% share rate. Secondary active breakout remains employee onboarding/doc-reading workflow 7635310153126087954 at 5,629 views/40 shares/~5.17x average, +30 (~59.36/hr). Strongest early-velocity watch-only signal is meeting-notes/action-matrix 7635243951582088456 at 1,203 views/14 shares, +82 (~162.24/hr).
+- Action: updated compact JSON memory, Zernio Growth Memory, tasks.json, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Draft-only/no public posting/no spending: close or mark blocked active 2h/4h/24h loops, then QA/execute the practical-work remix set only if the paused factory is safely reconciled.
+- Issues/watch: snapshot data issues are empty; operational issue remains result-closure for 6 active experiments. Airtable import is fresh (~28.0m), TikTok analytics lastUpdated is 2026-05-04 09:53:17 (~37.4m old), and hourly educational Zernio factory remains live-verified `enabled=false/state=paused` with explicit paused_reason.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+<!-- ZG-DLOG-2026-05-04-1100-breakout-watch -->
+### 2026-05-04 11:00/11:03 UTC — Breakout watch
+- KPI: primary KPI watch remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, now at 13,318 views; gap 86,682 to 100,000; 199 shares. This is practical-work-tips evidence, not the protected GenLabs CTA/product-photo text.
+- Breakout candidate: current snapshot flags onboarding/doc-reading workflow 7635310153126087954 at 5,647 views/40 shares/5.15x channel average with reason `recent_views_2x_average`. Primary by KPI leverage remains the ChatGPT productivity winner; fresh import after the stale 11:00 baseline added +80 primary views and +18 onboarding/docs views, but computed hourly rates are refresh-window inflated until the next normal baseline.
+- Watch-only/result-closure signal: meeting-notes/action-matrix 7635243951582088456 reached 1,286 views/14 shares, +83 since 11:00; use as evidence for closure, not another duplicate meeting-note remix.
+- Action: updated compact JSON memory, Zernio Growth Memory, tasks.json, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Draft-only/no public posting/no spending: close or mark blocked active 2h/4h/24h loops, then QA/execute the practical-work remix set only if the paused factory is safely reconciled.
+- Issues/watch: snapshot data-health issues are empty; operational issue remains result-closure for 6 active experiments. Airtable import is fresh (~1.5m), TikTok analytics lastUpdated is 2026-05-04 10:58:57 (~4.2m old), and hourly educational Zernio factory remains live-verified `enabled=false/state=paused` with explicit paused_reason.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+<!-- ZG-DLOG-2026-05-04-1130-breakout-watch -->
+### 2026-05-04 11:30 UTC — Breakout watch
+- KPI: primary KPI watch remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 13,318 views; gap 86,682 to 100,000; 199 shares. This is practical-work-tips evidence, not the protected GenLabs CTA/product-photo text.
+- Breakout candidate: primary by KPI leverage remains the ChatGPT productivity winner; 11:30 normal >15m baseline confirms +80 views since 11:00 (~161.21/hr), 4.39% engagement, and 1.49% share rate. Secondary active breakout remains employee onboarding/doc-reading workflow 7635310153126087954 at 5,647 views/40 shares/5.15x average, +18 (~36.27/hr). Strongest early-velocity watch-only signal is meeting-notes/action-matrix 7635243951582088456 at 1,286 views/14 shares, +83 (~167.26/hr); new prompt-consistency watch-only post 7635864606426041607 is 467 views/4 shares, +28 (~56.43/hr).
+- Action: updated compact JSON memory, Zernio Growth Memory, tasks.json, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Draft-only/no public posting/no spending: close or mark blocked active 2h/4h/24h loops, then QA/execute the practical-work remix set only if the paused factory is safely reconciled.
+- Issues/watch: snapshot data-health issues are empty; operational issue remains result-closure for 6 active experiments. Airtable import is fresh enough (~28.6m), TikTok analytics lastUpdated is 2026-05-04 10:58:57 (~31.3m old), and hourly educational Zernio factory remains live-verified `enabled=false/state=paused` with explicit paused_reason.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+<!-- ZG-DLOG-2026-05-04-1200-experiment-creator -->
+### 2026-05-04 12:00 UTC — Experiment Creator
+- KPI evidence: best/closest post remains ChatGPT practical productivity/workflow `7634027210248097042` at 13,318 views, 199 shares, gap 86,682; secondary onboarding/doc-reading `7635310153126087954` is 5,647 views/40 shares/~5.15x average. Protected GenLabs CTA remains CTA copy only.
+- Action: created 3 draft-only future factory experiment specs grounded in Sway's ChatGPT + NotebookLM Thailand direction plus one software-tip expansion: ChatGPT Projects client-room system (8 tips), NotebookLM product-catalog sales coach (7 tips), and CapCut AI product/slideshow clip kit (7 tips).
+- Gate: do not generate/post publicly yet; close or mark blocked the 6 active 2h/4h/24h result loops and keep hourly educational factory `a97a7703af32` paused until manual-batch reconciliation is safe.
+<!-- ZG-DLOG-2026-05-04-1200-breakout-watch -->
+### 2026-05-04 12:00 UTC — Breakout watch
+- KPI: primary KPI watch remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 13,318 views; gap 86,682 to 100,000; 199 shares. This is practical-work-tips evidence, not the protected GenLabs CTA/product-photo text.
+- Breakout candidate: snapshot still flags employee onboarding/doc-reading workflow 7635310153126087954 at 5,647 views/40 shares/5.15x channel average with reason `recent_views_2x_average`. Primary by KPI leverage remains the ChatGPT productivity winner; 12:00 metrics show 0 new delta because TikTok analytics lastUpdated is still 2026-05-04 10:58:57 (~61.8m old), so preserve 11:30 confirmed +80 primary views (~161.21/hr) and +18 onboarding/docs views (~36.27/hr) until the next synced baseline.
+- Watch-only/result-closure signal: meeting-notes/action-matrix 7635243951582088456 remains 1,286 views/14 shares, preserving 11:30 confirmed +83 (~167.26/hr); prompt-consistency/work-standardization 7635864606426041607 remains 467 views/4 shares. Use these as closure/watch evidence, not duplicate remix triggers.
+- Action: updated compact JSON memory, Zernio Growth Memory, tasks.json, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Draft-only/no public posting/no spending: close or mark blocked active 2h/4h/24h loops, then QA/execute the practical-work remix set only if the paused factory is safely reconciled.
+- Issues/watch: snapshot data-health issues are empty; operational issue remains result-closure for 6 active experiments. Airtable import is fresh enough (~29.3m), TikTok analytics lastUpdated is 2026-05-04 10:58:57 (~61.8m old), and hourly educational Zernio factory remains live-verified `enabled=false/state=paused` with explicit paused_reason.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+<!-- ZG-DLOG-2026-05-04-1200-growth-check -->
+### 2026-05-04 12:00 UTC — Growth Check
+- KPI: primary KPI watch remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 13,318 views; gap 86,682 to 100,000; 199 shares. This is practical-work-tips evidence, not the protected GenLabs CTA/product-photo text.
+- Signal: current 12:00 normal-baseline delta is 0 because TikTok/Zernio analytics lastUpdated stayed 2026-05-04 10:58:57 (~61.8m old), while Airtable import is still fresh enough (~29.3m). Do not call momentum dead; use 11:30 +80 primary and +18 onboarding/docs only as watch context until the next analytics refresh. Current breakout by relative views remains onboarding/doc-reading workflow 7635310153126087954 at 5,647 views/40 shares/5.15x average with reason `recent_views_2x_average`; meeting-notes/action-matrix 7635243951582088456 is watch-only at 1,286 views/14 shares.
+- Action: updated compact JSON memory, Zernio Growth Memory, tasks.json, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks or drafts. Draft-only/no public posting/no spending: close or mark blocked active 2h/4h/24h loops, then QA/execute the practical-work remix set only if the paused factory is safely reconciled.
+- Issues/watch: snapshot data-health issues are empty; operational issue remains result-closure for 6 active experiments. Hourly educational Zernio factory remains live-verified `enabled=false/state=paused` with explicit paused_reason; keep paused pending manual-batch reconciliation.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+<!-- ZG-DLOG-2026-05-04-1230-breakout-watch -->
+### 2026-05-04 12:30 UTC — Breakout watch
+- KPI: primary KPI watch remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 13,318 views; gap 86,682 to 100,000; 199 shares. This is practical-work-tips evidence, not the protected GenLabs CTA/product-photo text.
+- Breakout candidate: snapshot still flags employee onboarding/doc-reading workflow 7635310153126087954 at 5,647 views/40 shares/5.15x channel average with reason `recent_views_2x_average`. Primary by KPI leverage remains the ChatGPT productivity winner; 12:30 normal-baseline delta is 0 because TikTok analytics lastUpdated is still 2026-05-04 10:58:57 (~91.7m old), so preserve 11:30 +80 primary views (~161.21/hr) and +18 onboarding/docs views (~36.27/hr) only as watch context until the next synced baseline.
+- Watch-only/result-closure signal: meeting-notes/action-matrix 7635243951582088456 remains 1,286 views/14 shares, preserving 11:30 +83 (~167.26/hr); prompt-consistency/work-standardization 7635864606426041607 remains 467 views/4 shares. Use these as closure/watch evidence, not duplicate remix triggers.
+- Action: updated compact JSON memory, Zernio Growth Memory, tasks.json, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Draft-only/no public posting/no spending: close or mark blocked active 2h/4h/24h loops, then QA/execute the practical-work remix set only if the paused factory is safely reconciled.
+- Issues/watch: snapshot data-health issues are empty; operational issue remains result-closure for 6 active experiments. Airtable import is fresh enough (~28.7m), TikTok analytics lastUpdated is 2026-05-04 10:58:57 (~91.7m old), and hourly educational Zernio factory remains live-verified `enabled=false/state=paused` with explicit paused_reason.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+<!-- ZG-DLOG-2026-05-04-1237-issue-check -->
+### 2026-05-04 12:37 UTC — Hermes Issue Check
+- CTA regression scan: 0 unsafe durable lines found across compact memory, Zernio Growth Memory, Daily Log, Open Loops, relevant scripts, and cron config. Post 7634027210248097042 remains classified as ChatGPT 8 practical productivity/workflow content; the protected GenLabs 10-baht/no-prompt phrase is CTA copy only.
+- Data/freshness: direct import succeeded at 2026-05-04T12:33:14.897363+00:00 (36 updated, 0 created). Read-only verification snapshot shows best=13,399 views/199 shares/gap=86,601; onboarding/doc-reading breakout=5,662 views/40 shares/~5.14x average; meeting-notes watch=1,351 views/15 shares. TikTok analytics lastUpdated=2026-05-04 12:04:51; snapshot data-health issues remain empty. Caveat: +81/+15/+65 absolute deltas since 12:30 are refresh-window inflated until the next normal baseline.
+- Issue: learning-loop blocker remains active 2h/4h/24h result closure for 6 experiments; production blocker remains hourly educational factory `a97a7703af32` paused pending manual-batch reconciliation.
+- Fix: updated compact JSON memory, tasks.json, Zernio Growth Memory, and existing Open Loops result-closure/pause-audit handoffs instead of creating duplicate tasks; verified growth crons/import crons are scheduled/last_status ok, factory `enabled=false/state=paused`, and no matching draft-factory generation process is running. Draft-only/no public posting/no spending.
+- Prevention: close or mark blocked/no-result for existing experiments before new near-duplicate drafts, keep the factory paused until reconciliation evidence is complete, and continue CTA-guard scans so protected promo copy is never learned as winner/hook/topic/weak-pattern evidence.
+
+
+## 2026-05-04 13:03 UTC — Sway no-pause KPI correction
+- Rule correction: GenLabs/Zernio production crons must not be left paused as a safety shortcut. If blocked, Aion must fix/unblock while keeping the KPI loop active.
+- Fix applied: resumed hourly educational factory `a97a7703af32` to enabled/scheduled, updated its cron prompt with no-pause + self-unblock recovery, resumed Prompt Drop 5-set factory `465464d576f2`, patched/tested the source backstop lane, and started a manual low-quality draft-only run.
+- Safety remains: draft-only, no public publish, no intentional live schedule, duplicate/source guards preserved. Manual-batch reconciliation continues in parallel.
+<!-- ZG-DLOG-2026-05-04-1300-breakout-watch -->
+### 2026-05-04 13:00 UTC — Breakout watch
+- KPI: primary KPI watch remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 13,399 views; gap 86,601 to 100,000; 199 shares. This is practical-work-tips evidence, not the protected GenLabs CTA/product-photo text.
+- Breakout candidate: 13:00 normal >15m baseline confirms +81 views since 12:30 (~164.21/hr) for the primary ChatGPT productivity winner, so this is no longer only refresh-window evidence. Secondary active breakout remains employee onboarding/doc-reading workflow 7635310153126087954 at 5,662 views/40 shares/~5.14x channel average, +15 (~30.41/hr), reason `recent_views_2x_average`.
+- Watch-only/result-closure signals: meeting-notes/action-matrix 7635243951582088456 reached 1,351 views/15 shares, +65 (~131.77/hr); prompt-consistency/work-standardization 7635864606426041607 reached 495 views/4 shares, +28 (~56.76/hr). Use these as closure/watch evidence, not duplicate remix triggers.
+- Action: updated compact JSON memory, Zernio Growth Memory, tasks.json, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Draft-only/no public posting/no spending: close or mark blocked active 2h/4h/24h loops, then QA/execute practical-work variants with duplicate guards.
+- Issues/watch: snapshot data-health issues are empty; operational issue remains result-closure for 6 active experiments. Airtable import is fresh enough (~26.8m), TikTok analytics lastUpdated is 2026-05-04 12:04:51 (~55.4m old), and exact hourly educational factory `a97a7703af32` is verified `enabled=true/state=scheduled`/paused_reason null, so the prior pause blocker is superseded and the KPI loop stays active. Current operational factory issue is now reconciliation while cron stays enabled: mixed manual-batch/downstream statuses must be reconciled, but blockers should trigger source-unblock/recovery and draft-only generation, not pausing production.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+
+### 13:16 UTC — Recovery production verification
+- Created verified draft-only Zernio post `69f89b8d711d100a42ee7a73` — `NotebookLM ทำคลังคำตอบสินค้าให้แอดมินตอบไม่มั่ว #AIมือใหม่`; Airtable `recrhgs3OTyg4Ltbb`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260504T130825Z-evergreen-notebooklm-sme/manifest.json`.
+- API verification: status `draft`, TikTok draft `true`, media `8`, no `publishNow`, FB/IG first comments present. Server `scheduledFor` is echo metadata while status remains draft.
+- Vision QA contact sheet: PASS; topic matches NotebookLM product FAQ/admin knowledge-base lesson; no severe Thai/source/public-safety issue found.
+- Do not publish first recovery draft `69f89900b0f7dd168006e00a`: it is draft-only but source-topic mismatched (NotebookLM source collapsed into meeting-notes copy). Fixed by adding source-specific content mappings and regression coverage; `pytest tests/tools/ai_signal_radar/test_scheduled_ai_social_draft_factory.py -q` = 14 passed.
+
+<!-- ZG-DLOG-2026-05-04-1330-breakout-watch -->
+### 2026-05-04 13:30 UTC — Breakout watch
+- KPI: primary KPI watch remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 13,399 views; gap 86,601 to 100,000; 199 shares. This is practical-work-tips evidence, not the protected GenLabs CTA/product-photo text.
+- Breakout candidate: employee onboarding/doc-reading workflow 7635310153126087954 remains active at 5,662 views/40 shares/~5.14x channel average, reason `recent_views_2x_average`. 13:30 normal baseline delta is 0 because TikTok/Zernio analytics lastUpdated stayed 2026-05-04 12:04:51 (~86m old); retain 13:00 +81 primary/+15 onboarding/+65 meeting-notes only as previous-positive watch context until the next fresh analytics window.
+- Action: updated compact JSON memory, Zernio Growth Memory, tasks.json, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Draft-only/no public posting/no spending: close or mark blocked active 2h/4h/24h loops, then QA/execute practical-work/onboarding variants with duplicate guards.
+- Issues/watch: snapshot data-health issues are empty; Airtable import is fresh enough (~29.6m), TikTok analytics update age is ~86m, and exact hourly educational factory `a97a7703af32` is verified `enabled=true/state=scheduled`. Operational issues remain result-closure and factory reconciliation while cron stays enabled.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-04-1400-growth-check -->
+### 2026-05-04 14:00 UTC — Hermes Growth Check
+- KPI: best/closest post remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 13,484 views; gap 86,516 to 100,000; +85 since 13:30 (~172.1/hr), 201 shares, 4.42% engagement, 1.49% share rate. This is educational workflow evidence, not the protected GenLabs CTA/product-photo text.
+- Signal: primary candidate by KPI leverage is the ChatGPT practical productivity winner. Secondary onboarding/doc-reading 7635310153126087954 is 5,690 views/43 shares/~5.25x average, +28 (~56.69/hr); meeting-notes/action-matrix 7635243951582088456 is 1,420/17, +69 (~139.71/hr); prompt-consistency 7635864606426041607 is 532/4, +37 (~74.91/hr). Generic “เหมาะกับใคร” framing remains non-diagnostic; learn from concrete work-output workflows.
+- Action: synced compact JSON memory, Zernio Growth Memory, tasks.json, and existing Open Loops result-closure/amplification handoffs instead of spawning duplicate tasks. Draft-only/no public posting/no spending: close or mark blocked 6 active 2h/4h/24h loops, then QA/execute practical-work/NotebookLM/software-tip variants with duplicate guards.
+- Issues/watch: snapshot data-health issues are empty; Airtable import is fresh enough (~28.3m), TikTok analytics lastUpdated is 2026-05-04 13:10:26 (~50.1m old), and exact hourly educational factory `a97a7703af32` is verified `enabled=true/state=scheduled`. Operational issues remain result-closure and factory reconciliation while cron stays enabled.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+<!-- ZG-DLOG-2026-05-04-1400-breakout-watch -->
+### 2026-05-04 14:00 UTC — Breakout watch
+- KPI: primary KPI watch remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 13,484 views; gap 86,516 to 100,000; 201 shares. This is practical-work-tips evidence, not the protected GenLabs CTA/product-photo text.
+- Breakout candidate: primary by KPI leverage is the ChatGPT productivity winner; 14:00 normal >15m baseline confirms +85 views since 13:30 (~172.1/hr), 4.42% engagement, 1.49% share rate, and reason `high_velocity_since_last_snapshot`. Secondary active breakout remains employee onboarding/doc-reading workflow 7635310153126087954 at 5,690 views/43 shares/~5.25x channel average, +28 (~56.69/hr), reasons `recent_views_2x_average` + `high_velocity_since_last_snapshot`.
+- Watch-only/result-closure signals: meeting-notes/action-matrix 7635243951582088456 reached 1,420 views/17 shares, +69 (~139.71/hr); prompt-consistency/work-standardization 7635864606426041607 reached 532 views/4 shares, +37 (~74.92/hr). Use these as closure/watch evidence, not duplicate remix triggers.
+- Action: updated compact JSON memory, Zernio Growth Memory, tasks.json, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Draft-only/no public posting/no spending: close or mark blocked active 2h/4h/24h loops, then QA/execute practical-work/onboarding variants with duplicate guards.
+- Issues/watch: snapshot data-health issues are empty; Airtable import is fresh enough (~28.3m), TikTok analytics update age is ~50.1m, and exact hourly educational factory `a97a7703af32` is verified `enabled=true/state=scheduled`. Operational issues remain result-closure and factory reconciliation while cron stays enabled.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+<!-- ZG-DLOG-2026-05-04-1430-breakout-watch -->
+### 2026-05-04 14:30 UTC — Breakout watch
+- KPI: primary KPI watch remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 13,484 views; gap 86,516 to 100,000; 201 shares. This is practical-work-tips evidence, not the protected GenLabs CTA/product-photo text.
+- Breakout candidate: current snapshot flags employee onboarding/doc-reading workflow 7635310153126087954 at 5,690 views/43 shares/~5.25x channel average with reason `recent_views_2x_average`. Primary by KPI leverage remains the ChatGPT productivity winner, but 14:30 normal-baseline delta is 0 because TikTok/Zernio analytics lastUpdated stayed 2026-05-04 13:10:26 (~79.7m old); preserve 14:00 +85 primary and +28 onboarding/docs only as previous-positive watch context until the next synced baseline.
+- Watch-only/result-closure signals: meeting-notes/action-matrix 7635243951582088456 remains 1,420 views/17 shares; prompt-consistency/work-standardization 7635864606426041607 remains 532 views/4 shares. Use these as closure/watch evidence, not duplicate remix triggers.
+- Action: updated compact JSON memory, Zernio Growth Memory, tasks.json, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Draft-only/no public posting/no spending: close or mark blocked active 2h/4h/24h loops, then QA/execute practical-work/onboarding variants with duplicate guards.
+- Issues/watch: snapshot data-health issues are empty; Airtable import is fresh enough (~27.0m), TikTok analytics update age is ~79.7m, and exact hourly educational factory `a97a7703af32` is verified `enabled=true/state=scheduled`. Operational issues remain result-closure and factory reconciliation while cron stays enabled.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+<!-- ZG-DLOG-2026-05-04-1500-breakout-watch -->
+### 2026-05-04 15:00 UTC — Breakout watch
+- KPI: primary KPI watch remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 13,573 views; gap 86,427 to 100,000; 201 shares. This is practical-work-tips evidence, not the protected GenLabs CTA/product-photo text.
+- Breakout candidate: primary by KPI leverage is the ChatGPT productivity winner; 15:00 normal >15m baseline confirms +89 views since 14:30 (~176.2/hr), 4.41% engagement, 1.48% share rate, and reason `high_velocity_since_last_snapshot`. Secondary active breakout remains employee onboarding/doc-reading workflow 7635310153126087954 at 5,735 views/46 shares/~5.37x channel average, +45 (~89.09/hr), reasons `recent_views_2x_average` + `high_velocity_since_last_snapshot`.
+- Watch-only/result-closure signals: meeting-notes/action-matrix 7635243951582088456 reached 1,497 views/17 shares, +77 (~152.44/hr); FAQ/admin-guardrails 7636008661407517960 reached 78 views/2 shares, +31 (~61.37/hr), high share rate but low absolute views; prompt-consistency 7635864606426041607 reached 556 views/4 shares, +24 (~47.52/hr). Use these as closure/watch evidence, not duplicate remix triggers.
+- Action: updated compact JSON memory, Zernio Growth Memory, tasks.json, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Draft-only/no public posting/no spending: close or mark blocked active 2h/4h/24h loops, then QA/execute practical-work/onboarding variants with duplicate guards.
+- Issues/watch: snapshot data-health issues are empty; Airtable import is fresh enough (~28.8m), TikTok analytics update age is ~44.5m, and exact hourly educational factory `a97a7703af32` is verified `enabled=true/state=scheduled/last_status=ok`. Operational issues remain result-closure and factory reconciliation while cron stays enabled.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+<!-- ZG-DLOG-2026-05-04-1533-breakout-watch -->
+### 2026-05-04 15:33 UTC — Breakout watch
+- KPI: primary KPI watch remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 13,573 views; gap 86,427 to 100,000; 201 shares. This is practical-work-tips evidence, not the protected GenLabs CTA/product-photo text.
+- Breakout candidate: active candidate is employee onboarding/doc-reading workflow 7635310153126087954 at 5,735 views/46 shares/~5.37x channel average, reason `recent_views_2x_average`. 15:33 normal >15m baseline updated, but TikTok/Zernio analytics did not advance from 2026-05-04 14:15:56; current deltas are 0 and 15:00 momentum (+89 primary, +45 onboarding) is context only.
+- Watch-only/result-closure signals: meeting-notes/action-matrix 7635243951582088456 remains 1,497 views/17 shares; FAQ/admin-guardrails 7636008661407517960 remains 78 views/2 shares; prompt-consistency 7635864606426041607 remains 556 views/4 shares. Use these as closure/watch evidence, not duplicate remix triggers.
+- Action: updated compact JSON memory, Zernio Growth Memory, tasks.json, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Draft-only/no public posting/no spending: close or mark blocked active 2h/4h/24h loops, then QA/execute practical-work/onboarding variants with duplicate guards.
+- Issues/watch: snapshot data-health issues are empty; Airtable import is fresh enough (~30.1m), TikTok analytics update age is ~77.1m, and exact hourly educational factory `a97a7703af32` is verified `enabled=true/state=scheduled/last_status=ok`. Operational issues remain result-closure and factory reconciliation while cron stays enabled.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+<!-- ZG-DLOG-2026-05-04-1600-growth-check -->
+### 2026-05-04 16:00 UTC — Hermes Growth Check
+- KPI: best/closest post remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 13,639 views; gap 86,361 to 100,000; +66 since 15:33 (~144.26/hr), 204 shares, 4.41% engagement, 1.50% share rate. This is educational workflow evidence, not the protected GenLabs CTA/product-photo text.
+- Signal: primary candidate by KPI leverage is the ChatGPT practical productivity winner. Secondary onboarding/doc-reading 7635310153126087954 is 5,778 views/46 shares/~5.35x average, +43 (~93.99/hr). Strongest early-velocity watch is team sales/admin answer-consistency 7636028838308220168 at 269 views/3 shares, +217 (~474.3/hr), but low absolute reach keeps it watch-only. Meeting-notes/action-matrix 7635243951582088456 is 1,555/17, +58 (~126.77/hr). Generic “เหมาะกับใคร” framing remains non-diagnostic; learn from concrete work-output workflows.
+- Action: synced compact JSON memory, Zernio Growth Memory, tasks.json, and existing Open Loops result-closure/amplification handoffs instead of spawning duplicate tasks. Draft-only/no public posting/no spending: close or mark blocked 6 active 2h/4h/24h loops, then QA/execute practical-work/NotebookLM/software-tip variants with duplicate guards.
+- Issues/watch: snapshot data-health issues are empty; Airtable import is fresh enough (~26.3m), TikTok analytics lastUpdated is 2026-05-04 15:21:48 (~38.7m old), and exact hourly educational factory `a97a7703af32` is verified `enabled=true/state=scheduled/last_status=ok`. Operational issues remain result-closure and factory reconciliation while cron stays enabled.
+- Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.
+
+<!-- ZG-DLOG-2026-05-04-1600-breakout-watch -->
+### 2026-05-04 16:00 UTC — Breakout watch
+- KPI: primary KPI watch/breakout remains TikTok 7634027210248097042, classified as ChatGPT 8 practical productivity/workflow tips, at 13,639 views; gap 86,361 to 100,000; 204 shares. This is practical-work-tips evidence, not the protected GenLabs CTA/product-photo text.
+- Breakout candidate: primary by KPI leverage is the ChatGPT productivity winner; 16:00 normal >15m baseline confirms +66 views since 15:33 (~144.25/hr), 4.41% engagement, 1.50% share rate, and reason `high_velocity_since_last_snapshot`. Secondary active breakout remains employee onboarding/doc-reading workflow 7635310153126087954 at 5,778 views/46 shares/~5.35x channel average, +43 (~93.98/hr), reasons `recent_views_2x_average` + `high_velocity_since_last_snapshot`.
+- Strongest early-velocity watch: sales/admin answer-standardization workflow 7636028838308220168 is 269 views/3 shares after ~2.48h, +217 (~474.29/hr); keep watch-only until absolute views confirm.
+- Watch-only/result-closure signals: meeting-notes/action-matrix 7635243951582088456 reached 1,555 views/17 shares, +58 (~126.77/hr); FAQ/admin-guardrails 7636008661407517960 reached 128 views/2 shares, +50 (~109.28/hr); prompt-consistency 7635864606426041607 reached 582 views/4 shares, +26 (~56.83/hr). Use these as closure/watch evidence, not duplicate remix triggers.
+- Action: updated compact JSON memory, Zernio Growth Memory, tasks.json, and existing Open Loops result-closure/production handoffs instead of spawning duplicate tasks. Draft-only/no public posting/no spending: close or mark blocked active 2h/4h/24h loops, then QA/execute practical-work/onboarding/admin-reply variants with duplicate guards.
+- Issues/watch: snapshot data-health issues are empty; Airtable import is fresh enough (~26.3m), TikTok analytics update age is ~38.7m, and exact hourly educational factory `a97a7703af32` is verified `enabled=true/state=scheduled/last_status=ok`. Operational issues remain result-closure and factory reconciliation while cron stays enabled.
 - Protected CTA: GenLabs 10-baht/no-prompt phrase remains CTA copy only; learn from educational_signal/body, not the CTA prefix.

@@ -1,0 +1,269 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a98fc64/JEC4w3wi_cYf9biBkYE0u_9QD9vaP7.png",
+    "https://v3b.fal.media/files/b/0a98fc68/0IQ1c2cX0oAOsxPkfgWys_qLlrmA7x.png",
+    "https://v3b.fal.media/files/b/0a98fc6d/NTgzWdeYl60NqnYN58paK_fY0gs7es.png",
+    "https://v3b.fal.media/files/b/0a98fc71/uCW_whi81OfwfHJnwyv5t_15uOkVOZ.png",
+    "https://v3b.fal.media/files/b/0a98fc76/8d1o4ZaeKYVjXcV_Btg7L_GQFyEoVM.png",
+    "https://v3b.fal.media/files/b/0a98fc7b/P4jqwNYDint-BNkJ48g9e_pilpxNDM.png",
+    "https://v3b.fal.media/files/b/0a98fc7f/rZ668TWLCx9i_delA1rXj_oMI0Pr02.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 7,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/7 role=hook. Thai copy: ทำ Custom GPT ให้แอดมินตอบลูกค้าไม่หลุดกฎร้าน\nLINE OA • workflow. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "ทำ Custom GPT ให้แอดมินตอบลูกค้าไม่หลุดกฎร้าน\nLINE OA • workflow",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/7 role=problem. Thai copy: ปัญหา: แอดมินตอบลูกค้าเร็วขึ้นได้ แต่ถ้าไม่มี FAQ กฎคืนสินค้า และข้อห้าม AI อาจตอบมั่วหรือสัญญาเกินจริง. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: แอดมินตอบลูกค้าเร็วขึ้นได้ แต่ถ้าไม่มี FAQ กฎคืนสินค้า และข้อห้าม AI อาจตอบมั่วหรือสัญญาเกินจริง",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/7 role=trend. Thai copy: ทำไมควรสนใจ:\nCustom GPT ใช้ได้จริงเมื่อมี instruction ชัด: ตอบอะไรได้ ต้องถามอะไรเพิ่ม และเรื่องไหนต้องส่งต่อให้คน. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nCustom GPT ใช้ได้จริงเมื่อมี instruction ชัด: ตอบอะไรได้ ต้องถามอะไรเพิ่ม และเรื่องไหนต้องส่งต่อให้คน",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/7 role=tips. Thai copy: ลองใช้แบบนี้:\n1) ใส่ FAQ ราคา เงื่อนไขส่งของ คืนสินค้า และ tone ร้าน\n2) กำหนดช่องคำตอบ: ตอบสั้น / ต้องถามเพิ่ม / ห้ามสัญญา\n3) ใส่ตัวอย่างคำถามจริงจาก LINE OA\n4) ให้ GPT flag เคส refund โกรธมาก หรือข้อมูลไม่พอ. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) ใส่ FAQ ราคา เงื่อนไขส่งของ คืนสินค้า และ tone ร้าน\n2) กำหนดช่องคำตอบ: ตอบสั้น / ต้องถามเพิ่ม / ห้ามสัญญา\n3) ใส่ตัวอย่างคำถามจริงจาก LINE OA\n4) ให้ GPT flag เคส refund โกรธมาก หรือข้อมูลไม่พอ",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/7 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/7 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\n5) ทดสอบด้วยคำถามยาก 10 ข้อก่อนให้ทีมใช้. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\n5) ทดสอบด้วยคำถามยาก 10 ข้อก่อนให้ทีมใช้",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/7 role=cta. Thai copy: ลองวันนี้:\nวันนี้รวบรวมคำถามซ้ำ 20 ข้อ แล้วสร้าง instruction แอดมิน AI เวอร์ชันแรก. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้รวบรวมคำถามซ้ำ 20 ข้อ แล้วสร้าง instruction แอดมิน AI เวอร์ชันแรก",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "kpi050512-nlmfaq",
+    "source_url": "https://genlabs.in.th/ai-learning/kpi-backstop",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://genlabs.in.th/ai-learning/kpi-backstop",
+        "Keywords: LINE OA, workflow",
+        "This is trending because people can copy the workflow immediately instead of only reading AI news."
+      ],
+      "glossary": {
+        "LINE OA": "LINE OA",
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "LINE OA",
+        "workflow"
+      ],
+      "source_id": "kpi050512-nlmfaq",
+      "source_url": "https://genlabs.in.th/ai-learning/kpi-backstop",
+      "thai_call_to_action": "วันนี้รวบรวมคำถามซ้ำ 20 ข้อ แล้วสร้าง instruction แอดมิน AI เวอร์ชันแรก",
+      "thai_hook": "ทำ Custom GPT ให้แอดมินตอบลูกค้าไม่หลุดกฎร้าน",
+      "thai_problem": "แอดมินตอบลูกค้าเร็วขึ้นได้ แต่ถ้าไม่มี FAQ กฎคืนสินค้า และข้อห้าม AI อาจตอบมั่วหรือสัญญาเกินจริง",
+      "thai_tips": [
+        "ใส่ FAQ ราคา เงื่อนไขส่งของ คืนสินค้า และ tone ร้าน",
+        "กำหนดช่องคำตอบ: ตอบสั้น / ต้องถามเพิ่ม / ห้ามสัญญา",
+        "ใส่ตัวอย่างคำถามจริงจาก LINE OA",
+        "ให้ GPT flag เคส refund โกรธมาก หรือข้อมูลไม่พอ",
+        "ทดสอบด้วยคำถามยาก 10 ข้อก่อนให้ทีมใช้"
+      ],
+      "thai_trend_angle": "Custom GPT ใช้ได้จริงเมื่อมี instruction ชัด: ตอบอะไรได้ ต้องถามอะไรเพิ่ม และเรื่องไหนต้องส่งต่อให้คน"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "genlabs-ai-learning",
+    "clean_headline": "7 วิธีใช้ NotebookLM ทำคลังคำตอบสินค้าให้ทีมขายตอบตรงกัน Audience: SME, online seller, sales, LINE OA admin Tool: NotebookLM Practical workflow: อัปโหลดคู่มือสิ",
+    "clean_summary": "7 วิธีใช้ NotebookLM ทำคลังคำตอบสินค้าให้ทีมขายตอบตรงกัน Audience: SME, online seller, sales, LINE OA admin Tool: NotebookLM Practical workflow: อัปโหลดคู่มือสินค้า/ราคา/เงื่อนไข -> สร้าง FAQ ตามหมวด -> ขอคำตอบสั้นสำหรับแชท -> ทำ objection answers -> flag คำถามที่ต้องให้คนจริงตอบ Create a Thai GenLabs AI Learning carousel with exact numbered tips, visible input/output examples, a common mistake, and one action to try today. No source attribution, no news framing, no hype, no income promise, and do not count the GenLabs CTA as a tip.",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "LINE OA",
+      "workflow"
+    ],
+    "original_language": "en",
+    "raw_text": "7 วิธีใช้ NotebookLM ทำคลังคำตอบสินค้าให้ทีมขายตอบตรงกัน\nAudience: SME, online seller, sales, LINE OA admin\nTool: NotebookLM\nPractical workflow: อัปโหลดคู่มือสินค้า/ราคา/เงื่อนไข -> สร้าง FAQ ตามหมวด -> ขอคำตอบสั้นสำหรับแชท -> ทำ objection answers -> flag คำถามที่ต้องให้คนจริงตอบ\nCreate a Thai GenLabs AI Learning carousel with exact numbered tips, visible input/output examples, a common mistake, and one action to try today. No source attribution, no news framing, no hype, no income promise, and do not count the GenLabs CTA as a tip.",
+    "source_id": "kpi050512-nlmfaq",
+    "source_url": "https://genlabs.in.th/ai-learning/kpi-backstop",
+    "why_it_matters": "This is trending because people can copy the workflow immediately instead of only reading AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้รวบรวมคำถามซ้ำ 20 ข้อ แล้วสร้าง instruction แอดมิน AI เวอร์ชันแรก",
+    "evidence": [
+      "Source: https://genlabs.in.th/ai-learning/kpi-backstop",
+      "Keywords: LINE OA, workflow",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "hook": "ทำ Custom GPT ให้แอดมินตอบลูกค้าไม่หลุดกฎร้าน",
+    "original_keywords": [
+      "LINE OA",
+      "workflow"
+    ],
+    "original_language": "en",
+    "problem": "แอดมินตอบลูกค้าเร็วขึ้นได้ แต่ถ้าไม่มี FAQ กฎคืนสินค้า และข้อห้าม AI อาจตอบมั่วหรือสัญญาเกินจริง",
+    "source_id": "kpi050512-nlmfaq",
+    "source_url": "https://genlabs.in.th/ai-learning/kpi-backstop",
+    "tips": [
+      "ใส่ FAQ ราคา เงื่อนไขส่งของ คืนสินค้า และ tone ร้าน",
+      "กำหนดช่องคำตอบ: ตอบสั้น / ต้องถามเพิ่ม / ห้ามสัญญา",
+      "ใส่ตัวอย่างคำถามจริงจาก LINE OA",
+      "ให้ GPT flag เคส refund โกรธมาก หรือข้อมูลไม่พอ",
+      "ทดสอบด้วยคำถามยาก 10 ข้อก่อนให้ทีมใช้"
+    ],
+    "trend_angle": "Custom GPT ใช้ได้จริงเมื่อมี instruction ชัด: ตอบอะไรได้ ต้องถามอะไรเพิ่ม และเรื่องไหนต้องส่งต่อให้คน"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "JEC4w3wi_cYf9biBkYE0u_9QD9vaP7.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98fc64/JEC4w3wi_cYf9biBkYE0u_9QD9vaP7.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T120038Z-kpi050512-nlmfaq/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "0IQ1c2cX0oAOsxPkfgWys_qLlrmA7x.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98fc68/0IQ1c2cX0oAOsxPkfgWys_qLlrmA7x.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T120038Z-kpi050512-nlmfaq/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "NTgzWdeYl60NqnYN58paK_fY0gs7es.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98fc6d/NTgzWdeYl60NqnYN58paK_fY0gs7es.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T120038Z-kpi050512-nlmfaq/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "uCW_whi81OfwfHJnwyv5t_15uOkVOZ.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98fc71/uCW_whi81OfwfHJnwyv5t_15uOkVOZ.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T120038Z-kpi050512-nlmfaq/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "8d1o4ZaeKYVjXcV_Btg7L_GQFyEoVM.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98fc76/8d1o4ZaeKYVjXcV_Btg7L_GQFyEoVM.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T120038Z-kpi050512-nlmfaq/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "P4jqwNYDint-BNkJ48g9e_pilpxNDM.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98fc7b/P4jqwNYDint-BNkJ48g9e_pilpxNDM.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T120038Z-kpi050512-nlmfaq/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "rZ668TWLCx9i_delA1rXj_oMI0Pr02.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98fc7f/rZ668TWLCx9i_delA1rXj_oMI0Pr02.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T120038Z-kpi050512-nlmfaq/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 8,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T120038Z-kpi050512-nlmfaq/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: แอดมินตอบลูกค้าเร็วขึ้นได้ แต่ถ้าไม่มี FAQ กฎคืนสินค้า และข้อห้าม AI อาจตอบมั่วหรือสัญญาเกินจริง\n\n📌 ทำไมควรเซฟโพสต์นี้: Custom GPT ใช้ได้จริงเมื่อมี instruction ชัด: ตอบอะไรได้ ต้องถามอะไรเพิ่ม และเรื่องไหนต้องส่งต่อให้คน\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ ใส่ FAQ ราคา เงื่อนไขส่งของ คืนสินค้า และ tone ร้าน\n\n2) ✨ กำหนดช่องคำตอบ: ตอบสั้น / ต้องถามเพิ่ม / ห้ามสัญญา\n\n3) ✨ ใส่ตัวอย่างคำถามจริงจาก LINE OA\n\n4) ✨ ให้ GPT flag เคส refund โกรธมาก หรือข้อมูลไม่พอ\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "ทำ Custom GPT ให้แอดมินตอบลูกค้าไม่หลุดกฎร้าน #AIมือใหม่ เอาไปใช้กับงานจริงได้ทันที"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://genlabs.in.th/ai-learning/kpi-backstop",
+      "Keywords: LINE OA, workflow",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "glossary": {
+      "LINE OA": "LINE OA",
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "LINE OA",
+      "workflow"
+    ],
+    "source_id": "kpi050512-nlmfaq",
+    "source_url": "https://genlabs.in.th/ai-learning/kpi-backstop",
+    "thai_call_to_action": "วันนี้รวบรวมคำถามซ้ำ 20 ข้อ แล้วสร้าง instruction แอดมิน AI เวอร์ชันแรก",
+    "thai_hook": "ทำ Custom GPT ให้แอดมินตอบลูกค้าไม่หลุดกฎร้าน",
+    "thai_problem": "แอดมินตอบลูกค้าเร็วขึ้นได้ แต่ถ้าไม่มี FAQ กฎคืนสินค้า และข้อห้าม AI อาจตอบมั่วหรือสัญญาเกินจริง",
+    "thai_tips": [
+      "ใส่ FAQ ราคา เงื่อนไขส่งของ คืนสินค้า และ tone ร้าน",
+      "กำหนดช่องคำตอบ: ตอบสั้น / ต้องถามเพิ่ม / ห้ามสัญญา",
+      "ใส่ตัวอย่างคำถามจริงจาก LINE OA",
+      "ให้ GPT flag เคส refund โกรธมาก หรือข้อมูลไม่พอ",
+      "ทดสอบด้วยคำถามยาก 10 ข้อก่อนให้ทีมใช้"
+    ],
+    "thai_trend_angle": "Custom GPT ใช้ได้จริงเมื่อมี instruction ชัด: ตอบอะไรได้ ต้องถามอะไรเพิ่ม และเรื่องไหนต้องส่งต่อให้คน"
+  }
+}

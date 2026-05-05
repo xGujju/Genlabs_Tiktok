@@ -1,0 +1,420 @@
+{
+  "batch_id": "prompt-drop-20260505T071344Z-latest-slate-slots01-05",
+  "started_at": "2026-05-05T07:13:44.286055+00:00",
+  "source_slate": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/research/latest-prompt-drop-style-bank-slate.json",
+  "selected_slots": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "block_validation": {
+    "ok": true,
+    "product_or_sme_useful_count": 4,
+    "experimental_count": 0,
+    "low_score_slots": [],
+    "hard_failure_slots": [],
+    "adjacent_repeats": [],
+    "public_forbidden_hits": []
+  },
+  "items": [
+    {
+      "slot": 1,
+      "slug": "01-cooling-sachet-ritual",
+      "title_th": "PROMPT DROP: แผ่นมาสก์หน้าให้ดูเป็น cooling sachet ritual",
+      "status": "generated_ready_for_zernio_dry_run",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T071344Z-latest-slate-slots01-05/01-cooling-sachet-ritual",
+      "events": [
+        {
+          "ts": "2026-05-05T07:14:18.046984+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98f5aa/Z_rUD5BRp1Y5Pa1Pox2TE_n3LCTqKA.png"
+        },
+        {
+          "ts": "2026-05-05T07:14:57.086254+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98f5ae/kW8XiOyIMaa9GZ3ydHLK0_F3fGREOV.png"
+        },
+        {
+          "ts": "2026-05-05T07:15:32.917652+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98f5b2/rKrWWFDgqUt6LKUtAm-JM_Ga6uzykc.png"
+        },
+        {
+          "ts": "2026-05-05T07:16:18.358565+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98f5b5/9J1aTY0f_55KHU0X4hG1o_xzb9byu9.png"
+        },
+        {
+          "ts": "2026-05-05T07:17:00.193731+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98f5ba/_0FP45UuOfx6w-PXAsy-n_R7IflhGB.png"
+        },
+        {
+          "ts": "2026-05-05T07:17:00.695917+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T071344Z-latest-slate-slots01-05/01-cooling-sachet-ritual/manifest.json",
+          "asset_count": 5
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98f5aa/Z_rUD5BRp1Y5Pa1Pox2TE_n3LCTqKA.png",
+        "https://v3b.fal.media/files/b/0a98f5ae/kW8XiOyIMaa9GZ3ydHLK0_F3fGREOV.png",
+        "https://v3b.fal.media/files/b/0a98f5b2/rKrWWFDgqUt6LKUtAm-JM_Ga6uzykc.png",
+        "https://v3b.fal.media/files/b/0a98f5b5/9J1aTY0f_55KHU0X4hG1o_xzb9byu9.png",
+        "https://v3b.fal.media/files/b/0a98f5ba/_0FP45UuOfx6w-PXAsy-n_R7IflhGB.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T071344Z-latest-slate-slots01-05/01-cooling-sachet-ritual/manifest.json",
+      "asset_count": 5,
+      "visual_spotcheck": {
+        "status": "PASS",
+        "risk": "Strong skincare sachet/sheet-mask product story; realistic icy/cooling materials and packaging hierarchy; no visible promo/QR/watermark/fake brand."
+      },
+      "zernio": {
+        "draft_id": "69f9a009d4d1290507fa92f1",
+        "draft_only_verified": true,
+        "status": "draft",
+        "tiktok_draft": true,
+        "media_count": 5
+      }
+    },
+    {
+      "slot": 2,
+      "slug": "02-gloss-sample-booking-board",
+      "title_th": "PROMPT DROP: ร้านทำเล็บให้มี nail menu board ที่ลูกค้าเซฟ",
+      "status": "generated_ready_for_zernio_dry_run",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T071344Z-latest-slate-slots01-05/02-gloss-sample-booking-board",
+      "events": [
+        {
+          "ts": "2026-05-05T07:17:36.734837+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98f5be/S-DN6BcYgP2QCbnehYpdu_NQ7YGsQH.png"
+        },
+        {
+          "ts": "2026-05-05T07:18:11.118112+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98f5c2/wvAo2J1go-B6CA_PceOVa_CFAcVW7C.png"
+        },
+        {
+          "ts": "2026-05-05T07:18:43.595800+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98f5c5/y6TlymntxfP5oo866f4oH_QvjTb9T3.png"
+        },
+        {
+          "ts": "2026-05-05T07:19:31.911549+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98f5c8/5BJBffBJDMrQaHahdgEQO_dd2gGtP2.png"
+        },
+        {
+          "ts": "2026-05-05T07:20:05.175668+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98f5cd/GFfr3hs2fXxQgABzosv53_LsAMqwAk.png"
+        },
+        {
+          "ts": "2026-05-05T07:20:05.676896+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T071344Z-latest-slate-slots01-05/02-gloss-sample-booking-board/manifest.json",
+          "asset_count": 5
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98f5be/S-DN6BcYgP2QCbnehYpdu_NQ7YGsQH.png",
+        "https://v3b.fal.media/files/b/0a98f5c2/wvAo2J1go-B6CA_PceOVa_CFAcVW7C.png",
+        "https://v3b.fal.media/files/b/0a98f5c5/y6TlymntxfP5oo866f4oH_QvjTb9T3.png",
+        "https://v3b.fal.media/files/b/0a98f5c8/5BJBffBJDMrQaHahdgEQO_dd2gGtP2.png",
+        "https://v3b.fal.media/files/b/0a98f5cd/GFfr3hs2fXxQgABzosv53_LsAMqwAk.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T071344Z-latest-slate-slots01-05/02-gloss-sample-booking-board/manifest.json",
+      "asset_count": 5,
+      "visual_spotcheck": {
+        "status": "PASS",
+        "risk": "Useful nail/gloss booking-board concept with swatches, appointment cards and tools; no visible prohibited promo/QR/watermark."
+      },
+      "zernio": {
+        "draft_id": "69f9a00ae7a28af00bcf4f2c",
+        "draft_only_verified": true,
+        "status": "draft",
+        "tiktok_draft": true,
+        "media_count": 5
+      }
+    },
+    {
+      "slot": 3,
+      "slug": "03-authentication-desk-editorial",
+      "title_th": "PROMPT DROP: กระเป๋ามือสองให้ดูเป็น authentication desk editorial",
+      "status": "generated_ready_for_zernio_dry_run",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T071344Z-latest-slate-slots01-05/03-authentication-desk-editorial",
+      "events": [
+        {
+          "ts": "2026-05-05T07:20:57.486515+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98f5d0/FL6x9eg8a4GnCuvuhD5zX_wzVHAixz.png"
+        },
+        {
+          "ts": "2026-05-05T07:21:29.262409+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98f5d6/8mFbDG5RvvAsGY5YLMf6__CeQj12Nl.png"
+        },
+        {
+          "ts": "2026-05-05T07:22:01.265800+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98f5d9/AH_HIGhGXYubF-PJze25S_MPYreXbY.png"
+        },
+        {
+          "ts": "2026-05-05T07:22:43.222991+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98f5dc/706GwJeLc472h6cz5ZbNN_b41Mqrvz.png"
+        },
+        {
+          "ts": "2026-05-05T07:23:14.266461+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98f5e0/YeECnArA_FP4TMREG1afX_gOtojhqu.png"
+        },
+        {
+          "ts": "2026-05-05T07:23:14.767993+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T071344Z-latest-slate-slots01-05/03-authentication-desk-editorial/manifest.json",
+          "asset_count": 5
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98f5d0/FL6x9eg8a4GnCuvuhD5zX_wzVHAixz.png",
+        "https://v3b.fal.media/files/b/0a98f5d6/8mFbDG5RvvAsGY5YLMf6__CeQj12Nl.png",
+        "https://v3b.fal.media/files/b/0a98f5d9/AH_HIGhGXYubF-PJze25S_MPYreXbY.png",
+        "https://v3b.fal.media/files/b/0a98f5dc/706GwJeLc472h6cz5ZbNN_b41Mqrvz.png",
+        "https://v3b.fal.media/files/b/0a98f5e0/YeECnArA_FP4TMREG1afX_gOtojhqu.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T071344Z-latest-slate-slots01-05/03-authentication-desk-editorial/manifest.json",
+      "asset_count": 5,
+      "visual_spotcheck": {
+        "status": "WARN",
+        "risk": "Luxury handbag/authentication theme is brand-adjacent/counterfeit-adjacent even without visible logos; avoid implying official certificates or real brand authentication."
+      },
+      "zernio": {
+        "draft_id": "69f9a00cd4d1290507fa9397",
+        "draft_only_verified": true,
+        "status": "draft",
+        "tiktok_draft": true,
+        "media_count": 5
+      }
+    },
+    {
+      "slot": 4,
+      "slug": "04-accessory-drop-tray",
+      "title_th": "PROMPT DROP: เคสมือถือให้ดูเป็น accessory drop tray",
+      "status": "generated_ready_for_zernio_dry_run",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T071344Z-latest-slate-slots01-05/04-accessory-drop-tray",
+      "events": [
+        {
+          "ts": "2026-05-05T07:23:51.572968+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98f5e3/hPclt9bgfI80DPLSEWmtc_b3vkdGQk.png"
+        },
+        {
+          "ts": "2026-05-05T07:30:52.178627+00:00",
+          "event": "image_generation_failed",
+          "slide": 2,
+          "error": "ReadTimeout(ReadTimeoutError(\"HTTPSConnectionPool(host='fal.run', port=443): Read timed out. (read timeout=420)\"))"
+        },
+        {
+          "ts": "2026-05-05T07:33:58.968558+00:00",
+          "event": "image_generation_failed",
+          "slide": 2,
+          "error": "HTTPError('422 Client Error: Unprocessable Entity for url: https://fal.run/openai/gpt-image-2/edit')"
+        },
+        {
+          "ts": "2026-05-05T07:36:10.974857+00:00",
+          "event": "generated_slide_retry_simplified_one_ref",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98f62d/Us3KSMr4l7GEjxnT1soQF_L3nrMyOH.png",
+          "refs": 1
+        },
+        {
+          "ts": "2026-05-05T07:36:39.930179+00:00",
+          "event": "generated_slide_retry_simplified_one_ref",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98f631/c3g818Yuo5jDlxGEYu_aL_ixfdSlPB.png",
+          "refs": 1
+        },
+        {
+          "ts": "2026-05-05T07:37:15.321396+00:00",
+          "event": "generated_slide_retry_simplified_one_ref",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98f634/Byu_ofmRhBuxIstUorlSQ_3cZ2yWlx.png",
+          "refs": 1
+        },
+        {
+          "ts": "2026-05-05T07:37:47.031432+00:00",
+          "event": "generated_slide_retry_simplified_one_ref",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98f637/kMgHgs53_R6vjgYHfGbjj_Jn2Yj26i.png",
+          "refs": 1
+        },
+        {
+          "ts": "2026-05-05T07:37:47.532717+00:00",
+          "event": "manifest_written_after_simplified_one_ref_retry",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T071344Z-latest-slate-slots01-05/04-accessory-drop-tray/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-05T07:41:19.779268+00:00",
+          "event": "regenerated_visual_warn_text_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98f64d/z0NSdod9gBOtSElKgdIio_NqI4epWs.png",
+          "ref": "slide3",
+          "reason": "remove pseudo-readable/gibberish small text"
+        },
+        {
+          "ts": "2026-05-05T07:41:48.018940+00:00",
+          "event": "regenerated_visual_warn_text_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98f650/WRPRZQnMBXQ9OROtbnn2E_FvG2xLIv.png",
+          "ref": "slide3",
+          "reason": "remove pseudo-readable/gibberish small text"
+        },
+        {
+          "ts": "2026-05-05T07:42:16.986553+00:00",
+          "event": "regenerated_visual_warn_text_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98f653/o-AaFwp-jEPoZiTCaewdW_UlWuVJ8H.png",
+          "ref": "slide3",
+          "reason": "remove pseudo-readable/gibberish small text"
+        },
+        {
+          "ts": "2026-05-05T07:42:49.299685+00:00",
+          "event": "regenerated_visual_warn_text_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98f655/RbetQpE6wCYocxCyZ1kSP_hYeiRmav.png",
+          "ref": "slide3",
+          "reason": "remove pseudo-readable/gibberish small text"
+        },
+        {
+          "ts": "2026-05-05T07:42:49.800939+00:00",
+          "event": "manifest_rewritten_after_visual_warn_regen",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T071344Z-latest-slate-slots01-05/04-accessory-drop-tray/manifest.json",
+          "asset_count": 5
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98f64d/z0NSdod9gBOtSElKgdIio_NqI4epWs.png",
+        "https://v3b.fal.media/files/b/0a98f650/WRPRZQnMBXQ9OROtbnn2E_FvG2xLIv.png",
+        "https://v3b.fal.media/files/b/0a98f631/c3g818Yuo5jDlxGEYu_aL_ixfdSlPB.png",
+        "https://v3b.fal.media/files/b/0a98f653/o-AaFwp-jEPoZiTCaewdW_UlWuVJ8H.png",
+        "https://v3b.fal.media/files/b/0a98f655/RbetQpE6wCYocxCyZ1kSP_hYeiRmav.png"
+      ],
+      "error": "HTTPError('422 Client Error: Unprocessable Entity for url: https://fal.run/openai/gpt-image-2/edit')",
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T071344Z-latest-slate-slots01-05/04-accessory-drop-tray/manifest.json",
+      "asset_count": 5,
+      "visual_spotcheck": {
+        "status": "WARN",
+        "risk": "Text-risk slides were regenerated and no broken Thai/promo is visible; remaining caution is generic/minimal phone accessory packaging and iPhone/MagSafe-adjacent styling."
+      },
+      "zernio": {
+        "draft_id": "69f9a00d3062f9f48210c767",
+        "draft_only_verified": true,
+        "status": "draft",
+        "tiktok_draft": true,
+        "media_count": 5
+      }
+    },
+    {
+      "slot": 5,
+      "slug": "05-amber-longan-gift-tube",
+      "title_th": "PROMPT DROP: ลำไยอบแห้งให้ดูเป็น premium fruit gift tube",
+      "status": "generated_ready_for_zernio_dry_run",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T071344Z-latest-slate-slots01-05/05-amber-longan-gift-tube",
+      "events": [
+        {
+          "ts": "2026-05-05T07:31:27.392230+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98f611/EsndI1sUxHdRKv4wLKIx9_2ffhiaHW.png"
+        },
+        {
+          "ts": "2026-05-05T07:32:01.451597+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98f615/7xMM63qNUlE_eqf6gk-3i_IKZ67uu4.png"
+        },
+        {
+          "ts": "2026-05-05T07:32:29.978406+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98f618/xOWQFsTAliZF-NKIavbeA_piaS8XkM.png"
+        },
+        {
+          "ts": "2026-05-05T07:33:07.446955+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98f61b/tzxEKA7py7oIPp2gr0isE_l7o7Ynmp.png"
+        },
+        {
+          "ts": "2026-05-05T07:33:37.083376+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98f61f/BmBtvct1tV7qxKy3mi7CD_CfnIVyyu.png"
+        },
+        {
+          "ts": "2026-05-05T07:33:37.586560+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T071344Z-latest-slate-slots01-05/05-amber-longan-gift-tube/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-05T07:33:58.970098+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T071344Z-latest-slate-slots01-05/05-amber-longan-gift-tube/manifest.json",
+          "asset_count": 5
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98f611/EsndI1sUxHdRKv4wLKIx9_2ffhiaHW.png",
+        "https://v3b.fal.media/files/b/0a98f615/7xMM63qNUlE_eqf6gk-3i_IKZ67uu4.png",
+        "https://v3b.fal.media/files/b/0a98f618/xOWQFsTAliZF-NKIavbeA_piaS8XkM.png",
+        "https://v3b.fal.media/files/b/0a98f61b/tzxEKA7py7oIPp2gr0isE_l7o7Ynmp.png",
+        "https://v3b.fal.media/files/b/0a98f61f/BmBtvct1tV7qxKy3mi7CD_CfnIVyyu.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T071344Z-latest-slate-slots01-05/05-amber-longan-gift-tube/manifest.json",
+      "asset_count": 5,
+      "visual_spotcheck": {
+        "status": "PASS",
+        "risk": "Realistic food/gift packaging with pouch/tube/box/product window and Thai longan category cues; no visible prohibited promo/QR/watermark/fake brand."
+      },
+      "zernio": {
+        "draft_id": "69f9a00ee7a28af00bcf5002",
+        "draft_only_verified": true,
+        "status": "draft",
+        "tiktok_draft": true,
+        "media_count": 5
+      }
+    }
+  ],
+  "finished_at": "2026-05-05T07:42:49.800951+00:00",
+  "status_counts": {
+    "generated_ready_for_zernio_dry_run": 5
+  },
+  "production_report_json": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/production/2026-05-05T074654Z-prompt-drop-latest-slate-5set-production.json",
+  "production_report_md": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/production/2026-05-05T074654Z-prompt-drop-latest-slate-5set-production.md",
+  "visual_spotcheck_counts": {
+    "PASS": 3,
+    "WARN": 2,
+    "FAIL": 0
+  }
+}

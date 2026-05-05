@@ -1,0 +1,139 @@
+{
+  "series": "prompt_drop_th",
+  "batch_id": "prompt-drop-20260505T0112Z-latest-slate-slots01-05",
+  "source_slate_path": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/research/latest-prompt-drop-style-bank-slate.json",
+  "source_slate_generated_at_utc": "2026-05-04T20:38:53Z",
+  "slot": 1,
+  "slug": "01-desk-relief-thermal-kit",
+  "created_at": "2026-05-05T01:19:13.670295+00:00",
+  "status": "zernio_draft_created_verified",
+  "title_th": "PROMPT DROP: แผ่นแปะ/โรลออนแก้เมื่อยให้ดูเป็น office relief kit",
+  "title_en": "Office Relief Patch Kit Prompt",
+  "audience": "ร้านแผ่นแปะสมุนไพร, wellness seller, office health brand, TikTok Shop seller",
+  "business_goal": "drive_saves_shares_follower_growth_with_practical_thai_prompt_pack",
+  "real_use_case": "ทำภาพชุดแผ่นแปะ/โรลออนแก้เมื่อยสำหรับคนทำงานออฟฟิศให้ดูพกง่าย สะอาด และน่าเชื่อ ไม่ใช่กล่องยาวางบนโต๊ะโล่ง",
+  "real_thai_use_case": "ทำภาพชุดแผ่นแปะ/โรลออนแก้เมื่อยสำหรับคนทำงานออฟฟิศให้ดูพกง่าย สะอาด และน่าเชื่อ ไม่ใช่กล่องยาวางบนโต๊ะโล่ง",
+  "thai_context": "ทำภาพชุดแผ่นแปะ/โรลออนแก้เมื่อยสำหรับคนทำงานออฟฟิศให้ดูพกง่าย สะอาด และน่าเชื่อ ไม่ใช่กล่องยาวางบนโต๊ะโล่ง",
+  "output": "product hero, marketplace thumbnail, bundle image, desk-health campaign visual",
+  "topic_category": "product_image_prompt",
+  "slot_type": "product_commerce",
+  "visual_style": "Desk Relief Thermal Kit — matte herbal patch cartons, slim roll-on tube, heat-map amber glow, ergonomic desk props, clean clinical-but-warm studio",
+  "visual_world": "Desk Relief Thermal Kit — matte herbal patch cartons, slim roll-on tube, heat-map amber glow, ergonomic desk props, clean clinical-but-warm studio",
+  "visual_world_key": "desk_relief_thermal_kit",
+  "cover_hook": "PROMPT DROP",
+  "copy_prompt_th": "พรอมต์:\nสร้างภาพชุด [แผ่นแปะ/โรลออนแก้เมื่อย] สำหรับ TikTok Shop สไตล์ office wellness kit แสงอุ่นนุ่ม ฉากโต๊ะทำงานไทยแบบเรียบ มีแพ็กเกจหลายชิ้น ซองพกพา กล่องหลัก และ texture แผ่นแปะที่ดูสะอาด -- หลีกเลี่ยงคำเคลมรักษาโรค -- ภาพคมชัด 1:1\n\nปรับช่องในวงเล็บให้เข้ากับสินค้า/บริการของคุณ: กลุ่มลูกค้า = [ร้านแผ่นแปะสมุนไพร, wellness seller, office health brand, TikTok Shop seller], output = [product hero, marketplace thumbnail, bundle image, desk-health campaign visual], visual world = [Desk Relief Thermal Kit — matte herbal patch cartons, slim roll-on tube, heat-map amber glow, ergonomic desk props, clean clinical-but-warm studio]\nเหตุผลของภาพ: ใช้มุมกล้องกึ่ง top-down เห็นกล่อง แผ่นแปะ โรลออน และซองพกพาเป็นระบบเดียวกัน แสง amber อ่อนสื่อความอุ่น/ผ่อนคลายโดยไม่อ้างผลทางแพทย์ โต๊ะทำงานกับคีย์บอร์ดเบลอทำให้คนดูเข้าใจทันทีว่าใช้ระหว่างวันได้\nข้อกำหนดแพ็กเกจ: ต้องเป็นแพ็กเกจเชิงพาณิชย์จริง: กล่องกระดาษ matte มี label hierarchy ชื่อสินค้า/ชนิด/จำนวนชิ้น/สี accent amber-green, ซองฟอยล์แยก, โรลออนฝาปิดชัด, ห้ามขวดขาวโล่ง กล่องเปล่า blank หรือ unbranded mockup\nข้อห้าม: ห้ามโลโก้ปลอม ห้าม QR/barcode/watermark ห้ามตัวหนังสือมั่ว ห้ามภาพสินค้าโล่งแบบ mockup ดิบ และต้องเป็นภาพ square 1:1",
+  "editable_fields": [
+    "สินค้า/บริการ",
+    "แพลตฟอร์ม",
+    "กลุ่มลูกค้า",
+    "visual world",
+    "แสง",
+    "ฉาก",
+    "แพ็กเกจ/พร็อพ"
+  ],
+  "visual_intention": "ใช้มุมกล้องกึ่ง top-down เห็นกล่อง แผ่นแปะ โรลออน และซองพกพาเป็นระบบเดียวกัน แสง amber อ่อนสื่อความอุ่น/ผ่อนคลายโดยไม่อ้างผลทางแพทย์ โต๊ะทำงานกับคีย์บอร์ดเบลอทำให้คนดูเข้าใจทันทีว่าใช้ระหว่างวันได้",
+  "packaging_requirement": "ต้องเป็นแพ็กเกจเชิงพาณิชย์จริง: กล่องกระดาษ matte มี label hierarchy ชื่อสินค้า/ชนิด/จำนวนชิ้น/สี accent amber-green, ซองฟอยล์แยก, โรลออนฝาปิดชัด, ห้ามขวดขาวโล่ง กล่องเปล่า blank หรือ unbranded mockup",
+  "wow_factor_notes": "Full kit ecosystem: carton + sachet + roll-on + instruction card + desk context; thermal color accent gives save-worthy visual idea without arbitrary liquid/skin effects.",
+  "generation_model": "openai/gpt-image-2/edit",
+  "generator": "openai/gpt-image-2/edit via FalGptImage2EditClient",
+  "quality": "low",
+  "no_post_processing": true,
+  "cta_policy": "omit_genlabs_promo_unless_sway_reapproves",
+  "default_hashtags": [
+    "#PromptTH",
+    "#AIภาพสินค้า",
+    "#ขายของออนไลน์",
+    "#ProductPhotoAI",
+    "#แบรนด์ไทย"
+  ],
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a98ed48/X4yMF9Leux_w4RsrP64la_vk6nGBSr.png",
+    "https://v3b.fal.media/files/b/0a98ed4c/7a52KblvL76pa43CKebRE_Y4nmnp0M.png",
+    "https://v3b.fal.media/files/b/0a98ed50/jVzD2senB_bqhy1yrjb3j_hX0WIt05.png",
+    "https://v3b.fal.media/files/b/0a98ed53/xjpycoWxCISZjxihgzgF6_60R2afny.png",
+    "https://v3b.fal.media/files/b/0a98ed57/rauTfAcPT-kWlfT6DT5FG_I2sZ7WoY.png"
+  ],
+  "slides": [
+    {
+      "slide_index": 1,
+      "role": "cover_prompt_hook",
+      "asset_url": "https://v3b.fal.media/files/b/0a98ed48/X4yMF9Leux_w4RsrP64la_vk6nGBSr.png",
+      "image_url": "https://v3b.fal.media/files/b/0a98ed48/X4yMF9Leux_w4RsrP64la_vk6nGBSr.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/01-desk-relief-thermal-kit/slide-1.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 2,
+      "role": "main_usable_output",
+      "asset_url": "https://v3b.fal.media/files/b/0a98ed4c/7a52KblvL76pa43CKebRE_Y4nmnp0M.png",
+      "image_url": "https://v3b.fal.media/files/b/0a98ed4c/7a52KblvL76pa43CKebRE_Y4nmnp0M.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/01-desk-relief-thermal-kit/slide-2.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 3,
+      "role": "macro_detail_or_alternate_angle",
+      "asset_url": "https://v3b.fal.media/files/b/0a98ed50/jVzD2senB_bqhy1yrjb3j_hX0WIt05.png",
+      "image_url": "https://v3b.fal.media/files/b/0a98ed50/jVzD2senB_bqhy1yrjb3j_hX0WIt05.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/01-desk-relief-thermal-kit/slide-3.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 4,
+      "role": "prompt_recipe_moodboard",
+      "asset_url": "https://v3b.fal.media/files/b/0a98ed53/xjpycoWxCISZjxihgzgF6_60R2afny.png",
+      "image_url": "https://v3b.fal.media/files/b/0a98ed53/xjpycoWxCISZjxihgzgF6_60R2afny.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/01-desk-relief-thermal-kit/slide-4.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 5,
+      "role": "variation_copy_remix_ending",
+      "asset_url": "https://v3b.fal.media/files/b/0a98ed57/rauTfAcPT-kWlfT6DT5FG_I2sZ7WoY.png",
+      "image_url": "https://v3b.fal.media/files/b/0a98ed57/rauTfAcPT-kWlfT6DT5FG_I2sZ7WoY.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/01-desk-relief-thermal-kit/slide-5.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    }
+  ],
+  "selection_score": {
+    "practical_usefulness": 23,
+    "genlabs_business_fit": 18,
+    "save_copy_prompt_value": 19,
+    "visual_stop_power": 18,
+    "novelty_vs_recent": 9,
+    "low_production_risk": 4,
+    "total": 91
+  },
+  "qa_summary": {
+    "status": "prompt_qa_passed_pending_dry_run_and_visual_spotcheck",
+    "generation_policy": "GPT Image 2 low native output; no Flux/image_generate; no local compositing; text minimized because GPT-native typography can break Thai.",
+    "public_promo_policy": "Public slides/descriptions omit website, Prompt Drop promo ending, #GenLabsTH, and sales bridge terms unless re-approved.",
+    "use_case_first_gate": "Candidate selected from validated structured slate with Thai business/creator output before visual style.",
+    "packaging_gate": "Product/commerce candidates require full packaging ecosystem and reject blank/plain/unbranded mockups.",
+    "dry_run_and_api_status": "pass",
+    "visual_spotcheck": "pass",
+    "overall_review_queue_status": "api_draft_safe_and_visual_pass"
+  },
+  "zernio": {
+    "draft_id": "69f94927604f9b86333fc52c",
+    "status": "draft",
+    "draft_only_verified": true,
+    "media_count": 5,
+    "description_length": 3900,
+    "verified_at": "2026-05-05T01:34:32.601651+00:00",
+    "api_http_status": 200,
+    "tiktok_draft_flags": [
+      true
+    ],
+    "publish_attempts_ok": true,
+    "public_promo_absent": true
+  },
+  "visual_spotcheck": {
+    "checked_at": "2026-05-05T01:35:03.161682+00:00",
+    "contact_sheet": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/contact_sheet_prompt_drop_5sets.jpg",
+    "verdict": "PASS",
+    "promo_visible": false,
+    "issues": [],
+    "packaging_note": "realistic designed wellness kit packaging with box/roll-on/patch/sachet hierarchy"
+  }
+}

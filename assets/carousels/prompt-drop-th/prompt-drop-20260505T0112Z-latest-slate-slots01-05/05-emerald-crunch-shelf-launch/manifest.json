@@ -1,0 +1,139 @@
+{
+  "series": "prompt_drop_th",
+  "batch_id": "prompt-drop-20260505T0112Z-latest-slate-slots01-05",
+  "source_slate_path": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/research/latest-prompt-drop-style-bank-slate.json",
+  "source_slate_generated_at_utc": "2026-05-04T20:38:53Z",
+  "slot": 5,
+  "slug": "05-emerald-crunch-shelf-launch",
+  "created_at": "2026-05-05T01:31:14.179313+00:00",
+  "status": "zernio_draft_created_verified",
+  "title_th": "PROMPT DROP: สาหร่ายอบกรอบให้ดูเป็น snack launch pack",
+  "title_en": "Crispy Seaweed Snack Launch Pack Prompt",
+  "audience": "แบรนด์ขนมสุขภาพ, ร้านสาหร่าย/ของกินเล่น, marketplace snack seller, café retail shelf",
+  "business_goal": "drive_saves_shares_follower_growth_with_practical_thai_prompt_pack",
+  "real_use_case": "ทำภาพ snack pouch/กล่อง multipack ให้ดูขายได้จริงบน shelf และ TikTok Shop ไม่ใช่ซองเดี่ยวลอย ๆ กับวัตถุดิบ",
+  "real_thai_use_case": "ทำภาพ snack pouch/กล่อง multipack ให้ดูขายได้จริงบน shelf และ TikTok Shop ไม่ใช่ซองเดี่ยวลอย ๆ กับวัตถุดิบ",
+  "thai_context": "ทำภาพ snack pouch/กล่อง multipack ให้ดูขายได้จริงบน shelf และ TikTok Shop ไม่ใช่ซองเดี่ยวลอย ๆ กับวัตถุดิบ",
+  "output": "snack product hero, multipack bundle image, shelf visual, marketplace thumbnail",
+  "topic_category": "product_image_prompt",
+  "slot_type": "product_commerce",
+  "visual_style": "Emerald Crunch Shelf Launch — emerald foil pouches, multipack carton, sesame/salt texture tray, crisp shadow, convenience-store shelf crop",
+  "visual_world": "Emerald Crunch Shelf Launch — emerald foil pouches, multipack carton, sesame/salt texture tray, crisp shadow, convenience-store shelf crop",
+  "visual_world_key": "emerald_crunch_shelf_launch",
+  "cover_hook": "PROMPT DROP",
+  "copy_prompt_th": "พรอมต์:\nสร้างภาพ [สาหร่ายอบกรอบ] สำหรับ TikTok Shop สไตล์ snack launch pack มีซองฟอยล์เขียว กล่อง multipack ถาด texture แผ่นสาหร่าย งา/เกลือเล็กน้อย เงากรอบแบบสินค้า shelf-ready -- ไม่มีตัวหนังสือมั่ว -- 1:1\n\nปรับช่องในวงเล็บให้เข้ากับสินค้า/บริการของคุณ: กลุ่มลูกค้า = [แบรนด์ขนมสุขภาพ, ร้านสาหร่าย/ของกินเล่น, marketplace snack seller, café retail shelf], output = [snack product hero, multipack bundle image, shelf visual, marketplace thumbnail], visual world = [Emerald Crunch Shelf Launch — emerald foil pouches, multipack carton, sesame/salt texture tray, crisp shadow, convenience-store shelf crop]\nเหตุผลของภาพ: สร้าง visual world ที่เห็นซองหลัก กล่อง multipack และ texture ของแผ่นสาหร่ายชัด เพื่อให้ seller ใช้กับภาพเปิดตัว/ชั้นวางได้จริง สีเขียวมรกตและเงากรอบทำให้รู้สึก crisp โดยไม่ซ้ำหมวด mango/tea/chili\nข้อกำหนดแพ็กเกจ: ต้องมีซองฟอยล์ซีลบน-ล่าง, กล่อง multipack, accent color ตามรสชาติ, label hierarchy ชื่อสินค้า/รส/น้ำหนัก/จุดเด่น, material cue แบบ matte+foil; ห้ามซองขาวโล่ง plain pouch, blank carton หรือ unbranded mockup\nข้อห้าม: ห้ามโลโก้ปลอม ห้าม QR/barcode/watermark ห้ามตัวหนังสือมั่ว ห้ามภาพสินค้าโล่งแบบ mockup ดิบ และต้องเป็นภาพ square 1:1",
+  "editable_fields": [
+    "สินค้า/บริการ",
+    "แพลตฟอร์ม",
+    "กลุ่มลูกค้า",
+    "visual world",
+    "แสง",
+    "ฉาก",
+    "แพ็กเกจ/พร็อพ"
+  ],
+  "visual_intention": "สร้าง visual world ที่เห็นซองหลัก กล่อง multipack และ texture ของแผ่นสาหร่ายชัด เพื่อให้ seller ใช้กับภาพเปิดตัว/ชั้นวางได้จริง สีเขียวมรกตและเงากรอบทำให้รู้สึก crisp โดยไม่ซ้ำหมวด mango/tea/chili",
+  "packaging_requirement": "ต้องมีซองฟอยล์ซีลบน-ล่าง, กล่อง multipack, accent color ตามรสชาติ, label hierarchy ชื่อสินค้า/รส/น้ำหนัก/จุดเด่น, material cue แบบ matte+foil; ห้ามซองขาวโล่ง plain pouch, blank carton หรือ unbranded mockup",
+  "wow_factor_notes": "Shelf-ready multipack + crisp material tray gives more Pinterest/Dieline quality than a single pouch render.",
+  "generation_model": "openai/gpt-image-2/edit",
+  "generator": "openai/gpt-image-2/edit via FalGptImage2EditClient",
+  "quality": "low",
+  "no_post_processing": true,
+  "cta_policy": "omit_genlabs_promo_unless_sway_reapproves",
+  "default_hashtags": [
+    "#PromptTH",
+    "#AIภาพสินค้า",
+    "#ขายของออนไลน์",
+    "#ProductPhotoAI",
+    "#แบรนด์ไทย"
+  ],
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a98ed92/B4DWtF7_wK0WUlG4L4mVl_rwxY4xHS.png",
+    "https://v3b.fal.media/files/b/0a98ed95/uOLOgwffXP_dOeGcPwVuN_TAhtRcMA.png",
+    "https://v3b.fal.media/files/b/0a98ed98/xRhh8iO_y2fBuK9R6Ta0D_g9HvKr2B.png",
+    "https://v3b.fal.media/files/b/0a98ed9c/tLWg3cwMtIbebzDwcFcBy_6DEmN4kw.png",
+    "https://v3b.fal.media/files/b/0a98eda0/6VGQ5tJ9QiJf5lnFKUpbH_JALjTWPx.png"
+  ],
+  "slides": [
+    {
+      "slide_index": 1,
+      "role": "cover_prompt_hook",
+      "asset_url": "https://v3b.fal.media/files/b/0a98ed92/B4DWtF7_wK0WUlG4L4mVl_rwxY4xHS.png",
+      "image_url": "https://v3b.fal.media/files/b/0a98ed92/B4DWtF7_wK0WUlG4L4mVl_rwxY4xHS.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/05-emerald-crunch-shelf-launch/slide-1.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 2,
+      "role": "main_usable_output",
+      "asset_url": "https://v3b.fal.media/files/b/0a98ed95/uOLOgwffXP_dOeGcPwVuN_TAhtRcMA.png",
+      "image_url": "https://v3b.fal.media/files/b/0a98ed95/uOLOgwffXP_dOeGcPwVuN_TAhtRcMA.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/05-emerald-crunch-shelf-launch/slide-2.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 3,
+      "role": "macro_detail_or_alternate_angle",
+      "asset_url": "https://v3b.fal.media/files/b/0a98ed98/xRhh8iO_y2fBuK9R6Ta0D_g9HvKr2B.png",
+      "image_url": "https://v3b.fal.media/files/b/0a98ed98/xRhh8iO_y2fBuK9R6Ta0D_g9HvKr2B.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/05-emerald-crunch-shelf-launch/slide-3.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 4,
+      "role": "prompt_recipe_moodboard",
+      "asset_url": "https://v3b.fal.media/files/b/0a98ed9c/tLWg3cwMtIbebzDwcFcBy_6DEmN4kw.png",
+      "image_url": "https://v3b.fal.media/files/b/0a98ed9c/tLWg3cwMtIbebzDwcFcBy_6DEmN4kw.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/05-emerald-crunch-shelf-launch/slide-4.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 5,
+      "role": "variation_copy_remix_ending",
+      "asset_url": "https://v3b.fal.media/files/b/0a98eda0/6VGQ5tJ9QiJf5lnFKUpbH_JALjTWPx.png",
+      "image_url": "https://v3b.fal.media/files/b/0a98eda0/6VGQ5tJ9QiJf5lnFKUpbH_JALjTWPx.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/05-emerald-crunch-shelf-launch/slide-5.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    }
+  ],
+  "selection_score": {
+    "practical_usefulness": 23,
+    "genlabs_business_fit": 18,
+    "save_copy_prompt_value": 18,
+    "visual_stop_power": 18,
+    "novelty_vs_recent": 9,
+    "low_production_risk": 4,
+    "total": 90
+  },
+  "qa_summary": {
+    "status": "prompt_qa_passed_pending_dry_run_and_visual_spotcheck",
+    "generation_policy": "GPT Image 2 low native output; no Flux/image_generate; no local compositing; text minimized because GPT-native typography can break Thai.",
+    "public_promo_policy": "Public slides/descriptions omit website, Prompt Drop promo ending, #GenLabsTH, and sales bridge terms unless re-approved.",
+    "use_case_first_gate": "Candidate selected from validated structured slate with Thai business/creator output before visual style.",
+    "packaging_gate": "Product/commerce candidates require full packaging ecosystem and reject blank/plain/unbranded mockups.",
+    "dry_run_and_api_status": "pass",
+    "visual_spotcheck": "pass",
+    "overall_review_queue_status": "api_draft_safe_and_visual_pass"
+  },
+  "zernio": {
+    "draft_id": "69f9492d2168204a31573915",
+    "status": "draft",
+    "draft_only_verified": true,
+    "media_count": 5,
+    "description_length": 3900,
+    "verified_at": "2026-05-05T01:34:37.717668+00:00",
+    "api_http_status": 200,
+    "tiktok_draft_flags": [
+      true
+    ],
+    "publish_attempts_ok": true,
+    "public_promo_absent": true
+  },
+  "visual_spotcheck": {
+    "checked_at": "2026-05-05T01:35:03.161682+00:00",
+    "contact_sheet": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/contact_sheet_prompt_drop_5sets.jpg",
+    "verdict": "PASS",
+    "promo_visible": false,
+    "issues": [],
+    "packaging_note": "commercial seaweed snack pouches/boxes/multipack/shelf-ready category cues"
+  }
+}

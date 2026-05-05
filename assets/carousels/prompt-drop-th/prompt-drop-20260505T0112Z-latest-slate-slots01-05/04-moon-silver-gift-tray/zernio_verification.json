@@ -1,0 +1,81 @@
+{
+  "verified_at": "2026-05-05T01:34:36.484020+00:00",
+  "draft_id": "69f9492ba21db9422830e839",
+  "dry_run": {
+    "status": "dry_run_ok",
+    "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/04-moon-silver-gift-tray/manifest.json",
+    "slug": "04-moon-silver-gift-tray",
+    "title": "PROMPT DROP: เครื่องประดับเงินให้ดูเป็น gift drop",
+    "asset_count": 5,
+    "generation_model": "openai/gpt-image-2/edit",
+    "quality": "low",
+    "no_post_processing": true,
+    "description_length": 3900,
+    "hashtags": [
+      "#PromptTH",
+      "#AIภาพสินค้า",
+      "#ขายของออนไลน์",
+      "#ProductPhotoAI",
+      "#แบรนด์ไทย"
+    ],
+    "draft_only": true
+  },
+  "dry_run_ok": true,
+  "payload_safety": {
+    "isDraft": true,
+    "tiktok_draft": true,
+    "publishNow_present": false,
+    "scheduledFor_present": false,
+    "media_count": 5,
+    "description_length": 3900,
+    "hashtags": [
+      "#PromptTH",
+      "#AIภาพสินค้า",
+      "#ขายของออนไลน์",
+      "#ProductPhotoAI",
+      "#แบรนด์ไทย"
+    ],
+    "forbidden_public_hits": []
+  },
+  "create_summary": {
+    "create_returncode": 0,
+    "draft_id": "69f9492ba21db9422830e839",
+    "description_length": 3900,
+    "asset_count": 5,
+    "hashtags": [
+      "#PromptTH",
+      "#AIภาพสินค้า",
+      "#ขายของออนไลน์",
+      "#ProductPhotoAI",
+      "#แบรนด์ไทย"
+    ],
+    "draft_only": true
+  },
+  "api_check": {
+    "http_status": 200,
+    "status": "draft",
+    "platform_statuses": [
+      "pending"
+    ],
+    "tiktok_draft_flags": [
+      true
+    ],
+    "tiktok_draft_true": true,
+    "media_count": 5,
+    "media_types": [
+      "image",
+      "image",
+      "image",
+      "image",
+      "image"
+    ],
+    "media_type_photo_or_image": true,
+    "publishAttempts": 0,
+    "publishAttempts_ok": true,
+    "publishNow_present": false,
+    "scheduledFor_present": true,
+    "description_length_expected": 3900,
+    "live_forbidden_public_hits": []
+  },
+  "ok": true
+}

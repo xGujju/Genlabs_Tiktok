@@ -289,6 +289,14 @@ If a fact should survive thread changes, it must be promoted into at least one o
   - `465464d576f2` / `GenLabs Prompt Drop 5-set draft factory` — `0 1,7,13 * * *`
   - `faf32927c4a1` / `GenLabs Prompt Drop QA + Zernio verifier` — `45 2,8,14 * * *`
 
+## 2026-05-05 — Prompt Drop latest-slate production verified
+- 2026-05-05T13:36Z production batch `prompt-drop-20260505T130300Z-latest-slate-slots01-05` created 5 complete Prompt Drop TH sets from the latest structured slate.
+- Candidate block validation passed: 5 direct product/SME-useful sets, 0 experimental, all scores >=75, no adjacent repeats, no public forbidden GenLabs/no-prompt terms.
+- Generated assets are GPT Image 2 low native square outputs with no post-processing; contact sheet: `/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/contact_sheet_all_5sets.jpg`.
+- Dry-run and Zernio verification passed 5/5: long Thai descriptions 3966 chars, prompt giveaway present, visual intention and packaging/service rules present, exact default hashtags, `status=draft`, TikTok draft true, photo media count 5, no public GenLabs/no-prompt promo.
+- Draft IDs: `01-hydration-desk-kit` → `69f9f1081a1c5c11c68c7870`; `02-phone-repair-trust-desk` → `69f9f10a95f1b301e5a7d2bc`; `03-rider-decal-lookbook` → `69f9f10b1a1c5c11c68c78bb`; `04-weekday-meal-prep-tray` → `69f9f10c711a0852dadaf8bf`; `05-dog-bath-day-care-kit` → `69f9f10d711a0852dadaf920`.
+- Evidence report: `/home/clawd/.hermes/ai_signal_radar/prompt_drop/production/2026-05-05T133600Z-prompt-drop-latest-slate-5set-production.md`.
+
 ## 2026-04-28 — sig-77 timeout root cause + selector gate
 - Hourly Zernio draft factory produced partial `auto-*` assets for `sig-77` but no manifest because GPT Image 2 slide generation consumed almost all of the 600s run budget; the process was killed before manifest/Airtable/Zernio completion.
 - Safety worked: no `Carousel Posts` record and no Zernio draft were created for the failed source.

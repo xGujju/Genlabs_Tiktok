@@ -1,0 +1,269 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a98fab3/75QSn63wAWrX31LBAtDDS_9ZY484nI.png",
+    "https://v3b.fal.media/files/b/0a98fab7/l0O51CzyO58fbIczZ2XtN_P0uVJDQx.png",
+    "https://v3b.fal.media/files/b/0a98fabb/cRXn-xcSQnu9w2OwvNrho_ssekB4qE.png",
+    "https://v3b.fal.media/files/b/0a98fabf/MCsIIFlNp7nAtvzmyY32O_mxdGy232.png",
+    "https://v3b.fal.media/files/b/0a98fac3/R1ljt9LJNTNadmbyeFYw4_Niwl8GzG.png",
+    "https://v3b.fal.media/files/b/0a98fac7/ROGSFhdz4eRRlj-ZZlGkq_YuLPmqks.png",
+    "https://v3b.fal.media/files/b/0a98facb/cAjXVmfEGHRp8UEhZpiod_dyj3vhis.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 7,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/7 role=hook. Thai copy: ใช้ Claude Code ทำหน้าเว็บร้านแบบตรวจได้ก่อนปล่อยจริง\nClaude Code • prompt. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "ใช้ Claude Code ทำหน้าเว็บร้านแบบตรวจได้ก่อนปล่อยจริง\nClaude Code • prompt",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/7 role=problem. Thai copy: ปัญหา: SME อยากได้เว็บโปรโมชันเร็ว แต่ถ้าสั่ง AI กว้างเกินไปจะได้โค้ดที่ตรวจยาก แก้ยาก และเสี่ยงพังก่อนขายจริง. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: SME อยากได้เว็บโปรโมชันเร็ว แต่ถ้าสั่ง AI กว้างเกินไปจะได้โค้ดที่ตรวจยาก แก้ยาก และเสี่ยงพังก่อนขายจริง",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/7 role=trend. Thai copy: ทำไมควรสนใจ:\nClaude Code เหมาะกับงานที่มี brief, input/output, ไฟล์ที่เกี่ยวข้อง และ checklist ทดสอบ. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nClaude Code เหมาะกับงานที่มี brief, input/output, ไฟล์ที่เกี่ยวข้อง และ checklist ทดสอบ",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/7 role=tips. Thai copy: ลองใช้แบบนี้:\n1) เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์\n2) ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ\n3) ขอ responsive landing page พร้อม copy สั้น\n4) ให้ Claude Code สรุป diff และไฟล์ที่แก้. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์\n2) ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ\n3) ขอ responsive landing page พร้อม copy สั้น\n4) ให้ Claude Code สรุป diff และไฟล์ที่แก้",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/7 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/7 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\n5) ทดสอบ mobile ปุ่ม CTA form และ tracking ก่อน deploy. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\n5) ทดสอบ mobile ปุ่ม CTA form และ tracking ก่อน deploy",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/7 role=cta. Thai copy: ลองวันนี้:\nวันนี้ลองให้ Claude Code ทำ landing page 1 หน้า พร้อม diff summary และ checklist ทดสอบก่อนปล่อยจริง. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้ลองให้ Claude Code ทำ landing page 1 หน้า พร้อม diff summary และ checklist ทดสอบก่อนปล่อยจริง",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "yt-WqoPkZ88f5k",
+    "source_url": "https://www.youtube.com/watch?v=WqoPkZ88f5k",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://www.youtube.com/watch?v=WqoPkZ88f5k",
+        "Keywords: Claude Code, prompt",
+        "This is trending because people can copy the workflow immediately instead of only reading AI news."
+      ],
+      "glossary": {
+        "Claude Code": "Claude Code",
+        "prompt": "พรอมป์ต์"
+      },
+      "original_keywords": [
+        "Claude Code",
+        "prompt"
+      ],
+      "source_id": "yt-WqoPkZ88f5k",
+      "source_url": "https://www.youtube.com/watch?v=WqoPkZ88f5k",
+      "thai_call_to_action": "วันนี้ลองให้ Claude Code ทำ landing page 1 หน้า พร้อม diff summary และ checklist ทดสอบก่อนปล่อยจริง",
+      "thai_hook": "ใช้ Claude Code ทำหน้าเว็บร้านแบบตรวจได้ก่อนปล่อยจริง",
+      "thai_problem": "SME อยากได้เว็บโปรโมชันเร็ว แต่ถ้าสั่ง AI กว้างเกินไปจะได้โค้ดที่ตรวจยาก แก้ยาก และเสี่ยงพังก่อนขายจริง",
+      "thai_tips": [
+        "เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์",
+        "ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ",
+        "ขอ responsive landing page พร้อม copy สั้น",
+        "ให้ Claude Code สรุป diff และไฟล์ที่แก้",
+        "ทดสอบ mobile ปุ่ม CTA form และ tracking ก่อน deploy"
+      ],
+      "thai_trend_angle": "Claude Code เหมาะกับงานที่มี brief, input/output, ไฟล์ที่เกี่ยวข้อง และ checklist ทดสอบ ไม่ใช่แค่บอกให้สร้างเว็บให้หน่อย"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "Zinho Automates",
+    "clean_headline": "The ONLY Claude Tutorial You'll Ever Need in 2026 Zinho Automates The ONLY Claude Tutorial You'll Ever Need in 2026.",
+    "clean_summary": "The ONLY Claude Tutorial You'll Ever Need in 2026 Zinho Automates The ONLY Claude Tutorial You'll Ever Need in 2026. Join our FREE community with free prompts & guides: ... Transcript: The ONLY Claude Tutorial You'll Ever Need in 2026 description&redir_token=REDACTED&q=https%3A%2F%2Fwww.skool.com%2Fai-launchpad%2Fabout&v=WqoPkZ88f5k)…...more ...more How this was made Auto-dubbed Audio tracks for some languages were automatically generated. [Learn more]( Transcript Follow along using the transcript. Show transcript [![Image 8]( ### Zinho Automates 54.7K subscribers]( [Videos]( Show less []( # The ONLY Claude Tutorial You'll Ever Need in 2026 14,067 views May 4, 2026 Like Share Save Download Download ## 19 Comments Sort comments Sort by [Top Show featured comments]( Show recent comments, including potential spam]( ![Image 9]( Add a comment... ![Image 10]( Pinned by @zinhoautomates ### [@zinhoautomates]( [@zinhoautomates @zinhoautomates]( hours ago]( Join our FREE community with free prompts & guides: [ Show less Read more Like 5 Dislike ![Image 11]( ❤ by @zinhoautomates Reply ![Image 12]( ### [@Chronixel]( [1 hour ago]( This is exactly why Claude Code is so powerful. Tools like this helped me grow as a small creator. Almost at 4K subs now — keep building, everyone. Great tutorial btw! Show less Read more Like 5 Dislike Reply ![Image 13]( ### [@MamaSheriff-y8m]( [13 hours ago]( This video was amazing, learned a lot. Show less Read more Like 1 Dislike Reply ## Comments 19 [Top Show featured comments]( Show recent comments, including potential spam]( ## In this video Transcript ## Description The ONLY Claude Tutorial You'll Ever Need in 2026 N/A Likes 14,067 Views 20h Ago The ONLY Claude Tutorial You'll Ever Need in 2026. Join our FREE community with free prompts & guides: [ Chapters: [0:00]( - Intro [1:19]( - Step 1: Pick the model [2:07]( - Step 2: The prompt rewrite [5:15]( - Step 3: Memory [6:24]( - Step 4: Artifacts [9:04]( - Step 5: Projects [11:01](",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 14067,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "Claude Code",
+      "prompt"
+    ],
+    "original_language": "en",
+    "raw_text": "YouTube title: The ONLY Claude Tutorial You'll Ever Need in 2026\nChannel: Zinho Automates\nDescription: The ONLY Claude Tutorial You'll Ever Need in 2026. Join our FREE community with free prompts & guides: ...\nTranscript:\nTitle: The ONLY Claude Tutorial You'll Ever Need in 2026 description&redir_token=REDACTED&q=https%3A%2F%2Fwww.skool.com%2Fai-launchpad%2Fabout&v=WqoPkZ88f5k)…...more ...more How this was made Auto-dubbed Audio tracks for some languages were automatically generated. [Learn more](https://support.google.com/youtube/answer/15569972?hl=en) Transcript Follow along using the transcript. Show transcript [![Image 8](https://www.youtube.com/watch?v=WqoPkZ88f5k) ### Zinho Automates 54.7K subscribers](https://www.youtube.com/@zinhoautomates) [Videos](https://www.youtube.com/channel/UC3i3qKQ5aR_guegQj5bhOMw/videos)[About](https://www.youtube.com/channel/UC3i3qKQ5aR_guegQj5bhOMw/about) Show less [](https://www.youtube.com/watch?v=WqoPkZ88f5k) # The ONLY Claude Tutorial You'll Ever Need in 2026 14,067 views May 4, 2026 Like Share Save Download Download ## 19 Comments Sort comments Sort by [Top Show featured comments](https://www.youtube.com/watch?v=WqoPkZ88f5k)[Newest Show recent comments, including potential spam](https://www.youtube.com/watch?v=WqoPkZ88f5k) ![Image 9](https://yt3.ggpht.com/a/default-user=s48-c-k-c0x00ffffff-no-rj) Add a comment... ![Image 10](https://yt3.ggpht.com/ShkeF1ugzI3FmmsB98ToRNXKaecxedRwAdXEuEgUD2xKSfQXiZdR-I8g_PldNWjWDBPadsbI1A=s88-c-k-c0x00ffffff-no-rj) Pinned by @zinhoautomates ### [@zinhoautomates](https://www.youtube.com/@zinhoautomates) [@zinhoautomates @zinhoautomates](https://www.youtube.com/@zinhoautomates)[20 hours ago](https://www.youtube.com/watch?v=WqoPkZ88f5k&lc=Ugw4slSHzFBJ89DI-Od4AaABAg) Join our FREE community with free prompts & guides: [https://www.skool.com/ai-launchpad/about](https://www.youtube.com/redirect?event=comments&redir_token=REDACTED&q=https%3A%2F%2Fwww.skool.com%2Fai-launchpad%2Fabout) Show less Read more Like 5 Dislike ![Image 11](https://yt3.ggpht.com/ShkeF1ugzI3FmmsB98ToRNXKaecxedRwAdXEuEgUD2xKSfQXiZdR-I8g_PldNWjWDBPadsbI1A=s88-c-k-c0x00ffffff-no-rj) ❤ by @zinhoautomates Reply ![Image 12](https://yt3.ggpht.com/Qob_u1Exmh6f6TiN8l3_agN8RgTgTp1zQUQoX_3vwqA4jHQCM9NayVW0cCAjKxn6eDVwPNYWfg=s88-c-k-c0x00ffffff-no-rj) ### [@Chronixel](https://www.youtube.com/@Chronixel) [1 hour ago](https://www.youtube.com/watch?v=WqoPkZ88f5k&lc=UgxdgJXENUome8977iZ4AaABAg) This is exactly why Claude Code is so powerful. Tools like this helped me grow as a small creator. Almost at 4K subs now — keep building, everyone. Great tutorial btw! Show less Read more Like 5 Dislike Reply ![Image 13](https://www.youtube.com/watch?v=WqoPkZ88f5k) ### [@MamaSheriff-y8m](https://www.youtube.com/@MamaSheriff-y8m) [13 hours ago](https://www.youtube.com/watch?v=WqoPkZ88f5k&lc=Ugx07OjzIOVJJvkr1g94AaABAg) This video was amazing, learned a lot. Show less Read more Like 1 Dislike Reply ## Comments 19 [Top Show featured comments](https://www.youtube.com/watch?v=WqoPkZ88f5k)[Newest Show recent comments, including potential spam](https://www.youtube.com/watch?v=WqoPkZ88f5k) ## In this video Transcript ## Description The ONLY Claude Tutorial You'll Ever Need in 2026 N/A Likes 14,067 Views 20h Ago The ONLY Claude Tutorial You'll Ever Need in 2026. Join our FREE community with free prompts & guides: [https://www.skool.com/ai-launchpad/about](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fwww.skool.com%2Fai-launchpad%2Fabout&v=WqoPkZ88f5k) Chapters: [0:00](https://www.youtube.com/watch?v=WqoPkZ88f5k) - Intro [1:19](https://www.youtube.com/watch?v=WqoPkZ88f5k&t=79s) - Step 1: Pick the model [2:07](https://www.youtube.com/watch?v=WqoPkZ88f5k&t=127s) - Step 2: The prompt rewrite [5:15](https://www.youtube.com/watch?v=WqoPkZ88f5k&t=315s) - Step 3: Memory [6:24](https://www.youtube.com/watch?v=WqoPkZ88f5k&t=384s) - Step 4: Artifacts [9:04](https://www.youtube.com/watch?v=WqoPkZ88f5k&t=544s) - Step 5: Projects [11:01](https://www.youtube.com/watch?v=WqoPkZ88f5k&t=661",
+    "source_id": "yt-WqoPkZ88f5k",
+    "source_url": "https://www.youtube.com/watch?v=WqoPkZ88f5k",
+    "why_it_matters": "This is trending because people can copy the workflow immediately instead of only reading AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้ลองให้ Claude Code ทำ landing page 1 หน้า พร้อม diff summary และ checklist ทดสอบก่อนปล่อยจริง",
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=WqoPkZ88f5k",
+      "Keywords: Claude Code, prompt",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "hook": "ใช้ Claude Code ทำหน้าเว็บร้านแบบตรวจได้ก่อนปล่อยจริง",
+    "original_keywords": [
+      "Claude Code",
+      "prompt"
+    ],
+    "original_language": "en",
+    "problem": "SME อยากได้เว็บโปรโมชันเร็ว แต่ถ้าสั่ง AI กว้างเกินไปจะได้โค้ดที่ตรวจยาก แก้ยาก และเสี่ยงพังก่อนขายจริง",
+    "source_id": "yt-WqoPkZ88f5k",
+    "source_url": "https://www.youtube.com/watch?v=WqoPkZ88f5k",
+    "tips": [
+      "เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์",
+      "ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ",
+      "ขอ responsive landing page พร้อม copy สั้น",
+      "ให้ Claude Code สรุป diff และไฟล์ที่แก้",
+      "ทดสอบ mobile ปุ่ม CTA form และ tracking ก่อน deploy"
+    ],
+    "trend_angle": "Claude Code เหมาะกับงานที่มี brief, input/output, ไฟล์ที่เกี่ยวข้อง และ checklist ทดสอบ ไม่ใช่แค่บอกให้สร้างเว็บให้หน่อย"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "75QSn63wAWrX31LBAtDDS_9ZY484nI.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98fab3/75QSn63wAWrX31LBAtDDS_9ZY484nI.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T104833Z-yt-WqoPkZ88f5k/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "l0O51CzyO58fbIczZ2XtN_P0uVJDQx.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98fab7/l0O51CzyO58fbIczZ2XtN_P0uVJDQx.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T104833Z-yt-WqoPkZ88f5k/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "cRXn-xcSQnu9w2OwvNrho_ssekB4qE.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98fabb/cRXn-xcSQnu9w2OwvNrho_ssekB4qE.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T104833Z-yt-WqoPkZ88f5k/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "MCsIIFlNp7nAtvzmyY32O_mxdGy232.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98fabf/MCsIIFlNp7nAtvzmyY32O_mxdGy232.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T104833Z-yt-WqoPkZ88f5k/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "R1ljt9LJNTNadmbyeFYw4_Niwl8GzG.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98fac3/R1ljt9LJNTNadmbyeFYw4_Niwl8GzG.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T104833Z-yt-WqoPkZ88f5k/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "ROGSFhdz4eRRlj-ZZlGkq_YuLPmqks.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98fac7/ROGSFhdz4eRRlj-ZZlGkq_YuLPmqks.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T104833Z-yt-WqoPkZ88f5k/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "cAjXVmfEGHRp8UEhZpiod_dyj3vhis.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98facb/cAjXVmfEGHRp8UEhZpiod_dyj3vhis.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T104833Z-yt-WqoPkZ88f5k/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 8,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T104833Z-yt-WqoPkZ88f5k/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: SME อยากได้เว็บโปรโมชันเร็ว แต่ถ้าสั่ง AI กว้างเกินไปจะได้โค้ดที่ตรวจยาก แก้ยาก และเสี่ยงพังก่อนขายจริง\n\n📌 ทำไมควรเซฟโพสต์นี้: Claude Code เหมาะกับงานที่มี brief, input/output, ไฟล์ที่เกี่ยวข้อง และ checklist ทดสอบ ไม่ใช่แค่บอกให้สร้างเว็บให้หน่อย\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์\n\n2) ✨ ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ\n\n3) ✨ ขอ responsive landing page พร้อม copy สั้น\n\n4) ✨ ให้ Claude Code สรุป diff และไฟล์ที่แก้\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#พร้อมท์ไทย"
+    ],
+    "title": "ใช้ Claude Code ทำหน้าเว็บร้านแบบตรวจได้ก่อนปล่อยจริง #AIมือใหม่ ใช้ได้จริง"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=WqoPkZ88f5k",
+      "Keywords: Claude Code, prompt",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "glossary": {
+      "Claude Code": "Claude Code",
+      "prompt": "พรอมป์ต์"
+    },
+    "original_keywords": [
+      "Claude Code",
+      "prompt"
+    ],
+    "source_id": "yt-WqoPkZ88f5k",
+    "source_url": "https://www.youtube.com/watch?v=WqoPkZ88f5k",
+    "thai_call_to_action": "วันนี้ลองให้ Claude Code ทำ landing page 1 หน้า พร้อม diff summary และ checklist ทดสอบก่อนปล่อยจริง",
+    "thai_hook": "ใช้ Claude Code ทำหน้าเว็บร้านแบบตรวจได้ก่อนปล่อยจริง",
+    "thai_problem": "SME อยากได้เว็บโปรโมชันเร็ว แต่ถ้าสั่ง AI กว้างเกินไปจะได้โค้ดที่ตรวจยาก แก้ยาก และเสี่ยงพังก่อนขายจริง",
+    "thai_tips": [
+      "เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์",
+      "ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ",
+      "ขอ responsive landing page พร้อม copy สั้น",
+      "ให้ Claude Code สรุป diff และไฟล์ที่แก้",
+      "ทดสอบ mobile ปุ่ม CTA form และ tracking ก่อน deploy"
+    ],
+    "thai_trend_angle": "Claude Code เหมาะกับงานที่มี brief, input/output, ไฟล์ที่เกี่ยวข้อง และ checklist ทดสอบ ไม่ใช่แค่บอกให้สร้างเว็บให้หน่อย"
+  }
+}

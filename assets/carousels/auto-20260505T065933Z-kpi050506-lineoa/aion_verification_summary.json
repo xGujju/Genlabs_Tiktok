@@ -1,0 +1,104 @@
+{
+  "state": {
+    "status": "ok",
+    "draft_count": 1,
+    "generated_at": "2026-05-05T07:05:04.877055+00:00",
+    "state_mtime_utc": "2026-05-05T07:05:04.876376+00:00"
+  },
+  "source": {
+    "source_id": "kpi050506-lineoa",
+    "tool_topic": "Custom GPT / LINE OA admin FAQ workflow",
+    "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T065933Z-kpi050506-lineoa/manifest.json",
+    "manifest_exists": true,
+    "content_slides": 7,
+    "asset_urls_count": 8,
+    "images_count": 8,
+    "title": "ทำ Custom GPT ให้แอดมินตอบลูกค้าไม่หลุดกฎร้าน #AIมือใหม่ เอาไปใช้กับงานจริงได้ทันที",
+    "hashtags_count": 5
+  },
+  "airtable": {
+    "http": 200,
+    "record_id": "reciFSPObsoa9fXBv",
+    "source_id": "kpi050506-lineoa",
+    "zernio_draft_id": "69f9969fbd0ff6f13422e154",
+    "zernio_draft_status": "draft_created",
+    "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T065933Z-kpi050506-lineoa/manifest.json"
+  },
+  "outbound_payload_rebuilt": {
+    "isDraft": true,
+    "tiktokSettings_draft": true,
+    "publishNow_present": false,
+    "scheduledFor_present": false,
+    "media_count": 8,
+    "platforms": [
+      {
+        "platform": "tiktok",
+        "accountId": "69ee7188985e734bf3bb187f",
+        "has_firstComment": false
+      },
+      {
+        "platform": "facebook",
+        "accountId": "69f7273c157a6202f6b89a9d",
+        "has_firstComment": true
+      },
+      {
+        "platform": "instagram",
+        "accountId": "69f72753157a6202f6b89b16",
+        "has_firstComment": true
+      }
+    ],
+    "title_len": 83,
+    "content_len": 1263,
+    "tiktok_description_len": 1263
+  },
+  "zernio_live": {
+    "http": 200,
+    "draft_id": "69f9969fbd0ff6f13422e154",
+    "status": "draft",
+    "publishNow_present": false,
+    "scheduledFor_present_in_readback": true,
+    "tiktok_draft_verified": true,
+    "media_count": 8,
+    "platform_account_ok": {
+      "tiktok": true,
+      "facebook": true,
+      "instagram": true
+    },
+    "platforms": [
+      {
+        "platform": "tiktok",
+        "account_id": "69ee7188985e734bf3bb187f",
+        "first_comment_hash": null,
+        "first_comment_exact": null,
+        "tiktok_nested_draft": true
+      },
+      {
+        "platform": "facebook",
+        "account_id": "69f7273c157a6202f6b89a9d",
+        "first_comment_hash": "c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8",
+        "first_comment_exact": true,
+        "tiktok_nested_draft": null
+      },
+      {
+        "platform": "instagram",
+        "account_id": "69f72753157a6202f6b89b16",
+        "first_comment_hash": "c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8",
+        "first_comment_exact": true,
+        "tiktok_nested_draft": null
+      }
+    ],
+    "fb_first_comment_exact": true,
+    "ig_first_comment_exact": true,
+    "first_comment_expected_hash": "c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8"
+  },
+  "public_copy_qa": {
+    "leak_terms_found": [],
+    "copy_caveats": [
+      "Manifest/public copy uses awkward “กำหนดช่องคำตอบ”; skill prefers “กำหนดโหมดคำตอบ/รูปแบบคำตอบ” for support workflows.",
+      "Manifest/public copy uses rough “เงื่อนไขส่งของ”; skill prefers “เงื่อนไขการจัดส่ง” when space allows.",
+      "Manifest/public copy uses vague “ห้ามสัญญา”; skill prefers “ห้ามรับปากเกินจริง/ห้ามสัญญาแทนร้าน”."
+    ],
+    "promise_count": 5,
+    "distinct_numbered_items_visible_in_manifest": 5
+  }
+}

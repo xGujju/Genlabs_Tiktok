@@ -1,0 +1,312 @@
+{
+  "batch_id": "prompt-drop-20260505T0112Z-latest-slate-slots01-05",
+  "started_at": "2026-05-05T01:16:02.121274+00:00",
+  "source_slate": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/research/latest-prompt-drop-style-bank-slate.json",
+  "selected_slots": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "block_validation": {
+    "ok": true,
+    "product_or_sme_useful_count": 4,
+    "experimental_count": 0,
+    "low_score_slots": [],
+    "hard_failure_slots": [],
+    "adjacent_repeats": [],
+    "public_forbidden_hits": []
+  },
+  "items": [
+    {
+      "slot": 1,
+      "slug": "01-desk-relief-thermal-kit",
+      "title_th": "PROMPT DROP: แผ่นแปะ/โรลออนแก้เมื่อยให้ดูเป็น office relief kit",
+      "status": "zernio_draft_created_verified",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/01-desk-relief-thermal-kit",
+      "events": [
+        {
+          "ts": "2026-05-05T01:16:42.334368+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98ed48/X4yMF9Leux_w4RsrP64la_vk6nGBSr.png"
+        },
+        {
+          "ts": "2026-05-05T01:17:16.751916+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98ed4c/7a52KblvL76pa43CKebRE_Y4nmnp0M.png"
+        },
+        {
+          "ts": "2026-05-05T01:17:48.532444+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98ed50/jVzD2senB_bqhy1yrjb3j_hX0WIt05.png"
+        },
+        {
+          "ts": "2026-05-05T01:18:32.528985+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98ed53/xjpycoWxCISZjxihgzgF6_60R2afny.png"
+        },
+        {
+          "ts": "2026-05-05T01:19:13.169432+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98ed57/rauTfAcPT-kWlfT6DT5FG_I2sZ7WoY.png"
+        },
+        {
+          "ts": "2026-05-05T01:19:13.670722+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/01-desk-relief-thermal-kit/manifest.json",
+          "asset_count": 5
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98ed48/X4yMF9Leux_w4RsrP64la_vk6nGBSr.png",
+        "https://v3b.fal.media/files/b/0a98ed4c/7a52KblvL76pa43CKebRE_Y4nmnp0M.png",
+        "https://v3b.fal.media/files/b/0a98ed50/jVzD2senB_bqhy1yrjb3j_hX0WIt05.png",
+        "https://v3b.fal.media/files/b/0a98ed53/xjpycoWxCISZjxihgzgF6_60R2afny.png",
+        "https://v3b.fal.media/files/b/0a98ed57/rauTfAcPT-kWlfT6DT5FG_I2sZ7WoY.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/01-desk-relief-thermal-kit/manifest.json",
+      "asset_count": 5,
+      "zernio_draft_id": "69f94927604f9b86333fc52c",
+      "zernio_api_status": "draft"
+    },
+    {
+      "slot": 2,
+      "slug": "02-small-condo-listing-lightbox",
+      "title_th": "PROMPT DROP: ห้องเช่า/คอนโดให้ดูน่าอยู่ตั้งแต่รูปแรก",
+      "status": "zernio_draft_created_verified",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/02-small-condo-listing-lightbox",
+      "events": [
+        {
+          "ts": "2026-05-05T01:19:52.624344+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98ed5c/XWx1qak5NFTup-ablo1gR_Le3fGLFJ.png"
+        },
+        {
+          "ts": "2026-05-05T01:20:30.445829+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98ed60/O4LjHdN_wzsT0PjtpPSqb_80FuIVuJ.png"
+        },
+        {
+          "ts": "2026-05-05T01:21:06.931265+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98ed63/eabyOn221Z4VmL18KpKo6_2NARqeYY.png"
+        },
+        {
+          "ts": "2026-05-05T01:21:42.872743+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98ed67/PAYR-gGdzoYFjvP21x5YS_OUma4mTL.png"
+        },
+        {
+          "ts": "2026-05-05T01:22:15.299559+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98ed6a/me1-b-IOQT2VZI8ni-coc_eLXQ14lW.png"
+        },
+        {
+          "ts": "2026-05-05T01:22:15.801430+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/02-small-condo-listing-lightbox/manifest.json",
+          "asset_count": 5
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98ed5c/XWx1qak5NFTup-ablo1gR_Le3fGLFJ.png",
+        "https://v3b.fal.media/files/b/0a98ed60/O4LjHdN_wzsT0PjtpPSqb_80FuIVuJ.png",
+        "https://v3b.fal.media/files/b/0a98ed63/eabyOn221Z4VmL18KpKo6_2NARqeYY.png",
+        "https://v3b.fal.media/files/b/0a98ed67/PAYR-gGdzoYFjvP21x5YS_OUma4mTL.png",
+        "https://v3b.fal.media/files/b/0a98ed6a/me1-b-IOQT2VZI8ni-coc_eLXQ14lW.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/02-small-condo-listing-lightbox/manifest.json",
+      "asset_count": 5,
+      "zernio_draft_id": "69f94929a21db9422830e7ed",
+      "zernio_api_status": "draft"
+    },
+    {
+      "slot": 3,
+      "slug": "03-mirror-rack-live-studio",
+      "title_th": "PROMPT DROP: ไลฟ์ขายเสื้อผ้าให้ดูเป็น try-on rack editorial",
+      "status": "zernio_draft_created_verified",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/03-mirror-rack-live-studio",
+      "events": [
+        {
+          "ts": "2026-05-05T01:22:47.541048+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98ed6d/hVnBDG3TWaz445edQVc_o_cloTW80o.png"
+        },
+        {
+          "ts": "2026-05-05T01:23:24.440684+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98ed71/KJLzFfWwwTmiSlvQLN7SO_OjpAgwkT.png"
+        },
+        {
+          "ts": "2026-05-05T01:23:55.941384+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98ed75/Wyx8ACQ3N9bnOr43BAln9_Lokhk2UI.png"
+        },
+        {
+          "ts": "2026-05-05T01:24:36.777939+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98ed77/MphJyU4HzjazP3TriHJmr_ZugNssHn.png"
+        },
+        {
+          "ts": "2026-05-05T01:25:11.293500+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98ed7c/nPQamWYM2DqLqmbq0eoKh_ZNnptZkr.png"
+        },
+        {
+          "ts": "2026-05-05T01:25:11.796965+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/03-mirror-rack-live-studio/manifest.json",
+          "asset_count": 5
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98ed6d/hVnBDG3TWaz445edQVc_o_cloTW80o.png",
+        "https://v3b.fal.media/files/b/0a98ed71/KJLzFfWwwTmiSlvQLN7SO_OjpAgwkT.png",
+        "https://v3b.fal.media/files/b/0a98ed75/Wyx8ACQ3N9bnOr43BAln9_Lokhk2UI.png",
+        "https://v3b.fal.media/files/b/0a98ed77/MphJyU4HzjazP3TriHJmr_ZugNssHn.png",
+        "https://v3b.fal.media/files/b/0a98ed7c/nPQamWYM2DqLqmbq0eoKh_ZNnptZkr.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/03-mirror-rack-live-studio/manifest.json",
+      "asset_count": 5,
+      "zernio_draft_id": "69f9492a604f9b86333fc583",
+      "zernio_api_status": "draft"
+    },
+    {
+      "slot": 4,
+      "slug": "04-moon-silver-gift-tray",
+      "title_th": "PROMPT DROP: เครื่องประดับเงินให้ดูเป็น gift drop",
+      "status": "zernio_draft_created_verified",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/04-moon-silver-gift-tray",
+      "events": [
+        {
+          "ts": "2026-05-05T01:25:48.080950+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98ed80/8c8Up90ipOXVk77ATqrdT_iEn1kACF.png"
+        },
+        {
+          "ts": "2026-05-05T01:26:18.691714+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98ed83/rpnOO4rrvcTJhjcnKgY-c_lEdEPQwK.png"
+        },
+        {
+          "ts": "2026-05-05T01:26:48.034078+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98ed86/5Wq7HiK9jkpCZKt-V_MNB_E9IO1pH8.png"
+        },
+        {
+          "ts": "2026-05-05T01:27:39.572665+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98ed89/NTIVzCUsaZ14YMLKhdPog_krrcG4cz.png"
+        },
+        {
+          "ts": "2026-05-05T01:28:15.721378+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98ed8e/CGLmEbFNodE5Cww5znbCe_Llb84ziM.png"
+        },
+        {
+          "ts": "2026-05-05T01:28:16.222793+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/04-moon-silver-gift-tray/manifest.json",
+          "asset_count": 5
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98ed80/8c8Up90ipOXVk77ATqrdT_iEn1kACF.png",
+        "https://v3b.fal.media/files/b/0a98ed83/rpnOO4rrvcTJhjcnKgY-c_lEdEPQwK.png",
+        "https://v3b.fal.media/files/b/0a98ed86/5Wq7HiK9jkpCZKt-V_MNB_E9IO1pH8.png",
+        "https://v3b.fal.media/files/b/0a98ed89/NTIVzCUsaZ14YMLKhdPog_krrcG4cz.png",
+        "https://v3b.fal.media/files/b/0a98ed8e/CGLmEbFNodE5Cww5znbCe_Llb84ziM.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/04-moon-silver-gift-tray/manifest.json",
+      "asset_count": 5,
+      "zernio_draft_id": "69f9492ba21db9422830e839",
+      "zernio_api_status": "draft"
+    },
+    {
+      "slot": 5,
+      "slug": "05-emerald-crunch-shelf-launch",
+      "title_th": "PROMPT DROP: สาหร่ายอบกรอบให้ดูเป็น snack launch pack",
+      "status": "zernio_draft_created_verified",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/05-emerald-crunch-shelf-launch",
+      "events": [
+        {
+          "ts": "2026-05-05T01:28:53.523098+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98ed92/B4DWtF7_wK0WUlG4L4mVl_rwxY4xHS.png"
+        },
+        {
+          "ts": "2026-05-05T01:29:23.545973+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98ed95/uOLOgwffXP_dOeGcPwVuN_TAhtRcMA.png"
+        },
+        {
+          "ts": "2026-05-05T01:29:56.002072+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98ed98/xRhh8iO_y2fBuK9R6Ta0D_g9HvKr2B.png"
+        },
+        {
+          "ts": "2026-05-05T01:30:36.099964+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98ed9c/tLWg3cwMtIbebzDwcFcBy_6DEmN4kw.png"
+        },
+        {
+          "ts": "2026-05-05T01:31:13.677139+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98eda0/6VGQ5tJ9QiJf5lnFKUpbH_JALjTWPx.png"
+        },
+        {
+          "ts": "2026-05-05T01:31:14.179700+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/05-emerald-crunch-shelf-launch/manifest.json",
+          "asset_count": 5
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98ed92/B4DWtF7_wK0WUlG4L4mVl_rwxY4xHS.png",
+        "https://v3b.fal.media/files/b/0a98ed95/uOLOgwffXP_dOeGcPwVuN_TAhtRcMA.png",
+        "https://v3b.fal.media/files/b/0a98ed98/xRhh8iO_y2fBuK9R6Ta0D_g9HvKr2B.png",
+        "https://v3b.fal.media/files/b/0a98ed9c/tLWg3cwMtIbebzDwcFcBy_6DEmN4kw.png",
+        "https://v3b.fal.media/files/b/0a98eda0/6VGQ5tJ9QiJf5lnFKUpbH_JALjTWPx.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/05-emerald-crunch-shelf-launch/manifest.json",
+      "asset_count": 5,
+      "zernio_draft_id": "69f9492d2168204a31573915",
+      "zernio_api_status": "draft"
+    }
+  ],
+  "finished_at": "2026-05-05T01:31:14.180055+00:00",
+  "status_counts": {
+    "generated_ready_for_zernio_dry_run": 5
+  },
+  "zernio_verified_at": "2026-05-05T01:34:37.718630+00:00",
+  "zernio_status_counts": {
+    "passed": 5,
+    "failed": 0
+  }
+}

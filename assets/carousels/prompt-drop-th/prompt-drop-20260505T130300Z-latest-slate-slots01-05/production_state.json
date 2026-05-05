@@ -1,0 +1,297 @@
+{
+  "batch_id": "prompt-drop-20260505T130300Z-latest-slate-slots01-05",
+  "started_at": "2026-05-05T13:05:35.747004+00:00",
+  "source_slate": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/research/latest-prompt-drop-style-bank-slate.json",
+  "selected_slots": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "block_validation": {
+    "ok": true,
+    "product_or_sme_useful_count": 5,
+    "experimental_count": 0,
+    "low_score_slots": [],
+    "hard_failure_slots": [],
+    "adjacent_repeats": [],
+    "public_forbidden_hits": []
+  },
+  "items": [
+    {
+      "slot": 1,
+      "slug": "01-hydration-desk-kit",
+      "title_th": "PROMPT DROP: ผงชงดื่มให้ดูเป็น hydration desk kit",
+      "status": "generated_ready_for_zernio_dry_run",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/01-hydration-desk-kit",
+      "events": [
+        {
+          "ts": "2026-05-05T13:06:47.154849+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98fdea/lrmteWmzG51bVGH2NIhi3_NCEDSVKU.png"
+        },
+        {
+          "ts": "2026-05-05T13:07:35.204794+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98fdf1/6nHyzuz_K6M8F-tPG4GSR_DtPCjG10.png"
+        },
+        {
+          "ts": "2026-05-05T13:08:27.918439+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98fdf5/3KcqIXre5YUGHBYXV5gSO_ztETZC6J.png"
+        },
+        {
+          "ts": "2026-05-05T13:09:16.583954+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98fdfb/3Kf_kDysD0IddM5TlyDyW_WNK3hzez.png"
+        },
+        {
+          "ts": "2026-05-05T13:09:55.391873+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98fe00/FaaI2RvpCXkb9a97Ylosi_KXpBBUy6.png"
+        },
+        {
+          "ts": "2026-05-05T13:09:55.893485+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/01-hydration-desk-kit/manifest.json",
+          "asset_count": 5
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98fdea/lrmteWmzG51bVGH2NIhi3_NCEDSVKU.png",
+        "https://v3b.fal.media/files/b/0a98fdf1/6nHyzuz_K6M8F-tPG4GSR_DtPCjG10.png",
+        "https://v3b.fal.media/files/b/0a98fdf5/3KcqIXre5YUGHBYXV5gSO_ztETZC6J.png",
+        "https://v3b.fal.media/files/b/0a98fdfb/3Kf_kDysD0IddM5TlyDyW_WNK3hzez.png",
+        "https://v3b.fal.media/files/b/0a98fe00/FaaI2RvpCXkb9a97Ylosi_KXpBBUy6.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/01-hydration-desk-kit/manifest.json",
+      "asset_count": 5
+    },
+    {
+      "slot": 2,
+      "slug": "02-phone-repair-trust-desk",
+      "title_th": "PROMPT DROP: ร้านซ่อมมือถือให้ดูน่าไว้ใจตั้งแต่รูปแรก",
+      "status": "generated_ready_for_zernio_dry_run",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/02-phone-repair-trust-desk",
+      "events": [
+        {
+          "ts": "2026-05-05T13:10:46.895662+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98fe03/C9kcorHBZoreGgCCEqfln_er0DTn8A.png"
+        },
+        {
+          "ts": "2026-05-05T13:11:39.630017+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98fe09/_4aUCP9rl-kFxQY1ALmXh_2EmMYlCs.png"
+        },
+        {
+          "ts": "2026-05-05T13:12:51.961257+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98fe0e/E6qfu_wvzaX8GMqkFfdx8_GnrD0kbG.png"
+        },
+        {
+          "ts": "2026-05-05T13:13:45.097053+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98fe15/PvEWQPtTXT7l_oqwGJhhu_PnVcrWNQ.png"
+        },
+        {
+          "ts": "2026-05-05T13:14:43.521331+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98fe1b/o0MOq2LK50LZwCYjJ7etr_xRrzwZ96.png"
+        },
+        {
+          "ts": "2026-05-05T13:14:44.022390+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/02-phone-repair-trust-desk/manifest.json",
+          "asset_count": 5
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98fe03/C9kcorHBZoreGgCCEqfln_er0DTn8A.png",
+        "https://v3b.fal.media/files/b/0a98fe09/_4aUCP9rl-kFxQY1ALmXh_2EmMYlCs.png",
+        "https://v3b.fal.media/files/b/0a98fe0e/E6qfu_wvzaX8GMqkFfdx8_GnrD0kbG.png",
+        "https://v3b.fal.media/files/b/0a98fe15/PvEWQPtTXT7l_oqwGJhhu_PnVcrWNQ.png",
+        "https://v3b.fal.media/files/b/0a98fe1b/o0MOq2LK50LZwCYjJ7etr_xRrzwZ96.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/02-phone-repair-trust-desk/manifest.json",
+      "asset_count": 5
+    },
+    {
+      "slot": 3,
+      "slug": "03-rider-decal-lookbook",
+      "title_th": "PROMPT DROP: หมวกกันน็อก/สติกเกอร์ให้เป็น rider lookbook",
+      "status": "generated_ready_for_zernio_dry_run",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/03-rider-decal-lookbook",
+      "events": [
+        {
+          "ts": "2026-05-05T13:15:18.620814+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98fe20/NDG7AvFeL3xztXY3fPUFB_fwfEGjTN.png"
+        },
+        {
+          "ts": "2026-05-05T13:15:53.603744+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98fe24/OvvFYnTwt-_55BO-17vRW_YrL4Tz30.png"
+        },
+        {
+          "ts": "2026-05-05T13:16:54.054165+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98fe28/AfAO0MPazHXod9_ABbd1h_y4WMC838.png"
+        },
+        {
+          "ts": "2026-05-05T13:17:49.536332+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98fe2e/fkW9oCAZZxJ9XncBD4v8X_r8tcvznE.png"
+        },
+        {
+          "ts": "2026-05-05T13:18:54.146746+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98fe33/wcy6o2i81ygruEUWAGqqj_fxtnszVF.png"
+        },
+        {
+          "ts": "2026-05-05T13:18:54.649088+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/03-rider-decal-lookbook/manifest.json",
+          "asset_count": 5
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98fe20/NDG7AvFeL3xztXY3fPUFB_fwfEGjTN.png",
+        "https://v3b.fal.media/files/b/0a98fe24/OvvFYnTwt-_55BO-17vRW_YrL4Tz30.png",
+        "https://v3b.fal.media/files/b/0a98fe28/AfAO0MPazHXod9_ABbd1h_y4WMC838.png",
+        "https://v3b.fal.media/files/b/0a98fe2e/fkW9oCAZZxJ9XncBD4v8X_r8tcvznE.png",
+        "https://v3b.fal.media/files/b/0a98fe33/wcy6o2i81ygruEUWAGqqj_fxtnszVF.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/03-rider-decal-lookbook/manifest.json",
+      "asset_count": 5
+    },
+    {
+      "slot": 4,
+      "slug": "04-weekday-meal-prep-tray",
+      "title_th": "PROMPT DROP: อาหารคลีนให้ดูเป็น weekday meal prep tray",
+      "status": "generated_ready_for_zernio_dry_run",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/04-weekday-meal-prep-tray",
+      "events": [
+        {
+          "ts": "2026-05-05T13:19:42.864913+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98fe39/sEKAHMohB2ABAW1TNb2ET_ksqGxObP.png"
+        },
+        {
+          "ts": "2026-05-05T13:20:29.192815+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98fe3e/Z2kPJ_-RfcHqPGyjJGSwv_aZrO6Bxc.png"
+        },
+        {
+          "ts": "2026-05-05T13:21:24.693953+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98fe43/fW7CuTpPn1dcnmqrXMp5J_AbLB6UQ8.png"
+        },
+        {
+          "ts": "2026-05-05T13:22:21.831155+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98fe49/CNpa6HxCk-ezT04SJ-Q0a_q97ijf6T.png"
+        },
+        {
+          "ts": "2026-05-05T13:23:05.776617+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98fe4e/J7plOOzBAwtPOaIF__70Q_5801UMEu.png"
+        },
+        {
+          "ts": "2026-05-05T13:23:06.277793+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/04-weekday-meal-prep-tray/manifest.json",
+          "asset_count": 5
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98fe39/sEKAHMohB2ABAW1TNb2ET_ksqGxObP.png",
+        "https://v3b.fal.media/files/b/0a98fe3e/Z2kPJ_-RfcHqPGyjJGSwv_aZrO6Bxc.png",
+        "https://v3b.fal.media/files/b/0a98fe43/fW7CuTpPn1dcnmqrXMp5J_AbLB6UQ8.png",
+        "https://v3b.fal.media/files/b/0a98fe49/CNpa6HxCk-ezT04SJ-Q0a_q97ijf6T.png",
+        "https://v3b.fal.media/files/b/0a98fe4e/J7plOOzBAwtPOaIF__70Q_5801UMEu.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/04-weekday-meal-prep-tray/manifest.json",
+      "asset_count": 5
+    },
+    {
+      "slot": 5,
+      "slug": "05-dog-bath-day-care-kit",
+      "title_th": "PROMPT DROP: แชมพูสุนัขให้ดูเป็น bath-day care kit",
+      "status": "generated_ready_for_zernio_dry_run",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/05-dog-bath-day-care-kit",
+      "events": [
+        {
+          "ts": "2026-05-05T13:24:14.499618+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a98fe53/9lSD90aBDRZTKgoF5j45p_9EGSEmyk.png"
+        },
+        {
+          "ts": "2026-05-05T13:24:57.808780+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a98fe59/mRBY_qGBu0Ql26KpCNbmJ_m7kyP8os.png"
+        },
+        {
+          "ts": "2026-05-05T13:25:37.841015+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a98fe5e/WCWFgZ-UKQkj3VK5iKOvg_cpWM2dmT.png"
+        },
+        {
+          "ts": "2026-05-05T13:26:19.891340+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a98fe62/eEvwwbIa9Wko67WfBhSXU_tuVR3MxR.png"
+        },
+        {
+          "ts": "2026-05-05T13:27:01.857059+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a98fe66/AfJ31aI0n3r4VXd-2UQ0k_GhEHiZIz.png"
+        },
+        {
+          "ts": "2026-05-05T13:27:02.358447+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/05-dog-bath-day-care-kit/manifest.json",
+          "asset_count": 5
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a98fe53/9lSD90aBDRZTKgoF5j45p_9EGSEmyk.png",
+        "https://v3b.fal.media/files/b/0a98fe59/mRBY_qGBu0Ql26KpCNbmJ_m7kyP8os.png",
+        "https://v3b.fal.media/files/b/0a98fe5e/WCWFgZ-UKQkj3VK5iKOvg_cpWM2dmT.png",
+        "https://v3b.fal.media/files/b/0a98fe62/eEvwwbIa9Wko67WfBhSXU_tuVR3MxR.png",
+        "https://v3b.fal.media/files/b/0a98fe66/AfJ31aI0n3r4VXd-2UQ0k_GhEHiZIz.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/05-dog-bath-day-care-kit/manifest.json",
+      "asset_count": 5
+    }
+  ],
+  "finished_at": "2026-05-05T13:27:02.358914+00:00",
+  "status_counts": {
+    "generated_ready_for_zernio_dry_run": 5
+  }
+}

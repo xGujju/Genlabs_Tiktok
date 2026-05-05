@@ -1,0 +1,154 @@
+{
+  "series": "prompt_drop_th",
+  "batch_id": "prompt-drop-20260505T130300Z-latest-slate-slots01-05",
+  "source_slate_path": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/research/latest-prompt-drop-style-bank-slate.json",
+  "source_slate_generated_at_utc": "2026-05-05T12:37:02Z",
+  "slot": 5,
+  "slug": "05-dog-bath-day-care-kit",
+  "created_at": "2026-05-05T13:27:02.357969+00:00",
+  "status": "zernio_draft_created_and_api_verified",
+  "title_th": "PROMPT DROP: แชมพูสุนัขให้ดูเป็น bath-day care kit",
+  "title_en": "Dog Bath-Day Care Kit",
+  "audience": "แบรนด์แชมพูสัตว์เลี้ยง, pet shop, grooming salon, TikTok Shop pet-care seller",
+  "business_goal": "drive_saves_shares_follower_growth_with_practical_thai_prompt_pack",
+  "real_use_case": "ทำภาพแชมพู/สเปรย์/ผ้าขนหนูสัตว์เลี้ยงให้ดูเป็นชุดอาบน้ำจริง ไม่ใช่ขวดเดี่ยวหรือภาพหมาน่ารักลอย ๆ",
+  "real_thai_use_case": "ทำภาพแชมพู/สเปรย์/ผ้าขนหนูสัตว์เลี้ยงให้ดูเป็นชุดอาบน้ำจริง ไม่ใช่ขวดเดี่ยวหรือภาพหมาน่ารักลอย ๆ",
+  "thai_context": "ทำภาพแชมพู/สเปรย์/ผ้าขนหนูสัตว์เลี้ยงให้ดูเป็นชุดอาบน้ำจริง ไม่ใช่ขวดเดี่ยวหรือภาพหมาน่ารักลอย ๆ",
+  "output": "product kit hero, grooming shop poster, marketplace thumbnail, care bundle visual",
+  "topic_category": "product_image_prompt",
+  "slot_type": "product_commerce",
+  "visual_style": "Dog Bath-Day Care Kit — pump shampoo bottle, conditioner pouch, microfiber towel roll, paw comb, waterproof label, soft foam texture, warm bathroom tile light",
+  "visual_world": "Dog Bath-Day Care Kit — pump shampoo bottle, conditioner pouch, microfiber towel roll, paw comb, waterproof label, soft foam texture, warm bathroom tile light",
+  "visual_world_key": null,
+  "cover_hook": "PROMPT DROP",
+  "copy_prompt_th": "พรอมต์:\nสร้างภาพชุดแชมพูสุนัข [กลิ่น/สูตร] สไตล์ bath-day care kit มีขวดปั๊ม label ชัด ซองเติม ผ้าขนหนู หวีอุ้งเท้า ฟองนุ่ม และแสงห้องน้ำอุ่น หลีกเลี่ยงคำเคลมรักษาโรค ภาพคมชัด 1:1\n\nปรับช่องในวงเล็บให้เข้ากับสินค้า/บริการของคุณ: กลุ่มลูกค้า = [แบรนด์แชมพูสัตว์เลี้ยง, pet shop, grooming salon, TikTok Shop pet-care seller], output = [product kit hero, grooming shop poster, marketplace thumbnail, care bundle visual], visual world = [Dog Bath-Day Care Kit — pump shampoo bottle, conditioner pouch, microfiber towel roll, paw comb, waterproof label, soft foam texture, warm bathroom tile light]\nเหตุผลของภาพ: pet grooming ขายด้วยความเป็น routine และความอ่อนโยน; ขวดปั๊ม, ซองเติม/conditioner, ผ้าขนหนู และหวีอุ้งเท้าช่วยให้เห็นชุดดูแลครบโดยไม่ใช้คำเคลมรักษาโรคหรือภาพสัตว์เกินจริง\nข้อกำหนดแพ็กเกจ: ต้องมีขวดปั๊มแชมพูพร้อม label ชัด, ซองเติมหรือขวด conditioner, ผ้าขนหนู, หวี/แปรง, กล่องหรือ sleeve bundle, สีหมวด pet-care และห้ามขวดสีขาวโล่ง ห้ามแพ็กเกจไม่มีฉลาก ไม่มีแบรนด์ หรือไม่มีหมวดสินค้า\nข้อห้าม: ห้ามโลโก้ปลอม ห้าม QR/barcode/watermark ห้ามตัวหนังสือมั่ว ห้ามภาพสินค้าโล่งแบบ mockup ดิบ และต้องเป็นภาพ square 1:1",
+  "editable_fields": [
+    "สินค้า/บริการ",
+    "แพลตฟอร์ม",
+    "กลุ่มลูกค้า",
+    "visual world",
+    "แสง",
+    "ฉาก",
+    "แพ็กเกจ/พร็อพ"
+  ],
+  "visual_intention": "pet grooming ขายด้วยความเป็น routine และความอ่อนโยน; ขวดปั๊ม, ซองเติม/conditioner, ผ้าขนหนู และหวีอุ้งเท้าช่วยให้เห็นชุดดูแลครบโดยไม่ใช้คำเคลมรักษาโรคหรือภาพสัตว์เกินจริง",
+  "packaging_requirement": "ต้องมีขวดปั๊มแชมพูพร้อม label ชัด, ซองเติมหรือขวด conditioner, ผ้าขนหนู, หวี/แปรง, กล่องหรือ sleeve bundle, สีหมวด pet-care และห้ามขวดสีขาวโล่ง ห้ามแพ็กเกจไม่มีฉลาก ไม่มีแบรนด์ หรือไม่มีหมวดสินค้า",
+  "wow_factor_notes": "Full care ritual: pump bottle + refill/conditioner + towel + brush + foam texture; save-worthy because pet sellers can position a routine kit instead of relying on cute animal imagery",
+  "generation_model": "openai/gpt-image-2/edit",
+  "generator": "openai/gpt-image-2/edit via FalGptImage2EditClient",
+  "quality": "low",
+  "no_post_processing": true,
+  "cta_policy": "omit_genlabs_promo_unless_sway_reapproves",
+  "default_hashtags": [
+    "#PromptTH",
+    "#AIภาพสินค้า",
+    "#ขายของออนไลน์",
+    "#ProductPhotoAI",
+    "#แบรนด์ไทย"
+  ],
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a98fe53/9lSD90aBDRZTKgoF5j45p_9EGSEmyk.png",
+    "https://v3b.fal.media/files/b/0a98fe59/mRBY_qGBu0Ql26KpCNbmJ_m7kyP8os.png",
+    "https://v3b.fal.media/files/b/0a98fe5e/WCWFgZ-UKQkj3VK5iKOvg_cpWM2dmT.png",
+    "https://v3b.fal.media/files/b/0a98fe62/eEvwwbIa9Wko67WfBhSXU_tuVR3MxR.png",
+    "https://v3b.fal.media/files/b/0a98fe66/AfJ31aI0n3r4VXd-2UQ0k_GhEHiZIz.png"
+  ],
+  "slides": [
+    {
+      "slide_index": 1,
+      "role": "cover_prompt_hook",
+      "asset_url": "https://v3b.fal.media/files/b/0a98fe53/9lSD90aBDRZTKgoF5j45p_9EGSEmyk.png",
+      "image_url": "https://v3b.fal.media/files/b/0a98fe53/9lSD90aBDRZTKgoF5j45p_9EGSEmyk.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/05-dog-bath-day-care-kit/slide-1.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 2,
+      "role": "main_usable_output",
+      "asset_url": "https://v3b.fal.media/files/b/0a98fe59/mRBY_qGBu0Ql26KpCNbmJ_m7kyP8os.png",
+      "image_url": "https://v3b.fal.media/files/b/0a98fe59/mRBY_qGBu0Ql26KpCNbmJ_m7kyP8os.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/05-dog-bath-day-care-kit/slide-2.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 3,
+      "role": "macro_detail_or_alternate_angle",
+      "asset_url": "https://v3b.fal.media/files/b/0a98fe5e/WCWFgZ-UKQkj3VK5iKOvg_cpWM2dmT.png",
+      "image_url": "https://v3b.fal.media/files/b/0a98fe5e/WCWFgZ-UKQkj3VK5iKOvg_cpWM2dmT.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/05-dog-bath-day-care-kit/slide-3.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 4,
+      "role": "prompt_recipe_moodboard",
+      "asset_url": "https://v3b.fal.media/files/b/0a98fe62/eEvwwbIa9Wko67WfBhSXU_tuVR3MxR.png",
+      "image_url": "https://v3b.fal.media/files/b/0a98fe62/eEvwwbIa9Wko67WfBhSXU_tuVR3MxR.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/05-dog-bath-day-care-kit/slide-4.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 5,
+      "role": "variation_copy_remix_ending",
+      "asset_url": "https://v3b.fal.media/files/b/0a98fe66/AfJ31aI0n3r4VXd-2UQ0k_GhEHiZIz.png",
+      "image_url": "https://v3b.fal.media/files/b/0a98fe66/AfJ31aI0n3r4VXd-2UQ0k_GhEHiZIz.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/05-dog-bath-day-care-kit/slide-5.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    }
+  ],
+  "selection_score": {
+    "practical_usefulness": 23,
+    "business_fit": 18,
+    "save_copy_prompt_value": 18,
+    "visual_stop_power": 18,
+    "novelty_vs_recent": 10,
+    "low_production_risk": 4,
+    "total": 91
+  },
+  "qa_summary": {
+    "status": "prompt_qa_passed_pending_dry_run_and_visual_spotcheck",
+    "generation_policy": "GPT Image 2 low native output; no Flux/image_generate; no local compositing; text minimized because GPT-native typography can break Thai.",
+    "public_promo_policy": "Public slides/descriptions omit website, Prompt Drop promo ending, #GenLabsTH, and sales bridge terms unless re-approved.",
+    "use_case_first_gate": "Candidate selected from validated structured slate with Thai business/creator output before visual style.",
+    "packaging_gate": "Product/commerce candidates require full packaging ecosystem and reject blank/plain/unbranded mockups.",
+    "visual_spotcheck": "pass",
+    "overall_review_queue_status": "api_draft_safe_and_visual_pass",
+    "visual_spotcheck_detail": {
+      "visual_status": "PASS",
+      "risk": "Pet shampoo/conditioner/towel/brush bundle has category and packaging cues; no medical claims or forbidden promo."
+    },
+    "zernio_api_verification": "pass"
+  },
+  "visual_spotcheck": {
+    "status": "PASS",
+    "checked_at": "2026-05-05T13:33Z",
+    "contact_sheet": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/contact_sheet_all_5sets.jpg",
+    "note": "Pet shampoo/conditioner/towel/brush bundle has category and packaging cues; no medical claims or forbidden promo."
+  },
+  "zernio": {
+    "draft_id": "69f9f10d711a0852dadaf920",
+    "created_or_verified_at": "2026-05-05T13:30:54.507182+00:00",
+    "create_status": "draft_created",
+    "api_check": {
+      "ok": true,
+      "http_status": 200,
+      "checks": {
+        "http_200": true,
+        "status_draft": true,
+        "tiktok_draft_true": true,
+        "media_type_photo": true,
+        "media_count_matches": true,
+        "publishAttempts_absent_or_zero": true,
+        "public_promo_absent": true,
+        "description_length_ge_2000": true,
+        "prompt_giveaway_present": true
+      }
+    },
+    "status": "draft",
+    "tiktok_draft": true,
+    "media_count": 5,
+    "media_type_photo": true,
+    "description_length": 3966,
+    "promo_hits": []
+  },
+  "zernio_draft_id": "69f9f10d711a0852dadaf920"
+}

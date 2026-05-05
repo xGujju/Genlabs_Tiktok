@@ -1,0 +1,286 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a98e6df/Nvr9B6V4IvrkWTW66Sq-4_ere22z3R.png",
+    "https://v3b.fal.media/files/b/0a98e6e2/bmzYG6hiubVRBinL2W2xN_HvBPkfzi.png",
+    "https://v3b.fal.media/files/b/0a98e6e7/N5TUDDKuZveHL2uRHaL_b_fm4gSq0N.png",
+    "https://v3b.fal.media/files/b/0a98e6eb/H76VywGmtd9hG9QReD5PV_GjsrVLGn.png",
+    "https://v3b.fal.media/files/b/0a98e6ef/NRH6SvKVvjf_sOJY5cSDh_TBpKfzXY.png",
+    "https://v3b.fal.media/files/b/0a98e6f4/7ztOWsZ5RXW4SVPsNu_Bb_MLUWKvNF.png",
+    "https://v3b.fal.media/files/b/0a98e6f8/o5F6r4j-n5JFPIgSLj54P_fc8GQzYp.png",
+    "https://v3b.fal.media/files/b/0a98e6fb/CdwCM8t6DvrcgsPqHoVs1_Rn9Un4rh.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 8,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/8 role=hook. Thai copy: 7 ทิปใช้ Canva AI ทำโพสต์โปรโมชันให้ดูแพงขึ้น\nworkflow. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "7 ทิปใช้ Canva AI ทำโพสต์โปรโมชันให้ดูแพงขึ้น\nworkflow",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/8 role=problem. Thai copy: ปัญหา: โปรโมชันดีแต่ภาพรก ลำดับราคา/benefit/CTA ไม่ชัด ทำให้คนไม่เข้าใจใน 3 วินาทีแรก. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: โปรโมชันดีแต่ภาพรก ลำดับราคา/benefit/CTA ไม่ชัด ทำให้คนไม่เข้าใจใน 3 วินาทีแรก",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/8 role=trend. Thai copy: ทำไมควรสนใจ:\nCanva AI ช่วยแตก layout ได้เร็ว แต่ต้องคุม brand kit, hierarchy และขนาดช่องทางก่อน export. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nCanva AI ช่วยแตก layout ได้เร็ว แต่ต้องคุม brand kit, hierarchy และขนาดช่องทางก่อน export",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/8 role=tips. Thai copy: ลองใช้แบบนี้:\n1) เริ่มจาก offer เดียวที่ชัด\n2) ตั้ง Brand Kit สี ฟอนต์ โลโก้\n3) สร้างหลาย layout ด้วย Magic Design\n4) จัด hierarchy ราคา benefit CTA. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) เริ่มจาก offer เดียวที่ชัด\n2) ตั้ง Brand Kit สี ฟอนต์ โลโก้\n3) สร้างหลาย layout ด้วย Magic Design\n4) จัด hierarchy ราคา benefit CTA",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/8 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/8 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\n5) ทำ square/story/LINE version\n6) ทำ A/B thumbnail 2 แบบ\n7) ตรวจมือถือก่อนโพสต์. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\n5) ทำ square/story/LINE version\n6) ทำ A/B thumbnail 2 แบบ\n7) ตรวจมือถือก่อนโพสต์",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/8 role=framework. Thai copy: จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ. Visual direction: five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "framework",
+        "thai_copy": "จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ",
+        "visual_direction": "five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat"
+      },
+      {
+        "image_prompt": "Slide 8/8 role=cta. Thai copy: ลองวันนี้:\nวันนี้เอาโปร 1 ตัวไปทำ Canva AI 2 layout แล้วเทียบว่าแบบไหนอ่านชัดกว่า. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 8,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้เอาโปร 1 ตัวไปทำ Canva AI 2 layout แล้วเทียบว่าแบบไหนอ่านชัดกว่า",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "evergreen-canva-ai-7-promo-design-tips",
+    "source_url": "https://genlabs.in.th/ai-learning/evergreen",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://genlabs.in.th/ai-learning/evergreen",
+        "Keywords: workflow",
+        "This is trending because people can copy the workflow immediately instead of only reading AI news."
+      ],
+      "glossary": {
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "workflow"
+      ],
+      "source_id": "evergreen-canva-ai-7-promo-design-tips",
+      "source_url": "https://genlabs.in.th/ai-learning/evergreen",
+      "thai_call_to_action": "วันนี้เอาโปร 1 ตัวไปทำ Canva AI 2 layout แล้วเทียบว่าแบบไหนอ่านชัดกว่า",
+      "thai_hook": "7 ทิปใช้ Canva AI ทำโพสต์โปรโมชันให้ดูแพงขึ้น",
+      "thai_problem": "โปรโมชันดีแต่ภาพรก ลำดับราคา/benefit/CTA ไม่ชัด ทำให้คนไม่เข้าใจใน 3 วินาทีแรก",
+      "thai_tips": [
+        "เริ่มจาก offer เดียวที่ชัด",
+        "ตั้ง Brand Kit สี ฟอนต์ โลโก้",
+        "สร้างหลาย layout ด้วย Magic Design",
+        "จัด hierarchy ราคา benefit CTA",
+        "ทำ square/story/LINE version",
+        "ทำ A/B thumbnail 2 แบบ",
+        "ตรวจมือถือก่อนโพสต์"
+      ],
+      "thai_trend_angle": "Canva AI ช่วยแตก layout ได้เร็ว แต่ต้องคุม brand kit, hierarchy และขนาดช่องทางก่อน export"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "genlabs-ai-learning",
+    "clean_headline": "7 ทิปใช้ Canva AI ทำโพสต์โปรโมชันให้ดูแพงขึ้นโดยไม่จ้างดีไซน์ #AIมือใหม่ Audience: SME, online seller, marketer, creator Tool: Canva AI / Magic Design Practical",
+    "clean_summary": "7 ทิปใช้ Canva AI ทำโพสต์โปรโมชันให้ดูแพงขึ้นโดยไม่จ้างดีไซน์ #AIมือใหม่ Audience: SME, online seller, marketer, creator Tool: Canva AI / Magic Design Practical workflow: ใส่ offer เดียว -> เลือก brand kit -> สร้างหลาย layout -> ปรับ hierarchy ราคา/benefit/CTA -> export square/story/LINE พร้อม visual metaphor: promo card แตกเป็น 7 design tips Create a Thai GenLabs AI Learning carousel with exact steps, input/output examples, checklist, common mistake, and one action to try today. No source attribution, no news framing, no hype, no income promise.",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "workflow"
+    ],
+    "original_language": "en",
+    "raw_text": "7 ทิปใช้ Canva AI ทำโพสต์โปรโมชันให้ดูแพงขึ้นโดยไม่จ้างดีไซน์ #AIมือใหม่\nAudience: SME, online seller, marketer, creator\nTool: Canva AI / Magic Design\nPractical workflow: ใส่ offer เดียว -> เลือก brand kit -> สร้างหลาย layout -> ปรับ hierarchy ราคา/benefit/CTA -> export square/story/LINE พร้อม visual metaphor: promo card แตกเป็น 7 design tips\nCreate a Thai GenLabs AI Learning carousel with exact steps, input/output examples, checklist, common mistake, and one action to try today. No source attribution, no news framing, no hype, no income promise.",
+    "source_id": "evergreen-canva-ai-7-promo-design-tips",
+    "source_url": "https://genlabs.in.th/ai-learning/evergreen",
+    "why_it_matters": "This is trending because people can copy the workflow immediately instead of only reading AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้เอาโปร 1 ตัวไปทำ Canva AI 2 layout แล้วเทียบว่าแบบไหนอ่านชัดกว่า",
+    "evidence": [
+      "Source: https://genlabs.in.th/ai-learning/evergreen",
+      "Keywords: workflow",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "hook": "7 ทิปใช้ Canva AI ทำโพสต์โปรโมชันให้ดูแพงขึ้น",
+    "original_keywords": [
+      "workflow"
+    ],
+    "original_language": "en",
+    "problem": "โปรโมชันดีแต่ภาพรก ลำดับราคา/benefit/CTA ไม่ชัด ทำให้คนไม่เข้าใจใน 3 วินาทีแรก",
+    "source_id": "evergreen-canva-ai-7-promo-design-tips",
+    "source_url": "https://genlabs.in.th/ai-learning/evergreen",
+    "tips": [
+      "เริ่มจาก offer เดียวที่ชัด",
+      "ตั้ง Brand Kit สี ฟอนต์ โลโก้",
+      "สร้างหลาย layout ด้วย Magic Design",
+      "จัด hierarchy ราคา benefit CTA",
+      "ทำ square/story/LINE version",
+      "ทำ A/B thumbnail 2 แบบ",
+      "ตรวจมือถือก่อนโพสต์"
+    ],
+    "trend_angle": "Canva AI ช่วยแตก layout ได้เร็ว แต่ต้องคุม brand kit, hierarchy และขนาดช่องทางก่อน export"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "Nvr9B6V4IvrkWTW66Sq-4_ere22z3R.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98e6df/Nvr9B6V4IvrkWTW66Sq-4_ere22z3R.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260504T204226Z-evergreen-canva-ai-7-pro/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "bmzYG6hiubVRBinL2W2xN_HvBPkfzi.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98e6e2/bmzYG6hiubVRBinL2W2xN_HvBPkfzi.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260504T204226Z-evergreen-canva-ai-7-pro/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "N5TUDDKuZveHL2uRHaL_b_fm4gSq0N.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98e6e7/N5TUDDKuZveHL2uRHaL_b_fm4gSq0N.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260504T204226Z-evergreen-canva-ai-7-pro/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "H76VywGmtd9hG9QReD5PV_GjsrVLGn.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98e6eb/H76VywGmtd9hG9QReD5PV_GjsrVLGn.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260504T204226Z-evergreen-canva-ai-7-pro/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "NRH6SvKVvjf_sOJY5cSDh_TBpKfzXY.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98e6ef/NRH6SvKVvjf_sOJY5cSDh_TBpKfzXY.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260504T204226Z-evergreen-canva-ai-7-pro/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "7ztOWsZ5RXW4SVPsNu_Bb_MLUWKvNF.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98e6f4/7ztOWsZ5RXW4SVPsNu_Bb_MLUWKvNF.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260504T204226Z-evergreen-canva-ai-7-pro/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "o5F6r4j-n5JFPIgSLj54P_fc8GQzYp.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98e6f8/o5F6r4j-n5JFPIgSLj54P_fc8GQzYp.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260504T204226Z-evergreen-canva-ai-7-pro/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "CdwCM8t6DvrcgsPqHoVs1_Rn9Un4rh.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a98e6fb/CdwCM8t6DvrcgsPqHoVs1_Rn9Un4rh.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260504T204226Z-evergreen-canva-ai-7-pro/slide-8.png",
+      "slide_index": 8,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 9,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260504T204226Z-evergreen-canva-ai-7-pro/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: โปรโมชันดีแต่ภาพรก ลำดับราคา/benefit/CTA ไม่ชัด ทำให้คนไม่เข้าใจใน 3 วินาทีแรก\n\n📌 ทำไมควรเซฟโพสต์นี้: Canva AI ช่วยแตก layout ได้เร็ว แต่ต้องคุม brand kit, hierarchy และขนาดช่องทางก่อน export\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ เริ่มจาก offer เดียวที่ชัด\n\n2) ✨ ตั้ง Brand Kit สี ฟอนต์ โลโก้\n\n3) ✨ สร้างหลาย layout ด้วย Magic Design\n\n4) ✨ จัด hierarchy ราคา benefit CTA\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "7 ทิปใช้ Canva AI ทำโพสต์โปรโมชันให้ดูแพงขึ้น #AIมือใหม่ เอาไปใช้กับงานจริงได้ทันที"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://genlabs.in.th/ai-learning/evergreen",
+      "Keywords: workflow",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "glossary": {
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "workflow"
+    ],
+    "source_id": "evergreen-canva-ai-7-promo-design-tips",
+    "source_url": "https://genlabs.in.th/ai-learning/evergreen",
+    "thai_call_to_action": "วันนี้เอาโปร 1 ตัวไปทำ Canva AI 2 layout แล้วเทียบว่าแบบไหนอ่านชัดกว่า",
+    "thai_hook": "7 ทิปใช้ Canva AI ทำโพสต์โปรโมชันให้ดูแพงขึ้น",
+    "thai_problem": "โปรโมชันดีแต่ภาพรก ลำดับราคา/benefit/CTA ไม่ชัด ทำให้คนไม่เข้าใจใน 3 วินาทีแรก",
+    "thai_tips": [
+      "เริ่มจาก offer เดียวที่ชัด",
+      "ตั้ง Brand Kit สี ฟอนต์ โลโก้",
+      "สร้างหลาย layout ด้วย Magic Design",
+      "จัด hierarchy ราคา benefit CTA",
+      "ทำ square/story/LINE version",
+      "ทำ A/B thumbnail 2 แบบ",
+      "ตรวจมือถือก่อนโพสต์"
+    ],
+    "thai_trend_angle": "Canva AI ช่วยแตก layout ได้เร็ว แต่ต้องคุม brand kit, hierarchy และขนาดช่องทางก่อน export"
+  }
+}

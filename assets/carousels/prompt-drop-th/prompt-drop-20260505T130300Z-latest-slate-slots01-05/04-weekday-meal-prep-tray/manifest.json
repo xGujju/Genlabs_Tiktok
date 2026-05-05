@@ -1,0 +1,154 @@
+{
+  "series": "prompt_drop_th",
+  "batch_id": "prompt-drop-20260505T130300Z-latest-slate-slots01-05",
+  "source_slate_path": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/research/latest-prompt-drop-style-bank-slate.json",
+  "source_slate_generated_at_utc": "2026-05-05T12:37:02Z",
+  "slot": 4,
+  "slug": "04-weekday-meal-prep-tray",
+  "created_at": "2026-05-05T13:23:06.277218+00:00",
+  "status": "zernio_draft_created_and_api_verified",
+  "title_th": "PROMPT DROP: อาหารคลีนให้ดูเป็น weekday meal prep tray",
+  "title_en": "Weekday Meal Prep Tray",
+  "audience": "ร้านอาหารคลีน, meal prep delivery, ครัวออนไลน์, โค้ชสุขภาพที่ขายเซ็ตอาหาร",
+  "business_goal": "drive_saves_shares_follower_growth_with_practical_thai_prompt_pack",
+  "real_use_case": "ทำภาพกล่องอาหารรายสัปดาห์ให้ดูเป็นระบบและน่าสั่งซ้ำ โดยไม่กลายเป็นจานอาหารเดี่ยวหรือคำเคลมลดน้ำหนัก",
+  "real_thai_use_case": "ทำภาพกล่องอาหารรายสัปดาห์ให้ดูเป็นระบบและน่าสั่งซ้ำ โดยไม่กลายเป็นจานอาหารเดี่ยวหรือคำเคลมลดน้ำหนัก",
+  "thai_context": "ทำภาพกล่องอาหารรายสัปดาห์ให้ดูเป็นระบบและน่าสั่งซ้ำ โดยไม่กลายเป็นจานอาหารเดี่ยวหรือคำเคลมลดน้ำหนัก",
+  "output": "weekly bundle hero, delivery menu thumbnail, subscription visual, launch carousel cover",
+  "topic_category": "product_image_prompt",
+  "slot_type": "product_commerce",
+  "visual_style": "Weekday Meal Prep Tray — stackable clear-lid meal boxes, day-label bands, sauce cup, insulated delivery sleeve, color-coded macro cards, bright kitchen dispatch light",
+  "visual_world": "Weekday Meal Prep Tray — stackable clear-lid meal boxes, day-label bands, sauce cup, insulated delivery sleeve, color-coded macro cards, bright kitchen dispatch light",
+  "visual_world_key": null,
+  "cover_hook": "PROMPT DROP",
+  "copy_prompt_th": "พรอมต์:\nสร้างภาพเซ็ตอาหารคลีน [เมนู/แบรนด์] สไตล์ weekday meal prep tray มีกล่องอาหารฝาใสหลายกล่อง day-label sticker ถ้วยซอส ถุง delivery สีแบรนด์ และแสงครัวสะอาด ไม่ใส่คำเคลมลดน้ำหนัก ภาพคมชัด 1:1\n\nปรับช่องในวงเล็บให้เข้ากับสินค้า/บริการของคุณ: กลุ่มลูกค้า = [ร้านอาหารคลีน, meal prep delivery, ครัวออนไลน์, โค้ชสุขภาพที่ขายเซ็ตอาหาร], output = [weekly bundle hero, delivery menu thumbnail, subscription visual, launch carousel cover], visual world = [Weekday Meal Prep Tray — stackable clear-lid meal boxes, day-label bands, sauce cup, insulated delivery sleeve, color-coded macro cards, bright kitchen dispatch light]\nเหตุผลของภาพ: อาหารคลีนขายด้วยความสะดวกและความสม่ำเสมอ; กล่องใสซ้อนกัน, day-label, ถ้วยซอส และถุง delivery ทำให้เห็นระบบรายสัปดาห์ ไม่ใช่แค่อาหารสวยหนึ่งจาน\nข้อกำหนดแพ็กเกจ: ต้องมีกล่องอาหารฝาใสหลายกล่องพร้อม day-label, sleeve หรือ sticker ฉลากเมนู, ถ้วยซอสมีฝา, ถุง/กล่อง delivery มีสีแบรนด์ และห้ามกล่องขาวโล่ง ห้ามแพ็กเกจไม่มีฉลาก ไม่มี brand hierarchy หรือวางอาหารเปล่าไร้บริบท\nข้อห้าม: ห้ามโลโก้ปลอม ห้าม QR/barcode/watermark ห้ามตัวหนังสือมั่ว ห้ามภาพสินค้าโล่งแบบ mockup ดิบ และต้องเป็นภาพ square 1:1",
+  "editable_fields": [
+    "สินค้า/บริการ",
+    "แพลตฟอร์ม",
+    "กลุ่มลูกค้า",
+    "visual world",
+    "แสง",
+    "ฉาก",
+    "แพ็กเกจ/พร็อพ"
+  ],
+  "visual_intention": "อาหารคลีนขายด้วยความสะดวกและความสม่ำเสมอ; กล่องใสซ้อนกัน, day-label, ถ้วยซอส และถุง delivery ทำให้เห็นระบบรายสัปดาห์ ไม่ใช่แค่อาหารสวยหนึ่งจาน",
+  "packaging_requirement": "ต้องมีกล่องอาหารฝาใสหลายกล่องพร้อม day-label, sleeve หรือ sticker ฉลากเมนู, ถ้วยซอสมีฝา, ถุง/กล่อง delivery มีสีแบรนด์ และห้ามกล่องขาวโล่ง ห้ามแพ็กเกจไม่มีฉลาก ไม่มี brand hierarchy หรือวางอาหารเปล่าไร้บริบท",
+  "wow_factor_notes": "Full sellable system: 5-day boxes + sleeve + sauce + delivery bag; save-worthy because sellers can show subscription value and repeat ordering in one visual",
+  "generation_model": "openai/gpt-image-2/edit",
+  "generator": "openai/gpt-image-2/edit via FalGptImage2EditClient",
+  "quality": "low",
+  "no_post_processing": true,
+  "cta_policy": "omit_genlabs_promo_unless_sway_reapproves",
+  "default_hashtags": [
+    "#PromptTH",
+    "#AIภาพสินค้า",
+    "#ขายของออนไลน์",
+    "#ProductPhotoAI",
+    "#แบรนด์ไทย"
+  ],
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a98fe39/sEKAHMohB2ABAW1TNb2ET_ksqGxObP.png",
+    "https://v3b.fal.media/files/b/0a98fe3e/Z2kPJ_-RfcHqPGyjJGSwv_aZrO6Bxc.png",
+    "https://v3b.fal.media/files/b/0a98fe43/fW7CuTpPn1dcnmqrXMp5J_AbLB6UQ8.png",
+    "https://v3b.fal.media/files/b/0a98fe49/CNpa6HxCk-ezT04SJ-Q0a_q97ijf6T.png",
+    "https://v3b.fal.media/files/b/0a98fe4e/J7plOOzBAwtPOaIF__70Q_5801UMEu.png"
+  ],
+  "slides": [
+    {
+      "slide_index": 1,
+      "role": "cover_prompt_hook",
+      "asset_url": "https://v3b.fal.media/files/b/0a98fe39/sEKAHMohB2ABAW1TNb2ET_ksqGxObP.png",
+      "image_url": "https://v3b.fal.media/files/b/0a98fe39/sEKAHMohB2ABAW1TNb2ET_ksqGxObP.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/04-weekday-meal-prep-tray/slide-1.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 2,
+      "role": "main_usable_output",
+      "asset_url": "https://v3b.fal.media/files/b/0a98fe3e/Z2kPJ_-RfcHqPGyjJGSwv_aZrO6Bxc.png",
+      "image_url": "https://v3b.fal.media/files/b/0a98fe3e/Z2kPJ_-RfcHqPGyjJGSwv_aZrO6Bxc.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/04-weekday-meal-prep-tray/slide-2.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 3,
+      "role": "macro_detail_or_alternate_angle",
+      "asset_url": "https://v3b.fal.media/files/b/0a98fe43/fW7CuTpPn1dcnmqrXMp5J_AbLB6UQ8.png",
+      "image_url": "https://v3b.fal.media/files/b/0a98fe43/fW7CuTpPn1dcnmqrXMp5J_AbLB6UQ8.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/04-weekday-meal-prep-tray/slide-3.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 4,
+      "role": "prompt_recipe_moodboard",
+      "asset_url": "https://v3b.fal.media/files/b/0a98fe49/CNpa6HxCk-ezT04SJ-Q0a_q97ijf6T.png",
+      "image_url": "https://v3b.fal.media/files/b/0a98fe49/CNpa6HxCk-ezT04SJ-Q0a_q97ijf6T.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/04-weekday-meal-prep-tray/slide-4.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 5,
+      "role": "variation_copy_remix_ending",
+      "asset_url": "https://v3b.fal.media/files/b/0a98fe4e/J7plOOzBAwtPOaIF__70Q_5801UMEu.png",
+      "image_url": "https://v3b.fal.media/files/b/0a98fe4e/J7plOOzBAwtPOaIF__70Q_5801UMEu.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/04-weekday-meal-prep-tray/slide-5.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    }
+  ],
+  "selection_score": {
+    "practical_usefulness": 24,
+    "business_fit": 19,
+    "save_copy_prompt_value": 18,
+    "visual_stop_power": 18,
+    "novelty_vs_recent": 9,
+    "low_production_risk": 4,
+    "total": 92
+  },
+  "qa_summary": {
+    "status": "prompt_qa_passed_pending_dry_run_and_visual_spotcheck",
+    "generation_policy": "GPT Image 2 low native output; no Flux/image_generate; no local compositing; text minimized because GPT-native typography can break Thai.",
+    "public_promo_policy": "Public slides/descriptions omit website, Prompt Drop promo ending, #GenLabsTH, and sales bridge terms unless re-approved.",
+    "use_case_first_gate": "Candidate selected from validated structured slate with Thai business/creator output before visual style.",
+    "packaging_gate": "Product/commerce candidates require full packaging ecosystem and reject blank/plain/unbranded mockups.",
+    "visual_spotcheck": "pass",
+    "overall_review_queue_status": "api_draft_safe_and_visual_pass",
+    "visual_spotcheck_detail": {
+      "visual_status": "PASS",
+      "risk": "Meal-prep containers, weekday labels, tote and sauce cups make packaging/use-case clear; no diet/medical claim risk or forbidden promo."
+    },
+    "zernio_api_verification": "pass"
+  },
+  "visual_spotcheck": {
+    "status": "PASS",
+    "checked_at": "2026-05-05T13:33Z",
+    "contact_sheet": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/contact_sheet_all_5sets.jpg",
+    "note": "Meal-prep containers, weekday labels, tote and sauce cups make packaging/use-case clear; no diet/medical claim risk or forbidden promo."
+  },
+  "zernio": {
+    "draft_id": "69f9f10c711a0852dadaf8bf",
+    "created_or_verified_at": "2026-05-05T13:30:53.194690+00:00",
+    "create_status": "draft_created",
+    "api_check": {
+      "ok": true,
+      "http_status": 200,
+      "checks": {
+        "http_200": true,
+        "status_draft": true,
+        "tiktok_draft_true": true,
+        "media_type_photo": true,
+        "media_count_matches": true,
+        "publishAttempts_absent_or_zero": true,
+        "public_promo_absent": true,
+        "description_length_ge_2000": true,
+        "prompt_giveaway_present": true
+      }
+    },
+    "status": "draft",
+    "tiktok_draft": true,
+    "media_count": 5,
+    "media_type_photo": true,
+    "description_length": 3966,
+    "promo_hits": []
+  },
+  "zernio_draft_id": "69f9f10c711a0852dadaf8bf"
+}

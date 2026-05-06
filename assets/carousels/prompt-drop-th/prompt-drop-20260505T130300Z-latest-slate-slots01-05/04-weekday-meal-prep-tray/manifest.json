@@ -119,10 +119,17 @@
     "zernio_api_verification": "pass"
   },
   "visual_spotcheck": {
-    "status": "PASS",
-    "checked_at": "2026-05-05T13:33Z",
-    "contact_sheet": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/contact_sheet_all_5sets.jpg",
-    "note": "Meal-prep containers, weekday labels, tote and sauce cups make packaging/use-case clear; no diet/medical claim risk or forbidden promo."
+    "status": "WARN",
+    "promo_visible": false,
+    "issues": [
+      "Invented brand-like marks such as CLEAN FUEL/FRESH FOOD",
+      "Fake nutrition/calendar microtext"
+    ],
+    "assessment": "Strong meal-prep use case, but pseudo-brand and fake nutrition text require manual review.",
+    "contact_sheet": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/verification/contact_sheets/2026-05-06T090331Z-prompt-drop-pass-contact-sheet-2.jpg",
+    "checked_at": "2026-05-06T09:08:30Z",
+    "source": "scheduled Prompt Drop verifier fresh vision spot-check 2026-05-06T090331Z",
+    "report_json": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/verification/2026-05-06T090331Z-prompt-drop-zernio-verification.json"
   },
   "zernio": {
     "draft_id": "69f9f10c711a0852dadaf8bf",
@@ -148,7 +155,18 @@
     "media_count": 5,
     "media_type_photo": true,
     "description_length": 3966,
-    "promo_hits": []
+    "promo_hits": [],
+    "review_queue_status": "api_safe_but_visual_warn_manual_review_do_not_auto_accept",
+    "latest_visual_verification_at": "2026-05-06T09:08:30Z"
   },
-  "zernio_draft_id": "69f9f10c711a0852dadaf8bf"
+  "zernio_draft_id": "69f9f10c711a0852dadaf8bf",
+  "visual_spotcheck_history": [
+    {
+      "status": "PASS",
+      "checked_at": "2026-05-05T13:33Z",
+      "contact_sheet": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/contact_sheet_all_5sets.jpg",
+      "note": "Meal-prep containers, weekday labels, tote and sauce cups make packaging/use-case clear; no diet/medical claim risk or forbidden promo."
+    }
+  ],
+  "review_queue_decision": "manual_review_visual_warn_do_not_auto_accept"
 }

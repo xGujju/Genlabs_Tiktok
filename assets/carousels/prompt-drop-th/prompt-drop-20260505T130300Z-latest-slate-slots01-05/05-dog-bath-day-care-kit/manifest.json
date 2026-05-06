@@ -120,9 +120,13 @@
   },
   "visual_spotcheck": {
     "status": "PASS",
-    "checked_at": "2026-05-05T13:33Z",
-    "contact_sheet": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/contact_sheet_all_5sets.jpg",
-    "note": "Pet shampoo/conditioner/towel/brush bundle has category and packaging cues; no medical claims or forbidden promo."
+    "promo_visible": false,
+    "issues": [],
+    "assessment": "Clear pet grooming kit with bottle/towel/brush/category cues; no public promo.",
+    "contact_sheet": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/verification/contact_sheets/2026-05-06T090331Z-prompt-drop-pass-contact-sheet-2.jpg",
+    "checked_at": "2026-05-06T09:08:30Z",
+    "source": "scheduled Prompt Drop verifier fresh vision spot-check 2026-05-06T090331Z",
+    "report_json": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/verification/2026-05-06T090331Z-prompt-drop-zernio-verification.json"
   },
   "zernio": {
     "draft_id": "69f9f10d711a0852dadaf920",
@@ -148,7 +152,18 @@
     "media_count": 5,
     "media_type_photo": true,
     "description_length": 3966,
-    "promo_hits": []
+    "promo_hits": [],
+    "review_queue_status": "api_safe_visual_pass",
+    "latest_visual_verification_at": "2026-05-06T09:08:30Z"
   },
-  "zernio_draft_id": "69f9f10d711a0852dadaf920"
+  "zernio_draft_id": "69f9f10d711a0852dadaf920",
+  "visual_spotcheck_history": [
+    {
+      "status": "PASS",
+      "checked_at": "2026-05-05T13:33Z",
+      "contact_sheet": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T130300Z-latest-slate-slots01-05/contact_sheet_all_5sets.jpg",
+      "note": "Pet shampoo/conditioner/towel/brush bundle has category and packaging cues; no medical claims or forbidden promo."
+    }
+  ],
+  "review_queue_decision": "review_queue_visual_pass_api_safe"
 }

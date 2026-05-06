@@ -1,0 +1,168 @@
+{
+  "series": "prompt_drop_th",
+  "batch_id": "prompt-drop-20260506T1304Z-latest-slate-slots01-05",
+  "source_slate_path": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/research/latest-prompt-drop-style-bank-slate.json",
+  "source_slate_generated_at_utc": "2026-05-06T12:26:54Z",
+  "slot": 6,
+  "slug": "06-reservation-table-kit",
+  "created_at": "2026-05-06T13:24:05.662559+00:00",
+  "status": "zernio_draft_verified_review_queue_safe",
+  "title_th": "PROMPT DROP: ร้านอาหารให้ดูจองง่ายด้วย reservation table kit",
+  "title_en": "Restaurant Reservation Table Kit",
+  "audience": "ร้านอาหารเล็ก, café dining, chef table/omakase local, ร้านที่รับจองผ่าน LINE/โทร/DM และอยากทำภาพจองโต๊ะที่ไม่รก",
+  "business_goal": "drive_saves_shares_follower_growth_with_practical_thai_prompt_pack",
+  "real_use_case": "ทำภาพระบบจองโต๊ะให้ดูเรียบร้อยและน่าเชื่อถือ โดยไม่ใช้เบอร์โทรจริง รายชื่อลูกค้าจริง หรือเมนูที่อ่านแตก",
+  "real_thai_use_case": "ทำภาพระบบจองโต๊ะให้ดูเรียบร้อยและน่าเชื่อถือ โดยไม่ใช้เบอร์โทรจริง รายชื่อลูกค้าจริง หรือเมนูที่อ่านแตก",
+  "thai_context": "ทำภาพระบบจองโต๊ะให้ดูเรียบร้อยและน่าเชื่อถือ โดยไม่ใช้เบอร์โทรจริง รายชื่อลูกค้าจริง หรือเมนูที่อ่านแตก",
+  "output": [
+    "reservation post cover",
+    "LINE OA booking visual",
+    "table policy card",
+    "story highlight cover"
+  ],
+  "topic_category": "service_marketing_prompt",
+  "slot_type": "marketing_business",
+  "visual_style": "Reservation Table Kit — blank table cards, waitlist tags, folded napkin, menu placeholder, pencil, calendar chips, warm dining-room light",
+  "visual_world": "Reservation Table Kit — blank table cards, waitlist tags, folded napkin, menu placeholder, pencil, calendar chips, warm dining-room light",
+  "visual_world_key": "reservation_table_kit",
+  "cover_hook": "PROMPT DROP",
+  "copy_prompt_th": "พรอมต์:\nสร้างภาพ [PROMPT DROP: ร้านอาหารให้ดูจองง่ายด้วย reservation table kit] สำหรับ [['reservation post cover', 'LINE OA booking visual', 'table policy card', 'story highlight cover']] สไตล์ Reservation Table Kit — blank table cards, waitlist tags, folded napkin, menu placeholder, pencil, calendar chips, warm dining-room light แสงและฉากต้องช่วยให้คนดูเข้าใจการใช้งานจริงของแบรนด์ไทย -- ภาพคมชัด -- 1:1\n\nปรับช่องในวงเล็บให้เข้ากับสินค้า/บริการของคุณ: กลุ่มลูกค้า = [ร้านอาหารเล็ก, café dining, chef table/omakase local, ร้านที่รับจองผ่าน LINE/โทร/DM และอยากทำภาพจองโต๊ะที่ไม่รก], output = [['reservation post cover', 'LINE OA booking visual', 'table policy card', 'story highlight cover']], visual world = [Reservation Table Kit — blank table cards, waitlist tags, folded napkin, menu placeholder, pencil, calendar chips, warm dining-room light]\nเหตุผลของภาพ: ร้านอาหารขายประสบการณ์และความง่ายในการจอง; table cards, waitlist tags, menu placeholder และ calendar chips ทำให้เห็นระบบจองโดยไม่ต้องโชว์ข้อมูลลูกค้าหรือป้ายโปรโมชั่นใหญ่\nข้อห้าม: ห้ามโลโก้ปลอม ห้าม QR/barcode/watermark ห้ามตัวหนังสือมั่ว ห้ามภาพสินค้าโล่งแบบ mockup ดิบ และต้องเป็นภาพ square 1:1",
+  "editable_fields": [
+    "สินค้า/บริการ",
+    "แพลตฟอร์ม",
+    "กลุ่มลูกค้า",
+    "visual world",
+    "แสง",
+    "ฉาก",
+    "แพ็กเกจ/พร็อพ"
+  ],
+  "visual_intention": "ร้านอาหารขายประสบการณ์และความง่ายในการจอง; table cards, waitlist tags, menu placeholder และ calendar chips ทำให้เห็นระบบจองโดยไม่ต้องโชว์ข้อมูลลูกค้าหรือป้ายโปรโมชั่นใหญ่",
+  "packaging_requirement": "not_applicable_service_asset — ใช้ table cards ว่าง waitlist tags menu placeholder napkin pencil และ calendar chips เป็น hierarchy; ห้ามชื่อ/เบอร์ลูกค้าจริง ห้าม QR จริง ห้ามโลโก้ร้านจริง ห้ามเมนู pseudo-text ยาว และห้าม flash-sale poster",
+  "wow_factor_notes": "A boring operational service becomes a stylish reservation prompt; useful for many Thai restaurants and cafés.",
+  "generation_model": "openai/gpt-image-2/edit",
+  "generator": "openai/gpt-image-2/edit via FalGptImage2EditClient",
+  "quality": "low",
+  "no_post_processing": true,
+  "cta_policy": "omit_genlabs_promo_unless_sway_reapproves",
+  "default_hashtags": [
+    "#PromptTH",
+    "#AIภาพสินค้า",
+    "#ขายของออนไลน์",
+    "#ProductPhotoAI",
+    "#แบรนด์ไทย"
+  ],
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a992003/UA8F7ZThe9ffviihWUKHh_JM9t90cb.png",
+    "https://v3b.fal.media/files/b/0a992008/g0SqiC3HWfYmoK6KXXv1h_WjbsbbiO.png",
+    "https://v3b.fal.media/files/b/0a99200b/KGx35xIOlIbEAlsfxnSqm_T9AgT7gr.png",
+    "https://v3b.fal.media/files/b/0a99200f/RIpQZc_obqkCQS0RC5H9b_j5i07R8j.png",
+    "https://v3b.fal.media/files/b/0a992014/-htgZF8_vy7zz-EFhx2vp_I4TiNolI.png"
+  ],
+  "slides": [
+    {
+      "slide_index": 1,
+      "role": "cover_prompt_hook",
+      "asset_url": "https://v3b.fal.media/files/b/0a992003/UA8F7ZThe9ffviihWUKHh_JM9t90cb.png",
+      "image_url": "https://v3b.fal.media/files/b/0a992003/UA8F7ZThe9ffviihWUKHh_JM9t90cb.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/06-reservation-table-kit/slide-1.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 2,
+      "role": "main_usable_output",
+      "asset_url": "https://v3b.fal.media/files/b/0a992008/g0SqiC3HWfYmoK6KXXv1h_WjbsbbiO.png",
+      "image_url": "https://v3b.fal.media/files/b/0a992008/g0SqiC3HWfYmoK6KXXv1h_WjbsbbiO.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/06-reservation-table-kit/slide-2.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 3,
+      "role": "macro_detail_or_alternate_angle",
+      "asset_url": "https://v3b.fal.media/files/b/0a99200b/KGx35xIOlIbEAlsfxnSqm_T9AgT7gr.png",
+      "image_url": "https://v3b.fal.media/files/b/0a99200b/KGx35xIOlIbEAlsfxnSqm_T9AgT7gr.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/06-reservation-table-kit/slide-3.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 4,
+      "role": "prompt_recipe_moodboard",
+      "asset_url": "https://v3b.fal.media/files/b/0a99200f/RIpQZc_obqkCQS0RC5H9b_j5i07R8j.png",
+      "image_url": "https://v3b.fal.media/files/b/0a99200f/RIpQZc_obqkCQS0RC5H9b_j5i07R8j.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/06-reservation-table-kit/slide-4.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 5,
+      "role": "variation_copy_remix_ending",
+      "asset_url": "https://v3b.fal.media/files/b/0a992014/-htgZF8_vy7zz-EFhx2vp_I4TiNolI.png",
+      "image_url": "https://v3b.fal.media/files/b/0a992014/-htgZF8_vy7zz-EFhx2vp_I4TiNolI.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/06-reservation-table-kit/slide-5.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    }
+  ],
+  "selection_score": {
+    "practical_usefulness": 23,
+    "genlabs_business_fit": 14,
+    "save_copy_prompt_value": 18,
+    "visual_stop_power": 16,
+    "novelty_vs_recent": 10,
+    "low_production_risk": 5,
+    "total": 86
+  },
+  "qa_summary": {
+    "status": "prompt_qa_passed_pending_dry_run_and_visual_spotcheck",
+    "generation_policy": "GPT Image 2 low native output; no Flux/image_generate; no local compositing; text minimized because GPT-native typography can break Thai.",
+    "public_promo_policy": "Public slides/descriptions omit website, Prompt Drop promo ending, #GenLabsTH, and sales bridge terms unless re-approved.",
+    "use_case_first_gate": "Candidate selected from validated structured slate with Thai business/creator output before visual style.",
+    "packaging_gate": "Product/commerce candidates require full packaging ecosystem and reject blank/plain/unbranded mockups.",
+    "visual_spotcheck_status": "PASS",
+    "zernio_gate": "allow_draft_creation"
+  },
+  "visual_spotcheck": {
+    "checked_at_utc": "2026-05-06T13:32:00Z",
+    "method": "vision_analyze contact sheets",
+    "contact_sheet": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/production/contact_sheets/2026-05-06T1327Z-06-reservation-table-kit-contact-sheet.jpg",
+    "combined_contact_sheet": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/production/contact_sheets/2026-05-06T1327Z-prompt-drop-slots01-02-04-05-06-contact-sheet.jpg",
+    "verdict": "PASS",
+    "auto_draft_safe": true,
+    "public_promo_visible": false,
+    "genlabs_no_prompt_promo_absent": true,
+    "prompt_typography_as_cover_not_product_brand": true,
+    "risk_category": "none_blocking",
+    "summary": "Restaurant reservation table kit is coherent service/stationery asset, no real names/phone/QR/customer data, no fake official system, no public promo; minor microcopy non-blocking."
+  },
+  "zernio": {
+    "draft_id": "69fb42253e9d661e0a81e923",
+    "created_status": "draft_created",
+    "created_at_utc": "2026-05-06T13:36:00Z",
+    "description_length": 3900,
+    "hashtags": [
+      "#PromptTH",
+      "#AIภาพสินค้า",
+      "#ขายของออนไลน์",
+      "#ProductPhotoAI",
+      "#แบรนด์ไทย"
+    ],
+    "api_check": {
+      "http_status": 200,
+      "ok": true,
+      "status": "draft",
+      "tiktok_draft": true,
+      "media_type": "photo",
+      "media_count": 5,
+      "media_item_types": [
+        "image",
+        "image",
+        "image",
+        "image",
+        "image"
+      ],
+      "publish_attempts_ok": true,
+      "publish_attempts_value": 0,
+      "public_promo_hits": [],
+      "publishNow_present": false,
+      "scheduledFor": "2026-05-06T13:29:09.613Z"
+    },
+    "safety_summary": "draft-only verified via GET /v1/posts; no public promo"
+  }
+}

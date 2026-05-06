@@ -1,0 +1,165 @@
+{
+  "series": "prompt_drop_th",
+  "batch_id": "prompt-drop-20260506T0100Z-latest-slate-slots01-05",
+  "source_slate_path": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/research/latest-prompt-drop-style-bank-slate.json",
+  "source_slate_generated_at_utc": "2026-05-06T00:29:28Z",
+  "slot": 5,
+  "slug": "05-acrylic-charm-blind-bag-drop",
+  "created_at": "2026-05-06T01:16:17.235856+00:00",
+  "status": "zernio_draft_created_verified",
+  "title_th": "PROMPT DROP: พวงกุญแจอะคริลิกให้ดูเป็น blind-bag drop",
+  "title_en": "Acrylic Charm Blind Bag Drop Kit",
+  "audience": "ศิลปินไทย, creator merch seller, ร้านพวงกุญแจ/สติกเกอร์ที่ขายผ่านงานอีเวนต์ IG และ TikTok Shop",
+  "business_goal": "drive_saves_shares_follower_growth_with_practical_thai_prompt_pack",
+  "real_use_case": "ทำภาพ launch set สำหรับพวงกุญแจอะคริลิกหรือ charm ให้ดูเหมือนของสะสมที่อยากแกะ ไม่ใช่วางของจุกจิกบนโต๊ะ",
+  "real_thai_use_case": "ทำภาพ launch set สำหรับพวงกุญแจอะคริลิกหรือ charm ให้ดูเหมือนของสะสมที่อยากแกะ ไม่ใช่วางของจุกจิกบนโต๊ะ",
+  "thai_context": "ทำภาพ launch set สำหรับพวงกุญแจอะคริลิกหรือ charm ให้ดูเหมือนของสะสมที่อยากแกะ ไม่ใช่วางของจุกจิกบนโต๊ะ",
+  "output": [
+    "merch launch hero",
+    "blind-bag campaign image",
+    "market stall poster",
+    "creator shop thumbnail"
+  ],
+  "topic_category": "product_image_prompt",
+  "slot_type": "product_commerce",
+  "visual_style": "Acrylic Charm Blind-Bag Drop — translucent charms, backing cards, foil mystery sleeves, keyring hardware, collector checklist, acrylic display riser, playful studio flash",
+  "visual_world": "Acrylic Charm Blind-Bag Drop — translucent charms, backing cards, foil mystery sleeves, keyring hardware, collector checklist, acrylic display riser, playful studio flash",
+  "visual_world_key": "acrylic_charm_blind_bag_drop",
+  "cover_hook": "PROMPT DROP",
+  "copy_prompt_th": "พรอมต์:\nสร้างภาพ [PROMPT DROP: พวงกุญแจอะคริลิกให้ดูเป็น blind-bag drop] สำหรับ [['merch launch hero', 'blind-bag campaign image', 'market stall poster', 'creator shop thumbnail']] สไตล์ Acrylic Charm Blind-Bag Drop — translucent charms, backing cards, foil mystery sleeves, keyring hardware, collector checklist, acrylic display riser, playful studio flash แสงและฉากต้องช่วยให้คนดูเข้าใจการใช้งานจริงของแบรนด์ไทย -- ภาพคมชัด -- 1:1\n\nปรับช่องในวงเล็บให้เข้ากับสินค้า/บริการของคุณ: กลุ่มลูกค้า = [ศิลปินไทย, creator merch seller, ร้านพวงกุญแจ/สติกเกอร์ที่ขายผ่านงานอีเวนต์ IG และ TikTok Shop], output = [['merch launch hero', 'blind-bag campaign image', 'market stall poster', 'creator shop thumbnail']], visual world = [Acrylic Charm Blind-Bag Drop — translucent charms, backing cards, foil mystery sleeves, keyring hardware, collector checklist, acrylic display riser, playful studio flash]\nเหตุผลของภาพ: สินค้าศิลปินขายความสะสมและความอยากเปิดซอง; backing card, mystery sleeve, hardware และ checklist ทำให้เห็นระบบ drop/collection โดยไม่ต้องใช้ตัวละครลิขสิทธิ์หรือภาพรก\nข้อกำหนดแพ็กเกจ: ต้องมี charm อะคริลิกใสพร้อมห่วง/keyring, backing card, ซอง foil หรือ glassine mystery sleeve, checklist/series card, display riser, label hierarchy รุ่น/สี/collection; ห้ามซองขาวโล่ง ห้ามไม่มีฉลาก ห้ามใช้ character/logos ลิขสิทธิ์จริง และห้ามแพ็กเกจ generic\nข้อห้าม: ห้ามโลโก้ปลอม ห้าม QR/barcode/watermark ห้ามตัวหนังสือมั่ว ห้ามภาพสินค้าโล่งแบบ mockup ดิบ และต้องเป็นภาพ square 1:1",
+  "editable_fields": [
+    "สินค้า/บริการ",
+    "แพลตฟอร์ม",
+    "กลุ่มลูกค้า",
+    "visual world",
+    "แสง",
+    "ฉาก",
+    "แพ็กเกจ/พร็อพ"
+  ],
+  "visual_intention": "สินค้าศิลปินขายความสะสมและความอยากเปิดซอง; backing card, mystery sleeve, hardware และ checklist ทำให้เห็นระบบ drop/collection โดยไม่ต้องใช้ตัวละครลิขสิทธิ์หรือภาพรก",
+  "packaging_requirement": "ต้องมี charm อะคริลิกใสพร้อมห่วง/keyring, backing card, ซอง foil หรือ glassine mystery sleeve, checklist/series card, display riser, label hierarchy รุ่น/สี/collection; ห้ามซองขาวโล่ง ห้ามไม่มีฉลาก ห้ามใช้ character/logos ลิขสิทธิ์จริง และห้ามแพ็กเกจ generic",
+  "wow_factor_notes": "Full collector ecosystem: charms + backing cards + mystery sleeves + checklist + display riser; save-worthy for artists planning a merch drop.",
+  "generation_model": "openai/gpt-image-2/edit",
+  "generator": "openai/gpt-image-2/edit via FalGptImage2EditClient",
+  "quality": "low",
+  "no_post_processing": true,
+  "cta_policy": "omit_genlabs_promo_unless_sway_reapproves",
+  "default_hashtags": [
+    "#PromptTH",
+    "#AIภาพสินค้า",
+    "#ขายของออนไลน์",
+    "#ProductPhotoAI",
+    "#แบรนด์ไทย"
+  ],
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a990ef8/tW35uquDfh1hbF5ggHsms_7COqqxYT.png",
+    "https://v3b.fal.media/files/b/0a990efa/OGA8Ksd8j0cdwgNEWZ7mf_RJYLMcXa.png",
+    "https://v3b.fal.media/files/b/0a990efe/UrVOasgdq-sJMbrlChGvp_TwTVaoXf.png",
+    "https://v3b.fal.media/files/b/0a990f01/6xSWdXs0ZrltpIcQfkR-O_kuaMobjg.png",
+    "https://v3b.fal.media/files/b/0a990f05/skjbGetvYmrNW9a4ZSbqx_YTH3MpC5.png"
+  ],
+  "slides": [
+    {
+      "slide_index": 1,
+      "role": "cover_prompt_hook",
+      "asset_url": "https://v3b.fal.media/files/b/0a990ef8/tW35uquDfh1hbF5ggHsms_7COqqxYT.png",
+      "image_url": "https://v3b.fal.media/files/b/0a990ef8/tW35uquDfh1hbF5ggHsms_7COqqxYT.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0100Z-latest-slate-slots01-05/05-acrylic-charm-blind-bag-drop/slide-1.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 2,
+      "role": "main_usable_output",
+      "asset_url": "https://v3b.fal.media/files/b/0a990efa/OGA8Ksd8j0cdwgNEWZ7mf_RJYLMcXa.png",
+      "image_url": "https://v3b.fal.media/files/b/0a990efa/OGA8Ksd8j0cdwgNEWZ7mf_RJYLMcXa.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0100Z-latest-slate-slots01-05/05-acrylic-charm-blind-bag-drop/slide-2.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 3,
+      "role": "macro_detail_or_alternate_angle",
+      "asset_url": "https://v3b.fal.media/files/b/0a990efe/UrVOasgdq-sJMbrlChGvp_TwTVaoXf.png",
+      "image_url": "https://v3b.fal.media/files/b/0a990efe/UrVOasgdq-sJMbrlChGvp_TwTVaoXf.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0100Z-latest-slate-slots01-05/05-acrylic-charm-blind-bag-drop/slide-3.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 4,
+      "role": "prompt_recipe_moodboard",
+      "asset_url": "https://v3b.fal.media/files/b/0a990f01/6xSWdXs0ZrltpIcQfkR-O_kuaMobjg.png",
+      "image_url": "https://v3b.fal.media/files/b/0a990f01/6xSWdXs0ZrltpIcQfkR-O_kuaMobjg.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0100Z-latest-slate-slots01-05/05-acrylic-charm-blind-bag-drop/slide-4.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 5,
+      "role": "variation_copy_remix_ending",
+      "asset_url": "https://v3b.fal.media/files/b/0a990f05/skjbGetvYmrNW9a4ZSbqx_YTH3MpC5.png",
+      "image_url": "https://v3b.fal.media/files/b/0a990f05/skjbGetvYmrNW9a4ZSbqx_YTH3MpC5.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0100Z-latest-slate-slots01-05/05-acrylic-charm-blind-bag-drop/slide-5.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    }
+  ],
+  "selection_score": {
+    "practical_usefulness": 23,
+    "genlabs_business_fit": 18,
+    "save_copy_prompt_value": 19,
+    "visual_stop_power": 18,
+    "novelty_vs_recent": 10,
+    "low_production_risk": 4,
+    "total": 92
+  },
+  "qa_summary": {
+    "status": "prompt_qa_passed_pending_dry_run_and_visual_spotcheck",
+    "generation_policy": "GPT Image 2 low native output; no Flux/image_generate; no local compositing; text minimized because GPT-native typography can break Thai.",
+    "public_promo_policy": "Public slides/descriptions omit website, Prompt Drop promo ending, #GenLabsTH, and sales bridge terms unless re-approved.",
+    "use_case_first_gate": "Candidate selected from validated structured slate with Thai business/creator output before visual style.",
+    "packaging_gate": "Product/commerce candidates require full packaging ecosystem and reject blank/plain/unbranded mockups.",
+    "visual_spotcheck": "fail",
+    "visual_spotcheck_detail": {
+      "visual_status": "FAIL",
+      "risk": "Prominent readable PROMPT appears as brand/logo-like packaging text across product mockups; regenerate before publishing.",
+      "contact_sheet": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/production/contact_sheets/2026-05-06T0118Z-prompt-drop-current-batch-contact-sheet.jpg"
+    },
+    "vision_source": "vision_analyze on current-batch contact sheet 2026-05-06T01:18Z",
+    "dry_run_status": "pass",
+    "overall_review_queue_status": "api_draft_safe_but_visual_fail_do_not_publish_regenerate",
+    "publication_gate": "do_not_publish_regenerate_before_use",
+    "zernio_api_verification": "pass"
+  },
+  "zernio": {
+    "draft_id": "69fa9675f6ebc8a740502454",
+    "status": "draft",
+    "platform_statuses": [
+      "pending"
+    ],
+    "media_count": 5,
+    "description_length": 3966,
+    "prompt_giveaway_present": true,
+    "promo_terms_found": [],
+    "draft_only_verified": true,
+    "verified_at": "2026-05-06T01:16:37.924371+00:00",
+    "created_by_verifier": true,
+    "verified_status": "draft",
+    "safety_summary": {
+      "api_ok": true,
+      "http_status": 200,
+      "status": "draft",
+      "tiktok_draft_true": true,
+      "media_count": 5,
+      "media_types": [
+        "image"
+      ],
+      "description_length": 3966,
+      "prompt_giveaway_present": true,
+      "promo_terms_found": [],
+      "visual_gate": "FAIL"
+    }
+  },
+  "visual_spotcheck": {
+    "status": "FAIL",
+    "detail": "Prominent readable PROMPT appears as brand/logo-like packaging text across product mockups; regenerate before publishing.",
+    "contact_sheet": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/production/contact_sheets/2026-05-06T0118Z-prompt-drop-current-batch-contact-sheet.jpg"
+  },
+  "production_report": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/production/2026-05-06T0122Z-prompt-drop-latest-slate-5set-production.json"
+}

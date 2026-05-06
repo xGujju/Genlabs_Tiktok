@@ -1,0 +1,180 @@
+{
+  "series": "prompt_drop_th",
+  "batch_id": "prompt-drop-20260506T0700Z-latest-slate-slots06-10",
+  "source_slate_path": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/research/latest-prompt-drop-style-bank-slate.json",
+  "source_slate_generated_at_utc": "2026-05-06T00:29:28Z",
+  "slot": 10,
+  "slug": "10-cat-litter-starter-tray",
+  "created_at": "2026-05-06T07:21:53.059351+00:00",
+  "status": "zernio_draft_created_verified",
+  "title_th": "PROMPT DROP: ทรายแมวให้ดูเป็น starter tray ที่ขายง่าย",
+  "title_en": "Cat Litter Starter Tray Kit",
+  "audience": "ร้าน pet shop, แบรนด์ทรายแมว/อุปกรณ์แมว, TikTok Shop seller ที่อยากขาย bundle สำหรับเจ้าของแมวใหม่",
+  "business_goal": "drive_saves_shares_follower_growth_with_practical_thai_prompt_pack",
+  "real_use_case": "ทำภาพ bundle ทรายแมวที่ดูสะอาดและเข้าใจง่าย โดยไม่ให้กลายเป็นถุงสินค้าเดี่ยวหรือภาพแมว AI พลาสติก",
+  "real_thai_use_case": "ทำภาพ bundle ทรายแมวที่ดูสะอาดและเข้าใจง่าย โดยไม่ให้กลายเป็นถุงสินค้าเดี่ยวหรือภาพแมว AI พลาสติก",
+  "thai_context": "ทำภาพ bundle ทรายแมวที่ดูสะอาดและเข้าใจง่าย โดยไม่ให้กลายเป็นถุงสินค้าเดี่ยวหรือภาพแมว AI พลาสติก",
+  "output": [
+    "bundle hero image",
+    "marketplace thumbnail",
+    "new-cat-owner starter kit",
+    "product education visual"
+  ],
+  "topic_category": "product_image_prompt",
+  "slot_type": "product_commerce",
+  "visual_style": "Cat Litter Starter Tray — resealable pouch, scoop, liner roll, odor-control tab cards, small tray corner, soft clean bathroom light, sand texture macro",
+  "visual_world": "Cat Litter Starter Tray — resealable pouch, scoop, liner roll, odor-control tab cards, small tray corner, soft clean bathroom light, sand texture macro",
+  "visual_world_key": "cat_litter_starter_tray",
+  "cover_hook": "PROMPT DROP",
+  "copy_prompt_th": "พรอมต์:\nสร้างภาพ [PROMPT DROP: ทรายแมวให้ดูเป็น starter tray ที่ขายง่าย] สำหรับ [['bundle hero image', 'marketplace thumbnail', 'new-cat-owner starter kit', 'product education visual']] สไตล์ Cat Litter Starter Tray — resealable pouch, scoop, liner roll, odor-control tab cards, small tray corner, soft clean bathroom light, sand texture macro แสงและฉากต้องช่วยให้คนดูเข้าใจการใช้งานจริงของแบรนด์ไทย -- ภาพคมชัด -- 1:1\n\nปรับช่องในวงเล็บให้เข้ากับสินค้า/บริการของคุณ: กลุ่มลูกค้า = [ร้าน pet shop, แบรนด์ทรายแมว/อุปกรณ์แมว, TikTok Shop seller ที่อยากขาย bundle สำหรับเจ้าของแมวใหม่], output = [['bundle hero image', 'marketplace thumbnail', 'new-cat-owner starter kit', 'product education visual']], visual world = [Cat Litter Starter Tray — resealable pouch, scoop, liner roll, odor-control tab cards, small tray corner, soft clean bathroom light, sand texture macro]\nเหตุผลของภาพ: สินค้าแมวขายความสะอาดและความพร้อมเริ่มใช้; ถุงรีซีล scoop liner card และ tray corner ทำให้เจ้าของแมวใหม่เห็นชุด starter โดยไม่ต้องใช้แมวจริง/ปลอมเป็นตัวนำ\nข้อกำหนดแพ็กเกจ: ต้องมีถุงทรายแมวแบบ resealable pouch หรือ bucket, scoop, liner roll, tray corner, odor/category tab card, label hierarchy กลิ่น/ชนิดทราย/น้ำหนัก/วิธีใช้, วัสดุซอง matte หรือแข็งแรง; ห้ามถุงขาวโล่ง ห้ามไม่มีฉลาก ห้ามภาพแมวปลอมเด่นเกินสินค้า และห้ามคำเคลมสุขภาพเกินจริง\nข้อห้าม: ห้ามโลโก้ปลอม ห้าม QR/barcode/watermark ห้ามตัวหนังสือมั่ว ห้ามภาพสินค้าโล่งแบบ mockup ดิบ และต้องเป็นภาพ square 1:1",
+  "editable_fields": [
+    "สินค้า/บริการ",
+    "แพลตฟอร์ม",
+    "กลุ่มลูกค้า",
+    "visual world",
+    "แสง",
+    "ฉาก",
+    "แพ็กเกจ/พร็อพ"
+  ],
+  "visual_intention": "สินค้าแมวขายความสะอาดและความพร้อมเริ่มใช้; ถุงรีซีล scoop liner card และ tray corner ทำให้เจ้าของแมวใหม่เห็นชุด starter โดยไม่ต้องใช้แมวจริง/ปลอมเป็นตัวนำ",
+  "packaging_requirement": "ต้องมีถุงทรายแมวแบบ resealable pouch หรือ bucket, scoop, liner roll, tray corner, odor/category tab card, label hierarchy กลิ่น/ชนิดทราย/น้ำหนัก/วิธีใช้, วัสดุซอง matte หรือแข็งแรง; ห้ามถุงขาวโล่ง ห้ามไม่มีฉลาก ห้ามภาพแมวปลอมเด่นเกินสินค้า และห้ามคำเคลมสุขภาพเกินจริง",
+  "wow_factor_notes": "Complete utility ecosystem: pouch + scoop + liner + tab cards + tray; save-worthy because pet sellers can show a bundle, not just a bag.",
+  "generation_model": "openai/gpt-image-2/edit",
+  "generator": "openai/gpt-image-2/edit via FalGptImage2EditClient",
+  "quality": "low",
+  "no_post_processing": true,
+  "cta_policy": "omit_genlabs_promo_unless_sway_reapproves",
+  "default_hashtags": [
+    "#PromptTH",
+    "#AIภาพสินค้า",
+    "#ขายของออนไลน์",
+    "#ProductPhotoAI",
+    "#แบรนด์ไทย"
+  ],
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a99177d/R8oZYVW6ATZZEsAGhxYfA_PVpKWf5U.png",
+    "https://v3b.fal.media/files/b/0a991781/XEvSssFnnvkcnnGgCuDjI_yih6jUQP.png",
+    "https://v3b.fal.media/files/b/0a991786/F7bLzHuu4A_aBGeEr-bus_BngHAPqD.png",
+    "https://v3b.fal.media/files/b/0a991793/MqDyqTeHrrEHfwGd8rrQF_xAyjZhpb.png",
+    "https://v3b.fal.media/files/b/0a991797/n8iRGdgSLVGvEGf08wCit_j77NhESl.png"
+  ],
+  "slides": [
+    {
+      "slide_index": 1,
+      "role": "cover_prompt_hook",
+      "asset_url": "https://v3b.fal.media/files/b/0a99177d/R8oZYVW6ATZZEsAGhxYfA_PVpKWf5U.png",
+      "image_url": "https://v3b.fal.media/files/b/0a99177d/R8oZYVW6ATZZEsAGhxYfA_PVpKWf5U.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0700Z-latest-slate-slots06-10/10-cat-litter-starter-tray/slide-1.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 2,
+      "role": "main_usable_output",
+      "asset_url": "https://v3b.fal.media/files/b/0a991781/XEvSssFnnvkcnnGgCuDjI_yih6jUQP.png",
+      "image_url": "https://v3b.fal.media/files/b/0a991781/XEvSssFnnvkcnnGgCuDjI_yih6jUQP.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0700Z-latest-slate-slots06-10/10-cat-litter-starter-tray/slide-2.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 3,
+      "role": "macro_detail_or_alternate_angle",
+      "asset_url": "https://v3b.fal.media/files/b/0a991786/F7bLzHuu4A_aBGeEr-bus_BngHAPqD.png",
+      "image_url": "https://v3b.fal.media/files/b/0a991786/F7bLzHuu4A_aBGeEr-bus_BngHAPqD.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0700Z-latest-slate-slots06-10/10-cat-litter-starter-tray/slide-3.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 4,
+      "role": "prompt_recipe_moodboard",
+      "asset_url": "https://v3b.fal.media/files/b/0a991793/MqDyqTeHrrEHfwGd8rrQF_xAyjZhpb.png",
+      "image_url": "https://v3b.fal.media/files/b/0a991793/MqDyqTeHrrEHfwGd8rrQF_xAyjZhpb.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0700Z-latest-slate-slots06-10/10-cat-litter-starter-tray/slide-4.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    },
+    {
+      "slide_index": 5,
+      "role": "variation_copy_remix_ending",
+      "asset_url": "https://v3b.fal.media/files/b/0a991797/n8iRGdgSLVGvEGf08wCit_j77NhESl.png",
+      "image_url": "https://v3b.fal.media/files/b/0a991797/n8iRGdgSLVGvEGf08wCit_j77NhESl.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0700Z-latest-slate-slots06-10/10-cat-litter-starter-tray/slide-5.png",
+      "qa_status": "generated_gpt_image_2_low_pending_vision"
+    }
+  ],
+  "selection_score": {
+    "practical_usefulness": 23,
+    "genlabs_business_fit": 18,
+    "save_copy_prompt_value": 18,
+    "visual_stop_power": 17,
+    "novelty_vs_recent": 8,
+    "low_production_risk": 4,
+    "total": 88
+  },
+  "qa_summary": {
+    "status": "visual_pass_ready_for_zernio_draft",
+    "generation_policy": "GPT Image 2 low native output; no Flux/image_generate; no local compositing; text minimized because GPT-native typography can break Thai.",
+    "public_promo_policy": "Public slides/descriptions omit website, Prompt Drop promo ending, #GenLabsTH, and sales bridge terms unless re-approved.",
+    "use_case_first_gate": "Candidate selected from validated structured slate with Thai business/creator output before visual style.",
+    "packaging_gate": "Product/commerce candidates require full packaging ecosystem and reject blank/plain/unbranded mockups.",
+    "visual_spotcheck_status": "PASS",
+    "visual_spotcheck_issues": []
+  },
+  "visual_spotcheck": {
+    "status": "PASS",
+    "promo_visible": false,
+    "issues": [],
+    "assessment": "Strong product/commerce execution with realistic cat-litter pouch/tray/scoop/starter-kit packaging hierarchy; no public promo.",
+    "contact_sheet": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/verification/contact_sheets/2026-05-06T090331Z-prompt-drop-pass-contact-sheet-1.jpg",
+    "checked_at": "2026-05-06T09:08:30Z",
+    "source": "scheduled Prompt Drop verifier fresh vision spot-check 2026-05-06T090331Z",
+    "report_json": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/verification/2026-05-06T090331Z-prompt-drop-zernio-verification.json"
+  },
+  "zernio_gate": "eligible_for_draft_creation",
+  "zernio": {
+    "draft_id": "69faed2bcc282548dc8b2e9f",
+    "created_this_run": true,
+    "create_status": "draft_created",
+    "api_check": {
+      "ok": true,
+      "draft_id": "69faed2bcc282548dc8b2e9f",
+      "http_status": 200,
+      "status": "draft",
+      "platform_statuses": [
+        "pending"
+      ],
+      "tiktok_draft_values": [
+        true
+      ],
+      "tiktok_draft_true": true,
+      "media_count": 5,
+      "media_types": [
+        "image"
+      ],
+      "tiktok_media_type_values": [
+        "photo"
+      ],
+      "description_length": 3966,
+      "prompt_giveaway_present": true,
+      "promo_terms_found": [],
+      "publishAttempts": 0,
+      "server_scheduledFor_present": true,
+      "warnings": [
+        "server scheduledFor echo present; status draft and TikTok draft true"
+      ]
+    },
+    "verified_at": "2026-05-06T07:26:36.220287+00:00",
+    "draft_only_verified": true,
+    "review_queue_status": "api_safe_visual_pass",
+    "latest_visual_verification_at": "2026-05-06T09:08:30Z"
+  },
+  "visual_spotcheck_history": [
+    {
+      "status": "PASS",
+      "promo_visible": false,
+      "issues": [],
+      "assessment": "Strong product/commerce execution with realistic pouch packaging, tray, scoop, liner roll, category hierarchy and starter-kit logic.",
+      "contact_sheet": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/production/contact_sheets/2026-05-06T0724Z-prompt-drop-slots06-10-contact-sheet.jpg",
+      "checked_at": "2026-05-06T07:24:50.234332+00:00"
+    }
+  ],
+  "review_queue_decision": "review_queue_visual_pass_api_safe"
+}

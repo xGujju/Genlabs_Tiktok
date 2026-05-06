@@ -1,0 +1,297 @@
+{
+  "batch_id": "prompt-drop-20260506T0100Z-latest-slate-slots01-05",
+  "started_at": "2026-05-06T01:01:26.692095+00:00",
+  "source_slate": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/research/latest-prompt-drop-style-bank-slate.json",
+  "selected_slots": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "block_validation": {
+    "ok": true,
+    "product_or_sme_useful_count": 5,
+    "experimental_count": 0,
+    "low_score_slots": [],
+    "hard_failure_slots": [],
+    "adjacent_repeats": [],
+    "public_forbidden_hits": []
+  },
+  "items": [
+    {
+      "slot": 1,
+      "slug": "01-curry-paste-flavor-library",
+      "title_th": "PROMPT DROP: เครื่องแกงให้ดูเป็น flavor library",
+      "status": "generated_ready_for_zernio_dry_run",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0100Z-latest-slate-slots01-05/01-curry-paste-flavor-library",
+      "events": [
+        {
+          "ts": "2026-05-06T01:02:01.437133+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a990eb1/YpR9ZnLB7osG7u93eoH3W_tkOxk4Nz.png"
+        },
+        {
+          "ts": "2026-05-06T01:02:39.614169+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a990eb4/vaJbId08CySXYm-2bJmlL_jDb230wY.png"
+        },
+        {
+          "ts": "2026-05-06T01:03:09.364355+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a990eb8/O-h3NuI1nFT26nadS25mL_7xWBIlm0.png"
+        },
+        {
+          "ts": "2026-05-06T01:03:53.193717+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a990ebb/ypSS_meTiYnh-tKx2mCxn_HZIaIwsE.png"
+        },
+        {
+          "ts": "2026-05-06T01:04:34.130659+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a990ebf/1i0n1vS2h4yPDHGocIBcM_qZCLlkdI.png"
+        },
+        {
+          "ts": "2026-05-06T01:04:34.631704+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0100Z-latest-slate-slots01-05/01-curry-paste-flavor-library/manifest.json",
+          "asset_count": 5
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a990eb1/YpR9ZnLB7osG7u93eoH3W_tkOxk4Nz.png",
+        "https://v3b.fal.media/files/b/0a990eb4/vaJbId08CySXYm-2bJmlL_jDb230wY.png",
+        "https://v3b.fal.media/files/b/0a990eb8/O-h3NuI1nFT26nadS25mL_7xWBIlm0.png",
+        "https://v3b.fal.media/files/b/0a990ebb/ypSS_meTiYnh-tKx2mCxn_HZIaIwsE.png",
+        "https://v3b.fal.media/files/b/0a990ebf/1i0n1vS2h4yPDHGocIBcM_qZCLlkdI.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0100Z-latest-slate-slots01-05/01-curry-paste-flavor-library/manifest.json",
+      "asset_count": 5
+    },
+    {
+      "slot": 2,
+      "slug": "02-trial-class-welcome-kit",
+      "title_th": "PROMPT DROP: โรงเรียนสอนภาษาให้มี trial class welcome kit",
+      "status": "generated_ready_for_zernio_dry_run",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0100Z-latest-slate-slots01-05/02-trial-class-welcome-kit",
+      "events": [
+        {
+          "ts": "2026-05-06T01:05:06.064412+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a990ec3/VYdr7Ai0Y-7GAJGMNkJvH_jqd7Jk4e.png"
+        },
+        {
+          "ts": "2026-05-06T01:05:39.338615+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a990ec6/-bIAGSoj_Wv_eCYqnPWVa_xf50Jm8D.png"
+        },
+        {
+          "ts": "2026-05-06T01:06:09.783929+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a990eca/KtNiVEHT7mployQj1f2YE_M0niEuQM.png"
+        },
+        {
+          "ts": "2026-05-06T01:06:45.678574+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a990ecd/6W7OIgPReqfiGvj982jwt_zJqlqoRD.png"
+        },
+        {
+          "ts": "2026-05-06T01:07:21.250575+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a990ed1/jG3rNpdXrF64ZDy5de2M0_nWOcrrvz.png"
+        },
+        {
+          "ts": "2026-05-06T01:07:21.751795+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0100Z-latest-slate-slots01-05/02-trial-class-welcome-kit/manifest.json",
+          "asset_count": 5
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a990ec3/VYdr7Ai0Y-7GAJGMNkJvH_jqd7Jk4e.png",
+        "https://v3b.fal.media/files/b/0a990ec6/-bIAGSoj_Wv_eCYqnPWVa_xf50Jm8D.png",
+        "https://v3b.fal.media/files/b/0a990eca/KtNiVEHT7mployQj1f2YE_M0niEuQM.png",
+        "https://v3b.fal.media/files/b/0a990ecd/6W7OIgPReqfiGvj982jwt_zJqlqoRD.png",
+        "https://v3b.fal.media/files/b/0a990ed1/jG3rNpdXrF64ZDy5de2M0_nWOcrrvz.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0100Z-latest-slate-slots01-05/02-trial-class-welcome-kit/manifest.json",
+      "asset_count": 5
+    },
+    {
+      "slot": 3,
+      "slug": "03-modest-resortwear-lookbook",
+      "title_th": "PROMPT DROP: แฟชั่น modest/resort ให้ดูเป็น lookbook เซฟได้",
+      "status": "generated_ready_for_zernio_dry_run",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0100Z-latest-slate-slots01-05/03-modest-resortwear-lookbook",
+      "events": [
+        {
+          "ts": "2026-05-06T01:07:50.420725+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a990ed4/HNPqzmqucYSvoCtLm9A_P_a2XrDUde.png"
+        },
+        {
+          "ts": "2026-05-06T01:08:18.411631+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a990ed7/mm2zx7sVFGfkqcOWDE46__jFFmYhoY.png"
+        },
+        {
+          "ts": "2026-05-06T01:08:47.267816+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a990eda/OlgWKx4RodttXIxeDqYQp_L3gB00Mt.png"
+        },
+        {
+          "ts": "2026-05-06T01:09:32.661507+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a990edd/X2SuqohYgjhqIrouvk0-h_45pVWRCd.png"
+        },
+        {
+          "ts": "2026-05-06T01:10:04.627003+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a990ee1/_CCusHP4pgGwwt-qdgtxE_J5fCUgAT.png"
+        },
+        {
+          "ts": "2026-05-06T01:10:05.128248+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0100Z-latest-slate-slots01-05/03-modest-resortwear-lookbook/manifest.json",
+          "asset_count": 5
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a990ed4/HNPqzmqucYSvoCtLm9A_P_a2XrDUde.png",
+        "https://v3b.fal.media/files/b/0a990ed7/mm2zx7sVFGfkqcOWDE46__jFFmYhoY.png",
+        "https://v3b.fal.media/files/b/0a990eda/OlgWKx4RodttXIxeDqYQp_L3gB00Mt.png",
+        "https://v3b.fal.media/files/b/0a990edd/X2SuqohYgjhqIrouvk0-h_45pVWRCd.png",
+        "https://v3b.fal.media/files/b/0a990ee1/_CCusHP4pgGwwt-qdgtxE_J5fCUgAT.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0100Z-latest-slate-slots01-05/03-modest-resortwear-lookbook/manifest.json",
+      "asset_count": 5
+    },
+    {
+      "slot": 4,
+      "slug": "04-lip-tint-shade-lab",
+      "title_th": "PROMPT DROP: ลิปทินต์ให้ดูเป็น shade lab ที่อยากเซฟ",
+      "status": "generated_ready_for_zernio_dry_run",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0100Z-latest-slate-slots01-05/04-lip-tint-shade-lab",
+      "events": [
+        {
+          "ts": "2026-05-06T01:10:43.090665+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a990ee4/mh_iYC3YFnndZbVyp7o5Z_KjsfkjnU.png"
+        },
+        {
+          "ts": "2026-05-06T01:11:16.903665+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a990ee8/yukAPro128T7nnLM9VUKZ_2bXnNegI.png"
+        },
+        {
+          "ts": "2026-05-06T01:11:50.258061+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a990eeb/qEfVjtp_126YGb-Yz2oi9_EBG3D1VN.png"
+        },
+        {
+          "ts": "2026-05-06T01:12:37.365625+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a990ef0/RBpv-qaxO_BexsO1NeAme_RgEqaVhd.png"
+        },
+        {
+          "ts": "2026-05-06T01:13:16.902840+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a990ef4/PNClK-o1spjD_LlsKshVg_LOm78WU3.png"
+        },
+        {
+          "ts": "2026-05-06T01:13:17.404277+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0100Z-latest-slate-slots01-05/04-lip-tint-shade-lab/manifest.json",
+          "asset_count": 5
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a990ee4/mh_iYC3YFnndZbVyp7o5Z_KjsfkjnU.png",
+        "https://v3b.fal.media/files/b/0a990ee8/yukAPro128T7nnLM9VUKZ_2bXnNegI.png",
+        "https://v3b.fal.media/files/b/0a990eeb/qEfVjtp_126YGb-Yz2oi9_EBG3D1VN.png",
+        "https://v3b.fal.media/files/b/0a990ef0/RBpv-qaxO_BexsO1NeAme_RgEqaVhd.png",
+        "https://v3b.fal.media/files/b/0a990ef4/PNClK-o1spjD_LlsKshVg_LOm78WU3.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0100Z-latest-slate-slots01-05/04-lip-tint-shade-lab/manifest.json",
+      "asset_count": 5
+    },
+    {
+      "slot": 5,
+      "slug": "05-acrylic-charm-blind-bag-drop",
+      "title_th": "PROMPT DROP: พวงกุญแจอะคริลิกให้ดูเป็น blind-bag drop",
+      "status": "generated_ready_for_zernio_dry_run",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0100Z-latest-slate-slots01-05/05-acrylic-charm-blind-bag-drop",
+      "events": [
+        {
+          "ts": "2026-05-06T01:13:45.228591+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a990ef8/tW35uquDfh1hbF5ggHsms_7COqqxYT.png"
+        },
+        {
+          "ts": "2026-05-06T01:14:16.681138+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a990efa/OGA8Ksd8j0cdwgNEWZ7mf_RJYLMcXa.png"
+        },
+        {
+          "ts": "2026-05-06T01:14:51.006530+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a990efe/UrVOasgdq-sJMbrlChGvp_TwTVaoXf.png"
+        },
+        {
+          "ts": "2026-05-06T01:15:32.321141+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a990f01/6xSWdXs0ZrltpIcQfkR-O_kuaMobjg.png"
+        },
+        {
+          "ts": "2026-05-06T01:16:16.734800+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a990f05/skjbGetvYmrNW9a4ZSbqx_YTH3MpC5.png"
+        },
+        {
+          "ts": "2026-05-06T01:16:17.236216+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0100Z-latest-slate-slots01-05/05-acrylic-charm-blind-bag-drop/manifest.json",
+          "asset_count": 5
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a990ef8/tW35uquDfh1hbF5ggHsms_7COqqxYT.png",
+        "https://v3b.fal.media/files/b/0a990efa/OGA8Ksd8j0cdwgNEWZ7mf_RJYLMcXa.png",
+        "https://v3b.fal.media/files/b/0a990efe/UrVOasgdq-sJMbrlChGvp_TwTVaoXf.png",
+        "https://v3b.fal.media/files/b/0a990f01/6xSWdXs0ZrltpIcQfkR-O_kuaMobjg.png",
+        "https://v3b.fal.media/files/b/0a990f05/skjbGetvYmrNW9a4ZSbqx_YTH3MpC5.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0100Z-latest-slate-slots01-05/05-acrylic-charm-blind-bag-drop/manifest.json",
+      "asset_count": 5
+    }
+  ],
+  "finished_at": "2026-05-06T01:16:17.236567+00:00",
+  "status_counts": {
+    "generated_ready_for_zernio_dry_run": 5
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "batch_id": "prompt-drop-20260506T1304Z-latest-slate-slots01-05",
+  "started_at": "2026-05-06T13:05:42.974659+00:00",
+  "source_slate": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/research/latest-prompt-drop-style-bank-slate.json",
+  "selected_slots": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "block_validation": {
+    "ok": true,
+    "product_or_sme_useful_count": 5,
+    "experimental_count": 0,
+    "low_score_slots": [],
+    "hard_failure_slots": [],
+    "adjacent_repeats": [],
+    "public_forbidden_hits": []
+  },
+  "items": [
+    {
+      "slot": 1,
+      "slug": "01-pore-safe-refill-calendar",
+      "title_th": "PROMPT DROP: แผ่นแปะสิวให้ดูเป็น refill calendar kit",
+      "status": "generated_ready_for_zernio_dry_run",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/01-pore-safe-refill-calendar",
+      "events": [
+        {
+          "ts": "2026-05-06T13:06:25.185318+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a991faa/zhxV9dOd4j7Uvze-JRUkd_ZNKjIpC4.png"
+        },
+        {
+          "ts": "2026-05-06T13:07:08.342994+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a991fae/28jZf8wh_Dn2cp-WDAb03_VrxM923T.png"
+        },
+        {
+          "ts": "2026-05-06T13:07:51.171729+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a991fb3/ic924OwIpNIvGa_yen3jr_N40mNjx6.png"
+        },
+        {
+          "ts": "2026-05-06T13:08:40.315705+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a991fb7/0rc4r-IsRoqn8IfKsY7pr_9cEmdZpy.png"
+        },
+        {
+          "ts": "2026-05-06T13:09:26.267249+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a991fbc/UtktPgMw1ujCBmC_yTdx5_P5KfKn79.png"
+        },
+        {
+          "ts": "2026-05-06T13:09:26.768213+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/01-pore-safe-refill-calendar/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-06T13:20:28.822970+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/01-pore-safe-refill-calendar/manifest.json",
+          "asset_count": 5
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a991faa/zhxV9dOd4j7Uvze-JRUkd_ZNKjIpC4.png",
+        "https://v3b.fal.media/files/b/0a991fae/28jZf8wh_Dn2cp-WDAb03_VrxM923T.png",
+        "https://v3b.fal.media/files/b/0a991fb3/ic924OwIpNIvGa_yen3jr_N40mNjx6.png",
+        "https://v3b.fal.media/files/b/0a991fb7/0rc4r-IsRoqn8IfKsY7pr_9cEmdZpy.png",
+        "https://v3b.fal.media/files/b/0a991fbc/UtktPgMw1ujCBmC_yTdx5_P5KfKn79.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/01-pore-safe-refill-calendar/manifest.json",
+      "asset_count": 5
+    },
+    {
+      "slot": 2,
+      "slug": "02-moving-day-kit",
+      "title_th": "PROMPT DROP: บริการย้ายคอนโดให้ดูเป็น moving day kit",
+      "status": "generated_ready_for_zernio_dry_run",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/02-moving-day-kit",
+      "events": [
+        {
+          "ts": "2026-05-06T13:10:04.635257+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a991fc1/6CvMbGHm3W26JX6OpegkP_umkguPTS.png"
+        },
+        {
+          "ts": "2026-05-06T13:10:38.362887+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a991fc4/kHbHbViMcANX3RtwYCl0A_MhPAtYsP.png"
+        },
+        {
+          "ts": "2026-05-06T13:11:18.797208+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a991fc8/LcEQ_boX-pC298JafyFTp_fkcNr5iJ.png"
+        },
+        {
+          "ts": "2026-05-06T13:12:00.362188+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a991fcc/Q3xPkRdEMzsgyGjTEOA2j_mwcQUVUj.png"
+        },
+        {
+          "ts": "2026-05-06T13:12:37.935702+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a991fd0/rCQNmMWfuBG6KcsS7azVb_rpxcQwLJ.png"
+        },
+        {
+          "ts": "2026-05-06T13:12:38.436730+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/02-moving-day-kit/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-06T13:20:28.823982+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/02-moving-day-kit/manifest.json",
+          "asset_count": 5
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a991fc1/6CvMbGHm3W26JX6OpegkP_umkguPTS.png",
+        "https://v3b.fal.media/files/b/0a991fc4/kHbHbViMcANX3RtwYCl0A_MhPAtYsP.png",
+        "https://v3b.fal.media/files/b/0a991fc8/LcEQ_boX-pC298JafyFTp_fkcNr5iJ.png",
+        "https://v3b.fal.media/files/b/0a991fcc/Q3xPkRdEMzsgyGjTEOA2j_mwcQUVUj.png",
+        "https://v3b.fal.media/files/b/0a991fd0/rCQNmMWfuBG6KcsS7azVb_rpxcQwLJ.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/02-moving-day-kit/manifest.json",
+      "asset_count": 5
+    },
+    {
+      "slot": 3,
+      "slug": "03-graduation-beauty-portrait-kit",
+      "title_th": "PROMPT DROP: ลุครับปริญญาให้ดูเป็น beauty portrait kit",
+      "status": "image_generation_failed",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/03-graduation-beauty-portrait-kit",
+      "events": [
+        {
+          "ts": "2026-05-06T13:12:41.380902+00:00",
+          "event": "image_generation_failed",
+          "slide": 1,
+          "error": "HTTPError('422 Client Error: Unprocessable Entity for url: https://fal.run/openai/gpt-image-2/edit')"
+        }
+      ],
+      "error": "HTTPError('422 Client Error: Unprocessable Entity for url: https://fal.run/openai/gpt-image-2/edit')"
+    },
+    {
+      "slot": 4,
+      "slug": "04-florist-care-card-kit",
+      "title_th": "PROMPT DROP: ช่อดอกไม้ส่งถึงบ้านให้ดูเป็น care card kit",
+      "status": "generated_ready_for_zernio_dry_run",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/04-florist-care-card-kit",
+      "events": [
+        {
+          "ts": "2026-05-06T13:13:27.788490+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a991fd5/_y5DFvT5wZphfSbYag6ug_n7wu321t.png"
+        },
+        {
+          "ts": "2026-05-06T13:14:01.518190+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a991fd9/DgBTFcgi3IFaDWMwgagRH_jInytYcC.png"
+        },
+        {
+          "ts": "2026-05-06T13:14:32.054492+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a991fdc/nEljE7UgJyEj3olwZSm2N_6VzhRGWf.png"
+        },
+        {
+          "ts": "2026-05-06T13:15:15.297833+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a991fe0/WsHpZObbA2UpxS_3Tht6Y_a09uaDjy.png"
+        },
+        {
+          "ts": "2026-05-06T13:15:53.815008+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a991fe3/D1o-rySgaw_yhGTkLylO4_tBP8cCO1.png"
+        },
+        {
+          "ts": "2026-05-06T13:15:54.317073+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/04-florist-care-card-kit/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-06T13:20:28.827864+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/04-florist-care-card-kit/manifest.json",
+          "asset_count": 5
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a991fd5/_y5DFvT5wZphfSbYag6ug_n7wu321t.png",
+        "https://v3b.fal.media/files/b/0a991fd9/DgBTFcgi3IFaDWMwgagRH_jInytYcC.png",
+        "https://v3b.fal.media/files/b/0a991fdc/nEljE7UgJyEj3olwZSm2N_6VzhRGWf.png",
+        "https://v3b.fal.media/files/b/0a991fe0/WsHpZObbA2UpxS_3Tht6Y_a09uaDjy.png",
+        "https://v3b.fal.media/files/b/0a991fe3/D1o-rySgaw_yhGTkLylO4_tBP8cCO1.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/04-florist-care-card-kit/manifest.json",
+      "asset_count": 5
+    },
+    {
+      "slot": 5,
+      "slug": "05-sneaker-care-box",
+      "title_th": "PROMPT DROP: ชุดทำความสะอาดรองเท้าให้ดูเป็น sneaker care box",
+      "status": "generated_ready_for_zernio_dry_run",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/05-sneaker-care-box",
+      "events": [
+        {
+          "ts": "2026-05-06T13:16:51.885918+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a991fe8/JCNLhlD3nV3IGGwuMhRVC_zYY5OEuv.png"
+        },
+        {
+          "ts": "2026-05-06T13:17:34.278704+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a991fee/w1UA5bdPabAnuU0O7RvyI_iuaPwrIB.png"
+        },
+        {
+          "ts": "2026-05-06T13:18:20.351094+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a991ff2/Mjpih2wtR_9GMXhIenZgK_6TzjOw4s.png"
+        },
+        {
+          "ts": "2026-05-06T13:19:04.321658+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a991ff6/Gl9EvDUwC1oxKlhsCOivY_TQnTp8nr.png"
+        },
+        {
+          "ts": "2026-05-06T13:19:51.290052+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a991ffb/d6twyNIM_WZvR7YRe9oRn_rC7OonN8.png"
+        },
+        {
+          "ts": "2026-05-06T13:19:51.791255+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/05-sneaker-care-box/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-06T13:20:28.829747+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/05-sneaker-care-box/manifest.json",
+          "asset_count": 5
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a991fe8/JCNLhlD3nV3IGGwuMhRVC_zYY5OEuv.png",
+        "https://v3b.fal.media/files/b/0a991fee/w1UA5bdPabAnuU0O7RvyI_iuaPwrIB.png",
+        "https://v3b.fal.media/files/b/0a991ff2/Mjpih2wtR_9GMXhIenZgK_6TzjOw4s.png",
+        "https://v3b.fal.media/files/b/0a991ff6/Gl9EvDUwC1oxKlhsCOivY_TQnTp8nr.png",
+        "https://v3b.fal.media/files/b/0a991ffb/d6twyNIM_WZvR7YRe9oRn_rC7OonN8.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/05-sneaker-care-box/manifest.json",
+      "asset_count": 5
+    },
+    {
+      "slot": 6,
+      "slug": "06-reservation-table-kit",
+      "title_th": "PROMPT DROP: ร้านอาหารให้ดูจองง่ายด้วย reservation table kit",
+      "status": "generated_ready_for_zernio_dry_run",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/06-reservation-table-kit",
+      "events": [
+        {
+          "ts": "2026-05-06T13:21:14.542413+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a992003/UA8F7ZThe9ffviihWUKHh_JM9t90cb.png"
+        },
+        {
+          "ts": "2026-05-06T13:21:53.709432+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a992008/g0SqiC3HWfYmoK6KXXv1h_WjbsbbiO.png"
+        },
+        {
+          "ts": "2026-05-06T13:22:27.792069+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a99200b/KGx35xIOlIbEAlsfxnSqm_T9AgT7gr.png"
+        },
+        {
+          "ts": "2026-05-06T13:23:16.812208+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a99200f/RIpQZc_obqkCQS0RC5H9b_j5i07R8j.png"
+        },
+        {
+          "ts": "2026-05-06T13:24:05.161907+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a992014/-htgZF8_vy7zz-EFhx2vp_I4TiNolI.png"
+        },
+        {
+          "ts": "2026-05-06T13:24:05.662955+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/06-reservation-table-kit/manifest.json",
+          "asset_count": 5
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a992003/UA8F7ZThe9ffviihWUKHh_JM9t90cb.png",
+        "https://v3b.fal.media/files/b/0a992008/g0SqiC3HWfYmoK6KXXv1h_WjbsbbiO.png",
+        "https://v3b.fal.media/files/b/0a99200b/KGx35xIOlIbEAlsfxnSqm_T9AgT7gr.png",
+        "https://v3b.fal.media/files/b/0a99200f/RIpQZc_obqkCQS0RC5H9b_j5i07R8j.png",
+        "https://v3b.fal.media/files/b/0a992014/-htgZF8_vy7zz-EFhx2vp_I4TiNolI.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/06-reservation-table-kit/manifest.json",
+      "asset_count": 5
+    }
+  ],
+  "finished_at": "2026-05-06T13:24:05.663314+00:00",
+  "status_counts": {
+    "generated_ready_for_zernio_dry_run": 5,
+    "image_generation_failed": 1
+  },
+  "final_selected_slots": [
+    1,
+    2,
+    4,
+    5,
+    6
+  ],
+  "replacement_block_validation": {
+    "ok": true,
+    "selected_slots": [
+      1,
+      2,
+      4,
+      5,
+      6
+    ],
+    "titles": [
+      "PROMPT DROP: แผ่นแปะสิวให้ดูเป็น refill calendar kit",
+      "PROMPT DROP: บริการย้ายคอนโดให้ดูเป็น moving day kit",
+      "PROMPT DROP: ช่อดอกไม้ส่งถึงบ้านให้ดูเป็น care card kit",
+      "PROMPT DROP: ชุดทำความสะอาดรองเท้าให้ดูเป็น sneaker care box",
+      "PROMPT DROP: ร้านอาหารให้ดูจองง่ายด้วย reservation table kit"
+    ],
+    "buckets": [
+      "product_commerce",
+      "marketing_business",
+      "product_commerce",
+      "product_commerce",
+      "marketing_business"
+    ],
+    "scores": [
+      94,
+      85,
+      93,
+      91,
+      86
+    ],
+    "product_or_sme_useful_count": 5,
+    "experimental_count": 0,
+    "low_score_slots": [],
+    "hard_failure_slots": [],
+    "adjacent_repeats": [],
+    "public_forbidden_hits": [],
+    "reason": "slot 3 failed GPT Image 2/FAL 422 on cover; slot 6 was used as rotation-safe replacement from the same validated slate."
+  },
+  "failed_slots_preserved": [
+    {
+      "slot": 3,
+      "slug": "03-graduation-beauty-portrait-kit",
+      "reason": "GPT Image 2/FAL 422 on slide 1; no manifest, no Zernio draft"
+    }
+  ]
+}

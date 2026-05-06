@@ -1,0 +1,168 @@
+{
+  "series": "prompt_drop_th",
+  "batch_id": "prompt-drop-20260506T1304Z-latest-slate-slots01-05",
+  "source_slate_path": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/research/latest-prompt-drop-style-bank-slate.json",
+  "source_slate_generated_at_utc": "2026-05-06T12:26:54Z",
+  "slot": 2,
+  "slug": "02-moving-day-kit",
+  "created_at": "2026-05-06T13:20:28.823768+00:00",
+  "status": "zernio_draft_verified_review_queue_safe",
+  "title_th": "PROMPT DROP: บริการย้ายคอนโดให้ดูเป็น moving day kit",
+  "title_en": "Condo Moving Day Service Kit",
+  "audience": "บริการขนย้ายคอนโด/หอพัก, รถกระบะรับจ้าง, SME relocation service ที่รับงานผ่าน LINE OA",
+  "business_goal": "drive_saves_shares_follower_growth_with_practical_thai_prompt_pack",
+  "real_use_case": "ทำภาพบริการย้ายห้องให้ดูมีขั้นตอน น่าไว้ใจ และไม่ใช้รูปบ้านลูกค้าจริงหรือข้อมูลส่วนตัว",
+  "real_thai_use_case": "ทำภาพบริการย้ายห้องให้ดูมีขั้นตอน น่าไว้ใจ และไม่ใช้รูปบ้านลูกค้าจริงหรือข้อมูลส่วนตัว",
+  "thai_context": "ทำภาพบริการย้ายห้องให้ดูมีขั้นตอน น่าไว้ใจ และไม่ใช้รูปบ้านลูกค้าจริงหรือข้อมูลส่วนตัว",
+  "output": [
+    "service booking cover",
+    "LINE OA quote visual",
+    "moving checklist image",
+    "trust-building pinned post"
+  ],
+  "topic_category": "service_marketing_prompt",
+  "slot_type": "marketing_business",
+  "visual_style": "Moving Day Kit — stacked moving boxes, blank fragile labels, elevator booking card, key tag, tape gun, route arrows as abstract shapes, condo lobby light",
+  "visual_world": "Moving Day Kit — stacked moving boxes, blank fragile labels, elevator booking card, key tag, tape gun, route arrows as abstract shapes, condo lobby light",
+  "visual_world_key": "moving_day_kit",
+  "cover_hook": "PROMPT DROP",
+  "copy_prompt_th": "พรอมต์:\nสร้างภาพ [PROMPT DROP: บริการย้ายคอนโดให้ดูเป็น moving day kit] สำหรับ [['service booking cover', 'LINE OA quote visual', 'moving checklist image', 'trust-building pinned post']] สไตล์ Moving Day Kit — stacked moving boxes, blank fragile labels, elevator booking card, key tag, tape gun, route arrows as abstract shapes, condo lobby light แสงและฉากต้องช่วยให้คนดูเข้าใจการใช้งานจริงของแบรนด์ไทย -- ภาพคมชัด -- 1:1\n\nปรับช่องในวงเล็บให้เข้ากับสินค้า/บริการของคุณ: กลุ่มลูกค้า = [บริการขนย้ายคอนโด/หอพัก, รถกระบะรับจ้าง, SME relocation service ที่รับงานผ่าน LINE OA], output = [['service booking cover', 'LINE OA quote visual', 'moving checklist image', 'trust-building pinned post']], visual world = [Moving Day Kit — stacked moving boxes, blank fragile labels, elevator booking card, key tag, tape gun, route arrows as abstract shapes, condo lobby light]\nเหตุผลของภาพ: บริการย้ายห้องขายความเป็นระบบและลดความเครียด; กล่อง เทป ป้ายว่าง key tag และการ์ดจองลิฟต์ทำให้เห็น workflow แพ็ก-ยก-ส่ง โดยไม่เผยห้องหรือที่อยู่จริง\nข้อห้าม: ห้ามโลโก้ปลอม ห้าม QR/barcode/watermark ห้ามตัวหนังสือมั่ว ห้ามภาพสินค้าโล่งแบบ mockup ดิบ และต้องเป็นภาพ square 1:1",
+  "editable_fields": [
+    "สินค้า/บริการ",
+    "แพลตฟอร์ม",
+    "กลุ่มลูกค้า",
+    "visual world",
+    "แสง",
+    "ฉาก",
+    "แพ็กเกจ/พร็อพ"
+  ],
+  "visual_intention": "บริการย้ายห้องขายความเป็นระบบและลดความเครียด; กล่อง เทป ป้ายว่าง key tag และการ์ดจองลิฟต์ทำให้เห็น workflow แพ็ก-ยก-ส่ง โดยไม่เผยห้องหรือที่อยู่จริง",
+  "packaging_requirement": "not_applicable_service_asset — ใช้กล่องย้ายของ ป้าย fragile ว่าง การ์ดจองลิฟต์ key tag เทป และ checklist card เป็น hierarchy; ห้ามที่อยู่จริง ห้ามชื่อคอนโดจริง ห้าม QR จริง ห้ามเบอร์โทรจริง และลด pseudo-text ให้เป็น abstract blocks",
+  "wow_factor_notes": "Transforms a boring local service into tangible booking objects; save-worthy for service SMEs that cannot show customer homes.",
+  "generation_model": "openai/gpt-image-2/edit",
+  "generator": "openai/gpt-image-2/edit via FalGptImage2EditClient",
+  "quality": "low",
+  "no_post_processing": true,
+  "cta_policy": "omit_genlabs_promo_unless_sway_reapproves",
+  "default_hashtags": [
+    "#PromptTH",
+    "#AIภาพสินค้า",
+    "#ขายของออนไลน์",
+    "#ProductPhotoAI",
+    "#แบรนด์ไทย"
+  ],
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a991fc1/6CvMbGHm3W26JX6OpegkP_umkguPTS.png",
+    "https://v3b.fal.media/files/b/0a991fc4/kHbHbViMcANX3RtwYCl0A_MhPAtYsP.png",
+    "https://v3b.fal.media/files/b/0a991fc8/LcEQ_boX-pC298JafyFTp_fkcNr5iJ.png",
+    "https://v3b.fal.media/files/b/0a991fcc/Q3xPkRdEMzsgyGjTEOA2j_mwcQUVUj.png",
+    "https://v3b.fal.media/files/b/0a991fd0/rCQNmMWfuBG6KcsS7azVb_rpxcQwLJ.png"
+  ],
+  "slides": [
+    {
+      "slide_index": 1,
+      "role": "cover_prompt_hook",
+      "asset_url": "https://v3b.fal.media/files/b/0a991fc1/6CvMbGHm3W26JX6OpegkP_umkguPTS.png",
+      "image_url": "https://v3b.fal.media/files/b/0a991fc1/6CvMbGHm3W26JX6OpegkP_umkguPTS.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/02-moving-day-kit/slide-1.png",
+      "qa_status": "reused_existing_gpt_image_2_asset"
+    },
+    {
+      "slide_index": 2,
+      "role": "main_usable_output",
+      "asset_url": "https://v3b.fal.media/files/b/0a991fc4/kHbHbViMcANX3RtwYCl0A_MhPAtYsP.png",
+      "image_url": "https://v3b.fal.media/files/b/0a991fc4/kHbHbViMcANX3RtwYCl0A_MhPAtYsP.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/02-moving-day-kit/slide-2.png",
+      "qa_status": "reused_existing_gpt_image_2_asset"
+    },
+    {
+      "slide_index": 3,
+      "role": "macro_detail_or_alternate_angle",
+      "asset_url": "https://v3b.fal.media/files/b/0a991fc8/LcEQ_boX-pC298JafyFTp_fkcNr5iJ.png",
+      "image_url": "https://v3b.fal.media/files/b/0a991fc8/LcEQ_boX-pC298JafyFTp_fkcNr5iJ.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/02-moving-day-kit/slide-3.png",
+      "qa_status": "reused_existing_gpt_image_2_asset"
+    },
+    {
+      "slide_index": 4,
+      "role": "prompt_recipe_moodboard",
+      "asset_url": "https://v3b.fal.media/files/b/0a991fcc/Q3xPkRdEMzsgyGjTEOA2j_mwcQUVUj.png",
+      "image_url": "https://v3b.fal.media/files/b/0a991fcc/Q3xPkRdEMzsgyGjTEOA2j_mwcQUVUj.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/02-moving-day-kit/slide-4.png",
+      "qa_status": "reused_existing_gpt_image_2_asset"
+    },
+    {
+      "slide_index": 5,
+      "role": "variation_copy_remix_ending",
+      "asset_url": "https://v3b.fal.media/files/b/0a991fd0/rCQNmMWfuBG6KcsS7azVb_rpxcQwLJ.png",
+      "image_url": "https://v3b.fal.media/files/b/0a991fd0/rCQNmMWfuBG6KcsS7azVb_rpxcQwLJ.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T1304Z-latest-slate-slots01-05/02-moving-day-kit/slide-5.png",
+      "qa_status": "reused_existing_gpt_image_2_asset"
+    }
+  ],
+  "selection_score": {
+    "practical_usefulness": 23,
+    "genlabs_business_fit": 14,
+    "save_copy_prompt_value": 18,
+    "visual_stop_power": 16,
+    "novelty_vs_recent": 9,
+    "low_production_risk": 5,
+    "total": 85
+  },
+  "qa_summary": {
+    "status": "prompt_qa_passed_pending_dry_run_and_visual_spotcheck",
+    "generation_policy": "GPT Image 2 low native output; no Flux/image_generate; no local compositing; text minimized because GPT-native typography can break Thai.",
+    "public_promo_policy": "Public slides/descriptions omit website, Prompt Drop promo ending, #GenLabsTH, and sales bridge terms unless re-approved.",
+    "use_case_first_gate": "Candidate selected from validated structured slate with Thai business/creator output before visual style.",
+    "packaging_gate": "Product/commerce candidates require full packaging ecosystem and reject blank/plain/unbranded mockups.",
+    "visual_spotcheck_status": "PASS",
+    "zernio_gate": "allow_draft_creation"
+  },
+  "visual_spotcheck": {
+    "checked_at_utc": "2026-05-06T13:32:00Z",
+    "method": "vision_analyze contact sheets",
+    "contact_sheet": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/production/contact_sheets/2026-05-06T1327Z-02-moving-day-kit-contact-sheet.jpg",
+    "combined_contact_sheet": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/production/contact_sheets/2026-05-06T1327Z-prompt-drop-slots01-02-04-05-06-contact-sheet.jpg",
+    "verdict": "PASS",
+    "auto_draft_safe": true,
+    "public_promo_visible": false,
+    "genlabs_no_prompt_promo_absent": true,
+    "prompt_typography_as_cover_not_product_brand": true,
+    "risk_category": "none_blocking",
+    "summary": "Moving-day service kit is coherent, no real address/customer data/phone/QR, PROMPT reads as cover/masthead, no public promo, only minor non-blocking pseudo text."
+  },
+  "zernio": {
+    "draft_id": "69fb4222c02731101190b321",
+    "created_status": "draft_created",
+    "created_at_utc": "2026-05-06T13:36:00Z",
+    "description_length": 3900,
+    "hashtags": [
+      "#PromptTH",
+      "#AIภาพสินค้า",
+      "#ขายของออนไลน์",
+      "#ProductPhotoAI",
+      "#แบรนด์ไทย"
+    ],
+    "api_check": {
+      "http_status": 200,
+      "ok": true,
+      "status": "draft",
+      "tiktok_draft": true,
+      "media_type": "photo",
+      "media_count": 5,
+      "media_item_types": [
+        "image",
+        "image",
+        "image",
+        "image",
+        "image"
+      ],
+      "publish_attempts_ok": true,
+      "publish_attempts_value": 0,
+      "public_promo_hits": [],
+      "publishNow_present": false,
+      "scheduledFor": "2026-05-06T13:29:06.463Z"
+    },
+    "safety_summary": "draft-only verified via GET /v1/posts; no public promo"
+  }
+}

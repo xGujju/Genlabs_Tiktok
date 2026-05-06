@@ -1,9 +1,9 @@
 # GenLabs Asset + Learning Index
 
-Updated: 2026-05-05 16:57:00 UTC
+Updated: 2026-05-06 17:02:27 UTC
 
-- Carousel image assets copied: 1250
-- Carousel manifests copied: 187
+- Carousel image assets copied: 1456
+- Carousel manifests copied: 219
 - Learning/operations notes copied: 20
 
 ## Carousel folders
@@ -125,6 +125,25 @@ Updated: 2026-05-05 16:57:00 UTC
 - `auto-20260505T133849Z-kpi050513-gptfile` — 7 image(s)
 - `auto-20260505T145543Z-kpi050514-lineoa` — 7 image(s)
 - `auto-20260505T162333Z-kpi050516-capcut` — 7 image(s)
+- `auto-20260505T174413Z-yt-sneNR5KnRJU` — 7 image(s)
+- `auto-20260505T185956Z-kpi050518-gptself` — 7 image(s)
+- `auto-20260505T201558Z-kpi050520-nlmfaq` — 7 image(s)
+- `auto-20260505T212918Z-kpi050521-gptfile` — 7 image(s)
+- `auto-20260505T224142Z-yt-HTWrhbtETuI` — 7 image(s)
+- `auto-20260505T235353Z-kpi050523-canvap` — 7 image(s)
+- `auto-20260506T012712Z-kpi050601-gptself` — 7 image(s)
+- `auto-20260506T024933Z-kpi050602-gptproj` — 7 image(s)
+- `auto-20260506T042147Z-kpi050604-gptfile` — 4 image(s)
+- `auto-20260506T053101Z-yt-AqVB9ZU9cGg` — 7 image(s)
+- `auto-20260506T064706Z-kpi050606-canvap` — 7 image(s)
+- `auto-20260506T080043Z-kpi050608-perplex` — 7 image(s)
+- `auto-20260506T091520Z-kpi050609-gptself` — 7 image(s)
+- `auto-20260506T102931Z-kpi050610-gptproj` — 7 image(s)
+- `auto-20260506T115059Z-kpi050611-nlmfaq` — 7 image(s)
+- `auto-20260506T130416Z-yt-nkuPUJVzB_E` — 7 image(s)
+- `auto-20260506T141906Z-kpi050614-canvap` — 5 image(s)
+- `auto-20260506T153119Z-yt-GUgxx6fMiR8` — 7 image(s)
+- `auto-20260506T164754Z-kpi050616-perplex` — 7 image(s)
 - `evergreen-recovery-live-20260429T105258Z-evergreen-chatgpt-projects-sales-followup` — 5 image(s)
 - `first-public-cdn-live` — 5 image(s)
 - `first-public-cdn-live-v2` — 5 image(s)

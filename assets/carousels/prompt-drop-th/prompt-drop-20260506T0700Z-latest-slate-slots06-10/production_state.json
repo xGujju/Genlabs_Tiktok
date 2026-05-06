@@ -1,0 +1,482 @@
+{
+  "batch_id": "prompt-drop-20260506T0700Z-latest-slate-slots06-10",
+  "started_at": "2026-05-06T07:02:23.866612+00:00",
+  "source_slate": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/research/latest-prompt-drop-style-bank-slate.json",
+  "selected_slots": [
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "block_validation": {
+    "ok": true,
+    "product_or_sme_useful_count": 5,
+    "experimental_count": 1,
+    "low_score_slots": [],
+    "hard_failure_slots": [],
+    "adjacent_repeats": [],
+    "public_forbidden_hits": []
+  },
+  "items": [
+    {
+      "slot": 6,
+      "slug": "06-custom-frame-order-proof-board",
+      "title_th": "PROMPT DROP: ร้านกรอบรูปให้มี custom order proof board",
+      "status": "zernio_draft_created_verified",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0700Z-latest-slate-slots06-10/06-custom-frame-order-proof-board",
+      "events": [
+        {
+          "ts": "2026-05-06T07:03:08.080178+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a991726/lvIbl78RXFvqWmfa-B9DG_N8ILzsFj.png"
+        },
+        {
+          "ts": "2026-05-06T07:03:46.840454+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a99172b/1wT2w6lNwTF4-ni9MVsXx_bxqCmk0J.png"
+        },
+        {
+          "ts": "2026-05-06T07:04:20.721225+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a99172f/izBFp91gI2uBvrA2o17Hm_tLsD1GgY.png"
+        },
+        {
+          "ts": "2026-05-06T07:05:07.015184+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a991732/fHj8GXN7ZCxONoC5VnSmH_VXtPrTOC.png"
+        },
+        {
+          "ts": "2026-05-06T07:05:40.848000+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a991737/mAiG1LyOoeVvqcn4qoLYz_NDXaCzYk.png"
+        },
+        {
+          "ts": "2026-05-06T07:05:41.349244+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0700Z-latest-slate-slots06-10/06-custom-frame-order-proof-board/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-06T07:24:50.234332+00:00",
+          "event": "vision_spotcheck",
+          "status": "PASS",
+          "contact_sheet": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/production/contact_sheets/2026-05-06T0724Z-prompt-drop-slots06-10-contact-sheet.jpg"
+        },
+        {
+          "ts": "2026-05-06T07:26:31.748700+00:00",
+          "event": "zernio_draft_created_verified",
+          "draft_id": "69faed27aa27c191d5a6012f",
+          "api_ok": true
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a991726/lvIbl78RXFvqWmfa-B9DG_N8ILzsFj.png",
+        "https://v3b.fal.media/files/b/0a99172b/1wT2w6lNwTF4-ni9MVsXx_bxqCmk0J.png",
+        "https://v3b.fal.media/files/b/0a99172f/izBFp91gI2uBvrA2o17Hm_tLsD1GgY.png",
+        "https://v3b.fal.media/files/b/0a991732/fHj8GXN7ZCxONoC5VnSmH_VXtPrTOC.png",
+        "https://v3b.fal.media/files/b/0a991737/mAiG1LyOoeVvqcn4qoLYz_NDXaCzYk.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0700Z-latest-slate-slots06-10/06-custom-frame-order-proof-board/manifest.json",
+      "asset_count": 5,
+      "visual_spotcheck": {
+        "status": "PASS",
+        "promo_visible": false,
+        "issues": [],
+        "assessment": "Clear service/use-case logic for custom picture framing; frame samples, mat boards, measurement sheets, order proof hierarchy. PROMPT reads as designed presentation typography, not fake brand."
+      },
+      "zernio_gate": "eligible_for_draft_creation",
+      "zernio_draft_id": "69faed27aa27c191d5a6012f",
+      "zernio_api_check": {
+        "ok": true,
+        "draft_id": "69faed27aa27c191d5a6012f",
+        "http_status": 200,
+        "status": "draft",
+        "platform_statuses": [
+          "pending"
+        ],
+        "tiktok_draft_values": [
+          true
+        ],
+        "tiktok_draft_true": true,
+        "media_count": 5,
+        "media_types": [
+          "image"
+        ],
+        "tiktok_media_type_values": [
+          "photo"
+        ],
+        "description_length": 3966,
+        "prompt_giveaway_present": true,
+        "promo_terms_found": [],
+        "publishAttempts": 0,
+        "server_scheduledFor_present": true,
+        "warnings": [
+          "server scheduledFor echo present; status draft and TikTok draft true"
+        ]
+      }
+    },
+    {
+      "slot": 7,
+      "slug": "07-baby-drawer-gift-set",
+      "title_th": "PROMPT DROP: เสื้อผ้าเด็กให้ดูเป็น baby drawer gift set",
+      "status": "visual_warn_manual_review_no_zernio",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0700Z-latest-slate-slots06-10/07-baby-drawer-gift-set",
+      "events": [
+        {
+          "ts": "2026-05-06T07:06:23.456809+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a99173a/1lO9CjgxapNrsXanY5QUF_NFAX7PmT.png"
+        },
+        {
+          "ts": "2026-05-06T07:07:22.169153+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a99173e/mTBQH3tUcOf0iNGkthddy_NdgFHVMV.png"
+        },
+        {
+          "ts": "2026-05-06T07:07:59.439344+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a991744/q-xVJuVBk3EzgqF5Hu_yC_x8Bk5hiA.png"
+        },
+        {
+          "ts": "2026-05-06T07:08:47.143893+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a991748/S27NXYFXnAOtwrrkaETQ3_dkTwe0uF.png"
+        },
+        {
+          "ts": "2026-05-06T07:09:27.098218+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a99174d/m1xml_WOegd072mIp0K9k_H6DY6pT0.png"
+        },
+        {
+          "ts": "2026-05-06T07:09:27.599704+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0700Z-latest-slate-slots06-10/07-baby-drawer-gift-set/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-06T07:24:50.234332+00:00",
+          "event": "vision_spotcheck",
+          "status": "WARN",
+          "contact_sheet": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/production/contact_sheets/2026-05-06T0724Z-prompt-drop-slots06-10-contact-sheet.jpg"
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a99173a/1lO9CjgxapNrsXanY5QUF_NFAX7PmT.png",
+        "https://v3b.fal.media/files/b/0a99173e/mTBQH3tUcOf0iNGkthddy_NdgFHVMV.png",
+        "https://v3b.fal.media/files/b/0a991744/q-xVJuVBk3EzgqF5Hu_yC_x8Bk5hiA.png",
+        "https://v3b.fal.media/files/b/0a991748/S27NXYFXnAOtwrrkaETQ3_dkTwe0uF.png",
+        "https://v3b.fal.media/files/b/0a99174d/m1xml_WOegd072mIp0K9k_H6DY6pT0.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0700Z-latest-slate-slots06-10/07-baby-drawer-gift-set/manifest.json",
+      "asset_count": 5,
+      "visual_spotcheck": {
+        "status": "WARN",
+        "promo_visible": false,
+        "issues": [
+          "PROMPT is very large and can read like the gift-set brand on slide 1",
+          "some small label copy is pseudo-readable/decorative"
+        ],
+        "assessment": "Product/commerce logic and packaging are strong, but dominant PROMPT typography risks fake product logo/brand ambiguity."
+      },
+      "zernio_gate": "blocked_before_zernio_manual_review_required"
+    },
+    {
+      "slot": 8,
+      "slug": "08-upcycled-denim-patch-lookbook",
+      "title_th": "PROMPT DROP: เสื้อยีนส์ upcycle ให้ดูเป็น patch lookbook",
+      "status": "zernio_draft_created_verified",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0700Z-latest-slate-slots06-10/08-upcycled-denim-patch-lookbook",
+      "events": [
+        {
+          "ts": "2026-05-06T07:10:14.460352+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a991751/IlmsOVeM5KI5yMWv7NrTU_L3SicsNv.png"
+        },
+        {
+          "ts": "2026-05-06T07:10:49.125666+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a991755/eNku622zsDPNt9VintlHF_TRTrxZzD.png"
+        },
+        {
+          "ts": "2026-05-06T07:11:27.224614+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a991759/Ok4_8ufx1ZsxSiCzDeukE_tNTO1siE.png"
+        },
+        {
+          "ts": "2026-05-06T07:12:06.096139+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a99175d/A3EXpbPJK6S2Vdk5ua7HN_ua7pbzOb.png"
+        },
+        {
+          "ts": "2026-05-06T07:12:45.490869+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a991761/xRsrcanJXwfnMg_OMIDkP_DvtzDAaJ.png"
+        },
+        {
+          "ts": "2026-05-06T07:12:45.991977+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0700Z-latest-slate-slots06-10/08-upcycled-denim-patch-lookbook/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-06T07:24:50.234332+00:00",
+          "event": "vision_spotcheck",
+          "status": "PASS",
+          "contact_sheet": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/production/contact_sheets/2026-05-06T0724Z-prompt-drop-slots06-10-contact-sheet.jpg"
+        },
+        {
+          "ts": "2026-05-06T07:26:33.985428+00:00",
+          "event": "zernio_draft_created_verified",
+          "draft_id": "69faed29a0fe6a2969fdbb62",
+          "api_ok": true
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a991751/IlmsOVeM5KI5yMWv7NrTU_L3SicsNv.png",
+        "https://v3b.fal.media/files/b/0a991755/eNku622zsDPNt9VintlHF_TRTrxZzD.png",
+        "https://v3b.fal.media/files/b/0a991759/Ok4_8ufx1ZsxSiCzDeukE_tNTO1siE.png",
+        "https://v3b.fal.media/files/b/0a99175d/A3EXpbPJK6S2Vdk5ua7HN_ua7pbzOb.png",
+        "https://v3b.fal.media/files/b/0a991761/xRsrcanJXwfnMg_OMIDkP_DvtzDAaJ.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0700Z-latest-slate-slots06-10/08-upcycled-denim-patch-lookbook/manifest.json",
+      "asset_count": 5,
+      "visual_spotcheck": {
+        "status": "PASS",
+        "promo_visible": false,
+        "issues": [],
+        "assessment": "Clear fashion/lookbook use case with patched denim, repair textures, thread, tags and swatches; no promo bridge."
+      },
+      "zernio_gate": "eligible_for_draft_creation",
+      "zernio_draft_id": "69faed29a0fe6a2969fdbb62",
+      "zernio_api_check": {
+        "ok": true,
+        "draft_id": "69faed29a0fe6a2969fdbb62",
+        "http_status": 200,
+        "status": "draft",
+        "platform_statuses": [
+          "pending"
+        ],
+        "tiktok_draft_values": [
+          true
+        ],
+        "tiktok_draft_true": true,
+        "media_count": 5,
+        "media_types": [
+          "image"
+        ],
+        "tiktok_media_type_values": [
+          "photo"
+        ],
+        "description_length": 3965,
+        "prompt_giveaway_present": true,
+        "promo_terms_found": [],
+        "publishAttempts": 0,
+        "server_scheduledFor_present": true,
+        "warnings": [
+          "server scheduledFor echo present; status draft and TikTok draft true"
+        ]
+      }
+    },
+    {
+      "slot": 9,
+      "slug": "09-hologram-authenticity-world",
+      "title_th": "PROMPT DROP: การ์ดแท้/สติกเกอร์กันปลอมแบบ hologram world",
+      "status": "visual_fail_rejected_no_zernio",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0700Z-latest-slate-slots06-10/09-hologram-authenticity-world",
+      "events": [
+        {
+          "ts": "2026-05-06T07:13:49.950809+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a991764/q_8_bkm-ToWIVcWHJt4A-_jRuYaEm5.png"
+        },
+        {
+          "ts": "2026-05-06T07:14:25.433482+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a99176b/YxLyFI4ORQDcrBHWoueHp_UQk0BtqV.png"
+        },
+        {
+          "ts": "2026-05-06T07:14:56.282934+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a99176e/e1pENe8DGZHj8Taq48ac1_FveVKwCl.png"
+        },
+        {
+          "ts": "2026-05-06T07:15:45.106478+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a991771/78iwSfQBGJigDLgdGDQFV_fDppdR98.png"
+        },
+        {
+          "ts": "2026-05-06T07:16:51.208441+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a991778/vXRn0k4V3UIPdYqeS1GkR_SYPxEuce.png"
+        },
+        {
+          "ts": "2026-05-06T07:16:51.710749+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0700Z-latest-slate-slots06-10/09-hologram-authenticity-world/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-06T07:24:50.234332+00:00",
+          "event": "vision_spotcheck",
+          "status": "FAIL",
+          "contact_sheet": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/production/contact_sheets/2026-05-06T0724Z-prompt-drop-slots06-10-contact-sheet.jpg"
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a991764/q_8_bkm-ToWIVcWHJt4A-_jRuYaEm5.png",
+        "https://v3b.fal.media/files/b/0a99176b/YxLyFI4ORQDcrBHWoueHp_UQk0BtqV.png",
+        "https://v3b.fal.media/files/b/0a99176e/e1pENe8DGZHj8Taq48ac1_FveVKwCl.png",
+        "https://v3b.fal.media/files/b/0a991771/78iwSfQBGJigDLgdGDQFV_fDppdR98.png",
+        "https://v3b.fal.media/files/b/0a991778/vXRn0k4V3UIPdYqeS1GkR_SYPxEuce.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0700Z-latest-slate-slots06-10/09-hologram-authenticity-world/manifest.json",
+      "asset_count": 5,
+      "visual_spotcheck": {
+        "status": "FAIL",
+        "promo_visible": false,
+        "issues": [
+          "QR-like code/serial fields/verification seals/certificate language dominate",
+          "risky pseudo-official authentication system styling"
+        ],
+        "assessment": "Visual quality is high, but safety is poor because fake verification/authentication artifacts dominate; reject before Zernio."
+      },
+      "zernio_gate": "blocked_before_zernio_regenerate_or_reject"
+    },
+    {
+      "slot": 10,
+      "slug": "10-cat-litter-starter-tray",
+      "title_th": "PROMPT DROP: ทรายแมวให้ดูเป็น starter tray ที่ขายง่าย",
+      "status": "zernio_draft_created_verified",
+      "out_dir": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0700Z-latest-slate-slots06-10/10-cat-litter-starter-tray",
+      "events": [
+        {
+          "ts": "2026-05-06T07:17:28.074959+00:00",
+          "event": "generated_slide",
+          "slide": 1,
+          "url": "https://v3b.fal.media/files/b/0a99177d/R8oZYVW6ATZZEsAGhxYfA_PVpKWf5U.png"
+        },
+        {
+          "ts": "2026-05-06T07:18:21.268591+00:00",
+          "event": "generated_slide",
+          "slide": 2,
+          "url": "https://v3b.fal.media/files/b/0a991781/XEvSssFnnvkcnnGgCuDjI_yih6jUQP.png"
+        },
+        {
+          "ts": "2026-05-06T07:18:54.632923+00:00",
+          "event": "generated_slide",
+          "slide": 3,
+          "url": "https://v3b.fal.media/files/b/0a991786/F7bLzHuu4A_aBGeEr-bus_BngHAPqD.png"
+        },
+        {
+          "ts": "2026-05-06T07:21:10.529232+00:00",
+          "event": "generated_slide",
+          "slide": 4,
+          "url": "https://v3b.fal.media/files/b/0a991793/MqDyqTeHrrEHfwGd8rrQF_xAyjZhpb.png"
+        },
+        {
+          "ts": "2026-05-06T07:21:52.558137+00:00",
+          "event": "generated_slide",
+          "slide": 5,
+          "url": "https://v3b.fal.media/files/b/0a991797/n8iRGdgSLVGvEGf08wCit_j77NhESl.png"
+        },
+        {
+          "ts": "2026-05-06T07:21:53.059823+00:00",
+          "event": "manifest_written",
+          "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0700Z-latest-slate-slots06-10/10-cat-litter-starter-tray/manifest.json",
+          "asset_count": 5
+        },
+        {
+          "ts": "2026-05-06T07:24:50.234332+00:00",
+          "event": "vision_spotcheck",
+          "status": "PASS",
+          "contact_sheet": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/production/contact_sheets/2026-05-06T0724Z-prompt-drop-slots06-10-contact-sheet.jpg"
+        },
+        {
+          "ts": "2026-05-06T07:26:36.220668+00:00",
+          "event": "zernio_draft_created_verified",
+          "draft_id": "69faed2bcc282548dc8b2e9f",
+          "api_ok": true
+        }
+      ],
+      "asset_urls": [
+        "https://v3b.fal.media/files/b/0a99177d/R8oZYVW6ATZZEsAGhxYfA_PVpKWf5U.png",
+        "https://v3b.fal.media/files/b/0a991781/XEvSssFnnvkcnnGgCuDjI_yih6jUQP.png",
+        "https://v3b.fal.media/files/b/0a991786/F7bLzHuu4A_aBGeEr-bus_BngHAPqD.png",
+        "https://v3b.fal.media/files/b/0a991793/MqDyqTeHrrEHfwGd8rrQF_xAyjZhpb.png",
+        "https://v3b.fal.media/files/b/0a991797/n8iRGdgSLVGvEGf08wCit_j77NhESl.png"
+      ],
+      "manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260506T0700Z-latest-slate-slots06-10/10-cat-litter-starter-tray/manifest.json",
+      "asset_count": 5,
+      "visual_spotcheck": {
+        "status": "PASS",
+        "promo_visible": false,
+        "issues": [],
+        "assessment": "Strong product/commerce execution with realistic pouch packaging, tray, scoop, liner roll, category hierarchy and starter-kit logic."
+      },
+      "zernio_gate": "eligible_for_draft_creation",
+      "zernio_draft_id": "69faed2bcc282548dc8b2e9f",
+      "zernio_api_check": {
+        "ok": true,
+        "draft_id": "69faed2bcc282548dc8b2e9f",
+        "http_status": 200,
+        "status": "draft",
+        "platform_statuses": [
+          "pending"
+        ],
+        "tiktok_draft_values": [
+          true
+        ],
+        "tiktok_draft_true": true,
+        "media_count": 5,
+        "media_types": [
+          "image"
+        ],
+        "tiktok_media_type_values": [
+          "photo"
+        ],
+        "description_length": 3966,
+        "prompt_giveaway_present": true,
+        "promo_terms_found": [],
+        "publishAttempts": 0,
+        "server_scheduledFor_present": true,
+        "warnings": [
+          "server scheduledFor echo present; status draft and TikTok draft true"
+        ]
+      }
+    }
+  ],
+  "finished_at": "2026-05-06T07:21:53.060322+00:00",
+  "status_counts": {
+    "zernio_draft_created_verified": 3,
+    "visual_warn_manual_review_no_zernio": 1,
+    "visual_fail_rejected_no_zernio": 1
+  },
+  "visual_spotcheck_path": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/production/2026-05-06T0725Z-slots06-10-visual-spotcheck.json",
+  "visual_spotcheck_counts": {
+    "PASS": 3,
+    "WARN": 1,
+    "FAIL": 1
+  },
+  "zernio_create_verify_path": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/production/2026-05-06T0726Z-slots06-10-zernio-create-verify.json"
+}

@@ -1,0 +1,263 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a990472/9hXwIfEV8lDO2iAiU3WLv_9DGJ0eln.png",
+    "https://v3b.fal.media/files/b/0a990477/svYsYzyTYtQQ3uvDJfdhu_1JUVFGiO.png",
+    "https://v3b.fal.media/files/b/0a99047c/PeMoNWTM67JghyZQt7KfG_C4s1puM3.png",
+    "https://v3b.fal.media/files/b/0a990483/iO5KXRNWgZ6XIHD6wlmIC_78MPidMb.png",
+    "https://v3b.fal.media/files/b/0a990488/ebedpIsDrOYgQgbmJGb13_qbBaYUtf.png",
+    "https://v3b.fal.media/files/b/0a99048d/hS-P8b-0Ctw9V2W8cG1jl_vGLgETYA.png",
+    "https://v3b.fal.media/files/b/0a990491/0vtjDpL12seWR_R7hvBDv_EXWZQiII.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 7,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/7 role=hook. Thai copy: ใช้ Claude Code ทำหน้าเว็บร้านแบบตรวจได้ก่อนปล่อยจริง\nClaude Code. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "ใช้ Claude Code ทำหน้าเว็บร้านแบบตรวจได้ก่อนปล่อยจริง\nClaude Code",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/7 role=problem. Thai copy: ปัญหา: SME อยากได้เว็บโปรโมชันเร็ว แต่ถ้าสั่ง AI กว้างเกินไปจะได้โค้ดที่ตรวจยาก แก้ยาก และเสี่ยงพังก่อนขายจริง. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: SME อยากได้เว็บโปรโมชันเร็ว แต่ถ้าสั่ง AI กว้างเกินไปจะได้โค้ดที่ตรวจยาก แก้ยาก และเสี่ยงพังก่อนขายจริง",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/7 role=trend. Thai copy: ทำไมควรสนใจ:\nClaude Code เหมาะกับงานที่มี brief, input/output, ไฟล์ที่เกี่ยวข้อง และ checklist ทดสอบ. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nClaude Code เหมาะกับงานที่มี brief, input/output, ไฟล์ที่เกี่ยวข้อง และ checklist ทดสอบ",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/7 role=tips. Thai copy: ลองใช้แบบนี้:\n1) เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์\n2) ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ\n3) ขอ responsive landing page พร้อม copy สั้น\n4) ให้ Claude Code สรุป diff และไฟล์ที่แก้. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์\n2) ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ\n3) ขอ responsive landing page พร้อม copy สั้น\n4) ให้ Claude Code สรุป diff และไฟล์ที่แก้",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/7 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/7 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\n5) ทดสอบ mobile ปุ่ม CTA form และ tracking ก่อน deploy. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\n5) ทดสอบ mobile ปุ่ม CTA form และ tracking ก่อน deploy",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/7 role=cta. Thai copy: ลองวันนี้:\nวันนี้ลองให้ Claude Code ทำ landing page 1 หน้า พร้อม diff summary และ checklist ทดสอบก่อนปล่อยจริง. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้ลองให้ Claude Code ทำ landing page 1 หน้า พร้อม diff summary และ checklist ทดสอบก่อนปล่อยจริง",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "yt-sneNR5KnRJU",
+    "source_url": "https://www.youtube.com/watch?v=sneNR5KnRJU",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://www.youtube.com/watch?v=sneNR5KnRJU",
+        "Keywords: Claude Code",
+        "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+      ],
+      "glossary": {
+        "Claude Code": "Claude Code"
+      },
+      "original_keywords": [
+        "Claude Code"
+      ],
+      "source_id": "yt-sneNR5KnRJU",
+      "source_url": "https://www.youtube.com/watch?v=sneNR5KnRJU",
+      "thai_call_to_action": "วันนี้ลองให้ Claude Code ทำ landing page 1 หน้า พร้อม diff summary และ checklist ทดสอบก่อนปล่อยจริง",
+      "thai_hook": "ใช้ Claude Code ทำหน้าเว็บร้านแบบตรวจได้ก่อนปล่อยจริง",
+      "thai_problem": "SME อยากได้เว็บโปรโมชันเร็ว แต่ถ้าสั่ง AI กว้างเกินไปจะได้โค้ดที่ตรวจยาก แก้ยาก และเสี่ยงพังก่อนขายจริง",
+      "thai_tips": [
+        "เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์",
+        "ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ",
+        "ขอ responsive landing page พร้อม copy สั้น",
+        "ให้ Claude Code สรุป diff และไฟล์ที่แก้",
+        "ทดสอบ mobile ปุ่ม CTA form และ tracking ก่อน deploy"
+      ],
+      "thai_trend_angle": "Claude Code เหมาะกับงานที่มี brief, input/output, ไฟล์ที่เกี่ยวข้อง และ checklist ทดสอบ ไม่ใช่แค่บอกให้สร้างเว็บให้หน่อย"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "Code with Beto",
+    "clean_headline": "Build Your First App with Claude Code in 20 Minutes (The Right Way) Code with Beto Book (From Idea to App Store with Claude Code): Most AI tutorials promise an",
+    "clean_summary": "Build Your First App with Claude Code in 20 Minutes (The Right Way) Code with Beto Book (From Idea to App Store with Claude Code): Most AI tutorials promise an app and ... Transcript: Build Your First App with Claude Code in 20 Minutes (The Right Way) description&redir_token=REDACTED&q=https%3A%2F%2Fcwb.sh%2Fbook%3Fr%3Dyt-build-app-with-ai&v=sneNR5KnRJU) Most AI tutorials promise an app and ship a website, here's how to actually build a real mobile app with Claude Code, Expo,…...more ...more How this was made Auto-dubbed Audio tracks for some languages were automatically generated. [Learn more]( ## Chapters View all [![Image 10]( #### Intro #### Intro 0:00]( #### [Intro]( 0:00 [![Image 11]( #### What you need (Expo Go, InstantDB, VS Code) #### What you need (Expo Go, InstantDB, VS Code) 0:36]( #### [What you need (Expo Go, InstantDB, VS Code)]( 0:36 [![Image 12]( #### Create the project folder in VS Code #### Create the project folder in VS Code 1:53]( #### [Create the project folder in VS Code]( 1:53 [![Image 13]( #### Install the Claude Code extension #### Install the Claude Code extension 2:32]( #### [Install the Claude Code extension]( 2:32 [![Image 14]( #### Run create-instant-app (Expo + Claude) #### Run create-instant-app (Expo + Claude) 3:05]( #### [Run create-instant-app (Expo + Claude)]( 3:05 [![Image 15]( #### Name your app and create the InstantDB backend #### Name your app and create the InstantDB backend 4:32]( #### [Name your app and create the InstantDB backend]( 4:32 [![Image 16]( #### Start the dev server and load on iOS + Android #### Start the dev server and load on iOS + Android 5:25]( #### [Start the dev server and load on iOS + Android]( 5:25 [![Image 17]( #### Install Claude skills (build-native-ui + InstantDB) #### Install Claude skills (build-native-ui + InstantDB) 6:32]( #### [Install Claude skills (build-native-ui + InstantDB)]( 6:32 Explore this course [![Image 18]( lessons 9 lessons]( Claude Code for Mobile Devs Code with Beto ### Course progress 0 of 9 lessons complete Transcript Follow along using the transcript. Show transcript [![Image 19]( ### Code with Beto 36.2K subscribers]( [Videos]( [![Image 20]( Book: From Idea to App Store with Claude Code Get the book]( Show less []( Code for Mobile Devs]( # Build Your First App with Claude Code in 20 Minutes (The Right Way) 6,006 views 6K view ## Chapters View all [![Image 10]( #### Intro #### Intro 0:00]( #### [Intro]( 0:00 [![Image 11]( #### What you need (Expo Go, InstantDB, VS Code) #### What you need (Expo Go, InstantDB, VS Code) 0:36]( #### [What you need (Expo Go, InstantDB, VS Code)]( 0:36 [![Image 12]( #### Create the project folder in VS Code #### Create the project folder in VS Code 1:53]( #### [Create the project folder in VS Code]( 1:53 [![Image 13]( #### Install the Claude Code extension #### Install the Claude Code extension 2:32]( #### [Install the Claude Code extension]( 2:32 [![Image 14]( #### Run create-instant-app (Expo + Claude) #### Run create-instant-app (Expo + Claude) 3:05]( #### [Run create-instant-app (Expo + Claude)]( 3:05 [![Image 15]( #### Name your app and create the InstantDB backend #### Name your app and create the InstantDB backend 4:32]( #### [Name your app and create the InstantDB backend]( 4:32 [![Image 16]( #### Start the dev server and load on iOS + Android #### Start the dev server and load on iOS + Android 5:25]( #### [Start the dev server and load on iOS + Android]( 5:25 [![Image 17]( #### Install Claude skills (build-native-ui + InstantDB) #### Install Claude skills (build-native-ui + InstantDB) 6:32]( #### [Install Claude skills (build-native-ui + InstantDB)]( 6:32 Explore this course [![Image 18]( lessons 9 lessons]( Claude Code for Mobile Devs Code with Beto ### Course progress 0 of 9 lessons complete Transcript Follow along using the transcript. Show transcript [![Image 19]( ### Code with Beto 36.2K subscribers](",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 6006,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "Claude Code"
+    ],
+    "original_language": "en",
+    "raw_text": "YouTube title: Build Your First App with Claude Code in 20 Minutes (The Right Way)\nChannel: Code with Beto\nDescription: Book (From Idea to App Store with Claude Code): https://cwb.sh/book?r=yt-build-app-with-ai Most AI tutorials promise an app and ...\nTranscript:\nTitle: Build Your First App with Claude Code in 20 Minutes (The Right Way) description&redir_token=REDACTED&q=https%3A%2F%2Fcwb.sh%2Fbook%3Fr%3Dyt-build-app-with-ai&v=sneNR5KnRJU) Most AI tutorials promise an app and ship a website, here's how to actually build a real mobile app with Claude Code, Expo,…...more ...more How this was made Auto-dubbed Audio tracks for some languages were automatically generated. [Learn more](https://support.google.com/youtube/answer/15569972?hl=en) ## Chapters View all [![Image 10](https://www.youtube.com/watch?v=sneNR5KnRJU) #### Intro #### Intro 0:00](https://www.youtube.com/watch?v=sneNR5KnRJU&pp=0gcJCREDDuyUWbzu) #### [Intro](https://www.youtube.com/watch?v=sneNR5KnRJU&pp=0gcJCREDDuyUWbzu) 0:00 [![Image 11](https://www.youtube.com/watch?v=sneNR5KnRJU) #### What you need (Expo Go, InstantDB, VS Code) #### What you need (Expo Go, InstantDB, VS Code) 0:36](https://www.youtube.com/watch?v=sneNR5KnRJU&t=36s) #### [What you need (Expo Go, InstantDB, VS Code)](https://www.youtube.com/watch?v=sneNR5KnRJU&t=36s) 0:36 [![Image 12](https://www.youtube.com/watch?v=sneNR5KnRJU) #### Create the project folder in VS Code #### Create the project folder in VS Code 1:53](https://www.youtube.com/watch?v=sneNR5KnRJU&t=113s) #### [Create the project folder in VS Code](https://www.youtube.com/watch?v=sneNR5KnRJU&t=113s) 1:53 [![Image 13](https://www.youtube.com/watch?v=sneNR5KnRJU) #### Install the Claude Code extension #### Install the Claude Code extension 2:32](https://www.youtube.com/watch?v=sneNR5KnRJU&t=152s&pp=0gcJCREDDuyUWbzu) #### [Install the Claude Code extension](https://www.youtube.com/watch?v=sneNR5KnRJU&t=152s&pp=0gcJCREDDuyUWbzu) 2:32 [![Image 14](https://www.youtube.com/watch?v=sneNR5KnRJU) #### Run create-instant-app (Expo + Claude) #### Run create-instant-app (Expo + Claude) 3:05](https://www.youtube.com/watch?v=sneNR5KnRJU&t=185s) #### [Run create-instant-app (Expo + Claude)](https://www.youtube.com/watch?v=sneNR5KnRJU&t=185s) 3:05 [![Image 15](https://www.youtube.com/watch?v=sneNR5KnRJU) #### Name your app and create the InstantDB backend #### Name your app and create the InstantDB backend 4:32](https://www.youtube.com/watch?v=sneNR5KnRJU&t=272s) #### [Name your app and create the InstantDB backend](https://www.youtube.com/watch?v=sneNR5KnRJU&t=272s) 4:32 [![Image 16](https://www.youtube.com/watch?v=sneNR5KnRJU) #### Start the dev server and load on iOS + Android #### Start the dev server and load on iOS + Android 5:25](https://www.youtube.com/watch?v=sneNR5KnRJU&t=325s) #### [Start the dev server and load on iOS + Android](https://www.youtube.com/watch?v=sneNR5KnRJU&t=325s) 5:25 [![Image 17](https://www.youtube.com/watch?v=sneNR5KnRJU) #### Install Claude skills (build-native-ui + InstantDB) #### Install Claude skills (build-native-ui + InstantDB) 6:32](https://www.youtube.com/watch?v=sneNR5KnRJU&t=392s) #### [Install Claude skills (build-native-ui + InstantDB)](https://www.youtube.com/watch?v=sneNR5KnRJU&t=392s) 6:32 Explore this course [![Image 18](https://www.youtube.com/watch?v=sneNR5KnRJU)9 lessons 9 lessons](https://www.youtube.com/playlist?list=PLmYpsBwAUuM7GaSemwf-Yw2zFHes9o-eO) Claude Code for Mobile Devs Code with Beto ### Course progress 0 of 9 lessons complete Transcript Follow along using the transcript. Show transcript [![Image 19](https://www.youtube.com/watch?v=sneNR5KnRJU) ### Code with Beto 36.2K subscribers](https://www.youtube.com/@codewithbeto) [Videos](https://www.youtube.com/channel/UCh247h68vszOMA_OWpGEa5g/videos)[About](https://www.youtube.com/channel/UCh247h68vszOMA_OWpGEa5g/about) [![Image 20](https://www.youtube.com/watch?v=sneNR5KnRJU) Book: From Idea to App Store with Claude Code Get the book](https://www.youtube.com/redirect?event=infocard&redir_token=REDACTED&q=https%3A%2F%2Fcwb.sh%2Fbook%3Fr%3Dyt-build-app-with-ai) Show less [](https://www.youtube.com/playlist?list=PLmYpsBwAUuM7GaSemwf-Yw2zFHes9o-eO)[Claude Code for Mobile Devs](https://www.youtube.com/playlist?list=PLmYpsBwAUuM7GaSemwf-Yw2zFHes9o-eO) # Build Your First App with Claude Code in 20 Minutes (The Right Way) 6,006 views 6K view ## Chapters View all [![Image 10](https://www.youtube.com/watch?v=sneNR5KnRJU) #### Intro #### Intro 0:00](https://www.youtube.com/watch?v=sneNR5KnRJU&pp=0gcJCREDDuyUWbzu) #### [Intro](https://www.youtube.com/watch?v=sneNR5KnRJU&pp=0gcJCREDDuyUWbzu) 0:00 [![Image 11](https://www.youtube.com/watch?v=sneNR5KnRJU) #### What you need (Expo Go, InstantDB, VS Code) #### What you need (Expo Go, InstantDB, VS Code) 0:36](https://www.youtube.com/watch?v=sneNR5KnRJU&t=36s) #### [What you need (Expo Go, InstantDB, VS Code)](https://www.youtube.com/watch?v=sneNR5KnRJU&t=36s) 0:36 [![Image 12](https://www.youtube.com/watch?v=sneNR5KnRJU) #### Create the project folder in VS Code #### Create the project folder in VS Code 1:53](https://www.youtube.com/watch?v=sneNR5KnRJU&t=113s) #### [Create the project folder in VS Code](https://www.youtube.com/watch?v=sneNR5KnRJU&t=113s) 1:53 [![Image 13](https://www.youtube.com/watch?v=sneNR5KnRJU) #### Install the Claude Code extension #### Install the Claude Code extension 2:32](https://www.youtube.com/watch?v=sneNR5KnRJU&t=152s&pp=0gcJCREDDuyUWbzu) #### [Install the Claude Code extension](https://www.youtube.com/watch?v=sneNR5KnRJU&t=152s&pp=0gcJCREDDuyUWbzu) 2:32 [![Image 14](https://www.youtube.com/watch?v=sneNR5KnRJU) #### Run create-instant-app (Expo + Claude) #### Run create-instant-app (Expo + Claude) 3:05](https://www.youtube.com/watch?v=sneNR5KnRJU&t=185s) #### [Run create-instant-app (Expo + Claude)](https://www.youtube.com/watch?v=sneNR5KnRJU&t=185s) 3:05 [![Image 15](https://www.youtube.com/watch?v=sneNR5KnRJU) #### Name your app and create the InstantDB backend #### Name your app and create the InstantDB backend 4:32](https://www.youtube.com/watch?v=sneNR5KnRJU&t=272s) #### [Name your app and create the InstantDB backend](https://www.youtube.com/watch?v=sneNR5KnRJU&t=272s) 4:32 [![Image 16](https://www.youtube.com/watch?v=sneNR5KnRJU) #### Start the dev server and load on iOS + Android #### Start the dev server and load on iOS + Android 5:25](https://www.youtube.com/watch?v=sneNR5KnRJU&t=325s) #### [Start the dev server and load on iOS + Android](https://www.youtube.com/watch?v=sneNR5KnRJU&t=325s) 5:25 [![Image 17](https://www.youtube.com/watch?v=sneNR5KnRJU) #### Install Claude skills (build-native-ui + InstantDB) #### Install Claude skills (build-native-ui + InstantDB) 6:32](https://www.youtube.com/watch?v=sneNR5KnRJU&t=392s) #### [Install Claude skills (build-native-ui + InstantDB)](https://www.youtube.com/watch?v=sneNR5KnRJU&t=392s) 6:32 Explore this course [![Image 18](https://www.youtube.com/watch?v=sneNR5KnRJU)9 lessons 9 lessons](https://www.youtube.com/playlist?list=PLmYpsBwAUuM7GaSemwf-Yw2zFHes9o-eO) Claude Code for Mobile Devs Code with Beto ### Course progress 0 of 9 lessons complete Transcript Follow along using the transcript. Show transcript [![Image 19](https://www.youtube.com/watch?v=sneNR5KnRJU) ### Code with Beto 36.2K subscribers](https://www.youtube.com/@",
+    "source_id": "yt-sneNR5KnRJU",
+    "source_url": "https://www.youtube.com/watch?v=sneNR5KnRJU",
+    "why_it_matters": "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้ลองให้ Claude Code ทำ landing page 1 หน้า พร้อม diff summary และ checklist ทดสอบก่อนปล่อยจริง",
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=sneNR5KnRJU",
+      "Keywords: Claude Code",
+      "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+    ],
+    "hook": "ใช้ Claude Code ทำหน้าเว็บร้านแบบตรวจได้ก่อนปล่อยจริง",
+    "original_keywords": [
+      "Claude Code"
+    ],
+    "original_language": "en",
+    "problem": "SME อยากได้เว็บโปรโมชันเร็ว แต่ถ้าสั่ง AI กว้างเกินไปจะได้โค้ดที่ตรวจยาก แก้ยาก และเสี่ยงพังก่อนขายจริง",
+    "source_id": "yt-sneNR5KnRJU",
+    "source_url": "https://www.youtube.com/watch?v=sneNR5KnRJU",
+    "tips": [
+      "เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์",
+      "ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ",
+      "ขอ responsive landing page พร้อม copy สั้น",
+      "ให้ Claude Code สรุป diff และไฟล์ที่แก้",
+      "ทดสอบ mobile ปุ่ม CTA form และ tracking ก่อน deploy"
+    ],
+    "trend_angle": "Claude Code เหมาะกับงานที่มี brief, input/output, ไฟล์ที่เกี่ยวข้อง และ checklist ทดสอบ ไม่ใช่แค่บอกให้สร้างเว็บให้หน่อย"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "9hXwIfEV8lDO2iAiU3WLv_9DGJ0eln.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a990472/9hXwIfEV8lDO2iAiU3WLv_9DGJ0eln.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T174413Z-yt-sneNR5KnRJU/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "svYsYzyTYtQQ3uvDJfdhu_1JUVFGiO.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a990477/svYsYzyTYtQQ3uvDJfdhu_1JUVFGiO.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T174413Z-yt-sneNR5KnRJU/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "PeMoNWTM67JghyZQt7KfG_C4s1puM3.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a99047c/PeMoNWTM67JghyZQt7KfG_C4s1puM3.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T174413Z-yt-sneNR5KnRJU/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "iO5KXRNWgZ6XIHD6wlmIC_78MPidMb.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a990483/iO5KXRNWgZ6XIHD6wlmIC_78MPidMb.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T174413Z-yt-sneNR5KnRJU/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "ebedpIsDrOYgQgbmJGb13_qbBaYUtf.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a990488/ebedpIsDrOYgQgbmJGb13_qbBaYUtf.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T174413Z-yt-sneNR5KnRJU/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "hS-P8b-0Ctw9V2W8cG1jl_vGLgETYA.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a99048d/hS-P8b-0Ctw9V2W8cG1jl_vGLgETYA.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T174413Z-yt-sneNR5KnRJU/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "0vtjDpL12seWR_R7hvBDv_EXWZQiII.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a990491/0vtjDpL12seWR_R7hvBDv_EXWZQiII.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T174413Z-yt-sneNR5KnRJU/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 8,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260505T174413Z-yt-sneNR5KnRJU/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: SME อยากได้เว็บโปรโมชันเร็ว แต่ถ้าสั่ง AI กว้างเกินไปจะได้โค้ดที่ตรวจยาก แก้ยาก และเสี่ยงพังก่อนขายจริง\n\n📌 ทำไมควรเซฟโพสต์นี้: Claude Code เหมาะกับงานที่มี brief, input/output, ไฟล์ที่เกี่ยวข้อง และ checklist ทดสอบ ไม่ใช่แค่บอกให้สร้างเว็บให้หน่อย\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์\n\n2) ✨ ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ\n\n3) ✨ ขอ responsive landing page พร้อม copy สั้น\n\n4) ✨ ให้ Claude Code สรุป diff และไฟล์ที่แก้\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#Claudeภาษาไทย"
+    ],
+    "title": "ใช้ Claude Code ทำหน้าเว็บร้านแบบตรวจได้ก่อนปล่อยจริง #AIมือใหม่ ใช้ได้จริง"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=sneNR5KnRJU",
+      "Keywords: Claude Code",
+      "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+    ],
+    "glossary": {
+      "Claude Code": "Claude Code"
+    },
+    "original_keywords": [
+      "Claude Code"
+    ],
+    "source_id": "yt-sneNR5KnRJU",
+    "source_url": "https://www.youtube.com/watch?v=sneNR5KnRJU",
+    "thai_call_to_action": "วันนี้ลองให้ Claude Code ทำ landing page 1 หน้า พร้อม diff summary และ checklist ทดสอบก่อนปล่อยจริง",
+    "thai_hook": "ใช้ Claude Code ทำหน้าเว็บร้านแบบตรวจได้ก่อนปล่อยจริง",
+    "thai_problem": "SME อยากได้เว็บโปรโมชันเร็ว แต่ถ้าสั่ง AI กว้างเกินไปจะได้โค้ดที่ตรวจยาก แก้ยาก และเสี่ยงพังก่อนขายจริง",
+    "thai_tips": [
+      "เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์",
+      "ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ",
+      "ขอ responsive landing page พร้อม copy สั้น",
+      "ให้ Claude Code สรุป diff และไฟล์ที่แก้",
+      "ทดสอบ mobile ปุ่ม CTA form และ tracking ก่อน deploy"
+    ],
+    "thai_trend_angle": "Claude Code เหมาะกับงานที่มี brief, input/output, ไฟล์ที่เกี่ยวข้อง และ checklist ทดสอบ ไม่ใช่แค่บอกให้สร้างเว็บให้หน่อย"
+  }
+}

@@ -126,14 +126,29 @@
       true
     ],
     "publish_attempts_ok": true,
-    "public_promo_absent": true
+    "public_promo_absent": true,
+    "review_queue_status": "api_safe_visual_pass",
+    "latest_visual_verification_at": "2026-05-06T09:08:30Z"
   },
   "visual_spotcheck": {
-    "checked_at": "2026-05-05T01:35:03.161682+00:00",
-    "contact_sheet": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/contact_sheet_prompt_drop_5sets.jpg",
-    "verdict": "PASS",
+    "status": "PASS",
     "promo_visible": false,
     "issues": [],
-    "packaging_note": "not_applicable_fashion_live_selling_asset"
-  }
+    "assessment": "Coherent boutique rack/live-selling studio with mirror, garments, phone setup and styling boards; no public promo.",
+    "contact_sheet": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/verification/contact_sheets/2026-05-06T090331Z-prompt-drop-pass-contact-sheet-3.jpg",
+    "checked_at": "2026-05-06T09:08:30Z",
+    "source": "scheduled Prompt Drop verifier fresh vision spot-check 2026-05-06T090331Z",
+    "report_json": "/home/clawd/.hermes/ai_signal_radar/prompt_drop/verification/2026-05-06T090331Z-prompt-drop-zernio-verification.json"
+  },
+  "visual_spotcheck_history": [
+    {
+      "checked_at": "2026-05-05T01:35:03.161682+00:00",
+      "contact_sheet": "/home/clawd/.hermes/ai_signal_radar/carousels/prompt-drop-th/prompt-drop-20260505T0112Z-latest-slate-slots01-05/contact_sheet_prompt_drop_5sets.jpg",
+      "verdict": "PASS",
+      "promo_visible": false,
+      "issues": [],
+      "packaging_note": "not_applicable_fashion_live_selling_asset"
+    }
+  ],
+  "review_queue_decision": "review_queue_visual_pass_api_safe"
 }

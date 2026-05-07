@@ -1,0 +1,298 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a994346/WDNSqG66_MDFzO8VvZEp-_y5eJ8FYG.png",
+    "https://v3b.fal.media/files/b/0a99434c/dX52aKYlW1o4Ve-wfcXWH_2HkAPBhO.png",
+    "https://v3b.fal.media/files/b/0a994352/LGq2Zs0wALIHlmylCwwMm_MeiZj4XQ.png",
+    "https://v3b.fal.media/files/b/0a994358/vnPtKMoTu_K1eLbgBZWtF_rgLb7o6A.png",
+    "https://v3b.fal.media/files/b/0a99435d/mP7xA7KjHMWqTqwqR0t-X_jSn3X87Z.png",
+    "https://v3b.fal.media/files/b/0a994363/Ak9mHpjqeYScDoL2zri0j_aexhS1PL.png",
+    "https://v3b.fal.media/files/b/0a99436a/7mTeFJzZq_Rq5534NOTWN_pIUIEKTi.png",
+    "https://v3b.fal.media/files/b/0a994370/Ww8YfHIAx3xg-cLYigKsg_pN2jy6LE.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 8,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/8 role=hook. Thai copy: MCP คือหัวปลั๊กกลางให้ AI ต่อกับเครื่องมือได้เป็นระบบ\nContext • prompt • agent • MCP. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "MCP คือหัวปลั๊กกลางให้ AI ต่อกับเครื่องมือได้เป็นระบบ\nContext • prompt • agent • MCP",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/8 role=problem. Thai copy: ปัญหา: คำว่า MCP ฟังเหมือนเรื่อง dev แต่แนวคิดง่ายมาก: ทำให้ AI คุยกับไฟล์ เครื่องมือ และข้อมูลจริงได้แบบมีมาตรฐาน. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: คำว่า MCP ฟังเหมือนเรื่อง dev แต่แนวคิดง่ายมาก: ทำให้ AI คุยกับไฟล์ เครื่องมือ และข้อมูลจริงได้แบบมีมาตรฐาน",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/8 role=trend. Thai copy: ทำไมควรสนใจ:\nMCP ช่วยให้ AI ใช้ tools/data ผ่านช่องทางเดียว แทนการต่อระบบใหม่มั่ว ๆ ทุกครั้ง. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nMCP ช่วยให้ AI ใช้ tools/data ผ่านช่องทางเดียว แทนการต่อระบบใหม่มั่ว ๆ ทุกครั้ง",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/8 role=tips. Thai copy: ลองใช้แบบนี้:\n1) ความหมาย: MCP = มาตรฐานให้ AI ต่อกับเครื่องมือและข้อมูล\n2) มันทำงานยังไง: AI ขอใช้ tool ผ่านกฎกลาง\n3) ใช้ที่ไหน: ค้นไฟล์บริษัท GitHub ฐานข้อมูล งาน agentic coding\n4) ลองวันนี้: เริ่มจาก tool ที่ปลอดภัย เช่น read-only file/search. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) ความหมาย: MCP = มาตรฐานให้ AI ต่อกับเครื่องมือและข้อมูล\n2) มันทำงานยังไง: AI ขอใช้ tool ผ่านกฎกลาง\n3) ใช้ที่ไหน: ค้นไฟล์บริษัท GitHub ฐานข้อมูล งาน agentic coding\n4) ลองวันนี้: เริ่มจาก tool ที่ปลอดภัย เช่น read-only file/search",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/8 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/8 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\n5) อย่าพลาด: อย่าให้สิทธิ์กว้างเกินไปกับข้อมูล เงิน หรือการ. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\n5) อย่าพลาด: อย่าให้สิทธิ์กว้างเกินไปกับข้อมูล เงิน หรือการ",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/8 role=framework. Thai copy: จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ. Visual direction: five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "framework",
+        "thai_copy": "จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ",
+        "visual_direction": "five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat"
+      },
+      {
+        "image_prompt": "Slide 8/8 role=cta. Thai copy: ลองวันนี้:\nวันนี้จำ MCP แบบง่าย ๆ: AI ไม่ได้แค่คุย แต่เริ่มต่อเครื่องมือจริงได้ — ต้องคุมสิทธิ์ให้ดี. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 8,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้จำ MCP แบบง่าย ๆ: AI ไม่ได้แค่คุย แต่เริ่มต่อเครื่องมือจริงได้ — ต้องคุมสิทธิ์ให้ดี",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "ai-word-mcp-plain-human",
+    "source_url": "https://genlabs.in.th/ai-learning/ai-words",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://genlabs.in.th/ai-learning/ai-words",
+        "Keywords: Context, prompt, agent, MCP",
+        "This is trending because people can copy the workflow immediately instead of only reading AI news."
+      ],
+      "glossary": {
+        "Context": "บริบท",
+        "MCP": "MCP",
+        "agent": "เอเจนต์ AI",
+        "prompt": "พรอมป์ต์"
+      },
+      "original_keywords": [
+        "Context",
+        "prompt",
+        "agent",
+        "MCP"
+      ],
+      "source_id": "ai-word-mcp-plain-human",
+      "source_url": "https://genlabs.in.th/ai-learning/ai-words",
+      "thai_call_to_action": "วันนี้จำ MCP แบบง่าย ๆ: AI ไม่ได้แค่คุย แต่เริ่มต่อเครื่องมือจริงได้ — ต้องคุมสิทธิ์ให้ดี",
+      "thai_hook": "MCP คือหัวปลั๊กกลางให้ AI ต่อกับเครื่องมือได้เป็นระบบ",
+      "thai_problem": "คำว่า MCP ฟังเหมือนเรื่อง dev แต่แนวคิดง่ายมาก: ทำให้ AI คุยกับไฟล์ เครื่องมือ และข้อมูลจริงได้แบบมีมาตรฐาน",
+      "thai_tips": [
+        "ความหมาย: MCP = มาตรฐานให้ AI ต่อกับเครื่องมือและข้อมูล",
+        "มันทำงานยังไง: AI ขอใช้ tool ผ่านกฎกลาง แล้วระบบส่งผลลัพธ์กลับมา",
+        "ใช้ที่ไหน: ค้นไฟล์บริษัท GitHub ฐานข้อมูล งาน agentic coding",
+        "ลองวันนี้: เริ่มจาก tool ที่ปลอดภัย เช่น read-only file/search",
+        "อย่าพลาด: อย่าให้สิทธิ์กว้างเกินไปกับข้อมูล เงิน หรือการ publish"
+      ],
+      "thai_trend_angle": "MCP ช่วยให้ AI ใช้ tools/data ผ่านช่องทางเดียว แทนการต่อระบบใหม่มั่ว ๆ ทุกครั้ง"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "genlabs-ai-learning",
+    "clean_headline": "MCP คืออะไร?",
+    "clean_summary": "MCP คืออะไร? ทำไมคนทำงาน AI เริ่มพูดถึงคำนี้ Term: MCP Audience: normal Thai people, students, office workers, SME owners, and creators with no technical background Plain analogy: เหมือนหัวปลั๊กกลางที่ทำให้ AI ต่อกับเครื่องมือหลายตัวได้เป็นระเบียบ Explain what it means: MCP in simple Thai, no jargon pileup Explain how it works: MCP เป็นมาตรฐานให้ AI คุยกับ tools/data เช่นไฟล์ ฐานข้อมูล GitHub หรือระบบงานโดยไม่ต้องต่อใหม่ทุกครั้ง Explain where normal people use it: ใช้ในงาน agentic coding ผู้ช่วยองค์กร ค้นไฟล์บริษัท หรือให้ AI ทำงานกับเครื่องมือจริงแบบควบคุมได้ Mistake to avoid: อย่าเปิดให้ AI เข้าถึงทุกอย่างโดยไม่จำกัดสิทธิ์ ต้องเริ่มจาก read-only และข้อมูลที่ปลอดภัยก่อน Create a Thai GenLabs AI Learning carousel that answers what it means, how it works, where to use it, how to try it today, and one beginner mistake. Keep it simple enough for a nontechnical human; no developer-only framing; no repeated generic prompt-context lesson.",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "Context",
+      "prompt",
+      "agent",
+      "MCP"
+    ],
+    "original_language": "en",
+    "raw_text": "MCP คืออะไร? ทำไมคนทำงาน AI เริ่มพูดถึงคำนี้\nTerm: MCP\nAudience: normal Thai people, students, office workers, SME owners, and creators with no technical background\nPlain analogy: เหมือนหัวปลั๊กกลางที่ทำให้ AI ต่อกับเครื่องมือหลายตัวได้เป็นระเบียบ\nExplain what it means: MCP in simple Thai, no jargon pileup\nExplain how it works: MCP เป็นมาตรฐานให้ AI คุยกับ tools/data เช่นไฟล์ ฐานข้อมูล GitHub หรือระบบงานโดยไม่ต้องต่อใหม่ทุกครั้ง\nExplain where normal people use it: ใช้ในงาน agentic coding ผู้ช่วยองค์กร ค้นไฟล์บริษัท หรือให้ AI ทำงานกับเครื่องมือจริงแบบควบคุมได้\nMistake to avoid: อย่าเปิดให้ AI เข้าถึงทุกอย่างโดยไม่จำกัดสิทธิ์ ต้องเริ่มจาก read-only และข้อมูลที่ปลอดภัยก่อน\nCreate a Thai GenLabs AI Learning carousel that answers what it means, how it works, where to use it, how to try it today, and one beginner mistake. Keep it simple enough for a nontechnical human; no developer-only framing; no repeated generic prompt-context lesson.",
+    "source_id": "ai-word-mcp-plain-human",
+    "source_url": "https://genlabs.in.th/ai-learning/ai-words",
+    "why_it_matters": "This is trending because people can copy the workflow immediately instead of only reading AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้จำ MCP แบบง่าย ๆ: AI ไม่ได้แค่คุย แต่เริ่มต่อเครื่องมือจริงได้ — ต้องคุมสิทธิ์ให้ดี",
+    "evidence": [
+      "Source: https://genlabs.in.th/ai-learning/ai-words",
+      "Keywords: Context, prompt, agent, MCP",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "hook": "MCP คือหัวปลั๊กกลางให้ AI ต่อกับเครื่องมือได้เป็นระบบ",
+    "original_keywords": [
+      "Context",
+      "prompt",
+      "agent",
+      "MCP"
+    ],
+    "original_language": "en",
+    "problem": "คำว่า MCP ฟังเหมือนเรื่อง dev แต่แนวคิดง่ายมาก: ทำให้ AI คุยกับไฟล์ เครื่องมือ และข้อมูลจริงได้แบบมีมาตรฐาน",
+    "source_id": "ai-word-mcp-plain-human",
+    "source_url": "https://genlabs.in.th/ai-learning/ai-words",
+    "tips": [
+      "ความหมาย: MCP = มาตรฐานให้ AI ต่อกับเครื่องมือและข้อมูล",
+      "มันทำงานยังไง: AI ขอใช้ tool ผ่านกฎกลาง แล้วระบบส่งผลลัพธ์กลับมา",
+      "ใช้ที่ไหน: ค้นไฟล์บริษัท GitHub ฐานข้อมูล งาน agentic coding",
+      "ลองวันนี้: เริ่มจาก tool ที่ปลอดภัย เช่น read-only file/search",
+      "อย่าพลาด: อย่าให้สิทธิ์กว้างเกินไปกับข้อมูล เงิน หรือการ publish"
+    ],
+    "trend_angle": "MCP ช่วยให้ AI ใช้ tools/data ผ่านช่องทางเดียว แทนการต่อระบบใหม่มั่ว ๆ ทุกครั้ง"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "WDNSqG66_MDFzO8VvZEp-_y5eJ8FYG.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a994346/WDNSqG66_MDFzO8VvZEp-_y5eJ8FYG.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T142455Z-ai-word-mcp-plain-human/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "dX52aKYlW1o4Ve-wfcXWH_2HkAPBhO.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a99434c/dX52aKYlW1o4Ve-wfcXWH_2HkAPBhO.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T142455Z-ai-word-mcp-plain-human/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "LGq2Zs0wALIHlmylCwwMm_MeiZj4XQ.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a994352/LGq2Zs0wALIHlmylCwwMm_MeiZj4XQ.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T142455Z-ai-word-mcp-plain-human/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "vnPtKMoTu_K1eLbgBZWtF_rgLb7o6A.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a994358/vnPtKMoTu_K1eLbgBZWtF_rgLb7o6A.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T142455Z-ai-word-mcp-plain-human/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "mP7xA7KjHMWqTqwqR0t-X_jSn3X87Z.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a99435d/mP7xA7KjHMWqTqwqR0t-X_jSn3X87Z.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T142455Z-ai-word-mcp-plain-human/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "Ak9mHpjqeYScDoL2zri0j_aexhS1PL.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a994363/Ak9mHpjqeYScDoL2zri0j_aexhS1PL.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T142455Z-ai-word-mcp-plain-human/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "7mTeFJzZq_Rq5534NOTWN_pIUIEKTi.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a99436a/7mTeFJzZq_Rq5534NOTWN_pIUIEKTi.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T142455Z-ai-word-mcp-plain-human/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "Ww8YfHIAx3xg-cLYigKsg_pN2jy6LE.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a994370/Ww8YfHIAx3xg-cLYigKsg_pN2jy6LE.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T142455Z-ai-word-mcp-plain-human/slide-8.png",
+      "slide_index": 8,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 9,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T142455Z-ai-word-mcp-plain-human/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: คำว่า MCP ฟังเหมือนเรื่อง dev แต่แนวคิดง่ายมาก: ทำให้ AI คุยกับไฟล์ เครื่องมือ และข้อมูลจริงได้แบบมีมาตรฐาน\n\n📌 ทำไมควรเซฟโพสต์นี้: MCP ช่วยให้ AI ใช้ tools/data ผ่านช่องทางเดียว แทนการต่อระบบใหม่มั่ว ๆ ทุกครั้ง\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ ความหมาย: MCP = มาตรฐานให้ AI ต่อกับเครื่องมือและข้อมูล\n\n2) ✨ มันทำงานยังไง: AI ขอใช้ tool ผ่านกฎกลาง แล้วระบบส่งผลลัพธ์กลับมา\n\n3) ✨ ใช้ที่ไหน: ค้นไฟล์บริษัท GitHub ฐานข้อมูล งาน agentic coding\n\n4) ✨ ลองวันนี้: เริ่มจาก tool ที่ปลอดภัย เช่น read-only file/search\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#พร้อมท์ไทย"
+    ],
+    "title": "MCP คือหัวปลั๊กกลางให้ AI ต่อกับเครื่องมือได้เป็นระบบ #AIมือใหม่ ใช้ได้จริง"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://genlabs.in.th/ai-learning/ai-words",
+      "Keywords: Context, prompt, agent, MCP",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "glossary": {
+      "Context": "บริบท",
+      "MCP": "MCP",
+      "agent": "เอเจนต์ AI",
+      "prompt": "พรอมป์ต์"
+    },
+    "original_keywords": [
+      "Context",
+      "prompt",
+      "agent",
+      "MCP"
+    ],
+    "source_id": "ai-word-mcp-plain-human",
+    "source_url": "https://genlabs.in.th/ai-learning/ai-words",
+    "thai_call_to_action": "วันนี้จำ MCP แบบง่าย ๆ: AI ไม่ได้แค่คุย แต่เริ่มต่อเครื่องมือจริงได้ — ต้องคุมสิทธิ์ให้ดี",
+    "thai_hook": "MCP คือหัวปลั๊กกลางให้ AI ต่อกับเครื่องมือได้เป็นระบบ",
+    "thai_problem": "คำว่า MCP ฟังเหมือนเรื่อง dev แต่แนวคิดง่ายมาก: ทำให้ AI คุยกับไฟล์ เครื่องมือ และข้อมูลจริงได้แบบมีมาตรฐาน",
+    "thai_tips": [
+      "ความหมาย: MCP = มาตรฐานให้ AI ต่อกับเครื่องมือและข้อมูล",
+      "มันทำงานยังไง: AI ขอใช้ tool ผ่านกฎกลาง แล้วระบบส่งผลลัพธ์กลับมา",
+      "ใช้ที่ไหน: ค้นไฟล์บริษัท GitHub ฐานข้อมูล งาน agentic coding",
+      "ลองวันนี้: เริ่มจาก tool ที่ปลอดภัย เช่น read-only file/search",
+      "อย่าพลาด: อย่าให้สิทธิ์กว้างเกินไปกับข้อมูล เงิน หรือการ publish"
+    ],
+    "thai_trend_angle": "MCP ช่วยให้ AI ใช้ tools/data ผ่านช่องทางเดียว แทนการต่อระบบใหม่มั่ว ๆ ทุกครั้ง"
+  }
+}

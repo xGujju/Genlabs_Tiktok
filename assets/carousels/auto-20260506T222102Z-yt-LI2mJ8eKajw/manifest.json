@@ -1,0 +1,304 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a992cae/EVuVNp4KMUJlnjM-kOGbF_PlpYh7Sc.png",
+    "https://v3b.fal.media/files/b/0a992cb2/T1Dv7yMEkZ8XMK-J0anR5_PoYA310X.png",
+    "https://v3b.fal.media/files/b/0a992cb6/Ia0b_NwarW_6amNhZ-ZIZ_Fv4XyO4N.png",
+    "https://v3b.fal.media/files/b/0a992cba/UKQwsTnKB76o1T8jhU7aN_b8sYQ6Vi.png",
+    "https://v3b.fal.media/files/b/0a992cbe/S5pLmt2Hnoyww--EOWpdb_ZGvGwajE.png",
+    "https://v3b.fal.media/files/b/0a992cc2/AKS2IG-1wZzGvOK01tdKa_q2O6BrEt.png",
+    "https://v3b.fal.media/files/b/0a992cc7/cBIXkwY2FI6KFpZR5eIOs_IB66KHMm.png",
+    "https://v3b.fal.media/files/b/0a992cca/T9DIhMQ6qOf9fzTEblO1B_qH7Y7Ak8.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 8,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/8 role=hook. Thai copy: ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที\nproduct photo • workflow • prompt • AI automation. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที\nproduct photo • workflow • prompt • AI automation",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/8 role=problem. Thai copy: ปัญหา: หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มี owner, due date, risk หรือข้อความ follow-up ที่เอาไปส่งต่อได้. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มี owner, due date, risk หรือข้อความ follow-up ที่เอาไปส่งต่อได้",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/8 role=trend. Thai copy: ทำไมควรสนใจ:\nAI meeting workflow ที่ดีต้องเปลี่ยน transcript/notes เป็น decision, action, owner, due date และ risk. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nAI meeting workflow ที่ดีต้องเปลี่ยน transcript/notes เป็น decision, action, owner, due date และ risk",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/8 role=tips. Thai copy: ลองใช้แบบนี้:\n1) วาง transcript หรือ notes หลังประชุม\n2) ขอตาราง decision / owner / due date / risk\n3) ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE\n4) ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) วาง transcript หรือ notes หลังประชุม\n2) ขอตาราง decision / owner / due date / risk\n3) ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE\n4) ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/8 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/8 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\n5) เก็บ template นี้ไว้ใช้ทุกประชุม. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\n5) เก็บ template นี้ไว้ใช้ทุกประชุม",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/8 role=framework. Thai copy: จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ. Visual direction: five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "framework",
+        "thai_copy": "จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ",
+        "visual_direction": "five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat"
+      },
+      {
+        "image_prompt": "Slide 8/8 role=cta. Thai copy: ลองวันนี้:\nวันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 8,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "yt-LI2mJ8eKajw",
+    "source_url": "https://www.youtube.com/watch?v=LI2mJ8eKajw",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://www.youtube.com/watch?v=LI2mJ8eKajw",
+        "Keywords: product photo, workflow, prompt, AI automation, n8n",
+        "This is trending because people can copy the workflow immediately instead of only reading AI news."
+      ],
+      "glossary": {
+        "AI automation": "ระบบอัตโนมัติด้วย AI",
+        "n8n": "n8n",
+        "product photo": "product photo",
+        "prompt": "พรอมป์ต์",
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "product photo",
+        "workflow",
+        "prompt",
+        "AI automation",
+        "n8n"
+      ],
+      "source_id": "yt-LI2mJ8eKajw",
+      "source_url": "https://www.youtube.com/watch?v=LI2mJ8eKajw",
+      "thai_call_to_action": "วันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message",
+      "thai_hook": "ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที",
+      "thai_problem": "หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มี owner, due date, risk หรือข้อความ follow-up ที่เอาไปส่งต่อได้",
+      "thai_tips": [
+        "วาง transcript หรือ notes หลังประชุม",
+        "ขอตาราง decision / owner / due date / risk",
+        "ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE",
+        "ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ",
+        "เก็บ template นี้ไว้ใช้ทุกประชุม"
+      ],
+      "thai_trend_angle": "AI meeting workflow ที่ดีต้องเปลี่ยน transcript/notes เป็น decision, action, owner, due date และ risk ไม่ใช่แค่สรุปว่าใครพูดอะไร"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "Jamie Garside | AI Business Growth",
+    "clean_headline": "I Turned a Product Image into a Video Ad in Minutes!",
+    "clean_summary": "I Turned a Product Image into a Video Ad in Minutes! (OpenArt Video AI Tutorial) Jamie Garside | AI Business Growth I created a professional video ad from a phone product image in minutes using AI tools OpenArt, NanoBanana and Kling 2.5. Transcript: I Turned a Product Image into a Video Ad in Minutes! (OpenArt Video AI Tutorial) Description I Turned a Product Image into a Video Ad in Minutes! (OpenArt Video AI Tutorial) 36 Likes 1,488 Views Oct 29 2025 I created a professional video ad from a phone product image in minutes using AI tools OpenArt, NanoBanana and Kling 2.5. Full OpenArt Storyboard & Video AI Tutorial. Sign up for OpenArt here: [ Part 1 of my OpenArt Tutorials series: [![Image 35]( Created PRO Product Photo&Video Ads wi...]( Want more tutorials like this, check out AI Visuals That Sell here: [ In this OpenArt, NanoBanana & Kling 2.5 tutorial, I'll show you the exact process (including weird video ai stuff), prompts, and settings so you can create stunning video ads from images for social content. It's all done in MINUTES with AI. → This is how you turn images into video ads with AI. 🎯 WHAT YOU'LL LEARN: → How to create incredible lifestyle images from product photos with AI → Turning static images into video content with AI → Prompt strategies for commercial quality results → From 0 to a 20 second video in less than 10 minutes. → Full OpenArt Storyboard and Video AI Walkthrough ⚡ TIMESTAMPS: [00:00]( - Spoiler Alert [00:34]( - The Real Intro [01:29]( - The AI Tool We’ll Be Using [03:30]( - Creating Elegant AI Lifestyle Images [05:20]( - Create An AI Storyboard [07:45]( - Transform Images into Video [11:56]( - When Video AI Goes Weird [13:57]( - Adding Audio [17:06]( - The Final Video [18:08]( - Don’t Forget To Sub! 🔗 LINKS & RESOURCES: → AI Visuals That Sell Course (NOW OPEN): [ → Video AI Tool (OpenArt): [ 💡 ABOUT THIS I'm Jamie, and I help business owners and entrepreneurs leverage AI automation to scale their businesses & create content. On this channel, I share real workflows, image and video AI tool tutorials, and AI strategies I'm actually using in my businesses, not theoretical fluff. Subscribe for weekly AI automation & content tool tutorials, n8n AI workflow breakdowns, and more. Follow me below: Twitter/X: [ Our AI agency: [ ## Chapters View all [![Image 8]( #### Spoiler Alert #### Spoiler Alert 0:00]( #### [Spoiler Alert]( 0:00 [![Image 9]( #### The Real Intro #### The Real Intro 0:34]( #### [The Real Intro]( 0:34 [![Image 10]( #### The AI Tool We’ll Be Using #### The AI Tool We’ll Be Using 1:29]( #### [The AI Tool We’ll Be Using]( 1:29 [![Image 11]( #### Creating Elegant AI Lifestyle Images #### Creating Elegant AI Lifestyle Images 3:30]( #### [Creating Elegant AI Lifestyle Images]( 3:30 [![Image 12]( #### Create An AI Storyboard #### Create An AI Storyboard 5:20]( #### [Create An AI Storyboard]( 5:20 [![Image 13]( #### Transform Images into Video #### Transform Images into Video 7:45]( #### [Transform Images into Video]( 7:45 [![Image 14]( #### When Video AI Goes Weird #### When Video AI Goes Weird 11:56]( #### [When Video AI Goes Weird]( 11:56 [![Image 15]( #### Adding Audio #### Adding Audio 13:57]( #### [Adding Audio]( 13:57 Transcript Follow along using the transcript. Show transcript [![Image 16]( ### Jamie Garside | AI Business Growth 423 subscribers]( [Videos]( 17]( LinkedIn]( [![Image 18: true](",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 1484,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "product photo",
+      "workflow",
+      "prompt",
+      "AI automation",
+      "n8n"
+    ],
+    "original_language": "en",
+    "raw_text": "YouTube title: I Turned a Product Image into a Video Ad in Minutes! (OpenArt Video AI Tutorial)\nChannel: Jamie Garside | AI Business Growth\nDescription: I created a professional video ad from a phone product image in minutes using AI tools OpenArt, NanoBanana and Kling 2.5.\nTranscript:\nTitle: I Turned a Product Image into a Video Ad in Minutes! (OpenArt Video AI Tutorial) Description I Turned a Product Image into a Video Ad in Minutes! (OpenArt Video AI Tutorial) 36 Likes 1,488 Views Oct 29 2025 I created a professional video ad from a phone product image in minutes using AI tools OpenArt, NanoBanana and Kling 2.5. Full OpenArt Storyboard & Video AI Tutorial. Sign up for OpenArt here: [https://openart.ai/home/?via=jamie](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fopenart.ai%2Fhome%2F%3Fvia%3Djamie&v=LI2mJ8eKajw) Part 1 of my OpenArt Tutorials series: [![Image 35](https://www.youtube.com/watch?v=LI2mJ8eKajw)•I Created PRO Product Photo&Video Ads wi...](https://www.youtube.com/watch?v=zmkQp31ShWM) Want more tutorials like this, check out AI Visuals That Sell here: [https://go.betastate.ai/ai-visuals-th...](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fgo.betastate.ai%2Fai-visuals-that-sell-special&v=LI2mJ8eKajw) In this OpenArt, NanoBanana & Kling 2.5 tutorial, I'll show you the exact process (including weird video ai stuff), prompts, and settings so you can create stunning video ads from images for social content. It's all done in MINUTES with AI. → This is how you turn images into video ads with AI. 🎯 WHAT YOU'LL LEARN: → How to create incredible lifestyle images from product photos with AI → Turning static images into video content with AI → Prompt strategies for commercial quality results → From 0 to a 20 second video in less than 10 minutes. → Full OpenArt Storyboard and Video AI Walkthrough ⚡ TIMESTAMPS: [00:00](https://www.youtube.com/watch?v=LI2mJ8eKajw) - Spoiler Alert [00:34](https://www.youtube.com/watch?v=LI2mJ8eKajw&t=34s) - The Real Intro [01:29](https://www.youtube.com/watch?v=LI2mJ8eKajw&t=89s) - The AI Tool We’ll Be Using [03:30](https://www.youtube.com/watch?v=LI2mJ8eKajw&t=210s) - Creating Elegant AI Lifestyle Images [05:20](https://www.youtube.com/watch?v=LI2mJ8eKajw&t=320s) - Create An AI Storyboard [07:45](https://www.youtube.com/watch?v=LI2mJ8eKajw&t=465s) - Transform Images into Video [11:56](https://www.youtube.com/watch?v=LI2mJ8eKajw&t=716s) - When Video AI Goes Weird [13:57](https://www.youtube.com/watch?v=LI2mJ8eKajw&t=837s) - Adding Audio [17:06](https://www.youtube.com/watch?v=LI2mJ8eKajw&t=1026s) - The Final Video [18:08](https://www.youtube.com/watch?v=LI2mJ8eKajw&t=1088s) - Don’t Forget To Sub! 🔗 LINKS & RESOURCES: → AI Visuals That Sell Course (NOW OPEN): [https://go.betastate.ai/ai-visuals-th...](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fgo.betastate.ai%2Fai-visuals-that-sell-special&v=LI2mJ8eKajw) → Video AI Tool (OpenArt): [https://openart.ai/home/?via=jamie](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fopenart.ai%2Fhome%2F%3Fvia%3Djamie&v=LI2mJ8eKajw) 💡 ABOUT THIS CHANNEL: I'm Jamie, and I help business owners and entrepreneurs leverage AI automation to scale their businesses & create content. On this channel, I share real workflows, image and video AI tool tutorials, and AI strategies I'm actually using in my businesses, not theoretical fluff. Subscribe for weekly AI automation & content tool tutorials, n8n AI workflow breakdowns, and more. Follow me below: Twitter/X: [https://x.com/jamiegarzi](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fx.com%2Fjamiegarzi&v=LI2mJ8eKajw) Our AI agency: [https://betastate.ai](https://www.youtube ## Chapters View all [![Image 8](https://www.youtube.com/watch?v=LI2mJ8eKajw) #### Spoiler Alert #### Spoiler Alert 0:00](https://www.youtube.com/watch?v=LI2mJ8eKajw&pp=0gcJCREDDuyUWbzu) #### [Spoiler Alert](https://www.youtube.com/watch?v=LI2mJ8eKajw&pp=0gcJCREDDuyUWbzu) 0:00 [![Image 9](https://www.youtube.com/watch?v=LI2mJ8eKajw) #### The Real Intro #### The Real Intro 0:34](https://www.youtube.com/watch?v=LI2mJ8eKajw&t=34s&pp=0gcJCREDDuyUWbzu) #### [The Real Intro](https://www.youtube.com/watch?v=LI2mJ8eKajw&t=34s&pp=0gcJCREDDuyUWbzu) 0:34 [![Image 10](https://www.youtube.com/watch?v=LI2mJ8eKajw) #### The AI Tool We’ll Be Using #### The AI Tool We’ll Be Using 1:29](https://www.youtube.com/watch?v=LI2mJ8eKajw&t=89s) #### [The AI Tool We’ll Be Using](https://www.youtube.com/watch?v=LI2mJ8eKajw&t=89s) 1:29 [![Image 11](https://www.youtube.com/watch?v=LI2mJ8eKajw) #### Creating Elegant AI Lifestyle Images #### Creating Elegant AI Lifestyle Images 3:30](https://www.youtube.com/watch?v=LI2mJ8eKajw&t=210s) #### [Creating Elegant AI Lifestyle Images](https://www.youtube.com/watch?v=LI2mJ8eKajw&t=210s) 3:30 [![Image 12](https://www.youtube.com/watch?v=LI2mJ8eKajw) #### Create An AI Storyboard #### Create An AI Storyboard 5:20](https://www.youtube.com/watch?v=LI2mJ8eKajw&t=320s) #### [Create An AI Storyboard](https://www.youtube.com/watch?v=LI2mJ8eKajw&t=320s) 5:20 [![Image 13](https://www.youtube.com/watch?v=LI2mJ8eKajw) #### Transform Images into Video #### Transform Images into Video 7:45](https://www.youtube.com/watch?v=LI2mJ8eKajw&t=465s) #### [Transform Images into Video](https://www.youtube.com/watch?v=LI2mJ8eKajw&t=465s) 7:45 [![Image 14](https://www.youtube.com/watch?v=LI2mJ8eKajw) #### When Video AI Goes Weird #### When Video AI Goes Weird 11:56](https://www.youtube.com/watch?v=LI2mJ8eKajw&t=716s) #### [When Video AI Goes Weird](https://www.youtube.com/watch?v=LI2mJ8eKajw&t=716s) 11:56 [![Image 15](https://www.youtube.com/watch?v=LI2mJ8eKajw) #### Adding Audio #### Adding Audio 13:57](https://www.youtube.com/watch?v=LI2mJ8eKajw&t=837s) #### [Adding Audio](https://www.youtube.com/watch?v=LI2mJ8eKajw&t=837s) 13:57 Transcript Follow along using the transcript. Show transcript [![Image 16](https://www.youtube.com/watch?v=LI2mJ8eKajw) ### Jamie Garside | AI Business Growth 423 subscribers](https://www.youtube.com/@ai.business.growth) [Videos](https://www.youtube.com/channel/UCacJgHs2_-ZMfdFrB2k9YIg/videos)[About](https://www.youtube.com/channel/UCacJgHs2_-ZMfdFrB2k9YIg/about)[![Image 17](https://www.youtube.com/watch?v=LI2mJ8eKajw) LinkedIn](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=REDACTED&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjamie-garside-29a10156%2F) [![Image 18: true](https://www.youtube.com/wa",
+    "source_id": "yt-LI2mJ8eKajw",
+    "source_url": "https://www.youtube.com/watch?v=LI2mJ8eKajw",
+    "why_it_matters": "This is trending because people can copy the workflow immediately instead of only reading AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message",
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=LI2mJ8eKajw",
+      "Keywords: product photo, workflow, prompt, AI automation, n8n",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "hook": "ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที",
+    "original_keywords": [
+      "product photo",
+      "workflow",
+      "prompt",
+      "AI automation",
+      "n8n"
+    ],
+    "original_language": "en",
+    "problem": "หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มี owner, due date, risk หรือข้อความ follow-up ที่เอาไปส่งต่อได้",
+    "source_id": "yt-LI2mJ8eKajw",
+    "source_url": "https://www.youtube.com/watch?v=LI2mJ8eKajw",
+    "tips": [
+      "วาง transcript หรือ notes หลังประชุม",
+      "ขอตาราง decision / owner / due date / risk",
+      "ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE",
+      "ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ",
+      "เก็บ template นี้ไว้ใช้ทุกประชุม"
+    ],
+    "trend_angle": "AI meeting workflow ที่ดีต้องเปลี่ยน transcript/notes เป็น decision, action, owner, due date และ risk ไม่ใช่แค่สรุปว่าใครพูดอะไร"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "EVuVNp4KMUJlnjM-kOGbF_PlpYh7Sc.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a992cae/EVuVNp4KMUJlnjM-kOGbF_PlpYh7Sc.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260506T222102Z-yt-LI2mJ8eKajw/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "T1Dv7yMEkZ8XMK-J0anR5_PoYA310X.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a992cb2/T1Dv7yMEkZ8XMK-J0anR5_PoYA310X.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260506T222102Z-yt-LI2mJ8eKajw/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "Ia0b_NwarW_6amNhZ-ZIZ_Fv4XyO4N.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a992cb6/Ia0b_NwarW_6amNhZ-ZIZ_Fv4XyO4N.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260506T222102Z-yt-LI2mJ8eKajw/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "UKQwsTnKB76o1T8jhU7aN_b8sYQ6Vi.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a992cba/UKQwsTnKB76o1T8jhU7aN_b8sYQ6Vi.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260506T222102Z-yt-LI2mJ8eKajw/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "S5pLmt2Hnoyww--EOWpdb_ZGvGwajE.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a992cbe/S5pLmt2Hnoyww--EOWpdb_ZGvGwajE.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260506T222102Z-yt-LI2mJ8eKajw/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "AKS2IG-1wZzGvOK01tdKa_q2O6BrEt.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a992cc2/AKS2IG-1wZzGvOK01tdKa_q2O6BrEt.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260506T222102Z-yt-LI2mJ8eKajw/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "cBIXkwY2FI6KFpZR5eIOs_IB66KHMm.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a992cc7/cBIXkwY2FI6KFpZR5eIOs_IB66KHMm.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260506T222102Z-yt-LI2mJ8eKajw/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "T9DIhMQ6qOf9fzTEblO1B_qH7Y7Ak8.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a992cca/T9DIhMQ6qOf9fzTEblO1B_qH7Y7Ak8.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260506T222102Z-yt-LI2mJ8eKajw/slide-8.png",
+      "slide_index": 8,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 9,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260506T222102Z-yt-LI2mJ8eKajw/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มี owner, due date, risk หรือข้อความ follow-up ที่เอาไปส่งต่อได้\n\n📌 ทำไมควรเซฟโพสต์นี้: AI meeting workflow ที่ดีต้องเปลี่ยน transcript/notes เป็น decision, action, owner, due date และ risk ไม่ใช่แค่สรุปว่าใครพูดอะไร\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ วาง transcript หรือ notes หลังประชุม\n\n2) ✨ ขอตาราง decision / owner / due date / risk\n\n3) ✨ ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE\n\n4) ✨ ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที #AIมือใหม่ เอาไปใช้กับงานจริงได้ทันที"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=LI2mJ8eKajw",
+      "Keywords: product photo, workflow, prompt, AI automation, n8n",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "glossary": {
+      "AI automation": "ระบบอัตโนมัติด้วย AI",
+      "n8n": "n8n",
+      "product photo": "product photo",
+      "prompt": "พรอมป์ต์",
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "product photo",
+      "workflow",
+      "prompt",
+      "AI automation",
+      "n8n"
+    ],
+    "source_id": "yt-LI2mJ8eKajw",
+    "source_url": "https://www.youtube.com/watch?v=LI2mJ8eKajw",
+    "thai_call_to_action": "วันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message",
+    "thai_hook": "ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที",
+    "thai_problem": "หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มี owner, due date, risk หรือข้อความ follow-up ที่เอาไปส่งต่อได้",
+    "thai_tips": [
+      "วาง transcript หรือ notes หลังประชุม",
+      "ขอตาราง decision / owner / due date / risk",
+      "ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE",
+      "ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ",
+      "เก็บ template นี้ไว้ใช้ทุกประชุม"
+    ],
+    "thai_trend_angle": "AI meeting workflow ที่ดีต้องเปลี่ยน transcript/notes เป็น decision, action, owner, due date และ risk ไม่ใช่แค่สรุปว่าใครพูดอะไร"
+  }
+}

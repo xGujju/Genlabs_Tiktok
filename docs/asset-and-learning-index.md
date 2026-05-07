@@ -1,9 +1,9 @@
 # GenLabs Asset + Learning Index
 
-Updated: 2026-05-06 17:02:27 UTC
+Updated: 2026-05-07 16:56:21 UTC
 
-- Carousel image assets copied: 1456
-- Carousel manifests copied: 219
+- Carousel image assets copied: 1557
+- Carousel manifests copied: 232
 - Learning/operations notes copied: 20
 
 ## Carousel folders
@@ -144,6 +144,20 @@ Updated: 2026-05-06 17:02:27 UTC
 - `auto-20260506T141906Z-kpi050614-canvap` — 5 image(s)
 - `auto-20260506T153119Z-yt-GUgxx6fMiR8` — 7 image(s)
 - `auto-20260506T164754Z-kpi050616-perplex` — 7 image(s)
+- `auto-20260506T181835Z-kpi050618-gptproj` — 7 image(s)
+- `auto-20260506T193118Z-kpi050619-nlmfaq` — 7 image(s)
+- `auto-20260506T204924Z-kpi050620-gptfile` — 7 image(s)
+- `auto-20260506T222102Z-yt-LI2mJ8eKajw` — 8 image(s)
+- `auto-20260506T234555Z-kpi050623-capcut` — 7 image(s)
+- `auto-20260507T010311Z-yt-LSKZrtFl47c` — 7 image(s)
+- `auto-20260507T022405Z-yt-3aeAy3Qs2UA` — 7 image(s)
+- `auto-20260507T034854Z-kpi050703-gptfile` — 7 image(s)
+- `auto-20260507T051732Z-kpi050705-canvap` — 7 image(s)
+- `auto-20260507T095057Z-yt-2ONRbv-XzH0` — 7 image(s)
+- `auto-20260507T111607Z-ai-word-prompt-plain-hum` — 7 image(s)
+- `auto-20260507T124848Z-ai-word-llm-plain-human` — 7 image(s)
+- `auto-20260507T142455Z-ai-word-mcp-plain-human` — 8 image(s)
+- `auto-20260507T154933Z-ai-word-api-plain-human` — 8 image(s)
 - `evergreen-recovery-live-20260429T105258Z-evergreen-chatgpt-projects-sales-followup` — 5 image(s)
 - `first-public-cdn-live` — 5 image(s)
 - `first-public-cdn-live-v2` — 5 image(s)

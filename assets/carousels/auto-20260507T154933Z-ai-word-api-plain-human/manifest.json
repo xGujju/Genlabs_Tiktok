@@ -1,0 +1,298 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a994541/JPrIsozN0rglXsMURe5HE_bzVk2vf0.png",
+    "https://v3b.fal.media/files/b/0a994546/txMUgdfrvaP7Nm1EIip_a_kjyXkje8.png",
+    "https://v3b.fal.media/files/b/0a99454b/tAQze8J0W8QBCzawr45yS_gtp9clKb.png",
+    "https://v3b.fal.media/files/b/0a994550/suBAXp36cWSBM5FMnhqP4_W4skggPI.png",
+    "https://v3b.fal.media/files/b/0a994555/vAnZ1UTtThslRTMeT-r80_Kfb3wIsm.png",
+    "https://v3b.fal.media/files/b/0a99455c/t7XyPomYTMK3d_JbLCwJD_eR6zOlSV.png",
+    "https://v3b.fal.media/files/b/0a994563/Ckcn4JGyoFIyPkQ1xvtEK_urNUWZ3Y.png",
+    "https://v3b.fal.media/files/b/0a994567/_STsBTfKG2n_wO7oj6eBL_hpUuqePh.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 8,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/8 role=hook. Thai copy: API คือช่องทางให้แอปคุยกัน โดยเราไม่ต้องรู้หลังบ้านทั้งหมด\nAPI • Context • LINE OA • prompt. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "API คือช่องทางให้แอปคุยกัน โดยเราไม่ต้องรู้หลังบ้านทั้งหมด\nAPI • Context • LINE OA • prompt",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/8 role=problem. Thai copy: ปัญหา: หลายธุรกิจใช้ API ทุกวันแต่ไม่รู้ตัว เช่น LINE OA จ่ายเงิน ส่งข้อความ ดึงข้อมูล หรือเรียก AI สร้างรูป. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: หลายธุรกิจใช้ API ทุกวันแต่ไม่รู้ตัว เช่น LINE OA จ่ายเงิน ส่งข้อความ ดึงข้อมูล หรือเรียก AI สร้างรูป",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/8 role=trend. Thai copy: ทำไมควรสนใจ:\nAPI ทำงานเหมือนเมนูสั่งงาน: ส่งคำขอที่ถูก format ไปยังระบบหนึ่ง แล้วรับผลลัพธ์กลับมา. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nAPI ทำงานเหมือนเมนูสั่งงาน: ส่งคำขอที่ถูก format ไปยังระบบหนึ่ง แล้วรับผลลัพธ์กลับมา",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/8 role=tips. Thai copy: ลองใช้แบบนี้:\n1) ความหมาย: API = ช่องทางมาตรฐานให้ระบบส่งคำขอหากัน\n2) มันทำงานยังไง: แอป A ส่ง request ไปแอป B แล้วได้ response กลับ\n3) ใช้ที่ไหน: LINE OA payment automation AI image ระบบหลังบ้าน\n4) ลองวันนี้: ดูว่า workflow ไหนต้องส่งข้อมูลข้ามระบบ. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) ความหมาย: API = ช่องทางมาตรฐานให้ระบบส่งคำขอหากัน\n2) มันทำงานยังไง: แอป A ส่ง request ไปแอป B แล้วได้ response กลับ\n3) ใช้ที่ไหน: LINE OA payment automation AI image ระบบหลังบ้าน\n4) ลองวันนี้: ดูว่า workflow ไหนต้องส่งข้อมูลข้ามระบบ",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/8 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/8 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\n5) อย่าพลาด: API key เหมือนรหัสผ่าน ห้ามแชร์และต้องจำกัดสิทธิ์. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\n5) อย่าพลาด: API key เหมือนรหัสผ่าน ห้ามแชร์และต้องจำกัดสิทธิ์",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/8 role=framework. Thai copy: จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ. Visual direction: five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "framework",
+        "thai_copy": "จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ",
+        "visual_direction": "five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat"
+      },
+      {
+        "image_prompt": "Slide 8/8 role=cta. Thai copy: ลองวันนี้:\nวันนี้เลือกงานหนึ่งที่ต้องคัดลอกข้อมูลข้ามแอป แล้วถามว่า ใช้ API/automation ลดงานซ้ำได้ไหม. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 8,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้เลือกงานหนึ่งที่ต้องคัดลอกข้อมูลข้ามแอป แล้วถามว่า ใช้ API/automation ลดงานซ้ำได้ไหม",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "ai-word-api-plain-human",
+    "source_url": "https://genlabs.in.th/ai-learning/ai-words",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://genlabs.in.th/ai-learning/ai-words",
+        "Keywords: API, Context, LINE OA, prompt",
+        "This is trending because people can copy the workflow immediately instead of only reading AI news."
+      ],
+      "glossary": {
+        "API": "ช่องทางให้ระบบคุยกัน",
+        "Context": "บริบท",
+        "LINE OA": "LINE OA",
+        "prompt": "พรอมป์ต์"
+      },
+      "original_keywords": [
+        "API",
+        "Context",
+        "LINE OA",
+        "prompt"
+      ],
+      "source_id": "ai-word-api-plain-human",
+      "source_url": "https://genlabs.in.th/ai-learning/ai-words",
+      "thai_call_to_action": "วันนี้เลือกงานหนึ่งที่ต้องคัดลอกข้อมูลข้ามแอป แล้วถามว่า ใช้ API/automation ลดงานซ้ำได้ไหม",
+      "thai_hook": "API คือช่องทางให้แอปคุยกัน โดยเราไม่ต้องรู้หลังบ้านทั้งหมด",
+      "thai_problem": "หลายธุรกิจใช้ API ทุกวันแต่ไม่รู้ตัว เช่น LINE OA จ่ายเงิน ส่งข้อความ ดึงข้อมูล หรือเรียก AI สร้างรูป",
+      "thai_tips": [
+        "ความหมาย: API = ช่องทางมาตรฐานให้ระบบส่งคำขอหากัน",
+        "มันทำงานยังไง: แอป A ส่ง request ไปแอป B แล้วได้ response กลับ",
+        "ใช้ที่ไหน: LINE OA payment automation AI image ระบบหลังบ้าน",
+        "ลองวันนี้: ดูว่า workflow ไหนต้องส่งข้อมูลข้ามระบบ",
+        "อย่าพลาด: API key เหมือนรหัสผ่าน ห้ามแชร์และต้องจำกัดสิทธิ์"
+      ],
+      "thai_trend_angle": "API ทำงานเหมือนเมนูสั่งงาน: ส่งคำขอที่ถูก format ไปยังระบบหนึ่ง แล้วรับผลลัพธ์กลับมา"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "genlabs-ai-learning",
+    "clean_headline": "API คืออะไร?",
+    "clean_summary": "API คืออะไร? ภาษาง่าย ๆ สำหรับคนไม่ได้เขียนโค้ด Term: API Audience: normal Thai people, students, office workers, SME owners, and creators with no technical background Plain analogy: เหมือนเมนูสั่งงานหลังร้าน เราไม่ต้องรู้ครัวทำอย่างไร แค่ส่งคำขอให้ถูกช่อง Explain what it means: API in simple Thai, no jargon pileup Explain how it works: API คือช่องทางให้แอปหนึ่งส่งคำขอไปหาอีกระบบและรับผลลัพธ์กลับมา เช่น สร้างรูป ดึงข้อมูล หรือส่งข้อความ Explain where normal people use it: ใช้เชื่อมเว็บ แอป LINE OA ระบบชำระเงิน ระบบ AI รูปภาพ หรือ automation ในธุรกิจ Mistake to avoid: อย่าแชร์ API key เหมือนรหัสผ่าน และต้องตั้งขอบเขต/งบ/สิทธิ์ก่อนใช้งานจริง Create a Thai GenLabs AI Learning carousel that answers what it means, how it works, where to use it, how to try it today, and one beginner mistake. Keep it simple enough for a nontechnical human; no developer-only framing; no repeated generic prompt-context lesson.",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "API",
+      "Context",
+      "LINE OA",
+      "prompt"
+    ],
+    "original_language": "en",
+    "raw_text": "API คืออะไร? ภาษาง่าย ๆ สำหรับคนไม่ได้เขียนโค้ด\nTerm: API\nAudience: normal Thai people, students, office workers, SME owners, and creators with no technical background\nPlain analogy: เหมือนเมนูสั่งงานหลังร้าน เราไม่ต้องรู้ครัวทำอย่างไร แค่ส่งคำขอให้ถูกช่อง\nExplain what it means: API in simple Thai, no jargon pileup\nExplain how it works: API คือช่องทางให้แอปหนึ่งส่งคำขอไปหาอีกระบบและรับผลลัพธ์กลับมา เช่น สร้างรูป ดึงข้อมูล หรือส่งข้อความ\nExplain where normal people use it: ใช้เชื่อมเว็บ แอป LINE OA ระบบชำระเงิน ระบบ AI รูปภาพ หรือ automation ในธุรกิจ\nMistake to avoid: อย่าแชร์ API key เหมือนรหัสผ่าน และต้องตั้งขอบเขต/งบ/สิทธิ์ก่อนใช้งานจริง\nCreate a Thai GenLabs AI Learning carousel that answers what it means, how it works, where to use it, how to try it today, and one beginner mistake. Keep it simple enough for a nontechnical human; no developer-only framing; no repeated generic prompt-context lesson.",
+    "source_id": "ai-word-api-plain-human",
+    "source_url": "https://genlabs.in.th/ai-learning/ai-words",
+    "why_it_matters": "This is trending because people can copy the workflow immediately instead of only reading AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้เลือกงานหนึ่งที่ต้องคัดลอกข้อมูลข้ามแอป แล้วถามว่า ใช้ API/automation ลดงานซ้ำได้ไหม",
+    "evidence": [
+      "Source: https://genlabs.in.th/ai-learning/ai-words",
+      "Keywords: API, Context, LINE OA, prompt",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "hook": "API คือช่องทางให้แอปคุยกัน โดยเราไม่ต้องรู้หลังบ้านทั้งหมด",
+    "original_keywords": [
+      "API",
+      "Context",
+      "LINE OA",
+      "prompt"
+    ],
+    "original_language": "en",
+    "problem": "หลายธุรกิจใช้ API ทุกวันแต่ไม่รู้ตัว เช่น LINE OA จ่ายเงิน ส่งข้อความ ดึงข้อมูล หรือเรียก AI สร้างรูป",
+    "source_id": "ai-word-api-plain-human",
+    "source_url": "https://genlabs.in.th/ai-learning/ai-words",
+    "tips": [
+      "ความหมาย: API = ช่องทางมาตรฐานให้ระบบส่งคำขอหากัน",
+      "มันทำงานยังไง: แอป A ส่ง request ไปแอป B แล้วได้ response กลับ",
+      "ใช้ที่ไหน: LINE OA payment automation AI image ระบบหลังบ้าน",
+      "ลองวันนี้: ดูว่า workflow ไหนต้องส่งข้อมูลข้ามระบบ",
+      "อย่าพลาด: API key เหมือนรหัสผ่าน ห้ามแชร์และต้องจำกัดสิทธิ์"
+    ],
+    "trend_angle": "API ทำงานเหมือนเมนูสั่งงาน: ส่งคำขอที่ถูก format ไปยังระบบหนึ่ง แล้วรับผลลัพธ์กลับมา"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "JPrIsozN0rglXsMURe5HE_bzVk2vf0.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a994541/JPrIsozN0rglXsMURe5HE_bzVk2vf0.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T154933Z-ai-word-api-plain-human/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "txMUgdfrvaP7Nm1EIip_a_kjyXkje8.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a994546/txMUgdfrvaP7Nm1EIip_a_kjyXkje8.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T154933Z-ai-word-api-plain-human/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "tAQze8J0W8QBCzawr45yS_gtp9clKb.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a99454b/tAQze8J0W8QBCzawr45yS_gtp9clKb.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T154933Z-ai-word-api-plain-human/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "suBAXp36cWSBM5FMnhqP4_W4skggPI.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a994550/suBAXp36cWSBM5FMnhqP4_W4skggPI.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T154933Z-ai-word-api-plain-human/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "vAnZ1UTtThslRTMeT-r80_Kfb3wIsm.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a994555/vAnZ1UTtThslRTMeT-r80_Kfb3wIsm.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T154933Z-ai-word-api-plain-human/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "t7XyPomYTMK3d_JbLCwJD_eR6zOlSV.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a99455c/t7XyPomYTMK3d_JbLCwJD_eR6zOlSV.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T154933Z-ai-word-api-plain-human/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "Ckcn4JGyoFIyPkQ1xvtEK_urNUWZ3Y.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a994563/Ckcn4JGyoFIyPkQ1xvtEK_urNUWZ3Y.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T154933Z-ai-word-api-plain-human/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "_STsBTfKG2n_wO7oj6eBL_hpUuqePh.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a994567/_STsBTfKG2n_wO7oj6eBL_hpUuqePh.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T154933Z-ai-word-api-plain-human/slide-8.png",
+      "slide_index": 8,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 9,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T154933Z-ai-word-api-plain-human/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: หลายธุรกิจใช้ API ทุกวันแต่ไม่รู้ตัว เช่น LINE OA จ่ายเงิน ส่งข้อความ ดึงข้อมูล หรือเรียก AI สร้างรูป\n\n📌 ทำไมควรเซฟโพสต์นี้: API ทำงานเหมือนเมนูสั่งงาน: ส่งคำขอที่ถูก format ไปยังระบบหนึ่ง แล้วรับผลลัพธ์กลับมา\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ ความหมาย: API = ช่องทางมาตรฐานให้ระบบส่งคำขอหากัน\n\n2) ✨ มันทำงานยังไง: แอป A ส่ง request ไปแอป B แล้วได้ response กลับ\n\n3) ✨ ใช้ที่ไหน: LINE OA payment automation AI image ระบบหลังบ้าน\n\n4) ✨ ลองวันนี้: ดูว่า workflow ไหนต้องส่งข้อมูลข้ามระบบ\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#aiสร้างภาพ"
+    ],
+    "title": "API คือช่องทางให้แอปคุยกัน โดยเราไม่ต้องรู้หลังบ้านทั้งหมด #AIมือใหม่"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://genlabs.in.th/ai-learning/ai-words",
+      "Keywords: API, Context, LINE OA, prompt",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "glossary": {
+      "API": "ช่องทางให้ระบบคุยกัน",
+      "Context": "บริบท",
+      "LINE OA": "LINE OA",
+      "prompt": "พรอมป์ต์"
+    },
+    "original_keywords": [
+      "API",
+      "Context",
+      "LINE OA",
+      "prompt"
+    ],
+    "source_id": "ai-word-api-plain-human",
+    "source_url": "https://genlabs.in.th/ai-learning/ai-words",
+    "thai_call_to_action": "วันนี้เลือกงานหนึ่งที่ต้องคัดลอกข้อมูลข้ามแอป แล้วถามว่า ใช้ API/automation ลดงานซ้ำได้ไหม",
+    "thai_hook": "API คือช่องทางให้แอปคุยกัน โดยเราไม่ต้องรู้หลังบ้านทั้งหมด",
+    "thai_problem": "หลายธุรกิจใช้ API ทุกวันแต่ไม่รู้ตัว เช่น LINE OA จ่ายเงิน ส่งข้อความ ดึงข้อมูล หรือเรียก AI สร้างรูป",
+    "thai_tips": [
+      "ความหมาย: API = ช่องทางมาตรฐานให้ระบบส่งคำขอหากัน",
+      "มันทำงานยังไง: แอป A ส่ง request ไปแอป B แล้วได้ response กลับ",
+      "ใช้ที่ไหน: LINE OA payment automation AI image ระบบหลังบ้าน",
+      "ลองวันนี้: ดูว่า workflow ไหนต้องส่งข้อมูลข้ามระบบ",
+      "อย่าพลาด: API key เหมือนรหัสผ่าน ห้ามแชร์และต้องจำกัดสิทธิ์"
+    ],
+    "thai_trend_angle": "API ทำงานเหมือนเมนูสั่งงาน: ส่งคำขอที่ถูก format ไปยังระบบหนึ่ง แล้วรับผลลัพธ์กลับมา"
+  }
+}

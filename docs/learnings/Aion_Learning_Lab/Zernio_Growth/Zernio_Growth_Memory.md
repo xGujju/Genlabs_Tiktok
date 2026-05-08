@@ -1,41 +1,49 @@
 # Zernio Growth Memory
 
-Last updated: 2026-05-07T16:38:59Z
+Last updated: 2026-05-08T16:55:20Z
 
-## KPI
+## Current KPI
 - Goal: one TikTok post reaches **100,000 views**.
-- Best/closest post: `7634027210248097042` — ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items.
-- Current views: 16810; shares: 255; gap to 100,000: 83190.
-- Protected CTA guard: post `7634027210248097042` is ChatGPT productivity/workflow evidence; the no-prompt/10-baht product-photo phrase is CTA copy only.
+- Best post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- Current views: 18642
+- Gap: 81358
 
-## Winning pattern
-- Durable winner signal: ChatGPT practical productivity/workflow tips with concrete office outcomes.
-- Current actionable watch: onboarding/docs `7635310153126087954` — Onboarding/docs → 30-day plan from documents workflow at 7972 views / 61 shares / +40 since the 16:30 zero baseline after import `2026-05-07_16-33-12.md`.
-- Caveat: 16:30 normal baseline had `breakout_candidates=[]` and latest_confirmed_delta=0; post-import hourly rates are inflated until the next >15m baseline confirms.
-- Secondary refresh-window evidence: meeting/action `7635243951582088456` 2617/23/+39; prompt-context `7636998390286437650` 644/1/+37.
+## Current analytics truth
+- Latest confirmed normal baseline: `2026-05-08T16:38:38.303139+00:00` confirmed **1 formal breakout candidate**.
+- Current formal breakout candidate: `7637507923060526344` — Excel/CSV shop data → AI spreadsheet workflow for sellers — **150 views / 1 share / gap 99850**. Confirmed baseline was 139 views / +70 (~118.28/hr); late import `2026-05-08_16-40-39.md` moved it +11 to 150 views (~91.09/hr import-window inflated).
+- Keep the confirmed baseline fields on `2026-05-08T16:38:38.303139+00:00` until the next >15m baseline; treat the post-import +11 hourly rate as refresh-window evidence.
+- High-share secondary: `7635310153126087954` — Onboarding/docs → 30-day plan / source-grounded staff training from multiple company files — 8403 views / 70 shares / +6 after import. Do not duplicate generation; use it as KPI/share-depth context.
+- Meeting-action secondary: `7635243951582088456` — Meeting notes → owner/deadline/risk action matrix from messy meeting summaries — 2928 views / 26 shares / +5 after import.
+- Best/closest-to-100k watch: ChatGPT productivity `7634027210248097042` remains **18642 views / 288 shares / gap 81358** with 0 post-import movement.
+- CTA guard: post `7634027210248097042` is ChatGPT productivity/workflow evidence; protected GenLabs no-prompt/10-baht product-photo phrase is CTA copy only.
 
-## Weak pattern
-- Avoid scaling near-duplicate software-tip variants before 2h/4h/24h result closure and structured Performance/Experiments backfill.
-- Generic audience intro text remains non-diagnostic; learn from concrete workflow/body content.
+## Current scheduler / factory truth
+- Import: output `2026-05-08_16-40-39.md` delivered ok, last `2026-05-08T16:40:39.410264+00:00`, next `2026-05-08T17:00:00+00:00`; moving posts Imported At `2026-05-08T16:39:32.115741+00:00`.
+- Breakout: latest completed output `2026-05-08_16-16-44.md`, job last `2026-05-08T16:16:44.544351+00:00`, next `2026-05-08T17:00:00+00:00`; current 16:38 breakout markdown is in-flight until delivery, not a scheduler issue.
+- Growth-check: output `2026-05-08_16-16-59.md` delivered ok, job last `2026-05-08T16:17:00.757113+00:00`, next `2026-05-08T18:00:00+00:00`.
+- Issue-check: output `2026-05-08_13-00-02.md` delivered ok, next `2026-05-08T18:30:00+00:00`.
+- Experiment Creator: output `2026-05-08_12-24-46.md` delivered ok, next `2026-05-09T00:00:00+00:00`; three draft-only specs stay gated.
+- Factory: latest cron output `2026-05-08_16-37-36.md` and state `latest_social_draft_factory.json@2026-05-08T16:29:44.253223+00:00` returned `draft_count=0` / `results_len=0`. Source availability/anti-repetition guard saturation remains active, but cron `a97a7703af32` stays enabled/scheduled/draft-only, next `2026-05-08T17:37:37.918925+00:00`.
+- Process check: No lingering Zernio import/snapshot/factory/radar process at 2026-05-08T16:55:20Z.
 
 ## Current issues
-- active_experiment_result_closure_overdue_or_blocked — active experiments still need result closure before scaling variants.
-- zernio_factory_editorial_polish_monitoring — latest API draft `69fcb639c8e9e6c70a69c24a` is safe/review-only and topic-fit; minor Thai spacing/naturalness/caption-depth polish remains before manual publishing.
-- learning_loop_structured_performance_experiments_backfill_missing — Performance/Experiments result decisions need backfill from Zernio Analytics.
+- active_experiment_result_closure_overdue_or_blocked — Result closure/backfill still gate safe scaling and near-duplicate software-tip volume.
+- zernio_factory_editorial_source_topic_qa — Future and previous safe drafts still need editorial/source-topic QA before KPI-ready publishing.
+- learning_loop_structured_performance_experiments_backfill_missing — Structured Performance/Experiments backfill is required for accurate learning and stop/continue decisions.
+- zernio_factory_source_availability_active — Hourly educational factory produced zero drafts; source availability remains a KPI blocker.
+
+## Latest useful lessons
+- 16:38 baseline promoted `7637507923060526344` (Excel/CSV shop data → AI spreadsheet workflow for sellers) to the current formal breakout; 16:40 import moved it further, but post-import rate is refresh-window evidence.
+- Keep high-share onboarding/docs `7635310153126087954` as secondary KPI/share context, not the current primary, because the latest normal baseline formal candidate is `7637507923060526344`.
+- CTA guard remains clean: use educational_signal/body; do not classify Sway CTA as hook/topic/winner/weak pattern.
 
 ## Latest experiment creator
-- Classification: draft_only_recovery_backlog
-- Gate: 16:30 baseline had no formal breakout, then import `2026-05-07_16-33-12.md` produced refresh-window movers led by onboarding/docs `7635310153126087954` 7972/61/+40. Result-closure, editorial/source QA, structured backfill, and next normal-baseline confirmation remain open. No public posting/spend/generation.
-- Experiments: 1) ChatGPT Image Ad Critique — 8 checks — 8 tips; 2) NotebookLM PDF comparison decision table — 7 tips — 7 tips; 3) Gemini Sheets sales-report cleanup — 7 tips — 7 tips.
+- Gate: draft_only_recovery_backlog remains active; do not generate/public-post/spend/live-publish until result-closure/backfill/editorial/source-availability gates clear.
+- Experiments staged: ChatGPT Image/Ad Critique — 7 tips; NotebookLM Client Meeting Prep Pack — 7 tips; CapCut AI Product Video Checklist — 7 tips.
+- Source IDs: `kpi-exp-0508-1200-chatgpt-image-ad-critique`, `kpi-exp-0508-1200-notebooklm-client-meeting-pack`, `kpi-exp-0508-1200-capcut-product-video-checklist`.
 
-## Current factory/scheduler state
-- Import: latest output `2026-05-07_16-33-12.md` at `2026-05-07T16:33:12.851746+00:00`; jobs.json next `2026-05-07T17:00:00+00:00`; Airtable Imported At `2026-05-07T16:32:38.410241+00:00`.
-- Breakout output: latest completed `2026-05-07_16-23-23.md`; current 16:30 breakout output is in-flight until delivery, not a scheduler blocker; jobs.json next `2026-05-07T17:00:00+00:00`.
-- Growth-check output: `2026-05-07_16-23-45.md` delivered; next `2026-05-07T18:00:00+00:00`.
-- Factory output: latest scheduled output `2026-05-07_16-05-49.md` verified safe/review-only draft `69fcb639c8e9e6c70a69c24a` / Airtable `recQbcvo3MVmkSYaO` / source `ai-word-api-plain-human`; jobs.json next `2026-05-07T17:05:50.133057+00:00`. Factory readback resolved; editorial polish QA remains open.
-- Process check: No matching import_zernio_analytics_to_airtable.py / zernio_growth_snapshot.py / zernio_obsidian_daily_log.py / scheduled_ai_social_draft_factory.py / staged_ai_signal_radar.py process at 2026-05-07T16:38:59Z.
-
-## Last 3 useful lessons
-1. 2026-05-07 16:30/16:33 breakout-watch import-boundary reversal: normal baseline `2026-05-07T16:30:01.269666+00:00` returned breakout_candidates=[] and best ChatGPT stayed 16810/255/+0, then import `2026-05-07_16-33-12.md` / comparison `2026-05-07T16:34:20.459250+00:00` moved onboarding/docs `7635310153126087954` to 7972/61/+40 and meeting-action `7635243951582088456` to 2617/23/+39. Treat rates as import-window inflated until the next >15m baseline confirms; protected CTA remains promo-only.
-2. 2026-05-07 factory scheduler/source-exhaustion resolved by exact scheduled run: output `2026-05-07_16-05-49.md` kept draft-safe API explainer `69fcb639c8e9e6c70a69c24a` / Airtable `recQbcvo3MVmkSYaO`; editorial polish only.
-3. 2026-05-07 experiment/result gate: 3 draft-only backlog specs remain useful, but result closure and structured Performance/Experiments backfill must happen before scaling near-duplicate ChatGPT/NotebookLM/Gemini variants.
+## Active experiments / backlog
+- Updated the existing draft-only amplification/watch task for `7637507923060526344`; no duplicate generation.
+- Keep `7635310153126087954` onboarding/docs and `7635243951582088456` meeting-action as secondary/watch-only context.
+- Existing result-closure/backfill/source-availability/editorial QA tasks stay open.
+- No public posting, live publishing, spending, generation, or scheduler repair was triggered.

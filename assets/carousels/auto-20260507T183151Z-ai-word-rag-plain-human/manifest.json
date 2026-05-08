@@ -1,0 +1,304 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a994910/HFD6Rt-PKg-vlMA2RUAZQ_c2drJLqq.png",
+    "https://v3b.fal.media/files/b/0a994916/DE_DSdwhtNM3rht8aSgAQ_vQknc8bv.png",
+    "https://v3b.fal.media/files/b/0a99491b/aizbTOyzzCVjeERoPXYVB_iD0eTWMh.png",
+    "https://v3b.fal.media/files/b/0a994920/0tNHE-tO-QiMETRyuJTYm_62HvGxzU.png",
+    "https://v3b.fal.media/files/b/0a994925/xrOSmfmc6l6J17Jztn09h_WySKEuHo.png",
+    "https://v3b.fal.media/files/b/0a99492a/gmlCU68hhh1fbMwHUTk13_gCTtbTgY.png",
+    "https://v3b.fal.media/files/b/0a99492f/Ei74dknL7Lh1o25mmqezW_Exc7dB9Z.png",
+    "https://v3b.fal.media/files/b/0a994935/rJkgM6usc6zdik9XK6V-8_4I7Y5Wdp.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 8,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/8 role=hook. Thai copy: RAG คือวิธีให้ AI เปิดเอกสารของเราก่อนตอบ\nLLM • Context • RAG • SOP. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "RAG คือวิธีให้ AI เปิดเอกสารของเราก่อนตอบ\nLLM • Context • RAG • SOP",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/8 role=problem. Thai copy: ปัญหา: ถ้าอยากให้ AI ตอบจากคู่มือบริษัทหรือ FAQ จริง ไม่ควรปล่อยให้ตอบจากความจำลอย ๆ อย่างเดียว. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: ถ้าอยากให้ AI ตอบจากคู่มือบริษัทหรือ FAQ จริง ไม่ควรปล่อยให้ตอบจากความจำลอย ๆ อย่างเดียว",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/8 role=trend. Thai copy: ทำไมควรสนใจ:\nRAG ทำงานโดยค้นเอกสารที่เกี่ยวข้องก่อน แล้วส่งข้อมูลนั้นให้ LLM ใช้สร้างคำตอบ. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nRAG ทำงานโดยค้นเอกสารที่เกี่ยวข้องก่อน แล้วส่งข้อมูลนั้นให้ LLM ใช้สร้างคำตอบ",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/8 role=tips. Thai copy: ลองใช้แบบนี้:\n1) ความหมาย: RAG = ค้นข้อมูลจากเอกสารก่อนให้ AI ตอบ\n2) มันทำงานยังไง: search เอกสาร → ดึงส่วนที่เกี่ยว → ให้ LLM\n3) ใช้ที่ไหน: FAQ บริษัท คู่มือสินค้า SOP policy ฐานความรู้ทีมขาย\n4) ลองวันนี้: รวมเอกสาร 1 ชุดแล้วถามคำตอบที่ต้องอ้างอิงไฟล์. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) ความหมาย: RAG = ค้นข้อมูลจากเอกสารก่อนให้ AI ตอบ\n2) มันทำงานยังไง: search เอกสาร → ดึงส่วนที่เกี่ยว → ให้ LLM\n3) ใช้ที่ไหน: FAQ บริษัท คู่มือสินค้า SOP policy ฐานความรู้ทีมขาย\n4) ลองวันนี้: รวมเอกสาร 1 ชุดแล้วถามคำตอบที่ต้องอ้างอิงไฟล์",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/8 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/8 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\n5) อย่าพลาด: เอกสารเก่าหรือค้นไม่เจอส่วนที่ถูก. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\n5) อย่าพลาด: เอกสารเก่าหรือค้นไม่เจอส่วนที่ถูก",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/8 role=framework. Thai copy: จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ. Visual direction: five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "framework",
+        "thai_copy": "จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ",
+        "visual_direction": "five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat"
+      },
+      {
+        "image_prompt": "Slide 8/8 role=cta. Thai copy: ลองวันนี้:\nวันนี้เลือกคู่มือ/FAQ 1 ชุด แล้วลองถาม AI โดยให้ตอบจากเอกสารเท่านั้น. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 8,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้เลือกคู่มือ/FAQ 1 ชุด แล้วลองถาม AI โดยให้ตอบจากเอกสารเท่านั้น",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "ai-word-rag-plain-human",
+    "source_url": "https://genlabs.in.th/ai-learning/ai-words",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://genlabs.in.th/ai-learning/ai-words",
+        "Keywords: LLM, Context, RAG, SOP, prompt",
+        "This is trending because people can copy the workflow immediately instead of only reading AI news."
+      ],
+      "glossary": {
+        "Context": "บริบท",
+        "LLM": "โมเดลภาษาขนาดใหญ่",
+        "RAG": "ค้นเอกสารก่อนให้ AI ตอบ",
+        "SOP": "SOP",
+        "prompt": "พรอมป์ต์"
+      },
+      "original_keywords": [
+        "LLM",
+        "Context",
+        "RAG",
+        "SOP",
+        "prompt"
+      ],
+      "source_id": "ai-word-rag-plain-human",
+      "source_url": "https://genlabs.in.th/ai-learning/ai-words",
+      "thai_call_to_action": "วันนี้เลือกคู่มือ/FAQ 1 ชุด แล้วลองถาม AI โดยให้ตอบจากเอกสารเท่านั้น",
+      "thai_hook": "RAG คือวิธีให้ AI เปิดเอกสารของเราก่อนตอบ",
+      "thai_problem": "ถ้าอยากให้ AI ตอบจากคู่มือบริษัทหรือ FAQ จริง ไม่ควรปล่อยให้ตอบจากความจำลอย ๆ อย่างเดียว",
+      "thai_tips": [
+        "ความหมาย: RAG = ค้นข้อมูลจากเอกสารก่อนให้ AI ตอบ",
+        "มันทำงานยังไง: search เอกสาร → ดึงส่วนที่เกี่ยว → ให้ LLM สรุปตอบ",
+        "ใช้ที่ไหน: FAQ บริษัท คู่มือสินค้า SOP policy ฐานความรู้ทีมขาย",
+        "ลองวันนี้: รวมเอกสาร 1 ชุดแล้วถามคำตอบที่ต้องอ้างอิงไฟล์",
+        "อย่าพลาด: เอกสารเก่าหรือค้นไม่เจอส่วนที่ถูก จะทำให้คำตอบยังผิดได้"
+      ],
+      "thai_trend_angle": "RAG ทำงานโดยค้นเอกสารที่เกี่ยวข้องก่อน แล้วส่งข้อมูลนั้นให้ LLM ใช้สร้างคำตอบ"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "genlabs-ai-learning",
+    "clean_headline": "RAG คืออะไร?",
+    "clean_summary": "RAG คืออะไร? วิธีให้ AI ตอบจากเอกสารของเรา Term: RAG Audience: normal Thai people, students, office workers, SME owners, and creators with no technical background Plain analogy: เหมือนให้ผู้ช่วยเปิดแฟ้มบริษัทก่อนตอบ แทนที่จะตอบจากความจำลอย ๆ Explain what it means: RAG in simple Thai, no jargon pileup Explain how it works: ระบบค้นเอกสารที่เกี่ยวข้องก่อน แล้วส่งชิ้นข้อมูลนั้นให้ LLM ใช้ตอบ Explain where normal people use it: ใช้กับ FAQ บริษัท คู่มือสินค้า SOP policy ฐานความรู้ทีมขาย หรือเอกสารลูกค้า Mistake to avoid: อย่าคิดว่าใส่เอกสารแล้วถูกเสมอ ต้องดูว่าแหล่งข้อมูลล่าสุด สะอาด และค้นเจอชิ้นที่เกี่ยวข้องจริงไหม Create a Thai GenLabs AI Learning carousel that answers what it means, how it works, where to use it, how to try it today, and one beginner mistake. Keep it simple enough for a nontechnical human; no developer-only framing; no repeated generic prompt-context lesson.",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "LLM",
+      "Context",
+      "RAG",
+      "SOP",
+      "prompt"
+    ],
+    "original_language": "en",
+    "raw_text": "RAG คืออะไร? วิธีให้ AI ตอบจากเอกสารของเรา\nTerm: RAG\nAudience: normal Thai people, students, office workers, SME owners, and creators with no technical background\nPlain analogy: เหมือนให้ผู้ช่วยเปิดแฟ้มบริษัทก่อนตอบ แทนที่จะตอบจากความจำลอย ๆ\nExplain what it means: RAG in simple Thai, no jargon pileup\nExplain how it works: ระบบค้นเอกสารที่เกี่ยวข้องก่อน แล้วส่งชิ้นข้อมูลนั้นให้ LLM ใช้ตอบ\nExplain where normal people use it: ใช้กับ FAQ บริษัท คู่มือสินค้า SOP policy ฐานความรู้ทีมขาย หรือเอกสารลูกค้า\nMistake to avoid: อย่าคิดว่าใส่เอกสารแล้วถูกเสมอ ต้องดูว่าแหล่งข้อมูลล่าสุด สะอาด และค้นเจอชิ้นที่เกี่ยวข้องจริงไหม\nCreate a Thai GenLabs AI Learning carousel that answers what it means, how it works, where to use it, how to try it today, and one beginner mistake. Keep it simple enough for a nontechnical human; no developer-only framing; no repeated generic prompt-context lesson.",
+    "source_id": "ai-word-rag-plain-human",
+    "source_url": "https://genlabs.in.th/ai-learning/ai-words",
+    "why_it_matters": "This is trending because people can copy the workflow immediately instead of only reading AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้เลือกคู่มือ/FAQ 1 ชุด แล้วลองถาม AI โดยให้ตอบจากเอกสารเท่านั้น",
+    "evidence": [
+      "Source: https://genlabs.in.th/ai-learning/ai-words",
+      "Keywords: LLM, Context, RAG, SOP, prompt",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "hook": "RAG คือวิธีให้ AI เปิดเอกสารของเราก่อนตอบ",
+    "original_keywords": [
+      "LLM",
+      "Context",
+      "RAG",
+      "SOP",
+      "prompt"
+    ],
+    "original_language": "en",
+    "problem": "ถ้าอยากให้ AI ตอบจากคู่มือบริษัทหรือ FAQ จริง ไม่ควรปล่อยให้ตอบจากความจำลอย ๆ อย่างเดียว",
+    "source_id": "ai-word-rag-plain-human",
+    "source_url": "https://genlabs.in.th/ai-learning/ai-words",
+    "tips": [
+      "ความหมาย: RAG = ค้นข้อมูลจากเอกสารก่อนให้ AI ตอบ",
+      "มันทำงานยังไง: search เอกสาร → ดึงส่วนที่เกี่ยว → ให้ LLM สรุปตอบ",
+      "ใช้ที่ไหน: FAQ บริษัท คู่มือสินค้า SOP policy ฐานความรู้ทีมขาย",
+      "ลองวันนี้: รวมเอกสาร 1 ชุดแล้วถามคำตอบที่ต้องอ้างอิงไฟล์",
+      "อย่าพลาด: เอกสารเก่าหรือค้นไม่เจอส่วนที่ถูก จะทำให้คำตอบยังผิดได้"
+    ],
+    "trend_angle": "RAG ทำงานโดยค้นเอกสารที่เกี่ยวข้องก่อน แล้วส่งข้อมูลนั้นให้ LLM ใช้สร้างคำตอบ"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "HFD6Rt-PKg-vlMA2RUAZQ_c2drJLqq.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a994910/HFD6Rt-PKg-vlMA2RUAZQ_c2drJLqq.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T183151Z-ai-word-rag-plain-human/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "DE_DSdwhtNM3rht8aSgAQ_vQknc8bv.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a994916/DE_DSdwhtNM3rht8aSgAQ_vQknc8bv.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T183151Z-ai-word-rag-plain-human/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "aizbTOyzzCVjeERoPXYVB_iD0eTWMh.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a99491b/aizbTOyzzCVjeERoPXYVB_iD0eTWMh.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T183151Z-ai-word-rag-plain-human/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "0tNHE-tO-QiMETRyuJTYm_62HvGxzU.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a994920/0tNHE-tO-QiMETRyuJTYm_62HvGxzU.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T183151Z-ai-word-rag-plain-human/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "xrOSmfmc6l6J17Jztn09h_WySKEuHo.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a994925/xrOSmfmc6l6J17Jztn09h_WySKEuHo.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T183151Z-ai-word-rag-plain-human/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "gmlCU68hhh1fbMwHUTk13_gCTtbTgY.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a99492a/gmlCU68hhh1fbMwHUTk13_gCTtbTgY.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T183151Z-ai-word-rag-plain-human/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "Ei74dknL7Lh1o25mmqezW_Exc7dB9Z.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a99492f/Ei74dknL7Lh1o25mmqezW_Exc7dB9Z.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T183151Z-ai-word-rag-plain-human/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "rJkgM6usc6zdik9XK6V-8_4I7Y5Wdp.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a994935/rJkgM6usc6zdik9XK6V-8_4I7Y5Wdp.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T183151Z-ai-word-rag-plain-human/slide-8.png",
+      "slide_index": 8,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 9,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260507T183151Z-ai-word-rag-plain-human/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: ถ้าอยากให้ AI ตอบจากคู่มือบริษัทหรือ FAQ จริง ไม่ควรปล่อยให้ตอบจากความจำลอย ๆ อย่างเดียว\n\n📌 ทำไมควรเซฟโพสต์นี้: RAG ทำงานโดยค้นเอกสารที่เกี่ยวข้องก่อน แล้วส่งข้อมูลนั้นให้ LLM ใช้สร้างคำตอบ\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ ความหมาย: RAG = ค้นข้อมูลจากเอกสารก่อนให้ AI ตอบ\n\n2) ✨ มันทำงานยังไง: search เอกสาร → ดึงส่วนที่เกี่ยว → ให้ LLM สรุปตอบ\n\n3) ✨ ใช้ที่ไหน: FAQ บริษัท คู่มือสินค้า SOP policy ฐานความรู้ทีมขาย\n\n4) ✨ ลองวันนี้: รวมเอกสาร 1 ชุดแล้วถามคำตอบที่ต้องอ้างอิงไฟล์\n\n🧪 ตัวอย่างการเริ่มวันนี้: เลือกงานเล็ก ๆ 1 งาน เช่น เขียนแคปชั่นสินค้า ทำรูปโปรโมต สรุปไอเดียคอนเทนต์ หรือวางแผนโพสต์ แล้วให้ AI ช่วยทำทีละขั้น\n\n🧭 สูตรจำง่าย: เป้าหมายชัด → ให้บริบท → ขอขั้นตอน → ตรวจคำตอบ → เก็บเป็นเทมเพลตไว้ใช้ซ้ำ\n\n🌱 ถ้าเป็นมือใหม่ อย่าเริ่มจากเครื่องมือเยอะ ให้เริ่มจากปัญหาจริง 1 อย่าง แล้วใช้ AI ช่วยลดเวลาหรือทำให้งานออกมาชัดขึ้น\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเริ่มเห็นว่า AI ไม่ใช่เรื่องไกลตัว แต่เป็นผู้ช่วยทำงานประจำวันที่ใช้ได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#พร้อมท์ไทย"
+    ],
+    "title": "RAG คือวิธีให้ AI เปิดเอกสารของเราก่อนตอบ #AIมือใหม่ เอาไปใช้กับงานจริงได้ทันที"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://genlabs.in.th/ai-learning/ai-words",
+      "Keywords: LLM, Context, RAG, SOP, prompt",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "glossary": {
+      "Context": "บริบท",
+      "LLM": "โมเดลภาษาขนาดใหญ่",
+      "RAG": "ค้นเอกสารก่อนให้ AI ตอบ",
+      "SOP": "SOP",
+      "prompt": "พรอมป์ต์"
+    },
+    "original_keywords": [
+      "LLM",
+      "Context",
+      "RAG",
+      "SOP",
+      "prompt"
+    ],
+    "source_id": "ai-word-rag-plain-human",
+    "source_url": "https://genlabs.in.th/ai-learning/ai-words",
+    "thai_call_to_action": "วันนี้เลือกคู่มือ/FAQ 1 ชุด แล้วลองถาม AI โดยให้ตอบจากเอกสารเท่านั้น",
+    "thai_hook": "RAG คือวิธีให้ AI เปิดเอกสารของเราก่อนตอบ",
+    "thai_problem": "ถ้าอยากให้ AI ตอบจากคู่มือบริษัทหรือ FAQ จริง ไม่ควรปล่อยให้ตอบจากความจำลอย ๆ อย่างเดียว",
+    "thai_tips": [
+      "ความหมาย: RAG = ค้นข้อมูลจากเอกสารก่อนให้ AI ตอบ",
+      "มันทำงานยังไง: search เอกสาร → ดึงส่วนที่เกี่ยว → ให้ LLM สรุปตอบ",
+      "ใช้ที่ไหน: FAQ บริษัท คู่มือสินค้า SOP policy ฐานความรู้ทีมขาย",
+      "ลองวันนี้: รวมเอกสาร 1 ชุดแล้วถามคำตอบที่ต้องอ้างอิงไฟล์",
+      "อย่าพลาด: เอกสารเก่าหรือค้นไม่เจอส่วนที่ถูก จะทำให้คำตอบยังผิดได้"
+    ],
+    "thai_trend_angle": "RAG ทำงานโดยค้นเอกสารที่เกี่ยวข้องก่อน แล้วส่งข้อมูลนั้นให้ LLM ใช้สร้างคำตอบ"
+  }
+}

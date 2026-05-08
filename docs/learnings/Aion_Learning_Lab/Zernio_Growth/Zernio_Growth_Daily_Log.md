@@ -1,45 +1,36 @@
 # Zernio Growth Daily Log
 
+
+
 Purpose: daily durable summaries for the 100k-view KPI loop. This note is generated/updated by Hermes.
 
-## Current Zernio Growth Summary — 2026-05-07
+## Current Zernio Growth Summary — 2026-05-08
 
 ### KPI status
 - Goal: one TikTok post reaches **100,000 views**.
 - Best post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
-- Current best views: 16810
-- Gap to 100,000: 83190
-- Closest post views: 16810
-- Snapshot/verification time: normal baseline `2026-05-07T16:30:01.269666+00:00` had breakout_candidates=[]; late import `2026-05-07_16-33-12.md` at `2026-05-07T16:33:12.851746+00:00` / comparison `2026-05-07T16:34:20.459250+00:00` found refresh-window movers; final process/scheduler verification `2026-05-07T16:38:59Z`.
+- Current views: 18642
+- Gap to 100,000: 81358
+- Snapshot/verification time: confirmed baseline `2026-05-08T16:38:38.303139+00:00`; import `2026-05-08_16-40-39.md` / Imported At `2026-05-08T16:39:32.115741+00:00`; comparison `2026-05-08T16:45:53.016419+00:00`; final process check `2026-05-08T16:55:20Z`.
 
 ### Current signal
-- Formal baseline state: no current formal breakout at `2026-05-07T16:30:01.269666+00:00`; latest_confirmed_delta_views=0.
-- Refresh-window primary watch: onboarding/docs `7635310153126087954` at 7972 views / 61 shares / +40 since 16:30 (~555.58/hr import-window inflated).
-- Secondary refresh-window evidence: meeting/action `7635243951582088456` 2617/23/+39; prompt-context `7636998390286437650` 644/1/+37; Excel/CSV `7637050938162711816` 436/1/+23.
-- Best ChatGPT productivity `7634027210248097042` remains 16810 views / 255 shares / gap 83190 with +0; protected CTA remains CTA copy only.
+- Formal breakout candidates: **1** on the latest normal >15m baseline.
+- Current formal breakout candidate: `7637507923060526344` (Excel/CSV shop data → AI spreadsheet workflow for sellers) at 150 views / 1 share / gap 99850. Confirmed baseline: 139 views / +70 (~118.28/hr); 16:40 import added +11 (~91.09/hr import-window inflated).
+- High-share secondary `7635310153126087954` is Onboarding/docs → 30-day plan / source-grounded staff training from multiple company files at 8403 views / 70 shares / +6; meeting-action `7635243951582088456` is 2928/26/+5.
+- Best/closest ChatGPT productivity `7634027210248097042` remains 18642/288 shares/gap 81358; protected CTA is promo copy only.
 
 ### Weak spots / blockers
-- Scaling near-duplicate remixes before result closure/backfill.
-- Factory latest safe draft output `2026-05-07_16-05-49.md` / draft `69fcb639c8e9e6c70a69c24a` / `ai-word-api-plain-human`; draft safety and platform verification passed. Separate editorial polish/caption-depth QA remains open, but scheduler readback is resolved.
-- Structured learning-loop gap: result decisions still need backfill into Performance/Experiments from Zernio Analytics.
-- Scheduler readback: import `2026-05-07_16-33-12.md` caught up late and jobs next `2026-05-07T17:00:00+00:00`; breakout `2026-05-07_16-23-23.md` next `2026-05-07T17:00:00+00:00`; growth `2026-05-07_16-23-45.md` next `2026-05-07T18:00:00+00:00`; factory `2026-05-07_16-05-49.md` next `2026-05-07T17:05:50.133057+00:00`. Current 16:30 breakout output is in-flight until delivery, not missing.
-- Current issue count: 3 active (result closure + editorial/source QA monitoring + structured result backfill).
+- Active result closure/backfill still blocks safe scaling of near-duplicate variants.
+- Factory source availability remains urgent: latest factory output `2026-05-08_16-37-36.md` plus state `latest_social_draft_factory.json@2026-05-08T16:29:44.253223+00:00` created 0 drafts.
+- Factory cron `a97a7703af32` remains enabled/scheduled/draft-only next `2026-05-08T17:37:37.918925+00:00`; source availability remains the active KPI blocker.
+- Structured Performance/Experiments backfill and editorial/source-topic QA remain open.
+- Gate stays closed for generation/public posting/spend until result-closure/backfill/editorial/source-availability gates clear.
 
-### Latest experiment creator
-- Gate: draft_only_recovery_backlog remains active; refresh-window candidate exists after `2026-05-07_16-33-12.md`, but next normal-baseline confirmation, result-closure, editorial/source QA monitoring, and structured backfill remain open. Do not public-post/live publish/generate from experiment-creator until gates pass.
-- Experiments staged: 1) ChatGPT Image Ad Critique — 8 checks; 2) NotebookLM PDF Comparison Decision Table — 7 tips; 3) Gemini Sheets Sales Report Cleanup — 7 tips.
+### Final readback
+- [x] Import `2026-05-08_16-40-39.md` delivered ok/future next `2026-05-08T17:00:00+00:00` and moved 10 posts versus the 16:38 live baseline.
+- [x] Breakout `2026-05-08_16-16-44.md`, growth `2026-05-08_16-16-59.md`, and factory `2026-05-08_16-37-36.md` are read back; current 16:38 breakout output is in-flight until delivery, not a scheduler blocker.
+- [x] No lingering Zernio import/snapshot/factory/radar process at 2026-05-08T16:55:20Z. No public posting, live publishing, spending, generation, or scheduler repair triggered.
 
-### Tool/topic direction
-- Keep priority on practical Thai ChatGPT/NotebookLM/software-tip workflows with visible numbered tips and duplicate guards.
-- Treat GenLabs CTA as promo-only; do not classify the product-photo/no-prompt phrase as hook/topic/winner/weak pattern.
-
-### Next action
-- Keep onboarding/docs as a draft-only refresh-window watch; wait for the next normal baseline and result/backfill/editorial gates before generating or publishing. No public posting, spending, live generation, or scheduler repair from breakout-watch.
-
-### Links
-- Memory note: [[Aion OS/Aion Learning Lab/Zernio Growth/Zernio Growth Memory]]
-- Master state: [[Aion OS/Projects/genlabs-ai-learning-state]]
-- Self-improvement SOP: [[Aion OS/SOPs/genlabs-ai-learning-self-improvement-system]]
 ## 2026-04-29
 
 ### KPI status
@@ -362,7 +353,7 @@ Lesson: The protected GenLabs CTA can stay, but the educational hook before it m
 - Decision rule: If no post is on pace for 100k, increase experiment volume and remix the best specific business-use hook instead of passively waiting.
 
 ### Next action
-- Amplify the top breakout candidate (7635310153126087954) with one draft-only remix, one follow-up hook, and a save/comment prompt; close active 4h/24h experiment results before creating near-duplicates.
+- Amplify the current confirmed meeting-action candidate `7635243951582088456` with one draft-only remix/follow-up/comment prompt only after result-closure/backfill/source/editorial/source-availability gates clear; keep onboarding/docs `7635310153126087954` as context only.
 
 ### Links
 - Memory note: [[Aion OS/Aion Learning Lab/Zernio Growth/Zernio Growth Memory]]
@@ -802,7 +793,7 @@ Lesson: The protected GenLabs CTA can stay, but the educational hook before it m
 - Decision rule: If no post is on pace for 100k, increase experiment volume and remix the best specific business-use hook instead of passively waiting.
 
 ### Next action
-- Amplify the top breakout candidate (7635310153126087954) with one draft-only remix, one follow-up hook, and a save/comment prompt; close active 4h/24h experiment results before creating near-duplicates.
+- Amplify the current confirmed meeting-action candidate `7635243951582088456` with one draft-only remix/follow-up/comment prompt only after result-closure/backfill/source/editorial/source-availability gates clear; keep onboarding/docs `7635310153126087954` as context only.
 
 ### Links
 - Memory note: [[Aion OS/Aion Learning Lab/Zernio Growth/Zernio Growth Memory]]
@@ -1346,121 +1337,289 @@ Lesson: The protected GenLabs CTA can stay, but the educational hook before it m
 - KPI: primary KPI watch remains TikTok `7634027210248097042`, classified as ChatGPT 8 practical productivity/workflow tips, now at 15,544 views; gap 84,456 to 100,000; 236 shares. The 17:30 normal baseline confirmed delta=0 since `2026-05-05T17:00:03.611651+00:00` because pre-run analytics had not advanced; the 17:31 import + 17:32 sandbox then added +163 absolute views as refresh-window evidence.
 - Breakout candidate: refresh-window only, pending next normal baseline. Live comparison to `last_snapshot.json` shows high_velocity_since_last_snapshot for the ChatGPT productivity winner, but the rate is import-window inflated; do not scale velocity-based remixes until the next >15m baseline confirms. Onboarding/docs `7635310153126087954` is 6,899/55 with +52 refresh-window views; meeting/action matrix 2,042/19 +28; policy/SOP 481/1 +23.
 - Action: updated compact memory, Zernio Growth Memory, `tasks.json`, and existing Open Loops handoffs. No duplicate experiment/task created; draft-only/no public posting/no spending. Existing ChatGPT practical-work remix/result-closure queue remains the amplification path.
+
 ## 2026-05-07
-### 2026-05-07T16:00Z — hourly draft factory verification
-- Factory: exact command run `proc_6e18f647c22a` exited 0; fresh state `2026-05-07T15:56:43.287790+00:00` status ok / draft_count=1 for `ai-word-api-plain-human`.
-- Airtable/Zernio: `recQbcvo3MVmkSYaO` / `69fcb639c8e9e6c70a69c24a` verified draft-only, 9 media, TikTok+Facebook+Instagram accounts present, FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`.
-- Safety/process: outbound payload omitted `publishNow` and `scheduledFor`, TikTok draft true, no lingering factory/radar process; cron next superseded by latest jobs.json readback `2026-05-07T17:05:50.133057+00:00`. Editorial polish only; no public posting/spend/live scheduling.
 
-<!-- ZG-DLOG-2026-05-07-1600-GROWTH-CHECK -->
-### 2026-05-07 16:06/16:08 UTC — Growth Check confirmed onboarding/docs baseline + import no-change (superseded by 16:30/16:33 refresh-window readback)
-- KPI: best/closest post `7634027210248097042` remains 16810 views / 255 shares / gap 83190; protected CTA is not the winner/hook/topic.
-- Candidate: onboarding/docs `7635310153126087954` at 7932 views / 60 shares / gap 92068; +48 since `2026-05-07T15:30:14.732235+00:00` (~78.7/hr confirmed normal baseline). Secondary confirmed velocity: prompt-context `7636998390286437650` 607/1/+41 (~67.22/hr) but low share depth keeps it secondary.
-- Post-baseline import no-change: `2026-05-07_16-08-10.md` refreshed Airtable at `2026-05-07T16:07:40.651931+00:00`; read-only comparison `2026-05-07T16:13:45.435138+00:00` found 0 watched-post movers, so the 16:06 baseline stays authoritative.
-- Scheduler/factory: superseded scheduler context: latest current readback is the 16:30/16:33 Breakout Watch marker; import `2026-05-07_16-33-12.md`, breakout `2026-05-07_16-23-23.md`, growth `2026-05-07_16-23-45.md`, and factory `2026-05-07_16-05-49.md` are observed. No matching import_zernio_analytics_to_airtable.py / zernio_growth_snapshot.py / zernio_obsidian_daily_log.py / scheduled_ai_social_draft_factory.py / staged_ai_signal_radar.py process at 2026-05-07T16:38:59Z.
-- Action: promoted existing onboarding/docs amplification task to confirmed baseline candidate; kept result closure/backfill/editorial QA gates open. No public posting, spending, generation, scheduler repair, or duplicate remix creation.
-
-<!-- ZG-DLOG-2026-05-07-1230-ISSUE-CHECK -->
-### 2026-05-07 12:30/12:32 UTC — Issue Check confirmed baseline (superseded by 13:17 final baseline)
-- Superseded context: 12:30 issue-check promoted onboarding/docs `7635310153126087954` at 7,808/58/+26 and Excel/CSV `7637050938162711816` at 263/1/+151, then `2026-05-07_12-32-25.md` found 0 post-baseline movers.
-- Superseded by current 13:17 breakout-watch final baseline after the 13:03 import. No public posting, spending, generation, scheduler repair, or duplicate remix creation.
-
-<!-- ZG-DLOG-2026-05-07-1230-BREAKOUT-WATCH -->
-### 2026-05-07 12:30 UTC — Breakout Watch confirmed onboarding/docs baseline (superseded by 13:17 final baseline)
-- Superseded context: 12:30 baseline candidate was onboarding/docs `7635310153126087954` at 7,808 views / 58 shares / +26; current evidence now lives in `ZG-DLOG-2026-05-07-1400-BREAKOUT-WATCH`.
-
-<!-- ZG-DLOG-2026-05-07-1303-BREAKOUT-WATCH -->
-### 2026-05-07 13:02/13:03/13:17 UTC — Breakout Watch final baseline after import catch-up (superseded by 14:00 no-current baseline)
-- Superseded context: 13:17 final live snapshot confirmed 5 candidates after the 13:03 import. Primary was onboarding/docs `7635310153126087954` at 7,841/59/+33; Excel/CSV `7637050938162711816` was raw-fastest at 361/1/+98. Superseded as current by `ZG-DLOG-2026-05-07-1400-BREAKOUT-WATCH` after the 14:00 baseline returned no candidates and the 14:02 import found 0 movers.
-- No public posting, spending, generation, scheduler repair, or duplicate remix creation.
-
-<!-- ZG-DLOG-2026-05-07-1400-BREAKOUT-WATCH -->
-### 2026-05-07 14:00/14:02 UTC — Breakout Watch no-current-candidate baseline (superseded by 14:44 import movers)
-- Superseded context: 14:00/14:02 no-current-candidate/import-no-mover evidence is historical. Current evidence lives in `ZG-DLOG-2026-05-07-1444-BREAKOUT-WATCH` after import `2026-05-07_14-44-38.md` moved onboarding/docs to 7884/60/+43.
-- Factory/cadence update: factory scheduler watch was resolved by `2026-05-07_14-41-45.md`; editorial QA remains open. No public posting/spend/generation.
 ### KPI status
 - Goal: one TikTok post reaches **100,000 views**.
 - Best post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
 - Current best views: 16810
 - Gap to 100,000: 83190
 - Closest post views: 16810
-- Snapshot/verification time: baseline `2026-05-07T14:42:46.393822+00:00`; import `2026-05-07_14-44-38.md` / comparison `2026-05-07T14:51:57.435925+00:00`; factory `2026-05-07_14-41-45.md`; final process/scheduler verification `2026-05-07T14:56:34Z`.
+- Strongest velocity post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- Recent 72h post count: 5
+- Snapshot time: 2026-05-07T23:58:28.034648+00:00
 
 ### Signals learned today
-- Winning durable pattern remains ChatGPT practical workflow tips with concrete office outcomes; protected CTA is not the winner/hook/topic.
-- Current actionable truth: 14:42 normal baseline confirmed zero, then 14:44 import produced refresh-window movers.
-- Primary candidate: onboarding/docs `7635310153126087954` 7884/60/+43 (~280.92/hr inflated). Secondary: meeting-action `7635243951582088456` +33; raw-fastest low-share `7634194104599022866` +66.
-- Best ChatGPT productivity `7634027210248097042` remains 16810/255/gap 83190 with +0; protected CTA remains CTA copy only.
-- Candidate count: 1 actionable refresh-window primary; formal confirmed baseline count: 0 until the next >15m baseline.
+- Winning hook samples:
+- ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: พนักงานใหม่ต้…
+- 👋 หลายคนเห็น Claude สร้างแอปได้ แล้วรีบพิมพ์ว่า “ช่วยทำแอปให้หน่อย” ทันที ปัญหาคือ AI ไม่ได้ขาดความเก่งเสมอไป แต่บรีฟของเรายังไม่ชัดพอ แอปที่ออกมาจึงมักดูสวยแค่…
+- Weak hook samples:
+- 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายร้านมีข้อ…
+- Prompt Drop: ยาดม/สมุนไพรไทยให้ดู Modern Wellness เซฟโพสต์นี้ไว้ถ้าคุณทำคอนเทนต์ขายของออนไลน์ แล้วอยากได้ภาพที่ดูเหมือนถ่ายแคมเปญจริง ไม่ใช่ภาพ AI พลาสติกหรือภา…
+- 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา A
+- Protected CTA note: Sway-added CTA phrase is protected and must not be treated as hook/topic signal; learn from educational_signal instead.
+- Protected CTA occurrences in low-view sample: 3
+- Breakout candidates: 0 in this same-window rerun; preserve the intended pre-run velocity snapshot for breakout decisions.
+- Current issue count: 5
 
 ### Mistakes / weak spots to correct
-- Do not finalize no-candidate from the pre-run if a late import lands after the baseline; compute read-only deltas against live `last_snapshot.json`.
-- Result closure is still open for active remix experiments; do not scale near-duplicates until 2h/4h/24h decisions are marked.
-- Factory drafts can be scheduler-healthy but still need editorial QA; keep production enabled/draft-only and review the draft instead of pausing.
-- Backfill structured Performance/Experiments result closure so self-improvement does not depend only on Obsidian/Open Loops.
+- active_experiment_result_closure_overdue_or_blocked
+- zernio_factory_editorial_source_topic_qa
+- learning_loop_structured_performance_experiments_backfill_missing
+- Superseded/resolved: growth-check readback delivered as `2026-05-08_02-15-53.md`; factory/import/growth scheduler cadence current after 02:44Z readback.
+- zernio_factory_source_availability_active
+- Superseded/resolved: scheduler cadence watch resolved by 2026-05-08T02:44Z readback; factory source availability remains active.
 
 ### Rule / memory update
-- If import after a zero baseline moves watched posts, store as post_import_refresh_window with `latest_confirmed_delta_views=0`, choose primary by KPI leverage/share depth, and output candidate template with inflated-rate caveat.
-- Scheduler rule: growth output `2026-05-07_14-16-10.md` delivered; current growth-check output is in-flight until delivery, not missing. Factory readback was refreshed by exact run `proc_6e18f647c22a`, which created draft `69fcb639c8e9e6c70a69c24a`; factory cron remains enabled/scheduled next superseded by latest jobs.json readback `2026-05-07T17:05:50.133057+00:00`.
-- Protected CTA: post `7634027210248097042` remains ChatGPT productivity/workflow evidence; protected GenLabs no-prompt/10-baht phrase is CTA copy only.
+- Lesson: Fix active result-closure/factory QA gates before scaling more near-duplicate growth experiments.
+- Decision rule: If no post is on pace for 100k, increase experiment volume and remix the best specific business-use hook instead of passively waiting.
 
 ### Next action
-- Update existing draft-only onboarding/docs amplification task; close/backfill active experiment results; wait for next normal baseline confirmation before generation. No public posting, spending, live generation, or scheduler repair from breakout-watch.
+- Close/mark blocked active 2h/4h/24h result loops, resolve factory editorial/source-topic QA/source availability, and verify the 00:00 import/breakout/growth/experiment readback before creating more near-duplicate drafts; keep any breakout amplification draft-only.
 
 ### Links
 - Memory note: [[Aion OS/Aion Learning Lab/Zernio Growth/Zernio Growth Memory]]
 - Master state: [[Aion OS/Projects/genlabs-ai-learning-state]]
 - Self-improvement SOP: [[Aion OS/SOPs/genlabs-ai-learning-self-improvement-system]]
 
-<!-- ZG-DLOG-2026-05-07-1444-BREAKOUT-WATCH -->
-### 2026-05-07 14:42/14:44/14:51 UTC — Breakout Watch post-import refresh-window candidate (superseded by 15:02 confirmed baseline)
-- Superseded context: the 14:44 import moved onboarding/docs `7635310153126087954` to 7884/60/+43 as refresh-window evidence; the 15:02 normal baseline then confirmed the same movement as formal current evidence.
-- No public posting, spending, generation, scheduler repair, or duplicate remix creation.
+## 2026-05-08
 
-<!-- ZG-DLOG-2026-05-07-1442-BREAKOUT-WATCH -->
-### 2026-05-07 14:42 UTC — Breakout Watch no-current-candidate baseline (superseded by 15:02 confirmed baseline)
-- Superseded context: 14:42 normal baseline had `breakout_candidates=[]`; import `2026-05-07_15-04-30.md` then moved watched posts, and 15:02 normal baseline confirmed onboarding/docs `7635310153126087954` 7884/60/+43. Current evidence lives in `ZG-DLOG-2026-05-07-1502-BREAKOUT-WATCH`.
-- Factory/cadence: scheduler watch remains resolved by `2026-05-07_14-41-45.md`; editorial QA remains open. No public posting/spend/generation.
 
-<!-- ZG-DLOG-2026-05-07-1502-BREAKOUT-WATCH -->
-### 2026-05-07 15:02 UTC — Breakout Watch confirmed onboarding/docs baseline
-- KPI: best/closest post `7634027210248097042` remains 16810 views / 255 shares / gap 83190; protected CTA is not the winner/hook/topic.
-- Candidate: onboarding/docs `7635310153126087954` at 7884 views / 60 shares / gap 92116; +43 views since `2026-05-07T14:42:46.393822+00:00` (~134.08/hr confirmed baseline). Why primary: best KPI leverage/share depth among movers; raw-fastest `7634194104599022866` +66 has low share depth.
-- Secondary evidence: meeting-action `7635243951582088456` 2555/22/+33; prompt-context `7636998390286437650` +45; Excel/CSV `7637050938162711816` +23; raw-fastest `7634194104599022866` 827/2/+66 stays secondary.
-- Factory/cadence: import `2026-05-07_15-04-30.md` (post-baseline no-change), breakout `2026-05-07_14-57-44.md`, growth `2026-05-07_14-16-10.md`, and factory `2026-05-07_14-41-45.md` are observed; scheduler resolved_current_tick; factory editorial QA/result closure/backfill remain open. No matching import/factory/snapshot process at 2026-05-07T15:15:03Z.
-- Action: updated compact memory, tasks, Zernio Growth Memory, Daily Log, and Open Loops to confirmed baseline candidate + post-baseline import no-change state. No public posting/spending/generation/duplicate remixes.
+<!-- ZG-DLOG-2026-05-08-1638-BREAKOUT-WATCH -->
+### 2026-05-08 16:38/16:40 Breakout Watch — confirmed Excel/CSV seller-workflow candidate
+- KPI: ChatGPT productivity `7634027210248097042` remains best/closest at 18642 views / 288 shares / gap 81358; protected CTA is promo copy only.
+- Breakout: normal baseline `2026-05-08T16:38:38.303139+00:00` confirmed `7637507923060526344` (Excel/CSV shop data → AI spreadsheet workflow for sellers) at 139 views / 1 share / +70 (~118.28/hr), reason `high_velocity_since_last_snapshot`. Late import `2026-05-08_16-40-39.md` / Imported At `2026-05-08T16:39:32.115741+00:00` plus comparison `2026-05-08T16:45:53.016419+00:00` moved it to 150 views (+11; import-window rate inflated until next baseline).
+- Secondary: high-share onboarding/docs `7635310153126087954` is 8403/70/+6; meeting-action `7635243951582088456` is 2928/26/+5. Use them as context, not duplicate generation triggers.
+- Action: updated existing draft-only amplification/watch task for `7637507923060526344`; no duplicate generation, no public posting/spend/live publishing. Keep result-closure/backfill/editorial/source-availability gates open.
+- Scheduler/factory: import `2026-05-08_16-40-39.md`, breakout `2026-05-08_16-16-44.md`, growth `2026-05-08_16-16-59.md`, and factory `2026-05-08_16-37-36.md` delivered/read back; factory still produced 0 drafts/source availability open; No lingering Zernio import/snapshot/factory/radar process at 2026-05-08T16:55:20Z.
+<!-- ZG-DLOG-2026-05-08-1600-GROWTH-CHECK -->
+### 2026-05-08 16:03/16:05 Growth Check — superseded by 16:38 Breakout Watch
+- Superseded/current context: 16:03/16:05 import-window onboarding/docs evidence is historical after `2026-05-08T16:38:38.303139+00:00` confirmed `7637507923060526344` as current formal breakout and `2026-05-08_16-40-39.md` moved it to 150 views. Current evidence lives in `ZG-DLOG-2026-05-08-1638-BREAKOUT-WATCH`. No public posting/spend/generation.
+<!-- ZG-DLOG-2026-05-08-1603-BREAKOUT-WATCH -->
+### 2026-05-08 16:03/16:04 Breakout Watch — superseded by 16:38 confirmed baseline
+- Superseded/current context: 16:03 zero-baseline + 16:04 import-window onboarding/docs evidence is historical after `2026-05-08T16:38:38.303139+00:00` confirmed `7637507923060526344` as current formal breakout and `2026-05-08_16-40-39.md` moved it to 150 views. Current evidence lives in `ZG-DLOG-2026-05-08-1638-BREAKOUT-WATCH`. No public posting/spend/generation.
+<!-- ZG-DLOG-2026-05-08-1500-BREAKOUT-WATCH -->
+### 2026-05-08 15:00/15:02 Breakout Watch — superseded by 16:03/16:04 import-window candidate
+- Superseded/current context: 15:00 meeting-action `7635243951582088456` was a confirmed candidate, but the 16:04 import moved onboarding/docs `7635310153126087954` to the current primary refresh-window candidate by KPI/share leverage. Current evidence lives in `ZG-DLOG-2026-05-08-1603-BREAKOUT-WATCH`. No public posting/spend/generation.
+<!-- ZG-DLOG-2026-05-08-1430-BREAKOUT-WATCH -->
+### 2026-05-08 14:30/14:33 Breakout Watch — superseded by 15:00 confirmed baseline
+- Superseded/current context: 14:33 onboarding/docs refresh-window primary `7635310153126087954` at 8377/70/+14 is historical/context after the 15:00 normal baseline confirmed meeting-action `7635243951582088456` at 2894/26/+38 and 15:02 import found zero post-baseline movers. Current evidence lives in `ZG-DLOG-2026-05-08-1500-BREAKOUT-WATCH`. No public posting/spend/generation.
+<!-- ZG-DLOG-2026-05-08-1401-BREAKOUT-WATCH -->
+### 2026-05-08 14:01/14:03 Breakout Watch — superseded by 14:30/14:33 refresh-window
+- Superseded/current context: 14:01 normal baseline confirmed meeting-action `7635243951582088456`, but 14:30 zero baseline plus import `2026-05-08_14-33-22.md` moved onboarding/docs `7635310153126087954` to 8377/70/+14 as the current refresh-window candidate. Current evidence lives in `ZG-DLOG-2026-05-08-1430-BREAKOUT-WATCH`. No public posting/spend/generation.
 
-<!-- ZG-DLOG-2026-05-07-0842-BREAKOUT-WATCH -->
-### 2026-05-07 08:38/08:40/08:42 UTC — Breakout Watch post-import refresh-window candidates (superseded by 09:00 confirmed prompt-context baseline)
-- KPI: best/closest post `7634027210248097042` remains 16810 views / 255 shares / gap 83190 with +0; protected CTA is not the winner/hook/topic.
-- Signal: 08:38 normal baseline `2026-05-07T08:38:59.413182+00:00` had no formal baseline candidate. Import `2026-05-07_08-40-34.md` refreshed Airtable at `2026-05-07T08:40:12.990921+00:00`; final snapshot `2026-05-07T08:42:45.775671+00:00` found 5 refresh-window candidates. Primary by KPI leverage is onboarding/docs `7635310153126087954` 7742/58 (+11 inflated); strongest raw mover is prompt-context `7636998390286437650` 448/1 (+24 inflated). Rates need next >15m baseline confirmation.
-- Scheduler/factory: superseded by 10:09/10:24 readback — factory cron `a97a7703af32` is enabled/scheduled next_run_at `2026-05-07T12:15:29.070407+00:00`; No matching `scheduled_ai_social_draft_factory.py`, `import_zernio_analytics_to_airtable.py`, or `zernio_growth_snapshot.py` process at 2026-05-07T10:39:42Z. Source/FAL QA remains open; no public posting/spend/live publishing.
-- Action: updated compact memory, tasks, Zernio Growth Memory, Daily Log, and Open Loops; updated draft-only onboarding/docs task `zernio-breakout-amplify-7635310153126087954-2026-05-06-0606`; kept prompt-context as secondary. No public posting, spending, live generation, scheduler repair, or duplicate remix creation; final readback opened one import/breakout next-tick scheduler watch.
-<!-- ZG-DLOG-2026-05-07-0900-BREAKOUT-WATCH -->
-### 2026-05-07 09:00/09:02/09:05 UTC — Breakout Watch confirmed prompt-context baseline + import no-change (superseded by 09:30 no-candidate baseline)
-- KPI: best/closest post `7634027210248097042` remains 16810 views / 255 shares / gap 83190 with +0; protected CTA is not the winner/hook/topic.
-- Signal: normal baseline `2026-05-07T09:00:34.538001+00:00` confirmed prompt-context `7636998390286437650` at 448 views / 1 share / 7 likes / +24 views (~66.71/hr), reason `high_velocity_since_last_snapshot`.
-- Post-baseline import no-change: `2026-05-07_09-33-02.md` ran at `2026-05-07T09:02:43.661599+00:00` and refreshed Airtable at `2026-05-07T09:02:22.112198+00:00`; read-only comparison `2026-05-07T09:05:57.101553+00:00` found 0 watched-post movers versus the 09:00 baseline, so the confirmed baseline stays authoritative.
-- Context: onboarding/docs `7635310153126087954` remains previous high-share context at 7742/58/gap 92258, but prompt-context became previous context after the 09:30 no-candidate baseline.
-- Scheduler/factory: superseded by 10:09/10:24 readback — factory cron `a97a7703af32` is enabled/scheduled next_run_at `2026-05-07T12:15:29.070407+00:00`; No matching `scheduled_ai_social_draft_factory.py`, `import_zernio_analytics_to_airtable.py`, or `zernio_growth_snapshot.py` process at 2026-05-07T10:39:42Z. Source/FAL QA remains open; no public posting/spend/live publishing.
-- Action: updated compact memory, tasks, Zernio Growth Memory, Daily Log, and Open Loops; updated draft-only prompt-context task `zernio-breakout-amplify-7636998390286437650-2026-05-07-0802`; kept onboarding/docs watch-only/context. No public posting, spending, live generation, scheduler repair, or duplicate remix creation; final readback opened one import/breakout next-tick scheduler watch.
-<!-- ZG-DLOG-2026-05-07-1530-breakout-watch -->
-### 2026-05-07 15:30/15:31/15:32 UTC — Breakout Watch zero-baseline plus direct-import refresh-window candidate (superseded by 16:06 confirmed baseline)
-- Superseded context: 15:30 baseline had no formal candidates, then import moved onboarding/docs `7635310153126087954` to 7932/60/+48 as refresh-window evidence. The 16:06 normal baseline confirmed the movement as current formal candidate under `ZG-DLOG-2026-05-07-1606-BREAKOUT-WATCH`.
-- No public posting, spending, generation, scheduler repair, or duplicate remix creation.
+<!-- ZG-DLOG-2026-05-08-1400-GROWTH-CHECK -->
+### 2026-05-08 14:01/14:03 Growth Check — superseded by 14:30/14:33 refresh-window
+- Superseded/current context: 14:01/14:03 growth-check evidence is historical/secondary after import `2026-05-08_14-33-22.md` moved onboarding/docs `7635310153126087954` to 8377/70/+14. Current evidence lives in `ZG-DLOG-2026-05-08-1430-BREAKOUT-WATCH`. No public posting/spend/generation.
 
-<!-- ZG-DLOG-2026-05-07-1606-BREAKOUT-WATCH -->
-### 2026-05-07 16:06/16:08 UTC — Breakout Watch confirmed candidate + post-baseline import no-change (superseded by 16:30/16:33 refresh-window readback)
-- KPI: best/closest post `7634027210248097042` remains 16810 views / 255 shares / gap 83190; protected CTA is not the winner/hook/topic.
-- Candidate: onboarding/docs `7635310153126087954` at 7932 views / 60 shares / gap 92068; +48 views since `2026-05-07T15:30:14.732235+00:00` (~78.7/hr confirmed baseline). Why primary: best KPI leverage/share depth among movers.
-- Secondary evidence: prompt-context `7636998390286437650` at 607 views / 1 share / +41 (~67.22/hr); low share depth keeps it secondary.
-- Post-baseline import no-change: import `2026-05-07_16-08-10.md` / Imported At `2026-05-07T16:07:40.651931+00:00`; read-only comparison `2026-05-07T16:13:58.492971+00:00` found 0 watched-post movers, so 16:06 remains authoritative.
-- Scheduler/factory: superseded scheduler context: latest current readback is under `ZG-DLOG-2026-05-07-1630-BREAKOUT-WATCH`; import `2026-05-07_16-33-12.md`, breakout `2026-05-07_16-23-23.md`, growth `2026-05-07_16-23-45.md`, and factory `2026-05-07_16-05-49.md` are observed. No matching import_zernio_analytics_to_airtable.py / zernio_growth_snapshot.py / zernio_obsidian_daily_log.py / scheduled_ai_social_draft_factory.py / staged_ai_signal_radar.py process at 2026-05-07T16:38:59Z. No public posting/spending/generation/scheduler repair.
-- Action: updated compact memory, tasks, Zernio Growth Memory, Daily Log, and Open Loops to confirmed baseline candidate + post-baseline import no-change; no duplicate amplification task.
-<!-- ZG-DLOG-2026-05-07-1630-BREAKOUT-WATCH -->
-### 2026-05-07 16:30/16:33 UTC — Breakout Watch zero baseline plus late-import refresh-window candidate
-- KPI: best/closest post `7634027210248097042` remains 16810 views / 255 shares / gap 83190; protected CTA is not the winner/hook/topic.
-- Signal: normal baseline `2026-05-07T16:30:01.269666+00:00` had `breakout_candidates=[]` and latest_confirmed_delta=0. Import `2026-05-07_16-33-12.md` / Imported At `2026-05-07T16:32:38.410241+00:00` then moved onboarding/docs `7635310153126087954` to 7972 views / 61 shares / +40 since 16:30 (~555.58/hr import-window inflated).
-- Secondary evidence: meeting/action `7635243951582088456` 2617/23/+39; prompt-context `7636998390286437650` 644/1/+37; Excel/CSV `7637050938162711816` 436/1/+23.
-- Scheduler/factory: import `2026-05-07_16-33-12.md` caught up late; breakout `2026-05-07_16-23-23.md` and growth `2026-05-07_16-23-45.md` delivered; factory `2026-05-07_16-05-49.md` remains draft-safe/editorial-QA-open. No matching import_zernio_analytics_to_airtable.py / zernio_growth_snapshot.py / zernio_obsidian_daily_log.py / scheduled_ai_social_draft_factory.py / staged_ai_signal_radar.py process at 2026-05-07T16:38:59Z. No public posting/spending/generation/scheduler repair.
-- Action: updated compact memory, tasks, Zernio Growth Memory, Daily Log, and Open Loops to post-import refresh-window candidate state; existing onboarding/docs task updated, no duplicate task.
+<!-- ZG-DLOG-2026-05-08-1330-BREAKOUT-WATCH -->
+### 2026-05-08 13:30/13:32 Breakout Watch — superseded by 14:01 confirmed baseline
+- Superseded/current context: 13:30/13:32 onboarding/docs refresh-window evidence is previous context. Current evidence lives in `ZG-DLOG-2026-05-08-1401-BREAKOUT-WATCH` after the 14:01 normal baseline confirmed `7635243951582088456` and 14:03 import found 0 post-baseline movers. No public posting/spend/generation.
+
+<!-- ZG-DLOG-2026-05-08-1301-BREAKOUT-WATCH -->
+### 2026-05-08 13:01 Breakout Watch — superseded by 13:30/13:32 refresh-window candidate
+- Superseded/current context: 13:01 confirmed company-manual/source-grounded movement is historical/watch-only. Current evidence lives in `ZG-DLOG-2026-05-08-1400-GROWTH-CHECK` after the 13:30 zero baseline and 13:32 direct import moved onboarding/docs to 8363/70/+14 refresh-window evidence. No public posting/spend/generation.
+
+<!-- ZG-DLOG-2026-05-08-1242-ISSUE-CHECK -->
+### 2026-05-08 12:42 Issue Check — import refresh-window sync (superseded by 13:01 Breakout Watch)
+- Superseded/current context: 12:42 zero-baseline + import `2026-05-08_13-02-20.md` earlier showed onboarding/docs refresh-window evidence, but 13:01 normal baseline confirmed formal candidates and promoted `7637418892448648455` as current primary. Current evidence lives in `ZG-DLOG-2026-05-08-1400-GROWTH-CHECK`.
+- Active blockers stay open: result closure/backfill, source availability, editorial QA, structured Performance/Experiments backfill. No public posting/spend/generation.
+
+<!-- ZG-DLOG-2026-05-08-1200-EXPERIMENT-CREATOR -->
+### 2026-05-08 12:00 Experiment Creator — draft-only recovery backlog (updated by 12:42 issue-check)
+- KPI: ChatGPT productivity `7634027210248097042` remains best/closest at 18642 views / 288 shares / gap 81358; protected CTA is promo copy only.
+- Signal update: superseded by 13:01 Breakout Watch confirmed baseline; current formal watch is `7637418892448648455` at 190/2 shares/+20 confirmed, with `7637466611787582738` raw-fastest secondary. Previous 12:42/12:44 refresh-window onboarding/docs evidence is context only.
+- Experiments staged: 1) ChatGPT Image/Ad Critique — 7 tips (`kpi-exp-0508-1200-chatgpt-image-ad-critique`); 2) NotebookLM Client Meeting Prep Pack — 7 tips (`kpi-exp-0508-1200-notebooklm-client-meeting-pack`); 3) CapCut AI Product Video Checklist — 7 tips (`kpi-exp-0508-1200-capcut-product-video-checklist`).
+- Gate/action: `draft_only_recovery_backlog`; queue only after result-closure/backfill/editorial/source-availability gates clear. No generation, public posting, live publishing, spending, or scheduler repair.
+- Scheduler/factory: experiment output `2026-05-08_12-24-46.md` delivered; latest import `2026-05-08_13-02-20.md`, issue `2026-05-08_13-00-02.md`, growth `2026-05-08_12-18-44.md`, and factory `2026-05-08_12-41-12.md` delivered/future-scheduled; current growth-check markdown is in-flight until delivery; source availability remains open.
+
+<!-- ZG-DLOG-2026-05-08-1200-BREAKOUT-WATCH -->
+### 2026-05-08 12:00/12:02 Breakout Watch no formal breakout + import no-change (superseded by 12:42 Issue Check)
+- Superseded/current context: 12:00/12:02 no-mover evidence and 12:42/12:44 refresh-window evidence are historical; 13:01 normal baseline confirmed the current formal candidate and 13:02 import found no post-baseline movement. Current evidence lives in `ZG-DLOG-2026-05-08-1400-GROWTH-CHECK`; no public posting/spend/generation.
+<!-- ZG-DLOG-2026-05-08-1133-BREAKOUT-WATCH -->
+### 2026-05-08 11:32/11:33 Breakout Watch post-import refresh-window candidate (superseded by 12:00/12:02 no-current-candidate)
+- Superseded/current context: 11:33 onboarding/docs refresh-window candidate `7635310153126087954` at 8335/70/+9 is historical/watch-only after the 12:00 normal baseline found no formal breakout and import `2026-05-08_12-02-33.md` plus comparison `2026-05-08T12:05:07.489514+00:00` found mover_count=0/candidate_count=0. Current evidence lives in `ZG-DLOG-2026-05-08-1200-BREAKOUT-WATCH`. No public posting/spend/generation.
+<!-- ZG-DLOG-2026-05-08-1100-BREAKOUT-WATCH -->
+### 2026-05-08 11:00 Breakout Watch no-current-candidate baseline (superseded by 11:33 import-window candidate)
+- Superseded/current context: 11:00/11:02 no-candidate/no-mover evidence is historical after import `2026-05-08_11-33-59.md` and snapshot `2026-05-08T11:33:47.190874+00:00` moved onboarding/docs `7635310153126087954` to 8335/70 shares/+9 as the current refresh-window candidate. Current evidence lives in `ZG-DLOG-2026-05-08-1200-BREAKOUT-WATCH`. No public posting/spend/generation.
+
+<!-- ZG-DLOG-2026-05-08-1030-BREAKOUT-WATCH -->
+### 2026-05-08 10:30 Breakout Watch confirmed company-manual/source-grounded AI-answer candidate (superseded by 11:00 no-candidate baseline)
+- Superseded/current context: 10:30 confirmed `7637418892448648455` at 152 views / 1 share / +29 (~67.4/hr), then 11:00 no-candidate evidence was itself superseded by the 11:33 import-window candidate. Current evidence lives in `ZG-DLOG-2026-05-08-1200-BREAKOUT-WATCH` after import `2026-05-08_11-33-59.md` moved onboarding/docs `7635310153126087954` to 8335/70 shares/+9. No public posting/spend/generation.
+<!-- ZG-DLOG-2026-05-08-1000-GROWTH-CHECK -->
+### 2026-05-08 10:00/10:06 Growth Check post-import refresh-window candidates (superseded by 10:30 Breakout Watch)
+- Superseded/current context: 10:04 zero baseline plus import `2026-05-08_10-06-25.md` created onboarding/docs refresh-window evidence, but 10:30 normal baseline confirmed `7637418892448648455` as the current formal candidate and late import `2026-05-08_10-32-24.md` found no post-baseline movement. Current evidence lives in `ZG-DLOG-2026-05-08-1030-BREAKOUT-WATCH`. Growth output `2026-05-08_10-29-21.md` is delivered; no public posting/spend/generation.
+
+<!-- ZG-DLOG-2026-05-08-0800-GROWTH-CHECK -->
+### 2026-05-08 08:00/08:05 Growth Check import-window candidate (superseded by 08:34 Breakout Watch)
+- Superseded/current context: 08:03 zero baseline + 08:05 import-window onboarding/docs movement is now confirmed by the 08:34 Breakout Watch normal baseline. Current evidence lives in `ZG-DLOG-2026-05-08-0834-BREAKOUT-WATCH`; no public posting/spend/generation.
+
+<!-- ZG-DLOG-2026-05-08-0834-BREAKOUT-WATCH -->
+### 2026-05-08 08:34/08:36 Breakout Watch confirmed onboarding/docs candidate (superseded by 09:00/09:02 refresh-window evidence)
+- KPI: TikTok `7634027210248097042` remains best/closest at 18642 views / 288 shares / gap 81358; protected CTA is promo copy only.
+- Signal: normal baseline `2026-05-08T08:34:56.065641+00:00` confirmed onboarding/docs `7635310153126087954` at 8298 views / 69 shares / gap 91702 / +32 (~60.33/hr), reason `high_velocity_since_last_snapshot`.
+- Post-baseline import: `2026-05-08_08-36-42.md` refreshed Airtable after the baseline (45 seen / 0 created / 45 updated; Imported At `2026-05-08T08:35:58.326485+00:00`) and read-only comparison `2026-05-08T08:40:22.184615+00:00` found mover_count=0/candidate_count=0, so 08:34 confirmed deltas remain authoritative.
+- Action: updated compact memory/tasks/Zernio Growth Memory/Open Loops; updated the existing onboarding/docs/result-closure/source tasks; no duplicate task, public posting, live publishing, spending, generation, or scheduler repair.
+- Scheduler/factory: import `2026-05-08_08-36-42.md`, growth-check `2026-05-08_08-16-26.md`, and factory `2026-05-08_08-33-54.md` delivered for that historical marker. Current scheduler/process truth is superseded by 11:34 readback: import `2026-05-08_11-33-59.md` and factory `latest_social_draft_factory.json@2026-05-08T12:32:06Z` are delivered/future-scheduled, source availability remains open, and no public posting/spend/generation occurred.
+
+
+<!-- ZG-DLOG-2026-05-08-0900-BREAKOUT-WATCH -->
+### 2026-05-08 09:00/09:02 Breakout Watch refresh-window candidate (superseded by 09:30 confirmed baseline)
+- Superseded/current context: 09:00 zero baseline plus import `2026-05-08_09-02-13.md` created import-window onboarding/docs evidence, but 09:30 normal baseline confirmed `7637418892448648455` as the current formal candidate. Current evidence lives in `ZG-DLOG-2026-05-08-1000-GROWTH-CHECK`. No public posting/spend/generation.
+
+<!-- ZG-DLOG-2026-05-08-0930-BREAKOUT-WATCH -->
+### 2026-05-08 09:30/09:32 Breakout Watch confirmed company-manual/guide AI-answer candidate (superseded by 10:04/10:06 refresh-window evidence)
+- KPI: TikTok `7634027210248097042` remains best/closest at 18642 views / 288 shares / gap 81358; protected CTA is promo copy only.
+- Signal: normal baseline `2026-05-08T09:30:48.448035+00:00` confirmed `7637418892448648455` at 123 views / 1 share / gap 99877 / +110 (~219.97/hr), reason `high_velocity_since_last_snapshot`.
+- Post-baseline import: `2026-05-08_09-32-02.md` / Imported At `2026-05-08T09:31:16.568966+00:00` plus read-only comparison `2026-05-08T09:33:10.685385+00:00` found mover_count=0/candidate_count=0, so 09:30 confirmed deltas remain authoritative.
+- Action: created/updated draft-only amplification task `zernio-breakout-amplify-7637418892448648455-2026-05-08-0930`; no public posting, live publishing, spending, generation, or duplicate task.
+- Scheduler/factory: superseded by current 2026-05-08T11:46 readback; latest factory output is `latest_social_draft_factory.json@2026-05-08T12:32:06Z` with source-availability still blocked and scheduler/readback resolved/future-scheduled. No public posting/spend/live publishing.
+
+<!-- ZG-DLOG-2026-05-08-0230-BREAKOUT-WATCH -->
+### 2026-05-08 02:30/02:33 Breakout Watch import-window candidate (superseded by 03:00/03:02 no-candidate)
+- KPI: TikTok `7634027210248097042` remains best/closest at 16810 views / 255 shares / gap 83190 / +0; protected CTA is promo copy only.
+- Signal: zero baseline `2026-05-08T02:30:59.705570+00:00` had no formal breakout, then import/readback `2026-05-08_02-32-30.md` / Imported At `2026-05-08T02:33:23.869965+00:00` plus fresh snapshot `2026-05-08T02:33:48.498672+00:00` produced 5 post-import refresh-window candidates. Primary is onboarding/docs `7635310153126087954` at 8104 views / 64 shares / gap 91896 / +15 (~319.92/hr inflated until next normal baseline).
+- Action: updated compact memory/tasks/Zernio Growth Memory/Open Loops and the existing onboarding/docs amplification task; no duplicate task, public posting, live publishing, spending, generation, or scheduler repair.
+- Scheduler/factory: superseded by 2026-05-08T03:34Z factory readback: exact factory run plus required source-exhaustion retry both returned `draft_count=0`; factory `a97a7703af32` remains enabled/scheduled next `2026-05-08T04:46:09.637346+00:00`, no lingering factory/radar process, no Zernio payload/public posting/spend/generation. Source availability remains the active blocker, not scheduler cadence.
+
+<!-- ZG-DLOG-2026-05-08-0300-BREAKOUT-WATCH -->
+### 2026-05-08 03:00/03:02 Breakout Watch no formal breakout
+- KPI: TikTok `7634027210248097042` remains best/closest at 16810 views / 255 shares / gap 83190 / +0; protected CTA is promo copy only.
+- Signal: normal baseline `2026-05-08T03:00:36.331907+00:00` had no formal breakout; strongest watched mover was onboarding/docs `7635310153126087954` at 8104/64/+15 (~30.39/hr), below threshold. Direct import `2026-05-08T03:02:08.508866+00:00` plus read-only comparison `2026-05-08T03:02:56.713596+00:00` found `mover_count=0` / `watched_post_movers=0`, so no current breakout candidate.
+- Action: synced compact memory/tasks/Zernio Growth Memory/Open Loops to no-current-candidate and no-change verification; no duplicate task, public posting, live publishing, spending, generation, or scheduler repair.
+- Scheduler/factory: factory scheduler remains resolved/current; latest 03:34 exact run plus recovery retry created 0 drafts and kept source availability open. Factory `a97a7703af32` remains enabled/scheduled next `2026-05-08T04:46:09.637346+00:00`; no public posting/live publishing/spend/generation.
+
+<!-- ZG-DLOG-2026-05-08-0330-BREAKOUT-WATCH -->
+### 2026-05-08 03:30/03:32 Breakout Watch post-import refresh-window candidate (superseded by 04:00 breakout-watch/growth-check)
+- KPI: TikTok `7634027210248097042` remains best/closest at 16810 views / 255 shares / gap 83190 / +0; protected CTA is promo copy only.
+- Signal: normal baseline `2026-05-08T03:30:37.407736+00:00` had no formal breakout and confirmed delta=0, then import `2026-05-08_03-32-24.md` / Imported At `2026-05-08T03:32:00.342336+00:00` plus read-only comparison `2026-05-08T03:42:07.085217+00:00` produced 2 refresh-window candidates. Primary by KPI leverage is onboarding/docs `7635310153126087954` at 8114 views / 64 shares / gap 91886 / +10 (~52.2/hr inflated); raw-fastest secondary is Claude app-brief `7633636619869900040` +371 (~1936.56/hr inflated).
+- Action: updated compact memory/tasks/Zernio Growth Memory/Open Loops and the existing onboarding/docs amplification/result-closure task; logged Claude app-brief as secondary watch; no duplicate task, public posting, live publishing, spending, generation, or scheduler repair.
+- Scheduler/factory: import `2026-05-08_03-32-24.md` delivered ok and current 03:30 breakout output is in-flight until delivery. Factory source availability remains open; latest manual verification `latest_social_draft_factory.json@2026-05-08T03:34:06Z`, next `2026-05-08T04:46:09.637346+00:00`.
+<!-- ZG-DLOG-2026-05-08-0000-GROWTH-CHECK -->
+### 2026-05-08 Growth Check no-formal-breakout
+- KPI: TikTok `7634027210248097042` remains best/closest at 16810 views / 255 shares / gap 83190 / +0; protected CTA is promo copy only.
+- Signal: `2026-05-08T00:38:24.212056+00:00` confirmed no formal breakout; import `2026-05-08_00-40-09.md` plus read-only comparison `2026-05-08T00:42:01.067805+00:00` found `mover_count=0` / `watched_post_movers=0`; breakout `2026-05-08_00-40-13.md` and growth `2026-05-08_00-37-22.md` delivered no formal candidate. Onboarding/docs remains watch-only at 8055/63/gap 91945/+0.
+- Action: reconciled readbacks and synced compact memory/tasks/Zernio Growth Memory/Open Loops; no duplicate task, public posting, live publishing, spending, generation, or scheduler repair.
+- Scheduler/factory: Superseded by 2026-05-08T03:34Z factory readback: exact factory run plus required recovery retry both returned `draft_count=0`; factory `a97a7703af32` is enabled/scheduled with next_run_at `2026-05-08T04:46:09.637346+00:00`, no lingering factory/radar process, no Zernio payload/public posting/spend/generation. Source availability remains the active blocker, not scheduler cadence.
+
+<!-- ZG-DLOG-2026-05-08-0038-ISSUE-CHECK -->
+### 2026-05-08 Issue Check scheduler/CTA/source audit
+- Issue status: CTA regression not found with guarded scan; `7634027210248097042` remains ChatGPT productivity evidence. Scheduler issue `zernio_scheduler_0030_import_breakout_readback_watch` resolved by delivered 00:40 import/breakout and 00:37 growth outputs.
+- Fix: removed resolved scheduler issue from active compact issues, marked scheduler task resolved_current_tick, and updated durable state. Source availability remains open: superseded by 2026-05-08T03:34Z factory readback; exact factory run plus required source-exhaustion recovery retry both produced 0 drafts; fresh state `latest_social_draft_factory.json@2026-05-08T03:34:06Z` has `draft_count=0` / `results=[]`. No manifest, no new auto carousel folder, no Airtable Carousel Post, and no Zernio draft were created; Carousel Posts count stayed 170. Diagnosis: Canonical selected 0/98; static evergreen 0/42; AI Words 0/8; KPI backstop 0/8; partial-generation source IDs=30. Cron `a97a7703af32` remains enabled/scheduled in draft-only mode, next `2026-05-08T04:46:09.637346+00:00`; no lingering factory/radar process. Source availability / anti-repetition guard saturation remains the KPI blocker; add or wire fresh non-duplicate practical Thai software-tip source IDs before more paid generation.
+- Prevention: final readback must happen after same-window cron outputs land; keep source replenishment/result closure as gates before any draft generation or public posting.
+
+<!-- ZG-DLOG-2026-05-08-0101-FACTORY-SOURCE-EXHAUSTION -->
+### 2026-05-08 Factory source-exhaustion retry
+- Factory: exact command plus required recovery retry both returned `draft_count=0` / `results=[]`; no manifest, auto folder, Airtable record, or Zernio draft was created.
+- Diagnosis: canonical selected 0/98; evergreen 0/42; AI Words 0/8; KPI backstop 0/8; partial-generation quarantine count 30.
+- Safety/process: no Zernio payload was sent, no `publishNow`/live scheduling/public posting occurred, no lingering factory/radar process remained, and cron `a97a7703af32` stays enabled/draft-only with next `2026-05-08T04:46:09.637346+00:00` per latest 03:34Z factory readback.
+- Next action: wire fresh non-duplicate ChatGPT/NotebookLM-first software-tip source IDs or the staged experiment specs into the selector; do not pause the cron or weaken quality gates.
+
+<!-- ZG-DLOG-2026-05-08-0200-GROWTH-CHECK -->
+### 2026-05-08 Growth Check confirmed onboarding/docs candidate
+- KPI: TikTok `7634027210248097042` remains best/closest at 16810 views / 255 shares / gap 83190 / +0; protected CTA is promo copy only.
+- Signal: `2026-05-08T02:00:03.389686+00:00` confirmed onboarding/docs `7635310153126087954` at 8089 views / 64 shares / gap 91911 / +34 (~68.43/hr). Import `2026-05-08_02-01-33.md` plus read-only comparison `2026-05-08T02:02:13.589615+00:00` found `mover_count=0` / `watched_post_movers=0`, so the confirmed baseline stands.
+- Action: updated existing onboarding/docs amplification/result-closure tasks; no duplicate task, public posting, live publishing, spending, generation, or scheduler repair.
+- Scheduler/factory: Superseded by 2026-05-08T03:34Z factory readback: exact factory run plus required recovery retry returned 0 drafts; factory `a97a7703af32` remains enabled/scheduled next `2026-05-08T04:46:09.637346+00:00`, no lingering factory/radar process, no Zernio payload/public posting/spend/generation. Source availability remains open; scheduler cadence is resolved.
+
+
+<!-- ZG-DLOG-2026-05-08-0200-BREAKOUT-WATCH -->
+### 2026-05-08 Breakout Watch confirmed candidate
+- KPI: best/closest `7634027210248097042` remains 16810 views / 255 shares / gap 83190; protected CTA is promo copy only.
+- Signal: `7635310153126087954` onboarding/docs/document-reading confirmed as formal breakout at 8089 views / 64 shares / gap 91911 / +34 since `2026-05-08T01:30:14.770716+00:00` (~68.44/hr). Import `2026-05-08_02-01-33.md` plus read-only comparison `2026-05-08T02:02:30.424463+00:00` found zero post-baseline movers, preserving the 02:00 baseline.
+- Action: updated compact memory/tasks/Zernio Growth Memory/Open Loops; upgraded the existing onboarding/docs task to draft-only amplification; no duplicate task, public posting, live publishing, spending, generation, or scheduler repair.
+- Scheduler/factory: Superseded by 2026-05-08T03:34Z factory readback: exact factory run plus required recovery retry returned 0 drafts; factory `a97a7703af32` remains enabled/scheduled next `2026-05-08T04:46:09.637346+00:00`, no lingering factory/radar process, no Zernio payload/public posting/live publishing/spend/generation. Source availability remains open; scheduler cadence is resolved.
+
+<!-- ZG-DLOG-2026-05-08-0400-GROWTH-CHECK -->
+### 2026-05-08 04:00 Growth Check confirmed Claude app-brief candidate
+- KPI: TikTok `7634027210248097042` remains best/closest at 16810 views / 255 shares / gap 83190 / +0; protected CTA is promo copy only.
+- Signal: normal baseline `2026-05-08T04:00:21.641888+00:00` confirmed Claude app-brief/mistake-fix `7633636619869900040` at 4219 views / 28 shares / gap 95781 / +371 since `2026-05-08T03:30:37.407736+00:00` (~748.56/hr). Import `2026-05-08_04-03-28.md` / Imported At `2026-05-08T04:02:50.775349+00:00` plus read-only comparison `2026-05-08T04:04:09.637057+00:00` found mover_count=0, preserving the confirmed baseline.
+- Action: promoted Claude app-brief to current formal candidate, demoted onboarding/docs to previous refresh-window context, updated compact memory/tasks/Zernio Growth Memory/Open Loops; no duplicate task, public posting, live publishing, spending, generation, or scheduler repair.
+- Scheduler/factory: Final readback at 2026-05-08T04:13:12Z: import `2026-05-08_04-03-28.md` delivered ok (44 seen; 0 created; 44 updated; freshness fresh), job last `2026-05-08T04:03:28.898715+00:00` next `2026-05-08T04:30:00+00:00`. Breakout latest completed `2026-05-08_03-49-42.md` with job last `2026-05-08T03:49:43.487022+00:00` next `2026-05-08T04:30:00+00:00`. Growth-check output `2026-05-08_04-14-20.md` delivered with job last `2026-05-08T04:14:21.165872+00:00` next `2026-05-08T06:00:00+00:00`. Factory latest `2026-05-08_03-46-09.md` remains enabled/scheduled next `2026-05-08T04:46:09.637346+00:00` with source availability open. No scheduler repair, public posting, live publishing, spend, or generation was triggered.
+
+<!-- ZG-DLOG-2026-05-08-0400-BREAKOUT-WATCH -->
+### 2026-05-08 04:00 Breakout Watch confirmed Claude app-brief candidate
+- KPI: TikTok `7634027210248097042` remains best/closest at 16810 views / 255 shares / gap 83190 / +0; protected CTA is promo copy only.
+- Signal: same-window 04:00 normal baseline `2026-05-08T04:00:21.641888+00:00` confirmed Claude app-brief/mistake-fix `7633636619869900040` at 4219 views / 28 shares / gap 95781 / +371 since `2026-05-08T03:30:37.407736+00:00` (~748.56/hr), reason `high_velocity_since_last_snapshot`. Import `2026-05-08_04-03-28.md` / Imported At `2026-05-08T04:02:50.775349+00:00` plus read-only comparison `2026-05-08T04:04:09.637057+00:00` found mover_count=0, preserving the confirmed baseline.
+- Action: updated current breakout memory/tasks/Zernio Growth Memory while preserving the concurrent growth-check marker; demoted onboarding/docs `7635310153126087954` to previous refresh-window context; no duplicate task, public posting, live publishing, spending, generation, or scheduler repair.
+- Scheduler/factory: Final readback at 2026-05-08T04:16:07Z: import `2026-05-08_04-03-28.md` delivered ok (44 seen; 0 created; 44 updated; freshness fresh), job last `2026-05-08T04:03:28.898715+00:00` next `2026-05-08T04:30:00+00:00`. Latest completed breakout output `2026-05-08_03-49-42.md` with job last `2026-05-08T03:49:43.487022+00:00` next `2026-05-08T04:30:00+00:00`; current 04:00 breakout-watch markdown is in-flight until this report is delivered. Growth-check output `2026-05-08_04-14-20.md` delivered with job last `2026-05-08T04:14:21.165872+00:00` next `2026-05-08T06:00:00+00:00`. Factory latest `2026-05-08_03-46-09.md` remains enabled/scheduled next `2026-05-08T04:46:09.637346+00:00` with source availability open. No scheduler repair, public posting, live publishing, spend, or generation was triggered.
+
+<!-- ZG-DLOG-2026-05-08-0430-BREAKOUT-WATCH -->
+### 2026-05-08 04:30 Breakout Watch post-import ChatGPT candidate (superseded by 05:01 confirmed baseline)
+- KPI: TikTok `7634027210248097042` is best/closest at 18642 views / 288 shares / gap 81358; protected CTA is promo copy only.
+- Signal: 04:30 normal baseline `2026-05-08T04:30:34.517686+00:00` had no formal breakout and confirmed delta=0, then import `2026-05-08_04-32-08.md` / Imported At `2026-05-08T04:32:28.911612+00:00` plus read-only comparison `2026-05-08T04:33:00.663216+00:00` moved ChatGPT productivity to +1832 (~45127.62/hr import-window inflated). Secondary: prompt/context `7637349694355541256` +45 at 65 views; onboarding/docs `7635310153126087954` 8132/64/+18.
+- Action: updated compact memory/tasks/Zernio Growth Memory/Open Loops; updated existing ChatGPT amplification/watch task; no duplicate task, public posting, live publishing, spending, generation, or scheduler repair.
+- Scheduler/factory: Final readback at 2026-05-08T04:38:21Z: import `2026-05-08_04-32-08.md` delivered ok (44 seen; 0 created; 44 updated; freshness fresh), job last `2026-05-08T04:32:08.699536+00:00` next `2026-05-08T05:00:00+00:00`; latest completed breakout `2026-05-08_04-19-00.md` and current 04:30 breakout report remains in-flight until delivery; growth-check `2026-05-08_04-14-20.md` delivered and next `2026-05-08T06:00:00+00:00`; factory `2026-05-08_03-46-09.md` enabled/scheduled next `2026-05-08T04:46:09.637346+00:00` with source availability open. No scheduler repair, public posting, live publishing, spend, or generation was triggered. No matching Zernio import/snapshot/daily-log/factory/radar process at 2026-05-08T04:38:21Z.
+### Next action
+- Close/mark active result loops, resolve source availability with fresh practical software-tip source IDs, keep editorial QA open, and keep factory enabled/draft-only.
+
+<!-- ZG-DLOG-2026-05-08-0450-FACTORY-SOURCE-EXHAUSTION -->
+### 2026-05-08 04:50 Factory source-exhaustion retry
+- Factory: exact command plus required source-exhaustion recovery retry both exited ok but returned `draft_count=0` / `results=[]`; latest state `latest_social_draft_factory.json@2026-05-08T06:01:11Z`.
+- Diagnosis: canonical selected 0/98; evergreen 0/42; AI Words 0/8; KPI backstop 0/8 for 04:00Z; YouTube fallback produced no usable non-duplicate source in the factory run; partial-generation quarantine count 30.
+- Safety/process: no manifest, Airtable record, Zernio draft, `publishNow`, live scheduling, public posting, or spend; no lingering factory process. Cron `a97a7703af32` remains enabled/draft-only with latest output `manual-exact-run+recovery-2026-05-08T06:01Z_current-cron-delivery-pending` and next `2026-05-08T06:57:08.083295+00:00`.
+- Next action: wire fresh non-duplicate ChatGPT/NotebookLM-first software-tip source IDs or the staged experiment specs into the selector; do not pause the cron or weaken quality gates.
+
+<!-- ZG-DLOG-2026-05-08-0501-BREAKOUT-WATCH -->
+### 2026-05-08 05:01 Breakout Watch confirmed ChatGPT productivity candidate
+- KPI: TikTok `7634027210248097042` is best/closest at 18642 views / 288 shares / gap 81358; protected CTA is promo copy only.
+- Signal: normal baseline `2026-05-08T05:01:25.837922+00:00` confirmed +1832 since `2026-05-08T04:30:34.517686+00:00` (~3562.43/hr), promoting the earlier 04:32 import-window movement into formal breakout evidence. Secondary: prompt/context `7637349694355541256` +45 at 65 views; onboarding/docs `7635310153126087954` 8132/64/+18.
+- Action: updated compact memory/tasks/Zernio Growth Memory/Open Loops; updated existing ChatGPT amplification/watch task; no duplicate task, public posting, live publishing, spending, generation, or scheduler repair.
+- Scheduler/factory: Final readback at 2026-05-08T05:11:14Z: import `2026-05-08_05-03-24.md` delivered ok, job last `2026-05-08T05:03:24.652584+00:00` next `2026-05-08T05:30:00+00:00`; latest completed breakout `2026-05-08_04-45-12.md` delivered and current 05:00 breakout report is in-flight until delivery, breakout next `2026-05-08T05:30:00+00:00`; growth `2026-05-08_04-14-20.md` delivered and next `2026-05-08T06:00:00+00:00`; factory `manual-exact-run+recovery-2026-05-08T06:01Z_current-cron-delivery-pending` delivered 0 drafts/source availability open, enabled/scheduled next `2026-05-08T06:57:08.083295+00:00`. Post-baseline import `2026-05-08_05-03-24.md` delivered after the 05:01 baseline (44 seen; 0 created; 44 updated; freshness fresh; Airtable Imported At `2026-05-08T05:02:55.994026+00:00`); read-only comparison at `2026-05-08T05:09:37.300044+00:00` against live `last_snapshot.json` found mover_count=0, so the 05:01 confirmed baseline remains authoritative. No scheduler repair, public posting, live publishing, spend, or generation was triggered. No lingering Zernio import/snapshot/factory process at 2026-05-08T06:03:26Z.
+
+<!-- ZG-DLOG-2026-05-08-0530-BREAKOUT-WATCH -->
+### 2026-05-08 05:30 Breakout Watch no formal breakout (superseded by 06:00 Growth Check direct import)
+- Superseded/current context: the 05:30 zero/no-candidate baseline and late import no-change are historical after the 06:11 direct import and 06:13 snapshot found refresh-window movers. Current evidence lives in `ZG-DLOG-2026-05-08-0600-GROWTH-CHECK`. No public posting/spend/generation.
+
+<!-- ZG-DLOG-2026-05-08-0601-FACTORY-SOURCE-EXHAUSTION -->
+### 2026-05-08 06:01/06:08 Factory source-exhaustion retry
+- Factory: exact command + recovery retry returned `draft_count=0` / `results=[]`; this 06:01/06:08 source-exhaustion evidence is historical and superseded by the 07:12 factory/source readback below. It created no draft, no Airtable Carousel Post, no Zernio Draft ID, no `publishNow`, no public posting/live publishing/spend.
+- Diagnosis: source-lane exhaustion / anti-repetition guard saturation remains active (canonical 0/98, evergreen 0/42, AI Words 0/8, KPI backstop 0/8, YouTube fallback none, partial quarantine 30). Official-source smoke context-openai=3 ok, context-anthropicai=3 ok, context-cursor_ai=3 ok; a_tier_count=0.
+- Cron/process: 06:01/06:08 factory cron was enabled/scheduled and produced no draft; this older process/next-run readback is superseded by the 07:12 factory/source readback below.
+
+<!-- ZG-DLOG-2026-05-08-0600-GROWTH-CHECK -->
+### 2026-05-08 06:00 Growth Check post-import refresh-window candidates (superseded by 06:30 Issue Check)
+- Superseded/current context: 06:09 zero baseline + 06:11/06:13 refresh-window evidence is historical after 06:30 normal baseline confirmed 4 formal candidates. Current evidence lives in `ZG-DLOG-2026-05-08-0630-ISSUE-CHECK`. No public posting/spend/generation.
+
+<!-- ZG-DLOG-2026-05-08-0630-ISSUE-CHECK -->
+### 2026-05-08 06:30 Issue Check confirmed formal candidate + breakout readback watch
+- Issue status: compact memory was stale (`no_formal_breakout_current_baseline_zero_delta_post_import_refresh_window_candidates`) even though pre-run baseline `2026-05-08T06:30:18.594643+00:00` had 4 formal candidates. CTA regression scan remains guarded: `7634027210248097042` is ChatGPT productivity/workflow evidence, not product-photo/10-baht/no-prompt.
+- Fix: patched `zernio_growth_snapshot.py` to promote normal-baseline candidates into compact memory, added regression `test_zernio_growth_snapshot_compact_memory.py`, and synced memory/tasks/Zernio Growth Memory/Open Loops to onboarding/docs `7635310153126087954` 8192/68/+60 as the current formal primary. Post-baseline import `2026-05-08_06-31-46.md` found mover_count=0 at `2026-05-08T06:32:31.130295+00:00`.
+- Scheduler/factory: import `2026-05-08_06-31-46.md` and growth `2026-05-08_06-25-17.md` delivered; older 06:01/06:08 factory source-exhaustion evidence is superseded by the 07:12 factory/source readback below. No public posting/spend/generation.
+<!-- ZG-DLOG-2026-05-08-0630-BREAKOUT-WATCH -->
+### 2026-05-08 06:30 Breakout Watch confirmed onboarding/docs candidate (superseded by 07:30 baseline)
+- KPI: TikTok `7634027210248097042` remains best/closest at 18642 views / 288 shares / gap 81358; protected CTA is promo copy only.
+- Signal: normal baseline `2026-05-08T06:30:18.594643+00:00` confirmed 4 formal breakout candidates. Primary by KPI leverage/share depth is onboarding/docs `7635310153126087954` at 8192 views / 68 shares / gap 91808 / +60 (~169.15/hr). Raw-fastest secondary `7634047103488068871` +80 at 1669 views; newest early `7637349694355541256` +71 at 136 views.
+- Post-baseline import: `2026-05-08_06-31-46.md` refreshed Airtable and read-only comparison found zero movers; 06:30 confirmed baseline remains authoritative.
+- Action: updated compact memory/tasks/Zernio Growth Memory/Open Loops; upgraded the existing onboarding/docs watch to draft-only amplification; no duplicate task, public posting, live publishing, spending, generation, or scheduler repair.
+- Scheduler/factory: 06:44 readback is superseded by the 07:12 factory/source readback below; import/growth had delivered and no scheduler repair/public posting/live publishing/spend/generation was triggered.
+
+<!-- ZG-DLOG-2026-05-08-0712-FACTORY-SOURCE-EXHAUSTION -->
+### 2026-05-08 07:10/07:11 Factory source-exhaustion retry
+- Factory: exact command plus required recovery retry both exited 0 with `status=ok`, `draft_count=0`, `results=[]`; fresh state `latest_social_draft_factory.json@2026-05-08T07:11:58.787797+00:00` (historical; superseded by `latest_social_draft_factory.json@2026-05-08T08:26:16.824869+00:00` after the 08:26 recovery).
+- Diagnosis: source-lane exhaustion / anti-repetition guard saturation remains active: canonical eligible 0/98 (17 existing/partial, 29 content-family repeat, 7 no educational value, 45 not A/B); evergreen 0/42 all existing/partial; AI Words 0/8 (6 existing, 2 family-guarded); KPI backstop 0/8 family-guarded; YouTube fallback no usable non-duplicate source; partial-generation quarantine 30.
+- Safety/process/cron: no new auto folder after 07:09Z, no manifest, no Airtable Carousel Post, no Zernio draft, no `publishNow`, no intentional schedule/live publishing/public posting. `Carousel Posts` count stayed 170. No lingering factory/radar process at 2026-05-08T07:12Z. Cron `a97a7703af32` remains enabled=True/state=scheduled/next=`2026-05-08T08:08:57.856173+00:00`.
+- Next action: wire fresh non-duplicate practical Thai software-tip source IDs into production (ChatGPT Voice sales roleplay, NotebookLM study pack, Perplexity competitor scan first). Do not pause the cron or weaken quality gates.
+<!-- ZG-DLOG-2026-05-08-0730-BREAKOUT-WATCH -->
+### 2026-05-08 07:30 Breakout Watch confirmed onboarding/docs candidate (superseded by 08:34 baseline)
+- Superseded/current context: 07:30 onboarding/docs `7635310153126087954` 8266/69/+74 is previous positive baseline context. Current evidence lives in `ZG-DLOG-2026-05-08-0834-BREAKOUT-WATCH`: 08:34 normal baseline confirmed onboarding/docs at 8298/69/+32, and import `2026-05-08_08-36-42.md` found zero post-baseline movers. No public posting/spend/generation.
+
+### 2026-05-08T15:17Z factory exact run + recovery readback
+- Command: `venv/bin/python scripts/scheduled_ai_social_draft_factory.py --limit 1 --apply --quality low --send-to-zernio` ran, then one required recovery rerun after source-exhaustion diagnosis.
+- Result: both exited ok with `draft_count=0` / `results=[]`; historical 15:17 state is superseded by `latest_social_draft_factory.json@2026-05-08T16:29:44.253223+00:00`; no manifest/Airtable Carousel Post/Zernio draft/payload was created.
+- Diagnosis: source-lane exhaustion / anti-repetition guard saturation — Canonical 0/98 eligible; evergreen 0/42; AI Words 0/8; KPI backstop 0/8; YouTube fallback no usable non-duplicate candidate.
+- Safety/cadence: no publishNow/live scheduling, no Zernio post created; cron `a97a7703af32` remained enabled/scheduled/draft-only; 15:17 cadence details are superseded by the 16:29 factory exact run + recovery entry below.
+
+### 2026-05-08T16:29Z factory exact run + recovery readback
+- Command: `venv/bin/python scripts/scheduled_ai_social_draft_factory.py --limit 1 --apply --quality low --send-to-zernio` ran exactly, then one required recovery rerun after source-exhaustion diagnosis.
+- Result: both exited ok with `draft_count=0` / `results=[]`; fresh state `latest_social_draft_factory.json@2026-05-08T16:29:44.253223+00:00`; no new auto folder after run start, no manifest, no Airtable Carousel Post, no Zernio draft, no media, and no payload/publishNow/scheduledFor was created.
+- Diagnosis: source-lane exhaustion / anti-repetition guard saturation — Canonical 0/98 eligible (12 existing, 30 content-family blocked, 8 no educational value, 48 not A/B); evergreen 0/42 (40 exact existing + 2 partial-generation quarantine); AI Words 0/8 (6 existing + 2 content-family blocked); KPI backstop 0/8; YouTube fallback no usable non-duplicate candidate.
+- Safety/cadence: historical 16:29 factory evidence is superseded by factory output `2026-05-08_16-37-36.md`; cron `a97a7703af32` remains enabled/scheduled/draft-only next `2026-05-08T17:37:37.918925+00:00`; no lingering factory/radar process at 2026-05-08T16:55:20Z. Source availability remains urgent; scheduler/readback is resolved.
+
+<!-- ZG-DLOG-2026-05-08-1637-FACTORY-SOURCE-EXHAUSTION -->
+### 2026-05-08 16:37 Factory source-exhaustion readback
+- Factory: cron output `2026-05-08_16-37-36.md` confirmed exact factory + recovery still produced `draft_count=0` / `results=[]`; state remains `latest_social_draft_factory.json@2026-05-08T16:29:44.253223+00:00`.
+- Diagnosis: source-lane exhaustion / anti-repetition guard saturation remains active (Canonical 0/98, evergreen 0/42, AI Words 0/8, KPI backstop 0/8, YouTube fallback none).
+- Safety/process: no draft/manifest/Airtable Carousel Post/Zernio payload/media, no public posting/spend/live publishing; cron stays enabled/scheduled/draft-only next `2026-05-08T17:37:37.918925+00:00`; No lingering Zernio import/snapshot/factory/radar process at 2026-05-08T16:55:20Z.

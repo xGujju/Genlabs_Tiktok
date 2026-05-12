@@ -1,0 +1,304 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a99ecd5/LXt3tIAF3qXnceOgPrvGC_6eSfYHQj.png",
+    "https://v3b.fal.media/files/b/0a99ecdc/tVDg_iZm0eqDF5v43-z_y_zBJcUCUU.png",
+    "https://v3b.fal.media/files/b/0a99ece3/nXZOKFO-0vM83ayhoGEna_tsRe9OcB.png",
+    "https://v3b.fal.media/files/b/0a99ecea/4lZwAbdJUR5ciMiAgD-sC_TkYCT6sp.png",
+    "https://v3b.fal.media/files/b/0a99ecf0/IDUQPyKxRwINmWZ2ZZb5j_z1Xpc6FE.png",
+    "https://v3b.fal.media/files/b/0a99ecf7/JXCLgFv49Oo27qB_s_RIN_fpCY2zMS.png",
+    "https://v3b.fal.media/files/b/0a99ecfd/s4PMo18pGkw3HnMkxGRlB_x3cvlR9v.png",
+    "https://v3b.fal.media/files/b/0a99ed02/23tM0_vF5QHi5kqwZYJC8_TGryif9s.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 8,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/8 role=hook. Thai copy: HR ใช้ AI ทำ Scorecard สัมภาษณ์ให้เทียบผู้สมัครง่ายขึ้น\nToken • workflow • AI automation • Make. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "HR ใช้ AI ทำ Scorecard สัมภาษณ์ให้เทียบผู้สมัครง่ายขึ้น\nToken • workflow • AI automation • Make",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/8 role=problem. Thai copy: ปัญหา: สัมภาษณ์หลายคนแล้วจำไม่ครบ ถ้าไม่มี rubric ชัด ทีมจะตัดสินจากความรู้สึกมากกว่าหลักฐานของงานจริง. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: สัมภาษณ์หลายคนแล้วจำไม่ครบ ถ้าไม่มี rubric ชัด ทีมจะตัดสินจากความรู้สึกมากกว่าหลักฐานของงานจริง",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/8 role=trend. Thai copy: ทำไมควรสนใจ:\nAI ช่วย HR ได้ดีเมื่อเปลี่ยน JD เป็น competency, คำถามสัมภาษณ์, rubric 1-5 และ red flags ที่ต้องเช็กก่อนตัดสินใจ. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nAI ช่วย HR ได้ดีเมื่อเปลี่ยน JD เป็น competency, คำถามสัมภาษณ์, rubric 1-5 และ red flags ที่ต้องเช็กก่อนตัดสินใจ",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/8 role=tips. Thai copy: ลองใช้แบบนี้:\n1) ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ\n2) ขอ competency สำคัญ 5 ข้อ\n3) ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency\n4) ขอ rubric คะแนน 1-5 พร้อมตัวอย่างคำตอบ. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ\n2) ขอ competency สำคัญ 5 ข้อ\n3) ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency\n4) ขอ rubric คะแนน 1-5 พร้อมตัวอย่างคำตอบ",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/8 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/8 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\n5) เพิ่ม red flags และคำถาม follow-up ก่อนตัดสินใจ. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\n5) เพิ่ม red flags และคำถาม follow-up ก่อนตัดสินใจ",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/8 role=framework. Thai copy: จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ. Visual direction: five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "framework",
+        "thai_copy": "จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ",
+        "visual_direction": "five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat"
+      },
+      {
+        "image_prompt": "Slide 8/8 role=cta. Thai copy: ลองวันนี้:\nวันนี้ลองเอา JD จริง 1 ตำแหน่งมาทำ interview scorecard ก่อนนัดผู้สมัคร. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 8,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้ลองเอา JD จริง 1 ตำแหน่งมาทำ interview scorecard ก่อนนัดผู้สมัคร",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "yt-ir0z_oaG_ao",
+    "source_url": "https://www.youtube.com/watch?v=ir0z_oaG_ao",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://www.youtube.com/watch?v=ir0z_oaG_ao",
+        "Keywords: Token, workflow, AI automation, Make, agent",
+        "This is trending because people can copy the workflow immediately instead of only reading AI news."
+      ],
+      "glossary": {
+        "AI automation": "ระบบอัตโนมัติด้วย AI",
+        "Make": "Make",
+        "Token": "ชิ้นข้อความที่ AI ใช้นับ",
+        "agent": "เอเจนต์ AI",
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "Token",
+        "workflow",
+        "AI automation",
+        "Make",
+        "agent"
+      ],
+      "source_id": "yt-ir0z_oaG_ao",
+      "source_url": "https://www.youtube.com/watch?v=ir0z_oaG_ao",
+      "thai_call_to_action": "วันนี้ลองเอา JD จริง 1 ตำแหน่งมาทำ interview scorecard ก่อนนัดผู้สมัคร",
+      "thai_hook": "HR ใช้ AI ทำ Scorecard สัมภาษณ์ให้เทียบผู้สมัครง่ายขึ้น",
+      "thai_problem": "สัมภาษณ์หลายคนแล้วจำไม่ครบ ถ้าไม่มี rubric ชัด ทีมจะตัดสินจากความรู้สึกมากกว่าหลักฐานของงานจริง",
+      "thai_tips": [
+        "ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ",
+        "ขอ competency สำคัญ 5 ข้อ",
+        "ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency",
+        "ขอ rubric คะแนน 1-5 พร้อมตัวอย่างคำตอบ",
+        "เพิ่ม red flags และคำถาม follow-up ก่อนตัดสินใจ"
+      ],
+      "thai_trend_angle": "AI ช่วย HR ได้ดีเมื่อเปลี่ยน JD เป็น competency, คำถามสัมภาษณ์, rubric 1-5 และ red flags ที่ต้องเช็กก่อนตัดสินใจ"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "Jon Law",
+    "clean_headline": "Top 10 AI Workflows for Small Businesses | GoHighLevel AI Jon Law 30-day free GoHighLevel trial at In this video, I walk through 10 AI workflows you can set up",
+    "clean_summary": "Top 10 AI Workflows for Small Businesses | GoHighLevel AI Jon Law 30-day free GoHighLevel trial at In this video, I walk through 10 AI workflows you can set up ... Transcript: Top 10 AI Workflows for Small Businesses | GoHighLevel AI description&redir_token=REDACTED&q=https%3A%2F%2Fwww.gohighlevel.com%2Fjon-law&v=ir0z_oaG_ao) In this video, I walk through 10 AI workflows you can set up inside GoHigh Level to save time, make more money, and take …...more ...more How this was made Auto-dubbed Audio tracks for some languages were automatically generated. [Learn more]( ## Chapters View all [![Image 8]( #### Intro #### Intro 0:00]( #### [Intro]( 0:00 [![Image 9]( #### Part 2 of the GoHighLevel Series #### Part 2 of the GoHighLevel Series 0:22]( #### [Part 2 of the GoHighLevel Series]( 0:22 [![Image 10]( #### What is GoHighLevel? #### What is GoHighLevel? 0:35]( #### [What is GoHighLevel?]( 0:35 [![Image 11]( #### How to Get a 30-Day Free Trial of GoHigh Level #### How to Get a 30-Day Free Trial of GoHigh Level 1:07]( #### [How to Get a 30-Day Free Trial of GoHigh Level]( 1:07 [![Image 12]( #### AI Workflow #1: Voice AI Agent for Your Business Phone Line #### AI Workflow #1: Voice AI Agent for Your Business Phone Line 1:30]( #### [AI Workflow #1: Voice AI Agent for Your Business Phone Line]( 1:30 [![Image 13]( #### AI Workflow #2: Conversational AI Chatbot for Your Website #### AI Workflow #2: Conversational AI Chatbot for Your Website 3:01]( #### [AI Workflow #2: Conversational AI Chatbot for Your Website]( 3:01 [![Image 14]( #### Setting Up a Knowledge Base for Your AI Agents #### Setting Up a Knowledge Base for Your AI Agents 3:38]( #### [Setting Up a Knowledge Base for Your AI Agents]( 3:38 [![Image 15]( #### AI Workflow #3: AI Funnel & Sales Page Builder #### AI Workflow #3: AI Funnel & Sales Page Builder 4:01]( #### [AI Workflow #3: AI Funnel & Sales Page Builder]( 4:01 Transcript Follow along using the transcript. Show transcript [![Image 16]( ### Jon Law 1.13M subscribers]( [Videos]( 17]( Instagram]( 18]( Tiktok]( Show less []( # Top 10 AI Workflows for Small Businesses | GoHighLevel AI 50,524 views 50K views Apr 24, 2026 324 Share Save Download Download ## 54 Comments Sort comments Sort by [Top Show featured comments]( ## Chapters View all [![Image 8]( #### Intro #### Intro 0:00]( #### [Intro]( 0:00 [![Image 9]( #### Part 2 of the GoHighLevel Series #### Part 2 of the GoHighLevel Series 0:22]( #### [Part 2 of the GoHighLevel Series]( 0:22 [![Image 10]( #### What is GoHighLevel? #### What is GoHighLevel? 0:35]( #### [What is GoHighLevel?]( 0:35 [![Image 11]( #### How to Get a 30-Day Free Trial of GoHigh Level #### How to Get a 30-Day Free Trial of GoHigh Level 1:07]( #### [How to Get a 30-Day Free Trial of GoHigh Level]( 1:07 [![Image 12]( #### AI Workflow #1: Voice AI Agent for Your Business Phone Line #### AI Workflow #1: Voice AI Agent for Your Business Phone Line 1:30]( #### [AI Workflow #1: Voice AI Agent for Your Business Phone Line]( 1:30 [![Image 13]( #### AI Workflow #2: Conversational AI Chatbot for Your Website #### AI Workflow #2: Conversational AI Chatbot for Your Website 3:01]( #### [AI Workflow #2: Conversational AI Chatbot for Your Website]( 3:01 [![Image 14]( #### Setting Up a Knowledge Base for Your AI Agents #### Setting Up a Knowledge Base for Your AI Agents 3:38]( #### [Setting Up a Knowledge Base for Your AI Agents]( 3:38 [![Image 15]( #### AI Workflow #3: AI Funnel & Sales Page Builder #### AI Workflow #3: AI Funnel & Sales Page Builder 4:01]( #### [AI Workflow #3: AI Funnel & Sales Page Builder]( 4:01 Transcript Follow along using the transcript. Show transcript [![Image 16]( ### Jon Law 1.13M subscribers]( [Videos]( 17]( Instagram](",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 50524,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "Token",
+      "workflow",
+      "AI automation",
+      "Make",
+      "agent"
+    ],
+    "original_language": "en",
+    "raw_text": "YouTube title: Top 10 AI Workflows for Small Businesses | GoHighLevel AI\nChannel: Jon Law\nDescription: 30-day free GoHighLevel trial at https://www.gohighlevel.com/jon-law In this video, I walk through 10 AI workflows you can set up ...\nTranscript:\nTitle: Top 10 AI Workflows for Small Businesses | GoHighLevel AI description&redir_token=REDACTED&q=https%3A%2F%2Fwww.gohighlevel.com%2Fjon-law&v=ir0z_oaG_ao) In this video, I walk through 10 AI workflows you can set up inside GoHigh Level to save time, make more money, and take …...more ...more How this was made Auto-dubbed Audio tracks for some languages were automatically generated. [Learn more](https://support.google.com/youtube/answer/15569972?hl=en) ## Chapters View all [![Image 8](https://www.youtube.com/watch?v=ir0z_oaG_ao) #### Intro #### Intro 0:00](https://www.youtube.com/watch?v=ir0z_oaG_ao) #### [Intro](https://www.youtube.com/watch?v=ir0z_oaG_ao) 0:00 [![Image 9](https://www.youtube.com/watch?v=ir0z_oaG_ao) #### Part 2 of the GoHighLevel Series #### Part 2 of the GoHighLevel Series 0:22](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=22s) #### [Part 2 of the GoHighLevel Series](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=22s) 0:22 [![Image 10](https://www.youtube.com/watch?v=ir0z_oaG_ao) #### What is GoHighLevel? #### What is GoHighLevel? 0:35](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=35s) #### [What is GoHighLevel?](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=35s) 0:35 [![Image 11](https://www.youtube.com/watch?v=ir0z_oaG_ao) #### How to Get a 30-Day Free Trial of GoHigh Level #### How to Get a 30-Day Free Trial of GoHigh Level 1:07](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=67s) #### [How to Get a 30-Day Free Trial of GoHigh Level](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=67s) 1:07 [![Image 12](https://www.youtube.com/watch?v=ir0z_oaG_ao) #### AI Workflow #1: Voice AI Agent for Your Business Phone Line #### AI Workflow #1: Voice AI Agent for Your Business Phone Line 1:30](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=90s) #### [AI Workflow #1: Voice AI Agent for Your Business Phone Line](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=90s) 1:30 [![Image 13](https://www.youtube.com/watch?v=ir0z_oaG_ao) #### AI Workflow #2: Conversational AI Chatbot for Your Website #### AI Workflow #2: Conversational AI Chatbot for Your Website 3:01](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=181s) #### [AI Workflow #2: Conversational AI Chatbot for Your Website](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=181s) 3:01 [![Image 14](https://www.youtube.com/watch?v=ir0z_oaG_ao) #### Setting Up a Knowledge Base for Your AI Agents #### Setting Up a Knowledge Base for Your AI Agents 3:38](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=218s) #### [Setting Up a Knowledge Base for Your AI Agents](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=218s) 3:38 [![Image 15](https://www.youtube.com/watch?v=ir0z_oaG_ao) #### AI Workflow #3: AI Funnel & Sales Page Builder #### AI Workflow #3: AI Funnel & Sales Page Builder 4:01](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=241s) #### [AI Workflow #3: AI Funnel & Sales Page Builder](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=241s) 4:01 Transcript Follow along using the transcript. Show transcript [![Image 16](https://www.youtube.com/watch?v=ir0z_oaG_ao) ### Jon Law 1.13M subscribers](https://www.youtube.com/@jonlawedu) [Videos](https://www.youtube.com/channel/UCQM_HxoKmza1simMUchYfVA/videos)[About](https://www.youtube.com/channel/UCQM_HxoKmza1simMUchYfVA/about)[![Image 17](https://www.youtube.com/watch?v=ir0z_oaG_ao) Instagram](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=REDACTED&q=https%3A%2F%2Fwww.instagram.com%2Fjonlawedu)[![Image 18](https://www.youtube.com/watch?v=ir0z_oaG_ao) Tiktok](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=REDACTED&q=https%3A%2F%2Fwww.tiktok.com%2F%401000reps) Show less [](https://www.youtube.com/watch?v=ir0z_oaG_ao) # Top 10 AI Workflows for Small Businesses | GoHighLevel AI 50,524 views 50K views Apr 24, 2026 324 Share Save Download Download ## 54 Comments Sort comments Sort by [Top Show featured comments](https://www.youtube.com/ ## Chapters View all [![Image 8](https://www.youtube.com/watch?v=ir0z_oaG_ao) #### Intro #### Intro 0:00](https://www.youtube.com/watch?v=ir0z_oaG_ao) #### [Intro](https://www.youtube.com/watch?v=ir0z_oaG_ao) 0:00 [![Image 9](https://www.youtube.com/watch?v=ir0z_oaG_ao) #### Part 2 of the GoHighLevel Series #### Part 2 of the GoHighLevel Series 0:22](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=22s) #### [Part 2 of the GoHighLevel Series](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=22s) 0:22 [![Image 10](https://www.youtube.com/watch?v=ir0z_oaG_ao) #### What is GoHighLevel? #### What is GoHighLevel? 0:35](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=35s) #### [What is GoHighLevel?](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=35s) 0:35 [![Image 11](https://www.youtube.com/watch?v=ir0z_oaG_ao) #### How to Get a 30-Day Free Trial of GoHigh Level #### How to Get a 30-Day Free Trial of GoHigh Level 1:07](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=67s) #### [How to Get a 30-Day Free Trial of GoHigh Level](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=67s) 1:07 [![Image 12](https://www.youtube.com/watch?v=ir0z_oaG_ao) #### AI Workflow #1: Voice AI Agent for Your Business Phone Line #### AI Workflow #1: Voice AI Agent for Your Business Phone Line 1:30](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=90s) #### [AI Workflow #1: Voice AI Agent for Your Business Phone Line](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=90s) 1:30 [![Image 13](https://www.youtube.com/watch?v=ir0z_oaG_ao) #### AI Workflow #2: Conversational AI Chatbot for Your Website #### AI Workflow #2: Conversational AI Chatbot for Your Website 3:01](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=181s) #### [AI Workflow #2: Conversational AI Chatbot for Your Website](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=181s) 3:01 [![Image 14](https://www.youtube.com/watch?v=ir0z_oaG_ao) #### Setting Up a Knowledge Base for Your AI Agents #### Setting Up a Knowledge Base for Your AI Agents 3:38](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=218s) #### [Setting Up a Knowledge Base for Your AI Agents](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=218s) 3:38 [![Image 15](https://www.youtube.com/watch?v=ir0z_oaG_ao) #### AI Workflow #3: AI Funnel & Sales Page Builder #### AI Workflow #3: AI Funnel & Sales Page Builder 4:01](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=241s) #### [AI Workflow #3: AI Funnel & Sales Page Builder](https://www.youtube.com/watch?v=ir0z_oaG_ao&t=241s) 4:01 Transcript Follow along using the transcript. Show transcript [![Image 16](https://www.youtube.com/watch?v=ir0z_oaG_ao) ### Jon Law 1.13M subscribers](https://www.youtube.com/@jonlawedu) [Videos](https://www.youtube.com/channel/UCQM_HxoKmza1simMUchYfVA/videos)[About](https://www.youtube.com/channel/UCQM_HxoKmza1simMUchYfVA/about)[![Image 17](https://www.youtube.com/watch?v=ir0z_oaG_ao) Instagram](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=REDACTED",
+    "source_id": "yt-ir0z_oaG_ao",
+    "source_url": "https://www.youtube.com/watch?v=ir0z_oaG_ao",
+    "why_it_matters": "This is trending because people can copy the workflow immediately instead of only reading AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้ลองเอา JD จริง 1 ตำแหน่งมาทำ interview scorecard ก่อนนัดผู้สมัคร",
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=ir0z_oaG_ao",
+      "Keywords: Token, workflow, AI automation, Make, agent",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "hook": "HR ใช้ AI ทำ Scorecard สัมภาษณ์ให้เทียบผู้สมัครง่ายขึ้น",
+    "original_keywords": [
+      "Token",
+      "workflow",
+      "AI automation",
+      "Make",
+      "agent"
+    ],
+    "original_language": "en",
+    "problem": "สัมภาษณ์หลายคนแล้วจำไม่ครบ ถ้าไม่มี rubric ชัด ทีมจะตัดสินจากความรู้สึกมากกว่าหลักฐานของงานจริง",
+    "source_id": "yt-ir0z_oaG_ao",
+    "source_url": "https://www.youtube.com/watch?v=ir0z_oaG_ao",
+    "tips": [
+      "ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ",
+      "ขอ competency สำคัญ 5 ข้อ",
+      "ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency",
+      "ขอ rubric คะแนน 1-5 พร้อมตัวอย่างคำตอบ",
+      "เพิ่ม red flags และคำถาม follow-up ก่อนตัดสินใจ"
+    ],
+    "trend_angle": "AI ช่วย HR ได้ดีเมื่อเปลี่ยน JD เป็น competency, คำถามสัมภาษณ์, rubric 1-5 และ red flags ที่ต้องเช็กก่อนตัดสินใจ"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "LXt3tIAF3qXnceOgPrvGC_6eSfYHQj.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a99ecd5/LXt3tIAF3qXnceOgPrvGC_6eSfYHQj.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260512T145926Z-yt-ir0z_oaG_ao/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "tVDg_iZm0eqDF5v43-z_y_zBJcUCUU.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a99ecdc/tVDg_iZm0eqDF5v43-z_y_zBJcUCUU.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260512T145926Z-yt-ir0z_oaG_ao/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "nXZOKFO-0vM83ayhoGEna_tsRe9OcB.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a99ece3/nXZOKFO-0vM83ayhoGEna_tsRe9OcB.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260512T145926Z-yt-ir0z_oaG_ao/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "4lZwAbdJUR5ciMiAgD-sC_TkYCT6sp.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a99ecea/4lZwAbdJUR5ciMiAgD-sC_TkYCT6sp.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260512T145926Z-yt-ir0z_oaG_ao/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "IDUQPyKxRwINmWZ2ZZb5j_z1Xpc6FE.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a99ecf0/IDUQPyKxRwINmWZ2ZZb5j_z1Xpc6FE.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260512T145926Z-yt-ir0z_oaG_ao/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "JXCLgFv49Oo27qB_s_RIN_fpCY2zMS.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a99ecf7/JXCLgFv49Oo27qB_s_RIN_fpCY2zMS.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260512T145926Z-yt-ir0z_oaG_ao/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "s4PMo18pGkw3HnMkxGRlB_x3cvlR9v.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a99ecfd/s4PMo18pGkw3HnMkxGRlB_x3cvlR9v.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260512T145926Z-yt-ir0z_oaG_ao/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "23tM0_vF5QHi5kqwZYJC8_TGryif9s.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a99ed02/23tM0_vF5QHi5kqwZYJC8_TGryif9s.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260512T145926Z-yt-ir0z_oaG_ao/slide-8.png",
+      "slide_index": 8,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 9,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260512T145926Z-yt-ir0z_oaG_ao/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: สัมภาษณ์หลายคนแล้วจำไม่ครบ ถ้าไม่มี rubric ชัด ทีมจะตัดสินจากความรู้สึกมากกว่าหลักฐานของงานจริง\n\n📌 ทำไมควรเซฟโพสต์นี้: AI ช่วย HR ได้ดีเมื่อเปลี่ยน JD เป็น competency, คำถามสัมภาษณ์, rubric 1-5 และ red flags ที่ต้องเช็กก่อนตัดสินใจ\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ\n\n2) ✨ ขอ competency สำคัญ 5 ข้อ\n\n3) ✨ ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency\n\n4) ✨ ขอ rubric คะแนน 1-5 พร้อมตัวอย่างคำตอบ\n\n🧪 ลองเริ่มวันนี้: วันนี้ลองเอา JD จริง 1 ตำแหน่งมาทำ interview scorecard ก่อนนัดผู้สมัคร\n\n🧭 วิธีใช้กับงานนี้: ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ → ขอ competency สำคัญ 5 ข้อ → ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency\n\n🌱 มือใหม่ให้เริ่มจากเคสจริงเล็ก ๆ ของอุตสาหกรรมนี้ แล้วให้คนในทีมตรวจคำตอบก่อนใช้กับลูกค้าจริง\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเห็นว่า AI ช่วยลดงานซ้ำและทำให้บริการชัดขึ้นได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "HR ใช้ AI ทำ Scorecard สัมภาษณ์ให้เทียบผู้สมัครง่ายขึ้น #AIมือใหม่"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=ir0z_oaG_ao",
+      "Keywords: Token, workflow, AI automation, Make, agent",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "glossary": {
+      "AI automation": "ระบบอัตโนมัติด้วย AI",
+      "Make": "Make",
+      "Token": "ชิ้นข้อความที่ AI ใช้นับ",
+      "agent": "เอเจนต์ AI",
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "Token",
+      "workflow",
+      "AI automation",
+      "Make",
+      "agent"
+    ],
+    "source_id": "yt-ir0z_oaG_ao",
+    "source_url": "https://www.youtube.com/watch?v=ir0z_oaG_ao",
+    "thai_call_to_action": "วันนี้ลองเอา JD จริง 1 ตำแหน่งมาทำ interview scorecard ก่อนนัดผู้สมัคร",
+    "thai_hook": "HR ใช้ AI ทำ Scorecard สัมภาษณ์ให้เทียบผู้สมัครง่ายขึ้น",
+    "thai_problem": "สัมภาษณ์หลายคนแล้วจำไม่ครบ ถ้าไม่มี rubric ชัด ทีมจะตัดสินจากความรู้สึกมากกว่าหลักฐานของงานจริง",
+    "thai_tips": [
+      "ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ",
+      "ขอ competency สำคัญ 5 ข้อ",
+      "ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency",
+      "ขอ rubric คะแนน 1-5 พร้อมตัวอย่างคำตอบ",
+      "เพิ่ม red flags และคำถาม follow-up ก่อนตัดสินใจ"
+    ],
+    "thai_trend_angle": "AI ช่วย HR ได้ดีเมื่อเปลี่ยน JD เป็น competency, คำถามสัมภาษณ์, rubric 1-5 และ red flags ที่ต้องเช็กก่อนตัดสินใจ"
+  }
+}

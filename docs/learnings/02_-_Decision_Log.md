@@ -149,3 +149,13 @@
 - **Consequences:** Manual-batch reconciliation, QA, and source repair run in parallel with enabled production crons. Public publishing remains manual/draft-only safe.
 - **Implementation:** Resumed `a97a7703af32` and `465464d576f2`; patched skills, memory, cron prompt, and source backstop tests at 2026-05-04T13:03:56Z.
 - **Revisit Trigger:** Revisit only if Sway explicitly orders a temporary pause in the current task.
+
+---
+
+## 2026-05-12 — GenLabs software-tip expansion prioritizes ChatGPT and NotebookLM numbered tips
+- **Project:** [[Aion OS/Projects/genlabs-ai-learning-state]]
+- **Decision:** Expand ChatGPT + NotebookLM practical numbered tips first; then test other software only when the carousel can visibly deliver clear numbered actions: Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude, and Zapier/Make.
+- **Why:** Current Thai audience evidence directly supports ChatGPT practical productivity/work-output tips; NotebookLM is a priority controlled experiment because Sway flagged Thailand resonance and document/onboarding workflows are showing demand. Generic tool explainers and news posts are weaker than concrete tip/action carousels.
+- **Consequences:** Every software-tip carousel must account for the promised number of tips in visible Thai slide copy, keep the reusable GenLabs CTA separate, preserve the exact tool/workflow, and pass duplicate/source-topic gates before FAL/Zernio.
+- **Revisit Trigger:** Revisit after ChatGPT and NotebookLM numbered-tip posts have reliable 2h/4h/24h performance entries in Airtable `Performance`/`Experiments`, or if another tool clearly breaks out.
+

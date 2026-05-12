@@ -1,49 +1,41 @@
 # Zernio Growth Memory
 
-Last updated: 2026-05-08T16:55:20Z
+Last updated: 2026-05-12T16:03:25Z
 
-## Current KPI
+## KPI
 - Goal: one TikTok post reaches **100,000 views**.
 - Best post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
-- Current views: 18642
-- Gap: 81358
+- Current views: 23725
+- Gap: 76275
+- CTA guard: post `7634027210248097042` is ChatGPT productivity/workflow evidence; protected GenLabs no-prompt/10-baht/product-photo phrase is CTA copy only.
 
-## Current analytics truth
-- Latest confirmed normal baseline: `2026-05-08T16:38:38.303139+00:00` confirmed **1 formal breakout candidate**.
-- Current formal breakout candidate: `7637507923060526344` — Excel/CSV shop data → AI spreadsheet workflow for sellers — **150 views / 1 share / gap 99850**. Confirmed baseline was 139 views / +70 (~118.28/hr); late import `2026-05-08_16-40-39.md` moved it +11 to 150 views (~91.09/hr import-window inflated).
-- Keep the confirmed baseline fields on `2026-05-08T16:38:38.303139+00:00` until the next >15m baseline; treat the post-import +11 hourly rate as refresh-window evidence.
-- High-share secondary: `7635310153126087954` — Onboarding/docs → 30-day plan / source-grounded staff training from multiple company files — 8403 views / 70 shares / +6 after import. Do not duplicate generation; use it as KPI/share-depth context.
-- Meeting-action secondary: `7635243951582088456` — Meeting notes → owner/deadline/risk action matrix from messy meeting summaries — 2928 views / 26 shares / +5 after import.
-- Best/closest-to-100k watch: ChatGPT productivity `7634027210248097042` remains **18642 views / 288 shares / gap 81358** with 0 post-import movement.
-- CTA guard: post `7634027210248097042` is ChatGPT productivity/workflow evidence; protected GenLabs no-prompt/10-baht product-photo phrase is CTA copy only.
+## Current breakout watch
+- Status: no_formal_breakout_current_baseline_zero_delta
+- Formal breakout count: 0
+- Refresh-window breakout count: 0
+- Latest confirmed snapshot: 2026-05-12T15:30:38.013390+00:00
+- Current reason: 2026-05-12T15:30:38.013390+00:00 normal velocity baseline found no breakout_candidates and no watched-post movement; prior positive movement is watch-only context until a later import/baseline confirms renewed velocity.
+- Previous positive context: `7638630035213044999` — 726 views / 2 shares / +24 (~92.84/hr) at 2026-05-12T14:17:29.588169+00:00; superseded by 14:34 and 15:30 zero-candidate baselines.
+- Best/closest watch: `7634027210248097042` — 23725 views / 351 shares / gap 76275
 
-## Current scheduler / factory truth
-- Import: output `2026-05-08_16-40-39.md` delivered ok, last `2026-05-08T16:40:39.410264+00:00`, next `2026-05-08T17:00:00+00:00`; moving posts Imported At `2026-05-08T16:39:32.115741+00:00`.
-- Breakout: latest completed output `2026-05-08_16-16-44.md`, job last `2026-05-08T16:16:44.544351+00:00`, next `2026-05-08T17:00:00+00:00`; current 16:38 breakout markdown is in-flight until delivery, not a scheduler issue.
-- Growth-check: output `2026-05-08_16-16-59.md` delivered ok, job last `2026-05-08T16:17:00.757113+00:00`, next `2026-05-08T18:00:00+00:00`.
-- Issue-check: output `2026-05-08_13-00-02.md` delivered ok, next `2026-05-08T18:30:00+00:00`.
-- Experiment Creator: output `2026-05-08_12-24-46.md` delivered ok, next `2026-05-09T00:00:00+00:00`; three draft-only specs stay gated.
-- Factory: latest cron output `2026-05-08_16-37-36.md` and state `latest_social_draft_factory.json@2026-05-08T16:29:44.253223+00:00` returned `draft_count=0` / `results_len=0`. Source availability/anti-repetition guard saturation remains active, but cron `a97a7703af32` stays enabled/scheduled/draft-only, next `2026-05-08T17:37:37.918925+00:00`.
-- Process check: No lingering Zernio import/snapshot/factory/radar process at 2026-05-08T16:55:20Z.
+## Scheduler / factory state
+- Scheduler state: open_next_tick_watch_import_breakout_growth_1600_factory_future_current_breakout_in_flight_editorial_qa_open
+- Missing jobs: GenLabs scheduled import 16:00 readback, hermes-breakout-watch 16:00 readback, hermes-growth-check 16:00 readback.
+- Prior import 14:30 watch was resolved by import output `2026-05-12_15-33-31.md`; current watch is only for the post-boundary 16:00 readback.
+- Latest completed breakout output before this in-flight run: 2026-05-12_14-40-13.md / last_run_at 2026-05-12T14:40:14.360249+00:00 / next 2026-05-12T16:00:00+00:00
+- Growth output: 2026-05-12_14-43-10.md / last_run_at 2026-05-12T14:43:11.773544+00:00 / next 2026-05-12T16:00:00+00:00
+- Factory output: 2026-05-12_15-19-09.md / draft `6a03431340f1a7c2a682ec22`; safe review-only, editorial/source-cleaning/anti-duplication QA open; factory next 2026-05-12T16:19:09.860762+00:00 is future.
+- Final process check: 2026-05-12T16:03:25Z; no matching import/snapshot/factory/radar process.
 
 ## Current issues
-- active_experiment_result_closure_overdue_or_blocked — Result closure/backfill still gate safe scaling and near-duplicate software-tip volume.
-- zernio_factory_editorial_source_topic_qa — Future and previous safe drafts still need editorial/source-topic QA before KPI-ready publishing.
-- learning_loop_structured_performance_experiments_backfill_missing — Structured Performance/Experiments backfill is required for accurate learning and stop/continue decisions.
-- zernio_factory_source_availability_active — Hourly educational factory produced zero drafts; source availability remains a KPI blocker.
+- active_experiment_result_closure_overdue_or_blocked: open_result_closure_backfill_gate_confirmed_candidate
+- zernio_factory_editorial_source_topic_qa: open_editorial_qa_safe_review_draft_created
+- learning_loop_structured_performance_experiments_backfill_missing: open_result_closure_backfill_gate_confirmed_candidate
+- zernio_factory_source_availability_exhausted: resolved_current_tick_safe_review_draft_created_editorial_qa_open
+- zernio_analytics_zero_metric_regression_guarded_2026_05_12_1415: guard_patch_applied_views_repaired_watch_next_import
+- zernio_scheduler_readback_watch_1600_import_breakout_growth: open_next_tick_watch_import_breakout_growth_1600_factory_future_current_breakout_in_flight_editorial_qa_open
 
-## Latest useful lessons
-- 16:38 baseline promoted `7637507923060526344` (Excel/CSV shop data → AI spreadsheet workflow for sellers) to the current formal breakout; 16:40 import moved it further, but post-import rate is refresh-window evidence.
-- Keep high-share onboarding/docs `7635310153126087954` as secondary KPI/share context, not the current primary, because the latest normal baseline formal candidate is `7637507923060526344`.
-- CTA guard remains clean: use educational_signal/body; do not classify Sway CTA as hook/topic/winner/weak pattern.
-
-## Latest experiment creator
-- Gate: draft_only_recovery_backlog remains active; do not generate/public-post/spend/live-publish until result-closure/backfill/editorial/source-availability gates clear.
-- Experiments staged: ChatGPT Image/Ad Critique — 7 tips; NotebookLM Client Meeting Prep Pack — 7 tips; CapCut AI Product Video Checklist — 7 tips.
-- Source IDs: `kpi-exp-0508-1200-chatgpt-image-ad-critique`, `kpi-exp-0508-1200-notebooklm-client-meeting-pack`, `kpi-exp-0508-1200-capcut-product-video-checklist`.
-
-## Active experiments / backlog
-- Updated the existing draft-only amplification/watch task for `7637507923060526344`; no duplicate generation.
-- Keep `7635310153126087954` onboarding/docs and `7635243951582088456` meeting-action as secondary/watch-only context.
-- Existing result-closure/backfill/source-availability/editorial QA tasks stay open.
-- No public posting, live publishing, spending, generation, or scheduler repair was triggered.
+## Last 3 useful lessons
+- 2026-05-12T16:03:25Z final breakout-watch readback: 15:30 baseline still has 0 candidates; prior 14:30 import watch resolved, but crossing 16:00 opened one scoped import/breakout/growth next-tick scheduler watch. Factory remains future/current; final user-facing Breakout Watch still uses the exact no-candidate line.
+- 2026-05-12 growth-check: guarded import + 14:17 normal baseline confirmed 2 candidates: primary API/plain-Thai AI Words `7638630035213044999` 726 views / +24 (~92.84/hr), raw fastest prompt-context `7638946989144673544` 391 views / +248 (~959/hr). Patched importer after Zernio zeroed 16 established posts; CTA guard remains clean.
+- 2026-05-12T14:17Z breakout-watch: confirmed formal candidate `7638630035213044999` API/plain-Thai AI Words at 726 views / +24 (~92.84/hr); raw-fastest secondary `7638946989144673544` at 391 / +248 (~959.31/hr). Best/closest remains ChatGPT productivity `7634027210248097042` at 23,725 views / gap 76,275; protected CTA is promo copy only.

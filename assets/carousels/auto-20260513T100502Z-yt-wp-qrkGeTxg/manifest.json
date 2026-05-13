@@ -1,0 +1,307 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a9a07af/ADNAfzslT6lWs9fq_k4-__qfBpdbca.png",
+    "https://v3b.fal.media/files/b/0a9a07b4/QF4uWpudYv7KuSf822P7x_8MRScEL7.png",
+    "https://v3b.fal.media/files/b/0a9a07b9/wAB6IWufak8O5ytOsssQw_3xLzflpx.png",
+    "https://v3b.fal.media/files/b/0a9a07bf/dBeIYPxc9BaHmuk_mVYKs_RhDBpB7p.png",
+    "https://v3b.fal.media/files/b/0a9a07c8/nGPIlPutvUXAh4oPeZU8V_419OXI3M.png",
+    "https://v3b.fal.media/files/b/0a9a07ce/y5QLBLqfcuonEg5mAwWsf_7uRNPyAt.png",
+    "https://v3b.fal.media/files/b/0a9a07d3/FSOZEPZ_cKEAJ96f4qvLP_DZydJ6Uq.png",
+    "https://v3b.fal.media/files/b/0a9a07d8/91ZhItLslK3c1a8AqANWI_GfgfdSJ2.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 8,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/8 role=hook. Thai copy: ธุรกิจเล็กอยากได้ AI ที่ช่วยลูกค้า ไม่ใช่แค่โชว์เท่\nAPI • Token • workflow • AI automation. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "ธุรกิจเล็กอยากได้ AI ที่ช่วยลูกค้า ไม่ใช่แค่โชว์เท่\nAPI • Token • workflow • AI automation",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/8 role=problem. Thai copy: ปัญหา: หลายธุรกิจไม่ได้ต้องการเอเจนต์ซับซ้อน แต่ต้องการลดงานซ้ำ เช่น ตอบแชท คัดกรองลูกค้า สรุปรายงาน. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: หลายธุรกิจไม่ได้ต้องการเอเจนต์ซับซ้อน แต่ต้องการลดงานซ้ำ เช่น ตอบแชท คัดกรองลูกค้า สรุปรายงาน",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/8 role=trend. Thai copy: ทำไมควรสนใจ:\nAI workflow ที่ใช้ได้จริงต้องผูกกับปัญหาธุรกิจ เช่น ลูกค้ารอนาน ฝ่ายขายคัดลีดช้า หรือทีมเสียเวลาสรุปรายงาน. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nAI workflow ที่ใช้ได้จริงต้องผูกกับปัญหาธุรกิจ เช่น ลูกค้ารอนาน ฝ่ายขายคัดลีดช้า หรือทีมเสียเวลาสรุปรายงาน",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/8 role=tips. Thai copy: ลองใช้แบบนี้:\n1) เลือกจุดที่ลูกค้ารอคำตอบนานที่สุด\n2) ทำ FAQ/แชทตอบกลับจากคำถามจริง\n3) ให้ AI ช่วยคัดกรอง lead ก่อนส่งให้คนขาย\n4) สรุปงานหลังบ้านเป็นรายงานสั้นทุกวัน. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) เลือกจุดที่ลูกค้ารอคำตอบนานที่สุด\n2) ทำ FAQ/แชทตอบกลับจากคำถามจริง\n3) ให้ AI ช่วยคัดกรอง lead ก่อนส่งให้คนขาย\n4) สรุปงานหลังบ้านเป็นรายงานสั้นทุกวัน",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/8 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/8 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\nใช้กับ 3 จุดนี้:\n5) แชทลูกค้า: ร่างคำตอบจาก FAQ จริง\n6) ฝ่ายขาย: สรุปลีดที่พร้อมซื้อ\n7) หลังบ้าน: สรุปรายงานประจำวัน. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\nใช้กับ 3 จุดนี้:\n5) แชทลูกค้า: ร่างคำตอบจาก FAQ จริง\n6) ฝ่ายขาย: สรุปลีดที่พร้อมซื้อ\n7) หลังบ้าน: สรุปรายงานประจำวัน",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/8 role=framework. Thai copy: จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ. Visual direction: five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "framework",
+        "thai_copy": "จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ",
+        "visual_direction": "five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat"
+      },
+      {
+        "image_prompt": "Slide 8/8 role=cta. Thai copy: ลองวันนี้:\nวันนี้เลือก 1 จุดที่ลูกค้าหรือทีมรอนาน แล้วออกแบบ AI workflow ลดเวลาตรงนั้น. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 8,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้เลือก 1 จุดที่ลูกค้าหรือทีมรอนาน แล้วออกแบบ AI workflow ลดเวลาตรงนั้น",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "yt-wp-qrkGeTxg",
+    "source_url": "https://www.youtube.com/watch?v=wp-qrkGeTxg",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://www.youtube.com/watch?v=wp-qrkGeTxg",
+        "Keywords: API, Token, workflow, AI automation, n8n, Make",
+        "This is trending because people can copy the workflow immediately instead of only reading AI news."
+      ],
+      "glossary": {
+        "AI automation": "ระบบอัตโนมัติด้วย AI",
+        "API": "ช่องทางให้ระบบคุยกัน",
+        "Make": "Make",
+        "Token": "ชิ้นข้อความที่ AI ใช้นับ",
+        "n8n": "n8n",
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "API",
+        "Token",
+        "workflow",
+        "AI automation",
+        "n8n",
+        "Make"
+      ],
+      "source_id": "yt-wp-qrkGeTxg",
+      "source_url": "https://www.youtube.com/watch?v=wp-qrkGeTxg",
+      "thai_call_to_action": "วันนี้เลือก 1 จุดที่ลูกค้าหรือทีมรอนาน แล้วออกแบบ AI workflow ลดเวลาตรงนั้น",
+      "thai_hook": "ธุรกิจเล็กอยากได้ AI ที่ช่วยลูกค้า ไม่ใช่แค่โชว์เท่",
+      "thai_problem": "หลายธุรกิจไม่ได้ต้องการเอเจนต์ซับซ้อน แต่ต้องการลดงานซ้ำ เช่น ตอบแชท คัดกรองลูกค้า สรุปรายงาน และติดตามงานให้เร็วขึ้น",
+      "thai_tips": [
+        "เลือกจุดที่ลูกค้ารอคำตอบนานที่สุด",
+        "ทำ FAQ/แชทตอบกลับจากคำถามจริง",
+        "ให้ AI ช่วยคัดกรอง lead ก่อนส่งให้คนขาย",
+        "สรุปงานหลังบ้านเป็นรายงานสั้นทุกวัน"
+      ],
+      "thai_trend_angle": "AI workflow ที่ใช้ได้จริงต้องผูกกับปัญหาธุรกิจ เช่น ลูกค้ารอนาน ฝ่ายขายคัดลีดช้า หรือทีมเสียเวลาสรุปรายงาน ไม่ใช่เริ่มจากโชว์เครื่องมือ"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "Automate AI Consulting",
+    "clean_headline": "How to Build a $10k/month AI Automation Business in 2026 Automate AI Consulting AI automation business roadmap to build $10K/month in 2026 — learn how to land c",
+    "clean_summary": "How to Build a $10k/month AI Automation Business in 2026 Automate AI Consulting AI automation business roadmap to build $10K/month in 2026 — learn how to land clients, solve real business problems, and turn ... Transcript: How to Build a $10k/month AI Automation Business in 2026 Description How to Build a $10k/month AI Automation Business in 2026 51 Likes 943 Views Jan 16 2026 AI automation business roadmap to build $10K/month in 2026 — learn how to land clients, solve real business problems, and turn AI automation into a high-income consulting business. 👉 Want to accelerate results? 🔗 Get my free course and land your first (or next) AI client with the 4-week challenge in my free Skool community : [ In this video, I break down The ABSOLUTE BEST Way to Build a $10k/month AI Automation Business in 2026 and the exact 90-day system I used to go from a salaried job to landing $5K–$6K AI automation projects and monthly retainers. You’ll learn: * How to find real business problems people already pay to fix * How to run discovery calls that uncover $10K+ problems * Why free pilot projects help you charge premium prices faster * How to build AI automation solutions that drive revenue (not just cool tech) * How to turn case studies into consistent $10K/month AI consulting income * The exact 90-day roadmap from zero clients to high-ticket AI automation projects This video is perfect for: * AI builders & automation developers * No-code / low-code freelancers (n8n, Zapier, Make) * People stuck building AI tools with no paying clients * Anyone who wants to start or scale an AI consulting business in 2026 🚀 Want help landing your first or next AI client? Join my FREE 4-week AI automation challenge inside my Skool community. You’ll get a free course + direct 1-on-1 access. 👉 Link in the [ 🔔 Subscribe here: [ @AutomateAIConsulting ] 👉 *SUBSCRIBE NOW * ❤️💙💚💛💜💝💖❤️💙💚💛💜💝💖 [#automationbusiness]( ...more Show less Transcript Follow along using the transcript. Show transcript [![Image 72]( ### Automate AI Consulting 14.3K subscribers]( [Videos]( [![Image 73: true]( 10:19 10:19]( I would build a $10k/month AI Automation Business in 90 Days by Automate AI Consulting]( ## Transcript NaN / NaN [![Image 74]( 15:02]( ![Image 75]( ### [You Don't Need to Start a Business. Just Buy One of These.]( David Heacock 1.1M views • 1 month ago [![Image 76]( 14:51]( ![Image 77]( ### [I’ve Built 500 AI Workflows, This is What Businesses Want in 2026]( Nate Herk | AI Automation 189K views • 1 month ago [![Image 78]",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 943,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "API",
+      "Token",
+      "workflow",
+      "AI automation",
+      "n8n",
+      "Make"
+    ],
+    "original_language": "en",
+    "raw_text": "YouTube title: How to Build a $10k/month AI Automation Business in 2026\nChannel: Automate AI Consulting\nDescription: AI automation business roadmap to build $10K/month in 2026 — learn how to land clients, solve real business problems, and turn ...\nTranscript:\nTitle: How to Build a $10k/month AI Automation Business in 2026 Description How to Build a $10k/month AI Automation Business in 2026 51 Likes 943 Views Jan 16 2026 AI automation business roadmap to build $10K/month in 2026 — learn how to land clients, solve real business problems, and turn AI automation into a high-income consulting business. 👉 Want to accelerate results? 🔗 Get my free course and land your first (or next) AI client with the 4-week challenge in my free Skool community : [https://automateAIconsulting.short.gy...](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2FautomateAIconsulting.short.gy%2Fincubator&v=wp-qrkGeTxg) In this video, I break down The ABSOLUTE BEST Way to Build a $10k/month AI Automation Business in 2026 and the exact 90-day system I used to go from a salaried job to landing $5K–$6K AI automation projects and monthly retainers. You’ll learn: * How to find real business problems people already pay to fix * How to run discovery calls that uncover $10K+ problems * Why free pilot projects help you charge premium prices faster * How to build AI automation solutions that drive revenue (not just cool tech) * How to turn case studies into consistent $10K/month AI consulting income * The exact 90-day roadmap from zero clients to high-ticket AI automation projects This video is perfect for: * AI builders & automation developers * No-code / low-code freelancers (n8n, Zapier, Make) * People stuck building AI tools with no paying clients * Anyone who wants to start or scale an AI consulting business in 2026 🚀 Want help landing your first or next AI client? Join my FREE 4-week AI automation challenge inside my Skool community. You’ll get a free course + direct 1-on-1 access. 👉 Link in the description: [https://automateAIconsulting.short.gy...](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2FautomateAIconsulting.short.gy%2Fincubator&v=wp-qrkGeTxg) 🔔 Subscribe here: [ @AutomateAIConsulting ] 👉 *SUBSCRIBE NOW * ❤️💙💚💛💜💝💖❤️💙💚💛💜💝💖 [#automationbusiness](https://www.youtube.com/hashtag/automationbusiness)[#aiautomation](https://www.youtube.com/hashtag/aiautomation)[#aibusiness](https://www.youtube.com/hashtag/aibusiness)[#aiconsulting](https://www.youtube.com/hashtag/aiconsulting)[#aiagency](https://www.youtube.com/hashtag/aiagency)[#nocode](https://www.youtube.com/hashtag/nocode)[#freelancing](https://www.youtube.com/hashtag/freelancing)…...more ...more Show less Transcript Follow along using the transcript. Show transcript [![Image 72](https://www.youtube.com/watch?v=wp-qrkGeTxg) ### Automate AI Consulting 14.3K subscribers](https://www.youtube.com/@AutomateAIConsulting) [Videos](https://www.youtube.com/channel/UCgugjY9T1jv41UcKmaZ5NLQ/videos)[About](https://www.youtube.com/channel/UCgugjY9T1jv41UcKmaZ5NLQ/about) [![Image 73: true](https://www.youtube.com/watch?v=wp-qrkGeTxg) 10:19 10:19](https://www.youtube.com/watch?v=S05nvzNdNJI)[How I would build a $10k/month AI Automation Business in 90 Days by Automate AI Consulting](https://www.youtube.com/watch?v=S05nvzNdNJI) ## Transcript NaN / NaN [![Image 74](https://i.ytimg.com/vi/R61Y0J3HTCY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAL6Xv0CBxBsEZeoEEvVGOj7XypHA) 15:02](https://www.youtube.com/watch?v=R61Y0J3HTCY&pp=0gcJCQQLAYcqIYzv) ![Image 75](https://www.youtube.com/watch?v=wp-qrkGeTxg) ### [You Don't Need to Start a Business. Just Buy One of These.](https://www.youtube.com/watch?v=R61Y0J3HTCY&pp=0gcJCQQLAYcqIYzv) David Heacock 1.1M views • 1 month ago [![Image 76](https://i.ytimg.com/vi/Y3PcRp5RFzk/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDmQg07D78p3kanV1VBYjtjRb4mew) 14:51](https://www.youtube.com/watch?v=Y3PcRp5RFzk&pp=ugUEEgJlbg%3D%3D) ![Image 77](https://www.youtube.com/watch?v=wp-qrkGeTxg) ### [I’ve Built 500 AI Workflows, This is What Businesses Want in 2026](https://www.youtube.com/watch?v=Y3PcRp5RFzk&pp=ugUEEgJlbg%3D%3D) Nate Herk | AI Automation 189K views • 1 month ago [![Image 78]",
+    "source_id": "yt-wp-qrkGeTxg",
+    "source_url": "https://www.youtube.com/watch?v=wp-qrkGeTxg",
+    "why_it_matters": "This is trending because people can copy the workflow immediately instead of only reading AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้เลือก 1 จุดที่ลูกค้าหรือทีมรอนาน แล้วออกแบบ AI workflow ลดเวลาตรงนั้น",
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=wp-qrkGeTxg",
+      "Keywords: API, Token, workflow, AI automation, n8n, Make",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "hook": "ธุรกิจเล็กอยากได้ AI ที่ช่วยลูกค้า ไม่ใช่แค่โชว์เท่",
+    "original_keywords": [
+      "API",
+      "Token",
+      "workflow",
+      "AI automation",
+      "n8n",
+      "Make"
+    ],
+    "original_language": "en",
+    "problem": "หลายธุรกิจไม่ได้ต้องการเอเจนต์ซับซ้อน แต่ต้องการลดงานซ้ำ เช่น ตอบแชท คัดกรองลูกค้า สรุปรายงาน และติดตามงานให้เร็วขึ้น",
+    "source_id": "yt-wp-qrkGeTxg",
+    "source_url": "https://www.youtube.com/watch?v=wp-qrkGeTxg",
+    "tips": [
+      "เลือกจุดที่ลูกค้ารอคำตอบนานที่สุด",
+      "ทำ FAQ/แชทตอบกลับจากคำถามจริง",
+      "ให้ AI ช่วยคัดกรอง lead ก่อนส่งให้คนขาย",
+      "สรุปงานหลังบ้านเป็นรายงานสั้นทุกวัน"
+    ],
+    "trend_angle": "AI workflow ที่ใช้ได้จริงต้องผูกกับปัญหาธุรกิจ เช่น ลูกค้ารอนาน ฝ่ายขายคัดลีดช้า หรือทีมเสียเวลาสรุปรายงาน ไม่ใช่เริ่มจากโชว์เครื่องมือ"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "ADNAfzslT6lWs9fq_k4-__qfBpdbca.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a07af/ADNAfzslT6lWs9fq_k4-__qfBpdbca.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260513T100502Z-yt-wp-qrkGeTxg/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "QF4uWpudYv7KuSf822P7x_8MRScEL7.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a07b4/QF4uWpudYv7KuSf822P7x_8MRScEL7.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260513T100502Z-yt-wp-qrkGeTxg/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "wAB6IWufak8O5ytOsssQw_3xLzflpx.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a07b9/wAB6IWufak8O5ytOsssQw_3xLzflpx.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260513T100502Z-yt-wp-qrkGeTxg/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "dBeIYPxc9BaHmuk_mVYKs_RhDBpB7p.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a07bf/dBeIYPxc9BaHmuk_mVYKs_RhDBpB7p.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260513T100502Z-yt-wp-qrkGeTxg/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "nGPIlPutvUXAh4oPeZU8V_419OXI3M.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a07c8/nGPIlPutvUXAh4oPeZU8V_419OXI3M.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260513T100502Z-yt-wp-qrkGeTxg/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "y5QLBLqfcuonEg5mAwWsf_7uRNPyAt.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a07ce/y5QLBLqfcuonEg5mAwWsf_7uRNPyAt.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260513T100502Z-yt-wp-qrkGeTxg/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "FSOZEPZ_cKEAJ96f4qvLP_DZydJ6Uq.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a07d3/FSOZEPZ_cKEAJ96f4qvLP_DZydJ6Uq.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260513T100502Z-yt-wp-qrkGeTxg/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "91ZhItLslK3c1a8AqANWI_GfgfdSJ2.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a07d8/91ZhItLslK3c1a8AqANWI_GfgfdSJ2.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260513T100502Z-yt-wp-qrkGeTxg/slide-8.png",
+      "slide_index": 8,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 9,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260513T100502Z-yt-wp-qrkGeTxg/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: หลายธุรกิจไม่ได้ต้องการเอเจนต์ซับซ้อน แต่ต้องการลดงานซ้ำ เช่น ตอบแชท คัดกรองลูกค้า สรุปรายงาน และติดตามงานให้เร็วขึ้น\n\n📌 ทำไมควรเซฟโพสต์นี้: AI workflow ที่ใช้ได้จริงต้องผูกกับปัญหาธุรกิจ เช่น ลูกค้ารอนาน ฝ่ายขายคัดลีดช้า หรือทีมเสียเวลาสรุปรายงาน ไม่ใช่เริ่มจากโชว์เครื่องมือ\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ เลือกจุดที่ลูกค้ารอคำตอบนานที่สุด\n\n2) ✨ ทำ FAQ/แชทตอบกลับจากคำถามจริง\n\n3) ✨ ให้ AI ช่วยคัดกรอง lead ก่อนส่งให้คนขาย\n\n4) ✨ สรุปงานหลังบ้านเป็นรายงานสั้นทุกวัน\n\n🧪 ลองเริ่มวันนี้: วันนี้เลือก 1 จุดที่ลูกค้าหรือทีมรอนาน แล้วออกแบบ AI workflow ลดเวลาตรงนั้น\n\n🧭 วิธีใช้กับงานนี้: เลือกจุดที่ลูกค้ารอคำตอบนานที่สุด → ทำ FAQ/แชทตอบกลับจากคำถามจริง → ให้ AI ช่วยคัดกรอง lead ก่อนส่งให้คนขาย\n\n🌱 มือใหม่ให้เริ่มจากเคสจริงเล็ก ๆ ของอุตสาหกรรมนี้ แล้วให้คนในทีมตรวจคำตอบก่อนใช้กับลูกค้าจริง\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเห็นว่า AI ช่วยลดงานซ้ำและทำให้บริการชัดขึ้นได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "ธุรกิจเล็กอยากได้ AI ที่ช่วยลูกค้า ไม่ใช่แค่โชว์เท่ #AIมือใหม่ เอาไปใช้กับงานจริงได้ทันที"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=wp-qrkGeTxg",
+      "Keywords: API, Token, workflow, AI automation, n8n, Make",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "glossary": {
+      "AI automation": "ระบบอัตโนมัติด้วย AI",
+      "API": "ช่องทางให้ระบบคุยกัน",
+      "Make": "Make",
+      "Token": "ชิ้นข้อความที่ AI ใช้นับ",
+      "n8n": "n8n",
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "API",
+      "Token",
+      "workflow",
+      "AI automation",
+      "n8n",
+      "Make"
+    ],
+    "source_id": "yt-wp-qrkGeTxg",
+    "source_url": "https://www.youtube.com/watch?v=wp-qrkGeTxg",
+    "thai_call_to_action": "วันนี้เลือก 1 จุดที่ลูกค้าหรือทีมรอนาน แล้วออกแบบ AI workflow ลดเวลาตรงนั้น",
+    "thai_hook": "ธุรกิจเล็กอยากได้ AI ที่ช่วยลูกค้า ไม่ใช่แค่โชว์เท่",
+    "thai_problem": "หลายธุรกิจไม่ได้ต้องการเอเจนต์ซับซ้อน แต่ต้องการลดงานซ้ำ เช่น ตอบแชท คัดกรองลูกค้า สรุปรายงาน และติดตามงานให้เร็วขึ้น",
+    "thai_tips": [
+      "เลือกจุดที่ลูกค้ารอคำตอบนานที่สุด",
+      "ทำ FAQ/แชทตอบกลับจากคำถามจริง",
+      "ให้ AI ช่วยคัดกรอง lead ก่อนส่งให้คนขาย",
+      "สรุปงานหลังบ้านเป็นรายงานสั้นทุกวัน"
+    ],
+    "thai_trend_angle": "AI workflow ที่ใช้ได้จริงต้องผูกกับปัญหาธุรกิจ เช่น ลูกค้ารอนาน ฝ่ายขายคัดลีดช้า หรือทีมเสียเวลาสรุปรายงาน ไม่ใช่เริ่มจากโชว์เครื่องมือ"
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a9a0f04/SBDRPKOrgvpfyFo458s1v_RtKeyDch.png",
+    "https://v3b.fal.media/files/b/0a9a0f0b/DNi_btlwbHhSws2qlfyGm_WXgWRC3p.png",
+    "https://v3b.fal.media/files/b/0a9a0f10/Qt9ilWHXh276DcMJkkICU_7s1dJDn0.png",
+    "https://v3b.fal.media/files/b/0a9a0f15/VEBiz-OA2xd--S1OhBL5B_jQxpDBFT.png",
+    "https://v3b.fal.media/files/b/0a9a0f1a/-eLncEYEFGA_yKy5iVyjQ_zBC3Bvyk.png",
+    "https://v3b.fal.media/files/b/0a9a0f1f/DpGzxmBEHW-NDgRldYXTC_s6e9A5kF.png",
+    "https://v3b.fal.media/files/b/0a9a0f27/mncuqjEFb2BGHUX26r5kC_7xjHmSjT.png",
+    "https://v3b.fal.media/files/b/0a9a0f2c/JvoqM8hEAh5p3XWJT1ZEk_VXAbG6nM.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 8,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/8 role=hook. Thai copy: ทำ Custom GPT ให้แอดมินตอบลูกค้าไม่หลุดกฎร้าน\nAPI • Context • Custom GPT • workflow. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "ทำ Custom GPT ให้แอดมินตอบลูกค้าไม่หลุดกฎร้าน\nAPI • Context • Custom GPT • workflow",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/8 role=problem. Thai copy: ปัญหา: แอดมินตอบลูกค้าเร็วขึ้นได้ แต่ถ้าไม่มี FAQ กฎคืนสินค้า และข้อห้าม AI อาจตอบมั่วหรือสัญญาเกินจริง. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: แอดมินตอบลูกค้าเร็วขึ้นได้ แต่ถ้าไม่มี FAQ กฎคืนสินค้า และข้อห้าม AI อาจตอบมั่วหรือสัญญาเกินจริง",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/8 role=trend. Thai copy: ทำไมควรสนใจ:\nCustom GPT ใช้ได้จริงเมื่อมี instruction ชัด: ตอบอะไรได้ ต้องถามอะไรเพิ่ม และเรื่องไหนต้องส่งต่อให้คน. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nCustom GPT ใช้ได้จริงเมื่อมี instruction ชัด: ตอบอะไรได้ ต้องถามอะไรเพิ่ม และเรื่องไหนต้องส่งต่อให้คน",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/8 role=tips. Thai copy: ลองใช้แบบนี้:\n1) ใส่ FAQ ราคา เงื่อนไขส่งของ คืนสินค้า และ tone ร้าน\n2) กำหนดช่องคำตอบ: ตอบสั้น / ต้องถามเพิ่ม / ห้ามสัญญา\n3) ใส่ตัวอย่างคำถามจริงจาก LINE OA\n4) ให้ GPT flag เคส refund โกรธมาก หรือข้อมูลไม่พอ. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) ใส่ FAQ ราคา เงื่อนไขส่งของ คืนสินค้า และ tone ร้าน\n2) กำหนดช่องคำตอบ: ตอบสั้น / ต้องถามเพิ่ม / ห้ามสัญญา\n3) ใส่ตัวอย่างคำถามจริงจาก LINE OA\n4) ให้ GPT flag เคส refund โกรธมาก หรือข้อมูลไม่พอ",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/8 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/8 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\n5) ทดสอบด้วยคำถามยาก 10 ข้อก่อนให้ทีมใช้. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\n5) ทดสอบด้วยคำถามยาก 10 ข้อก่อนให้ทีมใช้",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/8 role=framework. Thai copy: จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ. Visual direction: five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "framework",
+        "thai_copy": "จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ",
+        "visual_direction": "five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat"
+      },
+      {
+        "image_prompt": "Slide 8/8 role=cta. Thai copy: ลองวันนี้:\nวันนี้รวบรวมคำถามซ้ำ 20 ข้อ แล้วสร้าง instruction แอดมิน AI เวอร์ชันแรก. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 8,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้รวบรวมคำถามซ้ำ 20 ข้อ แล้วสร้าง instruction แอดมิน AI เวอร์ชันแรก",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "yt-T9w8oNBJbvg",
+    "source_url": "https://www.youtube.com/watch?v=T9w8oNBJbvg",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://www.youtube.com/watch?v=T9w8oNBJbvg",
+        "Keywords: API, Context, Custom GPT, workflow, prompt, AI automation, Make",
+        "This is trending because people can copy the workflow immediately instead of only reading AI news."
+      ],
+      "glossary": {
+        "AI automation": "ระบบอัตโนมัติด้วย AI",
+        "API": "ช่องทางให้ระบบคุยกัน",
+        "Context": "บริบท",
+        "Custom GPT": "Custom GPT",
+        "Make": "Make",
+        "prompt": "พรอมป์ต์",
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "API",
+        "Context",
+        "Custom GPT",
+        "workflow",
+        "prompt",
+        "AI automation",
+        "Make"
+      ],
+      "source_id": "yt-T9w8oNBJbvg",
+      "source_url": "https://www.youtube.com/watch?v=T9w8oNBJbvg",
+      "thai_call_to_action": "วันนี้รวบรวมคำถามซ้ำ 20 ข้อ แล้วสร้าง instruction แอดมิน AI เวอร์ชันแรก",
+      "thai_hook": "ทำ Custom GPT ให้แอดมินตอบลูกค้าไม่หลุดกฎร้าน",
+      "thai_problem": "แอดมินตอบลูกค้าเร็วขึ้นได้ แต่ถ้าไม่มี FAQ กฎคืนสินค้า และข้อห้าม AI อาจตอบมั่วหรือสัญญาเกินจริง",
+      "thai_tips": [
+        "ใส่ FAQ ราคา เงื่อนไขส่งของ คืนสินค้า และ tone ร้าน",
+        "กำหนดช่องคำตอบ: ตอบสั้น / ต้องถามเพิ่ม / ห้ามสัญญา",
+        "ใส่ตัวอย่างคำถามจริงจาก LINE OA",
+        "ให้ GPT flag เคส refund โกรธมาก หรือข้อมูลไม่พอ",
+        "ทดสอบด้วยคำถามยาก 10 ข้อก่อนให้ทีมใช้"
+      ],
+      "thai_trend_angle": "Custom GPT ใช้ได้จริงเมื่อมี instruction ชัด: ตอบอะไรได้ ต้องถามอะไรเพิ่ม และเรื่องไหนต้องส่งต่อให้คน"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "W3 Notes",
+    "clean_headline": "Make Money with ChatGPT W3 Notes Want to learn how to make money with AI using ChatGPT?",
+    "clean_summary": "Make Money with ChatGPT W3 Notes Want to learn how to make money with AI using ChatGPT? In this complete beginner-to-advanced tutorial, we explore how ... Transcript: Hey everyone and welcome. I am absolutely thrilled to be your digital business mentor today for this explainer. We're looking at a topic that is quite literally rewriting the rules of how people live and work all over the world. How to make money with chat GPT. My goal for you today is actually pretty simple. I want to help you transition from just having this passive curiosity, you know, just playing around with AI for fun to actively earning in this new digital economy. We're going to look at exactly how complete beginners and aspiring entrepreneurs are using this incredible tool right now to scale their learning, massive boost their productivity, and ultimately grow their income. Okay, let's dive into this. Here's our road map for today. We're going to cover one, the new AI economy, two, mastering the perfect prompt, three, proven ways to earn, four, passive income and automation, and finally, five, ethics, limits, and future. All right, let's jump right into section one, the new AI economy. Listen, the absolute most important mindset shift you need to make right now is realizing that AI is no longer just a novelty. It's not just some fun chatbot you use to ask silly questions anymore. It is the new global infrastructure for business. To put that into perspective, OpenAI's flagship model now has over 300 million weekly active users. That is mind-blowing. But here's the critical insight for us. The users who are just satisfying their curiosity, they're being quietly overtaken by early adopters who are actively getting paid. From college students to retired professionals, people worldwide are realizing that the gap between simply having a chat GPT account and generating an income is way narrower than anyone expected. Businesses have totally moved past the skepticism phase and they're actively out there looking for freelancers and agencies that know how to use AI. And this brilliantly illustrates a common fear we need to address right out of the gate. You might be sitting there worried that chatbt is here to take your job. But just like calculators didn't replace accountants, they just made them way more efficient, chatbt is not here to replace you. It's here to amplify your existing skills and completely scale your output. The people earning the most money right now aren't just typing random things into a machine. They're combining the lightning speed of AI output with their own genuine knowledge and expertise. Basically, you want to think of Chat GBT as your 24/7 digital assistant, writer, marketer, and business helper all rolled into one. Moving on to section two, mastering the perfect prompt. So, how do we actually get the machine to work for us? Well, the literal difference between just having a free chat GPT account and actually making money comes down entirely to how you communicate with it. Simply put, a prompt is just the instruction you give to the AI. That's it. But better instructions equal vastly superior results. If you speak to it like a basic Google search, you're going to get basic generic answers. But if you treat it like a highly intelligent employee who needs clear context, procedures, and goals, the output will completely transform your business. Let's look at this comparison. A weak prompt is vague, like write about business. The AI essentially has to guess your audience, your tone, your format. It's a shot in the dark, but a strong prompt gives it a clear identity in parameters. For example, act like an expert SEO copywriter and write a 1,000word article for beginners on starting a remote business. Do you see the difference there? Adding that specific role in context transforms the AI from a basic bot into a highle professional assistant that is tailored exactly to what you need. Whether you're doing simple everyday tasks or building complex custom GPT models, the framework is always the same. First, assign a role. Tell it who to be. like act as an expert sales manager. Second, give it a very specific goal. Third, provide procedures. Literally, tell it how to do the job step by step. And fourth, set constraints. Tell it what not to do or exactly how long the output should be. This four-step framework right here, this is exactly how the pros get reliable, professional-grade results every single time. Okay, here is a fantastic insider tip for your day-to-day workflow. When you're providing context, frontload the data directly into the prompt instead of attaching a bunch of separate documents. Why? Because the AI can actually start to deviate and give you kind of wonky responses when it gets confused juggling different reference files. It's much better to keep your instructions centralized. Oh, and it's also highly recommended to build a reference library of your absolute best prompts. That way, you don't have to reinvent the wheel every time you sit down at your computer to work. Huge timesaver. Let's move to section three and see how this builds into proven ways to earn. All right, we are stepping out of theory now and getting into the real world methods people are using to generate income today. These are active services you can start offering almost immediately. Freelance writing and SEO copywriting for instance offer a massive opportunity right now. Businesses constantly need blogs and product descriptions and you can realistically charge $50 to $200 per article. Now imagine using chat GBT to do all the heavy lifting for your research in your first drafts. Instead of struggling to write one article a day, you can comfortably finish three to 10 articles. The math gets incredibly compelling very quickly. You can also package resumes and cover letters for job seekers for $200 to $400. You can manage a month's worth of social media for a client in just an hour or two or even offer pure AI consulting to local businesses at $50 to $200 an hour. But here is the real secret sauce to all of those services we just talked about. the human plus AI formula. You come up with the idea, you use the AI to generate a rapid draft, but step three, step three is where your actual value lies, the human edit. You absolutely must spend 20 to 30 minutes editing that AI draft for clarity, for the specific brand voice, and for that natural human tone. Clients are paying you for the polished, fact-checked final product. They are not paying for raw AI output that workflow idea AI draft human edit and then income that is the core engine of the modern digital freelancer. Section four passive income and automation. So once you've mastered those active services, it's time to scale up and build business models that don't force you to trade your time directly for money. I want to share a fascinating case study that proves just how wild this new economy really is. There was this web developer on Reddit who noticed people were selling bundles of chat GPT prompts. Now, instead of thinking, who on earth would buy that, he realized the market demand was already there. So, he built a slightly better product, a beautifully curated bundle of 10,000 prompts with a simple, easy to use interface. He marketed on Medium and Reddit, and he made over $14,000. Literally $14,16. He didn't build some massive complicated software company. He just packaged digital convenience. And packaging convenience is exactly what these highdemand niches are all about. You can sell custom prompts on marketplaces like Prompt Base. You could run automated faceless YouTube channels where ChatGpt helps write your scripts and your video outlines. You can build affiliate marketing websites packed with AI assisted SEO reviews. Or if you're looking for higher ticket income, you can start an AI automation agency. That's where you actually go into traditional brickandmortar businesses and help them implement AI into their old outdated workflows. Now, what's really interesting about this slide is the sheer scale of the opportunity here. The global e-learning market is projected to surpass $1 trillion. Trillion with a T. If you have expertise in literally anything, marketing, fitness, coding, you name it, you can use ChateBT to instantly brainstorm course topics, outline a comprehensive 10 module curriculum, and draft every single video script and quiz for you. AI dramatically reduces the time it takes to build a digital product. It's a real game changer because it allows you to launch and start selling to a global audience so much faster. Which brings us to our final section. Section five, ethics, limits, and future. As exciting as all this income potential is, if you want to build a sustainable business and maintain professional trust with your clients, we have to take a realistic and honest look at the boundaries of AI. And this brings up a major question in the industry right now. Who actually owns the intellectual property of AI generated content? Is it the person who wrote the prompt? Is it the AI platform itself? Or is the AI somehow considered an autonomous creator? Honestly, the legal landscape is incredibly complex right now and it varies heavily across different jurisdictions. This is exactly why that human edit step we discussed earlier is so vital. Adding your own unique perspective, your voice, and your expertise helps ensure the final product is distinctively yours. You also absolutely must avoid these common pitfalls if you want to succeed long term. First off, do not treat Chat GPT like a magic ATM that just prints money with zero effort. It doesn't work like that. Never submit generic unedited work to a client. Trust me, they will notice. You also have to remember that AI hallucinates. It can confidently make up facts and its data might be totally outdated. Always, always fact check. And finally, don't ignore your own personal skill development. Remember, AI is an accelerator. It is not a substitute for your own professional growth. So, the crucial point here is summarized perfectly by researchers from Stanford, MIT, and Wharton. They concluded AI replaces tasks, not professions. Freelancers and businesses who use AI will simply outperform and out compete those who don't. It's that simple. Your human empathy, your strategic thinking, and your ability to truly understand a client's core problem, those are skills that a language model simply cannot replicate. Which leaves us with one final incredibly important question to think about. Will you be the one replaced by AI? Or will you be the one who masters it to improve your life, your business, and your income today? The opportunity is literally sitting right in front of you, accessible to anyone with an internet connection. So don't just sit on the sidelines as a curious user. Start experimenting, build your workflows, and step confidently into this new AI economy. Thank you so much for joining me for this explainer. Now get out there and start building.",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "API",
+      "Context",
+      "Custom GPT",
+      "workflow",
+      "prompt",
+      "AI automation",
+      "Make"
+    ],
+    "original_language": "en",
+    "raw_text": "YouTube title: Make Money with ChatGPT\nChannel: W3 Notes\nDescription: Want to learn how to make money with AI using ChatGPT? In this complete beginner-to-advanced tutorial, we explore how ...\nTranscript:\nHey everyone and welcome. I am absolutely thrilled to be your digital business mentor today for this explainer. We're looking at a topic that is quite literally rewriting the rules of how people live and work all over the world. How to make money with chat GPT. My goal for you today is actually pretty simple. I want to help you transition from just having this passive curiosity, you know, just playing around with AI for fun to actively earning in this new digital economy. We're going to look at exactly how complete beginners and aspiring entrepreneurs are using this incredible tool right now to scale their learning, massive boost their productivity, and ultimately grow their income. Okay, let's dive into this. Here's our road map for today. We're going to cover one, the new AI economy, two, mastering the perfect prompt, three, proven ways to earn, four, passive income and automation, and finally, five, ethics, limits, and future. All right, let's jump right into section one, the new AI economy. Listen, the absolute most important mindset shift you need to make right now is realizing that AI is no longer just a novelty. It's not just some fun chatbot you use to ask silly questions anymore. It is the new global infrastructure for business. To put that into perspective, OpenAI's flagship model now has over 300 million weekly active users. That is mind-blowing. But here's the critical insight for us. The users who are just satisfying their curiosity, they're being quietly overtaken by early adopters who are actively getting paid. From college students to retired professionals, people worldwide are realizing that the gap between simply having a chat GPT account and generating an income is way narrower than anyone expected. Businesses have totally moved past the skepticism phase and they're actively out there looking for freelancers and agencies that know how to use AI. And this brilliantly illustrates a common fear we need to address right out of the gate. You might be sitting there worried that chatbt is here to take your job. But just like calculators didn't replace accountants, they just made them way more efficient, chatbt is not here to replace you. It's here to amplify your existing skills and completely scale your output. The people earning the most money right now aren't just typing random things into a machine. They're combining the lightning speed of AI output with their own genuine knowledge and expertise. Basically, you want to think of Chat GBT as your 24/7 digital assistant, writer, marketer, and business helper all rolled into one. Moving on to section two, mastering the perfect prompt. So, how do we actually get the machine to work for us? Well, the literal difference between just having a free chat GPT account and actually making money comes down entirely to how you communicate with it. Simply put, a prompt is just the instruction you give to the AI. That's it. But better instructions equal vastly superior results. If you speak to it like a basic Google search, you're going to get basic generic answers. But if you treat it like a highly intelligent employee who needs clear context, procedures, and goals, the output will completely transform your business. Let's look at this comparison. A weak prompt is vague, like write about business. The AI essentially has to guess your audience, your tone, your format. It's a shot in the dark, but a strong prompt gives it a clear identity in parameters. For example, act like an expert SEO copywriter and write a 1,000word article for beginners on starting a remote business. Do you see the difference there? Adding that specific role in context transforms the AI from a basic bot into a highle professional assistant that is tailored exactly to what you need. Whether you're doing simple everyday tasks or building complex custom GPT models, the framework is always the same. First, assign a role. Tell it who to be. like act as an expert sales manager. Second, give it a very specific goal. Third, provide procedures. Literally, tell it how to do the job step by step. And fourth, set constraints. Tell it what not to do or exactly how long the output should be. This four-step framework right here, this is exactly how the pros get reliable, professional-grade results every single time. Okay, here is a fantastic insider tip for your day-to-day workflow. When you're providing context, frontload the data directly into the prompt instead of attaching a bunch of separate documents. Why? Because the AI can actually start to deviate and give you kind of wonky responses when it gets confused juggling different reference files. It's much better to keep your instructions centralized. Oh, and it's also highly recommended to build a reference library of your absolute best prompts. That way, you don't have to reinvent the wheel every time you sit down at your computer to work. Huge timesaver. Let's move to section three and see how this builds into proven ways to earn. All right, we are stepping out of theory now and getting into the real world methods people are using to generate income today. These are active services you can start offering almost immediately. Freelance writing and SEO copywriting for instance offer a massive opportunity right now. Businesses constantly need blogs and product descriptions and you can realistically charge $50 to $200 per article. Now imagine using chat GBT to do all the heavy lifting for your research in your first drafts. Instead of struggling to write one article a day, you can comfortably finish three to 10 articles. The math gets incredibly compelling very quickly. You can also package resumes and cover letters for job seekers for $200 to $400. You can manage a month's worth of social media for a client in just an hour or two or even offer pure AI consulting to local businesses at $50 to $200 an hour. But here is the real secret sauce to all of those services we just talked about. the human plus AI formula. You come up with the idea, you use the AI to generate a rapid draft, but step three, step three is where your actual value lies, the human edit. You absolutely must spend 20 to 30 minutes editing that AI draft for clarity, for the specific brand voice, and for that natural human tone. Clients are paying you for the polished, fact-checked final product. They are not paying for raw AI output that workflow idea AI draft human edit and then income that is the core engine of the modern digital freelancer. Section four passive income and automation. So once you've mastered those active services, it's time to scale up and build business models that don't force you to trade your time directly for money. I want to share a fascinating case study that proves just how wild this new economy really is. There was this web developer on Reddit who noticed people were selling bundles of chat GPT prompts. Now, instead of thinking, who on earth would buy that, he realized the market demand was already there. So, he built a slightly better product, a beautifully curated bundle of 10,000 prompts with a simple, easy to use interface. He marketed on Medium and Reddit, and he made over $14,000. Literally $14,16. He didn't build some massive complicated software company. He just packaged digital convenience. And packaging convenience is exactly what these highdemand niches are all about. You can sell custom prompts on marketplaces like Prompt Base. You could run automated faceless YouTube channels where ChatGpt helps write your scripts and your video outlines. You can build affiliate marketing websites packed with AI assisted SEO reviews. Or if you're looking for higher ticket income, you can start an AI automation agency. That's where you actually go into traditional brickandmortar businesses and help them implement AI into their old outdated workflows. Now, what's really interesting about this slide is the sheer scale of the opportunity here. The global e-learning market is projected to surpass $1 trillion. Trillion with a T. If you have expertise in literally anything, marketing, fitness, coding, you name it, you can use ChateBT to instantly brainstorm course topics, outline a comprehensive 10 module curriculum, and draft every single video script and quiz for you. AI dramatically reduces the time it takes to build a digital product. It's a real game changer because it allows you to launch and start selling to a global audience so much faster. Which brings us to our final section. Section five, ethics, limits, and future. As exciting as all this income potential is, if you want to build a sustainable business and maintain professional trust with your clients, we have to take a realistic and honest look at the boundaries of AI. And this brings up a major question in the industry right now. Who actually owns the intellectual property of AI generated content? Is it the person who wrote the prompt? Is it the AI platform itself? Or is the AI somehow considered an autonomous creator? Honestly, the legal landscape is incredibly complex right now and it varies heavily across different jurisdictions. This is exactly why that human edit step we discussed earlier is so vital. Adding your own unique perspective, your voice, and your expertise helps ensure the final product is distinctively yours. You also absolutely must avoid these common pitfalls if you want to succeed long term. First off, do not treat Chat GPT like a magic ATM that just prints money with zero effort. It doesn't work like that. Never submit generic unedited work to a client. Trust me, they will notice. You also have to remember that AI hallucinates. It can confidently make up facts and its data might be totally outdated. Always, always fact check. And finally, don't ignore your own personal skill development. Remember, AI is an accelerator. It is not a substitute for your own professional growth. So, the crucial point here is summarized perfectly by researchers from Stanford, MIT, and Wharton. They concluded AI replaces tasks, not professions. Freelancers and businesses who use AI will simply outperform and out compete those who don't. It's that simple. Your human empathy, your strategic thinking, and your ability to truly understand a client's core problem, those are skills that a language model simply cannot replicate. Which leaves us with one final incredibly important question to think about. Will you be the one replaced by AI? Or will you be the one who masters it to improve your life, your business, and your income today? The opportunity is literally sitting right in front of you, accessible to anyone with an internet connection. So don't just sit on the sidelines as a curious user. Start experimenting, build your workflows, and step confidently into this new AI economy. Thank you so much for joining me for this explainer. Now get out there and start building.",
+    "source_id": "yt-T9w8oNBJbvg",
+    "source_url": "https://www.youtube.com/watch?v=T9w8oNBJbvg",
+    "why_it_matters": "This is trending because people can copy the workflow immediately instead of only reading AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้รวบรวมคำถามซ้ำ 20 ข้อ แล้วสร้าง instruction แอดมิน AI เวอร์ชันแรก",
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=T9w8oNBJbvg",
+      "Keywords: API, Context, Custom GPT, workflow, prompt, AI automation, Make",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "hook": "ทำ Custom GPT ให้แอดมินตอบลูกค้าไม่หลุดกฎร้าน",
+    "original_keywords": [
+      "API",
+      "Context",
+      "Custom GPT",
+      "workflow",
+      "prompt",
+      "AI automation",
+      "Make"
+    ],
+    "original_language": "en",
+    "problem": "แอดมินตอบลูกค้าเร็วขึ้นได้ แต่ถ้าไม่มี FAQ กฎคืนสินค้า และข้อห้าม AI อาจตอบมั่วหรือสัญญาเกินจริง",
+    "source_id": "yt-T9w8oNBJbvg",
+    "source_url": "https://www.youtube.com/watch?v=T9w8oNBJbvg",
+    "tips": [
+      "ใส่ FAQ ราคา เงื่อนไขส่งของ คืนสินค้า และ tone ร้าน",
+      "กำหนดช่องคำตอบ: ตอบสั้น / ต้องถามเพิ่ม / ห้ามสัญญา",
+      "ใส่ตัวอย่างคำถามจริงจาก LINE OA",
+      "ให้ GPT flag เคส refund โกรธมาก หรือข้อมูลไม่พอ",
+      "ทดสอบด้วยคำถามยาก 10 ข้อก่อนให้ทีมใช้"
+    ],
+    "trend_angle": "Custom GPT ใช้ได้จริงเมื่อมี instruction ชัด: ตอบอะไรได้ ต้องถามอะไรเพิ่ม และเรื่องไหนต้องส่งต่อให้คน"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "SBDRPKOrgvpfyFo458s1v_RtKeyDch.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a0f04/SBDRPKOrgvpfyFo458s1v_RtKeyDch.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260513T151750Z-yt-T9w8oNBJbvg/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "DNi_btlwbHhSws2qlfyGm_WXgWRC3p.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a0f0b/DNi_btlwbHhSws2qlfyGm_WXgWRC3p.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260513T151750Z-yt-T9w8oNBJbvg/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "Qt9ilWHXh276DcMJkkICU_7s1dJDn0.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a0f10/Qt9ilWHXh276DcMJkkICU_7s1dJDn0.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260513T151750Z-yt-T9w8oNBJbvg/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "VEBiz-OA2xd--S1OhBL5B_jQxpDBFT.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a0f15/VEBiz-OA2xd--S1OhBL5B_jQxpDBFT.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260513T151750Z-yt-T9w8oNBJbvg/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "-eLncEYEFGA_yKy5iVyjQ_zBC3Bvyk.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a0f1a/-eLncEYEFGA_yKy5iVyjQ_zBC3Bvyk.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260513T151750Z-yt-T9w8oNBJbvg/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "DpGzxmBEHW-NDgRldYXTC_s6e9A5kF.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a0f1f/DpGzxmBEHW-NDgRldYXTC_s6e9A5kF.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260513T151750Z-yt-T9w8oNBJbvg/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "mncuqjEFb2BGHUX26r5kC_7xjHmSjT.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a0f27/mncuqjEFb2BGHUX26r5kC_7xjHmSjT.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260513T151750Z-yt-T9w8oNBJbvg/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "JvoqM8hEAh5p3XWJT1ZEk_VXAbG6nM.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a0f2c/JvoqM8hEAh5p3XWJT1ZEk_VXAbG6nM.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260513T151750Z-yt-T9w8oNBJbvg/slide-8.png",
+      "slide_index": 8,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 9,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260513T151750Z-yt-T9w8oNBJbvg/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: แอดมินตอบลูกค้าเร็วขึ้นได้ แต่ถ้าไม่มี FAQ กฎคืนสินค้า และข้อห้าม AI อาจตอบมั่วหรือสัญญาเกินจริง\n\n📌 ทำไมควรเซฟโพสต์นี้: Custom GPT ใช้ได้จริงเมื่อมี instruction ชัด: ตอบอะไรได้ ต้องถามอะไรเพิ่ม และเรื่องไหนต้องส่งต่อให้คน\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ ใส่ FAQ ราคา เงื่อนไขส่งของ คืนสินค้า และ tone ร้าน\n\n2) ✨ กำหนดช่องคำตอบ: ตอบสั้น / ต้องถามเพิ่ม / ห้ามสัญญา\n\n3) ✨ ใส่ตัวอย่างคำถามจริงจาก LINE OA\n\n4) ✨ ให้ GPT flag เคส refund โกรธมาก หรือข้อมูลไม่พอ\n\n🧪 ลองเริ่มวันนี้: วันนี้รวบรวมคำถามซ้ำ 20 ข้อ แล้วสร้าง instruction แอดมิน AI เวอร์ชันแรก\n\n🧭 วิธีใช้กับงานนี้: ใส่ FAQ ราคา เงื่อนไขส่งของ คืนสินค้า และ tone ร้าน → กำหนดช่องคำตอบ: ตอบสั้น / ต้องถามเพิ่ม / ห้ามสัญญา → ใส่ตัวอย่างคำถามจริงจาก LINE OA\n\n🌱 มือใหม่ให้เริ่มจากเคสจริงเล็ก ๆ ของอุตสาหกรรมนี้ แล้วให้คนในทีมตรวจคำตอบก่อนใช้กับลูกค้าจริง\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเห็นว่า AI ช่วยลดงานซ้ำและทำให้บริการชัดขึ้นได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "ทำ Custom GPT ให้แอดมินตอบลูกค้าไม่หลุดกฎร้าน #AIมือใหม่ เอาไปใช้กับงานจริงได้ทันที"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=T9w8oNBJbvg",
+      "Keywords: API, Context, Custom GPT, workflow, prompt, AI automation, Make",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "glossary": {
+      "AI automation": "ระบบอัตโนมัติด้วย AI",
+      "API": "ช่องทางให้ระบบคุยกัน",
+      "Context": "บริบท",
+      "Custom GPT": "Custom GPT",
+      "Make": "Make",
+      "prompt": "พรอมป์ต์",
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "API",
+      "Context",
+      "Custom GPT",
+      "workflow",
+      "prompt",
+      "AI automation",
+      "Make"
+    ],
+    "source_id": "yt-T9w8oNBJbvg",
+    "source_url": "https://www.youtube.com/watch?v=T9w8oNBJbvg",
+    "thai_call_to_action": "วันนี้รวบรวมคำถามซ้ำ 20 ข้อ แล้วสร้าง instruction แอดมิน AI เวอร์ชันแรก",
+    "thai_hook": "ทำ Custom GPT ให้แอดมินตอบลูกค้าไม่หลุดกฎร้าน",
+    "thai_problem": "แอดมินตอบลูกค้าเร็วขึ้นได้ แต่ถ้าไม่มี FAQ กฎคืนสินค้า และข้อห้าม AI อาจตอบมั่วหรือสัญญาเกินจริง",
+    "thai_tips": [
+      "ใส่ FAQ ราคา เงื่อนไขส่งของ คืนสินค้า และ tone ร้าน",
+      "กำหนดช่องคำตอบ: ตอบสั้น / ต้องถามเพิ่ม / ห้ามสัญญา",
+      "ใส่ตัวอย่างคำถามจริงจาก LINE OA",
+      "ให้ GPT flag เคส refund โกรธมาก หรือข้อมูลไม่พอ",
+      "ทดสอบด้วยคำถามยาก 10 ข้อก่อนให้ทีมใช้"
+    ],
+    "thai_trend_angle": "Custom GPT ใช้ได้จริงเมื่อมี instruction ชัด: ตอบอะไรได้ ต้องถามอะไรเพิ่ม และเรื่องไหนต้องส่งต่อให้คน"
+  }
+}

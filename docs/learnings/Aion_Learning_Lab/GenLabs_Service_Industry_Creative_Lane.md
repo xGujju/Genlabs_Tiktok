@@ -268,3 +268,89 @@ A tool may repeat across posts, but the industry, customer touchpoint, input/out
 - Unique industries: 20
 - Recommended next Zernio candidate visible: yes
 - Publish/Zernio actions: none
+
+## 2026-05-14T21:56:59Z — Fresh service-industry concept slate v6 (ideation-only)
+- Purpose: replenish GenLabs AI Learning with fresh Thailand service-industry workflows after repeated source-lane exhaustion and generic software/source-family drift.
+- Uniqueness key used: `industry + service pain point + AI tool/integration + workflow + visual metaphor`.
+- Recommended next Zernio candidate: บริษัทซ่อมหลังคารั่ว — ฝนมาแล้วคิวแตก? ให้ AI แยกรอยคราบน้ำที่ควรรีบส่งช่างก่อน.
+- Run type: ideation-only / no-publish / no-Zernio.
+- Hard guards: 20 concept rows, 20 unique industries, no same-industry repeats, no generic office filler, no broad prompt-context formula filler, no product-photo-only posts, and no reuse of v2/v3/v4/v5 workflows as-is.
+
+### Top 10 production candidates
+1. บริษัทซ่อมหลังคารั่ว — ฝนมาแล้วคิวแตก? ให้ AI แยกรอยคราบน้ำที่ควรรีบส่งช่างก่อน | Tool: LINE photo intake + ChatGPT Vision/Gemini Vision + Google Calendar | Workflow: ลูกค้าส่งรูปฝ้า หลังคา รางน้ำ และเขตบ้าน -> AI จัดหมวดคราบน้ำ รางตัน กระเบื้องแตก หรือข้อมูลที่ยังขาด -> staff ตรวจ -> Calendar จัดคิวช่างพร้อมข้อความประเมินเบื้องต้น | Visual: ฝ้าเพดานเป็นแผนที่พายุ มีหมุดช่างวิ่งเข้าจุดรั่ว
+2. ศูนย์ส่องกล้องลำไส้/กระเพาะ — ลืมขั้นตอนเตรียมตัว = ต้องเลื่อนตรวจ? เปลี่ยนใบ prep เป็น LINE checklist | Tool: OCR + LINE OA + Google Calendar | Workflow: OCR ใบเตรียมตัว -> แยกเวลาอาหาร ยา น้ำดื่ม และข้อห้าม -> LINE เตือนเป็นช่วงเวลา -> ทีมโทรกลับเฉพาะเคสที่ตอบว่าไม่พร้อม | Visual: แม่น้ำขุ่นค่อย ๆ ใสตามไทม์ไลน์เตรียมตรวจ
+3. ร้านเช่าชุดไทยถ่ายรูป — ลูกค้าเลือกชุดไม่จบ? ให้ AI ทำ moodboard ก่อนมาร้าน | Tool: Canva AI + LINE OA + booking form | Workflow: ลูกค้าเลือกสถานที่ สีผิว ไซซ์ โทนภาพ และเวลาถ่าย -> Canva AI ทำ moodboard 3 ชุด -> staff เช็กไซซ์จริง -> LINE ให้ลูกค้าเลือกก่อนเข้าร้าน | Visual: ตู้ชุดไทยเป็นวงล้อสไตล์ มีการ์ดสีทอง 3 แบบ
+4. บริษัทติดตั้งกล้องวงจรปิด — ลูกค้าส่งคลิปบ้านมา ให้ AI ทำจุดติดกล้องคร่าว ๆ ก่อนนัดสำรวจ | Tool: ChatGPT Vision + LINE OA + Google Sheets | Workflow: ลูกค้าส่งคลิปหน้าบ้าน ร้าน หรือโกดัง -> AI ลิสต์จุดอับ มุมประตู ทางเดิน และคำถามที่ยังขาด -> ช่างตรวจ -> นัดสำรวจพร้อมชุดคำถามเฉพาะเคส | Visual: บ้านเป็นกระดานหมากรุก มีช่องมืดที่กล้องควรเห็น
+5. โฮมสเตย์ชุมชน — แขกไม่อ่านกฎบ้าน? ทำ FAQ จากคู่มือจริงใน LINE Rich Menu | Tool: NotebookLM + LINE Rich Menu | Workflow: อัปโหลดคู่มือบ้าน เวลาอาหาร กฎชุมชน และวิธีเดินทาง -> NotebookLM สร้าง FAQ ไทย/อังกฤษจากแหล่งจริง -> เจ้าของบ้านตรวจ -> ใส่ LINE menu ก่อนเช็กอิน | Visual: กุญแจไม้เปิดออกเป็นการ์ด FAQ รอบบ้าน
+6. คลินิกภูมิแพ้/ENT — คนไข้ไม่รู้ภูมิแพ้กำเริบจากอะไร? ให้ Sheets หาแพตเทิร์นจากไดอารี่ | Tool: Google Forms + Gemini in Sheets | Workflow: คนไข้กรอกอาการ สถานที่ ฝุ่น อาหาร และเวลานอนทุกวัน -> Gemini สรุป trigger รายสัปดาห์ -> แพทย์ใช้คุยในนัดถัดไป | Visual: เรดาร์ฝุ่นบนแผนที่กรุงเทพฯ มีหมุดจาม/คัดจมูก
+7. ช่างสำรวจที่ดิน — อย่าตีราคาจากแชตสั้น ๆ ให้ AI อ่านโฉนดกับพิกัดก่อนลงพื้นที่ | Tool: OCR + Google Maps + Gemini Sheets | Workflow: ลูกค้าส่งรูปโฉนด หมุด และโลเคชัน -> OCR ดึงพื้นที่/เลขเอกสาร -> Sheets คำนวณระยะทางและทีมที่ต้องใช้ -> ส่งใบประเมินงานเบื้องต้น | Visual: โฉนดกลายเป็นเรดาร์สำรวจพื้นที่ มีหมุดที่ดินสว่างขึ้น
+8. Tattoo studio รับนักท่องเที่ยว — สักวันนี้ แต่ aftercare ต้องตามลูกค้าไปถึงโรงแรม/สนามบิน | Tool: OCR + ChatGPT + WhatsApp/LINE | Workflow: อ่านใบงานลาย ตำแหน่ง และขนาด -> ChatGPT ร่าง aftercare เฉพาะตำแหน่ง 2 ภาษา -> ช่างตรวจ -> WhatsApp/LINE ติดตามวันที่ 1/3/7 | Visual: รอยสักเป็นปฏิทินฟื้นตัว มีเครื่องบินเล็กบินข้ามวัน
+9. บริการดูแลสระว่ายน้ำ — สระเขียวก่อนลูกค้าบ่น? ให้ Gemini เตือนจากค่า pH/คลอรีน | Tool: Gemini in Sheets + Google Calendar + LINE OA | Workflow: ทีมกรอกค่า pH คลอรีน รูปสระ และวันล้างกรอง -> Gemini หาแนวโน้มผิดปกติ -> Calendar เตือนเติมสาร/ล้างกรอง -> LINE ส่งรายงานลูกค้า | Visual: สระว่ายน้ำเป็น dashboard ไฟจราจรน้ำใส/เริ่มเตือน/ต้องแก้
+10. ศูนย์สุขภาพวัยทอง — อาการเยอะจนเล่าไม่ครบ? ให้ AI ทำ pre-consult timeline ให้ทีมอ่านใน 2 นาที | Tool: Google Forms + ChatGPT + staff review | Workflow: ลูกค้ากรอกการนอน อารมณ์ ร้อนวูบวาบ ประจำเดือน และยาที่ใช้ -> AI สรุปไทม์ไลน์กับคำถามควรถามแพทย์ -> ทีมตรวจก่อนวันนัด | Visual: เทอร์โมมิเตอร์อารมณ์ 4 ฤดูบนไทม์ไลน์ชีวิต
+
+### Backlog 10
+11. คลินิกกัญชาทางการแพทย์ — คำถามเรื่องใช้ยังไง/ห้ามอะไร ต้องตอบจากเอกสารจริงก่อนส่งต่อแพทย์ | Tool: NotebookLM + LINE OA | Workflow: อัปโหลดเอกสารคลินิก ราคา ข้อควรระวัง และคำถามซ้ำ -> NotebookLM ทำ FAQ grounded -> staff ใช้ตอบและ flag คำถามที่ต้องให้แพทย์ตอบ | Visual: ใบกัญชาผ่านตะแกรง safety filter
+12. คลินิกสุขภาพทางเพศ/STI — ลูกค้ากลัวถามเรื่องตรวจโรค? ทำ anonymous FAQ ที่พามาถึงคลินิกแบบไม่ตัดสิน | Tool: Perplexity + NotebookLM + booking link | Workflow: รวบรวมคำถามยอดฮิต -> เช็กกับแหล่งน่าเชื่อถือและคู่มือคลินิก -> ทำ FAQ ภาษานุ่ม -> ส่งต่อไปหน้าจองตรวจ | Visual: ซองจดหมายล็อกกุญแจเปิดเป็นทางเดินเข้าคลินิก
+13. สตูดิโอแผ่นรองเท้า/วิเคราะห์การเดิน — ลูกค้าดูคลิปเดินไม่ออก ให้ AI แปลเป็นภาษาคนซื้อเข้าใจ | Tool: CapCut + ChatGPT | Workflow: ถ่ายคลิปเดิน 10 วินาที -> CapCut ใส่ slow motion/callout -> ChatGPT ร่างคำอธิบายแรงกด รองเท้าที่เหมาะ และสิ่งที่ต้องลองเดินจริง | Visual: รอยเท้าเป็น heatmap บนพื้นร้าน
+14. Cryotherapy / recovery center — หนาวจัดไม่ใช่คอนเทนต์อย่างเดียว ต้องคัดกรองก่อนเข้าตู้ | Tool: Google Forms + Calendar + ChatGPT | Workflow: ฟอร์มถามโรคประจำตัว ยาที่ใช้ และประสบการณ์ครั้งแรก -> AI สรุปข้อควรถามเพิ่ม -> staff ตรวจ -> Calendar ล็อก slot พร้อมข้อปฏิบัติ | Visual: ประตูน้ำแข็งมีไฟจราจรเขียว/เหลือง/แดง
+15. ออนเซ็น/ซาวน่าไทย — กฎเยอะ แต่ลูกค้าต้องเข้าใจก่อนเข้าห้องร้อน | Tool: Voice AI + CapCut + QR sign | Workflow: รวมขั้นตอนใช้บริการ ข้อห้าม และมารยาท -> Voice AI ทำเสียง 3 ภาษา -> CapCut ทำคลิปแนวตั้งสั้นเปิดวนที่จุดลงทะเบียน | Visual: ไอน้ำกลายเป็น checklist ลอยอยู่หน้าห้องซาวน่า
+16. ร้านคายัค/SUP ริมทะเล — ก่อนลงน้ำ 5 นาที ให้ลูกค้ารู้ทาง ลม และสัญญาณมือ | Tool: Gemini Sheets + LINE/WhatsApp | Workflow: ใส่ระดับลม เส้นทาง จุดห้ามเข้า และเวลาน้ำขึ้นลง -> Gemini สรุป briefing รายวัน -> ส่ง LINE/WhatsApp ให้ลูกค้าก่อนถึงหาด | Visual: กระดาน paddle board มีเข็มทิศและธงสัญญาณ
+17. ไกด์วัด/ย่านประวัติศาสตร์ — ไกด์พูดดี แต่ลูกค้าจำชื่อสถานที่ไม่ได้หลังจบทริป | Tool: NotebookLM + QR mini-guide | Workflow: อัปโหลดสคริปต์ไกด์ ประวัติ และแผนที่ -> NotebookLM ทำสรุปแต่ละจุดแบบอ่านง่าย -> QR ส่ง mini-guide หลังทัวร์ | Visual: แผ่นพับทัวร์กลายเป็นไทม์แมชชีนย้อนเรื่องเล่า
+18. ตลาดเวิร์กช็อปงานคราฟต์ท้องถิ่น — นักท่องเที่ยวมีเวลา 2 ชั่วโมง ควรเลือกคลาสอะไรดี? | Tool: Perplexity + Google Sheets + LINE OA | Workflow: เก็บรีวิว/คำถามนักท่องเที่ยว -> Perplexity หา demand กิจกรรม -> Sheets จัดคลาสตามเวลา ภาษา และความยาก -> LINE แนะนำคลาส | Visual: แผงตลาดเป็นปฏิทินสีที่เลือกคลาสได้
+19. บริษัทบำรุงรักษาลิฟต์อาคาร — ใบเช็กลิฟต์หายบ่อย? เปลี่ยนเป็น QR ที่เตือนรอบถัดไปเอง | Tool: Google Forms + QR + Calendar | Workflow: ช่างสแกน QR หน้าลิฟต์ -> กรอกเสียง สั่น ประตู และอะไหล่ -> Forms เข้า Sheets -> Calendar เตือนรอบ PM และของที่ต้องเตรียม | Visual: ลิฟต์เป็นสมุดสุขภาพแนวตั้ง
+20. รถรับส่งนักเรียน — ผู้ปกครองถามรถถึงไหนทุกเช้า? ทำ ETA LINE อัตโนมัติ | Tool: LINE OA + Google Maps + Sheets | Workflow: คนขับกดจุดรับส่งในมือถือ -> Maps คำนวณเวลาถึงโดยประมาณ -> LINE ส่งสถานะแยกกลุ่มผู้ปกครอง -> staff เห็นปัญหาเส้นทางใน Sheets | Visual: รถตู้เป็นจุดไฟวิ่งบนแผนที่ผู้ปกครอง
+
+### Anti-repetition warnings
+- Do not route this slate into the old generic software-tip branch; every generated draft must keep the service counter, customer input, staff check, and customer-facing output visible.
+- Medical/wellness concepts must teach safe intake, preparation, and admin clarity; do not let the copy imply diagnosis or treatment promises.
+- If the factory cannot preserve the industry workflow and visual metaphor, output zero drafts and replenish sources rather than creating another broad AI productivity carousel.
+
+### Deterministic guard check
+- Concept rows: 20
+- Unique industries: 20
+- Banned generic phrases: 0
+- Recommended next Zernio candidate visible: yes
+- Publish/Zernio actions: none
+
+## 2026-05-15T10:06:45Z — Fresh service-industry concept slate v7 (ideation-only)
+- Purpose: replenish GenLabs AI Learning with fresh Thailand service-industry workflows while avoiding old generic software/source-family drift and prior service-lane repeats.
+- Uniqueness key used: `industry + service pain point + AI tool/integration + workflow + visual metaphor`.
+- Recommended next Zernio candidate: ร้านตัดขนสัตว์ / Pet grooming salon — น้องขนพันหรือน้องกลัวช่าง? ให้ AI ทำ job card ก่อนรับงาน.
+- Run type: ideation-only / no-publish / no-Zernio.
+- Hard guards: 20 concept rows, 20 unique industries, no same-industry repeats, zero meeting-action filler, zero broad prompt-context filler, no product-photo-only posts, and no reuse of seed/v2/v3/v4/v5/v6 workflows as-is.
+
+### Top 10 production candidates
+1. ร้านตัดขนสัตว์ / Pet grooming salon — น้องขนพันหรือน้องกลัวช่าง? ให้ AI ทำ job card ก่อนรับงาน | Tool: LINE photo intake + ChatGPT Vision + salon job card | Workflow: เจ้าของส่งรูปขน/ผิวหนัง พันธุ์ นิสัย และครั้งล่าสุด -> AI แยกขนพัน แผล เวลาที่ต้องใช้ และสิ่งที่ต้องถามเพิ่ม -> ช่างตรวจ -> ส่งราคา เวลา และข้อควรระวังให้เจ้าของ | Visual: ขนพันเป็นเขาวงกต มีกรรไกร ป้ายเวลา และป้ายถามเพิ่ม
+2. บริษัทติดตั้งที่ชาร์จ EV บ้าน — ซื้อ EV แล้ว แต่ตู้ไฟบ้านรับไหวไหม? | Tool: LINE photo intake + load-calculator Sheet + electrician review | Workflow: ลูกค้าส่งรูปรถ ตู้ไฟ ระยะที่จอด และเวลาชาร์จปกติ -> AI เช็กข้อมูลที่ขาดและช่วยกรอกตารางโหลด -> ช่างไฟตรวจ -> ส่ง checklist นัดสำรวจ | Visual: สายชาร์จเป็นทางด่วนจากตู้ไฟไปช่องจอด ผ่านด่านโหลดไฟ
+3. ร้านตัดสูท / ช่างตัดเสื้อ — ลูกค้าเอารูปสูทมาให้ แต่ทันวันงานไหม? | Tool: ChatGPT Vision + measurement Sheet + Calendar | Workflow: ลูกค้าส่งรูปอ้างอิง วันงาน ขนาดตัว และงบผ้า -> AI ทำ fitting timeline ผ้าที่เหมาะ และคำถามวัดตัว -> ช่างตรวจ -> ส่งแผนลองชุดให้ลูกค้า | Visual: หุ่นโชว์ถือสายวัดกับปฏิทิน fitting เป็น checkpoint
+4. บริษัทรับซ่อมโซฟา / บุเฟอร์นิเจอร์ — โซฟาขาด 3 รูป อย่าตีราคามั่ว | Tool: ChatGPT Vision + Airtable job card | Workflow: ลูกค้าส่งรูปเสียหาย ขนาด ผ้าที่อยากได้ และพื้นที่รับส่ง -> AI แยกผ้า ฟองน้ำ สปริง โครง และจุดที่ต้องดูหน้างาน -> ทีมประเมิน -> ส่งช่วงราคาและเงื่อนไขตรวจจริง | Visual: โซฟา X-ray เห็นชั้นผ้า ฟองน้ำ สปริง และโครงไม้
+5. ศูนย์ให้คำปรึกษานมแม่ — แชตยาวตอนตีสอง ให้ AI สรุปให้ผู้เชี่ยวชาญก่อนตอบ | Tool: LINE intake + voice/text summary + lactation consultant review | Workflow: แม่ส่งอายุลูก รอบดูด อาการเจ็บ ไข้ และน้ำหนัก -> AI ทำสรุปกับสัญญาณที่ควรโทรกลับ -> ผู้เชี่ยวชาญตรวจ -> ส่งท่าดูดนมหรือนัดปรึกษา | Visual: หยดนมไหลเป็น flowchart เข้าสู่เก้าอี้ให้นมที่สงบ
+6. คลินิกทำแผลที่บ้าน — ก่อนพยาบาลออกเยี่ยม ให้ AI สรุปแผลและของที่ต้องเตรียม | Tool: secure photo form + vision-assisted summary + nurse review | Workflow: ญาติส่งรูปแผล วันผ่าตัด ไข้ ปวด และน้ำเหลือง -> AI ทำ checklist อุปกรณ์และคำถาม -> พยาบาลตรวจ -> ส่งการเตรียมตัวก่อนเยี่ยมบ้าน | Visual: กระเป๋าพยาบาลเปิดเป็นช่องอุปกรณ์ทำแผลพร้อมป้ายเตรียมตัว
+7. นายหน้าศุลกากร / ชิปปิ้งนำเข้า — HS code ผิด งานค้างด่าน: ให้ AI ทำ pre-check ก่อนยื่นจริง | Tool: Perplexity official-source check + ChatGPT + document checklist | Workflow: ลูกค้าส่ง invoice รูปสินค้า วัสดุ และการใช้งาน -> AI เสนอรายการเอกสารกับรหัสที่ควรถามเพิ่ม -> broker ตรวจแหล่งทางการ -> ส่ง memo ขอข้อมูลเพิ่ม | Visual: กล่องพัสดุผ่าน X-ray เห็นป้าย HS code ใบอนุญาต และเอกสารที่ขาด
+8. ร้านจำหน่ายอุปกรณ์อุตสาหกรรม B2B — ลูกค้าส่ง RFQ 80 รายการ ให้ AI จัดตารางก่อนฝ่ายขายตอบ | Tool: OCR/Excel import + ERP price list + Gemini Sheets | Workflow: รับ PDF/Excel -> AI จับ SKU, MOQ, สต็อก และรายการไม่ชัด -> ฝ่ายขายตรวจราคา -> ส่งตารางใบเสนอราคาพร้อมคำถามลูกค้า | Visual: spreadsheet วิ่งบนสายพานโรงงาน กลายเป็น quote cards ทีละใบ
+9. บริษัทให้เช่าโต๊ะ-เต็นท์งานเลี้ยง — จัดงาน 120 คน แต่ของพอไหม? ให้ AI จัดแพ็กก่อนรับมัดจำ | Tool: Google Form brief + inventory Sheet + ChatGPT package matcher | Workflow: ลูกค้าใส่จำนวนแขก สถานที่ เวลาตั้งของ โอกาสฝน และงบ -> AI จับชุดโต๊ะ เต็นท์ พัดลม ไฟ และรถขนส่ง -> ทีมเช็ก stock -> ส่งแพ็กพร้อมเงื่อนไข | Visual: เต็นท์งานวัดเป็นบอร์ด Tetris ของเช่า มีโต๊ะ เก้าอี้ พัดลม ไฟ
+10. โรงเรียนนานาชาติ / Admissions — ผู้ปกครองส่งข้อมูลลูกไม่ครบ ให้ AI ทำ readiness sheet ก่อนโทรกลับ | Tool: email parser + ChatGPT/Claude + admissions rubric | Workflow: รับอายุ หลักสูตรเดิม ภาษา เอกสาร และข้อกังวล -> AI แยกข้อมูลครบ/ขาดกับคำถาม placement -> staff ตรวจ -> ส่ง next-step checklist ให้ผู้ปกครอง | Visual: กระเป๋านักเรียนแยกเอกสารเป็นเลนสีตามชั้นปี
+
+### Backlog 10
+11. ศูนย์คอนแทคเลนส์เฉพาะทาง — ตาแห้ง/ใช้จอนาน? ให้ AI ทำคำถามก่อนลองเลนส์ | Tool: LINE questionnaire + ChatGPT + optometrist review | Workflow: ลูกค้าส่งชั่วโมงหน้าจอ อาการตาแห้ง แพ้ฝุ่น และเลนส์ที่เคยใช้ -> AI ทำ fitting note -> ผู้เชี่ยวชาญตรวจ | Visual: ตลับคอนแทคเลนส์เป็น dashboard ไลฟ์สไตล์และความสบายตา
+12. คลินิกสุขภาพใจ / นักจิตวิทยา — แชตแรกของลูกค้าไม่ควรหายไปใน inbox | Tool: secure intake form + safety-keyword flagging + counselor review | Workflow: ลูกค้าเล่าเรื่อง ระยะเวลา การนอน ความอยากอาหาร และสัญญาณเร่งด่วน -> AI ทำ intake summary -> ผู้เชี่ยวชาญเลือกเส้นทางนัดหรือโทรกลับ | Visual: inbox กลายเป็น clipboard สงบที่มีแท็บสีแดงสำหรับเคสเร่งด่วน
+13. ร้านจัดดอกไม้งานศพ / พวงหรีด — ครอบครัวกำลังเศร้า อย่าให้สะกดชื่อผิด | Tool: LINE form + OCR proofread + Canva proof card | Workflow: ลูกค้าส่งชื่อผู้วายชนม์ ชื่อผู้ส่ง วัด เวลา และข้อความไว้อาลัย -> AI เช็กสะกดกับรูปเอกสาร -> staff ตรวจ -> ส่ง proof card ให้ยืนยัน | Visual: พวงหรีดดอกบัวมีป้ายชื่อผ่านแว่นขยายก่อนพิมพ์
+14. สตูดิโอถ่ายรูปติดบัตร/วีซ่า — รูปโดนตีกลับเพราะฉาก ขนาด หรือแว่น? ให้ AI เช็กก่อนส่งไฟล์ | Tool: Gemini Vision + official photo-spec checklist + staff review | Workflow: อัปโหลดรูปตัวอย่างและประเทศปลายทาง -> AI เช็กขนาด ฉาก หน้า แสง และแว่น -> staff ปรับ/ถ่ายใหม่ -> ส่งไฟล์พร้อม checklist | Visual: photo booth มีไฟเขียว/เหลือง/แดงรอบกรอบหน้า
+15. บริษัทซ่อมเครื่องมือแพทย์ — โรงพยาบาลแจ้งเครื่องเสียสั้น ๆ ให้ AI ทำ job sheet ก่อนช่างไป | Tool: LINE service form + speech-to-text + service-history database | Workflow: ลูกค้าส่งรุ่นเครื่อง error photo อาการ และความเร่งด่วน -> AI จับ warranty อะไหล่ที่ควรเตรียม และประวัติซ่อม -> technician ตรวจ | Visual: เครื่องมือแพทย์ติดป้ายช่าง มีอะไหล่โคจรรอบตัว
+16. ผู้ให้บริการ cold-chain logistics — กราฟอุณหภูมิหลุด ต้องตอบลูกค้าแบบมีหลักฐาน | Tool: CSV temperature logger + Gemini Sheets + incident template | Workflow: ลูกค้าแจ้งของเสียและส่งกราฟอุณหภูมิ -> AI หาเวลาที่เกิน threshold ช่องว่าง sensor และจุดส่งต่อ -> ทีมตรวจ -> ส่ง incident brief | Visual: กล่องแช่เย็นมีกราฟหัวใจอุณหภูมิวิ่งรอบกล่อง
+17. บริษัทจัดบูธงานแสดงสินค้า — ลูกค้าบอกแค่ว่า “บูธพรีเมียม” ให้ AI แปลงเป็น production brief | Tool: ChatGPT + floor plan upload + Canva reference board | Workflow: ลูกค้าส่งขนาดบูธ brand deck เป้าหมายงาน และงบ -> AI แยกโซน วัสดุ ไฟ และข้อจำกัด venue -> ทีมตรวจ -> ส่ง brief ให้ผลิต | Visual: พื้นที่บูธว่างค่อย ๆ เติมโซน reception, demo, storage, logo wall
+18. เคาน์เตอร์ผสมยา/สกินแคร์โดยเภสัชกร — ผิวแพ้ง่าย ไม่ควรผสม active ชนกัน | Tool: ingredient database Sheet + ChatGPT + pharmacist review | Workflow: ลูกค้าส่งผลิตภัณฑ์ที่ใช้ ยา สิว ผื่น และตั้งครรภ์หรือไม่ -> AI หา active ซ้ำ/ระคายเคือง -> เภสัชกรตรวจ -> ส่ง routine card ที่ปลอดภัยขึ้น | Visual: ขวดสกินแคร์เรียงเหมือนบอร์ด drug interaction
+19. ช่างจัดสวนบ้าน — ต้นไม้สวยในรูป แต่อยู่ในสวนบ้านไทยรอดไหม? | Tool: plant database + sun/water intake form + ChatGPT | Workflow: ลูกค้าส่งรูปสวน ชั่วโมงแดด งบน้ำ สัตว์เลี้ยง และสไตล์ที่ชอบ -> AI จับโซนปลูกและตารางดูแล -> ช่างตรวจหน้างาน -> ส่งแผนสวนคร่าว ๆ | Visual: สวนเป็น heatmap แดด-น้ำ มีต้นไม้เป็นหมุดเกมปลูก
+20. ร้านผ้าม่าน/มู่ลี่สั่งตัด — วัดหน้าต่างผิด ผ้าม่านเสียทั้งชุด | Tool: ChatGPT Vision + measurement form + quote template | Workflow: ลูกค้าส่งรูปหน้าต่าง สายวัด แสง สีห้อง และประเภทม่านที่ชอบ -> AI บอกมุมที่ต้องถ่ายเพิ่มและคำนวณผ้าเบื้องต้น -> ช่างตรวจ/นัดวัดจริง | Visual: หน้าต่างเป็นไม้บรรทัดแสง มีลูกศรวัดกว้างสูงชัดเจน
+
+### Anti-repetition warnings
+- Do not let these concepts collapse into broad AI productivity or old software-tip wording; public copy must keep the service counter, customer input, staff check, and customer-facing output visible.
+- Health/care concepts must teach intake, preparation, handoff, and human review; avoid diagnosis or treatment promises.
+- If source routing cannot preserve the named industry workflow and visual metaphor, output zero drafts and refill sources rather than producing another generic carousel.
+
+### Deterministic guard check
+- Concept rows: 20
+- Unique industries: 20
+- Banned generic phrases: 0
+- Recommended next Zernio candidate visible: yes
+- Publish/Zernio actions: none

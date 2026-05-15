@@ -1,0 +1,304 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a9a4817/9e6hspttsppte4JaxahbM_j0rLC0zO.png",
+    "https://v3b.fal.media/files/b/0a9a481b/Ovcw531ic49y_f8BpuGv0_YkcP6URb.png",
+    "https://v3b.fal.media/files/b/0a9a4820/ghfASDvKUjMYEDuJ4NeNc_ziI6lA5d.png",
+    "https://v3b.fal.media/files/b/0a9a4825/MNzqvXyamSODfVpLF3NkH_fXprxJwM.png",
+    "https://v3b.fal.media/files/b/0a9a482b/jkR64fgYrPjyicTT8qDl3_UugrxSX7.png",
+    "https://v3b.fal.media/files/b/0a9a4830/1dAUHOXSDcP1VSSyF1KS2_vHfDCWhq.png",
+    "https://v3b.fal.media/files/b/0a9a4835/1hQsQZ60ZpRpxKTaGdw79_huQcotoY.png",
+    "https://v3b.fal.media/files/b/0a9a483b/5EpbrnjvrWtZ_x3QvZSkG_sqwIHzie.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 8,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/8 role=hook. Thai copy: HR ใช้ AI ทำ Scorecard สัมภาษณ์ให้เทียบผู้สมัครง่ายขึ้น\nToken • workflow • prompt • Make. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "HR ใช้ AI ทำ Scorecard สัมภาษณ์ให้เทียบผู้สมัครง่ายขึ้น\nToken • workflow • prompt • Make",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/8 role=problem. Thai copy: ปัญหา: สัมภาษณ์หลายคนแล้วจำไม่ครบ ถ้าไม่มี rubric ชัด ทีมจะตัดสินจากความรู้สึกมากกว่าหลักฐานของงานจริง. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: สัมภาษณ์หลายคนแล้วจำไม่ครบ ถ้าไม่มี rubric ชัด ทีมจะตัดสินจากความรู้สึกมากกว่าหลักฐานของงานจริง",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/8 role=trend. Thai copy: ทำไมควรสนใจ:\nAI ช่วย HR ได้ดีเมื่อเปลี่ยน JD เป็น competency, คำถามสัมภาษณ์, rubric 1-5 และ red flags ที่ต้องเช็กก่อนตัดสินใจ. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nAI ช่วย HR ได้ดีเมื่อเปลี่ยน JD เป็น competency, คำถามสัมภาษณ์, rubric 1-5 และ red flags ที่ต้องเช็กก่อนตัดสินใจ",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/8 role=tips. Thai copy: ลองใช้แบบนี้:\n1) ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ\n2) ขอ competency สำคัญ 5 ข้อ\n3) ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency\n4) ขอ rubric คะแนน 1-5 พร้อมตัวอย่างคำตอบ. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ\n2) ขอ competency สำคัญ 5 ข้อ\n3) ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency\n4) ขอ rubric คะแนน 1-5 พร้อมตัวอย่างคำตอบ",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/8 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/8 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\n5) เพิ่ม red flags และคำถาม follow-up ก่อนตัดสินใจ. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\n5) เพิ่ม red flags และคำถาม follow-up ก่อนตัดสินใจ",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/8 role=framework. Thai copy: จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ. Visual direction: five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "framework",
+        "thai_copy": "จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ",
+        "visual_direction": "five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat"
+      },
+      {
+        "image_prompt": "Slide 8/8 role=cta. Thai copy: ลองวันนี้:\nวันนี้ลองเอา JD จริง 1 ตำแหน่งมาทำ interview scorecard ก่อนนัดผู้สมัคร. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 8,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้ลองเอา JD จริง 1 ตำแหน่งมาทำ interview scorecard ก่อนนัดผู้สมัคร",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "yt-Ew3BKC12AMc",
+    "source_url": "https://www.youtube.com/watch?v=Ew3BKC12AMc",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://www.youtube.com/watch?v=Ew3BKC12AMc",
+        "Keywords: Token, workflow, prompt, Make, agent",
+        "This is trending because people can copy the workflow immediately instead of only reading AI news."
+      ],
+      "glossary": {
+        "Make": "Make",
+        "Token": "ชิ้นข้อความที่ AI ใช้นับ",
+        "agent": "เอเจนต์ AI",
+        "prompt": "พรอมป์ต์",
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "Token",
+        "workflow",
+        "prompt",
+        "Make",
+        "agent"
+      ],
+      "source_id": "yt-Ew3BKC12AMc",
+      "source_url": "https://www.youtube.com/watch?v=Ew3BKC12AMc",
+      "thai_call_to_action": "วันนี้ลองเอา JD จริง 1 ตำแหน่งมาทำ interview scorecard ก่อนนัดผู้สมัคร",
+      "thai_hook": "HR ใช้ AI ทำ Scorecard สัมภาษณ์ให้เทียบผู้สมัครง่ายขึ้น",
+      "thai_problem": "สัมภาษณ์หลายคนแล้วจำไม่ครบ ถ้าไม่มี rubric ชัด ทีมจะตัดสินจากความรู้สึกมากกว่าหลักฐานของงานจริง",
+      "thai_tips": [
+        "ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ",
+        "ขอ competency สำคัญ 5 ข้อ",
+        "ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency",
+        "ขอ rubric คะแนน 1-5 พร้อมตัวอย่างคำตอบ",
+        "เพิ่ม red flags และคำถาม follow-up ก่อนตัดสินใจ"
+      ],
+      "thai_trend_angle": "AI ช่วย HR ได้ดีเมื่อเปลี่ยน JD เป็น competency, คำถามสัมภาษณ์, rubric 1-5 และ red flags ที่ต้องเช็กก่อนตัดสินใจ"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "Digit Coach",
+    "clean_headline": "Stop Using ChatGPT Like a Beginner - Do THIS Instead (Save 100 Hours) Digit Coach agent prompt: Stop ...",
+    "clean_summary": "Stop Using ChatGPT Like a Beginner - Do THIS Instead (Save 100 Hours) Digit Coach agent prompt: Stop ... Transcript: Stop Using ChatGPT Like a Beginner - Do THIS Instead (Save 100 Hours) description&redir_token=REDACTED&q=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1Pf8ILwbTS7_y6rjCEH0jIJSrkkheVBeUQBnfmm3NMLs%2Fedit%3Fusp%3Dsharing&v=Ew3BKC12AMc)…...more ...more Transcript Follow along using the transcript. Show transcript [![Image 8]( ### Digit Coach 1.55K subscribers]( [Videos]( Show less []( # Stop Using ChatGPT Like a Beginner - Do THIS Instead (Save 100 Hours) No views May 15, 2026 0 Share Save Download Download [![Image 9]( 28:41]( ![Image 10]( ### [These ChatGPT Hacks Will Make You SO Productive It Feels Illegal]( Dan Martell 1.3M views • 4 months ago [![Image 11]( 34:38]( ![Image 12]( ### [THESE Apps Are SPYING on You — Shut Them Off NOW!]( Rossen Reports 793K views • Streamed 3 months ago [![Image 13]( LIVE]( ![Image 14]( ### [Storchennest Live Webcam in Bad Salzungen, Thüringen]( Stadtverwaltung Bad Salzungen 2.7K watching [![Image 15]( 21:40]( ![Image 16]( ### [10 Ways to Use ChatGPT So Well It Feels Illegal (Tutorial)]( Charlie Chang 1.3M views • 8 months ago [![Image 17]( 16:24]( ![Image 18]( ### [Your AI Starter Kit | A Beginner's Guide to Claude, ChatGPT & More]( Emily Higgins 3.1K views • 3 weeks ago [![Image 19]( 16:26]( ![Image 20]( ### [I Tried 100+ Claude Skills. These 7 Actually Run My Business]( Rick Mulready 6.6K views • 17 hours ago New [![Image 21]( 8:56]( ![Image 22]( ### [OpenClaw Explained: Why the Hype is (Mostly) Wrong]( Udacity 269K views • 2 months ago [![Image 23]( 27:51]( ![Image 24]( ### [ChatGPT Tutorial: How to Use Chat GPT For Beginners]( Charlie Chang 4.6M views • 3 years ago [![Image 25]( 21:49]( ![Image 26]( ### [Nobody Sees What Amazon Just Did to Tesla]( Farzad 196K views • 3 days ago New [![Image 27]( 15:13]( ![Image 28]( ### [How To Make VIRAL Psychology Videos Using FREE AI TooI]( Digit Coach 2.7K views • 5 months ago [![Image 29]( 17:54]( ![Image 30]( ### [The U",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "Token",
+      "workflow",
+      "prompt",
+      "Make",
+      "agent"
+    ],
+    "original_language": "en",
+    "raw_text": "YouTube title: Stop Using ChatGPT Like a Beginner - Do THIS Instead (Save 100 Hours)\nChannel: Digit Coach\nDescription: agent prompt: https://docs.google.com/document/d/1Pf8ILwbTS7_y6rjCEH0jIJSrkkheVBeUQBnfmm3NMLs/edit?usp=sharing Stop ...\nTranscript:\nTitle: Stop Using ChatGPT Like a Beginner - Do THIS Instead (Save 100 Hours) description&redir_token=REDACTED&q=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1Pf8ILwbTS7_y6rjCEH0jIJSrkkheVBeUQBnfmm3NMLs%2Fedit%3Fusp%3Dsharing&v=Ew3BKC12AMc)…...more ...more Transcript Follow along using the transcript. Show transcript [![Image 8](https://www.youtube.com/watch?v=Ew3BKC12AMc) ### Digit Coach 1.55K subscribers](https://www.youtube.com/@DigitCoach) [Videos](https://www.youtube.com/channel/UCNcpUM9CEIHHxnxJPhtJqqg/videos)[About](https://www.youtube.com/channel/UCNcpUM9CEIHHxnxJPhtJqqg/about) Show less [](https://www.youtube.com/watch?v=Ew3BKC12AMc) # Stop Using ChatGPT Like a Beginner - Do THIS Instead (Save 100 Hours) No views May 15, 2026 0 Share Save Download Download [![Image 9](https://www.youtube.com/watch?v=Ew3BKC12AMc) 28:41](https://www.youtube.com/watch?v=Mxy6MVbpNhg&pp=ugUEEgJlbg%3D%3D) ![Image 10](https://www.youtube.com/watch?v=Ew3BKC12AMc) ### [These ChatGPT Hacks Will Make You SO Productive It Feels Illegal](https://www.youtube.com/watch?v=Mxy6MVbpNhg&pp=ugUEEgJlbg%3D%3D) Dan Martell 1.3M views • 4 months ago [![Image 11](https://www.youtube.com/watch?v=Ew3BKC12AMc) 34:38](https://www.youtube.com/watch?v=xa43V8iJDfI) ![Image 12](https://www.youtube.com/watch?v=Ew3BKC12AMc) ### [THESE Apps Are SPYING on You — Shut Them Off NOW!](https://www.youtube.com/watch?v=xa43V8iJDfI) Rossen Reports 793K views • Streamed 3 months ago [![Image 13](https://www.youtube.com/watch?v=Ew3BKC12AMc) LIVE](https://www.youtube.com/watch?v=Dr5zebXpO-M) ![Image 14](https://www.youtube.com/watch?v=Ew3BKC12AMc) ### [Storchennest Live Webcam in Bad Salzungen, Thüringen](https://www.youtube.com/watch?v=Dr5zebXpO-M) Stadtverwaltung Bad Salzungen 2.7K watching [![Image 15](https://www.youtube.com/watch?v=Ew3BKC12AMc) 21:40](https://www.youtube.com/watch?v=Jg09XvHGHiQ) ![Image 16](https://www.youtube.com/watch?v=Ew3BKC12AMc) ### [10 Ways to Use ChatGPT So Well It Feels Illegal (Tutorial)](https://www.youtube.com/watch?v=Jg09XvHGHiQ) Charlie Chang 1.3M views • 8 months ago [![Image 17](https://www.youtube.com/watch?v=Ew3BKC12AMc) 16:24](https://www.youtube.com/watch?v=QZC-b3P3keQ) ![Image 18](https://www.youtube.com/watch?v=Ew3BKC12AMc) ### [Your AI Starter Kit | A Beginner's Guide to Claude, ChatGPT & More](https://www.youtube.com/watch?v=QZC-b3P3keQ) Emily Higgins 3.1K views • 3 weeks ago [![Image 19](https://www.youtube.com/watch?v=Ew3BKC12AMc) 16:26](https://www.youtube.com/watch?v=8piX0z_HI9I&pp=ugUHEgVlbi1VUw%3D%3D) ![Image 20](https://www.youtube.com/watch?v=Ew3BKC12AMc) ### [I Tried 100+ Claude Skills. These 7 Actually Run My Business](https://www.youtube.com/watch?v=8piX0z_HI9I&pp=ugUHEgVlbi1VUw%3D%3D) Rick Mulready 6.6K views • 17 hours ago New [![Image 21](https://www.youtube.com/watch?v=Ew3BKC12AMc) 8:56](https://www.youtube.com/watch?v=h3KP3uXGsLI&pp=ugUHEgVlbi1VUw%3D%3D) ![Image 22](https://www.youtube.com/watch?v=Ew3BKC12AMc) ### [OpenClaw Explained: Why the Hype is (Mostly) Wrong](https://www.youtube.com/watch?v=h3KP3uXGsLI&pp=ugUHEgVlbi1VUw%3D%3D) Udacity 269K views • 2 months ago [![Image 23](https://www.youtube.com/watch?v=Ew3BKC12AMc) 27:51](https://www.youtube.com/watch?v=Gaf_jCnA6mc) ![Image 24](https://www.youtube.com/watch?v=Ew3BKC12AMc) ### [ChatGPT Tutorial: How to Use Chat GPT For Beginners](https://www.youtube.com/watch?v=Gaf_jCnA6mc) Charlie Chang 4.6M views • 3 years ago [![Image 25](https://www.youtube.com/watch?v=Ew3BKC12AMc) 21:49](https://www.youtube.com/watch?v=0mYNPN0xA6c&pp=ugUEEgJlbg%3D%3D) ![Image 26](https://www.youtube.com/watch?v=Ew3BKC12AMc) ### [Nobody Sees What Amazon Just Did to Tesla](https://www.youtube.com/watch?v=0mYNPN0xA6c&pp=ugUEEgJlbg%3D%3D) Farzad 196K views • 3 days ago New [![Image 27](https://www.youtube.com/watch?v=Ew3BKC12AMc) 15:13](https://www.youtube.com/watch?v=GmOKq57DOGE&pp=ugUEEgJlbg%3D%3D) ![Image 28](https://www.youtube.com/watch?v=Ew3BKC12AMc) ### [How To Make VIRAL Psychology Videos Using FREE AI TooI](https://www.youtube.com/watch?v=GmOKq57DOGE&pp=ugUEEgJlbg%3D%3D) Digit Coach 2.7K views • 5 months ago [![Image 29](https://www.youtube.com/watch?v=Ew3BKC12AMc) 17:54](https://www.youtube.com/watch?v=F7G20NjSxeI) ![Image 30](https://www.youtube.com/watch?v=Ew3BKC12AMc) ### [The U",
+    "source_id": "yt-Ew3BKC12AMc",
+    "source_url": "https://www.youtube.com/watch?v=Ew3BKC12AMc",
+    "why_it_matters": "This is trending because people can copy the workflow immediately instead of only reading AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้ลองเอา JD จริง 1 ตำแหน่งมาทำ interview scorecard ก่อนนัดผู้สมัคร",
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=Ew3BKC12AMc",
+      "Keywords: Token, workflow, prompt, Make, agent",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "hook": "HR ใช้ AI ทำ Scorecard สัมภาษณ์ให้เทียบผู้สมัครง่ายขึ้น",
+    "original_keywords": [
+      "Token",
+      "workflow",
+      "prompt",
+      "Make",
+      "agent"
+    ],
+    "original_language": "en",
+    "problem": "สัมภาษณ์หลายคนแล้วจำไม่ครบ ถ้าไม่มี rubric ชัด ทีมจะตัดสินจากความรู้สึกมากกว่าหลักฐานของงานจริง",
+    "source_id": "yt-Ew3BKC12AMc",
+    "source_url": "https://www.youtube.com/watch?v=Ew3BKC12AMc",
+    "tips": [
+      "ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ",
+      "ขอ competency สำคัญ 5 ข้อ",
+      "ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency",
+      "ขอ rubric คะแนน 1-5 พร้อมตัวอย่างคำตอบ",
+      "เพิ่ม red flags และคำถาม follow-up ก่อนตัดสินใจ"
+    ],
+    "trend_angle": "AI ช่วย HR ได้ดีเมื่อเปลี่ยน JD เป็น competency, คำถามสัมภาษณ์, rubric 1-5 และ red flags ที่ต้องเช็กก่อนตัดสินใจ"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "9e6hspttsppte4JaxahbM_j0rLC0zO.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a4817/9e6hspttsppte4JaxahbM_j0rLC0zO.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260515T075304Z-yt-Ew3BKC12AMc/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "Ovcw531ic49y_f8BpuGv0_YkcP6URb.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a481b/Ovcw531ic49y_f8BpuGv0_YkcP6URb.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260515T075304Z-yt-Ew3BKC12AMc/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "ghfASDvKUjMYEDuJ4NeNc_ziI6lA5d.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a4820/ghfASDvKUjMYEDuJ4NeNc_ziI6lA5d.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260515T075304Z-yt-Ew3BKC12AMc/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "MNzqvXyamSODfVpLF3NkH_fXprxJwM.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a4825/MNzqvXyamSODfVpLF3NkH_fXprxJwM.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260515T075304Z-yt-Ew3BKC12AMc/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "jkR64fgYrPjyicTT8qDl3_UugrxSX7.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a482b/jkR64fgYrPjyicTT8qDl3_UugrxSX7.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260515T075304Z-yt-Ew3BKC12AMc/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "1dAUHOXSDcP1VSSyF1KS2_vHfDCWhq.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a4830/1dAUHOXSDcP1VSSyF1KS2_vHfDCWhq.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260515T075304Z-yt-Ew3BKC12AMc/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "1hQsQZ60ZpRpxKTaGdw79_huQcotoY.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a4835/1hQsQZ60ZpRpxKTaGdw79_huQcotoY.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260515T075304Z-yt-Ew3BKC12AMc/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "5EpbrnjvrWtZ_x3QvZSkG_sqwIHzie.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a483b/5EpbrnjvrWtZ_x3QvZSkG_sqwIHzie.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260515T075304Z-yt-Ew3BKC12AMc/slide-8.png",
+      "slide_index": 8,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 9,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260515T075304Z-yt-Ew3BKC12AMc/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: สัมภาษณ์หลายคนแล้วจำไม่ครบ ถ้าไม่มี rubric ชัด ทีมจะตัดสินจากความรู้สึกมากกว่าหลักฐานของงานจริง\n\n📌 ทำไมควรเซฟโพสต์นี้: AI ช่วย HR ได้ดีเมื่อเปลี่ยน JD เป็น competency, คำถามสัมภาษณ์, rubric 1-5 และ red flags ที่ต้องเช็กก่อนตัดสินใจ\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ\n\n2) ✨ ขอ competency สำคัญ 5 ข้อ\n\n3) ✨ ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency\n\n4) ✨ ขอ rubric คะแนน 1-5 พร้อมตัวอย่างคำตอบ\n\n🧪 ลองเริ่มวันนี้: วันนี้ลองเอา JD จริง 1 ตำแหน่งมาทำ interview scorecard ก่อนนัดผู้สมัคร\n\n🧭 วิธีใช้กับงานนี้: ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ → ขอ competency สำคัญ 5 ข้อ → ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency\n\n🌱 มือใหม่ให้เริ่มจากเคสจริงเล็ก ๆ ของอุตสาหกรรมนี้ แล้วให้คนในทีมตรวจคำตอบก่อนใช้กับลูกค้าจริง\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเห็นว่า AI ช่วยลดงานซ้ำและทำให้บริการชัดขึ้นได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "HR ใช้ AI ทำ Scorecard สัมภาษณ์ให้เทียบผู้สมัครง่ายขึ้น #AIมือใหม่"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=Ew3BKC12AMc",
+      "Keywords: Token, workflow, prompt, Make, agent",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "glossary": {
+      "Make": "Make",
+      "Token": "ชิ้นข้อความที่ AI ใช้นับ",
+      "agent": "เอเจนต์ AI",
+      "prompt": "พรอมป์ต์",
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "Token",
+      "workflow",
+      "prompt",
+      "Make",
+      "agent"
+    ],
+    "source_id": "yt-Ew3BKC12AMc",
+    "source_url": "https://www.youtube.com/watch?v=Ew3BKC12AMc",
+    "thai_call_to_action": "วันนี้ลองเอา JD จริง 1 ตำแหน่งมาทำ interview scorecard ก่อนนัดผู้สมัคร",
+    "thai_hook": "HR ใช้ AI ทำ Scorecard สัมภาษณ์ให้เทียบผู้สมัครง่ายขึ้น",
+    "thai_problem": "สัมภาษณ์หลายคนแล้วจำไม่ครบ ถ้าไม่มี rubric ชัด ทีมจะตัดสินจากความรู้สึกมากกว่าหลักฐานของงานจริง",
+    "thai_tips": [
+      "ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ",
+      "ขอ competency สำคัญ 5 ข้อ",
+      "ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency",
+      "ขอ rubric คะแนน 1-5 พร้อมตัวอย่างคำตอบ",
+      "เพิ่ม red flags และคำถาม follow-up ก่อนตัดสินใจ"
+    ],
+    "thai_trend_angle": "AI ช่วย HR ได้ดีเมื่อเปลี่ยน JD เป็น competency, คำถามสัมภาษณ์, rubric 1-5 และ red flags ที่ต้องเช็กก่อนตัดสินใจ"
+  }
+}

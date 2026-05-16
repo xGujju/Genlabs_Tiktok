@@ -1,0 +1,304 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a9a67d4/XwNdmYirXVjqRtwwBQtcW_k7NyY5eX.png",
+    "https://v3b.fal.media/files/b/0a9a67d8/j72QuAgC6RMm6hSlawQ0W_EP2zTvEd.png",
+    "https://v3b.fal.media/files/b/0a9a67dc/CrLL7FcOJcRaXqA6nL6LN_0kZiyP3J.png",
+    "https://v3b.fal.media/files/b/0a9a67e0/jKHssyjLM5n-ixeimPfN8_cjz8w1sJ.png",
+    "https://v3b.fal.media/files/b/0a9a67e4/bVyIZ-zBn6voOTv7AhWYM_6ioQetvQ.png",
+    "https://v3b.fal.media/files/b/0a9a67e9/gwZV_ZtpWRuvQKV84yRYR_n7HfKFuh.png",
+    "https://v3b.fal.media/files/b/0a9a67ec/QfGcYeLUKdV9eUDrPADec_z4qVQKTo.png",
+    "https://v3b.fal.media/files/b/0a9a67f0/A9iTztrGGoEFdxIE7XPfc_yAVnJsSr.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 8,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/8 role=hook. Thai copy: ทำ Custom GPT ให้แอดมินตอบลูกค้าไม่หลุดกฎร้าน\nToken • Custom GPT • workflow • Make. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "ทำ Custom GPT ให้แอดมินตอบลูกค้าไม่หลุดกฎร้าน\nToken • Custom GPT • workflow • Make",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/8 role=problem. Thai copy: ปัญหา: แอดมินตอบลูกค้าเร็วขึ้นได้ แต่ถ้าไม่มี FAQ กฎคืนสินค้า และข้อห้าม AI อาจตอบมั่วหรือสัญญาเกินจริง. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: แอดมินตอบลูกค้าเร็วขึ้นได้ แต่ถ้าไม่มี FAQ กฎคืนสินค้า และข้อห้าม AI อาจตอบมั่วหรือสัญญาเกินจริง",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/8 role=trend. Thai copy: ทำไมควรสนใจ:\nCustom GPT ใช้ได้จริงเมื่อมี instruction ชัด: ตอบอะไรได้ ต้องถามอะไรเพิ่ม และเรื่องไหนต้องส่งต่อให้คน. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nCustom GPT ใช้ได้จริงเมื่อมี instruction ชัด: ตอบอะไรได้ ต้องถามอะไรเพิ่ม และเรื่องไหนต้องส่งต่อให้คน",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/8 role=tips. Thai copy: ลองใช้แบบนี้:\n1) ใส่ FAQ ราคา เงื่อนไขส่งของ คืนสินค้า และ tone ร้าน\n2) กำหนดช่องคำตอบ: ตอบสั้น / ต้องถามเพิ่ม / ห้ามสัญญา\n3) ใส่ตัวอย่างคำถามจริงจาก LINE OA\n4) ให้ GPT flag เคส refund โกรธมาก หรือข้อมูลไม่พอ. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) ใส่ FAQ ราคา เงื่อนไขส่งของ คืนสินค้า และ tone ร้าน\n2) กำหนดช่องคำตอบ: ตอบสั้น / ต้องถามเพิ่ม / ห้ามสัญญา\n3) ใส่ตัวอย่างคำถามจริงจาก LINE OA\n4) ให้ GPT flag เคส refund โกรธมาก หรือข้อมูลไม่พอ",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/8 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/8 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\n5) ทดสอบด้วยคำถามยาก 10 ข้อก่อนให้ทีมใช้. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\n5) ทดสอบด้วยคำถามยาก 10 ข้อก่อนให้ทีมใช้",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/8 role=framework. Thai copy: จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ. Visual direction: five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "framework",
+        "thai_copy": "จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ",
+        "visual_direction": "five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat"
+      },
+      {
+        "image_prompt": "Slide 8/8 role=cta. Thai copy: ลองวันนี้:\nวันนี้รวบรวมคำถามซ้ำ 20 ข้อ แล้วสร้าง instruction แอดมิน AI เวอร์ชันแรก. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 8,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้รวบรวมคำถามซ้ำ 20 ข้อ แล้วสร้าง instruction แอดมิน AI เวอร์ชันแรก",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "yt-J4JJ3z2NypE",
+    "source_url": "https://www.youtube.com/watch?v=J4JJ3z2NypE",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://www.youtube.com/watch?v=J4JJ3z2NypE",
+        "Keywords: Token, Custom GPT, workflow, Make, agent",
+        "This is trending because people can copy the workflow immediately instead of only reading AI news."
+      ],
+      "glossary": {
+        "Custom GPT": "Custom GPT",
+        "Make": "Make",
+        "Token": "ชิ้นข้อความที่ AI ใช้นับ",
+        "agent": "เอเจนต์ AI",
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "Token",
+        "Custom GPT",
+        "workflow",
+        "Make",
+        "agent"
+      ],
+      "source_id": "yt-J4JJ3z2NypE",
+      "source_url": "https://www.youtube.com/watch?v=J4JJ3z2NypE",
+      "thai_call_to_action": "วันนี้รวบรวมคำถามซ้ำ 20 ข้อ แล้วสร้าง instruction แอดมิน AI เวอร์ชันแรก",
+      "thai_hook": "ทำ Custom GPT ให้แอดมินตอบลูกค้าไม่หลุดกฎร้าน",
+      "thai_problem": "แอดมินตอบลูกค้าเร็วขึ้นได้ แต่ถ้าไม่มี FAQ กฎคืนสินค้า และข้อห้าม AI อาจตอบมั่วหรือสัญญาเกินจริง",
+      "thai_tips": [
+        "ใส่ FAQ ราคา เงื่อนไขส่งของ คืนสินค้า และ tone ร้าน",
+        "กำหนดช่องคำตอบ: ตอบสั้น / ต้องถามเพิ่ม / ห้ามสัญญา",
+        "ใส่ตัวอย่างคำถามจริงจาก LINE OA",
+        "ให้ GPT flag เคส refund โกรธมาก หรือข้อมูลไม่พอ",
+        "ทดสอบด้วยคำถามยาก 10 ข้อก่อนให้ทีมใช้"
+      ],
+      "thai_trend_angle": "Custom GPT ใช้ได้จริงเมื่อมี instruction ชัด: ตอบอะไรได้ ต้องถามอะไรเพิ่ม และเรื่องไหนต้องส่งต่อให้คน"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "AI Agents Podcast",
+    "clean_headline": "ChatGPT Workspace Agents: Automating Workflows with AI Integrations and Memory | EP 140 AI Agents Podcast Subscribe to AI Agents Podcast In this episode of the",
+    "clean_summary": "ChatGPT Workspace Agents: Automating Workflows with AI Integrations and Memory | EP 140 AI Agents Podcast Subscribe to AI Agents Podcast In this episode of the AI Agents Podcast, ... Transcript: ChatGPT Workspace Agents: Automating Workflows with AI Integrations and Memory | EP 140 description&redir_token=REDACTED&q=https%3A%2F%2Flink.jotform.com%2Fsubscribe-to-podcast&v=J4JJ3z2NypE)…...more ...more ## Chapters View all [![Image 8]( #### Why AI agents are becoming so powerful #### Why AI agents are becoming so powerful 0:00]( #### [Why AI agents are becoming so powerful]( 0:00 [![Image 9]( #### Introduction to ChatGPT Workspace Agents #### Introduction to ChatGPT Workspace Agents 0:48]( #### [Introduction to ChatGPT Workspace Agents]( 0:48 [![Image 10]( #### What makes Workspace Agents different from Custom GPTs #### What makes Workspace Agents different from Custom GPTs 3:29]( #### [What makes Workspace Agents different from Custom GPTs]( 3:29 [![Image 11]( #### Integrations, skills, and memory explained #### Integrations, skills, and memory explained 6:09]( #### [Integrations, skills, and memory explained]( 6:09 [![Image 12]( #### Claude Managed Agents vs ChatGPT Agents #### Claude Managed Agents vs ChatGPT Agents 9:03]( #### [Claude Managed Agents vs ChatGPT Agents]( 9:03 [![Image 13]( #### Building an uptime monitoring AI agent live #### Building an uptime monitoring AI agent live 11:30]( #### [Building an uptime monitoring AI agent live]( 11:30 [![Image 14]( #### Creating a Google Docs monitoring workflow #### Creating a Google Docs monitoring workflow 21:58]( #### [Creating a Google Docs monitoring workflow]( 21:58 [![Image 15]( #### How AI agents are changing productivity and automation #### How AI agents are changing productivity and automation 27:51]( #### [How AI agents are changing productivity and automation]( 27:51 Explore the podcast [![Image 16]( episodes 140 episodes]( AI Agents Podcast AI Agents Podcast [![Image 17]( Podcasts]( Transcript Follow along using the transcript. Show transcript [![Image 18]( ### AI Agents Podcast 63.7K subscribers]( [Videos]( 19]( Instagram]( 20]( TikTok]( ## Chapters View all [![Image 8]( #### Why AI agents are becoming so powerful #### Why AI agents are becoming so powerful 0:00]( #### [Why AI agents are becoming so powerful]( 0:00 [![Image 9]( #### Introduction to ChatGPT Workspace Agents #### Introduction to ChatGPT Workspace Agents 0:48]( #### [Introduction to ChatGPT Workspace Agents]( 0:48 [![Image 10]( #### What makes Workspace Agents different from Custom GPTs #### What makes Workspace Agents different from Custom GPTs 3:29]( #### [What makes Workspace Agents different from Custom GPTs]( 3:29 [![Image 11]( #### Integrations, skills, and memory explained #### Integrations, skills, and memory explained 6:09]( #### [Integrations, skills, and memory explained]( 6:09 [![Image 12]( #### Claude Managed Agents vs ChatGPT Agents #### Claude Managed Agents vs ChatGPT Agents 9:03]( #### [Claude Managed Agents vs ChatGPT Agents]( 9:03 [![Image 13]( #### Building an uptime monitoring AI agent live #### Building an uptime monitoring AI agent live 11:30]( #### [Building an uptime monitoring AI agent live]( 11:30 [![Image 14]( #### Creating a Google Docs monitoring workflow #### Creating a Google Docs monitoring workflow 21:58]( #### [Creating a Google Docs monitoring workflow]( 21:58 [![Image 15]( #### How AI agents are changing productivity and automation #### How AI agents are changing productivity and automation 27:51]( #### [How AI agents are changing productivity and automation]( 27:51 Explore the podcast [![Image 16]( episodes 140 episodes]( AI Agents Podcast AI Agents Podcast [![Image 17](",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 240,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "Token",
+      "Custom GPT",
+      "workflow",
+      "Make",
+      "agent"
+    ],
+    "original_language": "en",
+    "raw_text": "YouTube title: ChatGPT Workspace Agents: Automating Workflows with AI Integrations and Memory | EP 140\nChannel: AI Agents Podcast\nDescription: Subscribe to AI Agents Podcast Channel: https://link.jotform.com/subscribe-to-podcast In this episode of the AI Agents Podcast, ...\nTranscript:\nTitle: ChatGPT Workspace Agents: Automating Workflows with AI Integrations and Memory | EP 140 description&redir_token=REDACTED&q=https%3A%2F%2Flink.jotform.com%2Fsubscribe-to-podcast&v=J4JJ3z2NypE)…...more ...more ## Chapters View all [![Image 8](https://www.youtube.com/watch?v=J4JJ3z2NypE) #### Why AI agents are becoming so powerful #### Why AI agents are becoming so powerful 0:00](https://www.youtube.com/watch?v=J4JJ3z2NypE) #### [Why AI agents are becoming so powerful](https://www.youtube.com/watch?v=J4JJ3z2NypE) 0:00 [![Image 9](https://www.youtube.com/watch?v=J4JJ3z2NypE) #### Introduction to ChatGPT Workspace Agents #### Introduction to ChatGPT Workspace Agents 0:48](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=48s&pp=0gcJCRQDDuyUWbzu) #### [Introduction to ChatGPT Workspace Agents](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=48s&pp=0gcJCRQDDuyUWbzu) 0:48 [![Image 10](https://www.youtube.com/watch?v=J4JJ3z2NypE) #### What makes Workspace Agents different from Custom GPTs #### What makes Workspace Agents different from Custom GPTs 3:29](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=209s&pp=0gcJCRQDDuyUWbzu) #### [What makes Workspace Agents different from Custom GPTs](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=209s&pp=0gcJCRQDDuyUWbzu) 3:29 [![Image 11](https://www.youtube.com/watch?v=J4JJ3z2NypE) #### Integrations, skills, and memory explained #### Integrations, skills, and memory explained 6:09](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=369s) #### [Integrations, skills, and memory explained](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=369s) 6:09 [![Image 12](https://www.youtube.com/watch?v=J4JJ3z2NypE) #### Claude Managed Agents vs ChatGPT Agents #### Claude Managed Agents vs ChatGPT Agents 9:03](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=543s) #### [Claude Managed Agents vs ChatGPT Agents](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=543s) 9:03 [![Image 13](https://www.youtube.com/watch?v=J4JJ3z2NypE) #### Building an uptime monitoring AI agent live #### Building an uptime monitoring AI agent live 11:30](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=690s) #### [Building an uptime monitoring AI agent live](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=690s) 11:30 [![Image 14](https://www.youtube.com/watch?v=J4JJ3z2NypE) #### Creating a Google Docs monitoring workflow #### Creating a Google Docs monitoring workflow 21:58](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=1318s) #### [Creating a Google Docs monitoring workflow](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=1318s) 21:58 [![Image 15](https://www.youtube.com/watch?v=J4JJ3z2NypE) #### How AI agents are changing productivity and automation #### How AI agents are changing productivity and automation 27:51](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=1671s&pp=0gcJCRQDDuyUWbzu) #### [How AI agents are changing productivity and automation](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=1671s&pp=0gcJCRQDDuyUWbzu) 27:51 Explore the podcast [![Image 16](https://www.youtube.com/watch?v=J4JJ3z2NypE)140 episodes 140 episodes](https://www.youtube.com/playlist?list=PLC-KvrDf_kp_O0dXgVOM1hLkWgfQYRDdF) AI Agents Podcast AI Agents Podcast [![Image 17](https://www.youtube.com/watch?v=J4JJ3z2NypE) Podcasts](https://www.youtube.com/podcasts) Transcript Follow along using the transcript. Show transcript [![Image 18](https://www.youtube.com/watch?v=J4JJ3z2NypE) ### AI Agents Podcast 63.7K subscribers](https://www.youtube.com/@ai-agents-podcast) [Videos](https://www.youtube.com/channel/UCIkU9Fe0OccRmqBMXRm1Q7A/videos)[About](https://www.youtube.com/channel/UCIkU9Fe0OccRmqBMXRm1Q7A/about)[![Image 19](https://www.youtube.com/watch?v=J4JJ3z2NypE) Instagram](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=REDACTED&q=https%3A%2F%2Fwww.instagram.com%2Faiagentspodcast)[![Image 20](https://www.youtube.com/watch?v=J4JJ3z2NypE) TikTok](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=REDACTED&q=https%3A%2F%2Fww ## Chapters View all [![Image 8](https://www.youtube.com/watch?v=J4JJ3z2NypE) #### Why AI agents are becoming so powerful #### Why AI agents are becoming so powerful 0:00](https://www.youtube.com/watch?v=J4JJ3z2NypE) #### [Why AI agents are becoming so powerful](https://www.youtube.com/watch?v=J4JJ3z2NypE) 0:00 [![Image 9](https://www.youtube.com/watch?v=J4JJ3z2NypE) #### Introduction to ChatGPT Workspace Agents #### Introduction to ChatGPT Workspace Agents 0:48](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=48s&pp=0gcJCRQDDuyUWbzu) #### [Introduction to ChatGPT Workspace Agents](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=48s&pp=0gcJCRQDDuyUWbzu) 0:48 [![Image 10](https://www.youtube.com/watch?v=J4JJ3z2NypE) #### What makes Workspace Agents different from Custom GPTs #### What makes Workspace Agents different from Custom GPTs 3:29](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=209s&pp=0gcJCRQDDuyUWbzu) #### [What makes Workspace Agents different from Custom GPTs](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=209s&pp=0gcJCRQDDuyUWbzu) 3:29 [![Image 11](https://www.youtube.com/watch?v=J4JJ3z2NypE) #### Integrations, skills, and memory explained #### Integrations, skills, and memory explained 6:09](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=369s) #### [Integrations, skills, and memory explained](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=369s) 6:09 [![Image 12](https://www.youtube.com/watch?v=J4JJ3z2NypE) #### Claude Managed Agents vs ChatGPT Agents #### Claude Managed Agents vs ChatGPT Agents 9:03](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=543s) #### [Claude Managed Agents vs ChatGPT Agents](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=543s) 9:03 [![Image 13](https://www.youtube.com/watch?v=J4JJ3z2NypE) #### Building an uptime monitoring AI agent live #### Building an uptime monitoring AI agent live 11:30](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=690s) #### [Building an uptime monitoring AI agent live](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=690s) 11:30 [![Image 14](https://www.youtube.com/watch?v=J4JJ3z2NypE) #### Creating a Google Docs monitoring workflow #### Creating a Google Docs monitoring workflow 21:58](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=1318s) #### [Creating a Google Docs monitoring workflow](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=1318s) 21:58 [![Image 15](https://www.youtube.com/watch?v=J4JJ3z2NypE) #### How AI agents are changing productivity and automation #### How AI agents are changing productivity and automation 27:51](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=1671s&pp=0gcJCRQDDuyUWbzu) #### [How AI agents are changing productivity and automation](https://www.youtube.com/watch?v=J4JJ3z2NypE&t=1671s&pp=0gcJCRQDDuyUWbzu) 27:51 Explore the podcast [![Image 16](https://www.youtube.com/watch?v=J4JJ3z2NypE)140 episodes 140 episodes](https://www.youtube.com/playlist?list=PLC-KvrDf_kp_O0dXgVOM1hLkWgfQYRDdF) AI Agents Podcast AI Agents Podcast [![Image 17](https://ww",
+    "source_id": "yt-J4JJ3z2NypE",
+    "source_url": "https://www.youtube.com/watch?v=J4JJ3z2NypE",
+    "why_it_matters": "This is trending because people can copy the workflow immediately instead of only reading AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้รวบรวมคำถามซ้ำ 20 ข้อ แล้วสร้าง instruction แอดมิน AI เวอร์ชันแรก",
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=J4JJ3z2NypE",
+      "Keywords: Token, Custom GPT, workflow, Make, agent",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "hook": "ทำ Custom GPT ให้แอดมินตอบลูกค้าไม่หลุดกฎร้าน",
+    "original_keywords": [
+      "Token",
+      "Custom GPT",
+      "workflow",
+      "Make",
+      "agent"
+    ],
+    "original_language": "en",
+    "problem": "แอดมินตอบลูกค้าเร็วขึ้นได้ แต่ถ้าไม่มี FAQ กฎคืนสินค้า และข้อห้าม AI อาจตอบมั่วหรือสัญญาเกินจริง",
+    "source_id": "yt-J4JJ3z2NypE",
+    "source_url": "https://www.youtube.com/watch?v=J4JJ3z2NypE",
+    "tips": [
+      "ใส่ FAQ ราคา เงื่อนไขส่งของ คืนสินค้า และ tone ร้าน",
+      "กำหนดช่องคำตอบ: ตอบสั้น / ต้องถามเพิ่ม / ห้ามสัญญา",
+      "ใส่ตัวอย่างคำถามจริงจาก LINE OA",
+      "ให้ GPT flag เคส refund โกรธมาก หรือข้อมูลไม่พอ",
+      "ทดสอบด้วยคำถามยาก 10 ข้อก่อนให้ทีมใช้"
+    ],
+    "trend_angle": "Custom GPT ใช้ได้จริงเมื่อมี instruction ชัด: ตอบอะไรได้ ต้องถามอะไรเพิ่ม และเรื่องไหนต้องส่งต่อให้คน"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "XwNdmYirXVjqRtwwBQtcW_k7NyY5eX.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a67d4/XwNdmYirXVjqRtwwBQtcW_k7NyY5eX.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260516T062723Z-yt-J4JJ3z2NypE/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "j72QuAgC6RMm6hSlawQ0W_EP2zTvEd.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a67d8/j72QuAgC6RMm6hSlawQ0W_EP2zTvEd.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260516T062723Z-yt-J4JJ3z2NypE/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "CrLL7FcOJcRaXqA6nL6LN_0kZiyP3J.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a67dc/CrLL7FcOJcRaXqA6nL6LN_0kZiyP3J.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260516T062723Z-yt-J4JJ3z2NypE/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "jKHssyjLM5n-ixeimPfN8_cjz8w1sJ.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a67e0/jKHssyjLM5n-ixeimPfN8_cjz8w1sJ.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260516T062723Z-yt-J4JJ3z2NypE/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "bVyIZ-zBn6voOTv7AhWYM_6ioQetvQ.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a67e4/bVyIZ-zBn6voOTv7AhWYM_6ioQetvQ.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260516T062723Z-yt-J4JJ3z2NypE/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "gwZV_ZtpWRuvQKV84yRYR_n7HfKFuh.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a67e9/gwZV_ZtpWRuvQKV84yRYR_n7HfKFuh.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260516T062723Z-yt-J4JJ3z2NypE/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "QfGcYeLUKdV9eUDrPADec_z4qVQKTo.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a67ec/QfGcYeLUKdV9eUDrPADec_z4qVQKTo.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260516T062723Z-yt-J4JJ3z2NypE/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "A9iTztrGGoEFdxIE7XPfc_yAVnJsSr.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a67f0/A9iTztrGGoEFdxIE7XPfc_yAVnJsSr.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260516T062723Z-yt-J4JJ3z2NypE/slide-8.png",
+      "slide_index": 8,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 9,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260516T062723Z-yt-J4JJ3z2NypE/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: แอดมินตอบลูกค้าเร็วขึ้นได้ แต่ถ้าไม่มี FAQ กฎคืนสินค้า และข้อห้าม AI อาจตอบมั่วหรือสัญญาเกินจริง\n\n📌 ทำไมควรเซฟโพสต์นี้: Custom GPT ใช้ได้จริงเมื่อมี instruction ชัด: ตอบอะไรได้ ต้องถามอะไรเพิ่ม และเรื่องไหนต้องส่งต่อให้คน\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ ใส่ FAQ ราคา เงื่อนไขส่งของ คืนสินค้า และ tone ร้าน\n\n2) ✨ กำหนดช่องคำตอบ: ตอบสั้น / ต้องถามเพิ่ม / ห้ามสัญญา\n\n3) ✨ ใส่ตัวอย่างคำถามจริงจาก LINE OA\n\n4) ✨ ให้ GPT flag เคส refund โกรธมาก หรือข้อมูลไม่พอ\n\n🧪 ลองเริ่มวันนี้: วันนี้รวบรวมคำถามซ้ำ 20 ข้อ แล้วสร้าง instruction แอดมิน AI เวอร์ชันแรก\n\n🧭 วิธีใช้กับงานนี้: ใส่ FAQ ราคา เงื่อนไขส่งของ คืนสินค้า และ tone ร้าน → กำหนดช่องคำตอบ: ตอบสั้น / ต้องถามเพิ่ม / ห้ามสัญญา → ใส่ตัวอย่างคำถามจริงจาก LINE OA\n\n🌱 มือใหม่ให้เริ่มจากเคสจริงเล็ก ๆ ของอุตสาหกรรมนี้ แล้วให้คนในทีมตรวจคำตอบก่อนใช้กับลูกค้าจริง\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเห็นว่า AI ช่วยลดงานซ้ำและทำให้บริการชัดขึ้นได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "ทำ Custom GPT ให้แอดมินตอบลูกค้าไม่หลุดกฎร้าน #AIมือใหม่ เอาไปใช้กับงานจริงได้ทันที"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=J4JJ3z2NypE",
+      "Keywords: Token, Custom GPT, workflow, Make, agent",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "glossary": {
+      "Custom GPT": "Custom GPT",
+      "Make": "Make",
+      "Token": "ชิ้นข้อความที่ AI ใช้นับ",
+      "agent": "เอเจนต์ AI",
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "Token",
+      "Custom GPT",
+      "workflow",
+      "Make",
+      "agent"
+    ],
+    "source_id": "yt-J4JJ3z2NypE",
+    "source_url": "https://www.youtube.com/watch?v=J4JJ3z2NypE",
+    "thai_call_to_action": "วันนี้รวบรวมคำถามซ้ำ 20 ข้อ แล้วสร้าง instruction แอดมิน AI เวอร์ชันแรก",
+    "thai_hook": "ทำ Custom GPT ให้แอดมินตอบลูกค้าไม่หลุดกฎร้าน",
+    "thai_problem": "แอดมินตอบลูกค้าเร็วขึ้นได้ แต่ถ้าไม่มี FAQ กฎคืนสินค้า และข้อห้าม AI อาจตอบมั่วหรือสัญญาเกินจริง",
+    "thai_tips": [
+      "ใส่ FAQ ราคา เงื่อนไขส่งของ คืนสินค้า และ tone ร้าน",
+      "กำหนดช่องคำตอบ: ตอบสั้น / ต้องถามเพิ่ม / ห้ามสัญญา",
+      "ใส่ตัวอย่างคำถามจริงจาก LINE OA",
+      "ให้ GPT flag เคส refund โกรธมาก หรือข้อมูลไม่พอ",
+      "ทดสอบด้วยคำถามยาก 10 ข้อก่อนให้ทีมใช้"
+    ],
+    "thai_trend_angle": "Custom GPT ใช้ได้จริงเมื่อมี instruction ชัด: ตอบอะไรได้ ต้องถามอะไรเพิ่ม และเรื่องไหนต้องส่งต่อให้คน"
+  }
+}

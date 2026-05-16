@@ -1,0 +1,269 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a9a5f40/ZpkSjkLwPYIdGNMVHdpwO_D4TrMu4l.png",
+    "https://v3b.fal.media/files/b/0a9a5f43/QS1qi4rMnlb_8F5qfVKnK_QagFUkCM.png",
+    "https://v3b.fal.media/files/b/0a9a5f47/7ZDTJg7jpf63vnz3r0gGc_AnT5g6qf.png",
+    "https://v3b.fal.media/files/b/0a9a5f4b/kyveDEz9yONdVysCKnUvi_0rVRnhVj.png",
+    "https://v3b.fal.media/files/b/0a9a5f4e/3viFBdu1wKRftOA6bEOg__1oplMfYA.png",
+    "https://v3b.fal.media/files/b/0a9a5f52/Kuc858prPLej2jAuDrGXF_8viQhW6T.png",
+    "https://v3b.fal.media/files/b/0a9a5f55/oSTzwyXoajEejFAKJe5jg_ghWN6BpK.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 7,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/7 role=hook. Thai copy: HR ใช้ AI ทำ Scorecard สัมภาษณ์ให้เทียบผู้สมัครง่ายขึ้น\nToken • Make. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "HR ใช้ AI ทำ Scorecard สัมภาษณ์ให้เทียบผู้สมัครง่ายขึ้น\nToken • Make",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/7 role=problem. Thai copy: ปัญหา: สัมภาษณ์หลายคนแล้วจำไม่ครบ ถ้าไม่มี rubric ชัด ทีมจะตัดสินจากความรู้สึกมากกว่าหลักฐานของงานจริง. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: สัมภาษณ์หลายคนแล้วจำไม่ครบ ถ้าไม่มี rubric ชัด ทีมจะตัดสินจากความรู้สึกมากกว่าหลักฐานของงานจริง",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/7 role=trend. Thai copy: ทำไมควรสนใจ:\nAI ช่วย HR ได้ดีเมื่อเปลี่ยน JD เป็น competency, คำถามสัมภาษณ์, rubric 1-5 และ red flags ที่ต้องเช็กก่อนตัดสินใจ. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nAI ช่วย HR ได้ดีเมื่อเปลี่ยน JD เป็น competency, คำถามสัมภาษณ์, rubric 1-5 และ red flags ที่ต้องเช็กก่อนตัดสินใจ",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/7 role=tips. Thai copy: ลองใช้แบบนี้:\n1) ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ\n2) ขอ competency สำคัญ 5 ข้อ\n3) ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency\n4) ขอ rubric คะแนน 1-5 พร้อมตัวอย่างคำตอบ. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ\n2) ขอ competency สำคัญ 5 ข้อ\n3) ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency\n4) ขอ rubric คะแนน 1-5 พร้อมตัวอย่างคำตอบ",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/7 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/7 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\n5) เพิ่ม red flags และคำถาม follow-up ก่อนตัดสินใจ. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\n5) เพิ่ม red flags และคำถาม follow-up ก่อนตัดสินใจ",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/7 role=cta. Thai copy: ลองวันนี้:\nวันนี้ลองเอา JD จริง 1 ตำแหน่งมาทำ interview scorecard ก่อนนัดผู้สมัคร. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้ลองเอา JD จริง 1 ตำแหน่งมาทำ interview scorecard ก่อนนัดผู้สมัคร",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "yt-wqFq5AhKpIA",
+    "source_url": "https://www.youtube.com/watch?v=wqFq5AhKpIA",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://www.youtube.com/watch?v=wqFq5AhKpIA",
+        "Keywords: Token, Make",
+        "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+      ],
+      "glossary": {
+        "Make": "Make",
+        "Token": "ชิ้นข้อความที่ AI ใช้นับ"
+      },
+      "original_keywords": [
+        "Token",
+        "Make"
+      ],
+      "source_id": "yt-wqFq5AhKpIA",
+      "source_url": "https://www.youtube.com/watch?v=wqFq5AhKpIA",
+      "thai_call_to_action": "วันนี้ลองเอา JD จริง 1 ตำแหน่งมาทำ interview scorecard ก่อนนัดผู้สมัคร",
+      "thai_hook": "HR ใช้ AI ทำ Scorecard สัมภาษณ์ให้เทียบผู้สมัครง่ายขึ้น",
+      "thai_problem": "สัมภาษณ์หลายคนแล้วจำไม่ครบ ถ้าไม่มี rubric ชัด ทีมจะตัดสินจากความรู้สึกมากกว่าหลักฐานของงานจริง",
+      "thai_tips": [
+        "ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ",
+        "ขอ competency สำคัญ 5 ข้อ",
+        "ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency",
+        "ขอ rubric คะแนน 1-5 พร้อมตัวอย่างคำตอบ",
+        "เพิ่ม red flags และคำถาม follow-up ก่อนตัดสินใจ"
+      ],
+      "thai_trend_angle": "AI ช่วย HR ได้ดีเมื่อเปลี่ยน JD เป็น competency, คำถามสัมภาษณ์, rubric 1-5 และ red flags ที่ต้องเช็กก่อนตัดสินใจ"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "A1 Republic",
+    "clean_headline": "How To Make Money With Base44 In 2026 (Step by Step) A1 Republic How To Make Money With Base44 In 2026 (Step by Step) Everyone online is saying Base44 can turn",
+    "clean_summary": "How To Make Money With Base44 In 2026 (Step by Step) A1 Republic How To Make Money With Base44 In 2026 (Step by Step) Everyone online is saying Base44 can turn your ideas into money ... Transcript: How To Make Money With Base44 In 2026 (Step by Step) Description How To Make Money With Base44 In 2026 (Step by Step) 0 Likes 10 Views 1h Ago How To Make Money With Base44 In 2026 (Step by Step) Everyone online is saying Base44 can turn your ideas into money overnight. But is that actually true? In this video, I break down how Base44 really works, who's actually making money with it, and the biggest mistake beginners make that kills their chances before they even start. Timestamps: [0:00]( base44 make money 2026 [0:34]( why most base44 videos are lying to you [0:54]( base44 is a tool not a money printer [1:39]( what is base44 and how does it actually work [2:43]( why faster building does not mean easier money [3:08]( how people are actually making money with base44 [3:29]( best base44 use case for beginners internal business tools [4:19]( why boring app ideas make more money than startup ideas [5:29]( how much can you charge for a base44 app [6:00]( what is micro saas and how to build it with base44 [7:06]( biggest mistake beginners make with ai app builders [7:26]( how to validate your app idea before building it [8:10]( how to monetize a base44 app subscriptions explained [8:29]( why marketing matters more than the app itself [9:30]( are ai generated apps actually reliable [10:18]( realistic timeline for making money with base44 [11:08]( honest answer is base44 worth it in 2026 The biggest shift happening right now is that building software is no longer the hard part. Tools like Base44 have made that faster than ever. The real challenge — and the real opportunity — is knowing what to build. Most people skip this step entirely, generate random apps, and wonder why nobody pays for them. In this video, I walk through the right framework: start with a real problem, validate before building, keep it simple, and treat distribution as seriously as the product itself. Whether you're trying to build a micro SaaS, replace an expensive tool for a small business, or just land clients on Fiverr, this is the mindset that actually leads to results. Websites & Tools Used: Base44: [ 📩 For video promotions & collaborations email us at: contact@a1republic.com 🌐 Check out our website: [ ...more Show less ## Chapters View all [![Image 36]( #### base44 make money 2026 #### base44 make money 2026 0:00]( #### [base44 make money 2026]( 0:00 [![Image 37]( #### why most base44 videos are lying to you #### why most base44 videos are lying to you 0:34]( #### [why most base44 videos are lying to you]( 0:34 [![Image 38]( #### base44 is a tool not a money printer #### base44 is a tool not a money printer 0:54]( ## Chapters View all [![Image 8]( #### base44 make money 2026 #### base44 make money 2026 0:00]( #### [base44 make money 2026]( 0:00 [![Image 9]( #### why most base44 videos are lying to you #### why most base44 videos are lying to you 0:34]( #### [why most base44 videos are lying to you]( 0:34 [![Image 10]( #### base44 is a tool not a money printer #### base44 is a tool not a money printer 0:54]( #### [base44 is a tool not a money printer]( 0:54 [![Image 11]( #### what is base44 and how does it actually work #### what is base44 and how does it actually work 1:39]( #### [what is base44 and how does it actually work]( 1:39 [![Image 12]( #### why faster building does not mean easier money #### why faster building does not mean easier money 2:43]( #### [why faster building does not mean easier money]( 2:43 [![Image 13]( #### how people are actually making money with base44 #### how people are actually making money with base44 3:08]( #### [how people are actually making money with base44]( 3:08 [![Image 14]( #### best base44 use case for beginners internal business tools #### best base44 use case for beginners internal business tools 3:29]( #### [best base44 use case for beginners internal business tools]( 3:29 [![Image 15]( #### why boring app ideas make more money than startup ideas #### why boring app ideas make more money than startup ideas 4:19]( #### [why boring app ideas make more money than startup ideas]( 4:19 Transcript Follow along using the transcript. Show transcript [![Image 16]( ### A1 Republic 698 subscribers]( [Videos]( 17](",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 8,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "Token",
+      "Make"
+    ],
+    "original_language": "en",
+    "raw_text": "YouTube title: How To Make Money With Base44 In 2026 (Step by Step)\nChannel: A1 Republic\nDescription: How To Make Money With Base44 In 2026 (Step by Step) Everyone online is saying Base44 can turn your ideas into money ...\nTranscript:\nTitle: How To Make Money With Base44 In 2026 (Step by Step) Description How To Make Money With Base44 In 2026 (Step by Step) 0 Likes 10 Views 1h Ago How To Make Money With Base44 In 2026 (Step by Step) Everyone online is saying Base44 can turn your ideas into money overnight. But is that actually true? In this video, I break down how Base44 really works, who's actually making money with it, and the biggest mistake beginners make that kills their chances before they even start. Timestamps: [0:00](https://www.youtube.com/watch?v=wqFq5AhKpIA) base44 make money 2026 [0:34](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=34s) why most base44 videos are lying to you [0:54](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=54s) base44 is a tool not a money printer [1:39](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=99s) what is base44 and how does it actually work [2:43](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=163s) why faster building does not mean easier money [3:08](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=188s) how people are actually making money with base44 [3:29](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=209s) best base44 use case for beginners internal business tools [4:19](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=259s) why boring app ideas make more money than startup ideas [5:29](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=329s) how much can you charge for a base44 app [6:00](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=360s) what is micro saas and how to build it with base44 [7:06](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=426s) biggest mistake beginners make with ai app builders [7:26](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=446s) how to validate your app idea before building it [8:10](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=490s) how to monetize a base44 app subscriptions explained [8:29](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=509s) why marketing matters more than the app itself [9:30](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=570s) are ai generated apps actually reliable [10:18](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=618s) realistic timeline for making money with base44 [11:08](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=668s) honest answer is base44 worth it in 2026 The biggest shift happening right now is that building software is no longer the hard part. Tools like Base44 have made that faster than ever. The real challenge — and the real opportunity — is knowing what to build. Most people skip this step entirely, generate random apps, and wonder why nobody pays for them. In this video, I walk through the right framework: start with a real problem, validate before building, keep it simple, and treat distribution as seriously as the product itself. Whether you're trying to build a micro SaaS, replace an expensive tool for a small business, or just land clients on Fiverr, this is the mindset that actually leads to results. Websites & Tools Used: Base44: [https://base44.com](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fbase44.com%2F&v=wqFq5AhKpIA) 📩 For video promotions & collaborations email us at: contact@a1republic.com 🌐 Check out our website: [https://a1republic.com](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fa1republic.com%2F&v=wqFq5AhKpIA)…...more ...more Show less ## Chapters View all [![Image 36](https://www.youtube.com/watch?v=wqFq5AhKpIA) #### base44 make money 2026 #### base44 make money 2026 0:00](https://www.youtube.com/watch?v=wqFq5AhKpIA) #### [base44 make money 2026](https://www.youtube.com/watch?v=wqFq5AhKpIA) 0:00 [![Image 37](https://www.youtube.com/watch?v=wqFq5AhKpIA) #### why most base44 videos are lying to you #### why most base44 videos are lying to you 0:34](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=34s) #### [why most base44 videos are lying to you](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=34s) 0:34 [![Image 38](https://www.youtube.com/watch?v=wqFq5AhKpIA) #### base44 is a tool not a money printer #### base44 is a tool not a money printer 0:54](https://www.youtube.com/watch?v=wqF ## Chapters View all [![Image 8](https://www.youtube.com/watch?v=wqFq5AhKpIA) #### base44 make money 2026 #### base44 make money 2026 0:00](https://www.youtube.com/watch?v=wqFq5AhKpIA) #### [base44 make money 2026](https://www.youtube.com/watch?v=wqFq5AhKpIA) 0:00 [![Image 9](https://www.youtube.com/watch?v=wqFq5AhKpIA) #### why most base44 videos are lying to you #### why most base44 videos are lying to you 0:34](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=34s) #### [why most base44 videos are lying to you](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=34s) 0:34 [![Image 10](https://www.youtube.com/watch?v=wqFq5AhKpIA) #### base44 is a tool not a money printer #### base44 is a tool not a money printer 0:54](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=54s) #### [base44 is a tool not a money printer](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=54s) 0:54 [![Image 11](https://www.youtube.com/watch?v=wqFq5AhKpIA) #### what is base44 and how does it actually work #### what is base44 and how does it actually work 1:39](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=99s) #### [what is base44 and how does it actually work](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=99s) 1:39 [![Image 12](https://www.youtube.com/watch?v=wqFq5AhKpIA) #### why faster building does not mean easier money #### why faster building does not mean easier money 2:43](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=163s) #### [why faster building does not mean easier money](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=163s) 2:43 [![Image 13](https://www.youtube.com/watch?v=wqFq5AhKpIA) #### how people are actually making money with base44 #### how people are actually making money with base44 3:08](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=188s) #### [how people are actually making money with base44](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=188s) 3:08 [![Image 14](https://www.youtube.com/watch?v=wqFq5AhKpIA) #### best base44 use case for beginners internal business tools #### best base44 use case for beginners internal business tools 3:29](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=209s) #### [best base44 use case for beginners internal business tools](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=209s) 3:29 [![Image 15](https://www.youtube.com/watch?v=wqFq5AhKpIA) #### why boring app ideas make more money than startup ideas #### why boring app ideas make more money than startup ideas 4:19](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=259s) #### [why boring app ideas make more money than startup ideas](https://www.youtube.com/watch?v=wqFq5AhKpIA&t=259s) 4:19 Transcript Follow along using the transcript. Show transcript [![Image 16](https://www.youtube.com/watch?v=wqFq5AhKpIA) ### A1 Republic 698 subscribers](https://www.youtube.com/@a1.republic) [Videos](https://www.youtube.com/channel/UCMeh4u9N8uMCDLtbGkxqzKw/videos)[About](https://www.youtube.com/channel/UCMeh4u9N8uMCDLtbGkxqzKw/about)[![Image 17](https://www.youtube.com/watch?v=wqF",
+    "source_id": "yt-wqFq5AhKpIA",
+    "source_url": "https://www.youtube.com/watch?v=wqFq5AhKpIA",
+    "why_it_matters": "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้ลองเอา JD จริง 1 ตำแหน่งมาทำ interview scorecard ก่อนนัดผู้สมัคร",
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=wqFq5AhKpIA",
+      "Keywords: Token, Make",
+      "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+    ],
+    "hook": "HR ใช้ AI ทำ Scorecard สัมภาษณ์ให้เทียบผู้สมัครง่ายขึ้น",
+    "original_keywords": [
+      "Token",
+      "Make"
+    ],
+    "original_language": "en",
+    "problem": "สัมภาษณ์หลายคนแล้วจำไม่ครบ ถ้าไม่มี rubric ชัด ทีมจะตัดสินจากความรู้สึกมากกว่าหลักฐานของงานจริง",
+    "source_id": "yt-wqFq5AhKpIA",
+    "source_url": "https://www.youtube.com/watch?v=wqFq5AhKpIA",
+    "tips": [
+      "ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ",
+      "ขอ competency สำคัญ 5 ข้อ",
+      "ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency",
+      "ขอ rubric คะแนน 1-5 พร้อมตัวอย่างคำตอบ",
+      "เพิ่ม red flags และคำถาม follow-up ก่อนตัดสินใจ"
+    ],
+    "trend_angle": "AI ช่วย HR ได้ดีเมื่อเปลี่ยน JD เป็น competency, คำถามสัมภาษณ์, rubric 1-5 และ red flags ที่ต้องเช็กก่อนตัดสินใจ"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "ZpkSjkLwPYIdGNMVHdpwO_D4TrMu4l.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a5f40/ZpkSjkLwPYIdGNMVHdpwO_D4TrMu4l.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260516T002119Z-yt-wqFq5AhKpIA/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "QS1qi4rMnlb_8F5qfVKnK_QagFUkCM.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a5f43/QS1qi4rMnlb_8F5qfVKnK_QagFUkCM.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260516T002119Z-yt-wqFq5AhKpIA/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "7ZDTJg7jpf63vnz3r0gGc_AnT5g6qf.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a5f47/7ZDTJg7jpf63vnz3r0gGc_AnT5g6qf.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260516T002119Z-yt-wqFq5AhKpIA/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "kyveDEz9yONdVysCKnUvi_0rVRnhVj.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a5f4b/kyveDEz9yONdVysCKnUvi_0rVRnhVj.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260516T002119Z-yt-wqFq5AhKpIA/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "3viFBdu1wKRftOA6bEOg__1oplMfYA.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a5f4e/3viFBdu1wKRftOA6bEOg__1oplMfYA.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260516T002119Z-yt-wqFq5AhKpIA/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "Kuc858prPLej2jAuDrGXF_8viQhW6T.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a5f52/Kuc858prPLej2jAuDrGXF_8viQhW6T.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260516T002119Z-yt-wqFq5AhKpIA/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "oSTzwyXoajEejFAKJe5jg_ghWN6BpK.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a5f55/oSTzwyXoajEejFAKJe5jg_ghWN6BpK.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260516T002119Z-yt-wqFq5AhKpIA/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 8,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260516T002119Z-yt-wqFq5AhKpIA/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: สัมภาษณ์หลายคนแล้วจำไม่ครบ ถ้าไม่มี rubric ชัด ทีมจะตัดสินจากความรู้สึกมากกว่าหลักฐานของงานจริง\n\n📌 ทำไมควรเซฟโพสต์นี้: AI ช่วย HR ได้ดีเมื่อเปลี่ยน JD เป็น competency, คำถามสัมภาษณ์, rubric 1-5 และ red flags ที่ต้องเช็กก่อนตัดสินใจ\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ\n\n2) ✨ ขอ competency สำคัญ 5 ข้อ\n\n3) ✨ ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency\n\n4) ✨ ขอ rubric คะแนน 1-5 พร้อมตัวอย่างคำตอบ\n\n🧪 ลองเริ่มวันนี้: วันนี้ลองเอา JD จริง 1 ตำแหน่งมาทำ interview scorecard ก่อนนัดผู้สมัคร\n\n🧭 วิธีใช้กับงานนี้: ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ → ขอ competency สำคัญ 5 ข้อ → ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency\n\n🌱 มือใหม่ให้เริ่มจากเคสจริงเล็ก ๆ ของอุตสาหกรรมนี้ แล้วให้คนในทีมตรวจคำตอบก่อนใช้กับลูกค้าจริง\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเห็นว่า AI ช่วยลดงานซ้ำและทำให้บริการชัดขึ้นได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ขายของออนไลน์"
+    ],
+    "title": "HR ใช้ AI ทำ Scorecard สัมภาษณ์ให้เทียบผู้สมัครง่ายขึ้น #AIมือใหม่"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=wqFq5AhKpIA",
+      "Keywords: Token, Make",
+      "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+    ],
+    "glossary": {
+      "Make": "Make",
+      "Token": "ชิ้นข้อความที่ AI ใช้นับ"
+    },
+    "original_keywords": [
+      "Token",
+      "Make"
+    ],
+    "source_id": "yt-wqFq5AhKpIA",
+    "source_url": "https://www.youtube.com/watch?v=wqFq5AhKpIA",
+    "thai_call_to_action": "วันนี้ลองเอา JD จริง 1 ตำแหน่งมาทำ interview scorecard ก่อนนัดผู้สมัคร",
+    "thai_hook": "HR ใช้ AI ทำ Scorecard สัมภาษณ์ให้เทียบผู้สมัครง่ายขึ้น",
+    "thai_problem": "สัมภาษณ์หลายคนแล้วจำไม่ครบ ถ้าไม่มี rubric ชัด ทีมจะตัดสินจากความรู้สึกมากกว่าหลักฐานของงานจริง",
+    "thai_tips": [
+      "ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ",
+      "ขอ competency สำคัญ 5 ข้อ",
+      "ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency",
+      "ขอ rubric คะแนน 1-5 พร้อมตัวอย่างคำตอบ",
+      "เพิ่ม red flags และคำถาม follow-up ก่อนตัดสินใจ"
+    ],
+    "thai_trend_angle": "AI ช่วย HR ได้ดีเมื่อเปลี่ยน JD เป็น competency, คำถามสัมภาษณ์, rubric 1-5 และ red flags ที่ต้องเช็กก่อนตัดสินใจ"
+  }
+}

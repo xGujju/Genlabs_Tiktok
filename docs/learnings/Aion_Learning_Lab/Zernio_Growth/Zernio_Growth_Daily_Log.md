@@ -1,188 +1,187 @@
-## Current Zernio Growth Summary — 2026-05-16
+## Current Zernio Growth Summary — 2026-05-17
 
 ### KPI status
 - Goal: one TikTok post reaches **100,000 views**.
 - Best post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
-- Current best views: 29,703
-- Gap to 100,000: 70,297
-- Shares: 407
-- Snapshot/verification time: baseline `2026-05-16T16:37:40.591358+00:00` plus import `2026-05-16_16-40-51.md` / Imported At `2026-05-16T16:40:23.520823+00:00` / comparison `2026-05-16T16:45:31.865886+00:00`; factory `2026-05-16_16-36-39.md` / `latest_social_draft_factory.json@2026-05-16T16:31:09.389931+00:00_ok_draft_count_0` / process check `2026-05-16T16:48:47Z`.
+- Current views: 30,761
+- Gap to 100,000: 69,239
+- Shares: 418
+- Snapshot/verification time: baseline `2026-05-17T16:30:35.595546+00:00` confirmed zero velocity/no formal candidate; import `2026-05-17_16-32-38.md` / Imported At `2026-05-17T16:31:56.965210+00:00` and live snapshot `2026-05-17T16:32:12.394600+00:00` found 2 refresh-window candidates; final factory/process check `2026-05-17T16:58:05Z`.
 
 ### Current signal
-- Current breakout candidate: none.
-- Candidate count: 0 formal, 0 refresh-window/import-window candidates.
-- Strongest watch-only mover: `7638630035213044999` — AI API explainer for nontechnical SMEs: what API means, how tools talk, and where it appears in daily business workflows; 1,295 views / 4 shares / +7 (~53.47/hr import-window inflated), below breakout threshold.
-- Secondary watch-only mover: `7639765434664750354` — AI Agent beginner/start-point explainer: choose one small workflow before building automation; 1,130 views / 2 shares / +7 (~53.47/hr import-window inflated), below threshold.
-- Previous positive context: `7634893611389259016` — ChatGPT meeting-notes → owner/deadline/risk action matrix workflow; 4,719 views / 43 shares / +830 at 16:00, now superseded/watch-only.
-- Best/closest-to-100k context: `7634027210248097042` (ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items) at 29,703 views / 407 shares / current delta 0.
-- Protected CTA: Post `7634027210248097042` is ChatGPT productivity/workflow evidence; protected 10-baht/no-prompt product-photo phrase is CTA copy only.
+- Breakout state: **0 formal breakout candidates / 2 refresh-window candidates**.
+- Primary refresh-window candidate: `7639765434664750354` — AI Agent beginner/start-point workflow for Thai SMEs: choose one repeated task and test a small tool before building automation, 1,193 views / 2 shares / +2 (~74.38/hr import-window inflated), gap 98,807.
+- Secondary mover/watch: `7636028838308220168` — Consistent sales/admin customer-answer workflow for Thai small teams, 511 views / 3 shares / +3 (~111.57/hr import-window inflated).
+- Best-post watch: `7634027210248097042` at 30,761 views / 418 shares / gap 69,239; learn from ChatGPT productivity/work-output content only.
+- Protected CTA: Post `7634027210248097042` is ChatGPT productivity/workflow evidence at 30,761 views / 418 shares; protected 10-baht/no-prompt product-photo phrase is CTA copy only. CTA unsafe count 0.
 
-### Current issues
-- Current issue count: 6
-- Result-closure, source-lane exhaustion, Zernio POST 403, factory editorial/source-topic QA, structured performance backfill, and zero-metric guard remain active; factory scheduler cadence is current after `2026-05-16_16-36-39.md`. No current breakout candidate; watch-only movement should not trigger generation.
-
-### Final readback
-- Import `2026-05-16_16-40-51.md`, breakout `2026-05-16_16-11-37.md`, growth-check `2026-05-16_16-11-52.md`, experiment `2026-05-16_12-15-29.md`, issue `2026-05-16_12-44-19.md`, and factory `2026-05-16_16-36-39.md` are delivered/current. Current breakout-watch markdown is in-flight until delivery, not a scheduler miss. Source-lane exhaustion remains active; scheduler cadence is current.
-- CTA guard unsafe count 0; 2026-05-16T16:48:47Z — no actual import/snapshot/factory/radar/writer process running.
-## 2026-05-16
-
-### KPI status
-- Goal: one TikTok post reaches **100,000 views**.
-- Best post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
-- Current best views: 29,703
-- Gap to 100,000: 70,297
-- Closest post views: 29,703
-- Current formal breakout candidate: none.
-- Recent 72h post count: 1
-- Snapshot time: 2026-05-16T16:37:40.591358+00:00; latest scheduled import readback: 2026-05-16_16-40-51.md; Airtable Imported At: 2026-05-16T16:40:23.520823+00:00; post-import comparison: 2026-05-16T16:45:31.865886+00:00 found 2 below-threshold movers and 0 breakout candidates.
-
-### Signals learned today
-- Winning hook samples:
-- ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
-- Practical, specific AI-workflow tips remain the best KPI-leverage lane, but the latest breakout-watch evidence has no formal current candidate.
-- Weak hook samples: generic repeated audience/introduction blocks without a sharper job-to-be-done need stronger first-slide framing.
-- Protected CTA note: Sway-added CTA phrase is protected and must not be treated as hook/topic signal; learn from educational_signal instead.
-- Breakout candidates: 0 current formal candidates; 0 refresh-window candidates after `2026-05-16_16-40-51.md` below-threshold-only verification.
-- Scheduler readback: import `2026-05-16_16-40-51.md`, breakout `2026-05-16_16-11-37.md`, growth `2026-05-16_16-11-52.md`, experiment `2026-05-16_12-15-29.md`, issue `2026-05-16_12-44-19.md`, and factory `2026-05-16_16-36-39.md` are delivered/current.
-- Current issue count: 6
-
-### Mistakes / weak spots to correct
-- active_experiment_result_closure_overdue_or_blocked: open_result_closure_backfill_before_future_scaling_no_current_candidate
-- zernio_factory_zernio_post_forbidden_2026_05_14_current: open_current_zernio_post_403_manifest_airtable_not_sent
-- zernio_factory_source_quality_replenishment_2026_05_15_0639: open_current_zero_draft_source_lane_exhaustion
-- zernio_factory_editorial_source_topic_qa: open_editorial_source_topic_qa_prior_manifests
-- learning_loop_structured_performance_experiments_backfill_missing: open_structured_performance_backfill_before_future_scaling_no_current_candidate
+### Weak spots / blockers
+- no_posts_in_last_72h: medium
+- active_experiment_result_closure_overdue_or_blocked: open_result_closure_backfill_before_any_new_scaling
+- zernio_factory_zernio_post_forbidden_current: open_current_manifest_airtable_not_sent_zernio_post_403
+- zernio_factory_source_quality_replenishment_current: open_source_lane_quality_replenishment_static_lanes_saturated
+- zernio_factory_editorial_source_topic_qa: open_current_manifest_source_topic_mismatch_duplicate_title_family
+- learning_loop_structured_performance_experiments_backfill_missing: open_result_closure_backfill_before_any_new_scaling
 - zernio_analytics_zero_metric_regression_guarded_2026_05_12_1415: guard_active_no_zero_metric_reset
 
-### Rule / memory update
-- Lesson: A later normal baseline plus post-import comparison can demote an earlier confirmed movement into watch-only context when current movement is zero/below-threshold.
-- Decision rule: do not create/generate amplification for `7634893611389259016`, `7638630035213044999`, or `7639765434664750354` until a later import or >15m baseline confirms stronger movement.
+### Action taken
+- Ran the exact hourly draft factory command and required recovery manually for this cron tick while keeping production cron enabled/draft-only.
+- Initial exact run returned zero drafts; recovery generated manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260517T164907Z-yt-dD0CGgBLKdc/manifest.json` and Airtable `recxpq1IZceWhdKhm`, then stopped at Zernio POST 403 before any Zernio draft was created.
+- Updated Open Loops/run log/compact state so scheduler cadence is current; source quality, Zernio POST 403, and editorial/source-topic QA remain the blockers.
 
-### Next action
-- Watch below-threshold movers only; keep result/source/Zernio/editorial gates open, replenish fresh source lanes, and do not trigger public posting/spend/generation.
+### Final readback
+- Import `2026-05-17_16-32-38.md`, breakout `2026-05-17_16-11-15.md`, and growth `2026-05-17_16-12-33.md` are delivered/current. Factory current state is `manual-exact-run+recovery-2026-05-17T16:54Z_manifest+airtable_zernio-post-403`: Airtable `recxpq1IZceWhdKhm` is `not_sent` with no Zernio Draft ID, rebuilt payload is draft-only/no `publishNow`/no `scheduledFor`, and fresh process check `2026-05-17T16:58:05Z` found no matching factory/radar process. Cron `a97a7703af32` remains enabled=True/state=scheduled/next `2026-05-17T17:45:30.530740+00:00`. CTA unsafe count 0.
+## 2026-05-17
 
-<!-- ZG-DLOG-2026-05-16-1645-BREAKOUT-WATCH -->
-### 2026-05-16 16:45 UTC — Breakout Watch
-- Baseline `2026-05-16T16:37:40.591358+00:00` had no formal breakout candidate/current delta; import `2026-05-16_16-40-51.md` / Imported At `2026-05-16T16:40:23.520823+00:00` plus comparison `2026-05-16T16:45:31.865886+00:00` found only below-threshold movers: `7638630035213044999` +7 and `7639765434664750354` +7 (~53.47/hr import-window inflated).
-- Best/closest post `7634027210248097042` remains 29,703 views / 407 shares / current delta 0; protected CTA is promo copy only.
-- Previous positive `7634893611389259016` remains watch-only context after the 16:37 zero-candidate baseline.
-- Action: no amplification/generation/public posting/spend/Zernio send; keep result/source/Zernio/editorial gates open. Factory `2026-05-16_16-36-39.md` remains zero-draft/source-exhausted but enabled/future-scheduled.
+<!-- ZG-DLOG-2026-05-17-1654-FACTORY-ZERNIO-403 -->
+### Draft Factory 16:54 manual exact + recovery manifest/Airtable output; Zernio POST 403
+- Exact command: `venv/bin/python scripts/scheduled_ai_social_draft_factory.py --limit 1 --apply --quality low --send-to-zernio` exited 0 with `draft_count=0/results=[]` at state `latest_social_draft_factory.json@2026-05-17T16:47:02.347815+00:00`.
+- Required recovery: reran the exact command once; recovery generated manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260517T164907Z-yt-dD0CGgBLKdc/manifest.json` and Airtable `recxpq1IZceWhdKhm`, then hit Zernio POST 403 before a Zernio draft ID/state JSON was written.
+- Safety verification: rebuilt payload is draft-only (`isDraft=true`, `tiktokSettings.draft=true`, 9 media, no `publishNow`, no `scheduledFor`), includes TikTok `69ee7188985e734bf3bb187f`, Facebook `69f7273c157a6202f6b89a9d`, Instagram `69f72753157a6202f6b89b16`, and FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`.
+- Zernio/Airtable: Airtable row is `not_sent` with no Draft ID; recent Zernio scan found older title matches but no non-CTA asset overlap, so no hidden current draft was confirmed.
+- QA: public copy leak scan found no source/meta leakage, but source-topic fit is weak/not KPI-ready (`yt-dD0CGgBLKdc` oEmbed `From Chat to Workspace  Mastering Claude AI` vs public generic AI Agent checklist with repeated title-family matches). Regenerate/reroute before retrying Zernio after permission fix.
+- Scheduler/process: `2026-05-17T16:58:05Z` process check found no lingering factory/radar process; cron `a97a7703af32` remains enabled=True/state=scheduled/next `2026-05-17T17:45:30.530740+00:00`.
 
-<!-- ZG-DLOG-2026-05-16-1631-factory-exact-recovery -->
-### 2026-05-16 16:31 UTC — Hourly Factory Exact Run + Required Recovery
-- Exact command tracked process `proc_10b32b028048` exited 0 with `draft_count=0/results=[]` and state generated_at `2026-05-16T16:29:13.466269+00:00`; required recovery tracked process `proc_04b2c8a066f2` also exited 0 with `draft_count=0/results=[]` and current state `latest_social_draft_factory.json@2026-05-16T16:31:09.389931+00:00_ok_draft_count_0`. The `/home/clawd/.openclaw/completions/openclaw.bash` warning was unrelated.
-- Diagnosis: source-lane exhaustion / anti-repetition guard saturation, not FAL/Zernio. Canonical 0/98 eligible (12 duplicate/source-existing, 30 content-family repeats, 8 no educational value, 48 not A/B); deterministic lanes exhausted: evergreen 0/42 existing/partial, AI Words 0/8 (6 existing/partial, 2 content-family repeats), KPI backstop 0/8 for 16:00Z content-family repeat. YouTube fallback produced no usable non-duplicate candidate in the factory runs.
-- Verification: No new auto-* folders after the run (latest auto folder remains 2026-05-16T06:32:36Z), no manifest/media, Airtable Carousel Posts total 193, and no current Airtable record/outbound Zernio payload/Zernio draft exists; Zernio/platform verification is not applicable for this tick. Cron a97a7703af32 remains enabled/scheduled next 2026-05-16T17:27:54.797431+00:00; process check 2026-05-16T16:31:53Z found no lingering factory/radar processes. No public posting/live publishing/intentional schedule.
-- Action: scheduler cadence is current for this tick; source-lane replenishment remains urgent KPI blocker. Keep draft-only cron enabled; wire fresh non-repeating ChatGPT/NotebookLM/software-tip or approved-account sources rather than forcing weak duplicates.
+<!-- ZG-DLOG-2026-05-17-1630-BREAKOUT-WATCH -->
+### Breakout Watch 16:30 post-import refresh-window candidate sync
+- KPI: best/closest post remains `7634027210248097042` (ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items) at 30,761 views / 418 shares / gap 69,239; protected CTA is promo copy only.
+- Signal: normal baseline `2026-05-17T16:30:35.595546+00:00` had zero confirmed delta; late import `2026-05-17_16-32-38.md` / Imported At `2026-05-17T16:31:56.965210+00:00` and live snapshot `2026-05-17T16:32:12.394600+00:00` found 2 refresh-window candidates. Primary `7639765434664750354` (AI Agent beginner/start-point workflow for Thai SMEs: choose one repeated task and test a small tool before building automation) reached 1,193 views / 2 shares / +2 (~74.38/hr import-window inflated), gap 98,807. Secondary `7636028838308220168` is raw-fastest (+3 to 511 views / 3 shares) but lower KPI leverage.
+- Scheduler/factory (historical): this 16:30 breakout-watch entry originally opened a factory scheduler watch, but the 16:54 manual exact + recovery readback superseded it with current manifest/Airtable + Zernio POST 403 evidence; scheduler cadence is now current for this tick.
+- Action: updated compact memory, tasks, Zernio Growth Memory, Daily Log, and Open Loops; created/updated one draft-only refresh-window amplification task; no public posting/spend/generation/Zernio send.
 
-<!-- ZG-DLOG-2026-05-16-1600-BREAKOUT-WATCH -->
-### 2026-05-16 16:00 UTC — Breakout Watch (superseded by 16:37 no-candidate baseline)
-- Normal baseline `2026-05-16T16:00:12.110710+00:00` confirmed `7634893611389259016` — ChatGPT meeting-notes → owner/deadline/risk action matrix workflow: 4,719 views / 43 shares / +830 views (~1657.11/hr), gap 95,281.
-- Scheduled import `2026-05-16_16-01-48.md` / Imported At `2026-05-16T16:01:25.717492+00:00` plus read-only comparison `2026-05-16T16:02:20.904920+00:00` found 0 watched/all-post movers, so the confirmed baseline remains authoritative.
-- Best/closest post `7634027210248097042` remains 29,703 views / 407 shares / current delta 0; protected CTA is promo copy only.
-- Action: historical draft-only amplification task was superseded by the 16:37 no-candidate baseline and 16:40 below-threshold-only import comparison; keep this movement watch-only. No public posting/spend/generation/Zernio send. Factory remains zero-draft/source-exhausted but scheduler cadence is current.
+<!-- ZG-DLOG-2026-05-17-1600-BREAKOUT-WATCH -->
+### Breakout Watch 16:00 confirmed candidate sync (historical; superseded by 16:30 import refresh-window candidate) (historical; superseded by 16:30 import refresh-window candidate)
+- KPI: best/closest post remains `7634027210248097042` (ChatGPT productivity/workflow tips) at 30,761 views / 418 shares / gap 69,239; protected CTA is promo copy only.
+- Signal: normal baseline `2026-05-17T16:00:40.590574+00:00` confirmed formal breakout candidate `7634893611389259016` (Meeting notes → owner/deadline/risk action matrix workflow for Thai small teams) at 5,428 views / 49 shares, +709 since `2026-05-17T15:40:17.522933+00:00` (~2,086.88/hr). Post-baseline import `2026-05-17_16-04-33.md` / Imported At `2026-05-17T16:02:12.910842+00:00` and read-only comparison `2026-05-17T16:07:26.765215+00:00` found zero additional movers, so the baseline remains authoritative.
+- Scheduler/factory (historical): import `2026-05-17_16-04-33.md` and previous breakout output `2026-05-17_15-40-49.md` were delivered; the old 15:39 factory state/due time is superseded by the 16:54 manifest/Airtable + Zernio POST 403 readback.
+- Action: synced compact memory, tasks, Zernio Growth Memory, Daily Log, and Open Loops; created one draft-only confirmed-breakout amplification task; no public posting/spend/generation/Zernio send.
+<!-- ZG-DLOG-2026-05-17-1600-GROWTH-CHECK -->
+### Growth Check 16:00 confirmed-breakout sync (historical; superseded by 16:30 import refresh-window candidate) (historical; superseded by 16:30 import refresh-window candidate)
+- KPI: best/closest post remains `7634027210248097042` (ChatGPT productivity/workflow tips) at 30,761 views / 418 shares / gap 69,239; protected CTA is promo copy only.
+- Signal: normal baseline `2026-05-17T16:00:40.590574+00:00` confirmed formal breakout candidate `7634893611389259016` (Meeting notes → owner/deadline/risk action matrix workflow for Thai small teams) at 5,428 views / 49 shares, +709 views (~2,086.88/hr) since `2026-05-17T15:40:17.522933+00:00`.
+- Scheduler/factory (historical): import `2026-05-17_16-04-33.md` delivered fresh analytics after the previous `2026-05-17_15-40-49.md` breakout output; the old zero-draft factory state is superseded by the current 16:54 manifest/Airtable + Zernio POST 403 readback.
+- Action: updated compact memory/tasks/Zernio Growth Memory/Open Loops and created/updated `zernio-confirmed-breakout-amplify-7634893611389259016` as draft-only/internal; no public posting/spend/generation/Zernio send.
+<!-- ZG-DLOG-2026-05-17-1533-FACTORY-ZERO -->
+### Draft Factory 15:33 manual exact + recovery zero-state (historical; superseded by 16:54 manifest/Airtable + Zernio POST 403)
+- Historical exact command and required recovery both returned `draft_count=0/results=[]`; this old zero-state is superseded by the 16:54 manifest/Airtable + Zernio POST 403 readback.
+- Diagnosis: source-lane exhaustion / anti-repetition guard saturation, not FAL/Zernio. Canonical 0/98 eligible (12 duplicate/missing, 30 repeat-family, 8 no educational value, 48 not A/B; all C bucket); evergreen 0/42 (40 existing, 2 partial-quarantined), AI Words 0/8, KPI backstop 0/8 for 15:00Z.
+- Verification/action (historical): cron remained enabled and no lingering process was observed for that earlier tick; the active current factory state is now the 16:54 manifest/Airtable + Zernio POST 403 readback, with source-quality and editorial/Zernio blockers tracked separately.
+<!-- ZG-DLOG-2026-05-17-1500-BREAKOUT-WATCH -->
+### Breakout Watch 15:00 no-candidate post-import no-mover sync
+- KPI: best/closest post remains `7634027210248097042` (ChatGPT productivity/workflow tips) at 30,761 views / 418 shares / gap 69,239; protected CTA is promo copy only.
+- Signal: normal baseline `2026-05-17T15:00:25.111856+00:00` had 0 breakout candidates and 0 current movers. Late import `historical 15:01 import output` / Imported At `2026-05-17T15:01:02.229974+00:00` and read-only comparison `2026-05-17T15:10:33.193667+00:00` found zero post-baseline movers.
+- Previous-positive context: `7635243951582088456` (Meeting notes → owner/deadline/risk action matrix workflow) had +178 at 14:30 but is no longer a current candidate after the 15:00 zero baseline.
+- Scheduler/factory (historical): the 15:00 no-candidate state was superseded by the 16:00 growth baseline and later import readback `2026-05-17_16-04-33.md`; active factory state is now the 16:54 manifest/Airtable + Zernio POST 403 readback.
+- Action: updated compact memory/tasks/Zernio Growth Memory/Open Loops; no public posting/spend/generation/Zernio send.
 
-<!-- ZG-DLOG-2026-05-16-1600-growth-check -->
-### 2026-05-16 16:00 UTC — Growth Check (superseded by 16:37 no-candidate baseline)
-- KPI: `7634027210248097042` (ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items) remains 29,703 views / 407 shares / gap 70,297; protected CTA remains promo copy only.
-- Signal: confirmed formal breakout `7634893611389259016` — เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต…; 4,719 views / 43 shares / +830 (~1657.11/hr), from normal baseline `2026-05-16T16:00:12.110710+00:00`; post-baseline import `2026-05-16_16-01-48.md` / Imported At `2026-05-16T16:01:25.717492+00:00` found 0 movers.
-- Action: historical amplification task `zernio-confirmed-breakout-amplify-7634893611389259016` is superseded/watch-only after the 16:37 no-candidate baseline; no public posting/spend/generation/Zernio send.
-- Readback: breakout `2026-05-16_15-30-23.md` was a 15:30 no-candidate output superseded by the 16:00 baseline; factory `manual-exact-run+recovery-2026-05-16T16:31Z_current-cron-delivery-pending` remains zero-draft/source-lane exhausted but enabled next `2026-05-16T17:27:54.797431+00:00`; current growth-check output is in-flight until delivery.
-- CTA guard: unsafe count 0; process check `2026-05-16T16:31:53Z` found no actual import/snapshot/factory/radar/writer process.
+<!-- ZG-DLOG-2026-05-17-1430-BREAKOUT-WATCH -->
+### Breakout Watch 14:30 confirmed-baseline candidate sync (historical; superseded by 15:00 no-candidate baseline)
+- KPI: best/closest post remains `7634027210248097042` (ChatGPT productivity/workflow tips) at 30,761 views / 418 shares / gap 69,239; protected CTA is promo copy only.
+- Signal: normal baseline `2026-05-17T14:30:17.547176+00:00` confirmed formal breakout candidate `7635243951582088456` (Meeting notes → owner/deadline/risk action matrix workflow) at 4,185 views / 41 shares, +178 since `2026-05-17T14:00:14.825410+00:00` (~355.46/hr). Post-baseline import `2026-05-17_14-33-34.md` / Imported At `2026-05-17T14:32:57.639208+00:00` and read-only comparison `2026-05-17T14:33:31.565836+00:00` found zero movers, so the confirmed baseline remains authoritative.
+- Scheduler/factory: import `2026-05-17_14-33-34.md`, growth `2026-05-17_14-14-41.md`, and factory `historical 14:29 factory output` are delivered/current; current breakout markdown is in-flight until delivery, not a scheduler miss. Factory remains zero-draft/source-lane blocked but enabled/scheduled next `historical 15:29 factory due time`.
+- Action: historical 14:30 amplification task was superseded/demoted by the 15:00 no-candidate baseline; no public posting/spend/generation/Zernio send.
 
-<!-- ZG-DLOG-2026-05-16-1518-factory-exact-recovery -->
-### 2026-05-16 15:18 UTC — Hourly Factory Exact Run + Required Recovery
-- Exact command tracked process `proc_504c75974f01` exited 0 with `draft_count=0/results=[]` and state generated_at `2026-05-16T15:15:35.923656+00:00`; required recovery tracked process `proc_0c3e71290775` also exited 0 with `draft_count=0/results=[]` and current state `latest_social_draft_factory.json@2026-05-16T16:31:09.389931+00:00_ok_draft_count_0`. The `/home/clawd/.openclaw/completions/openclaw.bash` warning was unrelated.
-- Diagnosis: source-lane exhaustion / anti-repetition guard saturation, not FAL/Zernio. Canonical 0/98 eligible (12 duplicate/source-existing, 30 content-family repeats, 8 no educational value, 48 not A/B); deterministic lanes exhausted: evergreen 0/42, AI Words 0/8, KPI backstop 0/8 for 15:00Z. YouTube fallback produced no usable non-duplicate candidate in the factory runs.
-- Verification: no new `auto-*` folders after 15:15Z, no manifest/media, Airtable Carousel Posts total 193, and no current Airtable record/outbound Zernio payload/Zernio draft exists, so Zernio/platform verification is not applicable for this tick. Cron `a97a7703af32` remains enabled/scheduled next `historical 16:14 next-run superseded by 17:27 current schedule`; historical process check `historical 15:18 process check superseded by 16:31 current check` found no lingering factory/radar processes. No public posting/live publishing/intentional schedule.
-- Action: scheduler cadence is current for this tick; source-lane replenishment remains urgent KPI blocker. Keep draft-only cron enabled; wire fresh non-repeating ChatGPT/NotebookLM/software-tip or approved-account sources rather than forcing weak duplicates.
+<!-- ZG-DLOG-2026-05-17-1400-GROWTH-CHECK -->
+### Growth Check 14:00 post-import refresh-window candidate sync (historical; superseded by 14:30 confirmed baseline)
+- KPI: best/closest post remains `7634027210248097042` (ChatGPT productivity/workflow tips) at 30,761 views / 418 shares / gap 69,239; protected CTA is promo copy only.
+- Signal: live snapshot `2026-05-17T14:09:35.583833+00:00` after import `2026-05-17_14-02-21.md` / Imported At `2026-05-17T14:01:51.438240+00:00` found refresh-window candidate `7635243951582088456` (Meeting notes → owner/deadline/risk action matrix workflow) at 4,185 views / 41 shares, +178 since confirmed baseline `2026-05-17T14:02:07.373717+00:00` (~1142.74/hr import-window inflated); this is historical context and was superseded by the 14:30 confirmed normal-baseline candidate.
+- Scheduler/factory: historical 14:00 growth-check context was superseded by factory cron output `historical 14:29 factory output` and final process check `2026-05-17T14:40:49Z`; source-lane exhaustion remains open separately.
+- Action: superseded by 14:30 breakout-watch sync, which updated compact memory/tasks/Zernio Growth Memory/Open Loops and promoted `zernio-confirmed-breakout-amplify-7635243951582088456`; no public posting/spend/generation/Zernio send.
 
-<!-- ZG-DLOG-2026-05-16-1500-BREAKOUT-WATCH -->
-### 2026-05-16 15:00 UTC — Breakout Watch (superseded by 16:00 growth-check confirmed breakout)
-- Normal baseline `2026-05-16T15:00:28.609669+00:00` produced breakout_candidates=0/current delta 0; live verification snapshot `2026-05-16T15:02:54.189718+00:00` still had 0 candidates.
-- Scheduled import `2026-05-16_15-01-43.md` / Imported At `2026-05-16T15:01:20.251849+00:00` plus read-only comparison `2026-05-16T15:02:22.071017+00:00` found 0 watched/all-post movers.
-- Previous positive `7635243951582088456` — ChatGPT meeting-notes → owner/deadline/risk action matrix workflow: 4,007 views / 38 shares / +250 (~689.54/hr) is watch-only context, not a current amplification candidate.
-- Best/closest post `7634027210248097042` remains 29,703 views / 407 shares / current delta 0; protected CTA is promo copy only.
-- Action: historical no-candidate readback superseded by 16:00 growth-check confirmed candidate; no public posting/spend/generation/Zernio send from that breakout run. Factory `historical 15:18 factory zero-state superseded by 16:31 current readback` remains zero-draft/source-exhausted; factory scheduler cadence is current after the 16:31 manual exact+recovery readback; source-lane exhaustion remains open.
+<!-- ZG-DLOG-2026-05-17-1300-BREAKOUT-WATCH -->
 
-<!-- ZG-DLOG-2026-05-16-1430-BREAKOUT-WATCH -->
-### 2026-05-16 14:30 UTC — Breakout Watch (superseded by 15:00 no-candidate baseline)
-- Historical context: confirmed baseline `2026-05-16T14:30:20.266515+00:00` promoted `7635243951582088456` — ChatGPT meeting-notes → owner/deadline/risk action matrix workflow: 4,007 views / 38 shares / +250 views (~689.54/hr confirmed normal-baseline); gap 95,993.
-- Post-baseline import `2026-05-16_14-32-21.md` / Imported At `2026-05-16T14:31:51.176566+00:00` plus read-only comparison `2026-05-16T14:34:03.377992+00:00` found 0 movers, so the 14:30 confirmed baseline remains authoritative.
-- Best/closest post `7634027210248097042` remains 29,703 views / 407 shares / current delta 0; protected CTA is promo copy only.
-- Action: superseded by the 15:00 no-candidate/no-mover verification; keep this as watch-only historical context. No public posting/spend/generation/Zernio send. Factory `historical 15:18 factory zero-state superseded by 16:31 current readback` remains zero-draft/source-exhausted; factory scheduler cadence is current after the 16:31 manual exact+recovery readback; source-lane exhaustion remains open.
+### Draft Factory 14:29 cron output / 14:19 exact + recovery zero-state (historical; superseded by 15:33 current readback)
+- Ran exact command as `proc_436d3ca24543`; it exited 0 with `draft_count=0/results=[]` and wrote `historical 14:17 zero-state`. Recovery rerun as `proc_7d28232d58f3` also exited 0 with `draft_count=0/results=[]` and wrote `historical 14:19 zero-state`.
+- Diagnosis: source-lane exhaustion / anti-repetition guard saturation, not FAL/Zernio. Canonical 0/98 eligible (12 duplicate/missing, 30 repeat-family, 8 no educational value, 48 not A/B); evergreen 0/42, AI Words 0/8, KPI backstop 0/8; YouTube fallback produced no usable non-duplicate candidate during the factory path.
+- Verification (historical): at that earlier tick the newest auto folder was the historical 08:49 YouTube folder, with no then-current manifest/media/Airtable/Zernio payload. This is superseded by the 16:54 manifest/Airtable + Zernio POST 403 readback.
+- Action/state: scheduler cadence resolved/current for this tick; source-quality/software-tip replenishment remains the urgent KPI blocker. Keep the production cron enabled/draft-only and feed fresh non-repeating ChatGPT/NotebookLM/software-tip/service-industry sources.
 
-<!-- ZG-DLOG-2026-05-16-1400-growth-check -->
-### 2026-05-16 14:00 UTC — Growth Check (superseded by 14:30 confirmed breakout baseline)
-- Historical 14:00 growth-check found import-window movement after a zero baseline, but the 14:30 normal baseline superseded it with confirmed candidate `7635243951582088456` at 4,007 views / 38 shares / +250 views.
-- Keep the 14:00 import-window evidence only as context; current active state is the 14:30 confirmed baseline plus `2026-05-16_14-32-21.md` post-baseline no-change verification.
-- Action remains gated: no public posting/spend/generation/Zernio send until result/source/Zernio/editorial gates clear.
+### Breakout Watch 13:00 post-import below-threshold sync
+- KPI: best/closest post remains `7634027210248097042` (ChatGPT productivity/workflow tips) at 30,761 views / 418 shares / gap 69,239; protected CTA is promo copy only.
+- Signal: baseline `2026-05-17T13:09:59.927907+00:00` had 0 candidates; late import `2026-05-17_13-12-07.md` / Imported At `2026-05-17T13:11:12.430741+00:00` and live snapshot `2026-05-17T13:17:14.980902+00:00` found below-threshold movement only. Strongest mover `7639765434664750354` +8 to 1179 views (~66.2/hr import-window inflated) stays watch-only.
+- Scheduler/factory: factory output `historical 13:08 factory output` delivered; cron `a97a7703af32` next `historical 14:08 factory due time`; current breakout markdown is in-flight until delivery, not a scheduler miss.
+- Safety: no public posting/spend/generation/Zernio send.
 
-<!-- ZG-DLOG-2026-05-16-1400-factory-exact-recovery -->
-### 2026-05-16 14:00 UTC — Hourly Factory Exact Run + Required Recovery
-- Exact command tracked process `proc_27e4109f6e56` exited 0 with `draft_count=0/results=[]` and state generated_at `2026-05-16T13:57:56.903088+00:00`; required recovery tracked process `proc_fe893951ce3b` also exited 0 with `draft_count=0/results=[]` and current state `latest_social_draft_factory.json@2026-05-16T16:31:09.389931+00:00_ok_draft_count_0`. The `/home/clawd/.openclaw/completions/openclaw.bash` warning was unrelated.
-- Diagnosis: source-lane exhaustion / anti-repetition guard saturation, not FAL/Zernio. Canonical 0/98 eligible (12 existing, 30 content-family repeats, 8 no educational value, 48 not A/B); deterministic lanes exhausted: evergreen 0/42, AI Words 0/8, KPI backstop 0/8 for 14:00Z. YouTube fallback produced no usable non-duplicate candidate in the factory runs.
-- Verification: no new `auto-*` folders after 13:57Z, no manifest/media, Airtable Carousel Posts total 193 with 0 records created since run start, and no current Airtable record/outbound Zernio payload/Zernio draft exists, so Zernio/platform verification is not applicable for this tick. Cron `a97a7703af32` remains enabled/scheduled next `2026-05-16T14:55:54.251164+00:00`; process check `2026-05-16T14:00Z` found no lingering factory/radar processes. No public posting/live publishing/intentional schedule.
-- Action: scheduler cadence is current for this tick; source-lane replenishment remains urgent KPI blocker. Keep draft-only cron enabled; wire fresh non-repeating ChatGPT/NotebookLM/software-tip or approved-account sources rather than forcing weak duplicates.
+<!-- ZG-DLOG-2026-05-17-1230-ISSUE-CHECK -->
+### Issue Check 12:30 scheduler/CTA guard sync
+- KPI: best/closest post remains `7634027210248097042` (ChatGPT productivity/workflow tips) at 30,761 views / 418 shares / gap 69,239; protected CTA is promo copy only.
+- Freshness/action: direct import `2026-05-17T12:35:36.478028+00:00` and late scheduled import `2026-05-17_12-37-23.md` / Imported At `2026-05-17T12:36:50.368445+00:00` refreshed Airtable; read-only comparison at `2026-05-17T12:49:43.936088+00:00` found zero watched-post movers.
+- Scheduler: import and breakout readbacks caught up (`2026-05-17_12-37-23.md`, `2026-05-17_12-38-15.md`); growth `2026-05-17_12-23-59.md` and experiment `2026-05-17_12-17-19.md` are delivered. Factory `a97a7703af32` delivered cron output `historical 13:08 factory output` and is scheduler-current for this tick; source-lane exhaustion remains open, with cron enabled/scheduled next `historical 14:08 factory due time`.
+- CTA guard: unsafe count 0; protected CTA/product-photo/10-baht/no-prompt copy is not a winning hook/topic and remains classified as promo copy only.
+- Safety: no public posting/spend/generation/Zernio send.
 
-<!-- ZG-DLOG-2026-05-16-1300-breakout-watch -->
-### 2026-05-16 13:00 UTC — Breakout Watch
-- Pre-run baseline `2026-05-16T13:00:34.746480+00:00` had no formal candidate/current delta; import `2026-05-16_13-02-35.md` / Imported At `2026-05-16T13:02:04.188513+00:00` plus live snapshot `2026-05-16T13:03:42.240315+00:00` created 4 refresh-window candidates.
-- Primary candidate `7639361147031833874` — ChatGPT customer-interview notes → usable insight/action plan workflow: 2,031 views / 2 shares / +4 views (~76.8/hr, import-window inflated); gap 97,969.
-- Best/closest post `7634027210248097042` remains 29,703 views / 407 shares / current delta 0; protected CTA is promo copy only.
-- Action: update one draft-only amplification task; no public posting/spend/generation/Zernio send. Factory `manual-exact-run+recovery-2026-05-16T14:00Z_current-cron-delivered-zero-draft` remains zero-draft/source-exhausted and enabled next `2026-05-16T14:55:54.251164+00:00`.
+<!-- ZG-DLOG-2026-05-17-1200-GROWTH-CHECK -->
+### Growth Check 12:00 no-formal-breakout sync
+- KPI: best/closest post remains `7634027210248097042` (ChatGPT productivity/workflow tips) at 30,761 views / 418 shares / gap 69,239; protected CTA is promo copy only.
+- Signal: 12:00/12:30 baselines and late import/breakout readbacks found 0 breakout candidates; `7639765434664750354` remains previous below-threshold watch context only.
+- Output: growth-check markdown delivered as `2026-05-17_12-23-59.md`; not a scheduler miss.
+- Issues: result closure, Zernio POST 403, source-quality replenishment, editorial/source-topic QA, structured performance backfill, and zero-metric guard. Factory scheduler cadence was resolved/current by the 12:59 exact+recovery readback; source availability remains the blocker.
 
-<!-- ZG-DLOG-2026-05-16-1248-factory-exact-recovery -->
-### 2026-05-16 12:48 UTC — Hourly Factory Exact Run + Required Recovery
-- Exact command + required recovery both exited 0 with `draft_count=0/results=[]`; historical 12:48 zero-state (superseded by the 16:31 current zero state).
-- Diagnosis: source-lane exhaustion / anti-repetition guard saturation, not FAL/Zernio. Canonical 0/98 eligible (17 existing/partial, 29 content-family repeats, 6 no educational value, 46 not A/B); evergreen 0/42 (40 existing, 2 partial); AI Words 0/8 (6 existing, 2 repeat); KPI backstop 0/8 repeat.
-- Verification: no current Airtable Carousel Posts record, manifest, outbound Zernio payload, or Zernio draft; latest auto folder remains 06:32Z; cron `a97a7703af32` enabled/scheduled next `historical 13:45 next-run superseded by 16:31 current readback`; no matching factory/radar process at `2026-05-16T12:49Z`. Zernio/platform verification is not applicable because no draft/payload exists.
-- Action: scheduler cadence resolved for this tick; source-lane replenishment remains urgent KPI blocker. Keep draft-only cron enabled; do not force weak duplicates or live publishing.
+<!-- ZG-DLOG-2026-05-17-1200-EXPERIMENT-CREATOR -->
+### Experiment Creator 12:00 draft-only backlog
+- KPI evidence: best post remains 30,761 views / 418 shares / gap 69,239; no formal breakout after 12:30 issue-check/late-import readback.
+- Experiments created in compact memory: kpi-exp-0517-1200-chatgpt-memory-safe-shop-assistant, kpi-exp-0517-1200-notebooklm-real-estate-answer-book, kpi-exp-0517-1200-gemini-docs-customer-message-polish.
+- Gate: draft-only recovery backlog; resolve result-closure, source-quality, Zernio POST 403, editorial/source-topic QA, before factory generation/Zernio send; experiment markdown readback resolved as `2026-05-17_12-17-19.md`.
 
-<!-- ZG-DLOG-2026-05-16-1230-issue-check -->
-### 2026-05-16 12:30 UTC — Issue Check
-- Issue-check refresh: import `2026-05-16_12-32-29.md` / Imported At `2026-05-16T12:32:02.851612+00:00` delivered after boundary; comparison `2026-05-16T12:32:26.176002+00:00` found 0 post-baseline movers.
-- CTA enforcement: unsafe CTA classification count 0; `7634027210248097042` remains ChatGPT productivity/workflow evidence at 29,703 views / 407 shares.
-- Scheduler/readback: the factory cadence watch opened by issue-check was superseded by the 12:46/12:48 exact factory run + recovery. Current factory state is `historical 12:48 zero-state superseded by 16:31 current zero state`; cron is enabled next `historical 13:45 next-run superseded by 16:31 current readback`; no matching process at `2026-05-16T12:49Z`.
-- Action: compact memory, tasks, Zernio Growth Memory, Daily Log, Open Loops, and run log synced; source-lane exhaustion remains open; no public posting/spend/Zernio send.
-
-<!-- ZG-DLOG-2026-05-16-1200-breakout-watch -->
-### 2026-05-16 12:00 UTC — Breakout Watch (superseded by 13:02 import refresh-window movement)
-- Superseded pre-import no-candidate context: baseline `2026-05-16T12:30:32.515671+00:00` produced 0 candidates; strongest mover `7639361147031833874` is watch-only below threshold at 2,027 views / 2 shares and had no post-import movement.
-- Import `2026-05-16_12-32-29.md` / Imported At `2026-05-16T12:32:02.851612+00:00` completed after the baseline; read-only comparison `2026-05-16T12:32:26.176002+00:00` found 0 post-baseline movers, so earlier import-window context is superseded.
-- Best/closest post `7634027210248097042` remains 29,703 views / 407 shares / current delta 0; protected CTA is promo copy only.
-- Action: no amplification/generation/public posting/spend/Zernio send; keep result/source/Zernio/editorial gates open.
-
-<!-- ZG-DLOG-2026-05-16-1200-growth-check -->
-### 2026-05-16 12:00 UTC — Growth Check
-- KPI: `7634027210248097042` (ChatGPT 8 productivity tips for work) remains 29,703 views / 407 shares / gap 70,297; protected CTA remains promo copy only.
-- Signal: no formal breakout; strongest mover `7639361147031833874` is watch-only below threshold, and import `2026-05-16_12-32-29.md` found 0 post-baseline movers.
-- Action: no new amplification/generation; keep result-closure, source-lane, Zernio POST 403, and editorial gates open before future scaling.
-
-<!-- GL-SIR-2026-05-16-1000-3DAY -->
-### 2026-05-16 10:00 UTC — 3-Day Self-Improvement Review
-- KPI progress: best ChatGPT productivity post `7634027210248097042` is 29,703 views / 407 shares / gap 70,297; +4,484 views and +45 shares since the 2026-05-13 3-day review.
-- What worked: practical numbered work-output carousels, especially ChatGPT productivity/work tips. NotebookLM remains priority controlled test for Thai SOP/PDF/source-grounded FAQ/team-knowledge workflows.
-- What failed / next fix: source lanes exhausted; Zernio POST 403, editorial/source-topic QA, and active result backfill remain open. Keep factory enabled/draft-only.
-
-<!-- ZG-DLOG-2026-05-16-1000-growth-check -->
-### 2026-05-16 10:00 UTC — Growth Check (context; superseded by 12:30 no-candidate/import no-change)
-- KPI: `7634027210248097042` (ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items) is 29,703 views / 407 shares / gap 70,297; protected CTA remains promo copy only.
-- Signal: 10:00 growth-check remains historical context; the 12:30 baseline + 12:32 import no-change governs the current issue-check decision.
-- Action: keep growth-check result as context; no current breakout amplification.
-
-<!-- ZG-DLOG-2026-05-16-1200-EXPERIMENT-CREATOR -->
-### 2026-05-16 12:00 UTC — Experiment Creator
-- Gate: 12:30 baseline + `2026-05-16_12-32-29.md` comparison found no current breakout candidate; specs are draft-only until result/source/Zernio/editorial gates clear.
-- ChatGPT Brand Voice Reply System — 7 tips (`kpi-exp-0516-1200-chatgpt-brand-voice-reply-system`): ตอบลูกค้าหลายคนแล้วโทนร้านไม่เหมือนกัน? 7 วิธีตั้ง ChatGPT ให้เขียนแชท/โพสต์ในเสียงแบรนด์เดียว
-- NotebookLM Audio SOP Training Pack — 7 tips (`kpi-exp-0516-1200-notebooklm-audio-sop-training-pack`): ทีมไม่อ่านคู่มือ? 7 วิธีใช้ NotebookLM เปลี่ยน SOP เป็นบทเรียนฟัง+quiz ก่อนเริ่มงาน
-- CapCut AI First-3-Seconds Retention Check — 7 tips (`kpi-exp-0516-1200-capcut-ai-first-3s-retention-check`): คลิปมีข้อมูลดีแต่คนเลื่อนผ่าน? 7 วิธีใช้ CapCut AI เช็ก 3 วิแรกก่อนลง TikTok
-- Readback: import `2026-05-16_12-32-29.md`, growth `2026-05-16_12-11-30.md`, breakout `2026-05-16_12-30-50.md`, experiment `2026-05-16_12-15-29.md`, factory `manual-exact-run+recovery-2026-05-16T12:48Z_current-cron-delivery-pending` / `historical 12:48 zero-state superseded by 16:31 current zero state`; source-lane exhaustion remains open; no public posting/spend/Zernio send.
+<!-- ZG-DLOG-2026-05-17-1259-FACTORY-ZERO -->
+### Draft Factory 12:59 exact + recovery zero-state (historical; superseded by 14:19 current readback)
+- Ran exactly `venv/bin/python scripts/scheduled_ai_social_draft_factory.py --limit 1 --apply --quality low --send-to-zernio` as `proc_e0b9e0e544a7`; it exited 0 with `draft_count=0/results=[]` and wrote `latest_social_draft_factory.json@2026-05-17T12:56:25.172988+00:00`.
+- Per recovery rule, diagnosed source/static lane saturation and reran the exact command once as `proc_6c2150b72c7b`; recovery also exited 0 with `draft_count=0/results=[]` and wrote `historical 12:59 zero-state`.
+- Diagnosis: source-lane exhaustion / anti-repetition guard saturation, not FAL/Zernio for this tick. Canonical 0/98 eligible; evergreen 0/42, AI Words 0/8, KPI backstop 0/8 for 12:00Z. YouTube fallback produced no usable non-duplicate candidate during the factory path.
+- Verification (historical): no manifest/media/Airtable/Zernio payload existed for that 13:08 factory output; this is superseded by the 16:54 manifest/Airtable + Zernio POST 403 readback.
+- Action/state: scheduler cadence resolved/current for this tick; source-lane replenishment remains the urgent KPI blocker. Keep production cron enabled/draft-only and feed fresh non-repeating ChatGPT/NotebookLM/software-tip/service-industry sources.
 
 ### Links
 - Memory note: [[Aion OS/Aion Learning Lab/Zernio Growth/Zernio Growth Memory]]
 - Master state: [[Aion OS/Projects/genlabs-ai-learning-state]]
 - Self-improvement SOP: [[Aion OS/SOPs/genlabs-ai-learning-self-improvement-system]]
+
+## 2026-05-16
+
+### KPI status
+- Goal: one TikTok post reaches **100,000 views**.
+- Best post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- Current best views: 30761
+- Gap to 100,000: 70297
+- Closest post views: 30761
+- Strongest velocity post: none currently; `7639765434664750354` was below-threshold watch-only at +2 views / 1,142 views.
+- Recent 72h post count: 1
+- Snapshot time: 2026-05-16T23:57:19.940266+00:00; final readback `2026-05-17T00:16:27Z`
+
+### Signals learned today
+- Winning hook samples:
+- ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- Practical work/SME utility remains stronger than generic AI news; protect the reusable GenLabs CTA from hook/topic analysis.
+- Protected CTA note: Sway-added CTA phrase is protected and must not be treated as hook/topic signal; learn from educational_signal instead.
+- Breakout candidates: 0 in the final same-window rerun; preserve the intended pre-run velocity snapshot for breakout decisions.
+- Factory boundary update: `2026-05-17_00-12-15.md` created Airtable `recVThXXafPYFW5Pb` from `yt-3lRR0J2tPVg` but Zernio POST 403 blocked draft creation; source-topic QA is review-only/not KPI-ready.
+- Scheduler boundary update: experiment creator delivered `2026-05-17_00-36-18.md`, but 00:30 import/breakout/issue outputs are still not visible after a short wait; one scheduler readback watch is open.
+- Current issue count: 7
+
+### Mistakes / weak spots to correct
+- active_experiment_result_closure_overdue_or_blocked
+- zernio_factory_zernio_post_forbidden_2026_05_14_current
+- zernio_factory_source_quality_replenishment_2026_05_15_0639
+- zernio_factory_editorial_source_topic_qa
+- learning_loop_structured_performance_experiments_backfill_missing
+- zernio_analytics_zero_metric_regression_guarded_2026_05_12_1415
+- zernio_scheduler_readback_watch_2026_05_17_0030
+
+### Rule / memory update
+- Lesson: Fix active result-closure/factory QA/Zernio POST gates before scaling more near-duplicate growth experiments.
+- Boundary rule: if final daily-log verification crosses a scheduled import/breakout/growth/experiment boundary and outputs are still missing after a short wait, keep analytics evidence separate and open exactly one scheduler readback watch.
+- Decision rule: If no post is on pace for 100k, increase experiment volume only after result/source/Zernio/editorial gates are current.
+
+### Next action
+- Verify the 00:00 scheduler readback on the next tick; if a later tick is late or non-ok after current crons exit, repair scheduler state.
+- Fix Zernio POST permission/token/account access and regenerate only from fresh QA-passing ChatGPT/NotebookLM/software-tip sources; keep any output draft-only/review-only.
+- Close/mark blocked active 2h/4h/24h result loops before near-duplicate scaling.
+
+### Links
+- Memory note: [[Aion OS/Aion Learning Lab/Zernio Growth/Zernio Growth Memory]]
+- Master state: [[Aion OS/Projects/genlabs-ai-learning-state]]
+- Self-improvement SOP: [[Aion OS/SOPs/genlabs-ai-learning-self-improvement-system]]
+
 ## 2026-05-15
 
 ### KPI status
@@ -191,7 +190,7 @@
 - Current best views: 28211
 - Gap to 100,000: 71789
 - Closest post views: 28211
-- Strongest velocity post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- Strongest velocity post: 7639765434664750354 — AI Agent beginner/start-point explainer for Thai SMEs: start with one small mini tool before full automation (1,161 views / +5 / 17.08/hr, watch-only)
 - Recent 72h post count: 2
 - Snapshot time: 2026-05-15T23:57:45.703036+00:00
 
@@ -206,8 +205,8 @@
 - 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา A
 - Protected CTA note: Sway-added CTA phrase is protected and must not be treated as hook/topic signal; learn from educational_signal instead.
 - Protected CTA occurrences in low-view sample: 3
-- Breakout candidates: 0 in this same-window rerun; preserve the intended pre-run velocity snapshot for breakout decisions.
-- Current issue count: 6
+- Breakout candidates: 0; latest normal baseline found only below-threshold movement, so keep the AI Agent mover watch-only until a later baseline confirms.
+- Current issue count: 7
 
 ### Mistakes / weak spots to correct
 - active_experiment_result_closure_overdue_or_blocked
@@ -222,7 +221,7 @@
 - Decision rule: If no post is on pace for 100k, increase experiment volume and remix the best specific business-use hook instead of passively waiting.
 
 ### Next action
-- Close/mark blocked active 2h/4h/24h result loops and resolve factory editorial/source-topic QA before creating more near-duplicate drafts; keep any breakout amplification draft-only.
+- Close/mark blocked active 2h/4h/24h result loops and resolve factory editorial/source-topic QA before creating more near-duplicate drafts; keep the AI Agent mover watch-only until a normal baseline confirms breakout evidence.
 
 ### Links
 - Memory note: [[Aion OS/Aion Learning Lab/Zernio Growth/Zernio Growth Memory]]
@@ -251,7 +250,7 @@
 - Protected CTA note: Sway-added CTA phrase is protected and must not be treated as a weak pattern.
 - Protected CTA occurrences in low-view sample: 5
 - Breakout candidates: 0
-- Current issue count: 6
+- Current issue count: 7
 
 ### Mistakes / weak spots to correct
 - No data reliability issue detected; main weakness is insufficient breakout velocity so far.
@@ -360,7 +359,7 @@ Lesson: The protected GenLabs CTA can stay, but the educational hook before it m
 - Protected CTA note: Sway-added CTA phrase is protected and must not be treated as a weak pattern.
 - Protected CTA occurrences in low-view sample: 5
 - Breakout candidates: 2
-- Current issue count: 6
+- Current issue count: 7
 
 ### Mistakes / weak spots to correct
 - No data reliability issue detected; main weakness is insufficient breakout velocity so far.
@@ -400,7 +399,7 @@ Lesson: The protected GenLabs CTA can stay, but the educational hook before it m
 - Protected CTA note: Sway-added CTA phrase is protected and must not be treated as a weak pattern.
 - Protected CTA occurrences in low-view sample: 5
 - Breakout candidates: 1
-- Current issue count: 6
+- Current issue count: 7
 
 ### Mistakes / weak spots to correct
 - No data reliability issue detected; main weakness is insufficient breakout velocity so far.
@@ -426,7 +425,7 @@ Lesson: The protected GenLabs CTA can stay, but the educational hook before it m
 - Current best views: 15689
 - Gap to 100,000: 84311
 - Closest post views: 15689
-- Strongest velocity post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- Strongest velocity post: 7639765434664750354 — AI Agent beginner/start-point explainer for Thai SMEs: start with one small mini tool before full automation (1,161 views / +5 / 17.08/hr, watch-only)
 - Recent 72h post count: 13
 - Snapshot time: 2026-05-06T00:11:36.845468+00:00
 
@@ -442,7 +441,7 @@ Lesson: The protected GenLabs CTA can stay, but the educational hook before it m
 - Protected CTA note: Sway-added CTA phrase is protected and must not be treated as hook/topic signal; learn from educational_signal instead.
 - Protected CTA occurrences in low-view sample: 5
 - Breakout candidates: 0
-- Current issue count: 6
+- Current issue count: 7
 
 ### Mistakes / weak spots to correct
 - No data reliability issue detected; main weakness is insufficient breakout velocity so far.
@@ -528,7 +527,7 @@ Lesson: The protected GenLabs CTA can stay, but the educational hook before it m
 - Current best views: 15689
 - Gap to 100,000: 84311
 - Closest post views: 15689
-- Strongest velocity post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- Strongest velocity post: 7639765434664750354 — AI Agent beginner/start-point explainer for Thai SMEs: start with one small mini tool before full automation (1,161 views / +5 / 17.08/hr, watch-only)
 - Recent 72h post count: 16
 - Snapshot time: 2026-05-06T00:11:36.845468+00:00
 
@@ -544,7 +543,7 @@ Lesson: The protected GenLabs CTA can stay, but the educational hook before it m
 - Protected CTA note: Sway-added CTA phrase is protected and must not be treated as hook/topic signal; learn from educational_signal instead.
 - Protected CTA occurrences in low-view sample: 3
 - Breakout candidates: 1
-- Current issue count: 6
+- Current issue count: 7
 
 ### Mistakes / weak spots to correct
 - Breakout evidence is fresh, but hourly velocity is refresh-window inflated because the snapshot reran inside the 15-minute baseline window; use absolute deltas and confirm on the next normal baseline.
@@ -969,7 +968,7 @@ Lesson: The protected GenLabs CTA can stay, but the educational hook before it m
 - Current best views: 15689
 - Gap to 100,000: 84311
 - Closest post views: 15689
-- Strongest velocity post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- Strongest velocity post: 7639765434664750354 — AI Agent beginner/start-point explainer for Thai SMEs: start with one small mini tool before full automation (1,161 views / +5 / 17.08/hr, watch-only)
 - Recent 72h post count: 15
 - Snapshot time: 2026-05-06T00:11:36.845468+00:00
 
@@ -985,7 +984,7 @@ Lesson: The protected GenLabs CTA can stay, but the educational hook before it m
 - Protected CTA note: Sway-added CTA phrase is protected and must not be treated as hook/topic signal; learn from educational_signal instead.
 - Protected CTA occurrences in low-view sample: 3
 - Breakout candidates: 1
-- Current issue count: 6
+- Current issue count: 7
 
 ### Mistakes / weak spots to correct
 - Breakout evidence is fresh, but hourly velocity is refresh-window inflated because the snapshot reran inside the 15-minute baseline window; use absolute deltas and confirm on the next normal baseline.
@@ -1550,7 +1549,7 @@ Lesson: The protected GenLabs CTA can stay, but the educational hook before it m
 - Current best views: 16810
 - Gap to 100,000: 83190
 - Closest post views: 16810
-- Strongest velocity post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- Strongest velocity post: 7639765434664750354 — AI Agent beginner/start-point explainer for Thai SMEs: start with one small mini tool before full automation (1,161 views / +5 / 17.08/hr, watch-only)
 - Recent 72h post count: 5
 - Snapshot time: 2026-05-07T23:58:28.034648+00:00
 
@@ -1597,7 +1596,7 @@ Lesson: The protected GenLabs CTA can stay, but the educational hook before it m
 - Current best views: 18642
 - Gap to 100,000: 81358
 - Closest post views: 18642
-- Strongest velocity post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- Strongest velocity post: 7639765434664750354 — AI Agent beginner/start-point explainer for Thai SMEs: start with one small mini tool before full automation (1,161 views / +5 / 17.08/hr, watch-only)
 - Recent 72h post count: 7
 - Snapshot time: 2026-05-08T23:55:36.843506+00:00
 
@@ -1643,7 +1642,7 @@ Lesson: The protected GenLabs CTA can stay, but the educational hook before it m
 - Current best views: 18642
 - Gap to 100,000: 81358
 - Closest post views: 18642
-- Strongest velocity post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- Strongest velocity post: 7639765434664750354 — AI Agent beginner/start-point explainer for Thai SMEs: start with one small mini tool before full automation (1,161 views / +5 / 17.08/hr, watch-only)
 - Recent 72h post count: 6
 - Snapshot time: 2026-05-09T23:55:56.536463+00:00
 
@@ -1689,7 +1688,7 @@ Lesson: The protected GenLabs CTA can stay, but the educational hook before it m
 - Current best views: 18642
 - Gap to 100,000: 81358
 - Closest post views: 18642
-- Strongest velocity post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- Strongest velocity post: 7639765434664750354 — AI Agent beginner/start-point explainer for Thai SMEs: start with one small mini tool before full automation (1,161 views / +5 / 17.08/hr, watch-only)
 - Recent 72h post count: 4
 - Snapshot time: 2026-05-10T23:55:11.681559+00:00
 
@@ -1747,7 +1746,7 @@ Lesson: The protected GenLabs CTA can stay, but the educational hook before it m
 - Generic/duplicated “เหมาะกับใคร” openings and source-topic drift remain weak; do not scale until QA/result closure improves.
 - Protected CTA note: Sway-added product-photo/10-baht/no-prompt phrase is protected CTA copy and must not be treated as hook/topic signal; learn from educational_signal instead.
 - Breakout candidates: 0; current best remains a watch, not a fresh breakout.
-- Current issue count: 6
+- Current issue count: 7
 
 ### Mistakes / weak spots to correct
 - active_experiment_result_closure_overdue_or_blocked
@@ -1772,4 +1771,3 @@ Lesson: The protected GenLabs CTA can stay, but the educational hook before it m
 - Memory note: [[Aion OS/Aion Learning Lab/Zernio Growth/Zernio Growth Memory]]
 - Master state: [[Aion OS/Projects/genlabs-ai-learning-state]]
 - Self-improvement SOP: [[Aion OS/SOPs/genlabs-ai-learning-self-improvement-system]]
-

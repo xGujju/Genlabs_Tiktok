@@ -1,0 +1,313 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a9a9827/5dD0AepaEYugZ3os4iWlj_oU8I8P8k.png",
+    "https://v3b.fal.media/files/b/0a9a982b/VSX0CRmom_kgD6h2GBhJ5_eytVMouB.png",
+    "https://v3b.fal.media/files/b/0a9a982f/vsflAvpGK0r7yT5_sQ29X_iEoO8rJl.png",
+    "https://v3b.fal.media/files/b/0a9a9834/UuaR4cDg34Nvw5CU0c4Z5_SPe1DHkL.png",
+    "https://v3b.fal.media/files/b/0a9a9838/l_PiwN7gF1iS7PLUAmwfO_AWIlWk5v.png",
+    "https://v3b.fal.media/files/b/0a9a983c/tHLxHZs-xeo1IJl53qyIq_me1AqbKA.png",
+    "https://v3b.fal.media/files/b/0a9a9840/Az_r8j6l6B_GVhVRyLDQL_sW8r7rfr.png",
+    "https://v3b.fal.media/files/b/0a9a9843/h6bp7hN5nRgEARCuIaZ7__keJLa85W.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 8,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/8 role=hook. Thai copy: อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน\nContext • Token • workflow • prompt. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน\nContext • Token • workflow • prompt",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/8 role=problem. Thai copy: ปัญหา: หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/8 role=trend. Thai copy: ทำไมควรสนใจ:\nโพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nโพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/8 role=tips. Thai copy: ลองใช้แบบนี้:\n1) จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง\n2) เลือกงานที่มีกฎชัดที่สุด 1 งาน\n3) เขียน input/output ที่ต้องการ\n4) ให้ AI ช่วยทำเช็กลิสต์ก่อน แล้วค่อยต่อ automation. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง\n2) เลือกงานที่มีกฎชัดที่สุด 1 งาน\n3) เขียน input/output ที่ต้องการ\n4) ให้ AI ช่วยทำเช็กลิสต์ก่อน แล้วค่อยต่อ automation",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/8 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/8 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\nใช้กับ 3 จุดนี้:\n5) แชทลูกค้า: ร่างคำตอบจาก FAQ จริง\n6) ฝ่ายขาย: สรุปลีดที่พร้อมซื้อ\n7) หลังบ้าน: สรุปรายงานประจำวัน. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\nใช้กับ 3 จุดนี้:\n5) แชทลูกค้า: ร่างคำตอบจาก FAQ จริง\n6) ฝ่ายขาย: สรุปลีดที่พร้อมซื้อ\n7) หลังบ้าน: สรุปรายงานประจำวัน",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/8 role=framework. Thai copy: จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ. Visual direction: five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "framework",
+        "thai_copy": "จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ",
+        "visual_direction": "five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat"
+      },
+      {
+        "image_prompt": "Slide 8/8 role=cta. Thai copy: ลองวันนี้:\nวันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 8,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "yt-dD0CGgBLKdc",
+    "source_url": "https://www.youtube.com/watch?v=dD0CGgBLKdc",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://www.youtube.com/watch?v=dD0CGgBLKdc",
+        "Keywords: Context, Token, workflow, prompt, n8n, Make, agent",
+        "This is trending because people can copy the workflow immediately instead of only reading AI news."
+      ],
+      "glossary": {
+        "Context": "บริบท",
+        "Make": "Make",
+        "Token": "ชิ้นข้อความที่ AI ใช้นับ",
+        "agent": "เอเจนต์ AI",
+        "n8n": "n8n",
+        "prompt": "พรอมป์ต์",
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "Context",
+        "Token",
+        "workflow",
+        "prompt",
+        "n8n",
+        "Make",
+        "agent"
+      ],
+      "source_id": "yt-dD0CGgBLKdc",
+      "source_url": "https://www.youtube.com/watch?v=dD0CGgBLKdc",
+      "thai_call_to_action": "วันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น",
+      "thai_hook": "อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน",
+      "thai_problem": "หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้",
+      "thai_tips": [
+        "จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง",
+        "เลือกงานที่มีกฎชัดที่สุด 1 งาน",
+        "เขียน input/output ที่ต้องการ",
+        "ให้ AI ช่วยทำเช็กลิสต์ก่อน แล้วค่อยต่อ automation"
+      ],
+      "thai_trend_angle": "โพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "Crypto_Minati",
+    "clean_headline": "From Chat to Workspace Mastering Claude AI Crypto_Minati This complete Claude AI tutorial shows you how to move beyond simple AI chatting and start using Claude",
+    "clean_summary": "From Chat to Workspace Mastering Claude AI Crypto_Minati This complete Claude AI tutorial shows you how to move beyond simple AI chatting and start using Claude like a real productivity ... Transcript: From Chat to Workspace Mastering Claude AI Description From Chat to Workspace Mastering Claude AI N/A Likes 9 Views 33m Ago This complete Claude AI tutorial shows you how to move beyond simple AI chatting and start using Claude like a real productivity assistant. In this step-by-step guide, you’ll learn how to: ✅ Draft professional emails instantly ✅ Summarize PDFs and complex documents ✅ Upload files for deep AI analysis ✅ Use Artifacts for real-time content editing ✅ Create Projects to organize workflows ✅ Connect external tools using Connectors ✅ Automate repetitive tasks with Custom Skills ✅ Manage business operations using AI Whether you’re a creator, entrepreneur, freelancer, developer, marketer, or business owner, this tutorial will help you unlock the real power of Claude AI. 📌 What Makes Claude Different? Unlike normal chatbots, Claude AI can: • Maintain context across projects • Organize workflows intelligently • Work with files and structured content • Help automate real business tasks • Function like a true AI co-worker 🚀 Topics Covered: * Claude AI Tutorial * Claude Projects * Claude Artifacts * AI Workflow Automation * AI Productivity Tools * AI Business Automation * AI Document Analysis * AI Skills & Connectors * Prompt Engineering Basics 🔗 Tools Mentioned: * [Claude AI Official Website]([ If you want to build smarter workflows and use AI more effectively in daily work, this video is for you. [#ClaudeAI]( ...more Show less Transcript Follow along using the transcript. Show transcript [![Image 15]( ### Crypto_Minati 8.75K subscribers]( [Videos]( 16]( Instagram]( [![Image 17]( 41]( Crypto Trading and education by Crypto_Minati ## Transcript NaN / NaN [![Image 18]( 55:32]( ![Image 19]( ### [Claude just killed ALL Note-Taking Apps. Here is proof.]( ICOR with Tom | AI Productivity 364K views • 1 month ago [![Image 20]( 46:49]( ![Image 21]( ### [12 Ways to Use Cla",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 9,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "Context",
+      "Token",
+      "workflow",
+      "prompt",
+      "n8n",
+      "Make",
+      "agent"
+    ],
+    "original_language": "en",
+    "raw_text": "YouTube title: From Chat to Workspace Mastering Claude AI\nChannel: Crypto_Minati\nDescription: This complete Claude AI tutorial shows you how to move beyond simple AI chatting and start using Claude like a real productivity ...\nTranscript:\nTitle: From Chat to Workspace Mastering Claude AI Description From Chat to Workspace Mastering Claude AI N/A Likes 9 Views 33m Ago This complete Claude AI tutorial shows you how to move beyond simple AI chatting and start using Claude like a real productivity assistant. In this step-by-step guide, you’ll learn how to: ✅ Draft professional emails instantly ✅ Summarize PDFs and complex documents ✅ Upload files for deep AI analysis ✅ Use Artifacts for real-time content editing ✅ Create Projects to organize workflows ✅ Connect external tools using Connectors ✅ Automate repetitive tasks with Custom Skills ✅ Manage business operations using AI Whether you’re a creator, entrepreneur, freelancer, developer, marketer, or business owner, this tutorial will help you unlock the real power of Claude AI. 📌 What Makes Claude Different? Unlike normal chatbots, Claude AI can: • Maintain context across projects • Organize workflows intelligently • Work with files and structured content • Help automate real business tasks • Function like a true AI co-worker 🚀 Topics Covered: * Claude AI Tutorial * Claude Projects * Claude Artifacts * AI Workflow Automation * AI Productivity Tools * AI Business Automation * AI Document Analysis * AI Skills & Connectors * Prompt Engineering Basics 🔗 Tools Mentioned: * [Claude AI Official Website]([https://claude.ai?utm_source=chatgpt.com](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fclaude.ai%2F%3Futm_source%3Dchatgpt.com&v=dD0CGgBLKdc)) If you want to build smarter workflows and use AI more effectively in daily work, this video is for you. [#ClaudeAI](https://www.youtube.com/hashtag/claudeai)[#AITutorial](https://www.youtube.com/hashtag/aitutorial)[#AIAutomation](https://www.youtube.com/hashtag/aiautomation)[#AIWorkflow](https://www.youtube.com/hashtag/aiworkflow)[#ArtificialIntelligence](https://www.youtube.com/hashtag/artificialintelligence)[#PromptEngineering](https://www.youtube.com/hashtag/promptengineering)[#AIProductivity](https://www.youtube.com/hashtag/aiproductivity)[#BusinessAutomation](https://www.youtube.com/hashtag/businessautomation)[#ClaudeProjects](https://www.youtube.com/hashtag/claudeprojects)[#ClaudeArtifacts](https://www.youtube.com/hashtag/claudeartifacts)[#AIForBusiness](https://www.youtube.com/hashtag/aiforbusiness)[#n8n](https://www.youtube.com/hashtag/n8n)[#AIAgents](https://www.youtube.com/hashtag/aiagents)[#TechTutorial](https://www.youtube.com/hashtag/techtutorial)[#FutureOfAI](https://www.youtube.com/hashtag/futureofai)…...more ...more Show less Transcript Follow along using the transcript. Show transcript [![Image 15](https://www.youtube.com/watch?v=dD0CGgBLKdc) ### Crypto_Minati 8.75K subscribers](https://www.youtube.com/@Crypto_Minati) [Videos](https://www.youtube.com/channel/UCiASpTxKO6aMewSq8MqlJtQ/videos)[About](https://www.youtube.com/channel/UCiASpTxKO6aMewSq8MqlJtQ/about)[![Image 16](https://www.youtube.com/watch?v=dD0CGgBLKdc) Instagram](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=REDACTED&q=https%3A%2F%2Fwww.instagram.com%2Fnavneetdxb%2F) [![Image 17](https://www.youtube.com/watch?v=dD0CGgBLKdc)41 41](https://www.youtube.com/watch?v=F1YKEnpZzfM&list=PLcLRXo7ndjXWyVq0uC7f-0OpsGhFQX97O) Crypto Trading and education by Crypto_Minati ## Transcript NaN / NaN [![Image 18](https://i.ytimg.com/vi/geIKyDaXwGg/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBPXfaTJCFchrI-pgjhBkMUFuyfBg) 55:32](https://www.youtube.com/watch?v=geIKyDaXwGg) ![Image 19](https://www.youtube.com/watch?v=dD0CGgBLKdc) ### [Claude just killed ALL Note-Taking Apps. Here is proof.](https://www.youtube.com/watch?v=geIKyDaXwGg) ICOR with Tom | AI Productivity 364K views • 1 month ago [![Image 20](https://i.ytimg.com/vi/L2CXXmDG-mM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA6_X4hIl-tRR0qLBTzRvzenYHsJg) 46:49](https://www.youtube.com/watch?v=L2CXXmDG-mM&pp=ugUEEgJlbg%3D%3D) ![Image 21](https://www.youtube.com/watch?v=dD0CGgBLKdc) ### [12 Ways to Use Cla",
+    "source_id": "yt-dD0CGgBLKdc",
+    "source_url": "https://www.youtube.com/watch?v=dD0CGgBLKdc",
+    "why_it_matters": "This is trending because people can copy the workflow immediately instead of only reading AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น",
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=dD0CGgBLKdc",
+      "Keywords: Context, Token, workflow, prompt, n8n, Make, agent",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "hook": "อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน",
+    "original_keywords": [
+      "Context",
+      "Token",
+      "workflow",
+      "prompt",
+      "n8n",
+      "Make",
+      "agent"
+    ],
+    "original_language": "en",
+    "problem": "หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้",
+    "source_id": "yt-dD0CGgBLKdc",
+    "source_url": "https://www.youtube.com/watch?v=dD0CGgBLKdc",
+    "tips": [
+      "จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง",
+      "เลือกงานที่มีกฎชัดที่สุด 1 งาน",
+      "เขียน input/output ที่ต้องการ",
+      "ให้ AI ช่วยทำเช็กลิสต์ก่อน แล้วค่อยต่อ automation"
+    ],
+    "trend_angle": "โพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "5dD0AepaEYugZ3os4iWlj_oU8I8P8k.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a9827/5dD0AepaEYugZ3os4iWlj_oU8I8P8k.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260517T164907Z-yt-dD0CGgBLKdc/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "VSX0CRmom_kgD6h2GBhJ5_eytVMouB.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a982b/VSX0CRmom_kgD6h2GBhJ5_eytVMouB.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260517T164907Z-yt-dD0CGgBLKdc/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "vsflAvpGK0r7yT5_sQ29X_iEoO8rJl.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a982f/vsflAvpGK0r7yT5_sQ29X_iEoO8rJl.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260517T164907Z-yt-dD0CGgBLKdc/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "UuaR4cDg34Nvw5CU0c4Z5_SPe1DHkL.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a9834/UuaR4cDg34Nvw5CU0c4Z5_SPe1DHkL.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260517T164907Z-yt-dD0CGgBLKdc/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "l_PiwN7gF1iS7PLUAmwfO_AWIlWk5v.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a9838/l_PiwN7gF1iS7PLUAmwfO_AWIlWk5v.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260517T164907Z-yt-dD0CGgBLKdc/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "tHLxHZs-xeo1IJl53qyIq_me1AqbKA.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a983c/tHLxHZs-xeo1IJl53qyIq_me1AqbKA.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260517T164907Z-yt-dD0CGgBLKdc/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "Az_r8j6l6B_GVhVRyLDQL_sW8r7rfr.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a9840/Az_r8j6l6B_GVhVRyLDQL_sW8r7rfr.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260517T164907Z-yt-dD0CGgBLKdc/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "h6bp7hN5nRgEARCuIaZ7__keJLa85W.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9a9843/h6bp7hN5nRgEARCuIaZ7__keJLa85W.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260517T164907Z-yt-dD0CGgBLKdc/slide-8.png",
+      "slide_index": 8,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 9,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260517T164907Z-yt-dD0CGgBLKdc/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้\n\n📌 ทำไมควรเซฟโพสต์นี้: โพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง\n\n2) ✨ เลือกงานที่มีกฎชัดที่สุด 1 งาน\n\n3) ✨ เขียน input/output ที่ต้องการ\n\n4) ✨ ให้ AI ช่วยทำเช็กลิสต์ก่อน แล้วค่อยต่อ automation\n\n🧪 ลองเริ่มวันนี้: วันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น\n\n🧭 วิธีใช้กับงานนี้: จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง → เลือกงานที่มีกฎชัดที่สุด 1 งาน → เขียน input/output ที่ต้องการ\n\n🌱 มือใหม่ให้เริ่มจากเคสจริงเล็ก ๆ ของอุตสาหกรรมนี้ แล้วให้คนในทีมตรวจคำตอบก่อนใช้กับลูกค้าจริง\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเห็นว่า AI ช่วยลดงานซ้ำและทำให้บริการชัดขึ้นได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน #AIมือใหม่ เอาไปใช้กับงานจริงได้ทันที"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=dD0CGgBLKdc",
+      "Keywords: Context, Token, workflow, prompt, n8n, Make, agent",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "glossary": {
+      "Context": "บริบท",
+      "Make": "Make",
+      "Token": "ชิ้นข้อความที่ AI ใช้นับ",
+      "agent": "เอเจนต์ AI",
+      "n8n": "n8n",
+      "prompt": "พรอมป์ต์",
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "Context",
+      "Token",
+      "workflow",
+      "prompt",
+      "n8n",
+      "Make",
+      "agent"
+    ],
+    "source_id": "yt-dD0CGgBLKdc",
+    "source_url": "https://www.youtube.com/watch?v=dD0CGgBLKdc",
+    "thai_call_to_action": "วันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น",
+    "thai_hook": "อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน",
+    "thai_problem": "หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้",
+    "thai_tips": [
+      "จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง",
+      "เลือกงานที่มีกฎชัดที่สุด 1 งาน",
+      "เขียน input/output ที่ต้องการ",
+      "ให้ AI ช่วยทำเช็กลิสต์ก่อน แล้วค่อยต่อ automation"
+    ],
+    "thai_trend_angle": "โพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ"
+  }
+}

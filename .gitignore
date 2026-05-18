@@ -37,3 +37,11 @@ logs/
 # Large temporary files
 tmp/
 temp/
+
+# Python build artifacts
+*.egg-info/
+build/
+dist/
+
+# Runtime state (machine-local, lives in ~/.hermes/genlabs_state)
+state/

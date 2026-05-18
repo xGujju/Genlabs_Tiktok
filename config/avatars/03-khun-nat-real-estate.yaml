@@ -1,0 +1,189 @@
+id: khun-nat-real-estate
+display_name: คุณนัท
+display_name_en: Khun Nat
+industry: real_estate
+subindustry: independent_agent_or_small_brokerage
+geo: thailand
+language: th
+status: draft
+priority: 1
+version: 1
+last_updated: 2026-05-18
+
+demographics:
+  age_range: [30, 45]
+  gender: mixed
+  location_type: [bangkok, pattaya, phuket, chiang_mai, hua_hin]
+  education: bachelor_or_above
+  business_size_staff: [1, 5]
+  business_revenue_baht_month: [80000, 600000]
+  business_age_years: [2, 12]
+  client_mix: [thai, chinese, foreigner_western]
+
+business_model:
+  primary_channels: [line, whatsapp, wechat, fb_marketplace, ddproperty, hipflat]
+  secondary_channels: [ig, agent_referral, walk_in_office]
+  revenue_model: commission_per_close
+  peak_hours_ict: ["18:00-22:00_weekdays", "all_day_weekends"]
+  decision_maker: self
+  closes_per_month_band: [1, 6]
+
+daily_pains:
+  - id: multilingual-listing-copy
+    pain_th: ต้องเขียนคำบรรยายห้องเป็นไทย-อังกฤษ บางทีจีน ใช้ Google Translate แล้วฟังก็ออกแปลก ๆ
+    pain_en: Listing copy in TH/EN/sometimes ZH; Google Translate produces awkward text
+    severity: high
+    current_workaround: ใช้ Translate แล้วแก้เอง ใช้เวลา 30-60 นาที/listing
+    ai_opportunity: AI multilingual listing rewrite with property-marketing tone
+  - id: photo-enhancement-listings
+    pain_th: รูปห้องที่ลูกค้าส่งมาแสงไม่ดี ห้องรก ทำให้คนคลิกน้อย
+    pain_en: Owner-supplied photos are dim/cluttered, low click-through
+    severity: high
+    current_workaround: ใช้ฟิลเตอร์ในมือถือ ผลไม่สม่ำเสมอ
+    ai_opportunity: AI photo enhance + virtual declutter + consistent style preset
+  - id: lead-qualification-time-sink
+    pain_th: 30 ข้อความเข้ามาทาง LINE มีจริง ๆ ที่ซื้อ 1 คน เสียเวลาทั้งวัน
+    pain_en: 30 LINE inquiries, 1 real buyer; entire day burned filtering
+    severity: high
+    current_workaround: ตอบทุกคน ใช้คำถามตายตัว
+    ai_opportunity: AI pre-qualifier on LINE OA with branching Thai/English questions
+  - id: cross-platform-listing-sync
+    pain_th: อัปเดต DDProperty ลืม Hipflat ลืม FB Marketplace ลูกค้าโทรมาห้องนี้ขายแล้วยัง
+    pain_en: Listings out of sync across DDProperty/Hipflat/FB; embarrassed by stale ads
+    severity: medium
+    current_workaround: ทำ checklist Excel
+    ai_opportunity: single-source listing + AI-formatted publish per platform
+  - id: cold-lead-followup
+    pain_th: ลูกค้าทักมาเมื่อ 3 เดือนก่อน อยากตามต่อ แต่จำเรื่องไม่ได้
+    pain_en: 3-month-old lead worth reviving; doesn't remember context
+    severity: medium
+    current_workaround: ลืมไปเลย
+    ai_opportunity: AI conversation summary + suggested Thai re-engagement message
+
+weekly_pains:
+  - id: market-comparison-report
+    pain_th: ลูกค้าจริงจังถามว่าราคาในย่านนี้เป็นยังไง ต้องทำรายงานเปรียบเทียบ ใช้เวลา 2-3 ชั่วโมง
+    pain_en: Serious buyer wants comp report; 2-3h manual work per request
+    ai_opportunity: AI comp-report generator from scraped portals
+  - id: open-house-promo
+    pain_th: open house อาทิตย์นี้ ต้องทำโปสเตอร์ โพสต์ FB ส่ง LINE group ใช้เวลา 4 ชั่วโมง
+    pain_en: Open house promo: poster + FB post + LINE group blast = 4h
+    ai_opportunity: AI poster + cross-channel post pack from one brief
+  - id: contract-coverage
+    pain_th: เขียนสัญญา co-broker / รับฝากขาย ใช้ template เก่า ๆ ที่ก๊อปกันมา
+    pain_en: Co-broker / listing agreement contracts on copy-pasted templates
+    ai_opportunity: AI contract drafter with Thai legal phrasing review
+
+vocabulary:
+  address_terms_self: [คุณ, พี่]
+  address_terms_to_customer: [คุณลูกค้า, ลูกค้า, พี่, คุณ]
+  address_terms_to_co_agent: [พี่นายหน้า, เพื่อนนายหน้า]
+  key_nouns: [ห้อง, listing, ราคาประเมิน, คอนโด, บ้านเดี่ยว, ทาวน์โฮม, โอน, มัดจำ, คอมมิชชั่น, รับฝากขาย]
+  honorific_register: formal_advisor
+
+tools_used:
+  - LINE
+  - WhatsApp
+  - WeChat
+  - DDProperty
+  - Hipflat
+  - Facebook Marketplace
+  - Microsoft Word
+  - Google Maps Street View
+  - Canva
+  - ChatGPT Plus (some)
+
+tools_distrusted:
+  - CRMs that lock data in
+  - tools requiring agent license verification
+  - subscription tools that don't have a Chinese language UI for ZH clients
+
+fee_sensitivity:
+  monthly_ceiling_baht: 5000
+  one_time_ceiling_baht: 30000
+  free_trial_required: true
+  willing_to_pay_per_close: true
+
+watering_holes:
+  facebook_groups:
+    - "Thailand Real Estate Agents"
+    - "Bangkok Property Agents"
+    - "Pattaya Property Forum"
+  pantip_forums: [condo, /tag/อสังหา, /tag/บ้าน-คอนโด]
+  tiktok_hashtags: [#นายหน้า, #คอนโด, #อสังหา, #ขายบ้าน]
+  linkedin_groups: [Thailand Real Estate Professionals]
+  youtube_channels_thai: [Thai property agent vlogs, real-estate market commentary]
+
+content_preferences:
+  format_affinity_ranked:
+    - screen_recording_voiceover
+    - carousel_sketchnote
+    - before_after_split
+    - talking_head
+    - customer_qa_reply
+    - quote_card
+  hook_frame_affinity_ranked:
+    - tutorial_numbered
+    - mistake_confession
+    - customer_question
+    - story_character
+    - curiosity_gap
+  underperforming_hooks: [day_in_life, controversy_pov]
+
+voice_register:
+  default: formal_advisor
+  notes: |
+    คุณ self-reference. Customer addressed as คุณลูกค้า.
+    Tone: experienced professional sharing tactics that close deals.
+    Numbers and case-study specifics land well. Discretion matters
+    (no naming actual clients or specific property addresses).
+
+locked_phrases_native_feel:
+  - "ลูกค้าจริงจัง vs ถามเล่น"
+  - "คอมมิชชั่นต่อ deal"
+  - "ปิด deal ได้เร็วขึ้น"
+  - "ใช้กับ listing ที่อยู่จริง"
+
+avoid_phrases_foreign_feel:
+  - "real estate tech stack"
+  - "PropTech"
+  - "buyer persona"
+  - "funnel optimization"
+
+search_seeds_for_discovery:
+  x_search_themes:
+    - "AI real estate listing writer"
+    - "ChatGPT for realtors"
+    - "AI property photo enhancement"
+    - "AI lead qualifier chatbot real estate"
+    - "comp report AI"
+    - "real estate AI workflow"
+  web_search_themes:
+    - "AI tools for real estate agents Thailand"
+    - "multilingual property listing AI"
+    - "real estate chatbot Thai"
+  youtube_search_themes:
+    - "นายหน้า AI"
+    - "ขายคอนโด AI ช่วย"
+    - "AI ตอบลูกค้านายหน้า"
+
+series_concepts:
+  - id: tuesday-listing-rewrite
+    name: อังคารนี้ เขียน listing ใหม่
+    cadence: weekly_tuesday
+    one_line: One real bad listing → rewritten with AI in 5 minutes
+  - id: thursday-buyer-question
+    name: พฤหัสนี้ คำถามลูกค้าจริงจัง
+    cadence: weekly_thursday
+    one_line: One serious buyer question + AI-drafted Thai/Eng/Chi answer
+
+success_signals_to_listen_for:
+  comment_keywords_qualified:
+    [นายหน้าเหมือนกัน, ใช้กับ listing, ขอ template, ลูกค้าจีน, จะลองใช้]
+  dm_keywords_qualified:
+    [ขอวิธีใช้, ขอ prompt, รับลูกค้าต่างชาติ]
+
+editorial_notes: |
+  Sway: validate whether คุณนัท resonates as a mixed-gender persona or if you'd
+  rather split into two (Thai-buyer-focused vs. foreigner-focused). Also: do your
+  current paying customers skew agent or developer-marketing? Adjust priority.

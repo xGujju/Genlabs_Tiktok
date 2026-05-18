@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genlabs-engine"
+version = "0.1.0"
+description = "GenLabs Thai SME content engine — avatars, novelty, ideation, production, learning."
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [{ name = "Sway", email = "it.th@kcmtrade.com" }]
+license = { text = "Proprietary" }
+dependencies = [
+    "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[tool.setuptools]
+packages = ["genlabs_engine"]
+
+[tool.setuptools.package-data]
+genlabs_engine = ["py.typed"]
+
+[project.urls]
+Repository = "https://github.com/xGujju/Genlabs_Tiktok"

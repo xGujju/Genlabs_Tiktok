@@ -1,0 +1,187 @@
+id: pi-tu-fnb
+display_name: พี่ตู่
+display_name_en: Pi Tu
+industry: food_beverage
+subindustry: single_location_cafe_restaurant_food_truck
+geo: thailand
+language: th
+status: draft
+priority: 1
+version: 1
+last_updated: 2026-05-18
+
+demographics:
+  age_range: [28, 45]
+  gender: mixed
+  location_type: [bangkok, secondary_cities, tourist_towns]
+  education: vocational_to_bachelor
+  business_size_staff: [5, 15]
+  business_revenue_baht_month: [150000, 800000]
+  business_age_years: [1, 10]
+
+business_model:
+  primary_channels: [dine_in, grabfood, lineman, foodpanda]
+  secondary_channels: [line_oa, fb_page, ig, wongnai, google_maps]
+  repeat_customer_share: 0.4
+  peak_hours_ict: ["11:30-13:30", "17:30-20:30"]
+  decision_maker: self
+  occasionally_consults: [head_chef, spouse]
+  margin_band_percent: [8, 25]
+
+daily_pains:
+  - id: ingredient-price-volatility
+    pain_th: ราคาวัตถุดิบขึ้น-ลงทุกอาทิตย์ คำนวณราคาขายใหม่ไม่ทัน เสียกำไรเงียบ ๆ
+    pain_en: Ingredient prices swing weekly; can't reprice fast enough; quietly losing margin
+    severity: high
+    current_workaround: คิดในใจ ใช้ราคาเดิม
+    ai_opportunity: AI cost recalc spreadsheet + suggested price points per dish
+  - id: grabfood-reviews-dropping
+    pain_th: รีวิว GrabFood ตกจาก 4.7 เหลือ 4.4 ในเดือนเดียว ไม่รู้ตรงไหนพลาด
+    pain_en: GrabFood rating dropped 4.7 → 4.4 in a month, can't diagnose
+    severity: high
+    current_workaround: เดาเอาว่าเพราะส่งช้า
+    ai_opportunity: AI review-sentiment digest, weekly, with top 3 actionable fixes
+  - id: staff-scheduling-sick-call
+    pain_th: น้องลาออกกะทันหัน ต้องโทรเรียกคนอื่น ทำเอง วุ่นทั้งวัน
+    pain_en: Sudden sick-call → owner cooks/serves all day
+    severity: medium
+    current_workaround: ส่งข้อความใน LINE group ใครว่างก็มา
+    ai_opportunity: AI-managed standby roster + auto-message qualified backup staff
+  - id: daily-promo-decision
+    pain_th: ทุกเช้าต้องคิดว่าวันนี้จะโปรอะไร โพสต์อะไร ไม่มีคนช่วยคิด
+    pain_en: Every morning: what to promote today? Solo brainstorm
+    severity: medium
+    current_workaround: โพสต์เมนูเหมือนเดิม
+    ai_opportunity: daily content seed based on weather, day of week, inventory leftover
+  - id: food-cost-tracking-loose
+    pain_th: รู้คร่าว ๆ ว่ากำไรต่อจานเท่าไหร่ แต่ไม่ได้คิดทุกจาน ทุกเดือน
+    pain_en: Knows margin roughly, never per-dish per-month
+    severity: medium
+    current_workaround: ลูกอ่อน Excel
+    ai_opportunity: photo receipt → cost-of-goods spreadsheet auto-update
+
+weekly_pains:
+  - id: new-menu-item-launch
+    pain_th: ทดลองเมนูใหม่ ต้องคิดสูตร ตั้งชื่อ ถ่ายรูป ตั้งราคา เขียนแคปชั่น ใช้เวลา 2 วัน
+    pain_en: New menu item = recipe + name + photo + price + caption = 2 days work
+    ai_opportunity: AI menu-launch package from recipe input
+  - id: supplier-decision
+    pain_th: ซื้อวัตถุดิบเจ้าไหนถูกกว่า เปรียบเทียบไม่ทัน
+    pain_en: Bulk supplier comparison: 3 quotes, no time to analyze
+    ai_opportunity: AI cost comparison + payment-terms summary
+  - id: marketing-budget-split
+    pain_th: เดือนนี้ 3000 บาท จะ boost FB หรือ broadcast LINE OA ดี
+    pain_en: Monthly 3000฿ marketing budget: boost FB or LINE OA blast?
+    ai_opportunity: AI-suggested split based on prior 30-day ROI per channel
+
+vocabulary:
+  address_terms_self: [พี่, น้อง]
+  address_terms_to_customer: [ลูกค้าประจำ, ลูกค้า, น้อง, พี่]
+  address_terms_to_staff: [เด็กในร้าน, น้อง, พี่ครัว, ลูกน้อง]
+  key_nouns: [ออเดอร์, ราคาทุน, กำไรต่อจาน, รีวิว, เมนูใหม่, วัตถุดิบ, ขายส่ง, ขายปลีก]
+  honorific_register: practical_older_sibling
+
+tools_used:
+  - GrabFood Merchant App
+  - LineMan Merchant
+  - FoodPanda Merchant
+  - LINE OA
+  - Facebook Page
+  - K-Plus
+  - paper notebook
+  - LINE Pay / TrueMoney QR
+
+tools_distrusted:
+  - desktop-first POS
+  - English-only review tools
+  - subscription tools over 1500 baht/month
+
+fee_sensitivity:
+  monthly_ceiling_baht: 1500
+  one_time_ceiling_baht: 8000
+  free_trial_required: true
+  prefers_per_transaction_pricing: true
+
+watering_holes:
+  facebook_groups:
+    - "ร้านอาหาร SME ไทย"
+    - "GrabFood Merchant Thailand"
+    - "LineMan Merchant"
+    - "เจ้าของคาเฟ่ไทย"
+  pantip_forums: [food, /tag/ร้านอาหาร, /tag/คาเฟ่]
+  tiktok_hashtags: [#ร้านอาหาร, #คาเฟ่, #เจ้าของร้าน, #FoodSME]
+  youtube_channels_thai: [Thai F&B owner vlogs, restaurant-management Thai creators]
+
+content_preferences:
+  format_affinity_ranked:
+    - before_after_split
+    - screen_recording_voiceover
+    - customer_qa_reply
+    - carousel_sketchnote
+    - quote_card
+    - talking_head
+  hook_frame_affinity_ranked:
+    - mistake_confession
+    - story_character
+    - day_in_life
+    - tutorial_numbered
+    - customer_question
+  underperforming_hooks: [controversy_pov]
+
+voice_register:
+  default: practical_older_sibling
+  notes: |
+    Direct, mobile-first phrasing. Numbers and baht figures land well.
+    "คิดถึงคนทำร้านจริง ๆ" energy. Talk about real shifts, real pain.
+    OK to be a little blunt. Avoid corporate-speak entirely.
+
+locked_phrases_native_feel:
+  - "ลูกค้าประจำ"
+  - "ออเดอร์เข้ามาช่วงพีค"
+  - "ทำร้านมา X ปี เพิ่งรู้ว่า..."
+  - "ใช้ไม่ถึง 500 บาท"
+  - "ลองที่ร้านพี่แล้ว ได้ผลจริง"
+
+avoid_phrases_foreign_feel:
+  - "F&B operations"
+  - "menu engineering"
+  - "customer LTV"
+  - "operational excellence"
+
+search_seeds_for_discovery:
+  x_search_themes:
+    - "restaurant AI cost calculator"
+    - "AI review response generator"
+    - "small restaurant staff scheduling AI"
+    - "menu pricing AI tool"
+    - "food cost AI tracking"
+    - "AI image food photography"
+  web_search_themes:
+    - "AI tools for restaurants 2026"
+    - "GrabFood rating recovery"
+    - "small cafe owner AI workflow"
+  youtube_search_themes:
+    - "ร้านอาหาร AI"
+    - "คำนวณต้นทุนอาหาร"
+    - "ตอบรีวิว GrabFood"
+
+series_concepts:
+  - id: monday-cost-check
+    name: จันทร์นี้ คิดต้นทุนใหม่
+    cadence: weekly_monday
+    one_line: One dish, real cost breakdown, AI-assisted re-pricing
+  - id: friday-promo-of-the-week
+    name: ศุกร์โปรประจำสัปดาห์
+    cadence: weekly_friday
+    one_line: One day-of-week promo idea you can run this weekend
+
+success_signals_to_listen_for:
+  comment_keywords_qualified:
+    [ร้านพี่ก็เป็น, ทำร้านอาหารเหมือนกัน, ขอสูตร, ขอ template, ขอ checklist, ราคา]
+  dm_keywords_qualified:
+    [จะลองที่ร้าน, ขอใช้ที่ร้าน, ขอวิธีคิดต้นทุน]
+
+editorial_notes: |
+  Sway: confirm groups + pain order. F&B owners I see on TikTok comment in
+  fragments ("ร้านเรา 4.3 ตก 0.5") — they reward POSTs that name the exact pain
+  before showing the fix. Lead with the pain.

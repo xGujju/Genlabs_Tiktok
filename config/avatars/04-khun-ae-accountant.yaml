@@ -1,0 +1,186 @@
+id: khun-ae-accountant
+display_name: คุณเอ้
+display_name_en: Khun Ae
+industry: professional_services
+subindustry: accounting_tax_advisory_small_firm
+geo: thailand
+language: th
+status: draft
+priority: 1
+version: 1
+last_updated: 2026-05-18
+
+demographics:
+  age_range: [30, 50]
+  gender: mixed_female_lean
+  location_type: [bangkok, nonthaburi, pathum_thani, samut_prakan, regional_cities]
+  education: bachelor_accounting_or_above
+  business_size_staff: [1, 10]
+  business_revenue_baht_month: [60000, 500000]
+  business_age_years: [3, 20]
+  client_count_band: [30, 150]
+
+business_model:
+  primary_channels: [line_oa, line_personal, email, phone, office_walkin]
+  secondary_channels: [fb_page, referral]
+  revenue_model: monthly_retainer_plus_annual_filing
+  peak_hours_ict: ["all_day_first_week_of_month", "last_week_for_tax_deadlines"]
+  decision_maker: self_or_managing_partner
+
+daily_pains:
+  - id: document-collection-chase
+    pain_th: ลูกค้าส่งเอกสารช้า บางทีรูปเบลอ บางทีไม่ครบ ต้องไล่ทุกวัน
+    pain_en: Clients send receipts late, blurry, incomplete — daily chase
+    severity: high
+    current_workaround: เตือนใน LINE OA ทุกอาทิตย์
+    ai_opportunity: AI-driven document checklist + auto-reminder + OCR validation
+  - id: repetitive-bookkeeping
+    pain_th: คีย์รายการซ้ำ ๆ หลายบริษัท วันละหลายชั่วโมง
+    pain_en: Repetitive bookkeeping entry across many clients, hours daily
+    severity: high
+    current_workaround: ใช้ Express + ลงมือคีย์
+    ai_opportunity: AI receipt → journal entry + auto-categorization
+  - id: line-interruptions
+    pain_th: LINE เด้งทั้งวัน คำถามจุกจิก "ค่านี้เบิกได้มั้ย" ทำงานลึก ๆ ไม่ได้
+    pain_en: LINE pings all day with small client questions; can't deep-focus
+    severity: high
+    current_workaround: ตอบเร็ว ๆ คั่นงานหลัก
+    ai_opportunity: client-facing AI bot answering common tax/eligibility questions
+  - id: bank-statement-reconciliation
+    pain_th: เช็คงบกับใบเสร็จด้วยมือ เสี่ยงพลาด
+    pain_en: Manual bank-statement vs. receipt reconciliation
+    severity: medium
+    current_workaround: ทำ Excel เปรียบเทียบ
+    ai_opportunity: AI auto-match + flag anomalies
+  - id: deadline-stacking-panic
+    pain_th: สิ้นเดือนงานทับซ้อน ทุก deadline มาพร้อมกัน นอนน้อย
+    pain_en: End-of-month: all deadlines collide; sleep-deprived
+    severity: high
+    current_workaround: ทำงานดึก
+    ai_opportunity: AI workload calendar + client-priority queue
+
+weekly_pains:
+  - id: tax-law-updates
+    pain_th: กฎหมายภาษีอัปเดต ต้องตามอ่านสรรพากร ตามคลิป
+    pain_en: Tax law updates — must follow Revenue Dept + YouTube tax channels
+    ai_opportunity: AI weekly Thai-law summary tailored to her client mix
+  - id: client-onboarding-data
+    pain_th: ลูกค้าใหม่ ต้องเก็บข้อมูล setup ระบบ ใช้เวลา 1-2 อาทิตย์
+    pain_en: Client onboarding: data intake + system setup = 1-2 weeks
+    ai_opportunity: AI client-intake form + auto-summary for first meeting
+  - id: pricing-new-clients
+    pain_th: ตั้งราคาบริการลูกค้าใหม่ ขึ้นกับขนาดบริษัทและความยุ่งของเอกสาร
+    pain_en: Pricing new client by company size + document complexity
+    ai_opportunity: AI scope-and-quote estimator from initial intake
+
+vocabulary:
+  address_terms_self: [คุณ, พี่]
+  address_terms_to_customer: [คุณลูกค้า, ลูกค้า]
+  address_terms_to_staff: [น้อง, ทีม]
+  key_nouns:
+    [เอกสาร, สรรพากร, ภาษีหัก ณ ที่จ่าย, ภงด, ภพ, งบดุล, ปิดงบ, ยื่นภาษี, e-Filing, ใบกำกับภาษี, retainer]
+  honorific_register: precise_advisor
+
+tools_used:
+  - Express Accounting
+  - FlowAccount
+  - Peak Account
+  - Excel / Google Sheets
+  - LINE OA
+  - K-Plus
+  - e-Filing สรรพากร
+  - Microsoft Word
+
+tools_distrusted:
+  - cloud-only solutions with data overseas
+  - English-only UIs (clients can't follow)
+  - tools without Revenue-Department compatibility
+
+fee_sensitivity:
+  monthly_ceiling_baht: 3000
+  one_time_ceiling_baht: 15000
+  free_trial_required: true
+  willing_to_pay_per_client: true
+
+watering_holes:
+  facebook_groups:
+    - "นักบัญชี SME ไทย"
+    - "สรรพากรไทย"
+    - "ผู้ทำบัญชีอิสระ Thailand"
+    - "FlowAccount Users TH"
+  pantip_forums: [business, /tag/บัญชี, /tag/ภาษี, /tag/สรรพากร]
+  tiktok_hashtags: [#นักบัญชี, #ภาษี, #SMEไทย, #บัญชีสรรพากร]
+  youtube_channels_thai: [Thai tax-law commentary, accounting firm vlogs]
+  linkedin_groups: [Thai CPAs, Thailand Accounting Professionals]
+
+content_preferences:
+  format_affinity_ranked:
+    - carousel_sketchnote
+    - screen_recording_voiceover
+    - customer_qa_reply
+    - quote_card
+    - talking_head
+    - before_after_split
+  hook_frame_affinity_ranked:
+    - tutorial_numbered
+    - customer_question
+    - mistake_confession
+    - story_character
+    - day_in_life
+  underperforming_hooks: [controversy_pov, curiosity_gap_clickbait]
+
+voice_register:
+  default: precise_advisor
+  notes: |
+    คุณ self-reference. Precision matters: name laws, name forms (ภงด.1, ภพ.30),
+    name deadlines. Confidence without arrogance. Acknowledge regulatory nuance.
+    Never recommend anything that risks Revenue-Dept compliance.
+
+locked_phrases_native_feel:
+  - "ลูกค้าที่จดทะเบียน VAT"
+  - "ใช้ในงานบัญชีจริง"
+  - "ตามกฎหมายปัจจุบัน"
+  - "ประหยัดเวลาคีย์เอกสาร"
+
+avoid_phrases_foreign_feel:
+  - "automate your accounting"
+  - "fintech stack"
+  - "compliance-as-a-service"
+  - "tax optimization"
+
+search_seeds_for_discovery:
+  x_search_themes:
+    - "AI accounting bookkeeping"
+    - "AI receipt OCR Thai"
+    - "ChatGPT for accountants"
+    - "AI tax research assistant"
+    - "bookkeeping automation small firm"
+  web_search_themes:
+    - "AI tools for accountants Thailand"
+    - "FlowAccount AI features"
+    - "Revenue Department e-Filing AI"
+  youtube_search_themes:
+    - "นักบัญชี AI"
+    - "AI คีย์ใบเสร็จ"
+    - "AI ตอบลูกค้าบัญชี"
+
+series_concepts:
+  - id: monday-client-question
+    name: จันทร์นี้ คำถามลูกค้าประจำ
+    cadence: weekly_monday
+    one_line: One common LINE OA tax question + AI-drafted Thai answer template
+  - id: thursday-tax-deadline
+    name: พฤหัสนี้ deadline ที่ต้องเตรียม
+    cadence: weekly_thursday
+    one_line: One upcoming Revenue-Dept deadline + AI workload prep checklist
+
+success_signals_to_listen_for:
+  comment_keywords_qualified:
+    [นักบัญชีเหมือนกัน, ใช้กับลูกค้า, สำนักงานบัญชี, ขอ template, สรรพากร]
+  dm_keywords_qualified:
+    [ขอ prompt บัญชี, ใช้ในสำนักงาน, ลูกค้าหลายราย]
+
+editorial_notes: |
+  Sway: accountants are a high-LTV avatar but a careful audience — over-claim once
+  and you lose trust permanently. Recommend conservative tool framing ("ใช้เป็น
+  ผู้ช่วย ไม่ใช่ตัวแทน") in voice register. Validate FB groups; many are private.

@@ -1,0 +1,192 @@
+id: jay-noi-salon-clinic
+display_name: เจ๊หน่อย
+display_name_en: Jay Noi
+industry: beauty_wellness
+subindustry: salon_spa_small_derm_clinic
+geo: thailand
+language: th
+status: draft
+priority: 1
+version: 1
+last_updated: 2026-05-18
+
+demographics:
+  age_range: [35, 50]
+  gender: female_primary
+  location_type: [bangkok_suburbs, regional_cities, tourist_towns]
+  education: vocational_to_bachelor
+  business_size_staff: [3, 8]
+  business_revenue_baht_month: [80000, 400000]
+  business_age_years: [2, 15]
+
+business_model:
+  primary_channels: [walk_in, line_oa_booking, fb_page, instagram]
+  secondary_channels: [referral, google_maps]
+  repeat_customer_share: 0.5
+  peak_hours_ict: ["19:00-22:00", "weekend_afternoons"]
+  decision_maker: self
+  occasionally_consults: [spouse, business_partner, lead_stylist]
+  cash_to_digital_ratio: "60_40"
+
+daily_pains:
+  - id: line-flood-evening
+    pain_th: LINE OA ลูกค้าเข้ามาถามคิวตอน 1 ทุ่มถึง 4 ทุ่ม ตอบไม่ทันสักคน
+    pain_en: LINE OA floods with booking inquiries 7-10pm; can't keep up
+    severity: high
+    current_workaround: replies in chunks before bed, loses bookings to faster competitors
+    ai_opportunity: auto-classify + draft Thai responses, hand off urgent cases
+  - id: no-shows-20pct
+    pain_th: ลูกค้าจองแล้วไม่มา 20-30% เสียทั้งคิวและรายได้
+    pain_en: 20-30% no-show rate; lost slot, lost revenue
+    severity: high
+    current_workaround: ส่งข้อความเตือนเองวันก่อน ทำได้บ้างไม่ได้บ้าง
+    ai_opportunity: automated bilingual reminder + deposit/confirm flow via LINE
+  - id: staff-training-admin
+    pain_th: เปลี่ยนแอดมินใหม่ ต้องสอนกฎร้านใหม่ทุกครั้ง ใช้เวลา 2-3 อาทิตย์
+    pain_en: New front-desk staff needs weeks to learn shop rules
+    severity: medium
+    current_workaround: ทำคู่มือ Word ไว้ ลูกน้องไม่อ่าน
+    ai_opportunity: custom GPT/chatbot trained on shop SOPs, staff queries it instead
+  - id: customer-photo-edits
+    pain_th: ภาพโปรโมตร้านต้องจ้างคนแต่งทีละ 500-1000 บาท ช้าด้วย
+    pain_en: Paying 500-1000฿ per promo photo to freelancers, slow turnaround
+    severity: medium
+    current_workaround: ใช้ Canva ฟรีบ้าง แต่ไม่สวยพอ
+    ai_opportunity: AI photo retouch/background swap, on-phone, brand-consistent
+  - id: peak-comms-bottleneck
+    pain_th: ช่วงพีคโทรศัพท์ดังตลอด ไม่มีคนรับ ลูกค้าไปร้านอื่น
+    pain_en: Peak hours phone/LINE blow up; staff overwhelmed; customers walk
+    severity: high
+    current_workaround: ขอโทษลูกค้าวันถัดไป
+    ai_opportunity: AI receptionist on LINE OA that books/reschedules without human
+
+weekly_pains:
+  - id: promo-content-ideas
+    pain_th: คิดคอนเทนต์โปรโมตทุกอาทิตย์ไม่ออก ทำซ้ำของเดิม
+    pain_en: Running out of promo content ideas; recycling old posts
+    ai_opportunity: AI content calendar tied to local events/seasons, with photo prompts
+  - id: review-responses
+    pain_th: ตอบรีวิวลูกค้าเก่ง ๆ ยาก โดยเฉพาะรีวิวลบ
+    pain_en: Responding to reviews (esp. negative) without sounding defensive
+    ai_opportunity: AI-drafted Thai response with tone control, owner-approved before send
+  - id: branch-or-staff-decision
+    pain_th: ควรเปิดสาขา 2 หรือจ้างเพิ่มสาขาเดียวก่อน
+    pain_en: Expand to second branch or hire more for existing one?
+    ai_opportunity: AI-led ROI scenario comparison from her own POS data
+
+vocabulary:
+  address_terms_self: [เจ๊, พี่]
+  address_terms_to_customer: [ลูกค้า, น้อง, พี่]
+  address_terms_to_staff: [น้องในร้าน, แอดมิน, ช่าง]
+  key_nouns: [จองคิว, ลูกค้าประจำ, ของแถม, โปรโมชั่น, แพ็คเกจ, รีวิว, สาขา]
+  honorific_register: warm_friend
+
+tools_used:
+  - LINE OA
+  - Facebook Page
+  - Instagram
+  - Canva (free tier)
+  - ChatGPT (free/Plus, mobile)
+  - Google Sheets
+  - K-Plus / SCB Easy
+  - POS (varies, mostly Loyverse or paper)
+
+tools_distrusted:
+  - English-only SaaS
+  - tools requiring credit card upfront
+  - desktop-only workflows
+  - anything over 1000 baht/month with no free trial
+
+fee_sensitivity:
+  monthly_ceiling_baht: 1000
+  one_time_ceiling_baht: 5000
+  free_trial_required: true
+  prefers_pay_per_use: true
+
+watering_holes:
+  facebook_groups:
+    - "ร้านเสริมสวย/สปา/คลินิก SME"
+    - "เจ้าของร้านเสริมสวย Thailand"
+    - "LINE OA Owners ไทย"
+  pantip_forums: [sinthorn, /tag/ร้านเสริมสวย, /tag/ธุรกิจ-SME]
+  tiktok_hashtags: [#เจ้าของร้าน, #เสริมสวย, #คลินิก, #SMEไทย]
+  line_openchat: [salon-owners-th, beauty-business-th]
+  youtube_channels_thai: [Thai beauty business creators, salon-management Thai vlogs]
+
+content_preferences:
+  format_affinity_ranked:
+    - carousel_sketchnote
+    - customer_qa_reply
+    - before_after_split
+    - screen_recording_voiceover
+    - talking_head
+    - quote_card
+  hook_frame_affinity_ranked:
+    - day_in_life
+    - mistake_confession
+    - customer_question
+    - story_character
+    - tutorial_numbered
+  underperforming_hooks: [controversy_pov, curiosity_gap_clickbait]
+
+voice_register:
+  default: warm_friend
+  notes: |
+    Use เจ๊/พี่ self-reference. Address viewer as น้อง or พี่ depending on context.
+    Tone: like a successful older sister sharing what worked at her own shop.
+    Never lecture. Never use English jargon untranslated.
+    OK to admit own mistakes ("เจ๊เคยพลาดมาก่อน...") — it's relatable.
+
+locked_phrases_native_feel:
+  - "ลูกค้าประจำ"
+  - "วันก่อนมีลูกค้ามาถามว่า..."
+  - "เจ๊ลองมาแล้ว ได้ผลจริง"
+  - "ไม่ต้องเก่ง AI ก็ทำได้"
+  - "ใช้ในร้านได้เลย"
+
+avoid_phrases_foreign_feel:
+  - "workflow"
+  - "leverage"
+  - "scale up"
+  - "ROI"
+  - "productivity hack"
+  - direct English tool names without Thai context
+
+search_seeds_for_discovery:
+  x_search_themes:
+    - "LINE OA chatbot small business"
+    - "AI customer service Thai"
+    - "ChatGPT for salon owners"
+    - "appointment no-show reminder automation"
+    - "AI photo retouch beauty before after"
+    - "custom GPT shop SOP staff training"
+  web_search_themes:
+    - "AI tools for service businesses Thailand"
+    - "LINE OA + ChatGPT integration"
+    - "no-show prevention small business"
+  youtube_search_themes:
+    - "salon owner LINE OA tips ไทย"
+    - "AI ตอบลูกค้า"
+    - "no show ลูกค้า"
+
+series_concepts:
+  - id: sunday-salon-question
+    name: คำถามเจ้าของร้านเสริมสวยวันอาทิตย์
+    cadence: weekly_sunday_evening
+    one_line: One real LINE OA question this week + the AI workflow that answered it
+  - id: friday-line-oa-fix
+    name: ศุกร์นี้ ลอง LINE OA แบบใหม่
+    cadence: weekly_friday
+    one_line: One LINE OA improvement she can ship before the weekend rush
+
+success_signals_to_listen_for:
+  comment_keywords_qualified:
+    [ราคา, สนใจ, ลองได้ไหม, ติดต่อยังไง, ร้านพี่ก็เป็น, เจอแบบนี้เหมือนกัน]
+  dm_keywords_qualified:
+    [ขอข้อมูล, ใช้กับร้านเสริมสวย, จะเอามาใช้ที่ร้าน]
+
+editorial_notes: |
+  Sway: edit ranges, replace placeholder watering-hole names with the actual Facebook
+  groups you know are active. Add or correct vocabulary that doesn't ring true for
+  the actual salon-owner customer you have in mind. This file is the source of truth
+  for every downstream choice the engine makes about this avatar.

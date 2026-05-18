@@ -1,0 +1,82 @@
+# GenLabs Avatar Registry
+# Foundation file consumed by idea-mint, concept-studio, novelty-check, thai-copy-native,
+# and nightly-learning. Edit the per-avatar files; this index just declares order + status.
+#
+# Avatar lifecycle: draft -> active -> retired
+# Active avatars are eligible for daily rotation (max 2 posts/day each, enforced by variety rules).
+
+schema_version: 1
+last_updated: 2026-05-18
+maintained_by: sway
+default_geo: thailand
+default_language: th
+
+avatars:
+  - id: jay-noi-salon-clinic
+    file: 01-jay-noi-salon-clinic.yaml
+    status: draft
+    priority: 1
+    one_line: เจ๊หน่อย — owner of a small salon, spa, or derm clinic juggling LINE OA bookings and no-shows.
+
+  - id: pi-tu-fnb
+    file: 02-pi-tu-fnb.yaml
+    status: draft
+    priority: 1
+    one_line: พี่ตู่ — single-location café/restaurant owner fighting GrabFood reviews and razor-thin margins.
+
+  - id: khun-nat-real-estate
+    file: 03-khun-nat-real-estate.yaml
+    status: draft
+    priority: 1
+    one_line: คุณนัท — independent property agent drowning in listings, leads, and translation work.
+
+  - id: khun-ae-accountant
+    file: 04-khun-ae-accountant.yaml
+    status: draft
+    priority: 1
+    one_line: คุณเอ้ — small-firm accountant chasing receipts, answering LINE all day, racing tax deadlines.
+
+  - id: pi-nok-contractor
+    file: 05-pi-nok-contractor.yaml
+    status: draft
+    priority: 1
+    one_line: พี่นก — solo tradesman/small contractor losing money on bad quotes and chasing payment.
+
+# Expansion candidates for later — do not activate without Sway approval.
+expansion_pool:
+  - id: kru-min-tutor
+    one_line: ครูมิ้น — independent tutor or small after-school program.
+  - id: pi-bom-logistics
+    one_line: พี่บอม — small 3PL / delivery / cargo SME.
+  - id: nong-fai-ecommerce
+    one_line: น้องไฝ — solo Shopee/Lazada/TikTok-Shop seller.
+  - id: pi-mai-hr-recruiter
+    one_line: พี่หมาย — boutique recruiting agency or in-house HR for a 20-100 staff SME.
+
+# Variety enforcement rules read by the production layer
+variety_rules:
+  max_posts_per_avatar_per_day: 2
+  max_posts_per_format_per_day: 3
+  max_posts_per_primary_tool_per_day: 1
+  cooldown_days_topic_angle_pair: 30
+  cooldown_similarity_threshold: 0.85
+  required_avatar_coverage_per_week: 5   # all 5 launch avatars must get ≥1 post/week
+
+# Output mix targets (per week, soft guidance for the format-router)
+weekly_format_mix:
+  carousel_sketchnote: 0.40
+  screen_recording_voiceover: 0.25
+  before_after_split: 0.10
+  quote_card: 0.10
+  talking_head: 0.10   # batch-recorded; system schedules across week
+  customer_qa_reply: 0.05
+
+# Hook-frame mix targets (per week)
+weekly_hook_mix:
+  tutorial_numbered: 0.25
+  story_character: 0.20
+  curiosity_gap: 0.15
+  mistake_confession: 0.15
+  day_in_life: 0.10
+  controversy_pov: 0.10
+  customer_question: 0.05

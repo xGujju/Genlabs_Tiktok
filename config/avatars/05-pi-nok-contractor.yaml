@@ -1,0 +1,187 @@
+id: pi-nok-contractor
+display_name: พี่นก
+display_name_en: Pi Nok
+industry: trades_construction
+subindustry: solo_or_small_crew_contractor_electrician_plumber_ac_install
+geo: thailand
+language: th
+status: draft
+priority: 1
+version: 1
+last_updated: 2026-05-18
+
+demographics:
+  age_range: [30, 55]
+  gender: male_primary
+  location_type: [bangkok, eastern_seaboard, regional_cities, all_provinces]
+  education: vocational_to_diploma
+  business_size_staff: [1, 5]
+  business_revenue_baht_month: [50000, 350000]
+  business_age_years: [3, 25]
+
+business_model:
+  primary_channels: [line, fb_marketplace, word_of_mouth, repeat_customer]
+  secondary_channels: [fb_page, walk_by_office_or_truck, real_estate_referral]
+  revenue_model: project_based_quote
+  peak_hours_ict: ["07:00-09:00_quote_calls", "18:00-21:00_admin"]
+  decision_maker: self
+  jobs_per_month_band: [5, 25]
+
+daily_pains:
+  - id: quote-writing-loss-risk
+    pain_th: ตีราคาด้วยมือ ลืมคิดค่านี้ค่านั้น เสร็จแล้วขาดทุน
+    pain_en: Back-of-envelope quotes miss line items; loses money after the fact
+    severity: high
+    current_workaround: เขียนใส่กระดาษ จำเอา
+    ai_opportunity: AI quote-builder with line-item prompts + history-based catch
+  - id: job-photo-documentation
+    pain_th: ถ่ายรูปงานก่อน-หลัง ลืมบ้าง ลูกค้ามีปัญหา ไม่มีหลักฐาน
+    pain_en: Before/after job photos: forgets sometimes; no proof on disputes
+    severity: high
+    current_workaround: ถ่ายใน LINE ลืมว่าเก็บไหน
+    ai_opportunity: AI job-album organizer + auto-tag + dispute-ready PDF
+  - id: material-price-fluctuation
+    pain_th: ราคาเหล็ก ปูน แอร์ ขึ้นทุกอาทิตย์ คำนวณงานเก่าผิด
+    pain_en: Steel/cement/AC prices fluctuate weekly; old quotes no longer cover cost
+    severity: high
+    current_workaround: โทรถามร้านวัสดุ
+    ai_opportunity: weekly AI price index + auto-adjust open quotes
+  - id: customer-followup-warranty
+    pain_th: งานเสร็จแล้ว ต้องตามรับเงินที่เหลือ ตามรับ feedback แต่ลืม
+    pain_en: Job done = chase remaining payment + warranty check, but forgets
+    severity: medium
+    current_workaround: ลูกค้าทักมาก่อน
+    ai_opportunity: AI post-job follow-up scheduler + Thai message templates
+  - id: schedule-juggling
+    pain_th: รับงาน 4 งานอาทิตย์เดียวกัน ยกเลิก 1 งาน อีก 1 งานต้องด่วน วุ่น
+    pain_en: 4 jobs/week, 1 cancels, 1 urgent — schedule chaos
+    severity: high
+    current_workaround: จดในมือถือ
+    ai_opportunity: AI dispatch board with crew availability + travel time
+
+weekly_pains:
+  - id: new-customer-acquisition
+    pain_th: หาลูกค้าใหม่จาก FB Marketplace ค่อนข้างยาก โพสต์ลงไป engagement น้อย
+    pain_en: New-customer acquisition via FB Marketplace; low engagement on posts
+    ai_opportunity: AI before/after + price-transparency post templates
+  - id: crew-payment-hours
+    pain_th: ตามเก็บชั่วโมงของลูกน้อง คนละไซต์ จ่ายเงินอาทิตย์ละครั้ง สับสน
+    pain_en: Tracking crew hours across sites for weekly pay = confusion
+    ai_opportunity: AI photo-clockin or LINE-message hour summary
+  - id: material-inventory-across-sites
+    pain_th: ของเหลือไซต์เก่า ลืมเอาไปใช้ ซื้อใหม่เปลือง
+    pain_en: Leftover materials at old sites unused; new buys wasteful
+    ai_opportunity: AI leftover-tracker fed from job-end photos
+
+vocabulary:
+  address_terms_self: [พี่, ลุง, น้า]
+  address_terms_to_customer: [พี่ลูกค้า, คุณ, ลูกค้า]
+  address_terms_to_crew: [น้องช่าง, ลูกน้อง, เพื่อนช่าง]
+  key_nouns: [งาน, ราคาเหมา, ค่าแรง, ค่าวัสดุ, มัดจำ, งวด, ไซต์งาน, เครื่องมือ, รับเหมา, รับประกัน]
+  honorific_register: blunt_practical_brother
+
+tools_used:
+  - LINE
+  - Facebook Marketplace
+  - K-Plus / SCB Easy / TrueMoney
+  - calculator
+  - paper notebook
+  - phone camera
+
+tools_distrusted:
+  - anything needing more than 2 taps
+  - English UI
+  - monthly subscriptions
+  - apps that need WiFi (often on remote sites with weak signal)
+
+fee_sensitivity:
+  monthly_ceiling_baht: 500
+  one_time_ceiling_baht: 3000
+  free_trial_required: true
+  prefers_lifetime_or_one_time: true
+  cash_preferred: true
+
+watering_holes:
+  facebook_groups:
+    - "ช่างไทย รับเหมา"
+    - "ช่างแอร์ ติดตั้ง ซ่อม"
+    - "ช่างประปา ช่างไฟ"
+    - "รับเหมาก่อสร้างไทย"
+  pantip_forums: [home, /tag/รับเหมา, /tag/ช่าง, /tag/ซ่อมบ้าน]
+  tiktok_hashtags: [#ช่างไทย, #รับเหมา, #ช่างแอร์, #ซ่อมบ้าน]
+  line_openchat: [contractor-th, ac-installer-th]
+  youtube_channels_thai: [Thai contractor/handyman channels, DIY home repair Thai]
+
+content_preferences:
+  format_affinity_ranked:
+    - before_after_split
+    - screen_recording_voiceover
+    - customer_qa_reply
+    - quote_card
+    - talking_head
+    - carousel_sketchnote
+  hook_frame_affinity_ranked:
+    - mistake_confession
+    - story_character
+    - day_in_life
+    - customer_question
+    - tutorial_numbered
+  underperforming_hooks: [curiosity_gap_clickbait, controversy_pov]
+
+voice_register:
+  default: blunt_practical_brother
+  notes: |
+    พี่/ลุง self-reference. Direct, no fluff, no jargon ever. Talk about real jobs,
+    real numbers (3-digit baht figures, not lakhs). Photos beat words. OK to be
+    informal — these viewers don't read paragraphs, they watch clips at lunch.
+
+locked_phrases_native_feel:
+  - "พี่รับงานนี้มาแล้ว"
+  - "ไม่อยากให้น้อง ๆ ช่างพลาดเหมือนพี่"
+  - "ใช้ในไซต์งานได้"
+  - "ฟรี ไม่ต้องเสียค่าสมัคร"
+  - "ทำในมือถือได้"
+
+avoid_phrases_foreign_feel:
+  - "workflow optimization"
+  - "project management software"
+  - "B2B services"
+  - "scale your business"
+
+search_seeds_for_discovery:
+  x_search_themes:
+    - "AI quote builder contractor"
+    - "AI for tradesmen handyman"
+    - "construction estimate AI"
+    - "AI before after photo"
+    - "ChatGPT for small contractor"
+  web_search_themes:
+    - "AI tools for contractors small business"
+    - "construction quoting AI Thailand"
+    - "AC installer business app"
+  youtube_search_themes:
+    - "ช่าง AI"
+    - "ตีราคางาน AI ช่วย"
+    - "รับเหมา ใช้ AI"
+
+series_concepts:
+  - id: saturday-job-photos
+    name: เสาร์นี้ รูปงานพี่ ๆ ช่าง
+    cadence: weekly_saturday
+    one_line: One real before/after job + how AI helped document/quote/follow-up
+  - id: wednesday-quote-fix
+    name: พุธนี้ ตีราคาแบบไม่ขาดทุน
+    cadence: weekly_wednesday
+    one_line: One quote breakdown showing a missed line item + AI fix
+
+success_signals_to_listen_for:
+  comment_keywords_qualified:
+    [พี่ช่างเหมือนกัน, ตีราคาแบบนี้, รับเหมาด้วย, ขอใช้, ราคาเท่าไหร่]
+  dm_keywords_qualified:
+    [จะลองที่ไซต์, ขอแบบฟอร์ม, ขอ template ตีราคา]
+
+editorial_notes: |
+  Sway: contractors don't read; they watch. Even a "carousel" for them should feel
+  like a flipbook of phone photos with one Thai line each. Lean heavily on
+  before/after + screen-rec + customer-Q&A formats. Carousel is the weakest format
+  for this avatar — invert the global format mix here.

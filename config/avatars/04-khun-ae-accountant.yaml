@@ -29,48 +29,48 @@ business_model:
 
 daily_pains:
   - id: document-collection-chase
-    pain_th: ลูกค้าส่งเอกสารช้า บางทีรูปเบลอ บางทีไม่ครบ ต้องไล่ทุกวัน
-    pain_en: Clients send receipts late, blurry, incomplete — daily chase
+    pain_th: "ลูกค้าส่งเอกสารช้า บางทีรูปเบลอ บางทีไม่ครบ ต้องไล่ทุกวัน"
+    pain_en: "Clients send receipts late, blurry, incomplete — daily chase"
     severity: high
     current_workaround: เตือนใน LINE OA ทุกอาทิตย์
     ai_opportunity: AI-driven document checklist + auto-reminder + OCR validation
   - id: repetitive-bookkeeping
-    pain_th: คีย์รายการซ้ำ ๆ หลายบริษัท วันละหลายชั่วโมง
-    pain_en: Repetitive bookkeeping entry across many clients, hours daily
+    pain_th: "คีย์รายการซ้ำ ๆ หลายบริษัท วันละหลายชั่วโมง"
+    pain_en: "Repetitive bookkeeping entry across many clients, hours daily"
     severity: high
     current_workaround: ใช้ Express + ลงมือคีย์
     ai_opportunity: AI receipt → journal entry + auto-categorization
   - id: line-interruptions
-    pain_th: LINE เด้งทั้งวัน คำถามจุกจิก "ค่านี้เบิกได้มั้ย" ทำงานลึก ๆ ไม่ได้
-    pain_en: LINE pings all day with small client questions; can't deep-focus
+    pain_th: "LINE เด้งทั้งวัน คำถามจุกจิก \"ค่านี้เบิกได้มั้ย\" ทำงานลึก ๆ ไม่ได้"
+    pain_en: "LINE pings all day with small client questions; can't deep-focus"
     severity: high
     current_workaround: ตอบเร็ว ๆ คั่นงานหลัก
     ai_opportunity: client-facing AI bot answering common tax/eligibility questions
   - id: bank-statement-reconciliation
-    pain_th: เช็คงบกับใบเสร็จด้วยมือ เสี่ยงพลาด
-    pain_en: Manual bank-statement vs. receipt reconciliation
+    pain_th: "เช็คงบกับใบเสร็จด้วยมือ เสี่ยงพลาด"
+    pain_en: "Manual bank-statement vs. receipt reconciliation"
     severity: medium
     current_workaround: ทำ Excel เปรียบเทียบ
     ai_opportunity: AI auto-match + flag anomalies
   - id: deadline-stacking-panic
-    pain_th: สิ้นเดือนงานทับซ้อน ทุก deadline มาพร้อมกัน นอนน้อย
-    pain_en: End-of-month: all deadlines collide; sleep-deprived
+    pain_th: "สิ้นเดือนงานทับซ้อน ทุก deadline มาพร้อมกัน นอนน้อย"
+    pain_en: "End-of-month: all deadlines collide; sleep-deprived"
     severity: high
     current_workaround: ทำงานดึก
     ai_opportunity: AI workload calendar + client-priority queue
 
 weekly_pains:
   - id: tax-law-updates
-    pain_th: กฎหมายภาษีอัปเดต ต้องตามอ่านสรรพากร ตามคลิป
-    pain_en: Tax law updates — must follow Revenue Dept + YouTube tax channels
+    pain_th: "กฎหมายภาษีอัปเดต ต้องตามอ่านสรรพากร ตามคลิป"
+    pain_en: "Tax law updates — must follow Revenue Dept + YouTube tax channels"
     ai_opportunity: AI weekly Thai-law summary tailored to her client mix
   - id: client-onboarding-data
-    pain_th: ลูกค้าใหม่ ต้องเก็บข้อมูล setup ระบบ ใช้เวลา 1-2 อาทิตย์
-    pain_en: Client onboarding: data intake + system setup = 1-2 weeks
+    pain_th: "ลูกค้าใหม่ ต้องเก็บข้อมูล setup ระบบ ใช้เวลา 1-2 อาทิตย์"
+    pain_en: "Client onboarding: data intake + system setup = 1-2 weeks"
     ai_opportunity: AI client-intake form + auto-summary for first meeting
   - id: pricing-new-clients
-    pain_th: ตั้งราคาบริการลูกค้าใหม่ ขึ้นกับขนาดบริษัทและความยุ่งของเอกสาร
-    pain_en: Pricing new client by company size + document complexity
+    pain_th: "ตั้งราคาบริการลูกค้าใหม่ ขึ้นกับขนาดบริษัทและความยุ่งของเอกสาร"
+    pain_en: "Pricing new client by company size + document complexity"
     ai_opportunity: AI scope-and-quote estimator from initial intake
 
 vocabulary:
@@ -109,7 +109,7 @@ watering_holes:
     - "ผู้ทำบัญชีอิสระ Thailand"
     - "FlowAccount Users TH"
   pantip_forums: [business, /tag/บัญชี, /tag/ภาษี, /tag/สรรพากร]
-  tiktok_hashtags: [#นักบัญชี, #ภาษี, #SMEไทย, #บัญชีสรรพากร]
+  tiktok_hashtags: ["#นักบัญชี", "#ภาษี", "#SMEไทย", "#บัญชีสรรพากร"]
   youtube_channels_thai: [Thai tax-law commentary, accounting firm vlogs]
   linkedin_groups: [Thai CPAs, Thailand Accounting Professionals]
 

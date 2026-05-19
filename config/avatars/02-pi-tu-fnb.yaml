@@ -30,48 +30,48 @@ business_model:
 
 daily_pains:
   - id: ingredient-price-volatility
-    pain_th: ราคาวัตถุดิบขึ้น-ลงทุกอาทิตย์ คำนวณราคาขายใหม่ไม่ทัน เสียกำไรเงียบ ๆ
-    pain_en: Ingredient prices swing weekly; can't reprice fast enough; quietly losing margin
+    pain_th: "ราคาวัตถุดิบขึ้น-ลงทุกอาทิตย์ คำนวณราคาขายใหม่ไม่ทัน เสียกำไรเงียบ ๆ"
+    pain_en: "Ingredient prices swing weekly; can't reprice fast enough; quietly losing margin"
     severity: high
     current_workaround: คิดในใจ ใช้ราคาเดิม
     ai_opportunity: AI cost recalc spreadsheet + suggested price points per dish
   - id: grabfood-reviews-dropping
-    pain_th: รีวิว GrabFood ตกจาก 4.7 เหลือ 4.4 ในเดือนเดียว ไม่รู้ตรงไหนพลาด
-    pain_en: GrabFood rating dropped 4.7 → 4.4 in a month, can't diagnose
+    pain_th: "รีวิว GrabFood ตกจาก 4.7 เหลือ 4.4 ในเดือนเดียว ไม่รู้ตรงไหนพลาด"
+    pain_en: "GrabFood rating dropped 4.7 → 4.4 in a month, can't diagnose"
     severity: high
     current_workaround: เดาเอาว่าเพราะส่งช้า
     ai_opportunity: AI review-sentiment digest, weekly, with top 3 actionable fixes
   - id: staff-scheduling-sick-call
-    pain_th: น้องลาออกกะทันหัน ต้องโทรเรียกคนอื่น ทำเอง วุ่นทั้งวัน
-    pain_en: Sudden sick-call → owner cooks/serves all day
+    pain_th: "น้องลาออกกะทันหัน ต้องโทรเรียกคนอื่น ทำเอง วุ่นทั้งวัน"
+    pain_en: "Sudden sick-call → owner cooks/serves all day"
     severity: medium
     current_workaround: ส่งข้อความใน LINE group ใครว่างก็มา
     ai_opportunity: AI-managed standby roster + auto-message qualified backup staff
   - id: daily-promo-decision
-    pain_th: ทุกเช้าต้องคิดว่าวันนี้จะโปรอะไร โพสต์อะไร ไม่มีคนช่วยคิด
-    pain_en: Every morning: what to promote today? Solo brainstorm
+    pain_th: "ทุกเช้าต้องคิดว่าวันนี้จะโปรอะไร โพสต์อะไร ไม่มีคนช่วยคิด"
+    pain_en: "Every morning: what to promote today? Solo brainstorm"
     severity: medium
     current_workaround: โพสต์เมนูเหมือนเดิม
     ai_opportunity: daily content seed based on weather, day of week, inventory leftover
   - id: food-cost-tracking-loose
-    pain_th: รู้คร่าว ๆ ว่ากำไรต่อจานเท่าไหร่ แต่ไม่ได้คิดทุกจาน ทุกเดือน
-    pain_en: Knows margin roughly, never per-dish per-month
+    pain_th: "รู้คร่าว ๆ ว่ากำไรต่อจานเท่าไหร่ แต่ไม่ได้คิดทุกจาน ทุกเดือน"
+    pain_en: "Knows margin roughly, never per-dish per-month"
     severity: medium
     current_workaround: ลูกอ่อน Excel
     ai_opportunity: photo receipt → cost-of-goods spreadsheet auto-update
 
 weekly_pains:
   - id: new-menu-item-launch
-    pain_th: ทดลองเมนูใหม่ ต้องคิดสูตร ตั้งชื่อ ถ่ายรูป ตั้งราคา เขียนแคปชั่น ใช้เวลา 2 วัน
-    pain_en: New menu item = recipe + name + photo + price + caption = 2 days work
+    pain_th: "ทดลองเมนูใหม่ ต้องคิดสูตร ตั้งชื่อ ถ่ายรูป ตั้งราคา เขียนแคปชั่น ใช้เวลา 2 วัน"
+    pain_en: "New menu item = recipe + name + photo + price + caption = 2 days work"
     ai_opportunity: AI menu-launch package from recipe input
   - id: supplier-decision
-    pain_th: ซื้อวัตถุดิบเจ้าไหนถูกกว่า เปรียบเทียบไม่ทัน
-    pain_en: Bulk supplier comparison: 3 quotes, no time to analyze
+    pain_th: "ซื้อวัตถุดิบเจ้าไหนถูกกว่า เปรียบเทียบไม่ทัน"
+    pain_en: "Bulk supplier comparison: 3 quotes, no time to analyze"
     ai_opportunity: AI cost comparison + payment-terms summary
   - id: marketing-budget-split
-    pain_th: เดือนนี้ 3000 บาท จะ boost FB หรือ broadcast LINE OA ดี
-    pain_en: Monthly 3000฿ marketing budget: boost FB or LINE OA blast?
+    pain_th: "เดือนนี้ 3000 บาท จะ boost FB หรือ broadcast LINE OA ดี"
+    pain_en: "Monthly 3000฿ marketing budget: boost FB or LINE OA blast?"
     ai_opportunity: AI-suggested split based on prior 30-day ROI per channel
 
 vocabulary:
@@ -109,7 +109,7 @@ watering_holes:
     - "LineMan Merchant"
     - "เจ้าของคาเฟ่ไทย"
   pantip_forums: [food, /tag/ร้านอาหาร, /tag/คาเฟ่]
-  tiktok_hashtags: [#ร้านอาหาร, #คาเฟ่, #เจ้าของร้าน, #FoodSME]
+  tiktok_hashtags: ["#ร้านอาหาร", "#คาเฟ่", "#เจ้าของร้าน", "#FoodSME"]
   youtube_channels_thai: [Thai F&B owner vlogs, restaurant-management Thai creators]
 
 content_preferences:

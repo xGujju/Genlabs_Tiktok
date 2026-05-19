@@ -1,0 +1,31 @@
+# GenLabs idea-mint scoring weights.
+# Edit to retune. The nightly-learning layer is allowed to mutate this file
+# based on performance data — keep that responsibility in one place.
+#
+# Composition rule: sum of positive-feature weights = 1.0.
+# Gates: drop a candidate if its avatar_fit < min_avatar_fit or its final
+# score < min_score. Novelty gate (binary) is applied separately.
+
+weights:
+  avatar_fit:     0.30
+  pain_acuity:    0.20
+  action_density: 0.15
+  local_fit:      0.10
+  novelty:        0.20
+  recency:        0.05
+
+gates:
+  min_avatar_fit: 0.30
+  min_score:      0.45
+  require_novel:  true
+  novelty_lookback_days: 30
+
+output:
+  top_per_avatar: 8
+
+# Last tuned: 2026-05-18 (initial calibration on backfilled 207 carousels)
+# Tune notes:
+#   - avatar_fit is the strongest signal; downweighting it produces drift
+#     toward generic AI content.
+#   - novelty 0.20 is the safety belt; never set below 0.10.
+#   - pain_acuity weights signals about real SME problems over hype posts.

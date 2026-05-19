@@ -30,48 +30,48 @@ business_model:
 
 daily_pains:
   - id: multilingual-listing-copy
-    pain_th: ต้องเขียนคำบรรยายห้องเป็นไทย-อังกฤษ บางทีจีน ใช้ Google Translate แล้วฟังก็ออกแปลก ๆ
-    pain_en: Listing copy in TH/EN/sometimes ZH; Google Translate produces awkward text
+    pain_th: "ต้องเขียนคำบรรยายห้องเป็นไทย-อังกฤษ บางทีจีน ใช้ Google Translate แล้วฟังก็ออกแปลก ๆ"
+    pain_en: "Listing copy in TH/EN/sometimes ZH; Google Translate produces awkward text"
     severity: high
     current_workaround: ใช้ Translate แล้วแก้เอง ใช้เวลา 30-60 นาที/listing
     ai_opportunity: AI multilingual listing rewrite with property-marketing tone
   - id: photo-enhancement-listings
-    pain_th: รูปห้องที่ลูกค้าส่งมาแสงไม่ดี ห้องรก ทำให้คนคลิกน้อย
-    pain_en: Owner-supplied photos are dim/cluttered, low click-through
+    pain_th: "รูปห้องที่ลูกค้าส่งมาแสงไม่ดี ห้องรก ทำให้คนคลิกน้อย"
+    pain_en: "Owner-supplied photos are dim/cluttered, low click-through"
     severity: high
     current_workaround: ใช้ฟิลเตอร์ในมือถือ ผลไม่สม่ำเสมอ
     ai_opportunity: AI photo enhance + virtual declutter + consistent style preset
   - id: lead-qualification-time-sink
-    pain_th: 30 ข้อความเข้ามาทาง LINE มีจริง ๆ ที่ซื้อ 1 คน เสียเวลาทั้งวัน
-    pain_en: 30 LINE inquiries, 1 real buyer; entire day burned filtering
+    pain_th: "30 ข้อความเข้ามาทาง LINE มีจริง ๆ ที่ซื้อ 1 คน เสียเวลาทั้งวัน"
+    pain_en: "30 LINE inquiries, 1 real buyer; entire day burned filtering"
     severity: high
     current_workaround: ตอบทุกคน ใช้คำถามตายตัว
     ai_opportunity: AI pre-qualifier on LINE OA with branching Thai/English questions
   - id: cross-platform-listing-sync
-    pain_th: อัปเดต DDProperty ลืม Hipflat ลืม FB Marketplace ลูกค้าโทรมาห้องนี้ขายแล้วยัง
-    pain_en: Listings out of sync across DDProperty/Hipflat/FB; embarrassed by stale ads
+    pain_th: "อัปเดต DDProperty ลืม Hipflat ลืม FB Marketplace ลูกค้าโทรมาห้องนี้ขายแล้วยัง"
+    pain_en: "Listings out of sync across DDProperty/Hipflat/FB; embarrassed by stale ads"
     severity: medium
     current_workaround: ทำ checklist Excel
     ai_opportunity: single-source listing + AI-formatted publish per platform
   - id: cold-lead-followup
-    pain_th: ลูกค้าทักมาเมื่อ 3 เดือนก่อน อยากตามต่อ แต่จำเรื่องไม่ได้
-    pain_en: 3-month-old lead worth reviving; doesn't remember context
+    pain_th: "ลูกค้าทักมาเมื่อ 3 เดือนก่อน อยากตามต่อ แต่จำเรื่องไม่ได้"
+    pain_en: "3-month-old lead worth reviving; doesn't remember context"
     severity: medium
     current_workaround: ลืมไปเลย
     ai_opportunity: AI conversation summary + suggested Thai re-engagement message
 
 weekly_pains:
   - id: market-comparison-report
-    pain_th: ลูกค้าจริงจังถามว่าราคาในย่านนี้เป็นยังไง ต้องทำรายงานเปรียบเทียบ ใช้เวลา 2-3 ชั่วโมง
-    pain_en: Serious buyer wants comp report; 2-3h manual work per request
+    pain_th: "ลูกค้าจริงจังถามว่าราคาในย่านนี้เป็นยังไง ต้องทำรายงานเปรียบเทียบ ใช้เวลา 2-3 ชั่วโมง"
+    pain_en: "Serious buyer wants comp report; 2-3h manual work per request"
     ai_opportunity: AI comp-report generator from scraped portals
   - id: open-house-promo
-    pain_th: open house อาทิตย์นี้ ต้องทำโปสเตอร์ โพสต์ FB ส่ง LINE group ใช้เวลา 4 ชั่วโมง
-    pain_en: Open house promo: poster + FB post + LINE group blast = 4h
+    pain_th: "open house อาทิตย์นี้ ต้องทำโปสเตอร์ โพสต์ FB ส่ง LINE group ใช้เวลา 4 ชั่วโมง"
+    pain_en: "Open house promo: poster + FB post + LINE group blast = 4h"
     ai_opportunity: AI poster + cross-channel post pack from one brief
   - id: contract-coverage
-    pain_th: เขียนสัญญา co-broker / รับฝากขาย ใช้ template เก่า ๆ ที่ก๊อปกันมา
-    pain_en: Co-broker / listing agreement contracts on copy-pasted templates
+    pain_th: "เขียนสัญญา co-broker / รับฝากขาย ใช้ template เก่า ๆ ที่ก๊อปกันมา"
+    pain_en: "Co-broker / listing agreement contracts on copy-pasted templates"
     ai_opportunity: AI contract drafter with Thai legal phrasing review
 
 vocabulary:
@@ -110,7 +110,7 @@ watering_holes:
     - "Bangkok Property Agents"
     - "Pattaya Property Forum"
   pantip_forums: [condo, /tag/อสังหา, /tag/บ้าน-คอนโด]
-  tiktok_hashtags: [#นายหน้า, #คอนโด, #อสังหา, #ขายบ้าน]
+  tiktok_hashtags: ["#นายหน้า", "#คอนโด", "#อสังหา", "#ขายบ้าน"]
   linkedin_groups: [Thailand Real Estate Professionals]
   youtube_channels_thai: [Thai property agent vlogs, real-estate market commentary]
 

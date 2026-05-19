@@ -30,48 +30,48 @@ business_model:
 
 daily_pains:
   - id: line-flood-evening
-    pain_th: LINE OA ลูกค้าเข้ามาถามคิวตอน 1 ทุ่มถึง 4 ทุ่ม ตอบไม่ทันสักคน
-    pain_en: LINE OA floods with booking inquiries 7-10pm; can't keep up
+    pain_th: "LINE OA ลูกค้าเข้ามาถามคิวตอน 1 ทุ่มถึง 4 ทุ่ม ตอบไม่ทันสักคน"
+    pain_en: "LINE OA floods with booking inquiries 7-10pm; can't keep up"
     severity: high
     current_workaround: replies in chunks before bed, loses bookings to faster competitors
     ai_opportunity: auto-classify + draft Thai responses, hand off urgent cases
   - id: no-shows-20pct
-    pain_th: ลูกค้าจองแล้วไม่มา 20-30% เสียทั้งคิวและรายได้
-    pain_en: 20-30% no-show rate; lost slot, lost revenue
+    pain_th: "ลูกค้าจองแล้วไม่มา 20-30% เสียทั้งคิวและรายได้"
+    pain_en: "20-30% no-show rate; lost slot, lost revenue"
     severity: high
     current_workaround: ส่งข้อความเตือนเองวันก่อน ทำได้บ้างไม่ได้บ้าง
     ai_opportunity: automated bilingual reminder + deposit/confirm flow via LINE
   - id: staff-training-admin
-    pain_th: เปลี่ยนแอดมินใหม่ ต้องสอนกฎร้านใหม่ทุกครั้ง ใช้เวลา 2-3 อาทิตย์
-    pain_en: New front-desk staff needs weeks to learn shop rules
+    pain_th: "เปลี่ยนแอดมินใหม่ ต้องสอนกฎร้านใหม่ทุกครั้ง ใช้เวลา 2-3 อาทิตย์"
+    pain_en: "New front-desk staff needs weeks to learn shop rules"
     severity: medium
     current_workaround: ทำคู่มือ Word ไว้ ลูกน้องไม่อ่าน
     ai_opportunity: custom GPT/chatbot trained on shop SOPs, staff queries it instead
   - id: customer-photo-edits
-    pain_th: ภาพโปรโมตร้านต้องจ้างคนแต่งทีละ 500-1000 บาท ช้าด้วย
-    pain_en: Paying 500-1000฿ per promo photo to freelancers, slow turnaround
+    pain_th: "ภาพโปรโมตร้านต้องจ้างคนแต่งทีละ 500-1000 บาท ช้าด้วย"
+    pain_en: "Paying 500-1000฿ per promo photo to freelancers, slow turnaround"
     severity: medium
     current_workaround: ใช้ Canva ฟรีบ้าง แต่ไม่สวยพอ
     ai_opportunity: AI photo retouch/background swap, on-phone, brand-consistent
   - id: peak-comms-bottleneck
-    pain_th: ช่วงพีคโทรศัพท์ดังตลอด ไม่มีคนรับ ลูกค้าไปร้านอื่น
-    pain_en: Peak hours phone/LINE blow up; staff overwhelmed; customers walk
+    pain_th: "ช่วงพีคโทรศัพท์ดังตลอด ไม่มีคนรับ ลูกค้าไปร้านอื่น"
+    pain_en: "Peak hours phone/LINE blow up; staff overwhelmed; customers walk"
     severity: high
     current_workaround: ขอโทษลูกค้าวันถัดไป
     ai_opportunity: AI receptionist on LINE OA that books/reschedules without human
 
 weekly_pains:
   - id: promo-content-ideas
-    pain_th: คิดคอนเทนต์โปรโมตทุกอาทิตย์ไม่ออก ทำซ้ำของเดิม
-    pain_en: Running out of promo content ideas; recycling old posts
+    pain_th: "คิดคอนเทนต์โปรโมตทุกอาทิตย์ไม่ออก ทำซ้ำของเดิม"
+    pain_en: "Running out of promo content ideas; recycling old posts"
     ai_opportunity: AI content calendar tied to local events/seasons, with photo prompts
   - id: review-responses
-    pain_th: ตอบรีวิวลูกค้าเก่ง ๆ ยาก โดยเฉพาะรีวิวลบ
-    pain_en: Responding to reviews (esp. negative) without sounding defensive
+    pain_th: "ตอบรีวิวลูกค้าเก่ง ๆ ยาก โดยเฉพาะรีวิวลบ"
+    pain_en: "Responding to reviews (esp. negative) without sounding defensive"
     ai_opportunity: AI-drafted Thai response with tone control, owner-approved before send
   - id: branch-or-staff-decision
-    pain_th: ควรเปิดสาขา 2 หรือจ้างเพิ่มสาขาเดียวก่อน
-    pain_en: Expand to second branch or hire more for existing one?
+    pain_th: "ควรเปิดสาขา 2 หรือจ้างเพิ่มสาขาเดียวก่อน"
+    pain_en: "Expand to second branch or hire more for existing one?"
     ai_opportunity: AI-led ROI scenario comparison from her own POS data
 
 vocabulary:
@@ -109,7 +109,7 @@ watering_holes:
     - "เจ้าของร้านเสริมสวย Thailand"
     - "LINE OA Owners ไทย"
   pantip_forums: [sinthorn, /tag/ร้านเสริมสวย, /tag/ธุรกิจ-SME]
-  tiktok_hashtags: [#เจ้าของร้าน, #เสริมสวย, #คลินิก, #SMEไทย]
+  tiktok_hashtags: ["#เจ้าของร้าน", "#เสริมสวย", "#คลินิก", "#SMEไทย"]
   line_openchat: [salon-owners-th, beauty-business-th]
   youtube_channels_thai: [Thai beauty business creators, salon-management Thai vlogs]
 

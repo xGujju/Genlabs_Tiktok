@@ -1,0 +1,275 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a9ad97a/emx0Ubr26-PtMmS8b7fjj_SI9brqck.png",
+    "https://v3b.fal.media/files/b/0a9ad97f/CWRg7iPLhe1GwFVpj76OR_lJvBuUKW.png",
+    "https://v3b.fal.media/files/b/0a9ad985/q-DA-O7mOLwwL_j1c8jlv_wAFRgZkQ.png",
+    "https://v3b.fal.media/files/b/0a9ad98b/4W2QN0gghudmNLUOJLI5g_sdXjvqTh.png",
+    "https://v3b.fal.media/files/b/0a9ad991/2NR2LYfxJvUC4f1SQAerk_ILyLNg1w.png",
+    "https://v3b.fal.media/files/b/0a9ad997/wEoWic8JPTNLLt84lt3uV_WdgdAPKa.png",
+    "https://v3b.fal.media/files/b/0a9ad99d/yO4oN8n8aKIrkgyZ52zlj_jSqPqsld.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 7,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/7 role=hook. Thai copy: HR ใช้ AI ทำ Scorecard สัมภาษณ์ให้เทียบผู้สมัครง่ายขึ้น\nSOP • workflow • AI automation. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "HR ใช้ AI ทำ Scorecard สัมภาษณ์ให้เทียบผู้สมัครง่ายขึ้น\nSOP • workflow • AI automation",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/7 role=problem. Thai copy: ปัญหา: สัมภาษณ์หลายคนแล้วจำไม่ครบ ถ้าไม่มี rubric ชัด ทีมจะตัดสินจากความรู้สึกมากกว่าหลักฐานของงานจริง. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: สัมภาษณ์หลายคนแล้วจำไม่ครบ ถ้าไม่มี rubric ชัด ทีมจะตัดสินจากความรู้สึกมากกว่าหลักฐานของงานจริง",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/7 role=trend. Thai copy: ทำไมควรสนใจ:\nAI ช่วย HR ได้ดีเมื่อเปลี่ยน JD เป็น competency, คำถามสัมภาษณ์, rubric 1-5 และ red flags ที่ต้องเช็กก่อนตัดสินใจ. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nAI ช่วย HR ได้ดีเมื่อเปลี่ยน JD เป็น competency, คำถามสัมภาษณ์, rubric 1-5 และ red flags ที่ต้องเช็กก่อนตัดสินใจ",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/7 role=tips. Thai copy: ลองใช้แบบนี้:\n1) ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ\n2) ขอ competency สำคัญ 5 ข้อ\n3) ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency\n4) ขอ rubric คะแนน 1-5 พร้อมตัวอย่างคำตอบ. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ\n2) ขอ competency สำคัญ 5 ข้อ\n3) ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency\n4) ขอ rubric คะแนน 1-5 พร้อมตัวอย่างคำตอบ",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/7 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/7 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\n5) เพิ่ม red flags และคำถาม follow-up ก่อนตัดสินใจ. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\n5) เพิ่ม red flags และคำถาม follow-up ก่อนตัดสินใจ",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/7 role=cta. Thai copy: ลองวันนี้:\nวันนี้ลองเอา JD จริง 1 ตำแหน่งมาทำ interview scorecard ก่อนนัดผู้สมัคร. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้ลองเอา JD จริง 1 ตำแหน่งมาทำ interview scorecard ก่อนนัดผู้สมัคร",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "yt-laSP9cgv3JE",
+    "source_url": "https://www.youtube.com/watch?v=laSP9cgv3JE",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://www.youtube.com/watch?v=laSP9cgv3JE",
+        "Keywords: SOP, workflow, AI automation",
+        "This is trending because people can copy the workflow immediately instead of only reading AI news."
+      ],
+      "glossary": {
+        "AI automation": "ระบบอัตโนมัติด้วย AI",
+        "SOP": "SOP",
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "SOP",
+        "workflow",
+        "AI automation"
+      ],
+      "source_id": "yt-laSP9cgv3JE",
+      "source_url": "https://www.youtube.com/watch?v=laSP9cgv3JE",
+      "thai_call_to_action": "วันนี้ลองเอา JD จริง 1 ตำแหน่งมาทำ interview scorecard ก่อนนัดผู้สมัคร",
+      "thai_hook": "HR ใช้ AI ทำ Scorecard สัมภาษณ์ให้เทียบผู้สมัครง่ายขึ้น",
+      "thai_problem": "สัมภาษณ์หลายคนแล้วจำไม่ครบ ถ้าไม่มี rubric ชัด ทีมจะตัดสินจากความรู้สึกมากกว่าหลักฐานของงานจริง",
+      "thai_tips": [
+        "ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ",
+        "ขอ competency สำคัญ 5 ข้อ",
+        "ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency",
+        "ขอ rubric คะแนน 1-5 พร้อมตัวอย่างคำตอบ",
+        "เพิ่ม red flags และคำถาม follow-up ก่อนตัดสินใจ"
+      ],
+      "thai_trend_angle": "AI ช่วย HR ได้ดีเมื่อเปลี่ยน JD เป็น competency, คำถามสัมภาษณ์, rubric 1-5 และ red flags ที่ต้องเช็กก่อนตัดสินใจ"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "6:24 I Built a $0 AI Assistant for Small Business Emails PMM Workflow Lab",
+    "clean_headline": "7 AI Automations Every Small Business Should Set Up First 6:24 I Built a $0 AI Assistant for Small Business Emails PMM Workflow Lab Most small businesses do not",
+    "clean_summary": "7 AI Automations Every Small Business Should Set Up First 6:24 I Built a $0 AI Assistant for Small Business Emails PMM Workflow Lab Most small businesses do not need complicated AI. They need simple automations that remove repeat work, save time, and keep ... Transcript: 7 AI Automations Every Small Business Should Set Up First Description 7 AI Automations Every Small Business Should Set Up First 0 Likes 0 Views 8m Ago Most small businesses do not need complicated AI. They need simple automations that remove repeat work, save time, and keep customers from falling through the cracks. In this video, I cover 7 AI automations every small business should set up first: 1. Customer email replies 2. Lead capture 3. Quote preparation 4. Follow-up reminders 5. Review replies 6. SOP creation 7. Weekly business dashboard PMM Workflow Lab is a PMM App Development LLC project focused on practical AI tools, workflow automation, and digital business systems. Watch the first workflow tutorial here: [![Image 28]( Built a$0 AI Assistant for Small Busine...]( Chapters: [00:00]( 7 AI automations for small business [00:36]( The starter list [01:11]( Customer email replies [01:59]( Lead capture [02:46]( Quote preparation [03:32]( Follow-up reminders [04:20]( Review replies [05:08]( SOP creation [05:55]( Weekly business dashboard [06:45]( Which automation should you build first? Comment below: Which automation should I build step-by-step next? Disclosure: Some links may be affiliate links, which means this channel may earn a commission if you purchase through them at no extra cost to you. [#AIAutomation]( ...more Show less ## Chapters View all [![Image 29]( #### 7 AI automations for small business #### 7 AI automations for small business 0:00]( #### [7 AI automations for small business]( 0:00 [![Image 30]( #### The starter list #### The starter list 0:36]( #### [The starter list]( 0:36 [![Image 31]( #### Customer email replies #### Customer email replies 1:11]( #### [Customer email replies]( 1:11 [![Image 32]( #### Lead capture #### Lead capture 1:59]( #### [Lead capture]( 1:59 Transcript Follow along using the transcript. Show transcript [![Image 33]( ### PMM Workflow Lab]( [Videos]( ## Transcript NaN / NaN [![Image 34]( 6:24]( ![Image 35]( ### [I Built a $0 AI Assistant for Small Business Emails]( PMM Workflow Lab 12 views • 23 hours ago New [![Image 36]( 1:00:04]( ![Image 37]( ### [Navajo White Screen 1 Hour 4K | Background | Backdrop | Screensaver | Full HD | Phone, Monitor, TV]( Pigment Peace 89K views • 2 years ago [![Image 38]( ## Chapters View all [![Image 8]( #### 7 AI automations for small business #### 7 AI automations for small business 0:00]( #### [7 AI automations for small business]( 0:00 [![Image 9]( #### The starter list #### The starter list 0:36]( #### [The starter list]( 0:36 [![Image 10]( #### Customer email replies #### Customer email replies 1:11]( #### [Customer email replies]( 1:11 [![Image 11]( #### Lead capture #### Lead capture 1:59]( #### [Lead capture]( 1:59 [![Image 12]( #### Quote preparation #### Quote preparation 2:46]( #### [Quote preparation]( 2:46 [![Image 13]( #### Follow-up reminders #### Follow-up reminders 3:32]( #### [Follow-up reminders]( 3:32 [![Image 14]( #### Review replies #### Review replies 4:20]( #### [Review replies]( 4:20 [![Image 15]( #### SOP creation #### SOP creation 5:08]( #### [SOP creation]( 5:08 Transcript Follow along using the transcript. Show transcript [![Image 16]( ### PMM Workflow Lab]( [Videos]( Show less []( # 7 AI Automations Every Small Business Should Set Up First No views May 19, 2026 0 Share Save Download Download ## 0 Comments Sort comments Sort by [Top Show featured comments]( Show recent comments, including potential spam]( ![Image 17: Default profile photo](",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "SOP",
+      "workflow",
+      "AI automation"
+    ],
+    "original_language": "en",
+    "raw_text": "YouTube title: 7 AI Automations Every Small Business Should Set Up First\nChannel: 6:24 I Built a $0 AI Assistant for Small Business Emails PMM Workflow Lab\nDescription: Most small businesses do not need complicated AI. They need simple automations that remove repeat work, save time, and keep ...\nTranscript:\nTitle: 7 AI Automations Every Small Business Should Set Up First Description 7 AI Automations Every Small Business Should Set Up First 0 Likes 0 Views 8m Ago Most small businesses do not need complicated AI. They need simple automations that remove repeat work, save time, and keep customers from falling through the cracks. In this video, I cover 7 AI automations every small business should set up first: 1. Customer email replies 2. Lead capture 3. Quote preparation 4. Follow-up reminders 5. Review replies 6. SOP creation 7. Weekly business dashboard PMM Workflow Lab is a PMM App Development LLC project focused on practical AI tools, workflow automation, and digital business systems. Watch the first workflow tutorial here: [![Image 28](https://www.youtube.com/watch?v=laSP9cgv3JE)•I Built a$0 AI Assistant for Small Busine...](https://www.youtube.com/watch?v=nmOIWaS5aOw) Chapters: [00:00](https://www.youtube.com/watch?v=laSP9cgv3JE) 7 AI automations for small business [00:36](https://www.youtube.com/watch?v=laSP9cgv3JE&t=36s) The starter list [01:11](https://www.youtube.com/watch?v=laSP9cgv3JE&t=71s) Customer email replies [01:59](https://www.youtube.com/watch?v=laSP9cgv3JE&t=119s) Lead capture [02:46](https://www.youtube.com/watch?v=laSP9cgv3JE&t=166s) Quote preparation [03:32](https://www.youtube.com/watch?v=laSP9cgv3JE&t=212s) Follow-up reminders [04:20](https://www.youtube.com/watch?v=laSP9cgv3JE&t=260s) Review replies [05:08](https://www.youtube.com/watch?v=laSP9cgv3JE&t=308s) SOP creation [05:55](https://www.youtube.com/watch?v=laSP9cgv3JE&t=355s) Weekly business dashboard [06:45](https://www.youtube.com/watch?v=laSP9cgv3JE&t=405s) Which automation should you build first? Comment below: Which automation should I build step-by-step next? Disclosure: Some links may be affiliate links, which means this channel may earn a commission if you purchase through them at no extra cost to you. [#AIAutomation](https://www.youtube.com/hashtag/aiautomation)[#SmallBusiness](https://www.youtube.com/hashtag/smallbusiness)[#WorkflowAutomation](https://www.youtube.com/hashtag/workflowautomation)…...more ...more Show less ## Chapters View all [![Image 29](https://www.youtube.com/watch?v=laSP9cgv3JE) #### 7 AI automations for small business #### 7 AI automations for small business 0:00](https://www.youtube.com/watch?v=laSP9cgv3JE) #### [7 AI automations for small business](https://www.youtube.com/watch?v=laSP9cgv3JE) 0:00 [![Image 30](https://www.youtube.com/watch?v=laSP9cgv3JE) #### The starter list #### The starter list 0:36](https://www.youtube.com/watch?v=laSP9cgv3JE&t=36s) #### [The starter list](https://www.youtube.com/watch?v=laSP9cgv3JE&t=36s) 0:36 [![Image 31](https://www.youtube.com/watch?v=laSP9cgv3JE) #### Customer email replies #### Customer email replies 1:11](https://www.youtube.com/watch?v=laSP9cgv3JE&t=71s) #### [Customer email replies](https://www.youtube.com/watch?v=laSP9cgv3JE&t=71s) 1:11 [![Image 32](https://www.youtube.com/watch?v=laSP9cgv3JE) #### Lead capture #### Lead capture 1:59](https://www.youtube.com/watch?v=laSP9cgv3JE&t=119s) #### [Lead capture](https://www.youtube.com/watch?v=laSP9cgv3JE&t=119s) 1:59 Transcript Follow along using the transcript. Show transcript [![Image 33](https://www.youtube.com/watch?v=laSP9cgv3JE) ### PMM Workflow Lab](https://www.youtube.com/@PMMWorkflowLab) [Videos](https://www.youtube.com/channel/UCnZQX9zdXT-7aMRP7MTFF5w/videos)[About](https://www.youtube.com/channel/UCnZQX9zdXT-7aMRP7MTFF5w/about) ## Transcript NaN / NaN [![Image 34](https://i.ytimg.com/vi/nmOIWaS5aOw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCq5lw7g_3iU7xnRwkPKYBaXAfXZQ) 6:24](https://www.youtube.com/watch?v=nmOIWaS5aOw) ![Image 35](https://www.youtube.com/watch?v=laSP9cgv3JE) ### [I Built a $0 AI Assistant for Small Business Emails](https://www.youtube.com/watch?v=nmOIWaS5aOw) PMM Workflow Lab 12 views • 23 hours ago New [![Image 36](https://i.ytimg.com/vi/Q8RFPgAomBU/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDLRDFKVKba3-IGy_TroIjIPLwErg) 1:00:04](https://www.youtube.com/watch?v=Q8RFPgAomBU) ![Image 37](https://www.youtube.com/watch?v=laSP9cgv3JE) ### [Navajo White Screen 1 Hour 4K | Background | Backdrop | Screensaver | Full HD | Phone, Monitor, TV](https://www.youtube.com/watch?v=Q8RFPgAomBU) Pigment Peace 89K views • 2 years ago [![Image 38](https://i.ytimg.com/vi/Dr5zebXpO-M/hqdefault.jpg?v=7d72&sqp=-oay ## Chapters View all [![Image 8](https://www.youtube.com/watch?v=laSP9cgv3JE) #### 7 AI automations for small business #### 7 AI automations for small business 0:00](https://www.youtube.com/watch?v=laSP9cgv3JE) #### [7 AI automations for small business](https://www.youtube.com/watch?v=laSP9cgv3JE) 0:00 [![Image 9](https://www.youtube.com/watch?v=laSP9cgv3JE) #### The starter list #### The starter list 0:36](https://www.youtube.com/watch?v=laSP9cgv3JE&t=36s) #### [The starter list](https://www.youtube.com/watch?v=laSP9cgv3JE&t=36s) 0:36 [![Image 10](https://www.youtube.com/watch?v=laSP9cgv3JE) #### Customer email replies #### Customer email replies 1:11](https://www.youtube.com/watch?v=laSP9cgv3JE&t=71s) #### [Customer email replies](https://www.youtube.com/watch?v=laSP9cgv3JE&t=71s) 1:11 [![Image 11](https://www.youtube.com/watch?v=laSP9cgv3JE) #### Lead capture #### Lead capture 1:59](https://www.youtube.com/watch?v=laSP9cgv3JE&t=119s) #### [Lead capture](https://www.youtube.com/watch?v=laSP9cgv3JE&t=119s) 1:59 [![Image 12](https://www.youtube.com/watch?v=laSP9cgv3JE) #### Quote preparation #### Quote preparation 2:46](https://www.youtube.com/watch?v=laSP9cgv3JE&t=166s) #### [Quote preparation](https://www.youtube.com/watch?v=laSP9cgv3JE&t=166s) 2:46 [![Image 13](https://www.youtube.com/watch?v=laSP9cgv3JE) #### Follow-up reminders #### Follow-up reminders 3:32](https://www.youtube.com/watch?v=laSP9cgv3JE&t=212s) #### [Follow-up reminders](https://www.youtube.com/watch?v=laSP9cgv3JE&t=212s) 3:32 [![Image 14](https://www.youtube.com/watch?v=laSP9cgv3JE) #### Review replies #### Review replies 4:20](https://www.youtube.com/watch?v=laSP9cgv3JE&t=260s) #### [Review replies](https://www.youtube.com/watch?v=laSP9cgv3JE&t=260s) 4:20 [![Image 15](https://www.youtube.com/watch?v=laSP9cgv3JE) #### SOP creation #### SOP creation 5:08](https://www.youtube.com/watch?v=laSP9cgv3JE&t=308s) #### [SOP creation](https://www.youtube.com/watch?v=laSP9cgv3JE&t=308s) 5:08 Transcript Follow along using the transcript. Show transcript [![Image 16](https://www.youtube.com/watch?v=laSP9cgv3JE) ### PMM Workflow Lab](https://www.youtube.com/@PMMWorkflowLab) [Videos](https://www.youtube.com/channel/UCnZQX9zdXT-7aMRP7MTFF5w/videos)[About](https://www.youtube.com/channel/UCnZQX9zdXT-7aMRP7MTFF5w/about) Show less [](https://www.youtube.com/hashtag/aiautomation)[#AIAutomation](https://www.youtube.com/hashtag/aiautomation)[#SmallBusiness](https://www.youtube.com/hashtag/smallbusiness)[#WorkflowAutomation](https://www.youtube.com/hashtag/workflowautomation) # 7 AI Automations Every Small Business Should Set Up First No views May 19, 2026 0 Share Save Download Download ## 0 Comments Sort comments Sort by [Top Show featured comments](https://www.youtube.com/watch?v=laSP9cgv3JE)[Newest Show recent comments, including potential spam](https://www.youtube.com/watch?v=laSP9cgv3JE) ![Image 17: Default profile photo](https://yt3.ggpht.com/a",
+    "source_id": "yt-laSP9cgv3JE",
+    "source_url": "https://www.youtube.com/watch?v=laSP9cgv3JE",
+    "why_it_matters": "This is trending because people can copy the workflow immediately instead of only reading AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้ลองเอา JD จริง 1 ตำแหน่งมาทำ interview scorecard ก่อนนัดผู้สมัคร",
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=laSP9cgv3JE",
+      "Keywords: SOP, workflow, AI automation",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "hook": "HR ใช้ AI ทำ Scorecard สัมภาษณ์ให้เทียบผู้สมัครง่ายขึ้น",
+    "original_keywords": [
+      "SOP",
+      "workflow",
+      "AI automation"
+    ],
+    "original_language": "en",
+    "problem": "สัมภาษณ์หลายคนแล้วจำไม่ครบ ถ้าไม่มี rubric ชัด ทีมจะตัดสินจากความรู้สึกมากกว่าหลักฐานของงานจริง",
+    "source_id": "yt-laSP9cgv3JE",
+    "source_url": "https://www.youtube.com/watch?v=laSP9cgv3JE",
+    "tips": [
+      "ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ",
+      "ขอ competency สำคัญ 5 ข้อ",
+      "ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency",
+      "ขอ rubric คะแนน 1-5 พร้อมตัวอย่างคำตอบ",
+      "เพิ่ม red flags และคำถาม follow-up ก่อนตัดสินใจ"
+    ],
+    "trend_angle": "AI ช่วย HR ได้ดีเมื่อเปลี่ยน JD เป็น competency, คำถามสัมภาษณ์, rubric 1-5 และ red flags ที่ต้องเช็กก่อนตัดสินใจ"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "emx0Ubr26-PtMmS8b7fjj_SI9brqck.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9ad97a/emx0Ubr26-PtMmS8b7fjj_SI9brqck.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260519T151620Z-yt-laSP9cgv3JE/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "CWRg7iPLhe1GwFVpj76OR_lJvBuUKW.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9ad97f/CWRg7iPLhe1GwFVpj76OR_lJvBuUKW.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260519T151620Z-yt-laSP9cgv3JE/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "q-DA-O7mOLwwL_j1c8jlv_wAFRgZkQ.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9ad985/q-DA-O7mOLwwL_j1c8jlv_wAFRgZkQ.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260519T151620Z-yt-laSP9cgv3JE/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "4W2QN0gghudmNLUOJLI5g_sdXjvqTh.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9ad98b/4W2QN0gghudmNLUOJLI5g_sdXjvqTh.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260519T151620Z-yt-laSP9cgv3JE/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "2NR2LYfxJvUC4f1SQAerk_ILyLNg1w.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9ad991/2NR2LYfxJvUC4f1SQAerk_ILyLNg1w.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260519T151620Z-yt-laSP9cgv3JE/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "wEoWic8JPTNLLt84lt3uV_WdgdAPKa.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9ad997/wEoWic8JPTNLLt84lt3uV_WdgdAPKa.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260519T151620Z-yt-laSP9cgv3JE/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "yO4oN8n8aKIrkgyZ52zlj_jSqPqsld.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9ad99d/yO4oN8n8aKIrkgyZ52zlj_jSqPqsld.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260519T151620Z-yt-laSP9cgv3JE/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 8,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260519T151620Z-yt-laSP9cgv3JE/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: สัมภาษณ์หลายคนแล้วจำไม่ครบ ถ้าไม่มี rubric ชัด ทีมจะตัดสินจากความรู้สึกมากกว่าหลักฐานของงานจริง\n\n📌 ทำไมควรเซฟโพสต์นี้: AI ช่วย HR ได้ดีเมื่อเปลี่ยน JD เป็น competency, คำถามสัมภาษณ์, rubric 1-5 และ red flags ที่ต้องเช็กก่อนตัดสินใจ\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ\n\n2) ✨ ขอ competency สำคัญ 5 ข้อ\n\n3) ✨ ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency\n\n4) ✨ ขอ rubric คะแนน 1-5 พร้อมตัวอย่างคำตอบ\n\n🧪 ลองเริ่มวันนี้: วันนี้ลองเอา JD จริง 1 ตำแหน่งมาทำ interview scorecard ก่อนนัดผู้สมัคร\n\n🧭 วิธีใช้กับงานนี้: ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ → ขอ competency สำคัญ 5 ข้อ → ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency\n\n🌱 มือใหม่ให้เริ่มจากเคสจริงเล็ก ๆ ของอุตสาหกรรมนี้ แล้วให้คนในทีมตรวจคำตอบก่อนใช้กับลูกค้าจริง\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเห็นว่า AI ช่วยลดงานซ้ำและทำให้บริการชัดขึ้นได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "HR ใช้ AI ทำ Scorecard สัมภาษณ์ให้เทียบผู้สมัครง่ายขึ้น #AIมือใหม่"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=laSP9cgv3JE",
+      "Keywords: SOP, workflow, AI automation",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "glossary": {
+      "AI automation": "ระบบอัตโนมัติด้วย AI",
+      "SOP": "SOP",
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "SOP",
+      "workflow",
+      "AI automation"
+    ],
+    "source_id": "yt-laSP9cgv3JE",
+    "source_url": "https://www.youtube.com/watch?v=laSP9cgv3JE",
+    "thai_call_to_action": "วันนี้ลองเอา JD จริง 1 ตำแหน่งมาทำ interview scorecard ก่อนนัดผู้สมัคร",
+    "thai_hook": "HR ใช้ AI ทำ Scorecard สัมภาษณ์ให้เทียบผู้สมัครง่ายขึ้น",
+    "thai_problem": "สัมภาษณ์หลายคนแล้วจำไม่ครบ ถ้าไม่มี rubric ชัด ทีมจะตัดสินจากความรู้สึกมากกว่าหลักฐานของงานจริง",
+    "thai_tips": [
+      "ใส่ JD ระดับตำแหน่ง และงานที่ต้องรับผิดชอบ",
+      "ขอ competency สำคัญ 5 ข้อ",
+      "ให้ AI สร้างคำถามสัมภาษณ์ตามแต่ละ competency",
+      "ขอ rubric คะแนน 1-5 พร้อมตัวอย่างคำตอบ",
+      "เพิ่ม red flags และคำถาม follow-up ก่อนตัดสินใจ"
+    ],
+    "thai_trend_angle": "AI ช่วย HR ได้ดีเมื่อเปลี่ยน JD เป็น competency, คำถามสัมภาษณ์, rubric 1-5 และ red flags ที่ต้องเช็กก่อนตัดสินใจ"
+  }
+}

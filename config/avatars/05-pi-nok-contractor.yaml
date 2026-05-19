@@ -29,48 +29,48 @@ business_model:
 
 daily_pains:
   - id: quote-writing-loss-risk
-    pain_th: ตีราคาด้วยมือ ลืมคิดค่านี้ค่านั้น เสร็จแล้วขาดทุน
-    pain_en: Back-of-envelope quotes miss line items; loses money after the fact
+    pain_th: "ตีราคาด้วยมือ ลืมคิดค่านี้ค่านั้น เสร็จแล้วขาดทุน"
+    pain_en: "Back-of-envelope quotes miss line items; loses money after the fact"
     severity: high
     current_workaround: เขียนใส่กระดาษ จำเอา
     ai_opportunity: AI quote-builder with line-item prompts + history-based catch
   - id: job-photo-documentation
-    pain_th: ถ่ายรูปงานก่อน-หลัง ลืมบ้าง ลูกค้ามีปัญหา ไม่มีหลักฐาน
-    pain_en: Before/after job photos: forgets sometimes; no proof on disputes
+    pain_th: "ถ่ายรูปงานก่อน-หลัง ลืมบ้าง ลูกค้ามีปัญหา ไม่มีหลักฐาน"
+    pain_en: "Before/after job photos: forgets sometimes; no proof on disputes"
     severity: high
     current_workaround: ถ่ายใน LINE ลืมว่าเก็บไหน
     ai_opportunity: AI job-album organizer + auto-tag + dispute-ready PDF
   - id: material-price-fluctuation
-    pain_th: ราคาเหล็ก ปูน แอร์ ขึ้นทุกอาทิตย์ คำนวณงานเก่าผิด
-    pain_en: Steel/cement/AC prices fluctuate weekly; old quotes no longer cover cost
+    pain_th: "ราคาเหล็ก ปูน แอร์ ขึ้นทุกอาทิตย์ คำนวณงานเก่าผิด"
+    pain_en: "Steel/cement/AC prices fluctuate weekly; old quotes no longer cover cost"
     severity: high
     current_workaround: โทรถามร้านวัสดุ
     ai_opportunity: weekly AI price index + auto-adjust open quotes
   - id: customer-followup-warranty
-    pain_th: งานเสร็จแล้ว ต้องตามรับเงินที่เหลือ ตามรับ feedback แต่ลืม
-    pain_en: Job done = chase remaining payment + warranty check, but forgets
+    pain_th: "งานเสร็จแล้ว ต้องตามรับเงินที่เหลือ ตามรับ feedback แต่ลืม"
+    pain_en: "Job done = chase remaining payment + warranty check, but forgets"
     severity: medium
     current_workaround: ลูกค้าทักมาก่อน
     ai_opportunity: AI post-job follow-up scheduler + Thai message templates
   - id: schedule-juggling
-    pain_th: รับงาน 4 งานอาทิตย์เดียวกัน ยกเลิก 1 งาน อีก 1 งานต้องด่วน วุ่น
-    pain_en: 4 jobs/week, 1 cancels, 1 urgent — schedule chaos
+    pain_th: "รับงาน 4 งานอาทิตย์เดียวกัน ยกเลิก 1 งาน อีก 1 งานต้องด่วน วุ่น"
+    pain_en: "4 jobs/week, 1 cancels, 1 urgent — schedule chaos"
     severity: high
     current_workaround: จดในมือถือ
     ai_opportunity: AI dispatch board with crew availability + travel time
 
 weekly_pains:
   - id: new-customer-acquisition
-    pain_th: หาลูกค้าใหม่จาก FB Marketplace ค่อนข้างยาก โพสต์ลงไป engagement น้อย
-    pain_en: New-customer acquisition via FB Marketplace; low engagement on posts
+    pain_th: "หาลูกค้าใหม่จาก FB Marketplace ค่อนข้างยาก โพสต์ลงไป engagement น้อย"
+    pain_en: "New-customer acquisition via FB Marketplace; low engagement on posts"
     ai_opportunity: AI before/after + price-transparency post templates
   - id: crew-payment-hours
-    pain_th: ตามเก็บชั่วโมงของลูกน้อง คนละไซต์ จ่ายเงินอาทิตย์ละครั้ง สับสน
-    pain_en: Tracking crew hours across sites for weekly pay = confusion
+    pain_th: "ตามเก็บชั่วโมงของลูกน้อง คนละไซต์ จ่ายเงินอาทิตย์ละครั้ง สับสน"
+    pain_en: "Tracking crew hours across sites for weekly pay = confusion"
     ai_opportunity: AI photo-clockin or LINE-message hour summary
   - id: material-inventory-across-sites
-    pain_th: ของเหลือไซต์เก่า ลืมเอาไปใช้ ซื้อใหม่เปลือง
-    pain_en: Leftover materials at old sites unused; new buys wasteful
+    pain_th: "ของเหลือไซต์เก่า ลืมเอาไปใช้ ซื้อใหม่เปลือง"
+    pain_en: "Leftover materials at old sites unused; new buys wasteful"
     ai_opportunity: AI leftover-tracker fed from job-end photos
 
 vocabulary:
@@ -108,7 +108,7 @@ watering_holes:
     - "ช่างประปา ช่างไฟ"
     - "รับเหมาก่อสร้างไทย"
   pantip_forums: [home, /tag/รับเหมา, /tag/ช่าง, /tag/ซ่อมบ้าน]
-  tiktok_hashtags: [#ช่างไทย, #รับเหมา, #ช่างแอร์, #ซ่อมบ้าน]
+  tiktok_hashtags: ["#ช่างไทย", "#รับเหมา", "#ช่างแอร์", "#ซ่อมบ้าน"]
   line_openchat: [contractor-th, ac-installer-th]
   youtube_channels_thai: [Thai contractor/handyman channels, DIY home repair Thai]
 

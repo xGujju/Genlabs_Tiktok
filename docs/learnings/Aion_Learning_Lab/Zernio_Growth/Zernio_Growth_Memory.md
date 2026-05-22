@@ -1,10 +1,10 @@
 # Zernio Growth Memory
 
-Last updated: 2026-05-21T16:49:25Z
+Last updated: 2026-05-22T16:48:02+00:00
 
 ## KPI
 - Goal: one TikTok post reaches **100,000 views**.
-- Best post: `7634027210248097042` - ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- Best post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
 - Current views: 32072
 - Gap: 67928
 
@@ -112,22 +112,23 @@ Last updated: 2026-05-21T16:49:25Z
 
 ## Current breakout watch
 {
-  "status": "no_formal_breakout_current_baseline_below_threshold_then_post_import_no_change",
+  "status": "no_formal_breakout_post_import_below_threshold_movement_current_baseline_zero_delta",
   "platform_post_id": null,
   "label": null,
-  "pre_run_snapshot_at": "2026-05-21T16:30:56.713025+00:00",
-  "latest_snapshot_at": "2026-05-21T16:34:48.314431+00:00",
-  "latest_reconciled_snapshot_at": "2026-05-21T16:34:48.314431+00:00",
-  "latest_confirmed_snapshot_at": "2026-05-21T16:30:56.713025+00:00",
-  "previous_snapshot_at": "2026-05-21T16:00:02.669307+00:00",
+  "pre_run_snapshot_at": "2026-05-22T16:30:30.417699+00:00",
+  "latest_snapshot_at": "2026-05-22T16:39:03.965431+00:00",
+  "latest_reconciled_snapshot_at": "2026-05-22T16:39:03.965431+00:00",
+  "latest_confirmed_snapshot_at": "2026-05-22T16:30:30.417699+00:00",
+  "previous_snapshot_at": "2026-05-22T16:00:46.426513+00:00",
   "latest_confirmed_delta_views": 0,
   "latest_confirmed_hourly_velocity": 0.0,
   "formal_breakout_count": 0,
   "refresh_window_breakout_count": 0,
   "breakout_count": 0,
+  "post_baseline_mover_count": 1,
   "current_formal_candidate": null,
   "current_refresh_window_candidate": null,
-  "current_reason": "2026-05-21T16:30:56.713025+00:00 normal velocity baseline found no breakout_candidates; strongest watched movement was 7641239648790007048 +19 views / 36.89 hourly, below breakout threshold. Direct/scheduled import `2026-05-21_16-33-18.md` (Imported At `2026-05-21T16:32:36.792576+00:00`) plus snapshot `2026-05-21T16:34:48.314431+00:00` found 0 post-baseline movers, so no amplification is active.",
+  "current_reason": "2026-05-22T16:39:03.965431+00:00 import/readback after normal baseline `2026-05-22T16:30:30.417699+00:00` found 1 below-threshold mover(s) but 0 breakout_candidates. Strongest mover 7641239648790007048 at 1680 views / 10 shares / +3 views (~21.03 per hour, import-window inflated). Keep watch-only; do not amplify/generate until a later normal baseline or stronger import confirms breakout evidence. Post 7634027210248097042 remains ChatGPT productivity/workflow evidence; protected GenLabs no-prompt/10-baht product-photo phrase is CTA copy only.",
   "best_post_watch": {
     "platform_post_id": "7634027210248097042",
     "label": "ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items",
@@ -137,112 +138,80 @@ Last updated: 2026-05-21T16:49:25Z
     "delta": 0,
     "hourly": 0.0,
     "analytics_last_updated": "2026-05-19 10:10:58",
-    "latest_imported_at": "2026-05-21T16:32:36.792576+00:00",
-    "caveat": "Best/closest-to-100k watch only when current normal baseline has no breakout candidates; protected CTA is not hook/topic evidence."
+    "latest_imported_at": "2026-05-22T16:31:10.632296+00:00",
+    "caveat": "Best/closest-to-100k remains CTA-stripped educational evidence; protected CTA is not hook/topic evidence."
   },
   "strongest_mover_watch": {
     "platform_post_id": "7641239648790007048",
     "label": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายคนถาม AI สั้นเกินไป เลยได้คำต…",
-    "views": 1654,
-    "shares": 8,
-    "gap": 98346,
-    "delta": 19,
-    "hourly": 36.89,
-    "analytics_last_updated": "2026-05-21 15:52:54",
-    "latest_imported_at": "2026-05-21T16:32:36.792576+00:00",
-    "caveat": "Moved during the 16:30 normal baseline but stayed below breakout threshold; 16:33 import/snapshot found no additional post-baseline movement."
+    "views": 1680,
+    "shares": 10,
+    "gap": 98320,
+    "delta": 3,
+    "hourly": 21.03,
+    "analytics_last_updated": "2026-05-22 16:12:42",
+    "latest_imported_at": "2026-05-22T16:31:10.632296+00:00",
+    "reason": "post_import_below_threshold_movement_watch_only",
+    "caveat": "Moved after the normal baseline import, but no post qualified as a breakout candidate; rates are import-window inflated and watch-only."
   },
   "high_share_watch": null,
   "previous_positive_momentum": {
-    "delta": 247,
-    "gap": 93988,
-    "hourly": 505.15,
-    "label": "meeting notes/action-owner/deadline-risk clarity for Thai SMEs",
-    "latest_confirmed_snapshot_at": "2026-05-20T03:30:52.586645+00:00",
-    "note": "Superseded by later zero/no-candidate baselines and the 10:01 import no-change readback; keep as watch-only context unless a later import/baseline re-qualifies it.",
-    "platform_post_id": "7634893611389259016",
-    "shares": 52,
-    "status": "previous_positive_momentum_watch_only_context",
-    "views": 6012
+    "delta": 3,
+    "platform_post_id": "7641239648790007048",
+    "status": "previous_below_threshold_watch_only_context_superseded_by_1603_import_no_change",
+    "views": 1677
+  },
+  "post_baseline_import_no_change_verification": null,
+  "post_baseline_import_below_threshold_movement_verification": {
+    "baseline_seen_at": "2026-05-22T16:30:30.417699+00:00",
+    "snapshot_at": "2026-05-22T16:39:03.965431+00:00",
+    "mover_count": 1,
+    "candidate_count": 0,
+    "strongest_mover_platform_post_id": "7641239648790007048",
+    "strongest_mover_delta": 3,
+    "note": "Import/readback found movement below breakout threshold; watch-only, no amplification."
   },
   "public_posting": false,
   "spending_triggered_by_this_run": false,
   "generation_triggered_by_this_run": false,
-  "factory_status": "Manual exact factory + required recovery readback `manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending` refreshed the current factory state: both exact/recovery paths returned `draft_count=0/results=[]`; current state `latest_social_draft_factory.json@2026-05-21T16:48:20.268220+00:00`. Source-lane exhaustion / anti-repetition guard saturation remains open; no Airtable/Zernio payload, draft, public posting, generation, or spend exists for this tick. Cron `a97a7703af32` is enabled/scheduled/ok with next_run_at `2026-05-21T17:44:19.764064+00:00`; process readback `2026-05-21T16:49:25Z` found no lingering factory/radar/import/snapshot process.",
-  "scheduler_state": "scheduler_current_import_growth_factory_delivered_current_breakout_inflight_not_scheduler_miss",
-  "latest_completed_breakout_output": "2026-05-21_16-00-23.md",
-  "latest_scheduled_import_output": "2026-05-21_16-33-18.md",
-  "latest_growth_output": "2026-05-21_16-10-55.md",
-  "latest_factory_output": "manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending",
-  "cta_guard": "Post 7634027210248097042 is ChatGPT productivity/workflow evidence; protected GenLabs product-photo/no-prompt CTA is promo copy only.",
-  "current_breakout_output_state": "current_breakout_1630_in_flight_until_delivery_not_scheduler_miss; latest_completed:2026-05-21_16-00-23.md; next:2026-05-21T17:00:00+00:00",
   "live_publishing": false,
-  "post_baseline_import_no_change_verification": {
-    "baseline_seen_at": "2026-05-21T16:30:56.713025+00:00",
-    "latest_import_output": "2026-05-21_16-33-18.md",
-    "latest_imported_at": "2026-05-21T16:32:36.792576+00:00",
-    "comparison_at": "2026-05-21T16:34:48.314431+00:00",
-    "watched_mover_count": 0,
-    "all_post_mover_count": 0,
-    "candidate_count": 0,
-    "note": "Direct refresh plus scheduled import after the 16:30 baseline produced no post-baseline absolute movers; keep no-current-candidate truth and strongest baseline movement watch-only."
-  }
+  "scheduler_state": "Import `2026-05-22_16-32-15.md` current with below-threshold +3 watch-only mover; latest completed breakout `2026-05-22_16-14-28.md` delivered no candidate; growth-check `2026-05-22_16-09-56.md` delivered; current breakout markdown is in-flight until delivery, not a scheduler miss; factory latest `manual-exact-run+recovery-2026-05-22T16:46:59Z_current-cron-delivery-pending` is current/future-scheduled for next_run_at `2026-05-22T17:43:36.775776+00:00` with fresh zero-draft readback verified at 2026-05-22T16:48:02Z, so one factory scheduler cadence is current.",
+  "latest_scheduled_import_output": "2026-05-22_16-32-15.md",
+  "latest_factory_output": "manual-exact-run+recovery-2026-05-22T16:46:59Z_current-cron-delivery-pending"
 }
 
 ## Current metrics
 {
-  "all_post_mover_count": 0,
+  "all_post_mover_count": 1,
   "best_post_shares": 429,
   "best_post_views": 32072,
-  "best_post_watch": {
-    "platform_post_id": "7634027210248097042",
-    "label": "ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items",
-    "views": 32072,
-    "shares": 429,
-    "gap": 67928,
-    "delta": 0,
-    "hourly": 0.0,
-    "analytics_last_updated": "2026-05-19 10:10:58",
-    "latest_imported_at": "2026-05-21T16:32:36.792576+00:00",
-    "caveat": "Best/closest-to-100k watch only when current normal baseline has no breakout candidates; protected CTA is not hook/topic evidence."
-  },
   "breakout_count": 0,
   "current_breakout_gap_to_100k": null,
   "current_breakout_import_window_hourly": null,
   "current_breakout_latest_confirmed_delta": 0,
   "current_breakout_latest_confirmed_hourly": 0.0,
-  "current_breakout_output_state": "current_breakout_1630_in_flight_until_delivery_not_scheduler_miss; latest_completed:2026-05-21_16-00-23.md; next:2026-05-21T17:00:00+00:00",
+  "current_breakout_output_state": "Latest completed breakout output `2026-05-22_16-14-28.md` delivered no candidate; current 16:30 breakout markdown is in-flight until delivery, not a scheduler miss.",
   "current_breakout_platform_post_id": null,
   "current_breakout_post_import_delta": 0,
   "current_breakout_shares": null,
-  "current_breakout_status": "no_formal_breakout_current_baseline_below_threshold_then_post_import_no_change",
+  "current_breakout_status": "no_formal_breakout_post_import_below_threshold_movement_current_baseline_zero_delta",
   "current_breakout_views": null,
-  "current_experiment_output_state": "experiment_output_delivered_current_tick:2026-05-21_12-20-47.md; next:2026-05-22T00:00:00+00:00",
-  "current_growth_check_output_state": "growth_output_delivered_current_tick:2026-05-21_16-10-55.md; next:2026-05-21T18:00:00+00:00",
-  "current_import_output_state": "import_output_delivered_current_tick:2026-05-21_16-33-18.md; Imported At 2026-05-21T16:32:36.792576+00:00; next:2026-05-21T17:00:00+00:00",
-  "current_issue_check_output_state": "issue_output_delivered_current_tick:2026-05-21_12-50-39.md; next:2026-05-21T18:30:00+00:00",
+  "current_factory_output_state": "Factory scheduler cadence resolved by 16:47 manual exact+recovery readback; cron a97a7703af32 enabled/scheduled next_run_at 2026-05-22T17:43:36.775776+00:00; no factory/radar process at 2026-05-22T16:48:02Z. Source-lane exhaustion remains open separately. Source-lane exhaustion remains active from the latest delivered factory state.",
+  "current_growth_check_output_state": "Growth-check output `2026-05-22_16-09-56.md` delivered; next_run_at `2026-05-22T18:00:00+00:00`.",
+  "current_import_output_state": "16:30 normal baseline found 0 breakout candidates. Latest scheduled import `2026-05-22_16-32-15.md` delivered afterward; Airtable Imported At `2026-05-22T16:31:10.632296+00:00`. Read-only get_records()+post_summary comparison at `2026-05-22T16:38:51.971996+00:00` against live baseline `2026-05-22T16:30:30.417699+00:00` found 1 all-post mover(s), 1 watched mover(s), and 0 candidates; strongest mover `7641239648790007048` was +3 views to 1680 views / 10 shares, below breakout threshold and watch-only.",
   "current_issue_count": 7,
-  "factory_scheduler_status": "scheduler_current_source_lane_exhaustion_open",
-  "factory_scheduler_watch": "factory_scheduler_current_source_lane_exhaustion_open_after_1648_manual_readback",
-  "factory_status": "Manual exact factory + required recovery readback `manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending` refreshed the current factory state: both exact/recovery paths returned `draft_count=0/results=[]`; current state `latest_social_draft_factory.json@2026-05-21T16:48:20.268220+00:00`. Source-lane exhaustion / anti-repetition guard saturation remains open; no Airtable/Zernio payload, draft, public posting, generation, or spend exists for this tick. Cron `a97a7703af32` is enabled/scheduled/ok with next_run_at `2026-05-21T17:44:19.764064+00:00`; process readback `2026-05-21T16:49:25Z` found no lingering factory/radar/import/snapshot process.",
+  "factory_scheduler_watch": "Factory scheduler cadence resolved by 16:47 manual exact+recovery readback; cron a97a7703af32 enabled/scheduled next_run_at 2026-05-22T17:43:36.775776+00:00; no factory/radar process at 2026-05-22T16:48:02Z. Source-lane exhaustion remains open separately.",
   "factory_verification": {
-    "status": "factory_scheduler_current_source_lane_exhaustion_open_after_1648_manual_readback",
-    "latest_factory_output": "manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending",
-    "state_token": "latest_social_draft_factory.json@2026-05-21T16:48:20.268220+00:00",
-    "state_generated_at": "2026-05-21T16:48:20.268220+00:00",
-    "cron_last_run_at": "2026-05-21T15:43:36.862758+00:00",
-    "cron_next_run_at": "2026-05-21T17:44:19.764064+00:00",
-    "process_check": "2026-05-21T16:49:25Z",
-    "draft_count": 0,
-    "results_count": 0,
-    "media_count": 0,
     "airtable_record_id": null,
-    "zernio_draft_id": null,
-    "source_id": null,
-    "diagnosis": "Source-lane exhaustion / anti-repetition guard saturation remains open; current scheduled output produced zero drafts.",
-    "payload_safety": "No outbound Zernio payload/post exists for the current zero-draft tick; no publishNow/no live posting/no spend.",
-    "zernio_verification": "not_applicable_no_new_outbound_payload",
-    "editorial_qa": "No current generated public output to review; prior manifest+403/source-topic QA remains a separate blocker."
+    "cron_next_run_at": "2026-05-22T17:43:36.775776+00:00",
+    "draft_count": 0,
+    "latest_output": "manual-exact-run+recovery-2026-05-22T16:46:59Z_current-cron-delivery-pending",
+    "media_count": 0,
+    "note": "Factory scheduler cadence current/future-scheduled; source-lane exhaustion remains active.",
+    "process_check": "2026-05-22T16:48:02Z",
+    "results_len": 0,
+    "state_token": "latest_social_draft_factory.json@2026-05-22T16:46:59.587376+00:00",
+    "zernio_draft_id": null
   },
   "formal_breakout_count": 0,
   "high_share_watch_delta": 0,
@@ -250,392 +219,168 @@ Last updated: 2026-05-21T16:49:25Z
   "high_share_watch_shares": null,
   "high_share_watch_status": null,
   "high_share_watch_views": null,
-  "job_state": {
-    "factory": {
-      "id": "a97a7703af32",
-      "key": "factory",
-      "name": "GenLabs hourly educational Zernio draft factory",
-      "enabled": true,
-      "state": "scheduled",
-      "last_status": "ok",
-      "last_run_at": "2026-05-21T15:43:36.862758+00:00",
-      "next_run_at": "2026-05-21T17:44:19.764064+00:00",
-      "schedule": "every 60m",
-      "latest_output": "manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending",
-      "latest_outputs": [
-        "manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending"
-      ]
-    },
-    "import": {
-      "id": "93217f974384",
-      "key": "import",
-      "name": "GenLabs Zernio analytics Airtable import",
-      "enabled": true,
-      "state": "scheduled",
-      "last_status": "ok",
-      "last_run_at": "2026-05-21T16:33:18.510817+00:00",
-      "next_run_at": "2026-05-21T17:00:00+00:00",
-      "schedule": "*/30 * * * *",
-      "latest_output": "2026-05-21_16-33-18.md",
-      "latest_outputs": [
-        "2026-05-21_16-33-18.md"
-      ]
-    },
-    "breakout": {
-      "id": "041946b1fef6",
-      "key": "breakout",
-      "name": "hermes-breakout-watch",
-      "enabled": true,
-      "state": "scheduled",
-      "last_status": "ok",
-      "last_run_at": "2026-05-21T16:00:24.086787+00:00",
-      "next_run_at": "2026-05-21T17:00:00+00:00",
-      "schedule": "*/30 * * * *",
-      "latest_output": "2026-05-21_16-00-23.md",
-      "latest_outputs": [
-        "2026-05-21_16-00-23.md"
-      ]
-    },
-    "growth": {
-      "id": "e7cd01098059",
-      "key": "growth",
-      "name": "hermes-growth-check",
-      "enabled": true,
-      "state": "scheduled",
-      "last_status": "ok",
-      "last_run_at": "2026-05-21T16:10:55.947783+00:00",
-      "next_run_at": "2026-05-21T18:00:00+00:00",
-      "schedule": "0 */2 * * *",
-      "latest_output": "2026-05-21_16-10-55.md",
-      "latest_outputs": [
-        "2026-05-21_16-10-55.md"
-      ]
-    },
-    "issue": {
-      "id": "e2869f58ebe9",
-      "key": "issue",
-      "name": "hermes-issue-check",
-      "enabled": true,
-      "state": "scheduled",
-      "last_status": "ok",
-      "last_run_at": "2026-05-21T12:50:40.918350+00:00",
-      "next_run_at": "2026-05-21T18:30:00+00:00",
-      "schedule": "30 */6 * * *",
-      "latest_output": "2026-05-21_12-50-39.md",
-      "latest_outputs": [
-        "2026-05-21_12-50-39.md"
-      ]
-    },
-    "experiment": {
-      "id": "784e1c3b87f6",
-      "key": "experiment",
-      "name": "hermes-experiment-creator",
-      "enabled": true,
-      "state": "scheduled",
-      "last_status": "ok",
-      "last_run_at": "2026-05-21T12:20:49.862442+00:00",
-      "next_run_at": "2026-05-22T00:00:00+00:00",
-      "schedule": "0 */12 * * *",
-      "latest_output": "2026-05-21_12-20-47.md",
-      "latest_outputs": [
-        "2026-05-21_12-20-47.md"
-      ]
-    }
-  },
-  "latest_absolute_snapshot_at": "2026-05-21T16:34:48.314431+00:00",
-  "latest_breakout_output": "2026-05-21_16-00-23.md",
-  "latest_completed_breakout_output": "2026-05-21_16-00-23.md",
+  "latest_absolute_snapshot_at": "2026-05-22T16:39:03.965431+00:00",
   "latest_confirmed_breakout_delta": 0,
   "latest_confirmed_breakout_gap_to_100k": null,
   "latest_confirmed_breakout_hourly": 0.0,
   "latest_confirmed_breakout_platform_post_id": null,
   "latest_confirmed_breakout_shares": null,
   "latest_confirmed_breakout_views": null,
-  "latest_confirmed_snapshot_at": "2026-05-21T16:30:56.713025+00:00",
-  "latest_experiment_output": "2026-05-21_12-20-47.md",
-  "latest_factory_next_run_at": "2026-05-21T17:44:19.764064+00:00",
-  "latest_factory_output": "manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending",
-  "latest_factory_output_file": "manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending",
-  "latest_factory_state_token": "latest_social_draft_factory.json@2026-05-21T16:48:20.268220+00:00",
-  "latest_growth_output": "2026-05-21_16-10-55.md",
-  "latest_import_output": "2026-05-21_16-33-18.md",
-  "latest_imported_at": "2026-05-21T16:32:36.792576+00:00",
-  "latest_issue_output": "2026-05-21_12-50-39.md",
-  "latest_live_imported_at": "2026-05-21T16:32:36.792576+00:00",
-  "latest_reconciled_snapshot_at": "2026-05-21T16:34:48.314431+00:00",
-  "latest_scheduled_import_output": "2026-05-21_16-33-18.md",
-  "latest_snapshot_at": "2026-05-21T16:34:48.314431+00:00",
-  "normal_baseline_below_threshold_mover_count": 2,
+  "latest_confirmed_snapshot_at": "2026-05-22T16:30:30.417699+00:00",
+  "latest_factory_next_run_at": "2026-05-22T17:43:36.775776+00:00",
+  "latest_factory_output": "manual-exact-run+recovery-2026-05-22T16:46:59Z_current-cron-delivery-pending",
+  "latest_factory_state_token": "latest_social_draft_factory.json@2026-05-22T16:46:59.587376+00:00",
+  "latest_import_output": "2026-05-22_16-32-15.md",
+  "latest_imported_at": "2026-05-22T16:31:10.632296+00:00",
+  "latest_reconciled_snapshot_at": "2026-05-22T16:39:03.965431+00:00",
+  "latest_scheduled_import_output": "2026-05-22_16-32-15.md",
   "note": "Absolute metrics refreshed by zernio_growth_snapshot.py; confirmed velocity/baseline context is preserved separately.",
-  "post_baseline_mover_count": 0,
+  "post_baseline_import_below_threshold_movement_verification": {
+    "baseline_seen_at": "2026-05-22T16:30:30.417699+00:00",
+    "snapshot_at": "2026-05-22T16:39:03.965431+00:00",
+    "mover_count": 1,
+    "candidate_count": 0,
+    "strongest_mover_platform_post_id": "7641239648790007048",
+    "strongest_mover_delta": 3,
+    "note": "Import/readback found movement below breakout threshold; watch-only, no amplification."
+  },
+  "post_baseline_mover_count": 1,
   "post_import_refresh_window_delta_views": 0,
   "post_import_refresh_window_hourly": 0.0,
-  "previous_positive_delta": 247,
-  "previous_positive_hourly": 505.15,
-  "previous_positive_platform_post_id": "7634893611389259016",
+  "previous_positive_delta": 3,
+  "previous_positive_hourly": null,
+  "previous_positive_platform_post_id": "7641239648790007048",
   "primary_analytics_last_updated": "2026-05-19 10:10:58",
   "primary_gap_to_100k": 67928,
-  "primary_imported_at": "2026-05-21T16:32:36.792576+00:00",
+  "primary_imported_at": "2026-05-22T16:31:10.632296+00:00",
   "primary_latest_confirmed_delta": 0,
   "primary_latest_confirmed_hourly": 0.0,
   "primary_platform_post_id": "7634027210248097042",
   "primary_shares": 429,
   "primary_views": 32072,
-  "process_check": "2026-05-21T16:49:25Z",
-  "recent_72h_watch": {
-    "analytics_last_updated": "2026-05-21 13:05:40",
-    "caveat": "Below breakout threshold; 14:02 import found no additional movement; watch only.",
-    "delta": 9,
-    "gap": 98375,
-    "hourly": 17.94,
-    "label": "prompt-context workflow / asking AI too briefly for Thai SME practical work",
-    "latest_imported_at": "2026-05-21T15:45:32.216727+00:00",
-    "platform_post_id": "7641239648790007048",
-    "reason": "normal_baseline_below_threshold_movement_then_post_import_no_change",
-    "shares": 7,
-    "views": 1625
-  },
+  "process_check": "2026-05-22T16:48:02Z",
   "refresh_window_breakout_count": 0,
-  "scheduler_cadence_resolution": "2026-05-21_16-33-18.md import fresh after direct refresh; 2026-05-21_16-10-55.md growth delivered; manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending factory delivered zero-draft/source-lane blocker; current breakout markdown in-flight until delivery, not scheduler miss.",
-  "scheduler_note": "Breakout-watch 16:30 final readback: normal baseline `2026-05-21T16:30:56.713025+00:00` found 0 breakout candidates; direct import refreshed Airtable at `2026-05-21T16:32:36.792576+00:00` and scheduled import markdown `2026-05-21_16-33-18.md` delivered the same fresh analytics. Same-window snapshot `2026-05-21T16:34:48.314431+00:00` found 0 post-baseline movers and 0 candidates. Best remains `7634027210248097042` at 32,072 views / 429 shares / gap 67,928; protected GenLabs product-photo/no-prompt CTA is promo copy only. Latest completed growth output `2026-05-21_16-10-55.md` is delivered; current breakout markdown is in-flight until delivery, not a scheduler miss. No amplification, generation, Zernio send, public posting, or spend was triggered. Manual exact factory + required recovery readback `manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending` refreshed the current factory state: both exact/recovery paths returned `draft_count=0/results=[]`; current state `latest_social_draft_factory.json@2026-05-21T16:48:20.268220+00:00`. Source-lane exhaustion / anti-repetition guard saturation remains open; no Airtable/Zernio payload, draft, public posting, generation, or spend exists for this tick. Cron `a97a7703af32` is enabled/scheduled/ok with next_run_at `2026-05-21T17:44:19.764064+00:00`; process readback `2026-05-21T16:49:25Z` found no lingering factory/radar/import/snapshot process.",
-  "scheduler_state": "scheduler_current_import_growth_factory_delivered_current_breakout_inflight_not_scheduler_miss",
   "secondary_analytics_last_updated": "2026-05-19 20:46:50",
   "secondary_delta": 0,
   "secondary_gap_to_100k": 90625,
   "secondary_hourly": 0.0,
-  "secondary_imported_at": "2026-05-21T16:32:36.792576+00:00",
+  "secondary_imported_at": "2026-05-22T16:31:10.632296+00:00",
   "secondary_platform_post_id": "7635310153126087954",
   "secondary_shares": 79,
   "secondary_status": "previous_positive_momentum_watch_only_context",
   "secondary_views": 9375,
-  "strongest_mover_delta": 19,
-  "strongest_mover_hourly": 36.89,
+  "strongest_mover_delta": 3,
+  "strongest_mover_hourly": 21.03,
   "strongest_mover_platform_post_id": "7641239648790007048",
-  "strongest_mover_shares": 8,
-  "strongest_mover_status": "watch_only_no_formal_breakout",
-  "strongest_mover_views": 1654,
-  "watched_post_mover_count": 0
+  "strongest_mover_shares": 10,
+  "strongest_mover_status": "post_import_below_threshold_movement_watch_only",
+  "strongest_mover_views": 1680,
+  "watched_post_mover_count": 1
 }
 
-## Scheduler cadence watch
+## Scheduler cadence resolution
 {
-  "issue": "zernio_scheduler_readback_current_2026_05_21_1630",
-  "title": "Import/growth/factory readbacks current; current breakout output in-flight until delivery",
-  "severity": "info",
-  "status": "resolved_current_tick_import_1633_growth_1610_factory_1543_current_breakout_inflight_not_scheduler_miss",
-  "latest_evidence": "Breakout-watch 16:30 final readback: normal baseline `2026-05-21T16:30:56.713025+00:00` found 0 breakout candidates; direct import refreshed Airtable at `2026-05-21T16:32:36.792576+00:00` and scheduled import markdown `2026-05-21_16-33-18.md` delivered the same fresh analytics. Same-window snapshot `2026-05-21T16:34:48.314431+00:00` found 0 post-baseline movers and 0 candidates. Best remains `7634027210248097042` at 32,072 views / 429 shares / gap 67,928; protected GenLabs product-photo/no-prompt CTA is promo copy only. Latest completed growth output `2026-05-21_16-10-55.md` is delivered; current breakout markdown is in-flight until delivery, not a scheduler miss. No amplification, generation, Zernio send, public posting, or spend was triggered. Manual exact factory + required recovery readback `manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending` refreshed the current factory state: both exact/recovery paths returned `draft_count=0/results=[]`; current state `latest_social_draft_factory.json@2026-05-21T16:48:20.268220+00:00`. Source-lane exhaustion / anti-repetition guard saturation remains open; no Airtable/Zernio payload, draft, public posting, generation, or spend exists for this tick. Cron `a97a7703af32` is enabled/scheduled/ok with next_run_at `2026-05-21T17:44:19.764064+00:00`; process readback `2026-05-21T16:49:25Z` found no lingering factory/radar/import/snapshot process.",
-  "next_action": "No scheduler repair needed for current tick; continue next scheduled import/breakout/factory/growth checks.",
-  "last_verified_at": "2026-05-21T16:49:25Z",
-  "updated_at": "2026-05-21T16:49:25Z",
-  "process_check": "2026-05-21T16:49:25Z",
-  "job_state": {
-    "factory": {
-      "id": "a97a7703af32",
-      "key": "factory",
-      "name": "GenLabs hourly educational Zernio draft factory",
-      "enabled": true,
-      "state": "scheduled",
-      "last_status": "ok",
-      "last_run_at": "2026-05-21T15:43:36.862758+00:00",
-      "next_run_at": "2026-05-21T17:44:19.764064+00:00",
-      "schedule": "every 60m",
-      "latest_output": "manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending",
-      "latest_outputs": [
-        "manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending"
-      ]
-    },
-    "import": {
-      "id": "93217f974384",
-      "key": "import",
-      "name": "GenLabs Zernio analytics Airtable import",
-      "enabled": true,
-      "state": "scheduled",
-      "last_status": "ok",
-      "last_run_at": "2026-05-21T16:33:18.510817+00:00",
-      "next_run_at": "2026-05-21T17:00:00+00:00",
-      "schedule": "*/30 * * * *",
-      "latest_output": "2026-05-21_16-33-18.md",
-      "latest_outputs": [
-        "2026-05-21_16-33-18.md"
-      ]
-    },
-    "breakout": {
-      "id": "041946b1fef6",
-      "key": "breakout",
-      "name": "hermes-breakout-watch",
-      "enabled": true,
-      "state": "scheduled",
-      "last_status": "ok",
-      "last_run_at": "2026-05-21T16:00:24.086787+00:00",
-      "next_run_at": "2026-05-21T17:00:00+00:00",
-      "schedule": "*/30 * * * *",
-      "latest_output": "2026-05-21_16-00-23.md",
-      "latest_outputs": [
-        "2026-05-21_16-00-23.md"
-      ]
-    },
-    "growth": {
-      "id": "e7cd01098059",
-      "key": "growth",
-      "name": "hermes-growth-check",
-      "enabled": true,
-      "state": "scheduled",
-      "last_status": "ok",
-      "last_run_at": "2026-05-21T16:10:55.947783+00:00",
-      "next_run_at": "2026-05-21T18:00:00+00:00",
-      "schedule": "0 */2 * * *",
-      "latest_output": "2026-05-21_16-10-55.md",
-      "latest_outputs": [
-        "2026-05-21_16-10-55.md"
-      ]
-    },
-    "issue": {
-      "id": "e2869f58ebe9",
-      "key": "issue",
-      "name": "hermes-issue-check",
-      "enabled": true,
-      "state": "scheduled",
-      "last_status": "ok",
-      "last_run_at": "2026-05-21T12:50:40.918350+00:00",
-      "next_run_at": "2026-05-21T18:30:00+00:00",
-      "schedule": "30 */6 * * *",
-      "latest_output": "2026-05-21_12-50-39.md",
-      "latest_outputs": [
-        "2026-05-21_12-50-39.md"
-      ]
-    },
-    "experiment": {
-      "id": "784e1c3b87f6",
-      "key": "experiment",
-      "name": "hermes-experiment-creator",
-      "enabled": true,
-      "state": "scheduled",
-      "last_status": "ok",
-      "last_run_at": "2026-05-21T12:20:49.862442+00:00",
-      "next_run_at": "2026-05-22T00:00:00+00:00",
-      "schedule": "0 */12 * * *",
-      "latest_output": "2026-05-21_12-20-47.md",
-      "latest_outputs": [
-        "2026-05-21_12-20-47.md"
-      ]
-    }
-  }
+  "cron_next_run_at": "2026-05-22T17:43:36.775776+00:00",
+  "issue": "zernio_factory_scheduler_cadence_resolved_2026_05_22_1647",
+  "latest_evidence": "Factory scheduler cadence resolved by 16:47 manual exact+recovery readback; cron a97a7703af32 enabled/scheduled next_run_at 2026-05-22T17:43:36.775776+00:00; no factory/radar process at 2026-05-22T16:48:02Z. Source-lane exhaustion remains open separately.",
+  "latest_output": "manual-exact-run+recovery-2026-05-22T16:46:59Z_current-cron-delivery-pending",
+  "next_action": "Keep production cron enabled/draft-only; focus recovery on fresh source supply, not scheduler repair.",
+  "process_check": "2026-05-22T16:48:02Z",
+  "severity": "low",
+  "state_token": "latest_social_draft_factory.json@2026-05-22T16:46:59.587376+00:00",
+  "status": "resolved_scheduler_current_source_lane_exhaustion_open",
+  "updated_at": "2026-05-22T16:48:02Z"
 }
 
 ## Factory verification
-{
-  "status": "factory_scheduler_current_source_lane_exhaustion_open_after_1648_manual_readback",
-  "latest_factory_output": "manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending",
-  "state_token": "latest_social_draft_factory.json@2026-05-21T16:48:20.268220+00:00",
-  "state_generated_at": "2026-05-21T16:48:20.268220+00:00",
-  "cron_last_run_at": "2026-05-21T15:43:36.862758+00:00",
-  "cron_next_run_at": "2026-05-21T17:44:19.764064+00:00",
-  "process_check": "2026-05-21T16:49:25Z",
-  "draft_count": 0,
-  "results_count": 0,
-  "media_count": 0,
-  "airtable_record_id": null,
-  "zernio_draft_id": null,
-  "source_id": null,
-  "diagnosis": "Source-lane exhaustion / anti-repetition guard saturation remains open; current scheduled output produced zero drafts.",
-  "payload_safety": "No outbound Zernio payload/post exists for the current zero-draft tick; no publishNow/no live posting/no spend.",
-  "zernio_verification": "not_applicable_no_new_outbound_payload",
-  "editorial_qa": "No current generated public output to review; prior manifest+403/source-topic QA remains a separate blocker."
-}
+{}
 
 ## Current issues
 [
   {
     "issue": "no_posts_in_last_72h",
-    "severity": "medium",
-    "last_verified_at": "2026-05-21T16:49:25Z",
-    "updated_at": "2026-05-21T16:49:25Z",
-    "process_check": "2026-05-21T16:49:25Z"
+    "severity": "medium"
   },
   {
     "issue": "active_experiment_result_closure_overdue_or_blocked",
-    "last_verified_at": "2026-05-21T16:49:25Z",
-    "latest_evidence": "Breakout-watch 16:30 final readback: normal baseline `2026-05-21T16:30:56.713025+00:00` found 0 breakout candidates; direct import refreshed Airtable at `2026-05-21T16:32:36.792576+00:00` and scheduled import markdown `2026-05-21_16-33-18.md` delivered the same fresh analytics. Same-window snapshot `2026-05-21T16:34:48.314431+00:00` found 0 post-baseline movers and 0 candidates. Best remains `7634027210248097042` at 32,072 views / 429 shares / gap 67,928; protected GenLabs product-photo/no-prompt CTA is promo copy only. Latest completed growth output `2026-05-21_16-10-55.md` is delivered; current breakout markdown is in-flight until delivery, not a scheduler miss. No amplification, generation, Zernio send, public posting, or spend was triggered.",
+    "latest_evidence": "Active experiment/result closure remains overdue while no current breakout exists.",
     "next_action": "Backfill/close active experiment results before scaling more variants.",
-    "process_check": "2026-05-21T16:49:25Z",
+    "process_check": "2026-05-22T16:48:02Z",
     "severity": "medium",
     "status": "open_result_closure_backfill_before_scaling_more_experiments",
-    "title": "Active experiment result closure overdue or blocked",
-    "updated_at": "2026-05-21T16:49:25Z"
+    "updated_at": "2026-05-22T16:48:02Z"
   },
   {
-    "issue": "zernio_factory_zernio_post_forbidden_prior_2026_05_21_0135_and_2026_05_20_1239",
-    "last_verified_at": "2026-05-21T16:49:25Z",
-    "latest_evidence": "Manual exact factory + required recovery readback `manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending` refreshed the current factory state: both exact/recovery paths returned `draft_count=0/results=[]`; current state `latest_social_draft_factory.json@2026-05-21T16:48:20.268220+00:00`. Source-lane exhaustion / anti-repetition guard saturation remains open; no Airtable/Zernio payload, draft, public posting, generation, or spend exists for this tick. Cron `a97a7703af32` is enabled/scheduled/ok with next_run_at `2026-05-21T17:44:19.764064+00:00`; process readback `2026-05-21T16:49:25Z` found no lingering factory/radar/import/snapshot process.",
-    "next_action": "Fix Zernio create permission/token/account access; retry only after regenerated/source-topic-fit manifest is available.",
-    "process_check": "2026-05-21T16:49:25Z",
-    "severity": "high",
-    "status": "open_prior_manifest_airtable_not_sent_zernio_post_403_permission_blocker",
-    "title": "Prior Zernio POST 403 permission/API blocker — separate from current zero-draft tick",
-    "updated_at": "2026-05-21T16:49:25Z",
-    "cron_next_run_at": null,
-    "latest_factory_output": null
+    "issue": "zernio_factory_zernio_post_forbidden_prior_2026_05_22_1152",
+    "latest_evidence": "Separate prior 11:52 manifest/Airtable state hit Zernio POST 403; prior 14:03 scheduler/source context is separate.",
+    "next_action": "Fix Zernio create permission/API-token/account access before retrying completed manifests.",
+    "process_check": "2026-05-22T16:48:02Z",
+    "severity": "critical",
+    "status": "open_prior_zernio_post_403_permission_blocker",
+    "updated_at": "2026-05-22T16:48:02Z"
   },
   {
-    "issue": "zernio_factory_source_topic_routing_mismatch_prior_2026_05_20_1239",
-    "last_verified_at": "2026-05-21T16:49:25Z",
-    "latest_evidence": "Manual exact factory + required recovery readback `manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending` refreshed the current factory state: both exact/recovery paths returned `draft_count=0/results=[]`; current state `latest_social_draft_factory.json@2026-05-21T16:48:20.268220+00:00`. Source-lane exhaustion / anti-repetition guard saturation remains open; no Airtable/Zernio payload, draft, public posting, generation, or spend exists for this tick. Cron `a97a7703af32` is enabled/scheduled/ok with next_run_at `2026-05-21T17:44:19.764064+00:00`; process readback `2026-05-21T16:49:25Z` found no lingering factory/radar/import/snapshot process.",
-    "next_action": "Patch source-specific content-brief routing or regenerate from topic-fit source before any Zernio retry.",
-    "process_check": "2026-05-21T16:49:25Z",
+    "issue": "zernio_factory_source_topic_routing_mismatch_prior_2026_05_22_1152",
+    "latest_evidence": "Prior generated draft idea collapsed into an HR interview-scorecard carousel with stray tool chip; review-only/not KPI-ready until routing is fixed.",
+    "next_action": "Repair source-topic routing before retrying completed manifests.",
+    "process_check": "2026-05-22T16:48:02Z",
     "severity": "high",
-    "status": "open_source_topic_routing_mismatch_review_only",
-    "title": "Prior/current factory source-topic routing mismatch",
-    "updated_at": "2026-05-21T16:49:25Z",
-    "cron_next_run_at": null,
-    "latest_factory_output": null
+    "status": "open_prior_source_topic_routing_mismatch_review_only",
+    "updated_at": "2026-05-22T16:48:02Z"
   },
   {
     "issue": "learning_loop_structured_performance_experiments_backfill_missing",
-    "last_verified_at": "2026-05-21T16:49:25Z",
-    "latest_evidence": "Breakout-watch 16:30 final readback: normal baseline `2026-05-21T16:30:56.713025+00:00` found 0 breakout candidates; direct import refreshed Airtable at `2026-05-21T16:32:36.792576+00:00` and scheduled import markdown `2026-05-21_16-33-18.md` delivered the same fresh analytics. Same-window snapshot `2026-05-21T16:34:48.314431+00:00` found 0 post-baseline movers and 0 candidates. Best remains `7634027210248097042` at 32,072 views / 429 shares / gap 67,928; protected GenLabs product-photo/no-prompt CTA is promo copy only. Latest completed growth output `2026-05-21_16-10-55.md` is delivered; current breakout markdown is in-flight until delivery, not a scheduler miss. No amplification, generation, Zernio send, public posting, or spend was triggered.",
-    "next_action": "Backfill Performance/Experiments rows for active ChatGPT/NotebookLM/software-tip experiments.",
-    "process_check": "2026-05-21T16:49:25Z",
+    "latest_evidence": "Structured Performance/Experiments backfill remains needed for active ChatGPT/NotebookLM/software-tip experiments.",
+    "next_action": "Backfill Performance/Experiments rows and mark continue/stop/remix decisions.",
+    "process_check": "2026-05-22T16:48:02Z",
     "severity": "medium",
     "status": "open_result_closure_backfill_before_scaling",
-    "title": "Structured Performance/Experiments backfill missing",
-    "updated_at": "2026-05-21T16:49:25Z"
+    "updated_at": "2026-05-22T16:48:02Z"
   },
   {
     "issue": "zernio_analytics_zero_metric_regression_guarded_2026_05_12_1415",
-    "last_verified_at": "2026-05-21T16:49:25Z",
-    "latest_evidence": "CTA guarded scan remains clean: post `7634027210248097042` is ChatGPT productivity/workflow evidence; protected CTA is promo copy only. Import `2026-05-21_16-33-18.md` preserved positive metrics at 32,072 views / 429 shares.",
+    "latest_evidence": "Import `2026-05-22_16-32-15.md` preserved best post at 32,072 views / 429 shares; CTA unsafe count 0.",
     "next_action": "Continue guarding positive-to-zero imports and protected CTA classification.",
-    "process_check": "2026-05-21T16:49:25Z",
+    "process_check": "2026-05-22T16:48:02Z",
     "severity": "medium",
     "status": "guard_active_no_zero_metric_reset_cta_ok",
-    "title": "Zero-metric regression and protected CTA guard",
-    "updated_at": "2026-05-21T16:49:25Z"
+    "updated_at": "2026-05-22T16:48:02Z"
   },
   {
     "airtable_record_id": null,
-    "cron_next_run_at": "2026-05-21T17:44:19.764064+00:00",
-    "issue": "zernio_factory_source_lane_exhaustion_current_2026_05_21_1648",
-    "last_verified_at": "2026-05-21T16:49:25Z",
-    "latest_evidence": "Manual exact factory + required recovery readback `manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending` refreshed the current factory state: both exact/recovery paths returned `draft_count=0/results=[]`; current state `latest_social_draft_factory.json@2026-05-21T16:48:20.268220+00:00`. Source-lane exhaustion / anti-repetition guard saturation remains open; no Airtable/Zernio payload, draft, public posting, generation, or spend exists for this tick. Cron `a97a7703af32` is enabled/scheduled/ok with next_run_at `2026-05-21T17:44:19.764064+00:00`; process readback `2026-05-21T16:49:25Z` found no lingering factory/radar/import/snapshot process.",
-    "latest_factory_output": "manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending",
-    "next_action": "Feed fresh non-repeating practical Thai software-tip/service-industry sources into the factory, prioritizing ChatGPT and NotebookLM, then Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude Artifacts/Projects, and Zapier/Make. Keep production cron enabled/draft-only; do not force duplicate or weak drafts.",
-    "priority": "critical",
-    "process_check": "2026-05-21T16:49:25Z",
+    "cron_next_run_at": "2026-05-22T17:43:36.775776+00:00",
+    "issue": "zernio_factory_source_lane_exhaustion_current_2026_05_22_1647",
+    "latest_evidence": "Factory output `manual-exact-run+recovery-2026-05-22T16:46:59Z_current-cron-delivery-pending` delivered current zero-draft/source-lane state `latest_social_draft_factory.json@2026-05-22T16:46:59.587376+00:00`: draft_count=0/results=[]; no current Airtable Carousel Post/Zernio payload/draft and no relevant import/snapshot/factory/radar/daily-log process running at 2026-05-22T16:08:38Z. Cron a97a7703af32 enabled/scheduled next_run_at `2026-05-22T17:43:36.775776+00:00`. Feed fresh non-repeating practical Thai software-tip/service-industry sources; keep production draft-only.",
+    "latest_output": "manual-exact-run+recovery-2026-05-22T16:46:59Z_current-cron-delivery-pending",
+    "media_count": 0,
+    "process_check": "2026-05-22T16:48:02Z",
     "severity": "critical",
     "source_id": null,
-    "state_token": "latest_social_draft_factory.json@2026-05-21T16:48:20.268220+00:00",
-    "status": "open_source_lane_exhaustion_current_1532_manual_exact_recovery_zero_draft",
-    "title": "Current factory zero-draft source-lane exhaustion",
-    "updated_at": "2026-05-21T16:49:25Z",
+    "state_token": "latest_social_draft_factory.json@2026-05-22T16:46:59.587376+00:00",
+    "status": "open_current_zero_draft_source_lane_exhaustion",
+    "title": "Factory source-lane exhaustion — manual exact+recovery zero-draft at 16:47Z",
+    "updated_at": "2026-05-22T16:48:02Z",
     "zernio_draft_id": null
+  },
+  {
+    "cron_next_run_at": "2026-05-22T17:43:36.775776+00:00",
+    "issue": "zernio_factory_scheduler_cadence_resolved_2026_05_22_1647",
+    "latest_evidence": "Factory scheduler cadence resolved by 16:47 manual exact+recovery readback; cron a97a7703af32 enabled/scheduled next_run_at 2026-05-22T17:43:36.775776+00:00; no factory/radar process at 2026-05-22T16:48:02Z. Source-lane exhaustion remains open separately.",
+    "latest_output": "manual-exact-run+recovery-2026-05-22T16:46:59Z_current-cron-delivery-pending",
+    "next_action": "Check next scheduler tick/readback for a97a7703af32; do not trigger generation/spend/public posting from breakout-watch.",
+    "process_check": "2026-05-22T16:48:02Z",
+    "severity": "medium",
+    "state_token": "latest_social_draft_factory.json@2026-05-22T16:46:59.587376+00:00",
+    "status": "resolved_scheduler_current_source_lane_exhaustion_open",
+    "updated_at": "2026-05-22T16:48:02Z"
   }
 ]
 
 ## Last 3 useful lessons
 [
-  "Breakout-watch 2026-05-21T16:49:25Z: 16:30 baseline plus direct/scheduled import 2026-05-21_16-33-18.md found 0 post-baseline movers and 0 breakout candidates; no amplification/generation/Zernio send/public posting/spend.",
-  "KPI 2026-05-21T16:34:48.314431+00:00: best remains `7634027210248097042` (ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items) at 32,072 views / 429 shares / gap 67,928; protected CTA stays promo copy only.",
-  "Factory readback 2026-05-21T16:49:25Z: factory output manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending confirms zero-draft/source-lane exhaustion with cron future-scheduled 2026-05-21T17:44:19.764064+00:00; no outbound payload/post/spend."
+  "Breakout watch 16:30: latest import `2026-05-22_16-32-15.md` / Imported At `2026-05-22T16:31:10.632296+00:00` found no formal breakout; strongest movement was watch-only `7641239648790007048` +3 views to 1680, below threshold; no amplification.",
+  "Best post remains ChatGPT practical numbered work-output tips, not the protected product-photo/no-prompt CTA.",
+  "Factory scheduler concern reopened: `manual-exact-run+recovery-2026-05-22T16:46:59Z_current-cron-delivery-pending` is still the latest output and a97a7703af32 next_run_at `2026-05-22T17:43:36.775776+00:00` is current/future-scheduled with fresh zero-draft readback verified at 2026-05-22T16:48:02Z; keep production enabled/draft-only and source-lane replenishment open."
 ]
 
 ## Active experiments
@@ -1512,7 +1257,7 @@ Last updated: 2026-05-21T16:49:25Z
     "tool": "Perplexity / cited local research",
     "topic": "Use Perplexity to find cited customer questions, review pain points, competitor explanation gaps, and safe content angles for a 7-day local-service content calendar.",
     "visual_brief": "Perplexity search/result cards with citation pins, local service review bubbles, pain-point buckets, and 7-day content calendar board; no generic prompt-context arrows.",
-    "why_views_saves": "Expansion tool test that helps fix source-lane exhaustion with cited, non-repeating local content ideas. It is distinct from the older Perplexity competitor-offer scan because the output is a content calendar from customer pains, not pricing/offer benchmarking."
+    "why_views_saves": "Expansion tool test that helps fix source-topic/Zernio create blocker with cited, non-repeating local content ideas. It is distinct from the older Perplexity competitor-offer scan because the output is a content calendar from customer pains, not pricing/offer benchmarking."
   },
   {
     "audience": "Thai cafe, restaurant, salon, clinic, spa, repair-shop, tutor-school, and local-service owners/admins who start each day with messy sales, booking, review, and inbox notes.",
@@ -1797,7 +1542,7 @@ Last updated: 2026-05-21T16:49:25Z
     "tool": "Claude Artifacts / Claude Projects",
     "topic": "Prototype a small service-intake Artifact that collects job details, triages risk, estimates next checks, prepares technician handoff, and keeps human approval before quoting/dispatch.",
     "visual_brief": "Aircon/home-repair dispatch board, form fields, triage tags, technician brief card, human approval stamp, and automation-later arrow; avoid generic AI-agent chips without the intake form.",
-    "why_views_saves": "Expansion test beyond ChatGPT/NotebookLM with a concrete mini-tool workflow. It addresses factory source-lane exhaustion by adding a fresh service-industry + software-tool angle, while avoiding the generic AI-agent/HR-scorecard routing failure."
+    "why_views_saves": "Expansion test beyond ChatGPT/NotebookLM with a concrete mini-tool workflow. It addresses factory source-topic/Zernio create blocker by adding a fresh service-industry + software-tool angle, while avoiding the generic AI-agent/HR-scorecard routing failure."
   },
   {
     "audience": "Thai gyms, Muay Thai/yoga/pilates studios, personal trainers, and fitness service admins following up trial-class leads.",
@@ -1873,220 +1618,137 @@ Last updated: 2026-05-21T16:49:25Z
     "tool": "Canva AI / Magic Design; optional GenLabs visual pre-step for no-prompt promo/hero visuals when assets are weak",
     "topic": "Use Canva AI to turn event packages, mood boards, inclusions/exclusions, timelines, and client FAQs into visual package cards, comparison slides, and inquiry-ready assets.",
     "why_views_saves": "Expansion test beyond ChatGPT/NotebookLM with a visual tool that naturally connects to GenLabs. Event/wedding packages need visual comparison cards; the template/asset checklist is saveable and avoids generic prompt-context repetition."
+  },
+  {
+    "classification": "draft_only_recovery_backlog",
+    "hook": "ผ้าหาย/คราบไม่ออก ลูกค้าโกรธ? 7 วิธีใช้ ChatGPT ทำใบรับงาน+คำตอบเคลมให้ร้านซักรีด",
+    "name": "ChatGPT Laundry/Dry-Cleaning Claim Intake — 7 tips",
+    "source_id": "kpi-exp-0522-0000-chatgpt-laundry-claim-intake",
+    "tool": "ChatGPT"
+  },
+  {
+    "classification": "draft_only_recovery_backlog",
+    "hook": "พัสดุล่าช้า/COD/คืนของตอบไม่ตรง? 7 วิธีใช้ NotebookLM ทำ answer book จาก policy ขนส่งจริง",
+    "name": "NotebookLM Delivery/COD Policy Answer Book — 7 tips",
+    "source_id": "kpi-exp-0522-0000-notebooklm-delivery-cod-answer-book",
+    "tool": "NotebookLM"
+  },
+  {
+    "classification": "draft_only_recovery_backlog",
+    "hook": "คอร์สดีแต่ผู้ปกครองไม่เข้าใจ? 7 วิธีใช้ Gamma ทำสไลด์ขายคอร์ส/ทดลองเรียนให้ตัดสินใจเร็ว",
+    "name": "Gamma Language-School Course Sales Deck — 7 tips",
+    "source_id": "kpi-exp-0522-0000-gamma-language-school-course-deck",
+    "tool": "Gamma"
+  },
+  {
+    "audience": "Thai hotels, tour operators, travel desks, booking admins, and service SMEs handling cancellations/reschedules.",
+    "classification": "draft_only_recovery_backlog",
+    "created_at": "2026-05-22T12:42:11Z",
+    "decision_rule": "IF WORKS: Continue/remix into hotel booking, tour reschedule, spa appointment, and clinic cancellation variants. IF FAILS: Rehook around “ยกเลิกทีเดียวเสียยอดทั้งแพ็กเกจ”; stop after 2 weak cancellation-reply variants below channel average with weak shares/comments.",
+    "hook": "ลูกค้าขอยกเลิก/เลื่อนทริปกะทันหัน? 7 วิธีใช้ ChatGPT ทำคำตอบ+ทางเลือกที่ไม่เสียยอด",
+    "name": "ChatGPT Hotel/Tour Cancellation Recovery Reply Kit — 7 tips",
+    "source_id": "kpi-exp-0522-1200-chatgpt-hotel-tour-cancellation-recovery",
+    "success_metric": "2h: ≥300 views and ≥3 shares/comments; watch for hotel/tour/admin viewers asking for cancellation/rebooking templates. 24h: ≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
+    "tips": [
+      "รวม booking detail, policy ยกเลิก/เลื่อน, ราคา, มัดจำ, วันเดินทาง และแชทลูกค้า แล้วลบชื่อ เบอร์ เลขจอง และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
+      "ให้ AI แยกเหตุผลการยกเลิกเป็นหมวด เช่น เปลี่ยนแผน อากาศไม่ดี งบไม่พอ ป่วย เข้าใจผิด หรือไม่มั่นใจในแพ็กเกจ",
+      "ขอทางเลือกที่ไม่ใช่ลดราคาอย่างเดียว: เลื่อนวัน, credit ไว้ใช้ครั้งหน้า, เปลี่ยนแพ็กเกจ, เพิ่มข้อมูลก่อนตัดสินใจ, หรือส่งต่อเจ้าของอนุมัติ",
+      "ให้ ChatGPT ร่างคำตอบ 3 โทน: เห็นใจลูกค้า, อธิบายนโยบายชัด, และช่วยรักษาการจองแบบไม่กดดัน",
+      "ทำ internal note ให้ทีม: ต้องเช็กอะไร ใครอนุมัติได้ deadline ไหน หลักฐานอยู่ตรงไหน และอะไรห้ามรับปากเกินจริง",
+      "ตั้ง follow-up 24 ชม. / 3 วัน / ก่อนวันเดินทาง พร้อมข้อความสั้นที่ช่วยตัดสินใจ ไม่สแปม และเคารพ consent",
+      "ทุกสัปดาห์ให้ AI สรุปเหตุผลยกเลิกซ้ำ ๆ แล้วเสนอว่าควรแก้ FAQ, หน้าโปร, policy, หรือข้อความก่อนจองตรงไหน"
+    ],
+    "tool": "ChatGPT / Projects or Tasks optional"
+  },
+  {
+    "audience": "Thai pharmacies, health shops, clinic dispensary counters, and admins answering from labels, leaflets, and store policy.",
+    "classification": "draft_only_recovery_backlog",
+    "created_at": "2026-05-22T12:42:11Z",
+    "decision_rule": "IF WORKS: Continue/remix into clinic post-care, supplement-shop FAQ, beauty clinic contraindication, and medical-service policy answer books. IF FAILS: Rehook around “ตอบผิดเรื่องสุขภาพเสียความเชื่อใจ”; stop after 2 weak pharmacy/health answer-book variants.",
+    "hook": "ลูกค้าถามยา/อาหารเสริมแล้วทีมตอบไม่ตรงกัน? 7 วิธีใช้ NotebookLM ทำ answer book จากฉลาก+policy จริง",
+    "name": "NotebookLM Pharmacy/Health-Shop Safety Answer Book — 7 tips",
+    "source_id": "kpi-exp-0522-1200-notebooklm-pharmacy-safety-answer-book",
+    "success_metric": "2h: ≥250 views and ≥3 shares/comments; watch for pharmacy/clinic/admin comments asking for answer-card or escalation templates. 24h: ≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
+    "tips": [
+      "อัปโหลดฉลากสินค้า เอกสารกำกับยา/อาหารเสริม price list policy คืนสินค้า delivery FAQ เก่า และข้อจำกัดร้านเป็น source ของ NotebookLM",
+      "ถาม NotebookLM ให้รวบรวมคำถามที่ลูกค้าถามบ่อย เช่น วิธีใช้ ข้อควรระวัง ใครไม่ควรใช้ ราคา ส่งได้ไหม และต้องปรึกษาใคร พร้อม citation",
+      "ทำ answer card สำหรับ LINE/inbox: คำตอบหลัก ข้อมูลที่ต้องถามเพิ่ม citation จาก source และประโยคส่งต่อเภสัชกร/ผู้เชี่ยวชาญ",
+      "แบ่งคำตอบเป็นเขียว/เหลือง/แดง: ตอบได้จาก source, ต้องให้เภสัชกรเช็ก, และต้องแนะนำให้พบแพทย์/ผู้เชี่ยวชาญทันที",
+      "ให้ AI rewrite คำตอบให้อ่านง่ายและไม่วินิจฉัย ไม่สั่งใช้ยาแทนผู้เชี่ยวชาญ และไม่รับปากผลลัพธ์เกินจริง",
+      "สร้าง quiz/roleplay 5 เคสให้ทีมซ้อมตอบ เช่น แพ้ยา ตั้งครรภ์ ใช้ร่วมกับยาอื่น ลืมวิธีใช้ หรือถามผลข้างเคียง",
+      "ตั้งรอบอัปเดต source ทุกครั้งที่ฉลาก ราคา policy หรือคำแนะนำผู้เชี่ยวชาญเปลี่ยน แล้วให้ NotebookLM หา answer card ที่ต้องแก้"
+    ],
+    "tool": "NotebookLM / source-grounded Q&A"
+  },
+  {
+    "audience": "Thai service SMEs, freelancers, clinics, tutors, agencies, repair shops, and admins tracking invoices, deposits, and overdue payments.",
+    "classification": "draft_only_recovery_backlog",
+    "created_at": "2026-05-22T12:42:11Z",
+    "decision_rule": "IF WORKS: Continue/remix into invoice tracker, deposit/booking tracker, VAT document follow-up, and freelancer client-payment variants. IF FAILS: Stop Gemini Sheets finance variants after 2 misses below channel average or if rendered copy becomes generic prompt/context advice.",
+    "hook": "เงินเข้าออกมั่วจนไม่รู้ต้องทวงใคร? 7 วิธีใช้ Gemini in Sheets ทำ cashflow+ลูกหนี้รายสัปดาห์",
+    "name": "Gemini in Sheets Cashflow + Payment Follow-up Board — 7 tips",
+    "source_id": "kpi-exp-0522-1200-gemini-sheets-cashflow-payment-followup",
+    "success_metric": "2h: ≥220 views and ≥2 shares/comments; watch for comments asking for the Sheet template or payment reminder copy. 24h: ≥2,000 views or share_rate ≥0.8%; if below average but saves/comments are strong, keep as expansion learning.",
+    "tips": [
+      "ทำชีตพื้นฐาน: ลูกค้า/โปรเจกต์ invoice มูลค่า due date มัดจำ สถานะ ช่องทางติดต่อ last follow-up และ note ความเสี่ยง",
+      "ให้ Gemini แบ่งสถานะเป็น paid, due soon, overdue, partial paid, disputed, waiting approval, และห้ามทักตอนนี้",
+      "ถาม cash-in 7/14/30 วันข้างหน้า: เงินที่คาดว่าจะเข้า ช่องว่างเงินสด และยอดที่เสี่ยงหลุดจาก deadline",
+      "ให้ AI จัดลำดับลูกหนี้ที่ควรตามก่อนจากยอดเงิน อายุหนี้ ความสัมพันธ์ และเหตุผลที่ไม่ควรทักแบบแข็งเกินไป",
+      "สร้างข้อความ follow-up 3 โทน: สุภาพ เตือนกำหนด และขอเอกสาร/ยืนยันยอด พร้อมเลข invoice/next step ชัด",
+      "ทำ stop-list ก่อนส่ง: ลูกค้าจ่ายแล้ว มี dispute ไม่มี consent ติดต่อผิดคน หรือเคสที่ต้องให้เจ้าของ/บัญชีตรวจ",
+      "ทำ dashboard รายสัปดาห์: เก็บได้เท่าไร ค้างเท่าไร ใครต้องทักวันนี้ ข้อความแบบไหนได้ผล และ template ไหนต้องแก้"
+    ],
+    "tool": "Gemini in Google Sheets / Google Workspace"
   }
 ]
 
 ## Latest experiment creator
 {
-  "checked_at": "2026-05-21T16:49:25Z",
   "classification": "draft_only_recovery_backlog",
-  "created_at": "2026-05-21T12:08:14Z",
-  "cron": "hermes-experiment-creator",
-  "current_breakout_output_state": "current_breakout_1630_in_flight_until_delivery_not_scheduler_miss; latest_completed:2026-05-21_16-00-23.md; next:2026-05-21T17:00:00+00:00",
-  "current_experiment_output_state": "experiment_output_delivered_current_tick:2026-05-21_12-20-47.md; next:2026-05-22T00:00:00+00:00",
-  "current_factory_output_state": "factory_output_delivered_current_tick:manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending; source_lane_exhaustion_open; next:2026-05-21T17:44:19.764064+00:00",
-  "current_growth_check_output_state": "growth_output_delivered_current_tick:2026-05-21_16-10-55.md; next:2026-05-21T18:00:00+00:00",
-  "current_issue_count": 7,
-  "data_signal": "Breakout-watch 16:30 final readback: normal baseline `2026-05-21T16:30:56.713025+00:00` found 0 breakout candidates; direct import refreshed Airtable at `2026-05-21T16:32:36.792576+00:00` and scheduled import markdown `2026-05-21_16-33-18.md` delivered the same fresh analytics. Same-window snapshot `2026-05-21T16:34:48.314431+00:00` found 0 post-baseline movers and 0 candidates. Best remains `7634027210248097042` at 32,072 views / 429 shares / gap 67,928; protected GenLabs product-photo/no-prompt CTA is promo copy only. Latest completed growth output `2026-05-21_16-10-55.md` is delivered; current breakout markdown is in-flight until delivery, not a scheduler miss. No amplification, generation, Zernio send, public posting, or spend was triggered.",
+  "created_at": "2026-05-22T12:17:28Z",
+  "data_signal": "Best remains `7634027210248097042` at 32,072 views / 429 shares / gap 67,928; latest import `2026-05-22_16-32-15.md` found 0 candidates and a below-threshold +3 watch-only mover `7641239648790007048`.",
   "experiments": [
     {
-      "audience": "Thai gyms, Muay Thai/yoga/pilates studios, personal trainers, and fitness service admins following up trial-class leads.",
-      "caption": "ทดลองคลาสแล้วลูกค้าเงียบ อย่าทักมั่ว ให้ ChatGPT ช่วยแยกเป้าหมาย/ข้อกังวล แล้วทำ follow-up 7 วันแบบสุภาพ ไม่สัญญาผลลัพธ์เกินจริง #ChatGPT #ฟิตเนส #AIสำหรับSME",
       "classification": "draft_only_recovery_backlog",
-      "created_at": "2026-05-21T12:08:14Z",
-      "decision_rule": "Continue/remix into Muay Thai, yoga, clinic rehab, and personal-trainer versions if target hits; rehook around “ทดลองคลาสแล้วหาย” if comments are strong but reach is weak; stop after 2 misses below channel average with weak share/comment signal.",
-      "format": "Thai handwritten/sketchnote carousel; 7 numbered tips over 8 lesson slides + reusable GenLabs CTA only at the end.",
-      "hook": "ทดลองคลาสแล้วไม่กลับมา? 7 วิธีใช้ ChatGPT ทำ follow-up ให้สมาชิกใหม่แบบไม่ตื้อ",
-      "name": "ChatGPT Gym/Studio Trial-Class Retention Follow-up — 7 tips",
-      "source_id": "kpi-exp-0521-1200-chatgpt-gym-trial-retention-followup",
-      "target_24h": ">=2,500 views or share_rate >=0.8%; if saves appear, target >=5 saves.",
-      "target_2h": ">=300 views and >=3 shares/comments; watch for gym/studio owners asking for follow-up templates.",
-      "tips": [
-        "รวมโน้ตทดลองคลาส เป้าหมายลูกค้า อาการบาดเจ็บที่ลูกค้าบอกเอง เวลาที่สะดวก และคำถามเรื่องราคา แล้วลบชื่อ เบอร์ และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
-        "ให้ AI แยกสถานะลูกค้า: เพิ่งทดลอง, ถามราคาแล้วเงียบ, สนใจคลาสกลุ่ม, ต้องการเทรนส่วนตัว, มีข้อจำกัดสุขภาพ, หรือยังไม่พร้อมจ่าย",
-        "ขอ top 3 motivation และ objection จากโน้ต เช่น อยากลดน้ำหนัก กลัวเจ็บ ไม่มีเวลา ราคาแรง หรือไม่มั่นใจว่าจะทำได้",
-        "สร้างแผน follow-up 7 วัน: หลังคลาสทันที, วันถัดไป, วันที่ 3, วันที่ 7 โดยกำหนดว่าแต่ละครั้งต้องช่วยอะไร ไม่ใช่ขายซ้ำอย่างเดียว",
-        "ให้ ChatGPT ร่างข้อความ 3 โทน: ให้กำลังใจ, ให้ข้อมูลคลาส/แพ็กเกจ, และชวนกลับมาลองอย่างสุภาพ โดยไม่เคลมผลลัพธ์สุขภาพเกินจริง",
-        "ทำข้อเสนอ next step ที่ตรงกับเป้าหมาย: คลาส beginner, เช็กท่าฟรี, trial อีกครั้ง, หรือคุยกับเทรนเนอร์ก่อนสมัคร",
-        "ทุกสัปดาห์ให้ AI สรุปว่า follow-up แบบไหนทำให้ลูกค้ากลับมา จองคลาส หรือถามต่อ แล้วปรับ template รอบหน้า"
-      ],
-      "tool": "ChatGPT / Projects or Tasks optional",
-      "topic": "Turn trial-class notes, fitness goals, objections, and class attendance into a 7-day non-spam follow-up plan, reply templates, and retention review loop.",
-      "why_views_saves": "Best KPI post is ChatGPT practical work-output at 32,072 views / 429 shares. This keeps the winning ChatGPT-work pattern but shifts to a fresh Thai service industry and a money/retention pain with saveable message templates."
+      "hook": "ลูกค้าขอยกเลิก/เลื่อนทริปกะทันหัน? 7 วิธีใช้ ChatGPT ทำคำตอบ+ทางเลือกที่ไม่เสียยอด",
+      "name": "ChatGPT Hotel/Tour Cancellation Recovery Reply Kit — 7 tips",
+      "source_id": "kpi-exp-0522-1200-chatgpt-hotel-tour-cancellation-recovery",
+      "tool": "ChatGPT"
     },
     {
-      "audience": "Thai childcare centers, nurseries, kindergartens, after-school programs, and admins answering parents from policies and daily notes.",
-      "caption": "ศูนย์เด็กเล็กตอบผู้ปกครองต้องอ้างอิงข้อมูลจริง เอา handbook/ตารางอาหาร/policy เข้า NotebookLM แล้วทำ handover card ให้ทีมตอบตรงกัน #NotebookLM #โรงเรียนอนุบาล #AIสำหรับSME",
       "classification": "draft_only_recovery_backlog",
-      "created_at": "2026-05-21T12:08:14Z",
-      "decision_rule": "Continue/remix into after-school, kindergarten, and tutoring parent-update versions if target hits; rehook around “ตอบผู้ปกครองผิดไม่ได้” if comments are good but reach is weak; stop after 2 weak NotebookLM childcare variants.",
-      "format": "Thai handwritten/sketchnote carousel; 7 numbered tips over 8 lesson slides + reusable GenLabs CTA only at the end.",
-      "hook": "ผู้ปกครองถามเรื่องลูกซ้ำทุกวัน? 7 วิธีใช้ NotebookLM ทำสมุดส่งต่อจาก policy จริง",
-      "name": "NotebookLM Childcare Parent Handover Book — 7 tips",
-      "source_id": "kpi-exp-0521-1200-notebooklm-childcare-parent-handover",
-      "target_24h": ">=2,500 views or share_rate >=0.8%; if saves appear, target >=5 saves.",
-      "target_2h": ">=250 views and >=3 shares/comments; watch for childcare/admin comments asking for handover-card templates.",
-      "tips": [
-        "อัปโหลด handbook ผู้ปกครอง ตารางอาหาร ตารางกิจกรรม policy ป่วย/รับส่ง/ค่าใช้จ่าย consent form และ FAQ เก่าเป็น source ของ NotebookLM",
-        "ถาม NotebookLM ให้รวบรวมคำถามที่ผู้ปกครองถามบ่อย เช่น กินอะไร นอนหลับไหม ป่วยต้องทำอย่างไร รับส่งได้กี่โมง พร้อม citation จากไฟล์จริง",
-        "ทำ daily handover card: อาหาร การนอน กิจกรรม อารมณ์ สิ่งที่ต้องเตรียมพรุ่งนี้ และคำถามที่ครู/แอดมินต้องตอบต่อ",
-        "แบ่งคำตอบเป็นเขียว/เหลือง/แดง: แอดมินตอบได้จาก source, ต้องถามครูก่อน, และต้องรีบแจ้งผู้ปกครอง/ผู้รับผิดชอบทันที",
-        "ให้ AI rewrite คำตอบให้อบอุ่นและสั้นสำหรับ LINE แต่ไม่วินิจฉัยสุขภาพ ไม่รับปากเกินจริง และไม่เปิดเผยข้อมูลเด็กคนอื่น",
-        "สร้าง quiz/roleplay 5 เคสให้ทีมซ้อมตอบ เช่น มารับช้า แพ้อาหาร มีไข้ ของหาย หรือผู้ปกครองกังวลเรื่องพฤติกรรม",
-        "ตั้งรอบอัปเดต source ทุกครั้งที่เมนู กิจกรรม เวลา pickup policy หรือค่าบริการเปลี่ยน แล้วให้ NotebookLM หา answer card ที่ต้องแก้"
-      ],
-      "tool": "NotebookLM / source-grounded Q&A / Audio Overview optional",
-      "topic": "Turn parent handbook, meal/activity schedules, sick-day policy, pickup rules, and consent forms into source-cited handover cards, parent replies, and staff roleplay.",
-      "why_views_saves": "NotebookLM is a priority Thailand tool lane. This uses source-grounded trust in a high-anxiety parent-communication workflow and is distinct from prior hotel/real-estate/menu/vet/elder-care answer books by centering childcare handover cards."
+      "hook": "ลูกค้าถามยา/อาหารเสริมแล้วทีมตอบไม่ตรงกัน? 7 วิธีใช้ NotebookLM ทำ answer book จากฉลาก+policy จริง",
+      "name": "NotebookLM Pharmacy/Health-Shop Safety Answer Book — 7 tips",
+      "source_id": "kpi-exp-0522-1200-notebooklm-pharmacy-safety-answer-book",
+      "tool": "NotebookLM"
     },
     {
-      "audience": "Thai wedding planners, event organizers, decorators, photographers, venue teams, and local service businesses selling packages visually.",
-      "caption": "แพ็กเกจงานดีแต่ลูกค้าไม่เห็นภาพ ลองใช้ Canva AI ทำ package card + timeline + checklist ให้ถามน้อยลง ตัดสินใจเร็วขึ้น #CanvaAI #จัดงานแต่ง #AIสำหรับSME",
       "classification": "draft_only_recovery_backlog",
-      "created_at": "2026-05-21T12:08:14Z",
-      "decision_rule": "Continue/remix into venue, photographer, florist, and seminar-package visual kits if target hits; stop Canva variants after 2 misses below channel average or if rendered slides drift into generic prompt advice instead of Canva visual workflow.",
-      "format": "Thai handwritten/sketchnote carousel; 7 numbered tips over 8 lesson slides + reusable GenLabs CTA only at the end. If hero visuals are missing, mention GenLabs as a practical no-prompt visual option, not as a hard sell.",
-      "hook": "จัดงาน/แต่งงานมีแพ็กเกจดีแต่ภาพขายไม่ชัด? 7 วิธีใช้ Canva AI ทำแพ็กเกจให้ลูกค้าตัดสินใจเร็ว",
-      "name": "Canva AI Event/Wedding Package Visual Kit — 7 tips",
-      "source_id": "kpi-exp-0521-1200-canva-event-package-visual-kit",
-      "target_24h": ">=2,000 views or share_rate >=0.8%; if below average but saves/comments are strong, keep as expansion learning.",
-      "target_2h": ">=220 views and >=2 shares/comments; watch for event/wedding/vendor comments asking for package-card templates.",
-      "tips": [
-        "รวมแพ็กเกจ ราคาเริ่มต้น สิ่งที่รวม/ไม่รวม รูปผลงาน mood board สถานที่ วันเวลา และคำถามลูกค้าบ่อยก่อนเปิด Canva",
-        "ให้ Canva Magic Design ทำ 3 format จากข้อมูลเดียวกัน: square carousel, story, และ one-page quote สำหรับส่งใน LINE",
-        "ทำ package comparison card: Basic / Standard / Premium พร้อมสิ่งที่ได้ ข้อจำกัด จำนวนคน เวลา และ next step ที่ลูกค้าต้องทำ",
-        "สร้าง timeline visual: inquiry → brief → deposit → design check → event day → after-service เพื่อให้ลูกค้าเข้าใจขั้นตอนเร็ว",
-        "เพิ่ม proof/mood-board slide: before-after, งานจริง, theme สี, หรือภาพบรรยากาศ; ถ้ารูปไม่พร้อม ให้ใช้ GenLabs ทำ hero visual แบบไม่ต้องเขียน prompt ยาว",
-        "เช็ก brand kit: โลโก้ สี ฟอนต์ เบอร์/LINE/QR อ่านง่ายบนมือถือ และข้อความไทยไม่แน่นเกินไป",
-        "ทำ A/B cover 2 แบบ: pain hook vs result hook แล้ววัดว่าแบบไหนได้คอมเมนต์/เซฟ/ทักถามแพ็กเกจมากกว่า"
-      ],
-      "tool": "Canva AI / Magic Design; optional GenLabs visual pre-step for no-prompt promo/hero visuals when assets are weak",
-      "topic": "Use Canva AI to turn event packages, mood boards, inclusions/exclusions, timelines, and client FAQs into visual package cards, comparison slides, and inquiry-ready assets.",
-      "why_views_saves": "Expansion test beyond ChatGPT/NotebookLM with a visual tool that naturally connects to GenLabs. Event/wedding packages need visual comparison cards; the template/asset checklist is saveable and avoids generic prompt-context repetition."
+      "hook": "เงินเข้าออกมั่วจนไม่รู้ต้องทวงใคร? 7 วิธีใช้ Gemini in Sheets ทำ cashflow+ลูกหนี้รายสัปดาห์",
+      "name": "Gemini in Sheets Cashflow + Payment Follow-up Board — 7 tips",
+      "source_id": "kpi-exp-0522-1200-gemini-sheets-cashflow-payment-followup",
+      "tool": "Gemini in Sheets"
     }
   ],
-  "factory_status": "Manual exact factory + required recovery readback `manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending` refreshed the current factory state: both exact/recovery paths returned `draft_count=0/results=[]`; current state `latest_social_draft_factory.json@2026-05-21T16:48:20.268220+00:00`. Source-lane exhaustion / anti-repetition guard saturation remains open; no Airtable/Zernio payload, draft, public posting, generation, or spend exists for this tick. Cron `a97a7703af32` is enabled/scheduled/ok with next_run_at `2026-05-21T17:44:19.764064+00:00`; process readback `2026-05-21T16:49:25Z` found no lingering factory/radar/import/snapshot process.",
-  "final_process_check": "2026-05-21T16:49:25Z",
-  "gate": "Draft-only recovery backlog only: no generation/posting/spend/Zernio send. Use after result-closure, source-lane replenishment, source-routing/editorial, and Zernio permission gates clear.",
-  "generation_triggered_by_this_run": false,
-  "job_state": {
-    "factory": {
-      "id": "a97a7703af32",
-      "key": "factory",
-      "name": "GenLabs hourly educational Zernio draft factory",
-      "enabled": true,
-      "state": "scheduled",
-      "last_status": "ok",
-      "last_run_at": "2026-05-21T15:43:36.862758+00:00",
-      "next_run_at": "2026-05-21T17:44:19.764064+00:00",
-      "schedule": "every 60m",
-      "latest_output": "manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending",
-      "latest_outputs": [
-        "manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending"
-      ]
-    },
-    "import": {
-      "id": "93217f974384",
-      "key": "import",
-      "name": "GenLabs Zernio analytics Airtable import",
-      "enabled": true,
-      "state": "scheduled",
-      "last_status": "ok",
-      "last_run_at": "2026-05-21T16:33:18.510817+00:00",
-      "next_run_at": "2026-05-21T17:00:00+00:00",
-      "schedule": "*/30 * * * *",
-      "latest_output": "2026-05-21_16-33-18.md",
-      "latest_outputs": [
-        "2026-05-21_16-33-18.md"
-      ]
-    },
-    "breakout": {
-      "id": "041946b1fef6",
-      "key": "breakout",
-      "name": "hermes-breakout-watch",
-      "enabled": true,
-      "state": "scheduled",
-      "last_status": "ok",
-      "last_run_at": "2026-05-21T16:00:24.086787+00:00",
-      "next_run_at": "2026-05-21T17:00:00+00:00",
-      "schedule": "*/30 * * * *",
-      "latest_output": "2026-05-21_16-00-23.md",
-      "latest_outputs": [
-        "2026-05-21_16-00-23.md"
-      ]
-    },
-    "growth": {
-      "id": "e7cd01098059",
-      "key": "growth",
-      "name": "hermes-growth-check",
-      "enabled": true,
-      "state": "scheduled",
-      "last_status": "ok",
-      "last_run_at": "2026-05-21T16:10:55.947783+00:00",
-      "next_run_at": "2026-05-21T18:00:00+00:00",
-      "schedule": "0 */2 * * *",
-      "latest_output": "2026-05-21_16-10-55.md",
-      "latest_outputs": [
-        "2026-05-21_16-10-55.md"
-      ]
-    },
-    "issue": {
-      "id": "e2869f58ebe9",
-      "key": "issue",
-      "name": "hermes-issue-check",
-      "enabled": true,
-      "state": "scheduled",
-      "last_status": "ok",
-      "last_run_at": "2026-05-21T12:50:40.918350+00:00",
-      "next_run_at": "2026-05-21T18:30:00+00:00",
-      "schedule": "30 */6 * * *",
-      "latest_output": "2026-05-21_12-50-39.md",
-      "latest_outputs": [
-        "2026-05-21_12-50-39.md"
-      ]
-    },
-    "experiment": {
-      "id": "784e1c3b87f6",
-      "key": "experiment",
-      "name": "hermes-experiment-creator",
-      "enabled": true,
-      "state": "scheduled",
-      "last_status": "ok",
-      "last_run_at": "2026-05-21T12:20:49.862442+00:00",
-      "next_run_at": "2026-05-22T00:00:00+00:00",
-      "schedule": "0 */12 * * *",
-      "latest_output": "2026-05-21_12-20-47.md",
-      "latest_outputs": [
-        "2026-05-21_12-20-47.md"
-      ]
-    }
-  },
-  "latest_breakout_output": "2026-05-21_16-00-23.md",
-  "latest_experiment_output": "2026-05-21_12-20-47.md",
-  "latest_factory_next_run_at": "2026-05-21T17:44:19.764064+00:00",
-  "latest_factory_output": "manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending",
-  "latest_growth_output": "2026-05-21_16-10-55.md",
-  "latest_import_output": "2026-05-21_16-33-18.md",
-  "latest_imported_at": "2026-05-21T16:32:36.792576+00:00",
-  "latest_issue_output": "2026-05-21_12-50-39.md",
-  "process_check": "2026-05-21T16:49:25Z",
-  "public_posting": false,
-  "scheduler_cadence_resolution": "2026-05-21_16-33-18.md import fresh after direct refresh; 2026-05-21_16-10-55.md growth delivered; manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending factory delivered zero-draft/source-lane blocker; current breakout markdown in-flight until delivery, not scheduler miss.",
-  "scheduler_note": "Breakout-watch 16:30 final readback: normal baseline `2026-05-21T16:30:56.713025+00:00` found 0 breakout candidates; direct import refreshed Airtable at `2026-05-21T16:32:36.792576+00:00` and scheduled import markdown `2026-05-21_16-33-18.md` delivered the same fresh analytics. Same-window snapshot `2026-05-21T16:34:48.314431+00:00` found 0 post-baseline movers and 0 candidates. Best remains `7634027210248097042` at 32,072 views / 429 shares / gap 67,928; protected GenLabs product-photo/no-prompt CTA is promo copy only. Latest completed growth output `2026-05-21_16-10-55.md` is delivered; current breakout markdown is in-flight until delivery, not a scheduler miss. No amplification, generation, Zernio send, public posting, or spend was triggered. Manual exact factory + required recovery readback `manual-exact-run+recovery-2026-05-21T16:48Z_current-cron-delivery-pending` refreshed the current factory state: both exact/recovery paths returned `draft_count=0/results=[]`; current state `latest_social_draft_factory.json@2026-05-21T16:48:20.268220+00:00`. Source-lane exhaustion / anti-repetition guard saturation remains open; no Airtable/Zernio payload, draft, public posting, generation, or spend exists for this tick. Cron `a97a7703af32` is enabled/scheduled/ok with next_run_at `2026-05-21T17:44:19.764064+00:00`; process readback `2026-05-21T16:49:25Z` found no lingering factory/radar/import/snapshot process.",
-  "scheduler_state": "scheduler_current_import_growth_factory_delivered_current_breakout_inflight_not_scheduler_miss",
+  "gate": "Draft-only recovery backlog only: no generation/posting/spend/Zernio send until result-closure, source-lane, prior Zernio POST 403, and editorial gates clear.",
+  "latest_experiment_output": "2026-05-22_12-17-28.md",
+  "latest_factory_next_run_at": "2026-05-22T17:43:36.775776+00:00",
+  "latest_factory_output": "manual-exact-run+recovery-2026-05-22T16:46:59Z_current-cron-delivery-pending",
+  "latest_factory_state_token": "latest_social_draft_factory.json@2026-05-22T16:46:59.587376+00:00",
+  "process_check": "2026-05-22T16:48:02Z",
+  "scheduler_state": "Import `2026-05-22_16-32-15.md` current with below-threshold +3 watch-only mover; latest completed breakout `2026-05-22_16-14-28.md` delivered no candidate; growth-check `2026-05-22_16-09-56.md` delivered; current breakout markdown is in-flight until delivery, not a scheduler miss; factory latest `manual-exact-run+recovery-2026-05-22T16:46:59Z_current-cron-delivery-pending` is current/future-scheduled for next_run_at `2026-05-22T17:43:36.775776+00:00` with fresh zero-draft readback verified at 2026-05-22T16:48:02Z, so one factory scheduler cadence is current.",
   "source_ids": [
-    "kpi-exp-0521-1200-chatgpt-gym-trial-retention-followup",
-    "kpi-exp-0521-1200-notebooklm-childcare-parent-handover",
-    "kpi-exp-0521-1200-canva-event-package-visual-kit"
+    "kpi-exp-0522-1200-chatgpt-hotel-tour-cancellation-recovery",
+    "kpi-exp-0522-1200-notebooklm-pharmacy-safety-answer-book",
+    "kpi-exp-0522-1200-gemini-sheets-cashflow-payment-followup"
   ],
-  "spending_triggered_by_this_run": false,
-  "current_import_output_state": "import_output_delivered_current_tick:2026-05-21_16-33-18.md; Imported At 2026-05-21T16:32:36.792576+00:00; next:2026-05-21T17:00:00+00:00",
-  "latest_evidence": "Growth-check 16:00 final readback: normal baseline `2026-05-21T16:01:33.698021+00:00` found 0 breakout candidates and 0 watched-post movers; breakout-watch output `2026-05-21_16-00-23.md` confirmed `No breakout candidate. Next check scheduled.`; latest import `2026-05-21_16-33-18.md` / Imported At `2026-05-21T16:32:36.792576+00:00` is fresh enough for this tick. Best remains `7634027210248097042` at 32,072 views / 429 shares / gap 67,928; protected GenLabs product-photo/no-prompt CTA is promo copy only. No amplification, generation, Zernio send, public posting, or spend was triggered; growth output `2026-05-21_16-10-55.md` delivered; current breakout markdown is in-flight until delivery, not a scheduler miss."
+  "status": "experiment_creator_output_delivered_draft_only_gated"
 }
 
 ## Rule changes
 [
-  "2026-05-19 3-day review: when ChatGPT best-post growth continues but no formal breakout exists and the factory has zero eligible sources, the next work is result closure + source-lane replenishment, not more generic experiments. Prioritize ChatGPT and NotebookLM numbered Thai software-tip carousels; other tools are one-at-a-time differentiated tests with visible tip counts and CTA separated."
+  "2026-05-19 3-day review: when ChatGPT best-post growth continues but no formal breakout exists and the factory has zero eligible sources, the next work is result closure + source-lane replenishment, not more generic experiments. Prioritize ChatGPT and NotebookLM numbered Thai software-tip carousels; other tools are one-at-a-time differentiated tests with visible tip counts and CTA separated.",
+  "2026-05-22 3-day review: direct performance proof still favors practical ChatGPT numbered work-output tips (best post 32,072 views / 429 shares). NotebookLM should be the priority controlled Thailand source-grounded lane. Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude tools, and Zapier/Make are allowed only as distinct practical numbered software-tip carousels with all promised tips visible before the reusable CTA; do not force generic/duplicate drafts while result-closure/source-lane/Zernio/editorial gates are open."
 ]
 
 ## Current operating rule

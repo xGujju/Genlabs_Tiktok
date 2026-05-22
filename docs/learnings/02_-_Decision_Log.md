@@ -170,3 +170,12 @@
 - **Consequences:** Every software-tip carousel must account for the promised number of tips in visible Thai slide copy, keep the reusable GenLabs CTA separate, preserve the exact tool/workflow, and pass duplicate/source-topic gates before FAL/Zernio.
 - **Revisit Trigger:** Revisit after ChatGPT and NotebookLM numbered-tip posts have reliable 2h/4h/24h performance entries in Airtable `Performance`/`Experiments`, or if another tool clearly breaks out.
 
+
+
+## 2026-05-22 — GenLabs/Zernio tool-topic direction after 3-day review
+- **Project:** [[Aion OS/Aion Learning Lab/Zernio Growth/Zernio Growth Memory]] / [[Aion OS/Aion Learning Lab/GenLabs Self Improvement Reviews]]
+- **Decision:** Prioritize practical numbered Thai carousels for ChatGPT first and NotebookLM second; run Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude tools, and Zapier/Make only as distinct software-tip tests with visible promised tip counts before the reusable CTA.
+- **Why:** The CTA-stripped ChatGPT productivity/workflow post `7634027210248097042` remains the only direct high-performance proof at 32,072 views / 429 shares. NotebookLM is the highest-priority controlled Thailand lane for source-grounded SOP/PDF/FAQ/team workflows. The factory is currently blocked by source-lane/anti-repetition exhaustion, so generic or repeated drafts would not improve the 100k KPI.
+- **Consequences:** Source replenishment and experiment result closure come before more near-duplicate remixes. Every new software-tip post must pass duplicate-family, source-topic, promised-tip, CTA-separation, and draft-only safety gates before FAL/Zernio.
+- **2026-05-22 daily analyst reaffirmation:** Re-anchor at 10:35 UTC still shows direct Thai proof for ChatGPT practical numbered work-output tips (`7634027210248097042` at 32,072 views / 429 shares) while sampled `Performance`/`Experiments` remain empty. NotebookLM stays the priority controlled Thailand test for SOP/PDF/FAQ/source-grounded team workflows; other software must be one-at-a-time visible-tip tests, not generic tool explainers.
+- **Revisit Trigger:** Revisit after ChatGPT/NotebookLM posts have reliable 2h/4h/24h Performance/Experiments rows or when another tool produces breakout evidence.

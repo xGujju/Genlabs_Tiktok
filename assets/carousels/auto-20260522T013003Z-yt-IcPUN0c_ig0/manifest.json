@@ -1,0 +1,307 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a9b2b5d/56MnaCGxxkVYBEhvoJDbl_U3Gr3uOJ.png",
+    "https://v3b.fal.media/files/b/0a9b2b60/TKOE8TnN-tlezHAwodraC_TJbvcUYQ.png",
+    "https://v3b.fal.media/files/b/0a9b2b64/l0bgr6-lnJ6gktx-Bywlp_atXdnxB3.png",
+    "https://v3b.fal.media/files/b/0a9b2b67/tLhHa6xH2LoUvmk9w9gQD_elr9v4gv.png",
+    "https://v3b.fal.media/files/b/0a9b2b6b/4_cZwyzqWpoYopo_Rtv1Y_nF9nsF0X.png",
+    "https://v3b.fal.media/files/b/0a9b2b6f/8Z4aLNw9LhkyPp3UCcxEP_4bM9qHBI.png",
+    "https://v3b.fal.media/files/b/0a9b2b73/LgeuqpiRYAWZpjuOc_lC9_pOYMl28e.png",
+    "https://v3b.fal.media/files/b/0a9b2b77/5sVoplv0ZGCGtyQMuh12R_xPQrlQ9S.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 8,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/8 role=hook. Thai copy: 8 วิธีใช้ ChatGPT ให้ทำงานออฟฟิศเร็วขึ้น. Visual direction: bold cover slide, strong Thai headline, large number 8, office productivity icons, small GenLabs logo; no fake YouTube thumbnail UI. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "8 วิธีใช้ ChatGPT ให้ทำงานออฟฟิศเร็วขึ้น",
+        "visual_direction": "bold cover slide, strong Thai headline, large number 8, office productivity icons, small GenLabs logo; no fake YouTube thumbnail UI"
+      },
+      {
+        "image_prompt": "Slide 2/8 role=promise. Thai copy: สัญญากับคนดู:\nมี 8 use case จริง ไม่ใช่พูดซ้ำว่าใช้ AI แล้วเร็วขึ้น. Visual direction: promise slide showing eight small numbered slots, clear expectation that every following card teaches real tips. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "promise",
+        "thai_copy": "สัญญากับคนดู:\nมี 8 use case จริง ไม่ใช่พูดซ้ำว่าใช้ AI แล้วเร็วขึ้น",
+        "visual_direction": "promise slide showing eight small numbered slots, clear expectation that every following card teaches real tips"
+      },
+      {
+        "image_prompt": "Slide 3/8 role=tips_1_2. Thai copy: Tip 1–2:\n1) ให้ ChatGPT ช่วยร่าง self-review จากผลงานจริง\n2) สร้าง onboarding plan ให้พนักงานใหม่. Visual direction: two clear mini-cards, each with a workplace example, input document icon, ChatGPT arrow, output result. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "tips_1_2",
+        "thai_copy": "Tip 1–2:\n1) ให้ ChatGPT ช่วยร่าง self-review จากผลงานจริง\n2) สร้าง onboarding plan ให้พนักงานใหม่",
+        "visual_direction": "two clear mini-cards, each with a workplace example, input document icon, ChatGPT arrow, output result"
+      },
+      {
+        "image_prompt": "Slide 4/8 role=tips_3_4. Thai copy: Tip 3–4:\n3) เปลี่ยนโจทย์งานเป็น project brief ที่ชัด\n4) วิเคราะห์ feedback แล้วสรุป action items. Visual direction: two clear mini-cards, each with concrete office output and checkmark, avoid repeating prior wording. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips_3_4",
+        "thai_copy": "Tip 3–4:\n3) เปลี่ยนโจทย์งานเป็น project brief ที่ชัด\n4) วิเคราะห์ feedback แล้วสรุป action items",
+        "visual_direction": "two clear mini-cards, each with concrete office output and checkmark, avoid repeating prior wording"
+      },
+      {
+        "image_prompt": "Slide 5/8 role=tips_5_6. Thai copy: Tip 5–6:\n5) เตรียมโครง presentation จากหัวข้อและคนฟัง\n6) ร่าง social media posts ให้ทีม/แบรนด์. Visual direction: two clear mini-cards, presentation and social/content work visuals, distinct from earlier cards. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "tips_5_6",
+        "thai_copy": "Tip 5–6:\n5) เตรียมโครง presentation จากหัวข้อและคนฟัง\n6) ร่าง social media posts ให้ทีม/แบรนด์",
+        "visual_direction": "two clear mini-cards, presentation and social/content work visuals, distinct from earlier cards"
+      },
+      {
+        "image_prompt": "Slide 6/8 role=tips_7_8. Thai copy: Tip 7–8:\n7) แปลงประสบการณ์ intern/contract เป็นแผนขอ full-time\n8) ระดมไอเดีย team-building ให้เหมาะกับทีม. Visual direction: two clear mini-cards, career/team examples, distinct icons and outputs. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "tips_7_8",
+        "thai_copy": "Tip 7–8:\n7) แปลงประสบการณ์ intern/contract เป็นแผนขอ full-time\n8) ระดมไอเดีย team-building ให้เหมาะกับทีม",
+        "visual_direction": "two clear mini-cards, career/team examples, distinct icons and outputs"
+      },
+      {
+        "image_prompt": "Slide 7/8 role=prompt_formula. Thai copy: Prompt สั้นที่ใช้ได้:\nบทบาท + งาน + ข้อมูลจริง + รูปแบบผลลัพธ์ + ขอถามกลับ. Visual direction: prompt formula card with five blocks and one sample chat bubble, practical not decorative. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "prompt_formula",
+        "thai_copy": "Prompt สั้นที่ใช้ได้:\nบทบาท + งาน + ข้อมูลจริง + รูปแบบผลลัพธ์ + ขอถามกลับ",
+        "visual_direction": "prompt formula card with five blocks and one sample chat bubble, practical not decorative"
+      },
+      {
+        "image_prompt": "Slide 8/8 role=cta. Thai copy: ลองวันนี้:\nวันนี้เลือก 1 use case แล้วขอ ChatGPT ทำ draft แรกพร้อมคำถามปรับปรุง. Visual direction: final action slide, choose one use case today, save/share cue, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 8,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้เลือก 1 use case แล้วขอ ChatGPT ทำ draft แรกพร้อมคำถามปรับปรุง",
+        "visual_direction": "final action slide, choose one use case today, save/share cue, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "yt-IcPUN0c_ig0",
+    "source_url": "https://www.youtube.com/watch?v=IcPUN0c_ig0",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://www.youtube.com/watch?v=IcPUN0c_ig0",
+        "Keywords: workflow, prompt, AI automation, Make",
+        "This is trending because people can copy the workflow immediately instead of only reading AI news."
+      ],
+      "glossary": {
+        "AI automation": "ระบบอัตโนมัติด้วย AI",
+        "Make": "Make",
+        "prompt": "พรอมป์ต์",
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "workflow",
+        "prompt",
+        "AI automation",
+        "Make"
+      ],
+      "source_id": "yt-IcPUN0c_ig0",
+      "source_url": "https://www.youtube.com/watch?v=IcPUN0c_ig0",
+      "thai_call_to_action": "วันนี้เลือก 1 use case แล้วขอ ChatGPT ทำ draft แรกพร้อมคำถามปรับปรุง",
+      "thai_hook": "8 วิธีใช้ ChatGPT ให้ทำงานออฟฟิศเร็วขึ้น",
+      "thai_problem": "หลายคนใช้ ChatGPT แค่ถามตอบทั่วไป ทั้งที่งานเอกสาร ประชุม แผนงาน และ brief สามารถย่นเวลาได้มาก",
+      "thai_tips": [
+        "ให้ ChatGPT ช่วยร่าง self-review จากผลงานจริง",
+        "สร้าง onboarding plan ให้พนักงานใหม่",
+        "เปลี่ยนโจทย์งานเป็น project brief ที่ชัด",
+        "วิเคราะห์ feedback แล้วสรุป action items",
+        "เตรียมโครง presentation จากหัวข้อและคนฟัง",
+        "ร่าง social media posts ให้ทีม/แบรนด์",
+        "แปลงประสบการณ์ intern/contract เป็นแผนขอ full-time",
+        "ระดมไอเดีย team-building ให้เหมาะกับทีม"
+      ],
+      "thai_trend_angle": "วิดีโอแนว productivity ชนะเพราะให้ use case ที่คนทำงานเอาไปลองได้ทันที โดยไม่ต้องเริ่มจากศูนย์"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "All About AI",
+    "clean_headline": "How to Use ChatGPT to Save 10 Hours a Week All About AI Want to save 10 hours every single week using ChatGPT?",
+    "clean_summary": "How to Use ChatGPT to Save 10 Hours a Week All About AI Want to save 10 hours every single week using ChatGPT? In this video, I'll show you exactly how to use it the right way to ... Transcript: How to Use ChatGPT to Save 10 Hours a Week Description How to Use ChatGPT to Save 10 Hours a Week 612 Likes 61,974 Views May 3 2026 Want to save 10 hours every single week using ChatGPT? In this video, I’ll show you exactly how to use it the right way to automate tasks, think faster, and get more done in less time. Most people use ChatGPT like Google… and that’s why they don’t get real results. Here, you’ll learn practical strategies you can start using today to boost productivity and free up your time. What you’ll learn: How to write better prompts (and get smarter answers) How to automate emails, reports, and daily tasks How to learn new skills faster with AI How to make decisions and brainstorm ideas instantly Simple tricks to save hours every week If you’re a student, freelancer, or working a 9–5, this will completely change how you work. Start using ChatGPT smarter, not harder. Timestamps: [00:00]( Intro [00:40]( Stop using ChatGPT like Google [01:30]( Automate your writing [02:20]( Use prompt templates [03:10]( Learn faster with AI 04:00 Decision making & brainstorming 04:40 Outro Keywords (for SEO): ChatGPT productivity, how to use ChatGPT, save time with AI, AI tools 2026, ChatGPT tips, work smarter, AI automation, productivity hacks Call to Action: If this helped you, subscribe for more AI and productivity content [#ai]( COLLABS: paraschivtheo@yahoo.com…...more ...more Show less ## Chapters View all [![Image 46]( #### Intro #### Intro 0:00]( #### [Intro]( 0:00 [![Image 47]( #### Stop using ChatGPT like Google #### Stop using ChatGPT like Google 0:40]( #### [Stop using ChatGPT like Google]( 0:40 [![Image 48]( #### Automate your writing #### Automate your writing 1:30]( #### [Automate your writing]( 1:30 [![Image 49]( #### Use prompt templates #### Use prompt templates 2:20]( #### [Use prompt templates]( 2:20 Transcript Follow along using the transcript. Show transcript [![Image 50]( ### All About AI 44K subscribers]( [Videos]( ## Transcript NaN / NaN [![Image 51]( 28:41]( ![Image 52]( ### [These ChatGPT Hacks Will Make You SO Productive It Feels Illegal]( Dan Martell 1.3M views • 5 months ago [![Image 53]( 34:38]( ![Image 54]( ### [THESE Apps Are SPYING on You — Shut Them Off NOW!]( Rossen Reports 841K views • Streamed 3 months ago [![Image 55]( 2:25:38]( ![Image 56]( ### [God Says:\"JUST GIVE ME 2 MINUTES — THE SIGN HAS COME TO YOU\"/God Message Now/God Message]( ## Chapters View all [![Image 8]( #### Intro #### Intro 0:00]( #### [Intro]( 0:00 [![Image 9]( #### Stop using ChatGPT like Google #### Stop using ChatGPT like Google 0:40]( #### [Stop using ChatGPT like Google]( 0:40 [![Image 10]( #### Automate your writing #### Automate your writing 1:30]( #### [Automate your writing]( 1:30 [![Image 11]( #### Use prompt templates #### Use prompt templates 2:20]( #### [Use prompt templates]( 2:20 [![Image 12]( #### Learn faster with AI #### Learn faster with AI 3:10]( #### [Learn faster with AI]( 3:10 Transcript Follow along using the transcript. Show transcript [![Image 13]( ### All About AI 44K subscribers]( [Videos]( Show less []( # How to Use ChatGPT to Save 10 Hours a Week 61,974 views 61K views May 3, 2026 612 Share Save Download Download ## 157 Comments Sort comments Sort by [Top Show featured comments]( Show recent comments, including potential spam]( ![Image 14: Default profile photo]( Add a comment... ![Image 15]( ### [@MAMUNURRASHID-sd3im]( [2 weeks ago]( Really glad to see the video is helping so many of you and that you found it clear, useful, and straight to the point. Your support and kind words truly motivate me to keep creating more valuable content. Stay tuned for more helpful videos coming soon! Show less Read more Like 13 Dislike Reply ![Image 16](",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 61974,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "workflow",
+      "prompt",
+      "AI automation",
+      "Make"
+    ],
+    "original_language": "en",
+    "raw_text": "YouTube title: How to Use ChatGPT to Save 10 Hours a Week\nChannel: All About AI\nDescription: Want to save 10 hours every single week using ChatGPT? In this video, I'll show you exactly how to use it the right way to ...\nTranscript:\nTitle: How to Use ChatGPT to Save 10 Hours a Week Description How to Use ChatGPT to Save 10 Hours a Week 612 Likes 61,974 Views May 3 2026 Want to save 10 hours every single week using ChatGPT? In this video, I’ll show you exactly how to use it the right way to automate tasks, think faster, and get more done in less time. Most people use ChatGPT like Google… and that’s why they don’t get real results. Here, you’ll learn practical strategies you can start using today to boost productivity and free up your time. What you’ll learn: How to write better prompts (and get smarter answers) How to automate emails, reports, and daily tasks How to learn new skills faster with AI How to make decisions and brainstorm ideas instantly Simple tricks to save hours every week If you’re a student, freelancer, or working a 9–5, this will completely change how you work. Start using ChatGPT smarter, not harder. Timestamps: [00:00](https://www.youtube.com/watch?v=IcPUN0c_ig0) Intro [00:40](https://www.youtube.com/watch?v=IcPUN0c_ig0&t=40s) Stop using ChatGPT like Google [01:30](https://www.youtube.com/watch?v=IcPUN0c_ig0&t=90s) Automate your writing [02:20](https://www.youtube.com/watch?v=IcPUN0c_ig0&t=140s) Use prompt templates [03:10](https://www.youtube.com/watch?v=IcPUN0c_ig0&t=190s) Learn faster with AI 04:00 Decision making & brainstorming 04:40 Outro Keywords (for SEO): ChatGPT productivity, how to use ChatGPT, save time with AI, AI tools 2026, ChatGPT tips, work smarter, AI automation, productivity hacks Call to Action: If this helped you, subscribe for more AI and productivity content [#ai](https://www.youtube.com/hashtag/ai)[#chatgpt](https://www.youtube.com/hashtag/chatgpt)[#nextgenai](https://www.youtube.com/hashtag/nextgenai) COLLABS: paraschivtheo@yahoo.com…...more ...more Show less ## Chapters View all [![Image 46](https://www.youtube.com/watch?v=IcPUN0c_ig0) #### Intro #### Intro 0:00](https://www.youtube.com/watch?v=IcPUN0c_ig0) #### [Intro](https://www.youtube.com/watch?v=IcPUN0c_ig0) 0:00 [![Image 47](https://www.youtube.com/watch?v=IcPUN0c_ig0) #### Stop using ChatGPT like Google #### Stop using ChatGPT like Google 0:40](https://www.youtube.com/watch?v=IcPUN0c_ig0&t=40s&pp=0gcJCRkDDuyUWbzu) #### [Stop using ChatGPT like Google](https://www.youtube.com/watch?v=IcPUN0c_ig0&t=40s&pp=0gcJCRkDDuyUWbzu) 0:40 [![Image 48](https://www.youtube.com/watch?v=IcPUN0c_ig0) #### Automate your writing #### Automate your writing 1:30](https://www.youtube.com/watch?v=IcPUN0c_ig0&t=90s) #### [Automate your writing](https://www.youtube.com/watch?v=IcPUN0c_ig0&t=90s) 1:30 [![Image 49](https://www.youtube.com/watch?v=IcPUN0c_ig0) #### Use prompt templates #### Use prompt templates 2:20](https://www.youtube.com/watch?v=IcPUN0c_ig0&t=140s) #### [Use prompt templates](https://www.youtube.com/watch?v=IcPUN0c_ig0&t=140s) 2:20 Transcript Follow along using the transcript. Show transcript [![Image 50](https://www.youtube.com/watch?v=IcPUN0c_ig0) ### All About AI 44K subscribers](https://www.youtube.com/@AllAboutAIprs) [Videos](https://www.youtube.com/channel/UCb2SaEI-tX6sVaQLr4mo9zg/videos)[About](https://www.youtube.com/channel/UCb2SaEI-tX6sVaQLr4mo9zg/about) ## Transcript NaN / NaN [![Image 51](https://i.ytimg.com/vi/Mxy6MVbpNhg/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAbj3BPnmlvJ_k9_DaNzvEtLyBb8A) 28:41](https://www.youtube.com/watch?v=Mxy6MVbpNhg&pp=ugUEEgJlbg%3D%3D) ![Image 52](https://www.youtube.com/watch?v=IcPUN0c_ig0) ### [These ChatGPT Hacks Will Make You SO Productive It Feels Illegal](https://www.youtube.com/watch?v=Mxy6MVbpNhg&pp=ugUEEgJlbg%3D%3D) Dan Martell 1.3M views • 5 months ago [![Image 53](https://i.ytimg.com/vi/xa43V8iJDfI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDyNwIX9F5gTfshiobY2dh74hJNNA) 34:38](https://www.youtube.com/watch?v=xa43V8iJDfI) ![Image 54](https://www.youtube.com/watch?v=IcPUN0c_ig0) ### [THESE Apps Are SPYING on You — Shut Them Off NOW!](https://www.youtube.com/watch?v=xa43V8iJDfI) Rossen Reports 841K views • Streamed 3 months ago [![Image 55](https://i.ytimg.com/vi/hMYIVwJ9U88/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCriIEcyM6rfu0kbhvV5kaICSkyLA) 2:25:38](https://www.youtube.com/watch?v=hMYIVwJ9U88) ![Image 56](https://www.youtube.com/watch?v=IcPUN0c_ig0) ### [God Says:\"JUST GIVE ME 2 MINUTES — THE SIGN HAS COME TO YOU\"/God Message Now/God Message](https://www.youtube.com/watch? ## Chapters View all [![Image 8](https://www.youtube.com/watch?v=IcPUN0c_ig0) #### Intro #### Intro 0:00](https://www.youtube.com/watch?v=IcPUN0c_ig0) #### [Intro](https://www.youtube.com/watch?v=IcPUN0c_ig0) 0:00 [![Image 9](https://www.youtube.com/watch?v=IcPUN0c_ig0) #### Stop using ChatGPT like Google #### Stop using ChatGPT like Google 0:40](https://www.youtube.com/watch?v=IcPUN0c_ig0&t=40s&pp=0gcJCRkDDuyUWbzu) #### [Stop using ChatGPT like Google](https://www.youtube.com/watch?v=IcPUN0c_ig0&t=40s&pp=0gcJCRkDDuyUWbzu) 0:40 [![Image 10](https://www.youtube.com/watch?v=IcPUN0c_ig0) #### Automate your writing #### Automate your writing 1:30](https://www.youtube.com/watch?v=IcPUN0c_ig0&t=90s) #### [Automate your writing](https://www.youtube.com/watch?v=IcPUN0c_ig0&t=90s) 1:30 [![Image 11](https://www.youtube.com/watch?v=IcPUN0c_ig0) #### Use prompt templates #### Use prompt templates 2:20](https://www.youtube.com/watch?v=IcPUN0c_ig0&t=140s) #### [Use prompt templates](https://www.youtube.com/watch?v=IcPUN0c_ig0&t=140s) 2:20 [![Image 12](https://www.youtube.com/watch?v=IcPUN0c_ig0) #### Learn faster with AI #### Learn faster with AI 3:10](https://www.youtube.com/watch?v=IcPUN0c_ig0&t=190s) #### [Learn faster with AI](https://www.youtube.com/watch?v=IcPUN0c_ig0&t=190s) 3:10 Transcript Follow along using the transcript. Show transcript [![Image 13](https://www.youtube.com/watch?v=IcPUN0c_ig0) ### All About AI 44K subscribers](https://www.youtube.com/@AllAboutAIprs) [Videos](https://www.youtube.com/channel/UCb2SaEI-tX6sVaQLr4mo9zg/videos)[About](https://www.youtube.com/channel/UCb2SaEI-tX6sVaQLr4mo9zg/about) Show less [](https://www.youtube.com/hashtag/ai)[#ai](https://www.youtube.com/hashtag/ai)[#chatgpt](https://www.youtube.com/hashtag/chatgpt)[#nextgenai](https://www.youtube.com/hashtag/nextgenai) # How to Use ChatGPT to Save 10 Hours a Week 61,974 views 61K views May 3, 2026 612 Share Save Download Download ## 157 Comments Sort comments Sort by [Top Show featured comments](https://www.youtube.com/watch?v=IcPUN0c_ig0)[Newest Show recent comments, including potential spam](https://www.youtube.com/watch?v=IcPUN0c_ig0) ![Image 14: Default profile photo](https://yt3.ggpht.com/a/default-user=s48-c-k-c0x00ffffff-no-rj) Add a comment... ![Image 15](https://yt3.ggpht.com/GMKzUyokbKPWWNmKvsLohPsk5nnE5FKZBHpjs1PKNlRs5ni4ipWoch5h6gg5MUa4nllpMWUbMA=s88-c-k-c0x00ffffff-no-rj) ### [@MAMUNURRASHID-sd3im](https://www.youtube.com/@MAMUNURRASHID-sd3im) [2 weeks ago](https://www.youtube.com/watch?v=IcPUN0c_ig0&lc=UgwplSAY5LfIwUntZ2t4AaABAg) Really glad to see the video is helping so many of you and that you found it clear, useful, and straight to the point. Your support and kind words truly motivate me to keep creating more valuable content. Stay tuned for more helpful videos coming soon! Show less Read more Like 13 Dislike Reply ![Image 16](https://yt3.ggpht.com/ytc/AIdro_k883xVO0OSyEgXoWuTZYeB0niF_pSsYB19ca",
+    "source_id": "yt-IcPUN0c_ig0",
+    "source_url": "https://www.youtube.com/watch?v=IcPUN0c_ig0",
+    "why_it_matters": "This is trending because people can copy the workflow immediately instead of only reading AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้เลือก 1 use case แล้วขอ ChatGPT ทำ draft แรกพร้อมคำถามปรับปรุง",
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=IcPUN0c_ig0",
+      "Keywords: workflow, prompt, AI automation, Make",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "hook": "8 วิธีใช้ ChatGPT ให้ทำงานออฟฟิศเร็วขึ้น",
+    "original_keywords": [
+      "workflow",
+      "prompt",
+      "AI automation",
+      "Make"
+    ],
+    "original_language": "en",
+    "problem": "หลายคนใช้ ChatGPT แค่ถามตอบทั่วไป ทั้งที่งานเอกสาร ประชุม แผนงาน และ brief สามารถย่นเวลาได้มาก",
+    "source_id": "yt-IcPUN0c_ig0",
+    "source_url": "https://www.youtube.com/watch?v=IcPUN0c_ig0",
+    "tips": [
+      "ให้ ChatGPT ช่วยร่าง self-review จากผลงานจริง",
+      "สร้าง onboarding plan ให้พนักงานใหม่",
+      "เปลี่ยนโจทย์งานเป็น project brief ที่ชัด",
+      "วิเคราะห์ feedback แล้วสรุป action items",
+      "เตรียมโครง presentation จากหัวข้อและคนฟัง",
+      "ร่าง social media posts ให้ทีม/แบรนด์",
+      "แปลงประสบการณ์ intern/contract เป็นแผนขอ full-time",
+      "ระดมไอเดีย team-building ให้เหมาะกับทีม"
+    ],
+    "trend_angle": "วิดีโอแนว productivity ชนะเพราะให้ use case ที่คนทำงานเอาไปลองได้ทันที โดยไม่ต้องเริ่มจากศูนย์"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "56MnaCGxxkVYBEhvoJDbl_U3Gr3uOJ.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b2b5d/56MnaCGxxkVYBEhvoJDbl_U3Gr3uOJ.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260522T013003Z-yt-IcPUN0c_ig0/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "TKOE8TnN-tlezHAwodraC_TJbvcUYQ.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b2b60/TKOE8TnN-tlezHAwodraC_TJbvcUYQ.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260522T013003Z-yt-IcPUN0c_ig0/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "l0bgr6-lnJ6gktx-Bywlp_atXdnxB3.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b2b64/l0bgr6-lnJ6gktx-Bywlp_atXdnxB3.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260522T013003Z-yt-IcPUN0c_ig0/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "tLhHa6xH2LoUvmk9w9gQD_elr9v4gv.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b2b67/tLhHa6xH2LoUvmk9w9gQD_elr9v4gv.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260522T013003Z-yt-IcPUN0c_ig0/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "4_cZwyzqWpoYopo_Rtv1Y_nF9nsF0X.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b2b6b/4_cZwyzqWpoYopo_Rtv1Y_nF9nsF0X.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260522T013003Z-yt-IcPUN0c_ig0/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "8Z4aLNw9LhkyPp3UCcxEP_4bM9qHBI.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b2b6f/8Z4aLNw9LhkyPp3UCcxEP_4bM9qHBI.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260522T013003Z-yt-IcPUN0c_ig0/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "LgeuqpiRYAWZpjuOc_lC9_pOYMl28e.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b2b73/LgeuqpiRYAWZpjuOc_lC9_pOYMl28e.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260522T013003Z-yt-IcPUN0c_ig0/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "5sVoplv0ZGCGtyQMuh12R_xPQrlQ9S.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b2b77/5sVoplv0ZGCGtyQMuh12R_xPQrlQ9S.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260522T013003Z-yt-IcPUN0c_ig0/slide-8.png",
+      "slide_index": 8,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 9,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260522T013003Z-yt-IcPUN0c_ig0/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: หลายคนใช้ ChatGPT แค่ถามตอบทั่วไป ทั้งที่งานเอกสาร ประชุม แผนงาน และ brief สามารถย่นเวลาได้มาก\n\n📌 ทำไมควรเซฟโพสต์นี้: วิดีโอแนว productivity ชนะเพราะให้ use case ที่คนทำงานเอาไปลองได้ทันที โดยไม่ต้องเริ่มจากศูนย์\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ ให้ ChatGPT ช่วยร่าง self-review จากผลงานจริง\n\n2) ✨ สร้าง onboarding plan ให้พนักงานใหม่\n\n3) ✨ เปลี่ยนโจทย์งานเป็น project brief ที่ชัด\n\n4) ✨ วิเคราะห์ feedback แล้วสรุป action items\n\n🧪 ลองเริ่มวันนี้: วันนี้เลือก 1 use case แล้วขอ ChatGPT ทำ draft แรกพร้อมคำถามปรับปรุง\n\n🧭 วิธีใช้กับงานนี้: ให้ ChatGPT ช่วยร่าง self-review จากผลงานจริง → สร้าง onboarding plan ให้พนักงานใหม่ → เปลี่ยนโจทย์งานเป็น project brief ที่ชัด\n\n🌱 มือใหม่ให้เริ่มจากเคสจริงเล็ก ๆ ของอุตสาหกรรมนี้ แล้วให้คนในทีมตรวจคำตอบก่อนใช้กับลูกค้าจริง\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเห็นว่า AI ช่วยลดงานซ้ำและทำให้บริการชัดขึ้นได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "8 วิธีใช้ ChatGPT ให้ทำงานออฟฟิศเร็วขึ้น #AIมือใหม่ เอาไปใช้กับงานจริงได้ทันที"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=IcPUN0c_ig0",
+      "Keywords: workflow, prompt, AI automation, Make",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "glossary": {
+      "AI automation": "ระบบอัตโนมัติด้วย AI",
+      "Make": "Make",
+      "prompt": "พรอมป์ต์",
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "workflow",
+      "prompt",
+      "AI automation",
+      "Make"
+    ],
+    "source_id": "yt-IcPUN0c_ig0",
+    "source_url": "https://www.youtube.com/watch?v=IcPUN0c_ig0",
+    "thai_call_to_action": "วันนี้เลือก 1 use case แล้วขอ ChatGPT ทำ draft แรกพร้อมคำถามปรับปรุง",
+    "thai_hook": "8 วิธีใช้ ChatGPT ให้ทำงานออฟฟิศเร็วขึ้น",
+    "thai_problem": "หลายคนใช้ ChatGPT แค่ถามตอบทั่วไป ทั้งที่งานเอกสาร ประชุม แผนงาน และ brief สามารถย่นเวลาได้มาก",
+    "thai_tips": [
+      "ให้ ChatGPT ช่วยร่าง self-review จากผลงานจริง",
+      "สร้าง onboarding plan ให้พนักงานใหม่",
+      "เปลี่ยนโจทย์งานเป็น project brief ที่ชัด",
+      "วิเคราะห์ feedback แล้วสรุป action items",
+      "เตรียมโครง presentation จากหัวข้อและคนฟัง",
+      "ร่าง social media posts ให้ทีม/แบรนด์",
+      "แปลงประสบการณ์ intern/contract เป็นแผนขอ full-time",
+      "ระดมไอเดีย team-building ให้เหมาะกับทีม"
+    ],
+    "thai_trend_angle": "วิดีโอแนว productivity ชนะเพราะให้ use case ที่คนทำงานเอาไปลองได้ทันที โดยไม่ต้องเริ่มจากศูนย์"
+  }
+}

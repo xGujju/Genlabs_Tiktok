@@ -1,0 +1,261 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a9b5b46/Qqg0j2pRKExT-p2sOs7e__WzYGyWxQ.png",
+    "https://v3b.fal.media/files/b/0a9b5b49/ZmMDXr72TdTJGAM5tMmF-_AzHoCxzE.png",
+    "https://v3b.fal.media/files/b/0a9b5b4c/6NkJ49D-ZuQ_MxcgI6kuX_rMGY7Yhi.png",
+    "https://v3b.fal.media/files/b/0a9b5b4f/oHJrfuOkNNGX7yJdzfnyN_lmRw85nm.png",
+    "https://v3b.fal.media/files/b/0a9b5b53/WKMIMj_6Ab-k1VZAe7_NP_ZkV2e1AV.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 5,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/5 role=hook. Exact Thai copy: คลิป AI สมจริงขึ้น\nยิ่งต้องเช็กก่อนโพสต์. Visual direction: AI video frame with trust shield, checklist, GenLabs sketchnote style. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "คลิป AI สมจริงขึ้น\nยิ่งต้องเช็กก่อนโพสต์",
+        "visual_direction": "AI video frame with trust shield, checklist, GenLabs sketchnote style"
+      },
+      {
+        "image_prompt": "Slide 2/5 role=risk. Exact Thai copy: เสี่ยงถ้าไม่ตรวจ:\nคน\nสินค้า\nสถานที่\nคำเคลม. Visual direction: four warning cards for person/product/place/claim. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 2,
+        "role": "risk",
+        "thai_copy": "เสี่ยงถ้าไม่ตรวจ:\nคน\nสินค้า\nสถานที่\nคำเคลม",
+        "visual_direction": "four warning cards for person/product/place/claim"
+      },
+      {
+        "image_prompt": "Slide 3/5 role=transparency. Exact Thai copy: ใช้สัญญาณโปร่งใส:\nSynthID\nC2PA\nบันทึก Prompt. Visual direction: watermark/credential document icons and prompt log notebook. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 3,
+        "role": "transparency",
+        "thai_copy": "ใช้สัญญาณโปร่งใส:\nSynthID\nC2PA\nบันทึก Prompt",
+        "visual_direction": "watermark/credential document icons and prompt log notebook"
+      },
+      {
+        "image_prompt": "Slide 4/5 role=consent. Exact Thai copy: ห้ามใช้หน้า/เสียงคนอื่น\nโดยไม่มี Consent. Visual direction: face and voice icons behind consent gate, clear warning. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 4,
+        "role": "consent",
+        "thai_copy": "ห้ามใช้หน้า/เสียงคนอื่น\nโดยไม่มี Consent",
+        "visual_direction": "face and voice icons behind consent gate, clear warning"
+      },
+      {
+        "image_prompt": "Slide 5/5 role=cta. Exact Thai copy: Checklist ก่อนปล่อย:\nSource\nConsent\nClaim\nLabel\nReview. Visual direction: five-step publishing checklist with final green approval stamp. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 5,
+        "role": "cta",
+        "thai_copy": "Checklist ก่อนปล่อย:\nSource\nConsent\nClaim\nLabel\nReview",
+        "visual_direction": "five-step publishing checklist with final green approval stamp"
+      }
+    ],
+    "source_id": "google-omni-trust-safe-publishing-20260523",
+    "source_url": "https://deepmind.google/models/gemini-omni/",
+    "thai_brief": {
+      "evidence": [
+        "X search: GoogleDeepMind said Gemini Omni can create anything from anything, starting with video; combines Gemini intelligence with generative media systems; improves world understanding, multimodality and editing.",
+        "X search: GeminiApp said paid subscribers can use Gemini Omni in the Gemini app with text, image and video inputs, upload a camera-roll video, and ask Gemini to make changes.",
+        "X search: Google said Gemini Omni edits videos conversationally; instructions build on previous edits; characters stay consistent, physics holds up, and scenes remember prior context.",
+        "Official DeepMind page: Gemini Omni edits any video through natural step-by-step conversation, combines physics and real-world knowledge, and turns image/text/video/audio references into cohesive output.",
+        "Official Google Flow blog: Omni Flash in Flow supports improved character consistency, precise video editing, batch editing, and music-video direction in Flow Music for Google AI subscribers.",
+        "Official DeepMind page: content created or edited with Omni in Gemini app, Google Flow, or YouTube includes SynthID and C2PA Content Credentials."
+      ],
+      "glossary": {
+        "C2PA": "ข้อมูลรับรองที่ช่วยบอกที่มาของสื่อ",
+        "Flow": "Google Flow สตูดิโอสร้างวิดีโอ AI",
+        "Gemini Omni": "โมเดลสร้าง/แก้วิดีโอหลายรูปแบบของ Google",
+        "Google Omni": "ชื่อที่คนบน X ใช้เรียก Gemini Omni",
+        "SynthID": "ลายน้ำดิจิทัลของ Google"
+      },
+      "original_keywords": [
+        "Gemini Omni",
+        "Google Omni",
+        "video",
+        "SynthID",
+        "C2PA",
+        "trust"
+      ],
+      "source_id": "google-omni-trust-safe-publishing-20260523",
+      "source_url": "https://deepmind.google/models/gemini-omni/",
+      "thai_call_to_action": "วันนี้ทำเช็กลิสต์ 5 ข้อก่อนปล่อยคลิป Omni ทุกครั้ง: source, consent, claim, label, final review",
+      "thai_hook": "ใช้ Gemini Omni ทำคลิป AI ต้องมีขั้นตอนเช็กความจริงก่อนโพสต์",
+      "thai_problem": "วิดีโอ AI ดูสมจริงขึ้นมาก ถ้าธุรกิจใช้โดยไม่ตรวจ consent ความถูกต้อง หรือการเปิดเผยว่าเป็น AI อาจเสียความเชื่อใจเร็วกว่าได้ยอดวิว",
+      "thai_tips": [
+        "บันทึก source asset และ prompt ที่ใช้สร้างคลิป",
+        "เช็กคน สินค้า สถานที่ ราคา และคำเคลมก่อนโพสต์",
+        "ใช้ SynthID/C2PA เป็นหลักฐานความโปร่งใสเมื่อ platform รองรับ",
+        "ติดป้าย AI-made หรือ AI-assisted เมื่อมีโอกาสทำให้คนเข้าใจผิด",
+        "ห้ามใช้ likeness/เสียงของคนอื่นโดยไม่มี consent"
+      ],
+      "thai_trend_angle": "DeepMind ระบุว่าเนื้อหาที่สร้างหรือแก้ด้วย Omni ใน Gemini app, Google Flow หรือ YouTube มี SynthID และ C2PA Content Credentials จึงควรใช้เป็นส่วนหนึ่งของ workflow ความโปร่งใส"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "google-official-x-and-pages",
+    "clean_headline": "ใช้ Gemini Omni ทำคลิป AI ต้องมีขั้นตอนเช็กความจริงก่อนโพสต์",
+    "clean_summary": "วิดีโอ AI ดูสมจริงขึ้นมาก ถ้าธุรกิจใช้โดยไม่ตรวจ consent ความถูกต้อง หรือการเปิดเผยว่าเป็น AI อาจเสียความเชื่อใจเร็วกว่าได้ยอดวิว",
+    "metrics_snapshot": {
+      "x_search_official_posts": 32
+    },
+    "original_keywords": [
+      "Gemini Omni",
+      "Google Omni",
+      "video",
+      "SynthID",
+      "C2PA",
+      "trust"
+    ],
+    "original_language": "en",
+    "raw_text": "ใช้ Gemini Omni ทำคลิป AI ต้องมีขั้นตอนเช็กความจริงก่อนโพสต์\nวิดีโอ AI ดูสมจริงขึ้นมาก ถ้าธุรกิจใช้โดยไม่ตรวจ consent ความถูกต้อง หรือการเปิดเผยว่าเป็น AI อาจเสียความเชื่อใจเร็วกว่าได้ยอดวิว\nDeepMind ระบุว่าเนื้อหาที่สร้างหรือแก้ด้วย Omni ใน Gemini app, Google Flow หรือ YouTube มี SynthID และ C2PA Content Credentials จึงควรใช้เป็นส่วนหนึ่งของ workflow ความโปร่งใส\nบันทึก source asset และ prompt ที่ใช้สร้างคลิป\nเช็กคน สินค้า สถานที่ ราคา และคำเคลมก่อนโพสต์\nใช้ SynthID/C2PA เป็นหลักฐานความโปร่งใสเมื่อ platform รองรับ\nติดป้าย AI-made หรือ AI-assisted เมื่อมีโอกาสทำให้คนเข้าใจผิด\nห้ามใช้ likeness/เสียงของคนอื่นโดยไม่มี consent",
+    "source_id": "google-omni-trust-safe-publishing-20260523",
+    "source_url": "https://deepmind.google/models/gemini-omni/",
+    "why_it_matters": "Gemini Omni / Google Omni is a high-signal launch on X; Thai SMEs need practical non-overlapping workflows, not generic AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้ทำเช็กลิสต์ 5 ข้อก่อนปล่อยคลิป Omni ทุกครั้ง: source, consent, claim, label, final review",
+    "evidence": [
+      "X search: GoogleDeepMind said Gemini Omni can create anything from anything, starting with video; combines Gemini intelligence with generative media systems; improves world understanding, multimodality and editing.",
+      "X search: GeminiApp said paid subscribers can use Gemini Omni in the Gemini app with text, image and video inputs, upload a camera-roll video, and ask Gemini to make changes.",
+      "X search: Google said Gemini Omni edits videos conversationally; instructions build on previous edits; characters stay consistent, physics holds up, and scenes remember prior context.",
+      "Official DeepMind page: Gemini Omni edits any video through natural step-by-step conversation, combines physics and real-world knowledge, and turns image/text/video/audio references into cohesive output.",
+      "Official Google Flow blog: Omni Flash in Flow supports improved character consistency, precise video editing, batch editing, and music-video direction in Flow Music for Google AI subscribers.",
+      "Official DeepMind page: content created or edited with Omni in Gemini app, Google Flow, or YouTube includes SynthID and C2PA Content Credentials."
+    ],
+    "hook": "ใช้ Gemini Omni ทำคลิป AI ต้องมีขั้นตอนเช็กความจริงก่อนโพสต์",
+    "original_keywords": [
+      "Gemini Omni",
+      "Google Omni",
+      "video",
+      "SynthID",
+      "C2PA",
+      "trust"
+    ],
+    "original_language": "en",
+    "problem": "วิดีโอ AI ดูสมจริงขึ้นมาก ถ้าธุรกิจใช้โดยไม่ตรวจ consent ความถูกต้อง หรือการเปิดเผยว่าเป็น AI อาจเสียความเชื่อใจเร็วกว่าได้ยอดวิว",
+    "source_id": "google-omni-trust-safe-publishing-20260523",
+    "source_url": "https://deepmind.google/models/gemini-omni/",
+    "tips": [
+      "บันทึก source asset และ prompt ที่ใช้สร้างคลิป",
+      "เช็กคน สินค้า สถานที่ ราคา และคำเคลมก่อนโพสต์",
+      "ใช้ SynthID/C2PA เป็นหลักฐานความโปร่งใสเมื่อ platform รองรับ",
+      "ติดป้าย AI-made หรือ AI-assisted เมื่อมีโอกาสทำให้คนเข้าใจผิด",
+      "ห้ามใช้ likeness/เสียงของคนอื่นโดยไม่มี consent"
+    ],
+    "trend_angle": "DeepMind ระบุว่าเนื้อหาที่สร้างหรือแก้ด้วย Omni ใน Gemini app, Google Flow หรือ YouTube มี SynthID และ C2PA Content Credentials จึงควรใช้เป็นส่วนหนึ่งของ workflow ความโปร่งใส"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "Qqg0j2pRKExT-p2sOs7e__WzYGyWxQ.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5b46/Qqg0j2pRKExT-p2sOs7e__WzYGyWxQ.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-trust-safe-publishing-20260523/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "ZmMDXr72TdTJGAM5tMmF-_AzHoCxzE.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5b49/ZmMDXr72TdTJGAM5tMmF-_AzHoCxzE.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-trust-safe-publishing-20260523/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "6NkJ49D-ZuQ_MxcgI6kuX_rMGY7Yhi.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5b4c/6NkJ49D-ZuQ_MxcgI6kuX_rMGY7Yhi.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-trust-safe-publishing-20260523/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "oHJrfuOkNNGX7yJdzfnyN_lmRw85nm.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5b4f/oHJrfuOkNNGX7yJdzfnyN_lmRw85nm.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-trust-safe-publishing-20260523/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "WKMIMj_6Ab-k1VZAe7_NP_ZkV2e1AV.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5b53/WKMIMj_6Ab-k1VZAe7_NP_ZkV2e1AV.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-trust-safe-publishing-20260523/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 6,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-trust-safe-publishing-20260523/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: วิดีโอ AI ดูสมจริงขึ้นมาก ถ้าธุรกิจใช้โดยไม่ตรวจ consent ความถูกต้อง หรือการเปิดเผยว่าเป็น AI อาจเสียความเชื่อใจเร็วกว่าได้ยอดวิว\n\n📌 ทำไมควรเซฟโพสต์นี้: DeepMind ระบุว่าเนื้อหาที่สร้างหรือแก้ด้วย Omni ใน Gemini app, Google Flow หรือ YouTube มี SynthID และ C2PA Content Credentials จึงควรใช้เป็นส่วนหนึ่งของ workflow ความโปร่งใส\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ บันทึก source asset และ prompt ที่ใช้สร้างคลิป\n\n2) ✨ เช็กคน สินค้า สถานที่ ราคา และคำเคลมก่อนโพสต์\n\n3) ✨ ใช้ SynthID/C2PA เป็นหลักฐานความโปร่งใสเมื่อ platform รองรับ\n\n4) ✨ ติดป้าย AI-made หรือ AI-assisted เมื่อมีโอกาสทำให้คนเข้าใจผิด\n\n🧪 ลองเริ่มวันนี้: วันนี้ทำเช็กลิสต์ 5 ข้อก่อนปล่อยคลิป Omni ทุกครั้ง: source, consent, claim, label, final review\n\n🧭 วิธีใช้กับงานนี้: บันทึก source asset และ prompt ที่ใช้สร้างคลิป → เช็กคน สินค้า สถานที่ ราคา และคำเคลมก่อนโพสต์ → ใช้ SynthID/C2PA เป็นหลักฐานความโปร่งใสเมื่อ platform รองรับ\n\n🌱 มือใหม่ให้เริ่มจากเคสจริงเล็ก ๆ ของอุตสาหกรรมนี้ แล้วให้คนในทีมตรวจคำตอบก่อนใช้กับลูกค้าจริง\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเห็นว่า AI ช่วยลดงานซ้ำและทำให้บริการชัดขึ้นได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำคอนเทนต์ด้วยAI"
+    ],
+    "title": "ใช้ Gemini Omni ทำคลิป AI ต้องมีขั้นตอนเช็กความจริงก่อนโพสต์ #AIมือใหม่"
+  },
+  "status": "generated_pending_vision_qa",
+  "thai_brief": {
+    "evidence": [
+      "X search: GoogleDeepMind said Gemini Omni can create anything from anything, starting with video; combines Gemini intelligence with generative media systems; improves world understanding, multimodality and editing.",
+      "X search: GeminiApp said paid subscribers can use Gemini Omni in the Gemini app with text, image and video inputs, upload a camera-roll video, and ask Gemini to make changes.",
+      "X search: Google said Gemini Omni edits videos conversationally; instructions build on previous edits; characters stay consistent, physics holds up, and scenes remember prior context.",
+      "Official DeepMind page: Gemini Omni edits any video through natural step-by-step conversation, combines physics and real-world knowledge, and turns image/text/video/audio references into cohesive output.",
+      "Official Google Flow blog: Omni Flash in Flow supports improved character consistency, precise video editing, batch editing, and music-video direction in Flow Music for Google AI subscribers.",
+      "Official DeepMind page: content created or edited with Omni in Gemini app, Google Flow, or YouTube includes SynthID and C2PA Content Credentials."
+    ],
+    "glossary": {
+      "C2PA": "ข้อมูลรับรองที่ช่วยบอกที่มาของสื่อ",
+      "Flow": "Google Flow สตูดิโอสร้างวิดีโอ AI",
+      "Gemini Omni": "โมเดลสร้าง/แก้วิดีโอหลายรูปแบบของ Google",
+      "Google Omni": "ชื่อที่คนบน X ใช้เรียก Gemini Omni",
+      "SynthID": "ลายน้ำดิจิทัลของ Google"
+    },
+    "original_keywords": [
+      "Gemini Omni",
+      "Google Omni",
+      "video",
+      "SynthID",
+      "C2PA",
+      "trust"
+    ],
+    "source_id": "google-omni-trust-safe-publishing-20260523",
+    "source_url": "https://deepmind.google/models/gemini-omni/",
+    "thai_call_to_action": "วันนี้ทำเช็กลิสต์ 5 ข้อก่อนปล่อยคลิป Omni ทุกครั้ง: source, consent, claim, label, final review",
+    "thai_hook": "ใช้ Gemini Omni ทำคลิป AI ต้องมีขั้นตอนเช็กความจริงก่อนโพสต์",
+    "thai_problem": "วิดีโอ AI ดูสมจริงขึ้นมาก ถ้าธุรกิจใช้โดยไม่ตรวจ consent ความถูกต้อง หรือการเปิดเผยว่าเป็น AI อาจเสียความเชื่อใจเร็วกว่าได้ยอดวิว",
+    "thai_tips": [
+      "บันทึก source asset และ prompt ที่ใช้สร้างคลิป",
+      "เช็กคน สินค้า สถานที่ ราคา และคำเคลมก่อนโพสต์",
+      "ใช้ SynthID/C2PA เป็นหลักฐานความโปร่งใสเมื่อ platform รองรับ",
+      "ติดป้าย AI-made หรือ AI-assisted เมื่อมีโอกาสทำให้คนเข้าใจผิด",
+      "ห้ามใช้ likeness/เสียงของคนอื่นโดยไม่มี consent"
+    ],
+    "thai_trend_angle": "DeepMind ระบุว่าเนื้อหาที่สร้างหรือแก้ด้วย Omni ใน Gemini app, Google Flow หรือ YouTube มี SynthID และ C2PA Content Credentials จึงควรใช้เป็นส่วนหนึ่งของ workflow ความโปร่งใส"
+  }
+}

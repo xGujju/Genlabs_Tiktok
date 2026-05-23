@@ -1,0 +1,261 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a9b5ab0/ZgizOvtKbwmrVFu_h8rxD_XZ1evVJo.png",
+    "https://v3b.fal.media/files/b/0a9b5ab5/7zZbUnmE5YdWZsEogwUuU_vFuFuQEh.png",
+    "https://v3b.fal.media/files/b/0a9b5ab8/Yb8kv9H2JJVzRzmKgl5Sn_ItOphuSg.png",
+    "https://v3b.fal.media/files/b/0a9b5abc/7ZhZcT9zcBsDGarxMCwMY_qeDsepnX.png",
+    "https://v3b.fal.media/files/b/0a9b5ac0/iP7x8vb_ryGhI6L7406vk_HRKsy2EN.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 5,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/5 role=hook. Exact Thai copy: ภาพสินค้า\n→ วิดีโอสาธิต\nด้วย Gemini Omni. Visual direction: online seller product photo becomes three demo video frames, shopping cart and phone icons. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "ภาพสินค้า\n→ วิดีโอสาธิต\nด้วย Gemini Omni",
+        "visual_direction": "online seller product photo becomes three demo video frames, shopping cart and phone icons"
+      },
+      {
+        "image_prompt": "Slide 2/5 role=inputs. Exact Thai copy: Input:\nภาพสินค้าจริง\nคลิปมือใช้งาน\nจุดขาย 3 ข้อ. Visual direction: product photo card plus hand demo clip plus sticky note selling points. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 2,
+        "role": "inputs",
+        "thai_copy": "Input:\nภาพสินค้าจริง\nคลิปมือใช้งาน\nจุดขาย 3 ข้อ",
+        "visual_direction": "product photo card plus hand demo clip plus sticky note selling points"
+      },
+      {
+        "image_prompt": "Slide 3/5 role=storyboard. Exact Thai copy: Storyboard:\nเปิดกล่อง\nใช้จริง\nซูมรายละเอียด. Visual direction: three-panel unboxing/use/macro storyboard with arrows. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 3,
+        "role": "storyboard",
+        "thai_copy": "Storyboard:\nเปิดกล่อง\nใช้จริง\nซูมรายละเอียด",
+        "visual_direction": "three-panel unboxing/use/macro storyboard with arrows"
+      },
+      {
+        "image_prompt": "Slide 4/5 role=guardrail. Exact Thai copy: กฎสำคัญ:\nห้ามเปลี่ยนฉลาก\nสี\nรูปทรง. Visual direction: product accuracy checklist with label/color/shape locks. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 4,
+        "role": "guardrail",
+        "thai_copy": "กฎสำคัญ:\nห้ามเปลี่ยนฉลาก\nสี\nรูปทรง",
+        "visual_direction": "product accuracy checklist with label/color/shape locks"
+      },
+      {
+        "image_prompt": "Slide 5/5 role=cta. Exact Thai copy: ลองวันนี้:\nสินค้า 1 ชิ้น\nทำคลิป 3 จังหวะ. Visual direction: seller action checklist, 3-step mini timeline, save icon. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 5,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nสินค้า 1 ชิ้น\nทำคลิป 3 จังหวะ",
+        "visual_direction": "seller action checklist, 3-step mini timeline, save icon"
+      }
+    ],
+    "source_id": "google-omni-product-demo-video-20260523",
+    "source_url": "https://deepmind.google/models/gemini-omni/",
+    "thai_brief": {
+      "evidence": [
+        "X search: GoogleDeepMind said Gemini Omni can create anything from anything, starting with video; combines Gemini intelligence with generative media systems; improves world understanding, multimodality and editing.",
+        "X search: GeminiApp said paid subscribers can use Gemini Omni in the Gemini app with text, image and video inputs, upload a camera-roll video, and ask Gemini to make changes.",
+        "X search: Google said Gemini Omni edits videos conversationally; instructions build on previous edits; characters stay consistent, physics holds up, and scenes remember prior context.",
+        "Official DeepMind page: Gemini Omni edits any video through natural step-by-step conversation, combines physics and real-world knowledge, and turns image/text/video/audio references into cohesive output.",
+        "Official Google Flow blog: Omni Flash in Flow supports improved character consistency, precise video editing, batch editing, and music-video direction in Flow Music for Google AI subscribers.",
+        "Official DeepMind page: content created or edited with Omni in Gemini app, Google Flow, or YouTube includes SynthID and C2PA Content Credentials."
+      ],
+      "glossary": {
+        "C2PA": "ข้อมูลรับรองที่ช่วยบอกที่มาของสื่อ",
+        "Flow": "Google Flow สตูดิโอสร้างวิดีโอ AI",
+        "Gemini Omni": "โมเดลสร้าง/แก้วิดีโอหลายรูปแบบของ Google",
+        "Google Omni": "ชื่อที่คนบน X ใช้เรียก Gemini Omni",
+        "SynthID": "ลายน้ำดิจิทัลของ Google"
+      },
+      "original_keywords": [
+        "Gemini Omni",
+        "Google Omni",
+        "video",
+        "product",
+        "ecommerce",
+        "demo"
+      ],
+      "source_id": "google-omni-product-demo-video-20260523",
+      "source_url": "https://deepmind.google/models/gemini-omni/",
+      "thai_call_to_action": "วันนี้เลือกสินค้าขายดี 1 ชิ้น แล้วเขียน prompt สาธิต 3 จังหวะแบบไม่เปลี่ยนตัวสินค้า",
+      "thai_hook": "แม่ค้าออนไลน์ใช้ Gemini Omni ทำภาพสินค้าให้กลายเป็นวิดีโอสาธิต",
+      "thai_problem": "รูปสินค้าชัดช่วยให้ดูดี แต่ลูกค้าหลายคนยังไม่เข้าใจขนาด วิธีใช้ เนื้อสัมผัส หรือผลลัพธ์ก่อนตัดสินใจซื้อ",
+      "thai_tips": [
+        "เริ่มจากภาพสินค้าจริง + คลิปมือจับ/ใช้งานสั้น ๆ",
+        "สั่งให้สร้างวิดีโอโชว์ 3 จังหวะ: เปิดกล่อง ใช้จริง ซูมรายละเอียด",
+        "ย้ำว่าห้ามเปลี่ยนฉลาก สี รูปทรง หรือ claim สินค้า",
+        "ทำเวอร์ชัน marketplace, TikTok Shop และ LINE broadcast",
+        "ให้คนในร้านเทียบกับสินค้าจริงก่อนส่งให้ลูกค้าเห็น"
+      ],
+      "thai_trend_angle": "Omni ใช้ภาพ วิดีโอ และข้อความอ้างอิงร่วมกันได้ จึงเหมาะกับการทำคลิปสาธิตจาก asset ที่ร้านมีอยู่แล้ว"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "google-official-x-and-pages",
+    "clean_headline": "แม่ค้าออนไลน์ใช้ Gemini Omni ทำภาพสินค้าให้กลายเป็นวิดีโอสาธิต",
+    "clean_summary": "รูปสินค้าชัดช่วยให้ดูดี แต่ลูกค้าหลายคนยังไม่เข้าใจขนาด วิธีใช้ เนื้อสัมผัส หรือผลลัพธ์ก่อนตัดสินใจซื้อ",
+    "metrics_snapshot": {
+      "x_search_official_posts": 32
+    },
+    "original_keywords": [
+      "Gemini Omni",
+      "Google Omni",
+      "video",
+      "product",
+      "ecommerce",
+      "demo"
+    ],
+    "original_language": "en",
+    "raw_text": "แม่ค้าออนไลน์ใช้ Gemini Omni ทำภาพสินค้าให้กลายเป็นวิดีโอสาธิต\nรูปสินค้าชัดช่วยให้ดูดี แต่ลูกค้าหลายคนยังไม่เข้าใจขนาด วิธีใช้ เนื้อสัมผัส หรือผลลัพธ์ก่อนตัดสินใจซื้อ\nOmni ใช้ภาพ วิดีโอ และข้อความอ้างอิงร่วมกันได้ จึงเหมาะกับการทำคลิปสาธิตจาก asset ที่ร้านมีอยู่แล้ว\nเริ่มจากภาพสินค้าจริง + คลิปมือจับ/ใช้งานสั้น ๆ\nสั่งให้สร้างวิดีโอโชว์ 3 จังหวะ: เปิดกล่อง ใช้จริง ซูมรายละเอียด\nย้ำว่าห้ามเปลี่ยนฉลาก สี รูปทรง หรือ claim สินค้า\nทำเวอร์ชัน marketplace, TikTok Shop และ LINE broadcast\nให้คนในร้านเทียบกับสินค้าจริงก่อนส่งให้ลูกค้าเห็น",
+    "source_id": "google-omni-product-demo-video-20260523",
+    "source_url": "https://deepmind.google/models/gemini-omni/",
+    "why_it_matters": "Gemini Omni / Google Omni is a high-signal launch on X; Thai SMEs need practical non-overlapping workflows, not generic AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้เลือกสินค้าขายดี 1 ชิ้น แล้วเขียน prompt สาธิต 3 จังหวะแบบไม่เปลี่ยนตัวสินค้า",
+    "evidence": [
+      "X search: GoogleDeepMind said Gemini Omni can create anything from anything, starting with video; combines Gemini intelligence with generative media systems; improves world understanding, multimodality and editing.",
+      "X search: GeminiApp said paid subscribers can use Gemini Omni in the Gemini app with text, image and video inputs, upload a camera-roll video, and ask Gemini to make changes.",
+      "X search: Google said Gemini Omni edits videos conversationally; instructions build on previous edits; characters stay consistent, physics holds up, and scenes remember prior context.",
+      "Official DeepMind page: Gemini Omni edits any video through natural step-by-step conversation, combines physics and real-world knowledge, and turns image/text/video/audio references into cohesive output.",
+      "Official Google Flow blog: Omni Flash in Flow supports improved character consistency, precise video editing, batch editing, and music-video direction in Flow Music for Google AI subscribers.",
+      "Official DeepMind page: content created or edited with Omni in Gemini app, Google Flow, or YouTube includes SynthID and C2PA Content Credentials."
+    ],
+    "hook": "แม่ค้าออนไลน์ใช้ Gemini Omni ทำภาพสินค้าให้กลายเป็นวิดีโอสาธิต",
+    "original_keywords": [
+      "Gemini Omni",
+      "Google Omni",
+      "video",
+      "product",
+      "ecommerce",
+      "demo"
+    ],
+    "original_language": "en",
+    "problem": "รูปสินค้าชัดช่วยให้ดูดี แต่ลูกค้าหลายคนยังไม่เข้าใจขนาด วิธีใช้ เนื้อสัมผัส หรือผลลัพธ์ก่อนตัดสินใจซื้อ",
+    "source_id": "google-omni-product-demo-video-20260523",
+    "source_url": "https://deepmind.google/models/gemini-omni/",
+    "tips": [
+      "เริ่มจากภาพสินค้าจริง + คลิปมือจับ/ใช้งานสั้น ๆ",
+      "สั่งให้สร้างวิดีโอโชว์ 3 จังหวะ: เปิดกล่อง ใช้จริง ซูมรายละเอียด",
+      "ย้ำว่าห้ามเปลี่ยนฉลาก สี รูปทรง หรือ claim สินค้า",
+      "ทำเวอร์ชัน marketplace, TikTok Shop และ LINE broadcast",
+      "ให้คนในร้านเทียบกับสินค้าจริงก่อนส่งให้ลูกค้าเห็น"
+    ],
+    "trend_angle": "Omni ใช้ภาพ วิดีโอ และข้อความอ้างอิงร่วมกันได้ จึงเหมาะกับการทำคลิปสาธิตจาก asset ที่ร้านมีอยู่แล้ว"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "ZgizOvtKbwmrVFu_h8rxD_XZ1evVJo.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5ab0/ZgizOvtKbwmrVFu_h8rxD_XZ1evVJo.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-product-demo-video-20260523/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "7zZbUnmE5YdWZsEogwUuU_vFuFuQEh.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5ab5/7zZbUnmE5YdWZsEogwUuU_vFuFuQEh.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-product-demo-video-20260523/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "Yb8kv9H2JJVzRzmKgl5Sn_ItOphuSg.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5ab8/Yb8kv9H2JJVzRzmKgl5Sn_ItOphuSg.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-product-demo-video-20260523/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "7ZhZcT9zcBsDGarxMCwMY_qeDsepnX.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5abc/7ZhZcT9zcBsDGarxMCwMY_qeDsepnX.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-product-demo-video-20260523/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "iP7x8vb_ryGhI6L7406vk_HRKsy2EN.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5ac0/iP7x8vb_ryGhI6L7406vk_HRKsy2EN.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-product-demo-video-20260523/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 6,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-product-demo-video-20260523/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: รูปสินค้าชัดช่วยให้ดูดี แต่ลูกค้าหลายคนยังไม่เข้าใจขนาด วิธีใช้ เนื้อสัมผัส หรือผลลัพธ์ก่อนตัดสินใจซื้อ\n\n📌 ทำไมควรเซฟโพสต์นี้: Omni ใช้ภาพ วิดีโอ และข้อความอ้างอิงร่วมกันได้ จึงเหมาะกับการทำคลิปสาธิตจาก asset ที่ร้านมีอยู่แล้ว\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ เริ่มจากภาพสินค้าจริง + คลิปมือจับ/ใช้งานสั้น ๆ\n\n2) ✨ สั่งให้สร้างวิดีโอโชว์ 3 จังหวะ: เปิดกล่อง ใช้จริง ซูมรายละเอียด\n\n3) ✨ ย้ำว่าห้ามเปลี่ยนฉลาก สี รูปทรง หรือ claim สินค้า\n\n4) ✨ ทำเวอร์ชัน marketplace, TikTok Shop และ LINE broadcast\n\n🧪 ลองเริ่มวันนี้: วันนี้เลือกสินค้าขายดี 1 ชิ้น แล้วเขียน prompt สาธิต 3 จังหวะแบบไม่เปลี่ยนตัวสินค้า\n\n🧭 วิธีใช้กับงานนี้: เริ่มจากภาพสินค้าจริง + คลิปมือจับ/ใช้งานสั้น ๆ → สั่งให้สร้างวิดีโอโชว์ 3 จังหวะ: เปิดกล่อง ใช้จริง ซูมรายละเอียด → ย้ำว่าห้ามเปลี่ยนฉลาก สี รูปทรง หรือ claim สินค้า\n\n🌱 มือใหม่ให้เริ่มจากเคสจริงเล็ก ๆ ของอุตสาหกรรมนี้ แล้วให้คนในทีมตรวจคำตอบก่อนใช้กับลูกค้าจริง\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเห็นว่า AI ช่วยลดงานซ้ำและทำให้บริการชัดขึ้นได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำคอนเทนต์ด้วยAI"
+    ],
+    "title": "แม่ค้าออนไลน์ใช้ Gemini Omni ทำภาพสินค้าให้กลายเป็นวิดีโอสาธิต #AIมือใหม่"
+  },
+  "status": "generated_pending_vision_qa",
+  "thai_brief": {
+    "evidence": [
+      "X search: GoogleDeepMind said Gemini Omni can create anything from anything, starting with video; combines Gemini intelligence with generative media systems; improves world understanding, multimodality and editing.",
+      "X search: GeminiApp said paid subscribers can use Gemini Omni in the Gemini app with text, image and video inputs, upload a camera-roll video, and ask Gemini to make changes.",
+      "X search: Google said Gemini Omni edits videos conversationally; instructions build on previous edits; characters stay consistent, physics holds up, and scenes remember prior context.",
+      "Official DeepMind page: Gemini Omni edits any video through natural step-by-step conversation, combines physics and real-world knowledge, and turns image/text/video/audio references into cohesive output.",
+      "Official Google Flow blog: Omni Flash in Flow supports improved character consistency, precise video editing, batch editing, and music-video direction in Flow Music for Google AI subscribers.",
+      "Official DeepMind page: content created or edited with Omni in Gemini app, Google Flow, or YouTube includes SynthID and C2PA Content Credentials."
+    ],
+    "glossary": {
+      "C2PA": "ข้อมูลรับรองที่ช่วยบอกที่มาของสื่อ",
+      "Flow": "Google Flow สตูดิโอสร้างวิดีโอ AI",
+      "Gemini Omni": "โมเดลสร้าง/แก้วิดีโอหลายรูปแบบของ Google",
+      "Google Omni": "ชื่อที่คนบน X ใช้เรียก Gemini Omni",
+      "SynthID": "ลายน้ำดิจิทัลของ Google"
+    },
+    "original_keywords": [
+      "Gemini Omni",
+      "Google Omni",
+      "video",
+      "product",
+      "ecommerce",
+      "demo"
+    ],
+    "source_id": "google-omni-product-demo-video-20260523",
+    "source_url": "https://deepmind.google/models/gemini-omni/",
+    "thai_call_to_action": "วันนี้เลือกสินค้าขายดี 1 ชิ้น แล้วเขียน prompt สาธิต 3 จังหวะแบบไม่เปลี่ยนตัวสินค้า",
+    "thai_hook": "แม่ค้าออนไลน์ใช้ Gemini Omni ทำภาพสินค้าให้กลายเป็นวิดีโอสาธิต",
+    "thai_problem": "รูปสินค้าชัดช่วยให้ดูดี แต่ลูกค้าหลายคนยังไม่เข้าใจขนาด วิธีใช้ เนื้อสัมผัส หรือผลลัพธ์ก่อนตัดสินใจซื้อ",
+    "thai_tips": [
+      "เริ่มจากภาพสินค้าจริง + คลิปมือจับ/ใช้งานสั้น ๆ",
+      "สั่งให้สร้างวิดีโอโชว์ 3 จังหวะ: เปิดกล่อง ใช้จริง ซูมรายละเอียด",
+      "ย้ำว่าห้ามเปลี่ยนฉลาก สี รูปทรง หรือ claim สินค้า",
+      "ทำเวอร์ชัน marketplace, TikTok Shop และ LINE broadcast",
+      "ให้คนในร้านเทียบกับสินค้าจริงก่อนส่งให้ลูกค้าเห็น"
+    ],
+    "thai_trend_angle": "Omni ใช้ภาพ วิดีโอ และข้อความอ้างอิงร่วมกันได้ จึงเหมาะกับการทำคลิปสาธิตจาก asset ที่ร้านมีอยู่แล้ว"
+  }
+}

@@ -1,9 +1,9 @@
 # GenLabs Asset + Learning Index
 
-Updated: 2026-05-22 16:57:09 UTC
+Updated: 2026-05-23 16:56:30 UTC
 
-- Carousel image assets copied: 1890
-- Carousel manifests copied: 276
+- Carousel image assets copied: 1950
+- Carousel manifests copied: 286
 - Learning/operations notes copied: 21
 
 ## Carousel folders

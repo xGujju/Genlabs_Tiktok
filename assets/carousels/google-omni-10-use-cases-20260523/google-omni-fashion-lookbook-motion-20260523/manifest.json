@@ -1,0 +1,261 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a9b5b30/CARdponRxCZf07xok-Q1W_NGpKrgB2.png",
+    "https://v3b.fal.media/files/b/0a9b5b34/K3S1Sx_IoV6u6L6wgekZL_210f62gJ.png",
+    "https://v3b.fal.media/files/b/0a9b5b38/7Mvqx0GfFkoHCvTb26cov_zxNKxSw9.png",
+    "https://v3b.fal.media/files/b/0a9b5b3d/QMGogPhQx0IEZ_zldeCcV_Sn3NPQ9h.png",
+    "https://v3b.fal.media/files/b/0a9b5b42/C7pRxv0Fk6V1K3MX_ADKK_epHfWPYN.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 5,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/5 role=hook. Exact Thai copy: คลิปเดินธรรมดา\n→ Lookbook เคลื่อนไหว\nด้วย Gemini Omni. Visual direction: fashion phone clip transforming into lookbook motion frames, fabric swatches. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "คลิปเดินธรรมดา\n→ Lookbook เคลื่อนไหว\nด้วย Gemini Omni",
+        "visual_direction": "fashion phone clip transforming into lookbook motion frames, fabric swatches"
+      },
+      {
+        "image_prompt": "Slide 2/5 role=inputs. Exact Thai copy: Input:\nภาพชุดจริง\nคลิปเดิน\nMood คอลเลกชัน. Visual direction: outfit photo, walking reference, mood palette cards. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 2,
+        "role": "inputs",
+        "thai_copy": "Input:\nภาพชุดจริง\nคลิปเดิน\nMood คอลเลกชัน",
+        "visual_direction": "outfit photo, walking reference, mood palette cards"
+      },
+      {
+        "image_prompt": "Slide 3/5 role=shots. Exact Thai copy: ขอ 3 ซีน:\nเดิน\nหมุน\nซูม Texture. Visual direction: runway storyboard with walk/spin/fabric closeup panels. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 3,
+        "role": "shots",
+        "thai_copy": "ขอ 3 ซีน:\nเดิน\nหมุน\nซูม Texture",
+        "visual_direction": "runway storyboard with walk/spin/fabric closeup panels"
+      },
+      {
+        "image_prompt": "Slide 4/5 role=style. Exact Thai copy: คุมสไตล์:\nStreet\nResort\nMinimal\nThai modern. Visual direction: style board with four labeled mood cards and color swatches. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 4,
+        "role": "style",
+        "thai_copy": "คุมสไตล์:\nStreet\nResort\nMinimal\nThai modern",
+        "visual_direction": "style board with four labeled mood cards and color swatches"
+      },
+      {
+        "image_prompt": "Slide 5/5 role=guardrail. Exact Thai copy: เช็กก่อนใช้:\nสี\nทรง\nPattern\nต้องไม่เพี้ยน. Visual direction: garment accuracy checklist with lock icons. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 5,
+        "role": "guardrail",
+        "thai_copy": "เช็กก่อนใช้:\nสี\nทรง\nPattern\nต้องไม่เพี้ยน",
+        "visual_direction": "garment accuracy checklist with lock icons"
+      }
+    ],
+    "source_id": "google-omni-fashion-lookbook-motion-20260523",
+    "source_url": "https://deepmind.google/models/gemini-omni/",
+    "thai_brief": {
+      "evidence": [
+        "X search: GoogleDeepMind said Gemini Omni can create anything from anything, starting with video; combines Gemini intelligence with generative media systems; improves world understanding, multimodality and editing.",
+        "X search: GeminiApp said paid subscribers can use Gemini Omni in the Gemini app with text, image and video inputs, upload a camera-roll video, and ask Gemini to make changes.",
+        "X search: Google said Gemini Omni edits videos conversationally; instructions build on previous edits; characters stay consistent, physics holds up, and scenes remember prior context.",
+        "Official DeepMind page: Gemini Omni edits any video through natural step-by-step conversation, combines physics and real-world knowledge, and turns image/text/video/audio references into cohesive output.",
+        "Official Google Flow blog: Omni Flash in Flow supports improved character consistency, precise video editing, batch editing, and music-video direction in Flow Music for Google AI subscribers.",
+        "Official DeepMind page: content created or edited with Omni in Gemini app, Google Flow, or YouTube includes SynthID and C2PA Content Credentials."
+      ],
+      "glossary": {
+        "C2PA": "ข้อมูลรับรองที่ช่วยบอกที่มาของสื่อ",
+        "Flow": "Google Flow สตูดิโอสร้างวิดีโอ AI",
+        "Gemini Omni": "โมเดลสร้าง/แก้วิดีโอหลายรูปแบบของ Google",
+        "Google Omni": "ชื่อที่คนบน X ใช้เรียก Gemini Omni",
+        "SynthID": "ลายน้ำดิจิทัลของ Google"
+      },
+      "original_keywords": [
+        "Gemini Omni",
+        "Google Omni",
+        "video",
+        "fashion",
+        "lookbook",
+        "motion reference"
+      ],
+      "source_id": "google-omni-fashion-lookbook-motion-20260523",
+      "source_url": "https://deepmind.google/models/gemini-omni/",
+      "thai_call_to_action": "วันนี้เลือก look 1 ชุด แล้วทำ prompt lookbook 3 ซีนโดยล็อกสีและทรงเสื้อผ้า",
+      "thai_hook": "แบรนด์เสื้อผ้าใช้ Gemini Omni ทำ Lookbook เคลื่อนไหวจากคลิปเดินธรรมดา",
+      "thai_problem": "ร้านเสื้อผ้ามีรูปนางแบบหรือคลิปเดินสั้น ๆ แต่ยังขาด lookbook ที่โชว์ผ้า ทรง การเคลื่อนไหว และ mood ของคอลเลกชัน",
+      "thai_tips": [
+        "ใช้ภาพชุดจริง + คลิปเดิน reference ที่มีท่าทางชัด",
+        "กำหนด mood เช่น street, resort, minimal หรือ Thai modern",
+        "ขอวิดีโอโชว์ผ้าขณะเดิน หมุน และ close-up texture",
+        "ทำ 3 ซีน: look 1, detail, mix-and-match",
+        "ตรวจว่าเสื้อผ้าไม่เปลี่ยนสี ทรง หรือ pattern สำคัญ"
+      ],
+      "thai_trend_angle": "Omni สามารถใช้ภาพตัวละครกับวิดีโอ reference เพื่อ match motion/dialogue และ apply style reference ข้าม output ได้ จึงเหมาะกับ lookbook ทดลองก่อนถ่ายจริง"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "google-official-x-and-pages",
+    "clean_headline": "แบรนด์เสื้อผ้าใช้ Gemini Omni ทำ Lookbook เคลื่อนไหวจากคลิปเดินธรรมดา",
+    "clean_summary": "ร้านเสื้อผ้ามีรูปนางแบบหรือคลิปเดินสั้น ๆ แต่ยังขาด lookbook ที่โชว์ผ้า ทรง การเคลื่อนไหว และ mood ของคอลเลกชัน",
+    "metrics_snapshot": {
+      "x_search_official_posts": 32
+    },
+    "original_keywords": [
+      "Gemini Omni",
+      "Google Omni",
+      "video",
+      "fashion",
+      "lookbook",
+      "motion reference"
+    ],
+    "original_language": "en",
+    "raw_text": "แบรนด์เสื้อผ้าใช้ Gemini Omni ทำ Lookbook เคลื่อนไหวจากคลิปเดินธรรมดา\nร้านเสื้อผ้ามีรูปนางแบบหรือคลิปเดินสั้น ๆ แต่ยังขาด lookbook ที่โชว์ผ้า ทรง การเคลื่อนไหว และ mood ของคอลเลกชัน\nOmni สามารถใช้ภาพตัวละครกับวิดีโอ reference เพื่อ match motion/dialogue และ apply style reference ข้าม output ได้ จึงเหมาะกับ lookbook ทดลองก่อนถ่ายจริง\nใช้ภาพชุดจริง + คลิปเดิน reference ที่มีท่าทางชัด\nกำหนด mood เช่น street, resort, minimal หรือ Thai modern\nขอวิดีโอโชว์ผ้าขณะเดิน หมุน และ close-up texture\nทำ 3 ซีน: look 1, detail, mix-and-match\nตรวจว่าเสื้อผ้าไม่เปลี่ยนสี ทรง หรือ pattern สำคัญ",
+    "source_id": "google-omni-fashion-lookbook-motion-20260523",
+    "source_url": "https://deepmind.google/models/gemini-omni/",
+    "why_it_matters": "Gemini Omni / Google Omni is a high-signal launch on X; Thai SMEs need practical non-overlapping workflows, not generic AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้เลือก look 1 ชุด แล้วทำ prompt lookbook 3 ซีนโดยล็อกสีและทรงเสื้อผ้า",
+    "evidence": [
+      "X search: GoogleDeepMind said Gemini Omni can create anything from anything, starting with video; combines Gemini intelligence with generative media systems; improves world understanding, multimodality and editing.",
+      "X search: GeminiApp said paid subscribers can use Gemini Omni in the Gemini app with text, image and video inputs, upload a camera-roll video, and ask Gemini to make changes.",
+      "X search: Google said Gemini Omni edits videos conversationally; instructions build on previous edits; characters stay consistent, physics holds up, and scenes remember prior context.",
+      "Official DeepMind page: Gemini Omni edits any video through natural step-by-step conversation, combines physics and real-world knowledge, and turns image/text/video/audio references into cohesive output.",
+      "Official Google Flow blog: Omni Flash in Flow supports improved character consistency, precise video editing, batch editing, and music-video direction in Flow Music for Google AI subscribers.",
+      "Official DeepMind page: content created or edited with Omni in Gemini app, Google Flow, or YouTube includes SynthID and C2PA Content Credentials."
+    ],
+    "hook": "แบรนด์เสื้อผ้าใช้ Gemini Omni ทำ Lookbook เคลื่อนไหวจากคลิปเดินธรรมดา",
+    "original_keywords": [
+      "Gemini Omni",
+      "Google Omni",
+      "video",
+      "fashion",
+      "lookbook",
+      "motion reference"
+    ],
+    "original_language": "en",
+    "problem": "ร้านเสื้อผ้ามีรูปนางแบบหรือคลิปเดินสั้น ๆ แต่ยังขาด lookbook ที่โชว์ผ้า ทรง การเคลื่อนไหว และ mood ของคอลเลกชัน",
+    "source_id": "google-omni-fashion-lookbook-motion-20260523",
+    "source_url": "https://deepmind.google/models/gemini-omni/",
+    "tips": [
+      "ใช้ภาพชุดจริง + คลิปเดิน reference ที่มีท่าทางชัด",
+      "กำหนด mood เช่น street, resort, minimal หรือ Thai modern",
+      "ขอวิดีโอโชว์ผ้าขณะเดิน หมุน และ close-up texture",
+      "ทำ 3 ซีน: look 1, detail, mix-and-match",
+      "ตรวจว่าเสื้อผ้าไม่เปลี่ยนสี ทรง หรือ pattern สำคัญ"
+    ],
+    "trend_angle": "Omni สามารถใช้ภาพตัวละครกับวิดีโอ reference เพื่อ match motion/dialogue และ apply style reference ข้าม output ได้ จึงเหมาะกับ lookbook ทดลองก่อนถ่ายจริง"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "CARdponRxCZf07xok-Q1W_NGpKrgB2.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5b30/CARdponRxCZf07xok-Q1W_NGpKrgB2.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-fashion-lookbook-motion-20260523/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "K3S1Sx_IoV6u6L6wgekZL_210f62gJ.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5b34/K3S1Sx_IoV6u6L6wgekZL_210f62gJ.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-fashion-lookbook-motion-20260523/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "7Mvqx0GfFkoHCvTb26cov_zxNKxSw9.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5b38/7Mvqx0GfFkoHCvTb26cov_zxNKxSw9.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-fashion-lookbook-motion-20260523/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "QMGogPhQx0IEZ_zldeCcV_Sn3NPQ9h.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5b3d/QMGogPhQx0IEZ_zldeCcV_Sn3NPQ9h.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-fashion-lookbook-motion-20260523/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "C7pRxv0Fk6V1K3MX_ADKK_epHfWPYN.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5b42/C7pRxv0Fk6V1K3MX_ADKK_epHfWPYN.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-fashion-lookbook-motion-20260523/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 6,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-fashion-lookbook-motion-20260523/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: ร้านเสื้อผ้ามีรูปนางแบบหรือคลิปเดินสั้น ๆ แต่ยังขาด lookbook ที่โชว์ผ้า ทรง การเคลื่อนไหว และ mood ของคอลเลกชัน\n\n📌 ทำไมควรเซฟโพสต์นี้: Omni สามารถใช้ภาพตัวละครกับวิดีโอ reference เพื่อ match motion/dialogue และ apply style reference ข้าม output ได้ จึงเหมาะกับ lookbook ทดลองก่อนถ่ายจริง\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ ใช้ภาพชุดจริง + คลิปเดิน reference ที่มีท่าทางชัด\n\n2) ✨ กำหนด mood เช่น street, resort, minimal หรือ Thai modern\n\n3) ✨ ขอวิดีโอโชว์ผ้าขณะเดิน หมุน และ close-up texture\n\n4) ✨ ทำ 3 ซีน: look 1, detail, mix-and-match\n\n🧪 ลองเริ่มวันนี้: วันนี้เลือก look 1 ชุด แล้วทำ prompt lookbook 3 ซีนโดยล็อกสีและทรงเสื้อผ้า\n\n🧭 วิธีใช้กับงานนี้: ใช้ภาพชุดจริง + คลิปเดิน reference ที่มีท่าทางชัด → กำหนด mood เช่น street, resort, minimal หรือ Thai modern → ขอวิดีโอโชว์ผ้าขณะเดิน หมุน และ close-up texture\n\n🌱 มือใหม่ให้เริ่มจากเคสจริงเล็ก ๆ ของอุตสาหกรรมนี้ แล้วให้คนในทีมตรวจคำตอบก่อนใช้กับลูกค้าจริง\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเห็นว่า AI ช่วยลดงานซ้ำและทำให้บริการชัดขึ้นได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำคอนเทนต์ด้วยAI"
+    ],
+    "title": "แบรนด์เสื้อผ้าใช้ Gemini Omni ทำ Lookbook เคลื่อนไหวจากคลิปเดินธรรมดา #AIมือใหม่"
+  },
+  "status": "generated_pending_vision_qa",
+  "thai_brief": {
+    "evidence": [
+      "X search: GoogleDeepMind said Gemini Omni can create anything from anything, starting with video; combines Gemini intelligence with generative media systems; improves world understanding, multimodality and editing.",
+      "X search: GeminiApp said paid subscribers can use Gemini Omni in the Gemini app with text, image and video inputs, upload a camera-roll video, and ask Gemini to make changes.",
+      "X search: Google said Gemini Omni edits videos conversationally; instructions build on previous edits; characters stay consistent, physics holds up, and scenes remember prior context.",
+      "Official DeepMind page: Gemini Omni edits any video through natural step-by-step conversation, combines physics and real-world knowledge, and turns image/text/video/audio references into cohesive output.",
+      "Official Google Flow blog: Omni Flash in Flow supports improved character consistency, precise video editing, batch editing, and music-video direction in Flow Music for Google AI subscribers.",
+      "Official DeepMind page: content created or edited with Omni in Gemini app, Google Flow, or YouTube includes SynthID and C2PA Content Credentials."
+    ],
+    "glossary": {
+      "C2PA": "ข้อมูลรับรองที่ช่วยบอกที่มาของสื่อ",
+      "Flow": "Google Flow สตูดิโอสร้างวิดีโอ AI",
+      "Gemini Omni": "โมเดลสร้าง/แก้วิดีโอหลายรูปแบบของ Google",
+      "Google Omni": "ชื่อที่คนบน X ใช้เรียก Gemini Omni",
+      "SynthID": "ลายน้ำดิจิทัลของ Google"
+    },
+    "original_keywords": [
+      "Gemini Omni",
+      "Google Omni",
+      "video",
+      "fashion",
+      "lookbook",
+      "motion reference"
+    ],
+    "source_id": "google-omni-fashion-lookbook-motion-20260523",
+    "source_url": "https://deepmind.google/models/gemini-omni/",
+    "thai_call_to_action": "วันนี้เลือก look 1 ชุด แล้วทำ prompt lookbook 3 ซีนโดยล็อกสีและทรงเสื้อผ้า",
+    "thai_hook": "แบรนด์เสื้อผ้าใช้ Gemini Omni ทำ Lookbook เคลื่อนไหวจากคลิปเดินธรรมดา",
+    "thai_problem": "ร้านเสื้อผ้ามีรูปนางแบบหรือคลิปเดินสั้น ๆ แต่ยังขาด lookbook ที่โชว์ผ้า ทรง การเคลื่อนไหว และ mood ของคอลเลกชัน",
+    "thai_tips": [
+      "ใช้ภาพชุดจริง + คลิปเดิน reference ที่มีท่าทางชัด",
+      "กำหนด mood เช่น street, resort, minimal หรือ Thai modern",
+      "ขอวิดีโอโชว์ผ้าขณะเดิน หมุน และ close-up texture",
+      "ทำ 3 ซีน: look 1, detail, mix-and-match",
+      "ตรวจว่าเสื้อผ้าไม่เปลี่ยนสี ทรง หรือ pattern สำคัญ"
+    ],
+    "thai_trend_angle": "Omni สามารถใช้ภาพตัวละครกับวิดีโอ reference เพื่อ match motion/dialogue และ apply style reference ข้าม output ได้ จึงเหมาะกับ lookbook ทดลองก่อนถ่ายจริง"
+  }
+}

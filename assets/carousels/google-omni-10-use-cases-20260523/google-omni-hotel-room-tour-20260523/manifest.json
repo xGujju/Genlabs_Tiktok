@@ -1,0 +1,261 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a9b5a9b/TqwuETlAd1ZkVDG7RcISt_2KoD8C1y.png",
+    "https://v3b.fal.media/files/b/0a9b5a9f/ITDmM-G4pfcT4U3Fpvo_i_TeraznNc.png",
+    "https://v3b.fal.media/files/b/0a9b5aa3/9jkgbICec5NRsxNYaCI3A_e9nGfDI1.png",
+    "https://v3b.fal.media/files/b/0a9b5aa8/Ld0W6nfzM7kymnJhc0LmO_csfQJWxY.png",
+    "https://v3b.fal.media/files/b/0a9b5aac/jPJfEwCgPejan0A7YL74M_EcS8sYNR.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 5,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/5 role=hook. Exact Thai copy: คลิปห้องธรรมดา\nทำเป็น Room Tour\nที่ดูน่าจอง. Visual direction: hotel room phone video transforming into polished room-tour frames; booking calendar icon. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "คลิปห้องธรรมดา\nทำเป็น Room Tour\nที่ดูน่าจอง",
+        "visual_direction": "hotel room phone video transforming into polished room-tour frames; booking calendar icon"
+      },
+      {
+        "image_prompt": "Slide 2/5 role=input. Exact Thai copy: ถ่ายให้ครบ:\nเตียง\nวิว\nห้องน้ำ\nทางเดิน. Visual direction: simple floor-plan checklist with four room zones highlighted. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 2,
+        "role": "input",
+        "thai_copy": "ถ่ายให้ครบ:\nเตียง\nวิว\nห้องน้ำ\nทางเดิน",
+        "visual_direction": "simple floor-plan checklist with four room zones highlighted"
+      },
+      {
+        "image_prompt": "Slide 3/5 role=edit. Exact Thai copy: แก้ด้วยคำสั่ง:\nMorning\nSunset\nCozy Night. Visual direction: same room shown in three lighting mood cards, sun/moon icons. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 3,
+        "role": "edit",
+        "thai_copy": "แก้ด้วยคำสั่ง:\nMorning\nSunset\nCozy Night",
+        "visual_direction": "same room shown in three lighting mood cards, sun/moon icons"
+      },
+      {
+        "image_prompt": "Slide 4/5 role=benefit. Exact Thai copy: ขายได้หลายกลุ่ม:\nคู่รัก\nครอบครัว\nทำงานเงียบ. Visual direction: three guest persona cards with room-tour thumbnails. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 4,
+        "role": "benefit",
+        "thai_copy": "ขายได้หลายกลุ่ม:\nคู่รัก\nครอบครัว\nทำงานเงียบ",
+        "visual_direction": "three guest persona cards with room-tour thumbnails"
+      },
+      {
+        "image_prompt": "Slide 5/5 role=guardrail. Exact Thai copy: ห้ามเปลี่ยน Layout จริง\nจนลูกค้าเข้าใจผิด. Visual direction: accuracy stamp over floor plan, warning sign and checklist. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 5,
+        "role": "guardrail",
+        "thai_copy": "ห้ามเปลี่ยน Layout จริง\nจนลูกค้าเข้าใจผิด",
+        "visual_direction": "accuracy stamp over floor plan, warning sign and checklist"
+      }
+    ],
+    "source_id": "google-omni-hotel-room-tour-20260523",
+    "source_url": "https://deepmind.google/models/gemini-omni/",
+    "thai_brief": {
+      "evidence": [
+        "X search: GoogleDeepMind said Gemini Omni can create anything from anything, starting with video; combines Gemini intelligence with generative media systems; improves world understanding, multimodality and editing.",
+        "X search: GeminiApp said paid subscribers can use Gemini Omni in the Gemini app with text, image and video inputs, upload a camera-roll video, and ask Gemini to make changes.",
+        "X search: Google said Gemini Omni edits videos conversationally; instructions build on previous edits; characters stay consistent, physics holds up, and scenes remember prior context.",
+        "Official DeepMind page: Gemini Omni edits any video through natural step-by-step conversation, combines physics and real-world knowledge, and turns image/text/video/audio references into cohesive output.",
+        "Official Google Flow blog: Omni Flash in Flow supports improved character consistency, precise video editing, batch editing, and music-video direction in Flow Music for Google AI subscribers.",
+        "Official DeepMind page: content created or edited with Omni in Gemini app, Google Flow, or YouTube includes SynthID and C2PA Content Credentials."
+      ],
+      "glossary": {
+        "C2PA": "ข้อมูลรับรองที่ช่วยบอกที่มาของสื่อ",
+        "Flow": "Google Flow สตูดิโอสร้างวิดีโอ AI",
+        "Gemini Omni": "โมเดลสร้าง/แก้วิดีโอหลายรูปแบบของ Google",
+        "Google Omni": "ชื่อที่คนบน X ใช้เรียก Gemini Omni",
+        "SynthID": "ลายน้ำดิจิทัลของ Google"
+      },
+      "original_keywords": [
+        "Gemini Omni",
+        "Google Omni",
+        "video",
+        "hotel",
+        "property",
+        "tour"
+      ],
+      "source_id": "google-omni-hotel-room-tour-20260523",
+      "source_url": "https://deepmind.google/models/gemini-omni/",
+      "thai_call_to_action": "วันนี้ถ่ายคลิปห้องจริง 10 วินาที แล้วร่าง prompt เปลี่ยนเป็นทัวร์ห้อง 3 บรรยากาศ",
+      "thai_hook": "โรงแรมใช้ Gemini Omni ทำคลิปห้องธรรมดาให้ดูน่าจองขึ้น",
+      "thai_problem": "หลายโรงแรมมีคลิปเดินถ่ายห้องด้วยมือถือ แต่แสงไม่สวย มุมไม่เล่าเรื่อง และลูกค้ามองไม่ออกว่าห้องให้ความรู้สึกแบบไหน",
+      "thai_tips": [
+        "ถ่ายคลิปห้องจริงแบบช้า ๆ ให้เห็นเตียง วิว ห้องน้ำ และทางเดิน",
+        "สั่งเปลี่ยนแสงเป็น morning / sunset / cozy night ตามแพ็กที่ขาย",
+        "ขอให้เพิ่ม callout จุดขาย เช่น วิว อ่าง เตียงใหญ่ โดยไม่บังภาพ",
+        "ทำคลิปแยกสำหรับคู่รัก ครอบครัว และทำงานเงียบ ๆ",
+        "ตรวจว่า layout ห้องจริงไม่ถูกเปลี่ยนจนลูกค้าเข้าใจผิด"
+      ],
+      "thai_trend_angle": "Omni เด่นตรงแก้คลิปของเราเองได้ด้วยคำสั่งต่อเนื่อง เช่น เปลี่ยนแสง เพิ่มบรรยากาศ และรักษาโครงห้องเดิมไว้"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "google-official-x-and-pages",
+    "clean_headline": "โรงแรมใช้ Gemini Omni ทำคลิปห้องธรรมดาให้ดูน่าจองขึ้น",
+    "clean_summary": "หลายโรงแรมมีคลิปเดินถ่ายห้องด้วยมือถือ แต่แสงไม่สวย มุมไม่เล่าเรื่อง และลูกค้ามองไม่ออกว่าห้องให้ความรู้สึกแบบไหน",
+    "metrics_snapshot": {
+      "x_search_official_posts": 32
+    },
+    "original_keywords": [
+      "Gemini Omni",
+      "Google Omni",
+      "video",
+      "hotel",
+      "property",
+      "tour"
+    ],
+    "original_language": "en",
+    "raw_text": "โรงแรมใช้ Gemini Omni ทำคลิปห้องธรรมดาให้ดูน่าจองขึ้น\nหลายโรงแรมมีคลิปเดินถ่ายห้องด้วยมือถือ แต่แสงไม่สวย มุมไม่เล่าเรื่อง และลูกค้ามองไม่ออกว่าห้องให้ความรู้สึกแบบไหน\nOmni เด่นตรงแก้คลิปของเราเองได้ด้วยคำสั่งต่อเนื่อง เช่น เปลี่ยนแสง เพิ่มบรรยากาศ และรักษาโครงห้องเดิมไว้\nถ่ายคลิปห้องจริงแบบช้า ๆ ให้เห็นเตียง วิว ห้องน้ำ และทางเดิน\nสั่งเปลี่ยนแสงเป็น morning / sunset / cozy night ตามแพ็กที่ขาย\nขอให้เพิ่ม callout จุดขาย เช่น วิว อ่าง เตียงใหญ่ โดยไม่บังภาพ\nทำคลิปแยกสำหรับคู่รัก ครอบครัว และทำงานเงียบ ๆ\nตรวจว่า layout ห้องจริงไม่ถูกเปลี่ยนจนลูกค้าเข้าใจผิด",
+    "source_id": "google-omni-hotel-room-tour-20260523",
+    "source_url": "https://deepmind.google/models/gemini-omni/",
+    "why_it_matters": "Gemini Omni / Google Omni is a high-signal launch on X; Thai SMEs need practical non-overlapping workflows, not generic AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้ถ่ายคลิปห้องจริง 10 วินาที แล้วร่าง prompt เปลี่ยนเป็นทัวร์ห้อง 3 บรรยากาศ",
+    "evidence": [
+      "X search: GoogleDeepMind said Gemini Omni can create anything from anything, starting with video; combines Gemini intelligence with generative media systems; improves world understanding, multimodality and editing.",
+      "X search: GeminiApp said paid subscribers can use Gemini Omni in the Gemini app with text, image and video inputs, upload a camera-roll video, and ask Gemini to make changes.",
+      "X search: Google said Gemini Omni edits videos conversationally; instructions build on previous edits; characters stay consistent, physics holds up, and scenes remember prior context.",
+      "Official DeepMind page: Gemini Omni edits any video through natural step-by-step conversation, combines physics and real-world knowledge, and turns image/text/video/audio references into cohesive output.",
+      "Official Google Flow blog: Omni Flash in Flow supports improved character consistency, precise video editing, batch editing, and music-video direction in Flow Music for Google AI subscribers.",
+      "Official DeepMind page: content created or edited with Omni in Gemini app, Google Flow, or YouTube includes SynthID and C2PA Content Credentials."
+    ],
+    "hook": "โรงแรมใช้ Gemini Omni ทำคลิปห้องธรรมดาให้ดูน่าจองขึ้น",
+    "original_keywords": [
+      "Gemini Omni",
+      "Google Omni",
+      "video",
+      "hotel",
+      "property",
+      "tour"
+    ],
+    "original_language": "en",
+    "problem": "หลายโรงแรมมีคลิปเดินถ่ายห้องด้วยมือถือ แต่แสงไม่สวย มุมไม่เล่าเรื่อง และลูกค้ามองไม่ออกว่าห้องให้ความรู้สึกแบบไหน",
+    "source_id": "google-omni-hotel-room-tour-20260523",
+    "source_url": "https://deepmind.google/models/gemini-omni/",
+    "tips": [
+      "ถ่ายคลิปห้องจริงแบบช้า ๆ ให้เห็นเตียง วิว ห้องน้ำ และทางเดิน",
+      "สั่งเปลี่ยนแสงเป็น morning / sunset / cozy night ตามแพ็กที่ขาย",
+      "ขอให้เพิ่ม callout จุดขาย เช่น วิว อ่าง เตียงใหญ่ โดยไม่บังภาพ",
+      "ทำคลิปแยกสำหรับคู่รัก ครอบครัว และทำงานเงียบ ๆ",
+      "ตรวจว่า layout ห้องจริงไม่ถูกเปลี่ยนจนลูกค้าเข้าใจผิด"
+    ],
+    "trend_angle": "Omni เด่นตรงแก้คลิปของเราเองได้ด้วยคำสั่งต่อเนื่อง เช่น เปลี่ยนแสง เพิ่มบรรยากาศ และรักษาโครงห้องเดิมไว้"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "TqwuETlAd1ZkVDG7RcISt_2KoD8C1y.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5a9b/TqwuETlAd1ZkVDG7RcISt_2KoD8C1y.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-hotel-room-tour-20260523/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "ITDmM-G4pfcT4U3Fpvo_i_TeraznNc.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5a9f/ITDmM-G4pfcT4U3Fpvo_i_TeraznNc.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-hotel-room-tour-20260523/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "9jkgbICec5NRsxNYaCI3A_e9nGfDI1.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5aa3/9jkgbICec5NRsxNYaCI3A_e9nGfDI1.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-hotel-room-tour-20260523/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "Ld0W6nfzM7kymnJhc0LmO_csfQJWxY.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5aa8/Ld0W6nfzM7kymnJhc0LmO_csfQJWxY.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-hotel-room-tour-20260523/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "jPJfEwCgPejan0A7YL74M_EcS8sYNR.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5aac/jPJfEwCgPejan0A7YL74M_EcS8sYNR.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-hotel-room-tour-20260523/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 6,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-hotel-room-tour-20260523/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: หลายโรงแรมมีคลิปเดินถ่ายห้องด้วยมือถือ แต่แสงไม่สวย มุมไม่เล่าเรื่อง และลูกค้ามองไม่ออกว่าห้องให้ความรู้สึกแบบไหน\n\n📌 ทำไมควรเซฟโพสต์นี้: Omni เด่นตรงแก้คลิปของเราเองได้ด้วยคำสั่งต่อเนื่อง เช่น เปลี่ยนแสง เพิ่มบรรยากาศ และรักษาโครงห้องเดิมไว้\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ ถ่ายคลิปห้องจริงแบบช้า ๆ ให้เห็นเตียง วิว ห้องน้ำ และทางเดิน\n\n2) ✨ สั่งเปลี่ยนแสงเป็น morning / sunset / cozy night ตามแพ็กที่ขาย\n\n3) ✨ ขอให้เพิ่ม callout จุดขาย เช่น วิว อ่าง เตียงใหญ่ โดยไม่บังภาพ\n\n4) ✨ ทำคลิปแยกสำหรับคู่รัก ครอบครัว และทำงานเงียบ ๆ\n\n🧪 ลองเริ่มวันนี้: วันนี้ถ่ายคลิปห้องจริง 10 วินาที แล้วร่าง prompt เปลี่ยนเป็นทัวร์ห้อง 3 บรรยากาศ\n\n🧭 วิธีใช้กับงานนี้: ถ่ายคลิปห้องจริงแบบช้า ๆ ให้เห็นเตียง วิว ห้องน้ำ และทางเดิน → สั่งเปลี่ยนแสงเป็น morning / sunset / cozy night ตามแพ็กที่ขาย → ขอให้เพิ่ม callout จุดขาย เช่น วิว อ่าง เตียงใหญ่ โดยไม่บังภาพ\n\n🌱 มือใหม่ให้เริ่มจากเคสจริงเล็ก ๆ ของอุตสาหกรรมนี้ แล้วให้คนในทีมตรวจคำตอบก่อนใช้กับลูกค้าจริง\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเห็นว่า AI ช่วยลดงานซ้ำและทำให้บริการชัดขึ้นได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำคอนเทนต์ด้วยAI"
+    ],
+    "title": "โรงแรมใช้ Gemini Omni ทำคลิปห้องธรรมดาให้ดูน่าจองขึ้น #AIมือใหม่ ใช้ได้จริง"
+  },
+  "status": "generated_pending_vision_qa",
+  "thai_brief": {
+    "evidence": [
+      "X search: GoogleDeepMind said Gemini Omni can create anything from anything, starting with video; combines Gemini intelligence with generative media systems; improves world understanding, multimodality and editing.",
+      "X search: GeminiApp said paid subscribers can use Gemini Omni in the Gemini app with text, image and video inputs, upload a camera-roll video, and ask Gemini to make changes.",
+      "X search: Google said Gemini Omni edits videos conversationally; instructions build on previous edits; characters stay consistent, physics holds up, and scenes remember prior context.",
+      "Official DeepMind page: Gemini Omni edits any video through natural step-by-step conversation, combines physics and real-world knowledge, and turns image/text/video/audio references into cohesive output.",
+      "Official Google Flow blog: Omni Flash in Flow supports improved character consistency, precise video editing, batch editing, and music-video direction in Flow Music for Google AI subscribers.",
+      "Official DeepMind page: content created or edited with Omni in Gemini app, Google Flow, or YouTube includes SynthID and C2PA Content Credentials."
+    ],
+    "glossary": {
+      "C2PA": "ข้อมูลรับรองที่ช่วยบอกที่มาของสื่อ",
+      "Flow": "Google Flow สตูดิโอสร้างวิดีโอ AI",
+      "Gemini Omni": "โมเดลสร้าง/แก้วิดีโอหลายรูปแบบของ Google",
+      "Google Omni": "ชื่อที่คนบน X ใช้เรียก Gemini Omni",
+      "SynthID": "ลายน้ำดิจิทัลของ Google"
+    },
+    "original_keywords": [
+      "Gemini Omni",
+      "Google Omni",
+      "video",
+      "hotel",
+      "property",
+      "tour"
+    ],
+    "source_id": "google-omni-hotel-room-tour-20260523",
+    "source_url": "https://deepmind.google/models/gemini-omni/",
+    "thai_call_to_action": "วันนี้ถ่ายคลิปห้องจริง 10 วินาที แล้วร่าง prompt เปลี่ยนเป็นทัวร์ห้อง 3 บรรยากาศ",
+    "thai_hook": "โรงแรมใช้ Gemini Omni ทำคลิปห้องธรรมดาให้ดูน่าจองขึ้น",
+    "thai_problem": "หลายโรงแรมมีคลิปเดินถ่ายห้องด้วยมือถือ แต่แสงไม่สวย มุมไม่เล่าเรื่อง และลูกค้ามองไม่ออกว่าห้องให้ความรู้สึกแบบไหน",
+    "thai_tips": [
+      "ถ่ายคลิปห้องจริงแบบช้า ๆ ให้เห็นเตียง วิว ห้องน้ำ และทางเดิน",
+      "สั่งเปลี่ยนแสงเป็น morning / sunset / cozy night ตามแพ็กที่ขาย",
+      "ขอให้เพิ่ม callout จุดขาย เช่น วิว อ่าง เตียงใหญ่ โดยไม่บังภาพ",
+      "ทำคลิปแยกสำหรับคู่รัก ครอบครัว และทำงานเงียบ ๆ",
+      "ตรวจว่า layout ห้องจริงไม่ถูกเปลี่ยนจนลูกค้าเข้าใจผิด"
+    ],
+    "thai_trend_angle": "Omni เด่นตรงแก้คลิปของเราเองได้ด้วยคำสั่งต่อเนื่อง เช่น เปลี่ยนแสง เพิ่มบรรยากาศ และรักษาโครงห้องเดิมไว้"
+  }
+}

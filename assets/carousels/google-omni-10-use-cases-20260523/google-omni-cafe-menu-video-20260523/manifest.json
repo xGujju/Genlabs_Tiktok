@@ -1,0 +1,261 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a9b5a7f/S57YluxPJ95zqpqLwCCF1_ELP4e2m6.png",
+    "https://v3b.fal.media/files/b/0a9b5a83/BtKEcEiMwrBOuMumsBffy_KccWwVaA.png",
+    "https://v3b.fal.media/files/b/0a9b5a86/iQkhcds8yEvS0FTozbV3N_PgVANLkj.png",
+    "https://v3b.fal.media/files/b/0a9b5a94/H_XG9-dLUVDq2Q810BM6y_me78i5vi.png",
+    "https://v3b.fal.media/files/b/0a9b5a98/w7Y39o1m3MlpUDT4gs2lH_yeaF9g8z.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 5,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/5 role=hook. Exact Thai copy: รูปเมนูนิ่ง?\nทำเป็นคลิปน่ากิน\nด้วย Gemini Omni. Visual direction: Thai cafe menu board, dish photo turning into short vertical video frames, steam and sauce motion arrows, cute robot chef. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "รูปเมนูนิ่ง?\nทำเป็นคลิปน่ากิน\nด้วย Gemini Omni",
+        "visual_direction": "Thai cafe menu board, dish photo turning into short vertical video frames, steam and sauce motion arrows, cute robot chef"
+      },
+      {
+        "image_prompt": "Slide 2/5 role=input. Exact Thai copy: Input ที่ต้องมี:\nรูปจานจริง\nMood ร้าน\nโปรวันนี้. Visual direction: three hand-drawn input cards: real dish photo, cafe mood palette, promo tag; no fake brand logos. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 2,
+        "role": "input",
+        "thai_copy": "Input ที่ต้องมี:\nรูปจานจริง\nMood ร้าน\nโปรวันนี้",
+        "visual_direction": "three hand-drawn input cards: real dish photo, cafe mood palette, promo tag; no fake brand logos"
+      },
+      {
+        "image_prompt": "Slide 3/5 role=prompt. Exact Thai copy: Prompt ตัวอย่าง:\nเพิ่มไอน้ำ\nซอสไหล\nกล้องซูมช้า. Visual direction: storyboard strip showing steam, sauce pour, slow camera zoom; marker arrows. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 3,
+        "role": "prompt",
+        "thai_copy": "Prompt ตัวอย่าง:\nเพิ่มไอน้ำ\nซอสไหล\nกล้องซูมช้า",
+        "visual_direction": "storyboard strip showing steam, sauce pour, slow camera zoom; marker arrows"
+      },
+      {
+        "image_prompt": "Slide 4/5 role=guardrail. Exact Thai copy: เช็กก่อนโพสต์:\nจานต้องเหมือนจริง\nราคาไม่มั่ว. Visual direction: magnifying glass comparing original dish and generated video frame, accuracy checklist. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 4,
+        "role": "guardrail",
+        "thai_copy": "เช็กก่อนโพสต์:\nจานต้องเหมือนจริง\nราคาไม่มั่ว",
+        "visual_direction": "magnifying glass comparing original dish and generated video frame, accuracy checklist"
+      },
+      {
+        "image_prompt": "Slide 5/5 role=cta. Exact Thai copy: ลองวันนี้:\nเมนูขายดี 1 จาน\n→ คลิป 7 วิ. Visual direction: action card with phone, 7-second timer, save icon and cafe owner. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 5,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nเมนูขายดี 1 จาน\n→ คลิป 7 วิ",
+        "visual_direction": "action card with phone, 7-second timer, save icon and cafe owner"
+      }
+    ],
+    "source_id": "google-omni-cafe-menu-video-20260523",
+    "source_url": "https://deepmind.google/models/gemini-omni/",
+    "thai_brief": {
+      "evidence": [
+        "X search: GoogleDeepMind said Gemini Omni can create anything from anything, starting with video; combines Gemini intelligence with generative media systems; improves world understanding, multimodality and editing.",
+        "X search: GeminiApp said paid subscribers can use Gemini Omni in the Gemini app with text, image and video inputs, upload a camera-roll video, and ask Gemini to make changes.",
+        "X search: Google said Gemini Omni edits videos conversationally; instructions build on previous edits; characters stay consistent, physics holds up, and scenes remember prior context.",
+        "Official DeepMind page: Gemini Omni edits any video through natural step-by-step conversation, combines physics and real-world knowledge, and turns image/text/video/audio references into cohesive output.",
+        "Official Google Flow blog: Omni Flash in Flow supports improved character consistency, precise video editing, batch editing, and music-video direction in Flow Music for Google AI subscribers.",
+        "Official DeepMind page: content created or edited with Omni in Gemini app, Google Flow, or YouTube includes SynthID and C2PA Content Credentials."
+      ],
+      "glossary": {
+        "C2PA": "ข้อมูลรับรองที่ช่วยบอกที่มาของสื่อ",
+        "Flow": "Google Flow สตูดิโอสร้างวิดีโอ AI",
+        "Gemini Omni": "โมเดลสร้าง/แก้วิดีโอหลายรูปแบบของ Google",
+        "Google Omni": "ชื่อที่คนบน X ใช้เรียก Gemini Omni",
+        "SynthID": "ลายน้ำดิจิทัลของ Google"
+      },
+      "original_keywords": [
+        "Gemini Omni",
+        "Google Omni",
+        "video",
+        "restaurant",
+        "cafe",
+        "food"
+      ],
+      "source_id": "google-omni-cafe-menu-video-20260523",
+      "source_url": "https://deepmind.google/models/gemini-omni/",
+      "thai_call_to_action": "วันนี้เลือกรูปเมนูขายดี 1 จาน แล้วร่าง prompt คลิป 7 วินาทีที่รักษาความจริงของอาหาร",
+      "thai_hook": "ร้านอาหารใช้ Gemini Omni เปลี่ยนรูปเมนูเป็นคลิปน่ากิน",
+      "thai_problem": "ร้านอาหารมีรูปจานสวยอยู่แล้ว แต่ TikTok/Reels ต้องการภาพเคลื่อนไหวที่หยุดนิ้วและทำให้คนอยากสั่งทันที",
+      "thai_tips": [
+        "ใช้รูปจานจริง + mood ร้าน + โปรโมชันวันนี้เป็น input",
+        "สั่งซีนสั้น 7 วินาที เช่น ไอน้ำ ซอสไหล มุมกล้องช้า",
+        "ให้รักษาหน้าตาอาหาร สี และปริมาณไม่ให้เกินจริง",
+        "ทำ 3 เวอร์ชัน: เมนูขายดี เมนูใหม่ เมนูโปรกลางวัน",
+        "เช็กก่อนโพสต์ว่าภาพไม่หลอกลูกค้าและราคาไม่ผิด"
+      ],
+      "thai_trend_angle": "Omni เหมาะกับเคสนี้เพราะผสมรูปจริงกับคำสั่งเป็นวิดีโอ และแก้ซีนด้วยภาษาคุยปกติได้โดยไม่ต้องเปิดหลายเครื่องมือ"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "google-official-x-and-pages",
+    "clean_headline": "ร้านอาหารใช้ Gemini Omni เปลี่ยนรูปเมนูเป็นคลิปน่ากิน",
+    "clean_summary": "ร้านอาหารมีรูปจานสวยอยู่แล้ว แต่ TikTok/Reels ต้องการภาพเคลื่อนไหวที่หยุดนิ้วและทำให้คนอยากสั่งทันที",
+    "metrics_snapshot": {
+      "x_search_official_posts": 32
+    },
+    "original_keywords": [
+      "Gemini Omni",
+      "Google Omni",
+      "video",
+      "restaurant",
+      "cafe",
+      "food"
+    ],
+    "original_language": "en",
+    "raw_text": "ร้านอาหารใช้ Gemini Omni เปลี่ยนรูปเมนูเป็นคลิปน่ากิน\nร้านอาหารมีรูปจานสวยอยู่แล้ว แต่ TikTok/Reels ต้องการภาพเคลื่อนไหวที่หยุดนิ้วและทำให้คนอยากสั่งทันที\nOmni เหมาะกับเคสนี้เพราะผสมรูปจริงกับคำสั่งเป็นวิดีโอ และแก้ซีนด้วยภาษาคุยปกติได้โดยไม่ต้องเปิดหลายเครื่องมือ\nใช้รูปจานจริง + mood ร้าน + โปรโมชันวันนี้เป็น input\nสั่งซีนสั้น 7 วินาที เช่น ไอน้ำ ซอสไหล มุมกล้องช้า\nให้รักษาหน้าตาอาหาร สี และปริมาณไม่ให้เกินจริง\nทำ 3 เวอร์ชัน: เมนูขายดี เมนูใหม่ เมนูโปรกลางวัน\nเช็กก่อนโพสต์ว่าภาพไม่หลอกลูกค้าและราคาไม่ผิด",
+    "source_id": "google-omni-cafe-menu-video-20260523",
+    "source_url": "https://deepmind.google/models/gemini-omni/",
+    "why_it_matters": "Gemini Omni / Google Omni is a high-signal launch on X; Thai SMEs need practical non-overlapping workflows, not generic AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้เลือกรูปเมนูขายดี 1 จาน แล้วร่าง prompt คลิป 7 วินาทีที่รักษาความจริงของอาหาร",
+    "evidence": [
+      "X search: GoogleDeepMind said Gemini Omni can create anything from anything, starting with video; combines Gemini intelligence with generative media systems; improves world understanding, multimodality and editing.",
+      "X search: GeminiApp said paid subscribers can use Gemini Omni in the Gemini app with text, image and video inputs, upload a camera-roll video, and ask Gemini to make changes.",
+      "X search: Google said Gemini Omni edits videos conversationally; instructions build on previous edits; characters stay consistent, physics holds up, and scenes remember prior context.",
+      "Official DeepMind page: Gemini Omni edits any video through natural step-by-step conversation, combines physics and real-world knowledge, and turns image/text/video/audio references into cohesive output.",
+      "Official Google Flow blog: Omni Flash in Flow supports improved character consistency, precise video editing, batch editing, and music-video direction in Flow Music for Google AI subscribers.",
+      "Official DeepMind page: content created or edited with Omni in Gemini app, Google Flow, or YouTube includes SynthID and C2PA Content Credentials."
+    ],
+    "hook": "ร้านอาหารใช้ Gemini Omni เปลี่ยนรูปเมนูเป็นคลิปน่ากิน",
+    "original_keywords": [
+      "Gemini Omni",
+      "Google Omni",
+      "video",
+      "restaurant",
+      "cafe",
+      "food"
+    ],
+    "original_language": "en",
+    "problem": "ร้านอาหารมีรูปจานสวยอยู่แล้ว แต่ TikTok/Reels ต้องการภาพเคลื่อนไหวที่หยุดนิ้วและทำให้คนอยากสั่งทันที",
+    "source_id": "google-omni-cafe-menu-video-20260523",
+    "source_url": "https://deepmind.google/models/gemini-omni/",
+    "tips": [
+      "ใช้รูปจานจริง + mood ร้าน + โปรโมชันวันนี้เป็น input",
+      "สั่งซีนสั้น 7 วินาที เช่น ไอน้ำ ซอสไหล มุมกล้องช้า",
+      "ให้รักษาหน้าตาอาหาร สี และปริมาณไม่ให้เกินจริง",
+      "ทำ 3 เวอร์ชัน: เมนูขายดี เมนูใหม่ เมนูโปรกลางวัน",
+      "เช็กก่อนโพสต์ว่าภาพไม่หลอกลูกค้าและราคาไม่ผิด"
+    ],
+    "trend_angle": "Omni เหมาะกับเคสนี้เพราะผสมรูปจริงกับคำสั่งเป็นวิดีโอ และแก้ซีนด้วยภาษาคุยปกติได้โดยไม่ต้องเปิดหลายเครื่องมือ"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": null,
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5a7f/S57YluxPJ95zqpqLwCCF1_ELP4e2m6.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-cafe-menu-video-20260523/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": null,
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5a83/BtKEcEiMwrBOuMumsBffy_KccWwVaA.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-cafe-menu-video-20260523/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": null,
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5a86/iQkhcds8yEvS0FTozbV3N_PgVANLkj.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-cafe-menu-video-20260523/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "H_XG9-dLUVDq2Q810BM6y_me78i5vi.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5a94/H_XG9-dLUVDq2Q810BM6y_me78i5vi.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-cafe-menu-video-20260523/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "w7Y39o1m3MlpUDT4gs2lH_yeaF9g8z.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5a98/w7Y39o1m3MlpUDT4gs2lH_yeaF9g8z.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-cafe-menu-video-20260523/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 6,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-cafe-menu-video-20260523/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: ร้านอาหารมีรูปจานสวยอยู่แล้ว แต่ TikTok/Reels ต้องการภาพเคลื่อนไหวที่หยุดนิ้วและทำให้คนอยากสั่งทันที\n\n📌 ทำไมควรเซฟโพสต์นี้: Omni เหมาะกับเคสนี้เพราะผสมรูปจริงกับคำสั่งเป็นวิดีโอ และแก้ซีนด้วยภาษาคุยปกติได้โดยไม่ต้องเปิดหลายเครื่องมือ\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ ใช้รูปจานจริง + mood ร้าน + โปรโมชันวันนี้เป็น input\n\n2) ✨ สั่งซีนสั้น 7 วินาที เช่น ไอน้ำ ซอสไหล มุมกล้องช้า\n\n3) ✨ ให้รักษาหน้าตาอาหาร สี และปริมาณไม่ให้เกินจริง\n\n4) ✨ ทำ 3 เวอร์ชัน: เมนูขายดี เมนูใหม่ เมนูโปรกลางวัน\n\n🧪 ลองเริ่มวันนี้: วันนี้เลือกรูปเมนูขายดี 1 จาน แล้วร่าง prompt คลิป 7 วินาทีที่รักษาความจริงของอาหาร\n\n🧭 วิธีใช้กับงานนี้: ใช้รูปจานจริง + mood ร้าน + โปรโมชันวันนี้เป็น input → สั่งซีนสั้น 7 วินาที เช่น ไอน้ำ ซอสไหล มุมกล้องช้า → ให้รักษาหน้าตาอาหาร สี และปริมาณไม่ให้เกินจริง\n\n🌱 มือใหม่ให้เริ่มจากเคสจริงเล็ก ๆ ของอุตสาหกรรมนี้ แล้วให้คนในทีมตรวจคำตอบก่อนใช้กับลูกค้าจริง\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเห็นว่า AI ช่วยลดงานซ้ำและทำให้บริการชัดขึ้นได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำคอนเทนต์ด้วยAI"
+    ],
+    "title": "ร้านอาหารใช้ Gemini Omni เปลี่ยนรูปเมนูเป็นคลิปน่ากิน #AIมือใหม่ ใช้ได้จริง"
+  },
+  "status": "generated_vision_qa_pass_with_cta",
+  "thai_brief": {
+    "evidence": [
+      "X search: GoogleDeepMind said Gemini Omni can create anything from anything, starting with video; combines Gemini intelligence with generative media systems; improves world understanding, multimodality and editing.",
+      "X search: GeminiApp said paid subscribers can use Gemini Omni in the Gemini app with text, image and video inputs, upload a camera-roll video, and ask Gemini to make changes.",
+      "X search: Google said Gemini Omni edits videos conversationally; instructions build on previous edits; characters stay consistent, physics holds up, and scenes remember prior context.",
+      "Official DeepMind page: Gemini Omni edits any video through natural step-by-step conversation, combines physics and real-world knowledge, and turns image/text/video/audio references into cohesive output.",
+      "Official Google Flow blog: Omni Flash in Flow supports improved character consistency, precise video editing, batch editing, and music-video direction in Flow Music for Google AI subscribers.",
+      "Official DeepMind page: content created or edited with Omni in Gemini app, Google Flow, or YouTube includes SynthID and C2PA Content Credentials."
+    ],
+    "glossary": {
+      "C2PA": "ข้อมูลรับรองที่ช่วยบอกที่มาของสื่อ",
+      "Flow": "Google Flow สตูดิโอสร้างวิดีโอ AI",
+      "Gemini Omni": "โมเดลสร้าง/แก้วิดีโอหลายรูปแบบของ Google",
+      "Google Omni": "ชื่อที่คนบน X ใช้เรียก Gemini Omni",
+      "SynthID": "ลายน้ำดิจิทัลของ Google"
+    },
+    "original_keywords": [
+      "Gemini Omni",
+      "Google Omni",
+      "video",
+      "restaurant",
+      "cafe",
+      "food"
+    ],
+    "source_id": "google-omni-cafe-menu-video-20260523",
+    "source_url": "https://deepmind.google/models/gemini-omni/",
+    "thai_call_to_action": "วันนี้เลือกรูปเมนูขายดี 1 จาน แล้วร่าง prompt คลิป 7 วินาทีที่รักษาความจริงของอาหาร",
+    "thai_hook": "ร้านอาหารใช้ Gemini Omni เปลี่ยนรูปเมนูเป็นคลิปน่ากิน",
+    "thai_problem": "ร้านอาหารมีรูปจานสวยอยู่แล้ว แต่ TikTok/Reels ต้องการภาพเคลื่อนไหวที่หยุดนิ้วและทำให้คนอยากสั่งทันที",
+    "thai_tips": [
+      "ใช้รูปจานจริง + mood ร้าน + โปรโมชันวันนี้เป็น input",
+      "สั่งซีนสั้น 7 วินาที เช่น ไอน้ำ ซอสไหล มุมกล้องช้า",
+      "ให้รักษาหน้าตาอาหาร สี และปริมาณไม่ให้เกินจริง",
+      "ทำ 3 เวอร์ชัน: เมนูขายดี เมนูใหม่ เมนูโปรกลางวัน",
+      "เช็กก่อนโพสต์ว่าภาพไม่หลอกลูกค้าและราคาไม่ผิด"
+    ],
+    "thai_trend_angle": "Omni เหมาะกับเคสนี้เพราะผสมรูปจริงกับคำสั่งเป็นวิดีโอ และแก้ซีนด้วยภาษาคุยปกติได้โดยไม่ต้องเปิดหลายเครื่องมือ"
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a9b5b07/948FZq6PfUBF3rCcVAn7N_vtJy8vdR.png",
+    "https://v3b.fal.media/files/b/0a9b5b0b/yffmvX_AgOnhJF5uOnT23_bCvJyonG.png",
+    "https://v3b.fal.media/files/b/0a9b5b0f/dtGkLypJiVM9fMiIyHzY4_LuZbxvff.png",
+    "https://v3b.fal.media/files/b/0a9b5b13/UpeQ7QAPVgJOxa-qfE51r_0DEvYhWW.png",
+    "https://v3b.fal.media/files/b/0a9b5b17/ELeT5BaG9Gc6J8lEskMpU_EY75TBCj.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 5,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/5 role=hook. Exact Thai copy: เจ้าของร้าน\nมี AI Avatar\nประกาศโปรได้เร็วขึ้น. Visual direction: shop owner avatar booth, promo sign, phone video preview. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "เจ้าของร้าน\nมี AI Avatar\nประกาศโปรได้เร็วขึ้น",
+        "visual_direction": "shop owner avatar booth, promo sign, phone video preview"
+      },
+      {
+        "image_prompt": "Slide 2/5 role=consent. Exact Thai copy: เริ่มจาก Consent:\nใช้หน้า/เสียง\nของตัวเองเท่านั้น. Visual direction: permission form, voice and face icons, green check. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 2,
+        "role": "consent",
+        "thai_copy": "เริ่มจาก Consent:\nใช้หน้า/เสียง\nของตัวเองเท่านั้น",
+        "visual_direction": "permission form, voice and face icons, green check"
+      },
+      {
+        "image_prompt": "Slide 3/5 role=script. Exact Thai copy: สคริปต์ 20 วิ:\nโปรอะไร\nถึงวันไหน\nลูกค้าต้องทำอะไร. Visual direction: short script card with timer and promo checklist. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 3,
+        "role": "script",
+        "thai_copy": "สคริปต์ 20 วิ:\nโปรอะไร\nถึงวันไหน\nลูกค้าต้องทำอะไร",
+        "visual_direction": "short script card with timer and promo checklist"
+      },
+      {
+        "image_prompt": "Slide 4/5 role=versions. Exact Thai copy: ทำหลายเวอร์ชัน:\nไทย\nอังกฤษ\nนักท่องเที่ยว. Visual direction: three language cards for shop announcement, flags abstract not national-specific. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 4,
+        "role": "versions",
+        "thai_copy": "ทำหลายเวอร์ชัน:\nไทย\nอังกฤษ\nนักท่องเที่ยว",
+        "visual_direction": "three language cards for shop announcement, flags abstract not national-specific"
+      },
+      {
+        "image_prompt": "Slide 5/5 role=trust. Exact Thai copy: รักษาความเชื่อใจ:\nอย่าปลอมเป็นคนอื่น\nอย่าเคลมเกินจริง. Visual direction: trust shield around avatar, warning badge. Teaching context: original Thai GenLabs AI Learning carousel about practical Gemini Omni / Google Omni use cases for Thai businesses and creators. Do not draw official Google logos; writing the words Gemini Omni is allowed. No external URLs, no X handles, no source labels, no fake metrics. Thai handwritten sketchnote style, white/light paper, colorful marker lines, rounded cards, arrows, checkmarks, cute AI helper robot, mobile-readable. Small subtle GenLabs AI Learning brand mark in corner.",
+        "index": 5,
+        "role": "trust",
+        "thai_copy": "รักษาความเชื่อใจ:\nอย่าปลอมเป็นคนอื่น\nอย่าเคลมเกินจริง",
+        "visual_direction": "trust shield around avatar, warning badge"
+      }
+    ],
+    "source_id": "google-omni-owner-avatar-announcement-20260523",
+    "source_url": "https://gemini.google/overview/video-generation/",
+    "thai_brief": {
+      "evidence": [
+        "X search: GoogleDeepMind said Gemini Omni can create anything from anything, starting with video; combines Gemini intelligence with generative media systems; improves world understanding, multimodality and editing.",
+        "X search: GeminiApp said paid subscribers can use Gemini Omni in the Gemini app with text, image and video inputs, upload a camera-roll video, and ask Gemini to make changes.",
+        "X search: Google said Gemini Omni edits videos conversationally; instructions build on previous edits; characters stay consistent, physics holds up, and scenes remember prior context.",
+        "Official DeepMind page: Gemini Omni edits any video through natural step-by-step conversation, combines physics and real-world knowledge, and turns image/text/video/audio references into cohesive output.",
+        "Official Google Flow blog: Omni Flash in Flow supports improved character consistency, precise video editing, batch editing, and music-video direction in Flow Music for Google AI subscribers.",
+        "Official DeepMind page: content created or edited with Omni in Gemini app, Google Flow, or YouTube includes SynthID and C2PA Content Credentials."
+      ],
+      "glossary": {
+        "C2PA": "ข้อมูลรับรองที่ช่วยบอกที่มาของสื่อ",
+        "Flow": "Google Flow สตูดิโอสร้างวิดีโอ AI",
+        "Gemini Omni": "โมเดลสร้าง/แก้วิดีโอหลายรูปแบบของ Google",
+        "Google Omni": "ชื่อที่คนบน X ใช้เรียก Gemini Omni",
+        "SynthID": "ลายน้ำดิจิทัลของ Google"
+      },
+      "original_keywords": [
+        "Gemini Omni",
+        "Google Omni",
+        "video",
+        "avatar",
+        "voice",
+        "likeness"
+      ],
+      "source_id": "google-omni-owner-avatar-announcement-20260523",
+      "source_url": "https://gemini.google/overview/video-generation/",
+      "thai_call_to_action": "วันนี้ร่างสคริปต์ประกาศโปร 20 วินาที และเช็กลิสต์ consent ก่อนทำ avatar",
+      "thai_hook": "เจ้าของร้านใช้ Gemini Omni Avatar ทำคลิปประกาศโปรโดยไม่ต้องถ่ายใหม่ทุกครั้ง",
+      "thai_problem": "เจ้าของธุรกิจอยากออกหน้าร้านในคอนเทนต์ แต่ไม่มีเวลาถ่ายซ้ำทุกโปร ทุกสาขา หรือทุกภาษาที่ลูกค้าต้องการ",
+      "thai_tips": [
+        "ใช้เฉพาะใบหน้าและเสียงของตัวเองหรือคนที่ให้ consent ชัดเจน",
+        "เขียนสคริปต์ประกาศโปรสั้น ๆ ไม่เกิน 20 วินาที",
+        "ทำเวอร์ชันภาษาไทย อังกฤษ หรือภาษานักท่องเที่ยวที่เจอบ่อย",
+        "ให้ avatar อยู่ในฉากร้านจริงหรือฉากที่ไม่หลอกลูกค้า",
+        "ติดป้ายว่าเป็น AI avatar เมื่อเหมาะสมเพื่อรักษาความเชื่อใจ"
+      ],
+      "thai_trend_angle": "GeminiApp บอกว่าสร้าง avatar ด้วยเสียงและ likeness ของตัวเองได้ แล้วใช้เป็นเวอร์ชันวิดีโอของตัวเองสำหรับสร้างคลิปใหม่ง่ายขึ้น"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "google-official-x-and-pages",
+    "clean_headline": "เจ้าของร้านใช้ Gemini Omni Avatar ทำคลิปประกาศโปรโดยไม่ต้องถ่ายใหม่ทุกครั้ง",
+    "clean_summary": "เจ้าของธุรกิจอยากออกหน้าร้านในคอนเทนต์ แต่ไม่มีเวลาถ่ายซ้ำทุกโปร ทุกสาขา หรือทุกภาษาที่ลูกค้าต้องการ",
+    "metrics_snapshot": {
+      "x_search_official_posts": 32
+    },
+    "original_keywords": [
+      "Gemini Omni",
+      "Google Omni",
+      "video",
+      "avatar",
+      "voice",
+      "likeness"
+    ],
+    "original_language": "en",
+    "raw_text": "เจ้าของร้านใช้ Gemini Omni Avatar ทำคลิปประกาศโปรโดยไม่ต้องถ่ายใหม่ทุกครั้ง\nเจ้าของธุรกิจอยากออกหน้าร้านในคอนเทนต์ แต่ไม่มีเวลาถ่ายซ้ำทุกโปร ทุกสาขา หรือทุกภาษาที่ลูกค้าต้องการ\nGeminiApp บอกว่าสร้าง avatar ด้วยเสียงและ likeness ของตัวเองได้ แล้วใช้เป็นเวอร์ชันวิดีโอของตัวเองสำหรับสร้างคลิปใหม่ง่ายขึ้น\nใช้เฉพาะใบหน้าและเสียงของตัวเองหรือคนที่ให้ consent ชัดเจน\nเขียนสคริปต์ประกาศโปรสั้น ๆ ไม่เกิน 20 วินาที\nทำเวอร์ชันภาษาไทย อังกฤษ หรือภาษานักท่องเที่ยวที่เจอบ่อย\nให้ avatar อยู่ในฉากร้านจริงหรือฉากที่ไม่หลอกลูกค้า\nติดป้ายว่าเป็น AI avatar เมื่อเหมาะสมเพื่อรักษาความเชื่อใจ",
+    "source_id": "google-omni-owner-avatar-announcement-20260523",
+    "source_url": "https://gemini.google/overview/video-generation/",
+    "why_it_matters": "Gemini Omni / Google Omni is a high-signal launch on X; Thai SMEs need practical non-overlapping workflows, not generic AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้ร่างสคริปต์ประกาศโปร 20 วินาที และเช็กลิสต์ consent ก่อนทำ avatar",
+    "evidence": [
+      "X search: GoogleDeepMind said Gemini Omni can create anything from anything, starting with video; combines Gemini intelligence with generative media systems; improves world understanding, multimodality and editing.",
+      "X search: GeminiApp said paid subscribers can use Gemini Omni in the Gemini app with text, image and video inputs, upload a camera-roll video, and ask Gemini to make changes.",
+      "X search: Google said Gemini Omni edits videos conversationally; instructions build on previous edits; characters stay consistent, physics holds up, and scenes remember prior context.",
+      "Official DeepMind page: Gemini Omni edits any video through natural step-by-step conversation, combines physics and real-world knowledge, and turns image/text/video/audio references into cohesive output.",
+      "Official Google Flow blog: Omni Flash in Flow supports improved character consistency, precise video editing, batch editing, and music-video direction in Flow Music for Google AI subscribers.",
+      "Official DeepMind page: content created or edited with Omni in Gemini app, Google Flow, or YouTube includes SynthID and C2PA Content Credentials."
+    ],
+    "hook": "เจ้าของร้านใช้ Gemini Omni Avatar ทำคลิปประกาศโปรโดยไม่ต้องถ่ายใหม่ทุกครั้ง",
+    "original_keywords": [
+      "Gemini Omni",
+      "Google Omni",
+      "video",
+      "avatar",
+      "voice",
+      "likeness"
+    ],
+    "original_language": "en",
+    "problem": "เจ้าของธุรกิจอยากออกหน้าร้านในคอนเทนต์ แต่ไม่มีเวลาถ่ายซ้ำทุกโปร ทุกสาขา หรือทุกภาษาที่ลูกค้าต้องการ",
+    "source_id": "google-omni-owner-avatar-announcement-20260523",
+    "source_url": "https://gemini.google/overview/video-generation/",
+    "tips": [
+      "ใช้เฉพาะใบหน้าและเสียงของตัวเองหรือคนที่ให้ consent ชัดเจน",
+      "เขียนสคริปต์ประกาศโปรสั้น ๆ ไม่เกิน 20 วินาที",
+      "ทำเวอร์ชันภาษาไทย อังกฤษ หรือภาษานักท่องเที่ยวที่เจอบ่อย",
+      "ให้ avatar อยู่ในฉากร้านจริงหรือฉากที่ไม่หลอกลูกค้า",
+      "ติดป้ายว่าเป็น AI avatar เมื่อเหมาะสมเพื่อรักษาความเชื่อใจ"
+    ],
+    "trend_angle": "GeminiApp บอกว่าสร้าง avatar ด้วยเสียงและ likeness ของตัวเองได้ แล้วใช้เป็นเวอร์ชันวิดีโอของตัวเองสำหรับสร้างคลิปใหม่ง่ายขึ้น"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "948FZq6PfUBF3rCcVAn7N_vtJy8vdR.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5b07/948FZq6PfUBF3rCcVAn7N_vtJy8vdR.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-owner-avatar-announcement-20260523/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "yffmvX_AgOnhJF5uOnT23_bCvJyonG.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5b0b/yffmvX_AgOnhJF5uOnT23_bCvJyonG.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-owner-avatar-announcement-20260523/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "dtGkLypJiVM9fMiIyHzY4_LuZbxvff.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5b0f/dtGkLypJiVM9fMiIyHzY4_LuZbxvff.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-owner-avatar-announcement-20260523/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "UpeQ7QAPVgJOxa-qfE51r_0DEvYhWW.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5b13/UpeQ7QAPVgJOxa-qfE51r_0DEvYhWW.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-owner-avatar-announcement-20260523/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "ELeT5BaG9Gc6J8lEskMpU_EY75TBCj.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9b5b17/ELeT5BaG9Gc6J8lEskMpU_EY75TBCj.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-owner-avatar-announcement-20260523/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 6,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/google-omni-10-use-cases-20260523/google-omni-owner-avatar-announcement-20260523/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: เจ้าของธุรกิจอยากออกหน้าร้านในคอนเทนต์ แต่ไม่มีเวลาถ่ายซ้ำทุกโปร ทุกสาขา หรือทุกภาษาที่ลูกค้าต้องการ\n\n📌 ทำไมควรเซฟโพสต์นี้: GeminiApp บอกว่าสร้าง avatar ด้วยเสียงและ likeness ของตัวเองได้ แล้วใช้เป็นเวอร์ชันวิดีโอของตัวเองสำหรับสร้างคลิปใหม่ง่ายขึ้น\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ ใช้เฉพาะใบหน้าและเสียงของตัวเองหรือคนที่ให้ consent ชัดเจน\n\n2) ✨ เขียนสคริปต์ประกาศโปรสั้น ๆ ไม่เกิน 20 วินาที\n\n3) ✨ ทำเวอร์ชันภาษาไทย อังกฤษ หรือภาษานักท่องเที่ยวที่เจอบ่อย\n\n4) ✨ ให้ avatar อยู่ในฉากร้านจริงหรือฉากที่ไม่หลอกลูกค้า\n\n🧪 ลองเริ่มวันนี้: วันนี้ร่างสคริปต์ประกาศโปร 20 วินาที และเช็กลิสต์ consent ก่อนทำ avatar\n\n🧭 วิธีใช้กับงานนี้: ใช้เฉพาะใบหน้าและเสียงของตัวเองหรือคนที่ให้ consent ชัดเจน → เขียนสคริปต์ประกาศโปรสั้น ๆ ไม่เกิน 20 วินาที → ทำเวอร์ชันภาษาไทย อังกฤษ หรือภาษานักท่องเที่ยวที่เจอบ่อย\n\n🌱 มือใหม่ให้เริ่มจากเคสจริงเล็ก ๆ ของอุตสาหกรรมนี้ แล้วให้คนในทีมตรวจคำตอบก่อนใช้กับลูกค้าจริง\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเห็นว่า AI ช่วยลดงานซ้ำและทำให้บริการชัดขึ้นได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำคอนเทนต์ด้วยAI"
+    ],
+    "title": "เจ้าของร้านใช้ Gemini Omni Avatar ทำคลิปประกาศโปรโดยไม่ต้องถ่ายใหม่ทุกครั้ง #AIมือใหม่"
+  },
+  "status": "generated_pending_vision_qa",
+  "thai_brief": {
+    "evidence": [
+      "X search: GoogleDeepMind said Gemini Omni can create anything from anything, starting with video; combines Gemini intelligence with generative media systems; improves world understanding, multimodality and editing.",
+      "X search: GeminiApp said paid subscribers can use Gemini Omni in the Gemini app with text, image and video inputs, upload a camera-roll video, and ask Gemini to make changes.",
+      "X search: Google said Gemini Omni edits videos conversationally; instructions build on previous edits; characters stay consistent, physics holds up, and scenes remember prior context.",
+      "Official DeepMind page: Gemini Omni edits any video through natural step-by-step conversation, combines physics and real-world knowledge, and turns image/text/video/audio references into cohesive output.",
+      "Official Google Flow blog: Omni Flash in Flow supports improved character consistency, precise video editing, batch editing, and music-video direction in Flow Music for Google AI subscribers.",
+      "Official DeepMind page: content created or edited with Omni in Gemini app, Google Flow, or YouTube includes SynthID and C2PA Content Credentials."
+    ],
+    "glossary": {
+      "C2PA": "ข้อมูลรับรองที่ช่วยบอกที่มาของสื่อ",
+      "Flow": "Google Flow สตูดิโอสร้างวิดีโอ AI",
+      "Gemini Omni": "โมเดลสร้าง/แก้วิดีโอหลายรูปแบบของ Google",
+      "Google Omni": "ชื่อที่คนบน X ใช้เรียก Gemini Omni",
+      "SynthID": "ลายน้ำดิจิทัลของ Google"
+    },
+    "original_keywords": [
+      "Gemini Omni",
+      "Google Omni",
+      "video",
+      "avatar",
+      "voice",
+      "likeness"
+    ],
+    "source_id": "google-omni-owner-avatar-announcement-20260523",
+    "source_url": "https://gemini.google/overview/video-generation/",
+    "thai_call_to_action": "วันนี้ร่างสคริปต์ประกาศโปร 20 วินาที และเช็กลิสต์ consent ก่อนทำ avatar",
+    "thai_hook": "เจ้าของร้านใช้ Gemini Omni Avatar ทำคลิปประกาศโปรโดยไม่ต้องถ่ายใหม่ทุกครั้ง",
+    "thai_problem": "เจ้าของธุรกิจอยากออกหน้าร้านในคอนเทนต์ แต่ไม่มีเวลาถ่ายซ้ำทุกโปร ทุกสาขา หรือทุกภาษาที่ลูกค้าต้องการ",
+    "thai_tips": [
+      "ใช้เฉพาะใบหน้าและเสียงของตัวเองหรือคนที่ให้ consent ชัดเจน",
+      "เขียนสคริปต์ประกาศโปรสั้น ๆ ไม่เกิน 20 วินาที",
+      "ทำเวอร์ชันภาษาไทย อังกฤษ หรือภาษานักท่องเที่ยวที่เจอบ่อย",
+      "ให้ avatar อยู่ในฉากร้านจริงหรือฉากที่ไม่หลอกลูกค้า",
+      "ติดป้ายว่าเป็น AI avatar เมื่อเหมาะสมเพื่อรักษาความเชื่อใจ"
+    ],
+    "thai_trend_angle": "GeminiApp บอกว่าสร้าง avatar ด้วยเสียงและ likeness ของตัวเองได้ แล้วใช้เป็นเวอร์ชันวิดีโอของตัวเองสำหรับสร้างคลิปใหม่ง่ายขึ้น"
+  }
+}

@@ -1,29 +1,26 @@
-<!-- ZG-FACTORY-SCHEDULER-READBACK-WATCH-2026-05-22-1635 -->
-- [x] Factory scheduler cadence resolved for this tick: manual exact command plus required recovery both completed at `2026-05-22T16:46:59.587376+00:00` with `draft_count=0/results=[]`; no factory/radar process at 2026-05-22T16:48:02Z; production cron `a97a7703af32` remains enabled/scheduled with next_run_at `2026-05-22T17:43:36.775776+00:00`. Source-lane exhaustion remains the active production blocker.
+<!-- ZG-2026-05-23-1600-GROWTH-CHECK -->
+- [x] Growth-check 16:00: no formal breakout. Best `7634027210248097042` remains 32,072 views / 429 shares / gap 67,928; protected CTA is promo copy only. Baseline `2026-05-23T16:00:49.674519+00:00` confirmed 0 candidates/no current watched-post movement. Post-baseline import `2026-05-23_16-03-07.md` / Imported At `2026-05-23T16:02:05.885176+00:00` found 0 movers at comparison `2026-05-23T16:11:15.542787+00:00`; breakout `2026-05-23_16-03-06.md` delivered no candidate; current growth-check markdown is in-flight until delivery, not a scheduler miss. No amplification, generation, spend, public posting, or Zernio send.
 
-<!-- ZG-FACTORY-SOURCE-LANE-EXHAUSTION-2026-05-22-1647-CURRENT -->
-- [ ] Current factory source-lane exhaustion anchor: exact hourly command and one recovery rerun both returned state `latest_social_draft_factory.json@2026-05-22T16:46:59.587376+00:00` with `draft_count=0/results=[]`; deterministic static lanes are exhausted/blocked (`evergreen 0/42`, `AI-word 0/8`, `KPI backstop 0/8`), Canonical Signals selected 0 eligible records, and there were no new auto folders, Airtable Carousel Posts, or Zernio payload/draft since 2026-05-22T16:44:17Z. Feed fresh non-repeating practical Thai software-tip/service-industry sources; keep production enabled and draft-only.
+<!-- ZG-2026-05-23-1539-BREAKOUT-WATCH -->
+- [x] Breakout-watch 15:39: no formal breakout. Previous below-threshold mover `7641239648790007048` moved +2 / 3.07/hr below threshold; the 16:00 growth-check baseline plus 16:03 import no-change readback supersedes it as current zero-delta/no-candidate evidence. No remix/amplification.
 
-<!-- ZG-2026-05-22-1630-BREAKOUT-WATCH -->
-- [x] Breakout-watch current readback: normal baseline `2026-05-22T16:30:30.417699+00:00` found 0 candidates; latest import `2026-05-22_16-32-15.md` refreshed Airtable (Imported At `2026-05-22T16:31:10.632296+00:00`) and current snapshot `2026-05-22T16:39:03.965431+00:00` found 0 candidates plus one below-threshold watch-only mover `7641239648790007048` (+3 views to 1680 views / 10 shares, import-window inflated). Best post `7634027210248097042` remains ChatGPT productivity/workflow at 32,072 views / 429 shares / gap 67,928; protected CTA is promo copy only. No amplification/public posting/spend/generation.
-
-<!-- ZG-2026-05-22-1600-GROWTH-CHECK-DELIVERED -->
-- [x] Growth-check delivered sync: output `2026-05-22_16-09-56.md` delivered; next_run_at `2026-05-22T18:00:00+00:00`. Analytics/import evidence is current via `2026-05-22_16-32-15.md` with 0 candidates and one below-threshold watch-only mover.
-
-<!-- ZG-RESULT-CLOSURE-BACKFILL -->
-- [ ] Active result loops remain overdue/blocked: backfill Performance/Experiments rows for active ChatGPT/NotebookLM/software-tip experiments before scaling more variants. Latest evidence: no formal breakout; `7641239648790007048` is below-threshold watch-only; factory source-lane/Zernio/editorial gates remain open.
+<!-- ZG-FACTORY-SOURCE-LANE-EXHAUSTION-CURRENT -->
+- [ ] URGENT KPI blocker — current factory source-lane exhaustion anchor: `manual-exact-run+required-recovery-2026-05-23T16:42Z_current-cron-delivery-pending` / state `latest_social_draft_factory.json@2026-05-23T16:42:34.519689+00:00`. Diagnostics: canonical selected 0/98 (not A/B 98; watch-for-corroboration 98; repeat-family/duplicate 42; existing source ID 12; no educational value 12), deterministic lanes exhausted after duplicate/repeat-family guards (evergreen 0/42, AI Words 0/8, KPI backstop 0/8). No new auto folder/manifest/media, Airtable Carousel Post, Zernio payload, or draft exists for this tick. Scheduler cadence is resolved/current: cron `a97a7703af32` enabled/future-scheduled next_run_at `2026-05-23T17:38:49.801877+00:00`, no lingering factory/radar process at `2026-05-23T16:43:33Z`. Keep production enabled/draft-only and replenish fresh non-repeating practical Thai software-tip/service-industry sources.
 
 <!-- ZG-BELOW-THRESHOLD-MOVER-WATCH-7641239648790007048 -->
-- [x] Below-threshold mover watch recorded: `7641239648790007048` moved +3 views to 1680 views / 10 shares after import `2026-05-22_16-32-15.md`, but candidate_count=0. No formal breakout/no amplification; wait for a later normal baseline or stronger share velocity before creating remix tasks.
+- [ ] Previous below-threshold watch-only mover: `7641239648790007048` at 1756 views / 11 shares. It moved +2 at the 15:39 baseline, but the 16:00 growth-check baseline plus 16:03 import no-change readback confirmed zero current movement/candidates, so no remix/amplification now.
 
-<!-- ZG-FACTORY-SOURCE-TOPIC-EDITORIAL-QA -->
-- [ ] Source-topic/editorial QA remains open as a separate prior blocker: prior recovery source `yt-0-FUhQKe-eU` generated an HR interview-scorecard carousel with stray `Token • Make` chip and title-family matches in recent Zernio, so it is review-only/not KPI-ready even though public source/meta leakage scan passed.
+<!-- ZG-2026-05-23-1200-EXPERIMENT-CREATOR -->
+- [ ] Experiment creator 12:00 delivered exactly three draft-only specs: kpi-exp-0523-1200-chatgpt-tailor-alteration-order-brief, kpi-exp-0523-1200-notebooklm-legal-contract-answer-book, kpi-exp-0523-1200-perplexity-event-booth-feasibility-check. Gate: no generation/posting/spend/Zernio send until result-closure, source-lane, prior Zernio POST 403, source-topic/editorial QA, and source-lane recovery clears.
 
-<!-- ZG-2026-05-22-1152-FACTORY-ZERNIO-403-PRIOR -->
-- [ ] Prior factory/Zernio API blocker (still open/separate): historical 11:52 output reports manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260522T113749Z-yt-0-FUhQKe-eU/manifest.json` / Airtable `recF8rxjmhe5cepxI` has `Zernio Draft Status=not_sent` and no draft ID because POST `/api/v1/posts` returned 403. Fix Zernio create permission/API-token/account access before retrying completed manifests; do not pause the production cron.
+<!-- ZG-RESULT-CLOSURE-BACKFILL -->
+- [ ] Active result loops remain overdue/blocked: backfill Performance/Experiments rows for active ChatGPT/NotebookLM/software-tip experiments before scaling more variants.
 
-<!-- ZG-2026-05-22-1200-EXPERIMENT-CREATOR -->
-- [x] Experiment creator current output delivered: `2026-05-22_12-17-28.md` created exactly 3 draft-only recovery-backlog specs for source IDs `kpi-exp-0522-1200-chatgpt-hotel-tour-cancellation-recovery`, `kpi-exp-0522-1200-notebooklm-pharmacy-safety-answer-book`, `kpi-exp-0522-1200-gemini-sheets-cashflow-payment-followup`. Evidence: best post `7634027210248097042` remains ChatGPT productivity/workflow at 32,072 views / 429 shares / gap 67,928; latest import `2026-05-22_16-32-15.md` found 0 candidates. Gate: no generation/posting/spend/Zernio send until result-closure, Zernio POST 403, source-lane, and source-topic/editorial gates clear.
+<!-- ZG-ZERNIO-POST-403-PRIOR -->
+- [ ] Prior Zernio POST 403 permission blocker remains separate from current zero-draft state: fix Zernio create permission/API-token/account access before retrying completed manifests.
 
-<!-- ZG-CTA-ZERO-METRIC-GUARD -->
-- [x] CTA/zero-metric guard active: best post `7634027210248097042` is ChatGPT productivity/workflow evidence; protected product-photo/no-prompt CTA is promo copy only. Latest import `2026-05-22_16-32-15.md` preserved positive metrics at 32,072 views / 429 shares; unsafe CTA count 0.
+<!-- ZG-SOURCE-TOPIC-EDITORIAL-QA-PRIOR -->
+- [ ] Prior source-topic/editorial QA remains open separately: patch source-specific routing before retrying that lane.
+
+<!-- ZG-ZERO-METRIC-CTA-GUARD -->
+- [x] Zero-metric / protected CTA guard active: best post `7634027210248097042` is ChatGPT productivity/workflow evidence at 32,072 views / 429 shares; protected GenLabs product-photo/no-prompt CTA is not hook/topic/winner evidence.

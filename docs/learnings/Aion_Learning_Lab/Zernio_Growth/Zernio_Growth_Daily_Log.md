@@ -1,4 +1,4 @@
-## Current Zernio Growth Summary — 2026-05-25
+## Current Zernio Growth Summary — 2026-05-26
 
 ### KPI status
 - Goal: one TikTok post reaches **100,000 views**.
@@ -6,147 +6,186 @@
 - Current views: 32,072
 - Gap to 100,000: 67,928
 - Shares: 429
-- Snapshot/verification time: growth-check snapshot `2026-05-25T16:00:49.857735+00:00`; scheduled import `2026-05-25_16-02-50.md` / live Imported At `2026-05-25T16:01:33.176584+00:00`; comparison `2026-05-25T16:02:34.193851+00:00`; final growth readback `2026-05-25T16:13:46Z`; factory/process readback `2026-05-25T16:51:47Z`.
+- Snapshot/verification time: breakout-watch pre-run snapshot `2026-05-26T16:30:34.819306+00:00`; import process stdout Airtable Imported At `2026-05-26T16:31:23.449478+00:00` (latest scheduled markdown `2026-05-26_16-11-40.md`); read-only comparison `2026-05-26T16:33:04.499519+00:00`; final process/readback `2026-05-26T16:44:19Z`.
 
 ### Current signal
-- Breakout state: **no_formal_breakout_current_baseline_below_threshold_movement_post_import_no_change**.
-- Current best/closest watch: `7634027210248097042` at 32,072 views / 429 shares / +0 views / gap 67,928.
-- Strongest early-velocity signal: `7641239648790007048` +3 to 1,890 views / 13 shares at the baseline, below threshold/watch-only; live import at `2026-05-25T16:01:33.176584+00:00` found 0 further movers.
-- Candidate count: 0 formal candidates; 0 refresh-window candidates.
-- Protected CTA: Post `7634027210248097042` is ChatGPT productivity/workflow evidence; protected CTA is promo copy only.
+- Breakout state: **no formal breakout current baseline zero delta**.
+- Current best/closest watch: `7634027210248097042` at 32,072 views / 429 shares / gap 67,928; protected CTA is promo copy only.
+- Candidate count: 0 formal candidates; 0 refresh-window candidates; 0 current movers after import process `2026-05-26T16:31:23.449478+00:00` and read-only comparison.
+- Scheduler/source state: factory scheduled output `2026-05-26_15-57-23.md` delivered zero-draft/source-lane state `latest_social_draft_factory.json@2026-05-26T15:42:23.465047+00:00`; cron `a97a7703af32` is enabled/state scheduled next `2026-05-26T16:57:24.609547+00:00`. Factory scheduler cadence is current; source-lane exhaustion remains open. Growth-check `2026-05-26_16-25-33.md` delivered; current breakout-watch markdown is in-flight until delivery, not a scheduler miss.
 
 ### Weak spots / blockers
-- no_posts_in_last_72h
-- issue-check `2026-05-25_13-18-39.md` errored/no response
-- zernio_factory_source_lane_exhaustion_current_2026_05_25_1650
-- active_experiment_result_closure_overdue_or_blocked
-- prior Zernio POST 403/account-access blockers from 2026-05-24 09:12 and 17:54 remain separate
-- prior editorial/source-topic QA blockers remain separate
-- learning_loop_structured_performance_experiments_backfill_missing
-- zero-metric/protected CTA guard remains active and clean
+- zernio_analytics_stale_over_3h: open — high
+- no_posts_in_last_72h: open — medium
+- zernio_factory_source_lane_exhaustion_current_2026_05_26_1557: open_source_lane_exhaustion_anti_repetition_guard_saturation — critical
+- active_experiment_result_closure_overdue_or_blocked: open_result_closure_backfill_before_scaling_more_experiments — medium
+- zernio_factory_source_topic_editorial_qa_prior_separate_2026_05_24_0912: open_prior_editorial_source_topic_qa — critical
+- zernio_factory_source_topic_editorial_qa_prior_separate_2026_05_25_1924: open_prior_editorial_source_topic_qa_review_only_not_KPI_ready — critical
+- zernio_factory_source_topic_routing_mismatch_prior_separate_2026_05_24_1754: open_prior_editorial_source_topic_qa_review_only_not_KPI_ready — critical
+- zernio_factory_zernio_post_forbidden_prior_separate_2026_05_24_0912: open_prior_zernio_post_403_instagram_account_missing — critical
+- zernio_factory_zernio_post_forbidden_prior_separate_2026_05_24_1754: open_prior_zernio_post_403_instagram_account_missing — critical
+- zernio_factory_zernio_post_forbidden_prior_separate_2026_05_25_1924: open_prior_zernio_post_403_instagram_account_missing — critical
 
-### Action / memory update
-- Used the 16:00 normal baseline and live post-import read-only comparison: no formal breakout; below-threshold mover only; no amplification/generation/public posting/spend/Zernio send.
-- Resolved the prior 14:30 import+breakout scheduler watch after breakout `2026-05-25_16-01-42.md` delivered and live Airtable import refreshed at `2026-05-25T16:01:33.176584+00:00` with 0 movers.
-- Refreshed factory state with current manual exact+required-recovery readback `manual-exact-run+recovery-2026-05-25T16:50Z_current-cron-delivery-pending` (zero-draft/source-lane exhaustion), state token `latest_social_draft_factory.json@2026-05-25T16:50:37.858469+00:00`, next_run_at `2026-05-25T17:47:30.923195+00:00`, no Airtable/Zernio payload/manifest/media.
-- Kept issue-check error `2026-05-25_13-18-39.md` open for retry/debug.
+### Action taken
+- Waited for the running analytics import to exit, then verified import stdout `2026-05-26T16:31:23.449478+00:00` and read-only Airtable comparison against live `last_snapshot.json`.
+- Verified growth-check `2026-05-26_16-25-33.md` delivered, latest completed breakout-watch `2026-05-26_16-09-48.md` remained no-candidate, and factory output `2026-05-26_15-57-23.md` delivered zero-draft/source-lane state.
+- Updated compact memory, tasks, Zernio Growth Memory, Daily Log, and Open Loops to latest import/growth/factory/readback truth.
+- No amplification, image generation, spend, public posting, or Zernio send.
 
-### Next action
-- Feed fresh non-repeating practical Thai ChatGPT + NotebookLM software-tip/service-workflow source IDs into the factory.
-- Backfill/close active experiment result loops before scaling more variants.
-- Keep production cron enabled/draft-only; do not pause, spend, publish, or send to Zernio from this growth-check.
+### Final readback
+- No matching import/factory/radar/snapshot Python process found at `2026-05-26T16:44:19Z`.
+- Production factory cron `a97a7703af32` remains enabled/state scheduled next `2026-05-26T16:57:24.609547+00:00`.
+- Current factory state: scheduled output `2026-05-26_15-57-23.md` plus state `latest_social_draft_factory.json@2026-05-26T15:42:23.465047+00:00` with `draft_count=0/results=[]`; no Airtable/Zernio payload exists, so Zernio/platform verification is not applicable for this tick.
+- Next action: feed fresh non-repeating practical Thai software-tip sources, prioritizing ChatGPT and NotebookLM, while keeping the cron enabled/draft-only.
+## 2026-05-26
+
+<!-- ZG-DLOG-2026-05-26-1630-BREAKOUT-WATCH -->
+### Breakout Watch 16:30 UTC — no breakout candidate; import process no-change; growth delivered
+- KPI: best/closest post `7634027210248097042` remains CTA-stripped ChatGPT productivity/workflow at 32,072 views / 429 shares / gap 67,928; protected CTA is promo copy only.
+- Analytics: normal baseline `2026-05-26T16:30:34.819306+00:00` found 0 candidates; import process stdout refreshed Airtable at `2026-05-26T16:31:23.449478+00:00` (latest scheduled markdown `2026-05-26_16-11-40.md`), and read-only comparison `2026-05-26T16:33:04.499519+00:00` found 0 candidates and 0 movers. Per-post best-post analytics remains stale at `2026-05-19 10:10:58`, so data-staleness watch stays open.
+- Readbacks: growth-check `2026-05-26_16-25-33.md` delivered; latest completed breakout `2026-05-26_16-09-48.md` delivered no-candidate; current breakout markdown is in-flight until delivery; factory `2026-05-26_15-57-23.md` delivered zero-draft/source-lane state and is future-scheduled next `2026-05-26T16:57:24.609547+00:00`; issue-check `2026-05-26_13-29-41.md` remains no-response/error.
+- Action: updated memory/tasks/Zernio Growth Memory/Open Loops; no amplification, no generation, no spend, no public posting, no Zernio send. Next action is source-lane replenishment, result-closure backfill, and issue-check follow-up.
+
+<!-- ZG-DLOG-2026-05-26-1609-GROWTH-CHECK -->
+### Growth Check 16:09 UTC — no formal breakout; import/breakout/factory readbacks current
+- KPI: best/closest post `7634027210248097042` remains CTA-stripped ChatGPT productivity/workflow at 32,072 views / 429 shares / gap 67,928; protected CTA is promo copy only.
+- Analytics: normal baseline `2026-05-26T16:09:10.878909+00:00` found 0 candidates/movers; scheduled import `2026-05-26_16-11-40.md` / Airtable Imported At `2026-05-26T16:31:23.449478+00:00` plus read-only comparison `2026-05-26T16:33:04.499519+00:00` found 0 candidates and 0 movers. Per-post best-post analytics remains stale at `2026-05-19 10:10:58`, so data-staleness watch stays open.
+- Readbacks: breakout `2026-05-26_16-09-48.md` delivered no-candidate; import `2026-05-26_16-11-40.md` delivered/current; factory `2026-05-26_15-57-23.md` delivered zero-draft/source-lane state `latest_social_draft_factory.json@2026-05-26T15:42:23.465047+00:00` and is future-scheduled next `2026-05-26T16:57:24.609547+00:00`; issue-check `2026-05-26_13-29-41.md` remains no-response/error; growth-check `2026-05-26_16-25-33.md` delivered.
+- Action: updated memory/tasks/Zernio Growth Memory/Open Loops/run log; no amplification, no generation, no spend, no public posting, no Zernio send. Next action is source-lane replenishment, result-closure backfill, and issue-check follow-up.
+
+<!-- ZG-DLOG-2026-05-26-1542-FACTORY-ZERO-DRAFT -->
+### Factory manual exact + recovery 15:42 UTC — zero drafts; scheduler current; source-lane blocker open
+- Command/readback: ran exactly `venv/bin/python scripts/scheduled_ai_social_draft_factory.py --limit 1 --apply --quality low --send-to-zernio` from `/home/clawd/.hermes/hermes-agent`; the 15:35 exact run and 15:42 required recovery rerun both exited `status=ok` with `draft_count=0/results=[]`; state `latest_social_draft_factory.json@2026-05-26T15:42:23.465047+00:00`. The `openclaw.bash` startup warning is unrelated.
+- Verification: no new `auto-*` folder/manifest/media since `2026-05-26T15:35:10Z`, Airtable `Carousel Posts` records created since run start = 0, no current outbound Zernio payload/post, no Zernio draft/media, and no lingering factory/radar process at `2026-05-26T16:44:19Z`. Zernio/platform verification is not applicable because no payload/post exists; no public posting, no `publishNow`, and no intentional schedule.
+- Diagnosis: source-lane exhaustion / anti-repetition guard saturation. Canonical Signals 0/98 eligible (overlapping blockers: 12 duplicate, 32 repeat-family, 12 no educational value, all 98 C-bucket/watch); deterministic lanes exhausted (evergreen 0/42, AI Words 0/8, current-hour KPI 0/8; 30 partial source IDs quarantined). YouTube/static fallback produced no usable non-duplicate candidate in the exact runs.
+- Scheduler/action: production cron `a97a7703af32` remains enabled/state scheduled next `2026-05-26T16:57:24.609547+00:00`. Factory scheduler cadence is resolved/current for this tick; source-lane exhaustion remains the active production blocker. Prior Zernio POST 403/account-access and editorial QA remain separate blockers.
+
+
+<!-- ZG-DLOG-2026-05-26-1500-BREAKOUT-WATCH -->
+### Breakout Watch 15:00 UTC — no breakout candidate; import/growth current; factory cadence later resolved
+- KPI: best/closest post `7634027210248097042` remains CTA-stripped ChatGPT productivity/workflow at 32,072 views / 429 shares / gap 67,928; protected CTA is promo copy only.
+- Analytics: baseline `2026-05-26T15:00:13.231225+00:00` found 0 candidates; scheduled import `2026-05-26_16-11-40.md` / Airtable Imported At `2026-05-26T16:31:23.449478+00:00` plus read-only comparison `2026-05-26T16:33:04.499519+00:00` found 0 candidates, 0 movers, and no posts in the last 72h. Per-post analytics timestamp for the best post remains `2026-05-19 10:10:58`, so data-staleness watch stays open.
+- Scheduler/readbacks: import `2026-05-26_16-11-40.md` and growth-check `2026-05-26_14-46-11.md` delivered/current; breakout-watch `2026-05-26_16-09-48.md` delivered no-candidate; not a scheduler miss. Factory latest output `historical 14:22 zero-draft output superseded by 15:42 manual readback` is past due at `historical 15:22 due time superseded by 15:42 manual readback` with that historical no-output check is superseded by the 15:42 manual readback, and the later 15:42 factory readback resolved that cadence concern. Issue-check `2026-05-26_13-29-41.md` returned no response/error and needs follow-up.
+- Action: updated memory/tasks/Zernio Growth Memory/Open Loops; no amplification, no generation, no spend, no public posting, no Zernio send. Next action is source-lane replenishment with fresh non-repeating practical Thai ChatGPT/NotebookLM-first software-tip sources, issue-check follow-up, and next factory readback.
+
+<!-- ZG-DLOG-2026-05-26-1416-FACTORY-ZERO-DRAFT -->
+### Factory manual exact + recovery 14:16 UTC — zero drafts; superseded by 14:22 scheduled factory markdown
+- Command/readback: ran exactly `venv/bin/python scripts/scheduled_ai_social_draft_factory.py --limit 1 --apply --quality low --send-to-zernio` from `/home/clawd/.hermes/hermes-agent`; the 14:13 exact run and 14:16 required recovery rerun both exited `status=ok` with `draft_count=0/results=[]`; state `historical 14:16 zero-state superseded by 15:42 manual readback`; latest delivered factory markdown is `historical 14:22 zero-draft output superseded by 15:42 manual readback`. The `openclaw.bash` startup warning is unrelated.
+- Verification: no new `auto-*` folder/manifest/media after 14:02, no current Airtable Carousel Posts row/outbound Zernio payload, no Zernio draft/media, and no lingering factory/radar process at `historical 15:25 process check superseded by 15:42 readback`; later final readback opened the factory scheduler cadence concern after next_run_at `historical 15:22 due time superseded by 15:42 manual readback` was superseded by the 15:42 manual readback. Zernio/platform verification is not applicable because no payload/post exists; no public posting, no `publishNow`, and no intentional schedule.
+- Diagnosis: source-lane exhaustion / anti-repetition guard saturation. Canonical Signals 0/98 eligible (overlapping blockers: 12 duplicate, 42 repeat-family/duplicate, 12 no educational value, all 98 not A/B/watch); deterministic lanes exhausted (evergreen 0/42, AI Words 0/8, current-hour KPI 0/8; 30 partial source IDs quarantined). YouTube/static fallback produced no usable non-duplicate candidate in the exact runs.
+- Scheduler/action: production cron `a97a7703af32` remains enabled/state scheduled next `historical 15:22 due time superseded by 15:42 manual readback`. Factory source-lane exhaustion remains open, and final breakout-watch readback at historical 15:25 process check superseded by 15:42 readback opened a historical factory scheduler cadence concern that is now superseded by the 15:42 manual readback. Prior Zernio POST 403/account-access and editorial QA remain separate blockers, not current-tick output.
+
+<!-- ZG-DLOG-2026-05-26-1239-ISSUE-CHECK -->
+### Issue Check 12:39 UTC — historical; superseded by 15:02 import/growth readback
+- CTA guard: unsafe_count=0; `7634027210248097042` remains ChatGPT productivity/workflow evidence, not product-photo/no-prompt CTA evidence.
+- Analytics/KPI: the earlier 12:39 no-candidate/import evidence is superseded for current readback by scheduled import `2026-05-26_16-11-40.md` / Airtable Imported At `2026-05-26T16:31:23.449478+00:00` and read-only comparison `2026-05-26T16:33:04.499519+00:00`, which found 0 movers/candidates; best remains 32,072 views / 429 shares / gap 67,928.
+- Scheduler readback: import and growth are now delivered/current (`2026-05-26_16-11-40.md`, `2026-05-26_14-46-11.md`); breakout-watch `2026-05-26_16-09-48.md` delivered no-candidate; not a scheduler miss. Issue-check `2026-05-26_13-29-41.md` returned no response/error and remains a separate follow-up.
+- Fix: current compact memory/tasks/Obsidian/Open Loops no longer preserve the stale import+breakout watch as active. No generation/spend/public posting/Zernio send.
+
+<!-- ZG-DLOG-2026-05-26-1200-EXPERIMENT-CREATOR -->
+### Experiment creator 12:00 UTC — 3 draft-only practical software-tip specs
+- Specs synced: `kpi-exp-0526-1200-chatgpt-property-maintenance-work-order`, `kpi-exp-0526-1200-notebooklm-car-rental-policy-answer-book`, and `kpi-exp-0526-1200-gamma-sme-loan-lease-pitch-deck`.
+- Output: `2026-05-26_12-38-18.md` delivered successfully; prior `2026-05-26_00-31-45.md` no-response/error is superseded.
+- Data signal: best/closest post remains CTA-stripped ChatGPT practical productivity at 32,072 views / 429 shares / gap 67,928; snapshot `2026-05-26T12:39:21.504109+00:00` has 0 candidates/movers and no posts in the last 72h.
+- Gate: draft-only recovery backlog; no FAL generation, spend, public posting, or Zernio send from this cron.
+
+<!-- ZG-DLOG-2026-05-26-1200-GROWTH-CHECK -->
+### Growth Check 12:00 UTC — no formal breakout; later issue-check found import/breakout watch
+- Analytics: historical 12:00 no-candidate evidence is superseded for current readback by import `2026-05-26_16-11-40.md`, Airtable Imported At `2026-05-26T16:31:23.449478+00:00`, and read-only comparison `2026-05-26T16:33:04.499519+00:00`, which found 0 candidates and 0 movers. Best/closest remains ChatGPT productivity/workflow `7634027210248097042` at 32,072 views / 429 shares / gap 67,928; protected CTA is promo copy only.
+- Readbacks: growth `2026-05-26_14-46-11.md` delivered. Earlier 12:23/12:41/12:54/14:30 scheduler wording is superseded by current readback: import/growth are current, breakout `2026-05-26_16-09-48.md` delivered no-candidate, and the earlier factory cadence concern is superseded by the 15:42 manual readback.
+- Action: no amplification, no generation, no spend, no public posting, no Zernio send. Current task is scheduler readback plus source-lane replenishment/result-closure/Zernio/editorial gates.
+
+<!-- ZG-DLOG-2026-05-26-1100-FACTORY-ZERO-DRAFT -->
+### Factory manual exact + recovery 11:00 UTC — zero drafts; scheduler current; source-lane blocker open
+- Command/readback: ran exactly `venv/bin/python scripts/scheduled_ai_social_draft_factory.py --limit 1 --apply --quality low --send-to-zernio` from `/home/clawd/.hermes/hermes-agent`; the 10:47 exact run and 11:00 required recovery rerun both exited `status=ok` with `draft_count=0/results=[]`; current state `historical prior zero-state superseded by 12:49 manual readback`. The `openclaw.bash` startup warning is unrelated.
+- Verification: no new `auto-*` folder/manifest/media after 10:47, no current Airtable Carousel Posts row/outbound Zernio payload, no Zernio draft/media, and no lingering factory/radar process at `2026-05-26T12:50:42Z`. Zernio/platform verification is not applicable because no payload/post exists; no public posting, no `publishNow`, and no intentional schedule.
+- Diagnosis: source-lane exhaustion / anti-repetition guard saturation. Canonical Signals 0/98 eligible (overlapping blockers: 12 duplicate, 32 repeat-family, 12 no educational value, all 98 not A/B/watch); deterministic lanes exhausted (evergreen 0/42, AI Words 0/8, current-hour KPI 0/8; 30 partial source IDs quarantined). YouTube/static fallback produced no usable non-duplicate candidate in the exact runs.
+- Scheduler/action: production cron `a97a7703af32` remains enabled/state scheduled next `2026-05-26T11:41:04.458751+00:00`. Factory source-lane exhaustion remains open, and final breakout-watch readback at historical 15:25 process check superseded by 15:42 readback opened a historical factory scheduler cadence concern that is now superseded by the 15:42 manual readback. Prior Zernio POST 403/account-access and editorial QA remain separate blockers, not current-tick output.
+
+<!-- ZG-DLOG-2026-05-26-1000-GROWTH-CHECK -->
+### Growth Check 10:00 UTC — no formal breakout; boundary scheduler watch open
+- Analytics: snapshot `2026-05-26T10:00:58.846938+00:00` plus latest import `2026-05-26_10-13-32.md` / Airtable `2026-05-26T10:12:02.731719+00:00` and read-only comparison `2026-05-26T10:18:04Z` found 0 breakout candidates and 0 current movers. Best/closest remains ChatGPT productivity/workflow `7634027210248097042` at 32,072 views / 429 shares / gap 67,928; protected CTA is promo copy only.
+- Readbacks: import `2026-05-26_10-13-32.md`, breakout `2026-05-26_10-18-40.md`, factory `historical 09:17 zero-draft output superseded by 11:00 manual readback` (zero drafts/source-lane exhaustion), issue `2026-05-26_07-23-19.md`, and prior growth `2026-05-26_08-49-07.md` no-response/error were observed. This 10:00 growth-check markdown is in-flight until delivery, not a scheduler miss.
+- Scheduler split: historical 10:39 boundary readback is superseded for factory by the 11:00 manual exact+recovery readback; import+breakout boundary watch remains separate and source-lane exhaustion remains the factory KPI blocker.
+- Action: no amplification, no generation, no spend, no public posting, no Zernio send. Current task is source-lane replenishment plus result-closure/Zernio/editorial gates.
+
+<!-- ZG-DLOG-2026-05-26-0904-FACTORY-ZERO-DRAFT -->
+### Factory manual exact + recovery 09:04 UTC — zero drafts; scheduler current; source-lane blocker open
+- Command/readback: historical 09:04 exact+recovery zero-draft state is superseded by the 11:00 current readback above; it is retained only as prior same-day context.
+- Verification: no new `auto-*` folder/manifest/media after 08:51, no Airtable Carousel Posts row/outbound Zernio payload, no Zernio draft/media, and no lingering factory/radar process at `2026-05-26T09:04:50Z`. Zernio/platform verification is not applicable because no payload/post exists; no public posting, no `publishNow`, no intentional scheduling.
+- Diagnosis: source-lane exhaustion / anti-repetition guard saturation. Canonical Signals 0/98 eligible (12 duplicate, 32 repeat-family, 12 no educational value, all 98 not A/B/watch); deterministic lanes exhausted: evergreen 0/42, AI Words 0/8, current-hour KPI 0/8.
+- Scheduler/action: historical 09:04 scheduler context is superseded by the 11:00 current readback above. Current factory cadence is enabled/future-scheduled; next action is fresh non-repeating practical Thai ChatGPT/NotebookLM-first software-tip sources.
+
+<!-- ZG-DLOG-2026-05-26-0800-GROWTH-CHECK -->
+### Growth Check 08:00 UTC — no formal breakout; factory cadence readback resolved
+- Analytics: snapshot `2026-05-26T08:00:41.380397+00:00` after latest import `2026-05-26_10-13-32.md` / Airtable `2026-05-26T10:12:02.731719+00:00` found 0 breakout candidates and 0 current movers. Best/closest remains ChatGPT productivity/workflow `7634027210248097042` at 32,072 views / 429 shares / gap 67,928; protected CTA is promo copy only.
+- Readbacks: import `2026-05-26_10-13-32.md`, issue-check `2026-05-26_07-23-19.md`, and breakout `2026-05-26_10-18-40.md` delivered/current; current 10:00 growth-check markdown is in-flight until delivery; prior 08:49 no-response is tracked separately.
+- Action: no amplification, no generation, no spend, no public posting, no Zernio send. Earlier factory cadence concern is resolved by the 09:04 manual exact+recovery readback; source-lane exhaustion remains the active blocker.
+
+<!-- ZG-DLOG-2026-05-26-0800-BREAKOUT-WATCH -->
+### Breakout Watch 08:00 UTC — no breakout candidate; import/issue readbacks resolved
+- Analytics/readback: same 08:00 snapshot/import evidence found 0 candidates and 0 current movers; final Breakout Watch remains no-candidate.
+- Scheduler: import/issue/breakout are delivered; factory cadence concern was resolved by the 09:04 manual readback and source-lane exhaustion remains separate.
+
+<!-- ZG-DLOG-2026-05-26-0700-SCHEDULER-WATCH -->
+### Scheduler readback 08:24 UTC — factory cadence resolved
+- Evidence: Historical growth-check readback and earlier 09:04 factory readback are superseded by the 11:00 manual exact+recovery entry above. Current factory cadence is enabled/future-scheduled; no scheduler repair/generation/spend/public/Zernio send.
+- Next action: factory scheduler cadence is current after the 11:00 manual readback; keep production cron enabled/draft-only and feed fresh non-repeating practical Thai software-tip sources.
+
+<!-- ZG-DLOG-2026-05-26-0532-FACTORY-ZERO-DRAFT -->
+### Factory scheduled output 05:32 UTC — zero-draft/source-lane exhaustion; later factory readback open
+- Output/readback: `historical 05:32 zero-draft output superseded by 09:04 manual readback` confirmed `draft_count=0/results=[]`; state token `historical 05:16 state superseded by 09:04 manual readback`. No outbound Airtable/Zernio payload or draft; Zernio/platform verification is not applicable.
+- Diagnosis: source-lane exhaustion / anti-repetition guard saturation remains the current factory content blocker. Cron remains enabled/state scheduled; final growth-check process readback at `2026-05-26T09:04:50Z` found no matching factory/radar process after due `historical 08:24 due time superseded by 09:04 manual readback`.
+- Next action: feed fresh non-repeating practical Thai software-tip sources, prioritizing ChatGPT and NotebookLM.
+
+<!-- ZG-DLOG-2026-05-26-0000-EXPERIMENT-CREATOR -->
+### Experiment creator 00:00 UTC — 3 draft-only practical software-tip specs, output error
+- Specs preserved: `kpi-exp-0526-0000-chatgpt-optical-lens-consult-card`, `kpi-exp-0526-0000-notebooklm-event-equipment-rental-answer-book`, `kpi-exp-0526-0000-perplexity-location-lease-feasibility-check`.
+- Output state: latest experiment markdown `2026-05-26_00-31-45.md` has last_status `error` and response `(No response generated)`; debug/retry output handoff before relying on scheduled experiment reports.
+- Gate: draft-only recovery backlog; no FAL generation, spend, public posting, or Zernio send from this cron.
+
+### Links
+- Memory note: [[Aion OS/Aion Learning Lab/Zernio Growth/Zernio Growth Memory]]
+- Master state: [[Aion OS/Projects/genlabs-ai-learning-state]]
+- Self-improvement SOP: [[Aion OS/SOPs/genlabs-ai-learning-self-improvement-system]]
 
 ## 2026-05-25
 
-<!-- ZG-DLOG-2026-05-25-1600-GROWTH-CHECK -->
-### Growth-check 16:00 UTC — no formal breakout; live import no-change; readbacks normalized
-- KPI: best `7634027210248097042` remains ChatGPT productivity/workflow evidence at 32,072 views / 429 shares / gap 67,928; protected CTA unsafe_count=0.
-- Signal: baseline `2026-05-25T16:00:49.857735+00:00` had 0 candidates; `7641239648790007048` moved +3 to 1,890 views / 13 shares but stayed below threshold; live import `2026-05-25T16:01:33.176584+00:00` and comparison `2026-05-25T16:02:34.193851+00:00` found 0 further movers.
-- Readbacks: breakout `2026-05-25_16-01-42.md` delivered no candidate; factory manual exact+required-recovery readback `manual-exact-run+recovery-2026-05-25T16:50Z_current-cron-delivery-pending` delivered zero-draft/source-lane exhaustion with state `latest_social_draft_factory.json@2026-05-25T16:50:37.858469+00:00` and next `2026-05-25T17:47:30.923195+00:00`; issue-check `2026-05-25_13-18-39.md` remains error/no-response; latest scheduled import markdown `2026-05-25_16-02-50.md` is separate from the live 16:01 import refresh.
-- Action: resolved prior 14:30 import+breakout scheduler watch, kept below-threshold watch-only/no amplification, updated compact memory/tasks/Zernio Growth Memory/Open Loops/run log; no generation/public posting/spend/Zernio send.
+### KPI status
+- Goal: one TikTok post reaches **100,000 views**.
+- Best post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- Current best views: 32072
+- Gap to 100,000: 67928
+- Closest post views: 32072
+- Strongest velocity post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- Recent 72h post count: 0
+- Snapshot time: 2026-05-25T23:56:48.519290+00:00
 
-<!-- ZG-DLOG-2026-05-25-1650-FACTORY-ZERO -->
-### 2026-05-25 16:50 UTC — manual exact + required recovery zero-draft/source-lane readback current
-- Command/readback: ran exactly `venv/bin/python scripts/scheduled_ai_social_draft_factory.py --limit 1 --apply --quality low --send-to-zernio` from `/home/clawd/.hermes/hermes-agent`; initial 16:48 run and required 16:50 recovery rerun both exited `status=ok` with `draft_count=0/results=[]`. The openclaw.bash startup warning was unrelated.
-- Verification: fresh state `latest_social_draft_factory.json@2026-05-25T16:50:37.858469+00:00`; no new `auto-*` folder/manifest/media after `2026-05-25T16:48:00Z`; no Airtable Carousel Posts row after `2026-05-25T16:48:00Z`; no outbound Zernio payload/draft/media; no lingering factory/radar process at `2026-05-25T16:51:47Z`. Zernio/platform verification is not applicable because no outbound payload/post exists.
-- Diagnosis: source-lane exhaustion / anti-repetition guard saturation. Canonical 0/98 eligible (overlapping blockers: 12 exact-existing, 42 repeat-family, 12 no educational value, all 98 not A/B and watch-more); deterministic lanes exhausted: evergreen 0/42 (40 exact-existing, 8 partial quarantined, 42 repeat-family), AI Words 0/8 (6 exact-existing, 8 repeat-family), KPI backstop 0/8 for current hour (all repeat-family); 30 partial source IDs quarantined.
-- Scheduler/action: production cron remains enabled/state scheduled with next_run_at `2026-05-25T17:47:30.923195+00:00`. Source-lane replenishment remains the active KPI blocker; Feed fresh non-repeating practical Thai ChatGPT + NotebookLM-first software-tip/service-industry sources; keep production cron enabled/draft-only and do not force weak repeats.
+### Signals learned today
+- Winning hook sample: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- Protected CTA note: Sway-added CTA phrase is protected and must not be treated as hook/topic signal; learn from educational_signal instead.
+- Breakout candidates: 0 current candidates at the latest confirmed baseline; direct import/read-only comparison found 0 movers.
+- Current issue count: 11
 
-<!-- ZG-DLOG-2026-05-25-1518-FACTORY-ZERO -->
-### Historical 2026-05-25 15:18 UTC — cron exact + required recovery zero-draft/source-lane readback superseded by 16:50 current readback
-- Command/readback: ran exactly `venv/bin/python scripts/scheduled_ai_social_draft_factory.py --limit 1 --apply --quality low --send-to-zernio` from `/home/clawd/.hermes/hermes-agent`; initial 15:15 run and required 15:18 recovery rerun both exited `status=ok` with `draft_count=0/results=[]`. The openclaw.bash startup warning was unrelated.
-- Verification: historical 15:18 state (superseded by 16:50 current readback); latest auto folder remains `auto-20260524T174823Z-yt-3JmIhEIqxBM` from 2026-05-24, so no current-run manifest/media was created; no current Airtable Carousel Posts row/outbound Zernio payload; no Zernio draft; no lingering factory/radar process at `2026-05-25T15:24:06Z`. Zernio/platform verification is not applicable because no outbound payload/post exists.
-- Diagnosis: source-lane exhaustion / anti-repetition guard saturation. Canonical Signals 0/98 eligible (overlapping blockers: 17 duplicate/partial, 32 repeat-family/duplicate, 12 no educational value, all 98 not A/B/watch); deterministic lanes exhausted (evergreen 0/42, AI Words 0/8, current-hour KPI backstop 0/8; 30 partial source IDs quarantined).
-- Scheduler/action: production cron remains enabled/state scheduled with next_run_at `2026-05-25T17:47:30.923195+00:00`. Source-lane replenishment remains the active KPI blocker; feed fresh non-repeating practical Thai ChatGPT/NotebookLM-first software-tip/service-industry sources.
+### Mistakes / weak spots to correct
+- zernio_analytics_stale_over_3h
+- no_posts_in_last_72h
+- zernio_factory_source_lane_exhaustion_current_2026_05_26_0346
+- zernio_factory_zernio_post_forbidden_prior_separate_2026_05_25_1924
+- zernio_factory_source_topic_editorial_qa_prior_separate_2026_05_25_1924
+- active_experiment_result_closure_overdue_or_blocked
+- zernio_factory_zernio_post_forbidden_prior_separate_2026_05_24_1754
+- zernio_factory_source_topic_routing_mismatch_prior_separate_2026_05_24_1754
+- zernio_factory_zernio_post_forbidden_prior_separate_2026_05_24_0912
+- zernio_factory_source_topic_routing_mismatch_prior_separate_2026_05_24_0912
+- zernio_scheduler_boundary_readback_watch_2026_05_26_0000_breakout_0023_factory (superseded/narrowed after import and growth caught up; current experiment output is in-flight, not a scheduler miss)
 
-<!-- ZG-DLOG-2026-05-25-1414-GROWTH-CHECK -->
-### Growth-check 14:14 UTC — no formal breakout; below-threshold import mover; readbacks current
-- Evidence: normal baseline `2026-05-25T14:14:26.814370+00:00` found 0 breakout candidates; import `2026-05-25_14-16-31.md` / Imported At `2026-05-25T14:15:36.160299+00:00` plus read-only comparison `2026-05-25T14:25:31.383388+00:00` found only `7641239648790007048` +3 to 1890 views / 13 shares, below threshold.
-- KPI: best `7634027210248097042` remains ChatGPT productivity/workflow evidence at 32,072 views / 429 shares / gap 67,928; protected CTA is promo only; CTA unsafe_count=0.
-- Readbacks: breakout `2026-05-25_14-14-52.md` returned no candidate; factory current state `latest_social_draft_factory.json@2026-05-25T16:50:37.858469+00:00` delivered zero-draft/source-lane exhaustion and next `2026-05-25T17:47:30.923195+00:00`; experiment `2026-05-25_12-46-16.md` delivered; issue-check `2026-05-25_13-18-39.md` errored with `(No response generated)` and needs retry/debug; current growth-check report is in-flight until delivery.
-- Action: resolved the earlier import+breakout scheduler watch, then opened exactly one new 14:30 import+breakout readback watch after final boundary wait; kept the mover watch-only/no amplification; updated compact memory/tasks/Zernio Growth Memory/Daily Log/Open Loops; no generation/public posting/spend/Zernio send.
-- Scheduler watch: import/breakout 14:30 readbacks were not observed by `2026-05-25T14:58:12Z`; latest import `2026-05-25_14-16-31.md` and breakout `2026-05-25_14-14-52.md` remain the current completed files.
+### Rule / memory update
+- Lesson: Factory readback 2026-05-26T00:44:13Z: exact+recovery produced fresh zero-draft/source-lane state `historical 00:36 zero-state superseded by 01:59 manual readback`; scheduler current/future-scheduled next historical 01:53 schedule superseded by 02:53 factory schedule; no Airtable/Zernio payload.
+- Decision rule: If no post is on pace for 100k, replenish fresh non-repeating practical software-tip sources before forcing more near-duplicate drafts.
 
-<!-- ZG-DLOG-2026-05-25-1357-FACTORY-ZERO -->
-### Historical 2026-05-25 13:57 UTC — manual exact + required recovery zero-draft/source-lane readback superseded by 15:18 current readback
-- Command/readback: ran exactly `venv/bin/python scripts/scheduled_ai_social_draft_factory.py --limit 1 --apply --quality low --send-to-zernio` from `/home/clawd/.hermes/hermes-agent`; initial 13:49 run and required 13:57 recovery rerun both exited `status=ok` with `draft_count=0/results=[]`. The openclaw.bash startup warning was unrelated.
-- Verification: historical 13:57 state, superseded first by the 15:18 zero-state and now by the 16:50 current readback; no new `auto-*` folder/manifest/media after `2026-05-25T13:49:24Z`, no current Airtable Carousel Posts row/outbound Zernio payload, no Zernio draft, and no lingering factory/radar process at `2026-05-25T14:01:58Z`. Zernio/platform verification is not applicable because no outbound payload/post exists.
-- Diagnosis: source-lane exhaustion / anti-repetition guard saturation. Canonical Signals 0/98 eligible (overlapping blockers: 12 duplicate, 46 repeat-family/duplicate, 12 no educational value, all 98 not A/B/watch); deterministic lanes exhausted (evergreen 0/42, AI Words 0/8, current-hour KPI 0/8; 30 partial source IDs quarantined).
-- Scheduler/action: production cron remains enabled/state scheduled with next_run_at `2026-05-25T14:48:01.352646+00:00`. Source-lane replenishment remains the active KPI blocker; feed fresh non-repeating practical Thai ChatGPT/NotebookLM-first software-tip/service-industry sources.
-
-<!-- ZG-DLOG-2026-05-25-1308-ISSUE-CHECK -->
-### Issue-check 13:08 UTC — CTA guard clean; direct import below-threshold; import/breakout watch open
-- Evidence: direct import `2026-05-25T13:08:01.608739+00:00` succeeded after scheduled import/breakout 13:00 readbacks were absent; read-only comparison `2026-05-25T13:08:37.331319+00:00` found `7641239648790007048` +1 to 1887 views / 13 shares and 0 breakout candidates.
-- KPI: best `7634027210248097042` remains ChatGPT productivity/workflow evidence at 32,072 views / 429 shares / gap 67,928; protected CTA is promo only; CTA unsafe_count=0.
-- Readbacks: growth `2026-05-25_12-25-59.md` and experiment `2026-05-25_12-46-16.md` delivered/current; import `2026-05-25_12-12-59.md` and breakout `2026-05-25_12-03-02.md` remain latest scheduled outputs with 13:00 next_run_at past at `2026-05-25T13:11:50Z`; issue-check output is in-flight; factory/source state is superseded by the 13:57 manual exact+required-recovery readback above.
-- Action: opened exactly one scoped import+breakout scheduler watch; updated compact memory/tasks/Zernio Growth Memory/Daily Log/Open Loops/run log; no amplification/generation/public posting/spend/Zernio send.
-
-<!-- ZG-DLOG-2026-05-25-1200-GROWTH-CHECK -->
-### Growth-check 12:00 UTC — no formal breakout; scheduler readback normalized
-- Evidence: normal baseline `2026-05-25T12:00:20.796266+00:00` found 0 breakout candidates and no current mover; latest import `2026-05-25_12-12-59.md` / Imported At `2026-05-25T12:06:47.168102+00:00` is fresh; breakout `2026-05-25_12-03-02.md` returned `No breakout candidate. Next check scheduled.`
-- KPI: best `7634027210248097042` remains ChatGPT productivity/workflow evidence at 32,072 views / 429 shares / gap 67,928; protected CTA is promo only.
-- Historical readback: the 12:00 growth-check/factory note is superseded by the 14:14 growth-check reconciliation, factory current readback `latest_social_draft_factory.json@2026-05-25T16:50:37.858469+00:00`, and issue-check `2026-05-25_13-18-39.md` error/no-response.
-- Action: updated compact memory/tasks/Zernio Growth Memory/Daily Log/Open Loops to current readbacks; opened a then-temporary factory scheduler watch later superseded; no amplification/generation/public posting/spend/Zernio send.
-
-<!-- ZG-DLOG-2026-05-25-1051-FACTORY-ZERO -->
-### Historical 2026-05-25 10:51 UTC — manual exact + required recovery zero-draft/source-lane readback superseded by 13:57 manual readback
-- Command/readback: ran exactly `venv/bin/python scripts/scheduled_ai_social_draft_factory.py --limit 1 --apply --quality low --send-to-zernio` from `/home/clawd/.hermes/hermes-agent`; initial 10:44 run and required 10:51 recovery rerun both exited `status=ok` with `draft_count=0/results=[]`.
-- Verification: fresh state `latest_social_draft_factory.json@2026-05-25T10:51:30.880543+00:00`; no new `auto-*` folder/manifest/media after `2026-05-25T10:43:48Z`, no current Airtable Carousel Posts row/outbound Zernio payload, no Zernio draft, and no lingering factory/radar process at `2026-05-25T13:11:50Z`. Zernio/platform verification is not applicable because no outbound payload/post exists.
-- Diagnosis: source-lane exhaustion / anti-repetition guard saturation. Canonical Signals 0/98 eligible (overlapping blockers: 12 duplicate, 42 repeat-family/duplicate, 12 no educational value, all 98 not A/B/watch); deterministic lanes exhausted (evergreen 0/42, AI Words 0/8, current-hour KPI 0/8).
-- Scheduler/action: historical factory-zero marker superseded by current factory current readback `latest_social_draft_factory.json@2026-05-25T16:50:37.858469+00:00`; live factory remains enabled/scheduled with next_run_at `2026-05-25T17:47:30.923195+00:00`. Source-lane replenishment remains the active KPI blocker.
-
-<!-- ZG-DLOG-2026-05-25-0927-FACTORY-ZERO -->
-### Historical 09:27 UTC — manual exact + recovery superseded by 11:09 scheduled factory readback
-- Command/readback: ran exactly `venv/bin/python scripts/scheduled_ai_social_draft_factory.py --limit 1 --apply --quality low --send-to-zernio` from `/home/clawd/.hermes/hermes-agent`; initial 09:23 run and required 09:27 recovery rerun both exited `status=ok` with `draft_count=0/results=[]`. The openclaw.bash startup warning was unrelated.
-- Verification: fresh state `latest_social_draft_factory.json@2026-05-25T10:51:30.880543+00:00`; no new `auto-*` folder/manifest/media after `2026-05-25T09:27:36Z`, no Airtable Carousel Posts row/outbound Zernio payload, no Zernio draft, and no lingering factory/radar process at `2026-05-25T13:11:50Z`. Zernio/platform verification is not applicable because no payload/post exists; no public posting, no `publishNow`, no intentional schedule.
-- Diagnosis: source-lane exhaustion / anti-repetition guard saturation. Canonical Signals 0/98 eligible; deterministic lanes exhausted (evergreen 0/42, AI Words 0/8, current-hour KPI 0/8). Static/YouTube fallback produced no usable non-duplicate source in the exact runs.
-- Scheduler/action: historical factory-zero marker superseded by current factory current readback `latest_social_draft_factory.json@2026-05-25T16:50:37.858469+00:00`; live factory remains enabled/scheduled with next_run_at `2026-05-25T17:47:30.923195+00:00`. Source-lane replenishment remains the active KPI blocker.
-
-<!-- ZG-DLOG-2026-05-25-0813-FACTORY-ZERO -->
-### Historical 2026-05-25 08:13 UTC — scheduled zero-draft/source-lane exhaustion superseded by 11:09 scheduled factory readback
-- Cron output: `historical 08:13 factory output superseded by 11:09 scheduled factory readback` delivered zero draft/source-lane exhaustion with state token `historical 07:49 zero-state superseded by 11:09 scheduled factory readback`; `draft_count=0/results=[]`.
-- Verification: no outbound Zernio payload/draft exists; Zernio/platform verification is not applicable; no matching factory/radar process at `2026-05-25T09:03:47Z`.
-- Historical cron/safety: this 08:13 scheduled output is superseded by the 09:27 manual exact+recovery readback above; production cron remains enabled/draft-only with next run now tracked in the current section.
-- Next action: feed fresh non-repeating practical Thai software-tip/service-industry sources into production.
-
-<!-- ZG-DLOG-2026-05-25-0800-BREAKOUT-WATCH -->
-### Breakout-watch 08:00 UTC — no formal breakout; below-threshold movement only
-- Evidence: final live snapshot `2026-05-25T08:00:27.423174+00:00` after scheduled import `2026-05-25_12-12-59.md` / Imported At `2026-05-25T07:44:32.118434+00:00` found 0 breakout candidates.
-- KPI: best `7634027210248097042` remains ChatGPT productivity/workflow evidence at 32,072 views / 429 shares / gap 67,928; protected CTA is promo only.
-- Watch-only context: `7641239648790007048` moved +14 to 1,879 views / 13 shares (~49.41/hr), below threshold; no amplification/generation.
-- Readbacks: issue-check `2026-05-25_07-42-25.md` delivered; breakout markdown delivered; growth-check `2026-05-25_10-10-34.md` delivered/current. Prior 08:30 import resolved with `2026-05-25_12-12-59.md`; 09:00 import/breakout readback resolved by delivered import/breakout outputs; growth-check `2026-05-25_10-10-34.md` delivered; factory manual exact+recovery readback `2026-05-25_11-09-23.md` refreshed current source state.
-- Safety/action: draft-only; no public posting, spend, generation, scheduler repair, or Zernio send.
-
-<!-- ZG-DLOG-2026-05-25-1200-EXPERIMENT-CREATOR -->
-### Experiment creator 12:00 UTC — exactly 3 draft-only practical software-tip specs
-- Output/readback: current experiment-creator markdown is in-flight until delivery; prior delivered output `2026-05-25_12-46-16.md` remains historical.
-- Specs: ChatGPT UGC/Influencer Brief for Local Shops — 7 tips; NotebookLM Employee Handbook / HR Policy Answer Book — 7 tips; Gemini in Sheets Staff Roster / Overtime Guard — 7 tips.
-- Source IDs: `kpi-exp-0525-1200-chatgpt-ugc-influencer-brief-local-shops`, `kpi-exp-0525-1200-notebooklm-hr-employee-handbook-answer-book`, `kpi-exp-0525-1200-gemini-sheets-staff-roster-overtime-guard`.
-- Gate: draft-only/no-generation/no-spend/no-public-posting/no-Zernio-send until result-closure/source-lane/Zernio/editorial gates clear.
-- Scheduler readback: growth `2026-05-25_12-25-59.md` delivered/current; import `2026-05-25_12-12-59.md`, breakout `2026-05-25_12-03-02.md`, issue `2026-05-25_07-42-25.md`, and factory `2026-05-25_11-09-23.md` are resolved/current by live issue-check readback at `2026-05-25T13:11:50Z` because live jobs are future-scheduled or current issue-check is in-flight and no matching process is running.
-- Safety: CTA guard unsafe_count=0; reusable GenLabs CTA is not counted as content tips.
-
-<!-- ZG-DLOG-2026-05-25-0838-GROWTH-CHECK -->
-### Growth-check 08:38 UTC — no formal breakout after direct import
-- Evidence: direct import refreshed Airtable at `2026-05-25T08:46:32.713016+00:00` (`updated=47`, `created=0`); final snapshot `2026-05-25T09:03:47Z` found 0 breakout candidates and 0 posts in the last 72h.
-- KPI: best `7634027210248097042` remains ChatGPT productivity/workflow evidence at 32,072 views / 429 shares / gap 67,928; protected CTA is promo only.
-- Readbacks: breakout `2026-05-25_12-03-02.md` delivered; growth-check `2026-05-25_10-10-34.md` delivered; latest import output `2026-05-25_12-12-59.md` resolved the prior 08:30 import watch; final 09:00 import/breakout readback resolved by delivered import/breakout outputs; factory manual exact+recovery readback `2026-05-25_11-09-23.md` refreshed current source state.
-- Action: updated compact memory, tasks, Zernio Growth Memory, Daily Log, and Open Loops; no amplification/generation/public posting/spend/Zernio send.
-
-<!-- ZG-DLOG-2026-05-25-1000-GROWTH-CHECK -->
-### Growth-check 10:00 UTC — no formal breakout; scheduler readback resolved/current
-- Evidence: normal baseline `2026-05-25T10:00:36.179764+00:00` found 0 breakout candidates; strongest mover `7641239648790007048` was +4 to 1,883 views / 13 shares (~14.19/hr), below threshold. Latest scheduled import `2026-05-25_12-12-59.md` and live Imported At `2026-05-25T10:02:07.652259+00:00` produced no additional post-baseline movers.
-- KPI: best `7634027210248097042` remains ChatGPT productivity/workflow evidence at 32,072 views / 429 shares / gap 67,928; protected CTA is promo only.
-- Readbacks: breakout `2026-05-25_12-03-02.md` delivered `No breakout candidate. Next check scheduled.`; factory `2026-05-25_11-09-23.md` delivered/current zero-draft/source-lane exhaustion; growth-check `2026-05-25_10-10-34.md` delivered/current.
-- Action: resolved the stale 09:00 import/breakout watch, updated compact memory/tasks/Zernio Growth Memory/Daily Log/Open Loops to current outputs, and kept no amplification/generation/public posting/spend/Zernio send.
-
-<!-- ZG-DLOG-2026-05-25-1000-SELF-IMPROVEMENT -->
-### 3-day self-improvement 10:00 UTC — ChatGPT proof, NotebookLM priority, production recovery
-- KPI progress: no closer this window; best `7634027210248097042` stays at 32,072 views / 429 shares / gap 67,928, with 0 formal breakout candidates and 0 recent-72h posts.
-- What worked: CTA-stripped ChatGPT practical numbered work-output tips remain the only direct proof; scheduler/readback ambiguity is resolved by import `2026-05-25_12-12-59.md`, breakout `2026-05-25_12-03-02.md`, growth `2026-05-25_10-10-34.md`, and factory `2026-05-25_11-09-23.md`.
-- What failed: source-lane/anti-repetition exhaustion still produced zero drafts; result closure/backfill, prior Zernio POST 403, and editorial/source-topic QA remain open.
-- Rule update: next 3 days bias production toward fresh non-repeating ChatGPT + NotebookLM practical numbered Thai service-workflow carousels; test Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude tools, and Zapier/Make only as distinct visible-tip software tests after gates clear.
-- Next action: backfill active experiment results, replenish source IDs, fix Zernio POST/create permission and source-topic routing, and keep factory enabled/draft-only without forcing weak/repeated drafts.
+### Next action
+- Resolve the 00:00 scheduler boundary readback, replenish source lanes with ChatGPT/NotebookLM-first Thai practical tips, and close/mark blocked active result loops before creating more variants.
 
 ### Links
 - Memory note: [[Aion OS/Aion Learning Lab/Zernio Growth/Zernio Growth Memory]]
@@ -194,7 +233,7 @@
 - separate prior source-topic routing mismatch from 01:08/04:52 (money-making YouTube source became HR scorecard)
 - learning_loop_structured_performance_experiments_backfill_missing
 - zernio_analytics_zero_metric_regression_guarded_2026_05_12_1415
-- historical broad 00:00 scheduler watch superseded; breakout `2026-05-24_06-48-38.md` later delivered no candidate; current open scheduler issue is scoped only to missing 07:00 import/breakout readbacks
+- historical broad 00:00 scheduler watch superseded; breakout `2026-05-24_06-48-38.md` later delivered no candidate; then-open historical scheduler issue was scoped to a decision-readback check and is superseded by the current 2026-05-26 state
 
 ### Rule / memory update
 - Lesson: Fix active source supply, result-closure, and factory QA gates before scaling more near-duplicate growth experiments.
@@ -228,7 +267,7 @@
 ### Issue-check 06:35 UTC — CTA guard clean; later readbacks superseded scheduler watch
 - CTA guard: unsafe_count=0; `7634027210248097042` remains ChatGPT productivity/workflow evidence, not product-photo/no-prompt CTA evidence.
 - Analytics: earlier issue-check no-breakout evidence was superseded by latest import `2026-05-24_10-02-48.md` and comparison `2026-05-24T08:39:12.373669+00:00`, which found only below-threshold movement `7641239648790007048` +3 to 1772. Best remains 32,072 views / 429 shares / gap 67,928.
-- Scheduler/readbacks: the watch opened by issue-check is resolved by later import `2026-05-24_10-02-48.md`, breakout `2026-05-24_10-12-32.md`, issue `2026-05-24_07-11-22.md`, and factory `historical 07:41 zero-draft output superseded by 09:01 manifest+403` readbacks. Historical note: that run's growth-check output was delivery-pending then and has since been superseded by later delivered outputs.
+- Scheduler/readbacks: the watch resolved/currented by issue-check is resolved by later import `2026-05-24_10-02-48.md`, breakout `2026-05-24_10-12-32.md`, issue `2026-05-24_07-11-22.md`, and factory `historical 07:41 zero-draft output superseded by 09:01 manifest+403` readbacks. Historical note: that run's growth-check output was delivery-pending then and has since been superseded by later delivered outputs.
 - Safety: no generation, no public posting, no spend, no Zernio send.
 
 <!-- ZG-DLOG-2026-05-24-0700-SCHEDULER-READBACK-WATCH -->
@@ -285,3 +324,4 @@
 - Memory note: [[Aion OS/Aion Learning Lab/Zernio Growth/Zernio Growth Memory]]
 - Master state: [[Aion OS/Projects/genlabs-ai-learning-state]]
 - Self-improvement SOP: [[Aion OS/SOPs/genlabs-ai-learning-self-improvement-system]]
+

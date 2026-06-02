@@ -1,9 +1,9 @@
 # GenLabs Asset + Learning Index
 
-Updated: 2026-05-26 16:56:53 UTC
+Updated: 2026-06-02 16:56:21 UTC
 
-- Carousel image assets copied: 1989
-- Carousel manifests copied: 291
+- Carousel image assets copied: 2103
+- Carousel manifests copied: 305
 - Learning/operations notes copied: 21
 
 ## Carousel folders
@@ -207,9 +207,27 @@ Updated: 2026-05-26 16:56:53 UTC
 - `auto-20260524T085532Z-yt-3L7ANFrR7-c` — 8 image(s)
 - `auto-20260524T174823Z-yt-3JmIhEIqxBM` — 8 image(s)
 - `auto-20260525T191816Z-yt-rothP2AErZw` — 8 image(s)
+- `auto-20260526T194508Z-yt-3RPIb4ofN6M` — 8 image(s)
+- `auto-20260526T222605Z-yt-_ZggFpdO6do` — 8 image(s)
+- `auto-20260601T175759Z-yt-uF9wm7BquKQ` — 8 image(s)
+- `auto-20260601T213533Z-yt-O4PCnccfax4` — 8 image(s)
+- `auto-20260602T000227Z-yt-WXrKVUoVXV4` — 8 image(s)
+- `auto-20260602T011737Z-yt-IWdvG9Up8Mc` — 7 image(s)
+- `auto-20260602T023715Z-yt-7ccb8ArAqMs` — 7 image(s)
+- `auto-20260602T071745Z-yt-UE_HQsAbxpI` — 7 image(s)
+- `auto-20260602T094020Z-matrix-thaidessert-chatg` — 7 image(s)
+- `auto-20260602T105440Z-matrix-bodyskin-claude-p` — 7 image(s)
+- `auto-20260602T120923Z-matrix-womensapparel-cha` — 7 image(s)
+- `auto-20260602T132318Z-matrix-footwear-claude-p` — 7 image(s)
+- `auto-20260602T143407Z-matrix-eyewear-automatio` — 7 image(s)
+- `auto-20260602T155058Z-matrix-coffee-gemini-p1` — 7 image(s)
 - `evergreen-recovery-live-20260429T105258Z-evergreen-chatgpt-projects-sales-followup` — 5 image(s)
 - `first-public-cdn-live` — 5 image(s)
 - `first-public-cdn-live-v2` — 5 image(s)
+- `fresh-20260601T204048Z-01-dental-postcare-notebooklm` — 3 image(s)
+- `fresh-20260601T204432Z-01-dental-postcare-notebooklm` — 1 image(s)
+- `fresh-20260601T204551Z-01-dental-postcare-notebooklm` — 2 image(s)
+- `fresh-20260601T204757Z-01-dental-postcare-notebooklm` — 5 image(s)
 - `genlabs-cta-10baht-sme` — 1 image(s)
 - `genlabs-sig-60-claude-code-sdk` — 5 image(s)
 - `kpi20-20260503-20260503T071835Z-kpi20-chatgpt-projects-client-brief-room-20260503` — 5 image(s)

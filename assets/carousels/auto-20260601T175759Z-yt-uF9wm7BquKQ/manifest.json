@@ -1,0 +1,310 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a9c9404/dz19OQUrzr7_RmDKXfehJ_Y40hR3hK.png",
+    "https://v3b.fal.media/files/b/0a9c9408/BiYkm2k5IDqEgBdNwsH_h_ulIkQ6D4.png",
+    "https://v3b.fal.media/files/b/0a9c940d/Y1DADr_B0gl-1dMNCMDN1_U3dXO1Vo.png",
+    "https://v3b.fal.media/files/b/0a9c9412/l7Ql55D_ca3fjJtxPEabH_i75X8zn0.png",
+    "https://v3b.fal.media/files/b/0a9c9416/XH-d3niM_ipEHzKHyil1N_xilPgLlA.png",
+    "https://v3b.fal.media/files/b/0a9c941a/WHkYoA41fzRp22Szes5Vc_OlyCBthg.png",
+    "https://v3b.fal.media/files/b/0a9c941e/RYk7VZP8wd3duocmYukOb_RT0vPMJw.png",
+    "https://v3b.fal.media/files/b/0a9c9423/RMnNO86LtDOBD9VnEUlEJ_Gb0kx4nx.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 8,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/8 role=hook. Thai copy: ใช้ Claude Code ทำหน้าเว็บร้านแบบตรวจได้ก่อนปล่อยจริง\nClaude Code • Token • workflow • AI automation. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "ใช้ Claude Code ทำหน้าเว็บร้านแบบตรวจได้ก่อนปล่อยจริง\nClaude Code • Token • workflow • AI automation",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/8 role=problem. Thai copy: ปัญหา: SME อยากได้เว็บโปรโมชันเร็ว แต่ถ้าสั่ง AI กว้างเกินไปจะได้โค้ดที่ตรวจยาก แก้ยาก และเสี่ยงพังก่อนขายจริง. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: SME อยากได้เว็บโปรโมชันเร็ว แต่ถ้าสั่ง AI กว้างเกินไปจะได้โค้ดที่ตรวจยาก แก้ยาก และเสี่ยงพังก่อนขายจริง",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/8 role=trend. Thai copy: ทำไมควรสนใจ:\nClaude Code เหมาะกับงานที่มี brief, input/output, ไฟล์ที่เกี่ยวข้อง และ checklist ทดสอบ. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nClaude Code เหมาะกับงานที่มี brief, input/output, ไฟล์ที่เกี่ยวข้อง และ checklist ทดสอบ",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/8 role=tips. Thai copy: ลองใช้แบบนี้:\n1) เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์\n2) ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ\n3) ขอ responsive landing page พร้อม copy สั้น\n4) ให้ Claude Code สรุป diff และไฟล์ที่แก้. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์\n2) ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ\n3) ขอ responsive landing page พร้อม copy สั้น\n4) ให้ Claude Code สรุป diff และไฟล์ที่แก้",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/8 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/8 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\n5) ทดสอบ mobile ปุ่ม CTA form และ tracking ก่อน deploy. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\n5) ทดสอบ mobile ปุ่ม CTA form และ tracking ก่อน deploy",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/8 role=framework. Thai copy: จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ. Visual direction: five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "framework",
+        "thai_copy": "จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ",
+        "visual_direction": "five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat"
+      },
+      {
+        "image_prompt": "Slide 8/8 role=cta. Thai copy: ลองวันนี้:\nวันนี้ลองให้ Claude Code ทำ landing page 1 หน้า พร้อม diff summary และ checklist ทดสอบก่อนปล่อยจริง. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 8,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้ลองให้ Claude Code ทำ landing page 1 หน้า พร้อม diff summary และ checklist ทดสอบก่อนปล่อยจริง",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "yt-uF9wm7BquKQ",
+    "source_url": "https://www.youtube.com/watch?v=uF9wm7BquKQ",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://www.youtube.com/watch?v=uF9wm7BquKQ",
+        "Keywords: Claude Code, Token, workflow, AI automation, Make, agent",
+        "This is trending because people can copy the workflow immediately instead of only reading AI news."
+      ],
+      "glossary": {
+        "AI automation": "ระบบอัตโนมัติด้วย AI",
+        "Claude Code": "Claude Code",
+        "Make": "Make",
+        "Token": "ชิ้นข้อความที่ AI ใช้นับ",
+        "agent": "เอเจนต์ AI",
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "Claude Code",
+        "Token",
+        "workflow",
+        "AI automation",
+        "Make",
+        "agent"
+      ],
+      "source_id": "yt-uF9wm7BquKQ",
+      "source_url": "https://www.youtube.com/watch?v=uF9wm7BquKQ",
+      "thai_call_to_action": "วันนี้ลองให้ Claude Code ทำ landing page 1 หน้า พร้อม diff summary และ checklist ทดสอบก่อนปล่อยจริง",
+      "thai_hook": "ใช้ Claude Code ทำหน้าเว็บร้านแบบตรวจได้ก่อนปล่อยจริง",
+      "thai_problem": "SME อยากได้เว็บโปรโมชันเร็ว แต่ถ้าสั่ง AI กว้างเกินไปจะได้โค้ดที่ตรวจยาก แก้ยาก และเสี่ยงพังก่อนขายจริง",
+      "thai_tips": [
+        "เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์",
+        "ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ",
+        "ขอ responsive landing page พร้อม copy สั้น",
+        "ให้ Claude Code สรุป diff และไฟล์ที่แก้",
+        "ทดสอบ mobile ปุ่ม CTA form และ tracking ก่อน deploy"
+      ],
+      "thai_trend_angle": "Claude Code เหมาะกับงานที่มี brief, input/output, ไฟล์ที่เกี่ยวข้อง และ checklist ทดสอบ ไม่ใช่แค่บอกให้สร้างเว็บให้หน่อย"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "Charlie Chang",
+    "clean_headline": "Top 5 AI Tools Every Business Owner Should Be Using (2026 Edition) Charlie Chang These 5 AI tools have saved me tens of thousands of dollars a month in software",
+    "clean_summary": "Top 5 AI Tools Every Business Owner Should Be Using (2026 Edition) Charlie Chang These 5 AI tools have saved me tens of thousands of dollars a month in software and payroll costs, and play a huge role in how I ... Transcript: Top 5 AI Tools Every Business Owner Should Be Using (2026 Edition) description so make sure to give them a try. Wishing you all the best in your business! -Charlie Show less Read more Like 5 Dislike Reply 1 reply Hide replies 1 reply ![Image 22]( ### [@BillBrentsBling]( [1 month ago]( Fantastic information I will watch this again and be using my current tools a lot more. Charlies insight is very keen, actionable and time to execute his plan starting today! Show less Read more Like Dislike Reply ![Image 23]( ### [@AIHiTech-1]( [1 month ago]( Really appreciated how you broke down the efficiency of using AI tools for CRM and marketing automation—it’s wild to think about replacing entire team roles with software. I’ve been experimenting with different setups like this, and using DICloak for managing multiple accounts has been such a game-changer. Took me a while to figure out the workflow, but once it clicked, it saved me so much time and hassle switching between profiles securely. Show less Read more Like 1 Dislike Reply ![Image 24]( ### [@USTechAutomations]( [3 weeks ago]( Your breakdown of using AI to clone websites and build CRM scripts is brilliant. The idea of replacing entire hiring processes with these tools really shows the efficiency potential. Show less Read more Like Dislike Reply ![Image 25]( ### [@Mayank-ai-DS]( [1 month ago]( Love how you break down the stack—exactly the cadence we use for fashion e‑commerce clients. My team already handles all the tooling, from agents to CRM, but the real drain is riffing on creative hooks solo. If anyone out there is itching to dive deep into AI‑generated copy and visuals, let’s sync; the squad’s ready to partner up. Show less Read more Like Dislike Reply ![Image 26]( ### [@justinchow5653]( [1 month ago]( solid picks. claude code has been huge for us building out automations tbh, the time saved is kind of unreal. would be cool to see how you chain these together in practice Show less Read more Like Dislike Reply ![Image 27]( ### [@AIHiTech-1]( [1 month ago]( This video is super insightful—especially the part where you mentioned automating marketing and CRMs to replace entire team members. I've been experimenting with setups like that myself. For managing multiple accounts safely, I’ve been using DICloak recently. Honestly, it took me a while to figure out the right tool, and I’ve definitely made my share of mistakes, but DICloak’s been solid—simple to use and does what I need without overcomplicating stuff. Show less Read more Like Dislike Reply ![Image 28]( ### [@VisionStackHQ]( [6 days ago]( Used a few of em Gonna add these to my lists Show less Read more Like Dislike Reply ![Image 29]( ### [@AIHiTech-1]( [1 month ago]( Really enjoyed the breakdown of how you use Hosti to streamline operations and save costs. I'm curious, though — have ## Chapters View all [![Image 8]( #### Intro: 5 AI Tools That Save me Thousands Per Month #### Intro: 5 AI Tools That Save me Thousands Per Month 0:00]( #### [Intro: 5 AI Tools That Save me Thousands Per Month]( 0:00 [![Image 9]( #### Tool 1: Claude Code and Cowork #### Tool 1: Claude Code and Cowork 0:36]( #### [Tool 1: Claude Code and Cowork]( 0:36 [![Image 10]( #### Tool 2: GoHighLevel (All-in-One CRM) #### Tool 2: GoHighLevel (All-in-One CRM) 3:24]( #### [Tool 2: GoHighLevel (All-in-One CRM)]( 3:24 [![Image 11]( #### Tool 3: Omnisend (AI Email Marketing) #### Tool 3: Omnisend (AI Email Marketing) 6:18]( #### [Tool 3: Omnisend (AI Email Marketing)]( 6:18 [![Image 12]( #### Tool 4: OpenClaw (Open-Source AI Agent) #### Tool 4: OpenClaw (Open-Source AI Agent) 9:12]( #### [Tool 4: OpenClaw (Open-Source AI Agent)]( 9:12 [![Image 13]( #### Tool 5: ChatGPT, Claude, and Gemini (Thinking Partners) #### Tool 5: ChatGPT, Claude, and Gemini (Thinking Partners) 13:04]( #### [Tool 5: ChatGPT, Claude, and Gemini (Thinking Partners)]( 13:04 [![Image 14]( #### Recap: Building an AI-Powered Business #### Recap: Building an AI-Powered Business 15:43]( #### [Recap: Building an AI-Powered Business]( 15:43 Transcript Follow along using the transcript. Show transcript [![Image 15]( ### Charlie Chang 1.44M subscribers]( [Videos]( 16]( Subscribe!]( 17]( Instagram](",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 13186,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "Claude Code",
+      "Token",
+      "workflow",
+      "AI automation",
+      "Make",
+      "agent"
+    ],
+    "original_language": "en",
+    "raw_text": "YouTube title: Top 5 AI Tools Every Business Owner Should Be Using (2026 Edition)\nChannel: Charlie Chang\nDescription: These 5 AI tools have saved me tens of thousands of dollars a month in software and payroll costs, and play a huge role in how I ...\nTranscript:\nTitle: Top 5 AI Tools Every Business Owner Should Be Using (2026 Edition) description so make sure to give them a try. Wishing you all the best in your business! -Charlie Show less Read more Like 5 Dislike Reply 1 reply Hide replies 1 reply ![Image 22](https://yt3.ggpht.com/IWIu9kXAOaO86iLTQrF48qEoEh4M-ilJg7Xs540R2MQCJm51TrEZHiJdq4My83myR1RtnbKwJUw=s88-c-k-c0x00ffffff-no-rj) ### [@BillBrentsBling](https://www.youtube.com/@BillBrentsBling) [1 month ago](https://www.youtube.com/watch?v=uF9wm7BquKQ&lc=UgzpNs8cdForvqAxQkl4AaABAg) Fantastic information I will watch this again and be using my current tools a lot more. Charlies insight is very keen, actionable and time to execute his plan starting today! Show less Read more Like Dislike Reply ![Image 23](https://yt3.ggpht.com/tLlw0Wo5snTpbhNWsUaqSfSadRaPhlxuHEMAhPmuAzQdnxkEUlWmd8HUvD7cTKUe6gKjKlvsrg=s88-c-k-c0x00ffffff-no-rj) ### [@AIHiTech-1](https://www.youtube.com/@AIHiTech-1) [1 month ago](https://www.youtube.com/watch?v=uF9wm7BquKQ&lc=UgxSI4t7NvbzSxcNlRR4AaABAg) Really appreciated how you broke down the efficiency of using AI tools for CRM and marketing automation—it’s wild to think about replacing entire team roles with software. I’ve been experimenting with different setups like this, and using DICloak for managing multiple accounts has been such a game-changer. Took me a while to figure out the workflow, but once it clicked, it saved me so much time and hassle switching between profiles securely. Show less Read more Like 1 Dislike Reply ![Image 24](https://yt3.ggpht.com/iWYZSjYF_mR86-w0rKeyYQUBHALpj-yL5Pk_YABf1-tW8Tx_z9L9SlaZdCj3-FKjk_YRH0_qzA=s88-c-k-c0x00ffffff-no-rj) ### [@USTechAutomations](https://www.youtube.com/@USTechAutomations) [3 weeks ago](https://www.youtube.com/watch?v=uF9wm7BquKQ&lc=UgwDGiSpVvsOjkjtozh4AaABAg) Your breakdown of using AI to clone websites and build CRM scripts is brilliant. The idea of replacing entire hiring processes with these tools really shows the efficiency potential. Show less Read more Like Dislike Reply ![Image 25](https://yt3.ggpht.com/dWoiBlbnte_77ZOKwgyhXZkysAo1zkjrAeI8UwaHN9k_B7TrI_w6v3THBz7hOYp3qyH5QQ82UZA=s88-c-k-c0x00ffffff-no-rj) ### [@Mayank-ai-DS](https://www.youtube.com/@Mayank-ai-DS) [1 month ago](https://www.youtube.com/watch?v=uF9wm7BquKQ&lc=Ugx5_HZz1RtNOQ8fXfJ4AaABAg) Love how you break down the stack—exactly the cadence we use for fashion e‑commerce clients. My team already handles all the tooling, from agents to CRM, but the real drain is riffing on creative hooks solo. If anyone out there is itching to dive deep into AI‑generated copy and visuals, let’s sync; the squad’s ready to partner up. Show less Read more Like Dislike Reply ![Image 26](https://yt3.ggpht.com/ytc/AIdro_kWGij-pkxYtGVoIl4D0ckAzposlYCIhh2la_HGfoA=s88-c-k-c0x00ffffff-no-rj) ### [@justinchow5653](https://www.youtube.com/@justinchow5653) [1 month ago](https://www.youtube.com/watch?v=uF9wm7BquKQ&lc=Ugy-VOcUI4NosyVLQRt4AaABAg) solid picks. claude code has been huge for us building out automations tbh, the time saved is kind of unreal. would be cool to see how you chain these together in practice Show less Read more Like Dislike Reply ![Image 27](https://www.youtube.com/watch?v=uF9wm7BquKQ) ### [@AIHiTech-1](https://www.youtube.com/@AIHiTech-1) [1 month ago](https://www.youtube.com/watch?v=uF9wm7BquKQ&lc=UgyuCgI-zUiT4vGVWct4AaABAg) This video is super insightful—especially the part where you mentioned automating marketing and CRMs to replace entire team members. I've been experimenting with setups like that myself. For managing multiple accounts safely, I’ve been using DICloak recently. Honestly, it took me a while to figure out the right tool, and I’ve definitely made my share of mistakes, but DICloak’s been solid—simple to use and does what I need without overcomplicating stuff. Show less Read more Like Dislike Reply ![Image 28](https://www.youtube.com/watch?v=uF9wm7BquKQ) ### [@VisionStackHQ](https://www.youtube.com/@VisionStackHQ) [6 days ago](https://www.youtube.com/watch?v=uF9wm7BquKQ&lc=Ugwqf6aIME00vZlJ4bR4AaABAg) Used a few of em Gonna add these to my lists Show less Read more Like Dislike Reply ![Image 29](https://www.youtube.com/watch?v=uF9wm7BquKQ) ### [@AIHiTech-1](https://www.youtube.com/@AIHiTech-1) [1 month ago](https://www.youtube.com/watch?v=uF9wm7BquKQ&lc=UgxOAJsJ4Rgy6jp1j8t4AaABAg) Really enjoyed the breakdown of how you use Hosti to streamline operations and save costs. I'm curious, though — have ## Chapters View all [![Image 8](https://www.youtube.com/watch?v=uF9wm7BquKQ) #### Intro: 5 AI Tools That Save me Thousands Per Month #### Intro: 5 AI Tools That Save me Thousands Per Month 0:00](https://www.youtube.com/watch?v=uF9wm7BquKQ&pp=0gcJCRkDDuyUWbzu) #### [Intro: 5 AI Tools That Save me Thousands Per Month](https://www.youtube.com/watch?v=uF9wm7BquKQ&pp=0gcJCRkDDuyUWbzu) 0:00 [![Image 9](https://www.youtube.com/watch?v=uF9wm7BquKQ) #### Tool 1: Claude Code and Cowork #### Tool 1: Claude Code and Cowork 0:36](https://www.youtube.com/watch?v=uF9wm7BquKQ&t=36s) #### [Tool 1: Claude Code and Cowork](https://www.youtube.com/watch?v=uF9wm7BquKQ&t=36s) 0:36 [![Image 10](https://www.youtube.com/watch?v=uF9wm7BquKQ) #### Tool 2: GoHighLevel (All-in-One CRM) #### Tool 2: GoHighLevel (All-in-One CRM) 3:24](https://www.youtube.com/watch?v=uF9wm7BquKQ&t=204s) #### [Tool 2: GoHighLevel (All-in-One CRM)](https://www.youtube.com/watch?v=uF9wm7BquKQ&t=204s) 3:24 [![Image 11](https://www.youtube.com/watch?v=uF9wm7BquKQ) #### Tool 3: Omnisend (AI Email Marketing) #### Tool 3: Omnisend (AI Email Marketing) 6:18](https://www.youtube.com/watch?v=uF9wm7BquKQ&t=378s) #### [Tool 3: Omnisend (AI Email Marketing)](https://www.youtube.com/watch?v=uF9wm7BquKQ&t=378s) 6:18 [![Image 12](https://www.youtube.com/watch?v=uF9wm7BquKQ) #### Tool 4: OpenClaw (Open-Source AI Agent) #### Tool 4: OpenClaw (Open-Source AI Agent) 9:12](https://www.youtube.com/watch?v=uF9wm7BquKQ&t=552s) #### [Tool 4: OpenClaw (Open-Source AI Agent)](https://www.youtube.com/watch?v=uF9wm7BquKQ&t=552s) 9:12 [![Image 13](https://www.youtube.com/watch?v=uF9wm7BquKQ) #### Tool 5: ChatGPT, Claude, and Gemini (Thinking Partners) #### Tool 5: ChatGPT, Claude, and Gemini (Thinking Partners) 13:04](https://www.youtube.com/watch?v=uF9wm7BquKQ&t=784s) #### [Tool 5: ChatGPT, Claude, and Gemini (Thinking Partners)](https://www.youtube.com/watch?v=uF9wm7BquKQ&t=784s) 13:04 [![Image 14](https://www.youtube.com/watch?v=uF9wm7BquKQ) #### Recap: Building an AI-Powered Business #### Recap: Building an AI-Powered Business 15:43](https://www.youtube.com/watch?v=uF9wm7BquKQ&t=943s) #### [Recap: Building an AI-Powered Business](https://www.youtube.com/watch?v=uF9wm7BquKQ&t=943s) 15:43 Transcript Follow along using the transcript. Show transcript [![Image 15](https://www.youtube.com/watch?v=uF9wm7BquKQ) ### Charlie Chang 1.44M subscribers](https://www.youtube.com/@CharlieChang) [Videos](https://www.youtube.com/channel/UCTQuKo8v0PaPCvk5aRxc_Yg/videos)[About](https://www.youtube.com/channel/UCTQuKo8v0PaPCvk5aRxc_Yg/about)[![Image 16](https://www.youtube.com/watch?v=uF9wm7BquKQ) Subscribe!](https://www.youtube.com/youtube.com/charliechang/?sub_confirmation=1)[![Image 17](https://www.youtube.com/watch?v=uF9wm7BquKQ) Instagram](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=REDACTED",
+    "source_id": "yt-uF9wm7BquKQ",
+    "source_url": "https://www.youtube.com/watch?v=uF9wm7BquKQ",
+    "why_it_matters": "This is trending because people can copy the workflow immediately instead of only reading AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้ลองให้ Claude Code ทำ landing page 1 หน้า พร้อม diff summary และ checklist ทดสอบก่อนปล่อยจริง",
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=uF9wm7BquKQ",
+      "Keywords: Claude Code, Token, workflow, AI automation, Make, agent",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "hook": "ใช้ Claude Code ทำหน้าเว็บร้านแบบตรวจได้ก่อนปล่อยจริง",
+    "original_keywords": [
+      "Claude Code",
+      "Token",
+      "workflow",
+      "AI automation",
+      "Make",
+      "agent"
+    ],
+    "original_language": "en",
+    "problem": "SME อยากได้เว็บโปรโมชันเร็ว แต่ถ้าสั่ง AI กว้างเกินไปจะได้โค้ดที่ตรวจยาก แก้ยาก และเสี่ยงพังก่อนขายจริง",
+    "source_id": "yt-uF9wm7BquKQ",
+    "source_url": "https://www.youtube.com/watch?v=uF9wm7BquKQ",
+    "tips": [
+      "เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์",
+      "ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ",
+      "ขอ responsive landing page พร้อม copy สั้น",
+      "ให้ Claude Code สรุป diff และไฟล์ที่แก้",
+      "ทดสอบ mobile ปุ่ม CTA form และ tracking ก่อน deploy"
+    ],
+    "trend_angle": "Claude Code เหมาะกับงานที่มี brief, input/output, ไฟล์ที่เกี่ยวข้อง และ checklist ทดสอบ ไม่ใช่แค่บอกให้สร้างเว็บให้หน่อย"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "dz19OQUrzr7_RmDKXfehJ_Y40hR3hK.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9c9404/dz19OQUrzr7_RmDKXfehJ_Y40hR3hK.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260601T175759Z-yt-uF9wm7BquKQ/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "BiYkm2k5IDqEgBdNwsH_h_ulIkQ6D4.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9c9408/BiYkm2k5IDqEgBdNwsH_h_ulIkQ6D4.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260601T175759Z-yt-uF9wm7BquKQ/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "Y1DADr_B0gl-1dMNCMDN1_U3dXO1Vo.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9c940d/Y1DADr_B0gl-1dMNCMDN1_U3dXO1Vo.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260601T175759Z-yt-uF9wm7BquKQ/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "l7Ql55D_ca3fjJtxPEabH_i75X8zn0.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9c9412/l7Ql55D_ca3fjJtxPEabH_i75X8zn0.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260601T175759Z-yt-uF9wm7BquKQ/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "XH-d3niM_ipEHzKHyil1N_xilPgLlA.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9c9416/XH-d3niM_ipEHzKHyil1N_xilPgLlA.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260601T175759Z-yt-uF9wm7BquKQ/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "WHkYoA41fzRp22Szes5Vc_OlyCBthg.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9c941a/WHkYoA41fzRp22Szes5Vc_OlyCBthg.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260601T175759Z-yt-uF9wm7BquKQ/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "RYk7VZP8wd3duocmYukOb_RT0vPMJw.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9c941e/RYk7VZP8wd3duocmYukOb_RT0vPMJw.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260601T175759Z-yt-uF9wm7BquKQ/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "RMnNO86LtDOBD9VnEUlEJ_Gb0kx4nx.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9c9423/RMnNO86LtDOBD9VnEUlEJ_Gb0kx4nx.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260601T175759Z-yt-uF9wm7BquKQ/slide-8.png",
+      "slide_index": 8,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 9,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260601T175759Z-yt-uF9wm7BquKQ/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: SME อยากได้เว็บโปรโมชันเร็ว แต่ถ้าสั่ง AI กว้างเกินไปจะได้โค้ดที่ตรวจยาก แก้ยาก และเสี่ยงพังก่อนขายจริง\n\n📌 ทำไมควรเซฟโพสต์นี้: Claude Code เหมาะกับงานที่มี brief, input/output, ไฟล์ที่เกี่ยวข้อง และ checklist ทดสอบ ไม่ใช่แค่บอกให้สร้างเว็บให้หน่อย\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์\n\n2) ✨ ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ\n\n3) ✨ ขอ responsive landing page พร้อม copy สั้น\n\n4) ✨ ให้ Claude Code สรุป diff และไฟล์ที่แก้\n\n🧪 ลองเริ่มวันนี้: วันนี้ลองให้ Claude Code ทำ landing page 1 หน้า พร้อม diff summary และ checklist ทดสอบก่อนปล่อยจริง\n\n🧭 วิธีใช้กับงานนี้: เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์ → ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ → ขอ responsive landing page พร้อม copy สั้น\n\n🌱 มือใหม่ให้เริ่มจากเคสจริงเล็ก ๆ ของอุตสาหกรรมนี้ แล้วให้คนในทีมตรวจคำตอบก่อนใช้กับลูกค้าจริง\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเห็นว่า AI ช่วยลดงานซ้ำและทำให้บริการชัดขึ้นได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "ใช้ Claude Code ทำหน้าเว็บร้านแบบตรวจได้ก่อนปล่อยจริง #AIมือใหม่ ใช้ได้จริง"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=uF9wm7BquKQ",
+      "Keywords: Claude Code, Token, workflow, AI automation, Make, agent",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "glossary": {
+      "AI automation": "ระบบอัตโนมัติด้วย AI",
+      "Claude Code": "Claude Code",
+      "Make": "Make",
+      "Token": "ชิ้นข้อความที่ AI ใช้นับ",
+      "agent": "เอเจนต์ AI",
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "Claude Code",
+      "Token",
+      "workflow",
+      "AI automation",
+      "Make",
+      "agent"
+    ],
+    "source_id": "yt-uF9wm7BquKQ",
+    "source_url": "https://www.youtube.com/watch?v=uF9wm7BquKQ",
+    "thai_call_to_action": "วันนี้ลองให้ Claude Code ทำ landing page 1 หน้า พร้อม diff summary และ checklist ทดสอบก่อนปล่อยจริง",
+    "thai_hook": "ใช้ Claude Code ทำหน้าเว็บร้านแบบตรวจได้ก่อนปล่อยจริง",
+    "thai_problem": "SME อยากได้เว็บโปรโมชันเร็ว แต่ถ้าสั่ง AI กว้างเกินไปจะได้โค้ดที่ตรวจยาก แก้ยาก และเสี่ยงพังก่อนขายจริง",
+    "thai_tips": [
+      "เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์",
+      "ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ",
+      "ขอ responsive landing page พร้อม copy สั้น",
+      "ให้ Claude Code สรุป diff และไฟล์ที่แก้",
+      "ทดสอบ mobile ปุ่ม CTA form และ tracking ก่อน deploy"
+    ],
+    "thai_trend_angle": "Claude Code เหมาะกับงานที่มี brief, input/output, ไฟล์ที่เกี่ยวข้อง และ checklist ทดสอบ ไม่ใช่แค่บอกให้สร้างเว็บให้หน่อย"
+  }
+}

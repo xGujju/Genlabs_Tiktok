@@ -1,0 +1,295 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a9bcfcc/jc0Xwhz0BZUGfTYRk5iJa_W37HmxWs.png",
+    "https://v3b.fal.media/files/b/0a9bcfd2/IKnAU4pgdqw8tTtk7tcPt_PajxFmPF.png",
+    "https://v3b.fal.media/files/b/0a9bcfd6/vpNDv3J3Q5bEWlBndJjhG_RBZgJn9N.png",
+    "https://v3b.fal.media/files/b/0a9bcfdb/q30Gyxqjmp_q9KtQcRPPd_jc3Srinm.png",
+    "https://v3b.fal.media/files/b/0a9bcfe0/6_OP39-fDr7txfHuvRRPF_xHo2EuNN.png",
+    "https://v3b.fal.media/files/b/0a9bcfe4/4mWwpvJS9DwYIP5zl75k8_RW1NXrsO.png",
+    "https://v3b.fal.media/files/b/0a9bcfe8/qLwJDwSTc4vYNMDUlQasq_jT1KQylT.png",
+    "https://v3b.fal.media/files/b/0a9bcfec/4UBhozctQHTj4ZrXTn5ni_cWQ7WAR3.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 8,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/8 role=hook. Thai copy: ก่อนส่งไฟล์ให้ AI: ลบข้อมูลส่วนตัวให้เป็นนิสัย\nContext • workflow • prompt • Make. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "ก่อนส่งไฟล์ให้ AI: ลบข้อมูลส่วนตัวให้เป็นนิสัย\nContext • workflow • prompt • Make",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/8 role=problem. Thai copy: ปัญหา: หลายคนอัปโหลดเอกสารให้ AI ทั้งที่ยังมีเบอร์โทร อีเมล เลขบัตร ที่อยู่ หรือลูกค้าจริงอยู่ในไฟล์. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: หลายคนอัปโหลดเอกสารให้ AI ทั้งที่ยังมีเบอร์โทร อีเมล เลขบัตร ที่อยู่ หรือลูกค้าจริงอยู่ในไฟล์",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/8 role=trend. Thai copy: ทำไมควรสนใจ:\nประเด็นนี้สำคัญเพราะ AI ช่วยงานได้เร็ว แต่ความปลอดภัยต้องมาก่อน. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nประเด็นนี้สำคัญเพราะ AI ช่วยงานได้เร็ว แต่ความปลอดภัยต้องมาก่อน",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/8 role=tips. Thai copy: ลองใช้แบบนี้:\n1) ไฮไลต์ข้อมูลส่วนตัวก่อนอัปโหลด\n2) แทนชื่อจริงด้วยคำว่า ลูกค้า A\n3) ลบเลขบัตร เบอร์โทร และที่อยู่\n4) ให้ AI ช่วยตรวจว่ามีข้อมูลเสี่ยงเหลือไหม. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) ไฮไลต์ข้อมูลส่วนตัวก่อนอัปโหลด\n2) แทนชื่อจริงด้วยคำว่า ลูกค้า A\n3) ลบเลขบัตร เบอร์โทร และที่อยู่\n4) ให้ AI ช่วยตรวจว่ามีข้อมูลเสี่ยงเหลือไหม",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/8 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/8 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\nใช้กับ 3 จุดนี้:\n5) แชทลูกค้า: ร่างคำตอบจาก FAQ จริง\n6) ฝ่ายขาย: สรุปลีดที่พร้อมซื้อ\n7) หลังบ้าน: สรุปรายงานประจำวัน. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\nใช้กับ 3 จุดนี้:\n5) แชทลูกค้า: ร่างคำตอบจาก FAQ จริง\n6) ฝ่ายขาย: สรุปลีดที่พร้อมซื้อ\n7) หลังบ้าน: สรุปรายงานประจำวัน",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/8 role=framework. Thai copy: จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ. Visual direction: five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "framework",
+        "thai_copy": "จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ",
+        "visual_direction": "five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat"
+      },
+      {
+        "image_prompt": "Slide 8/8 role=cta. Thai copy: ลองวันนี้:\nก่อนใช้ AI กับเอกสารจริงวันนี้ ลองทำเช็กลิสต์ลบข้อมูลส่วนตัว 1 รอบ. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 8,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nก่อนใช้ AI กับเอกสารจริงวันนี้ ลองทำเช็กลิสต์ลบข้อมูลส่วนตัว 1 รอบ",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "yt-_ZggFpdO6do",
+    "source_url": "https://www.youtube.com/watch?v=_ZggFpdO6do",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://www.youtube.com/watch?v=_ZggFpdO6do",
+        "Keywords: Context, workflow, prompt, Make",
+        "This is trending because people can copy the workflow immediately instead of only reading AI news."
+      ],
+      "glossary": {
+        "Context": "บริบท",
+        "Make": "Make",
+        "prompt": "พรอมป์ต์",
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "Context",
+        "workflow",
+        "prompt",
+        "Make"
+      ],
+      "source_id": "yt-_ZggFpdO6do",
+      "source_url": "https://www.youtube.com/watch?v=_ZggFpdO6do",
+      "thai_call_to_action": "ก่อนใช้ AI กับเอกสารจริงวันนี้ ลองทำเช็กลิสต์ลบข้อมูลส่วนตัว 1 รอบ",
+      "thai_hook": "ก่อนส่งไฟล์ให้ AI: ลบข้อมูลส่วนตัวให้เป็นนิสัย",
+      "thai_problem": "หลายคนอัปโหลดเอกสารให้ AI ทั้งที่ยังมีเบอร์โทร อีเมล เลขบัตร ที่อยู่ หรือลูกค้าจริงอยู่ในไฟล์",
+      "thai_tips": [
+        "ไฮไลต์ข้อมูลส่วนตัวก่อนอัปโหลด",
+        "แทนชื่อจริงด้วยคำว่า ลูกค้า A",
+        "ลบเลขบัตร เบอร์โทร และที่อยู่",
+        "ให้ AI ช่วยตรวจว่ามีข้อมูลเสี่ยงเหลือไหม"
+      ],
+      "thai_trend_angle": "ประเด็นนี้สำคัญเพราะ AI ช่วยงานได้เร็ว แต่ความปลอดภัยต้องมาก่อน"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "AI Tech Pubs",
+    "clean_headline": "How I Use ChatGPT to Save 3 Hours Every Day (Small Business Owner) AI Tech Pubs Running a small business means wearing every hat — and drowning in tasks that ea",
+    "clean_summary": "How I Use ChatGPT to Save 3 Hours Every Day (Small Business Owner) AI Tech Pubs Running a small business means wearing every hat — and drowning in tasks that eat your day before you even start the real work ... Transcript: How I Use ChatGPT to Save 3 Hours Every Day (Small Business Owner) Description How I Use ChatGPT to Save 3 Hours Every Day (Small Business Owner) 2 Likes 4 Views 8m Ago Running a small business means wearing every hat — and drowning in tasks that eat your day before you even start the real work. In this video I'll show you the exact 5 ChatGPT workflows I use every day to get 3 hours back — so you can focus on growing your business instead of managing it. These aren't generic tips. These are the specific prompts and systems I use daily for email triage, research, writing, planning, and decision making. ⏱ TIMESTAMPS [0:00]( Intro [0:45]( Workflow 1 — Email triage (save 35 min) [2:00]( Workflow 2 — Research & summarizing (save 40 min) [3:30]( Workflow 3 — Writing first drafts (save 35 min) [5:00]( Workflow 4 — Daily planning (save 25 min) [5:45]( Workflow 5 — Decision making (save 40 min) [5:55]( Free prompt pack 📋 THE 5 PROMPTS FROM THIS VIDEO Prompt 1 — Email Triage: \"Here are my emails from this morning. For each one: summarize it in one sentence, tell me if it needs a reply today or can wait, and if it needs a reply today, draft a professional response in under 5 sentences. Emails: [paste emails]\" Prompt 2 — Research Summary: \"Summarize this in 5 bullet points. Then tell me: what are the 3 most important things I need to know as a small business owner, and is there anything I should be concerned about or act on urgently? [paste content]\" Prompt 3 — First Draft: \"Write a first draft of [type of content] for [audience]. Tone: [professional/warm/casual]. Key points: [list]. Keep it under [word count]. Don't make it sound AI-generated — write it like a real person who genuinely wants to help.\" Prompt 4 — Daily Planning: \"Here is my task list for today. Organize these into a realistic time-blocked schedule. Put high-focus work in the morning and admin in the afternoon. Flag anything to delegate or delete, and tell me my single most important task to do first. I have [X] hours available. Tasks: [paste list]\" Prompt 5 — Decision Making: \"I need to decide [decision]. Context: [situation]. Give me: top 3 reasons to do it, top 3 reasons not to, what information I might be missing, and your honest recommendation.\" 🔧 TOOLS MENTIONED → ChatGPT: → Make.com: 📥 FREE DOWNLOAD → 50 ChatGPT Prompts for Business Owners — completely free: 🔔 SUBSCRIBE for weekly AI productivity videos — no hype, no fluff, just tools and systems that actually work for real businesses. ⚠️ DISCLAIMER: This video is for educational purposes only. No income or results are guaranteed. Some links in this description are affiliate links — I may earn a commission if you purchase through them at no extra cost to you. Full Terms & Conditions and Privacy Policy: aitechpubs.com © 2026 AI Tech Pubs. All rights reserved.…...more ...more Show less Transcript Follow along using the transcript. Show transcript [![Image 10]( ### AI Tech Pubs 2 subscribers]( [Videos]( ## Transcript NaN / NaN [![Image 11]( LIVE]( ![Image 12]( ### [Storchennest Live Webcam in Bad Salzungen, Thüringen]( Stadtverwaltung Bad Salzungen 1.7K watching [![Image 13]( 13:18]( ![Image 14]( ### [I’m 83. If You Can’t Live Alone, Don’t Go To Nursing Homes. Do This Instead]( Margaret Elaine 1.9M views • 3 months ago [![Image 15](http",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 4,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "Context",
+      "workflow",
+      "prompt",
+      "Make"
+    ],
+    "original_language": "en",
+    "raw_text": "YouTube title: How I Use ChatGPT to Save 3 Hours Every Day (Small Business Owner)\nChannel: AI Tech Pubs\nDescription: Running a small business means wearing every hat — and drowning in tasks that eat your day before you even start the real work ...\nTranscript:\nTitle: How I Use ChatGPT to Save 3 Hours Every Day (Small Business Owner) Description How I Use ChatGPT to Save 3 Hours Every Day (Small Business Owner) 2 Likes 4 Views 8m Ago Running a small business means wearing every hat — and drowning in tasks that eat your day before you even start the real work. In this video I'll show you the exact 5 ChatGPT workflows I use every day to get 3 hours back — so you can focus on growing your business instead of managing it. These aren't generic tips. These are the specific prompts and systems I use daily for email triage, research, writing, planning, and decision making. ⏱ TIMESTAMPS [0:00](https://www.youtube.com/watch?v=_ZggFpdO6do) Intro [0:45](https://www.youtube.com/watch?v=_ZggFpdO6do&t=45s) Workflow 1 — Email triage (save 35 min) [2:00](https://www.youtube.com/watch?v=_ZggFpdO6do&t=120s) Workflow 2 — Research & summarizing (save 40 min) [3:30](https://www.youtube.com/watch?v=_ZggFpdO6do&t=210s) Workflow 3 — Writing first drafts (save 35 min) [5:00](https://www.youtube.com/watch?v=_ZggFpdO6do&t=300s) Workflow 4 — Daily planning (save 25 min) [5:45](https://www.youtube.com/watch?v=_ZggFpdO6do&t=345s) Workflow 5 — Decision making (save 40 min) [5:55](https://www.youtube.com/watch?v=_ZggFpdO6do&t=355s) Free prompt pack 📋 THE 5 PROMPTS FROM THIS VIDEO Prompt 1 — Email Triage: \"Here are my emails from this morning. For each one: summarize it in one sentence, tell me if it needs a reply today or can wait, and if it needs a reply today, draft a professional response in under 5 sentences. Emails: [paste emails]\" Prompt 2 — Research Summary: \"Summarize this in 5 bullet points. Then tell me: what are the 3 most important things I need to know as a small business owner, and is there anything I should be concerned about or act on urgently? [paste content]\" Prompt 3 — First Draft: \"Write a first draft of [type of content] for [audience]. Tone: [professional/warm/casual]. Key points: [list]. Keep it under [word count]. Don't make it sound AI-generated — write it like a real person who genuinely wants to help.\" Prompt 4 — Daily Planning: \"Here is my task list for today. Organize these into a realistic time-blocked schedule. Put high-focus work in the morning and admin in the afternoon. Flag anything to delegate or delete, and tell me my single most important task to do first. I have [X] hours available. Tasks: [paste list]\" Prompt 5 — Decision Making: \"I need to decide [decision]. Context: [situation]. Give me: top 3 reasons to do it, top 3 reasons not to, what information I might be missing, and your honest recommendation.\" 🔧 TOOLS MENTIONED → ChatGPT: https://chat.openai.com → Make.com: https://www.make.com/en/register?pc=aitech... 📥 FREE DOWNLOAD → 50 ChatGPT Prompts for Business Owners — completely free: https://www.aitechpubs.com/ 🔔 SUBSCRIBE for weekly AI productivity videos — no hype, no fluff, just tools and systems that actually work for real businesses. ⚠️ DISCLAIMER: This video is for educational purposes only. No income or results are guaranteed. Some links in this description are affiliate links — I may earn a commission if you purchase through them at no extra cost to you. Full Terms & Conditions and Privacy Policy: aitechpubs.com © 2026 AI Tech Pubs. All rights reserved.…...more ...more Show less Transcript Follow along using the transcript. Show transcript [![Image 10](https://www.youtube.com/watch?v=_ZggFpdO6do) ### AI Tech Pubs 2 subscribers](https://www.youtube.com/@AITechPubs) [Videos](https://www.youtube.com/channel/UC5l1g8Y7i_CFuDVmKuWBJ2A/videos)[About](https://www.youtube.com/channel/UC5l1g8Y7i_CFuDVmKuWBJ2A/about) ## Transcript NaN / NaN [![Image 11](https://i.ytimg.com/vi/Dr5zebXpO-M/hqdefault.jpg?v=85a9&sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA6fI4kv2mV4yf166DHon9G_ickVw) LIVE](https://www.youtube.com/watch?v=Dr5zebXpO-M) ![Image 12](https://www.youtube.com/watch?v=_ZggFpdO6do) ### [Storchennest Live Webcam in Bad Salzungen, Thüringen](https://www.youtube.com/watch?v=Dr5zebXpO-M) Stadtverwaltung Bad Salzungen 1.7K watching [![Image 13](https://i.ytimg.com/vi/0YHBw2LF4t8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDEehhlhv9-anjxhQ7PBkEaCyFUiA) 13:18](https://www.youtube.com/watch?v=0YHBw2LF4t8) ![Image 14](https://www.youtube.com/watch?v=_ZggFpdO6do) ### [I’m 83. If You Can’t Live Alone, Don’t Go To Nursing Homes. Do This Instead](https://www.youtube.com/watch?v=0YHBw2LF4t8) Margaret Elaine 1.9M views • 3 months ago [![Image 15](http",
+    "source_id": "yt-_ZggFpdO6do",
+    "source_url": "https://www.youtube.com/watch?v=_ZggFpdO6do",
+    "why_it_matters": "This is trending because people can copy the workflow immediately instead of only reading AI news."
+  },
+  "content_brief": {
+    "call_to_action": "ก่อนใช้ AI กับเอกสารจริงวันนี้ ลองทำเช็กลิสต์ลบข้อมูลส่วนตัว 1 รอบ",
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=_ZggFpdO6do",
+      "Keywords: Context, workflow, prompt, Make",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "hook": "ก่อนส่งไฟล์ให้ AI: ลบข้อมูลส่วนตัวให้เป็นนิสัย",
+    "original_keywords": [
+      "Context",
+      "workflow",
+      "prompt",
+      "Make"
+    ],
+    "original_language": "en",
+    "problem": "หลายคนอัปโหลดเอกสารให้ AI ทั้งที่ยังมีเบอร์โทร อีเมล เลขบัตร ที่อยู่ หรือลูกค้าจริงอยู่ในไฟล์",
+    "source_id": "yt-_ZggFpdO6do",
+    "source_url": "https://www.youtube.com/watch?v=_ZggFpdO6do",
+    "tips": [
+      "ไฮไลต์ข้อมูลส่วนตัวก่อนอัปโหลด",
+      "แทนชื่อจริงด้วยคำว่า ลูกค้า A",
+      "ลบเลขบัตร เบอร์โทร และที่อยู่",
+      "ให้ AI ช่วยตรวจว่ามีข้อมูลเสี่ยงเหลือไหม"
+    ],
+    "trend_angle": "ประเด็นนี้สำคัญเพราะ AI ช่วยงานได้เร็ว แต่ความปลอดภัยต้องมาก่อน"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "jc0Xwhz0BZUGfTYRk5iJa_W37HmxWs.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9bcfcc/jc0Xwhz0BZUGfTYRk5iJa_W37HmxWs.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260526T222605Z-yt-_ZggFpdO6do/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "IKnAU4pgdqw8tTtk7tcPt_PajxFmPF.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9bcfd2/IKnAU4pgdqw8tTtk7tcPt_PajxFmPF.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260526T222605Z-yt-_ZggFpdO6do/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "vpNDv3J3Q5bEWlBndJjhG_RBZgJn9N.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9bcfd6/vpNDv3J3Q5bEWlBndJjhG_RBZgJn9N.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260526T222605Z-yt-_ZggFpdO6do/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "q30Gyxqjmp_q9KtQcRPPd_jc3Srinm.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9bcfdb/q30Gyxqjmp_q9KtQcRPPd_jc3Srinm.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260526T222605Z-yt-_ZggFpdO6do/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "6_OP39-fDr7txfHuvRRPF_xHo2EuNN.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9bcfe0/6_OP39-fDr7txfHuvRRPF_xHo2EuNN.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260526T222605Z-yt-_ZggFpdO6do/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "4mWwpvJS9DwYIP5zl75k8_RW1NXrsO.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9bcfe4/4mWwpvJS9DwYIP5zl75k8_RW1NXrsO.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260526T222605Z-yt-_ZggFpdO6do/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "qLwJDwSTc4vYNMDUlQasq_jT1KQylT.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9bcfe8/qLwJDwSTc4vYNMDUlQasq_jT1KQylT.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260526T222605Z-yt-_ZggFpdO6do/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "4UBhozctQHTj4ZrXTn5ni_cWQ7WAR3.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9bcfec/4UBhozctQHTj4ZrXTn5ni_cWQ7WAR3.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260526T222605Z-yt-_ZggFpdO6do/slide-8.png",
+      "slide_index": 8,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 9,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260526T222605Z-yt-_ZggFpdO6do/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: หลายคนอัปโหลดเอกสารให้ AI ทั้งที่ยังมีเบอร์โทร อีเมล เลขบัตร ที่อยู่ หรือลูกค้าจริงอยู่ในไฟล์\n\n📌 ทำไมควรเซฟโพสต์นี้: ประเด็นนี้สำคัญเพราะ AI ช่วยงานได้เร็ว แต่ความปลอดภัยต้องมาก่อน\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ ไฮไลต์ข้อมูลส่วนตัวก่อนอัปโหลด\n\n2) ✨ แทนชื่อจริงด้วยคำว่า ลูกค้า A\n\n3) ✨ ลบเลขบัตร เบอร์โทร และที่อยู่\n\n4) ✨ ให้ AI ช่วยตรวจว่ามีข้อมูลเสี่ยงเหลือไหม\n\n🧪 ลองเริ่มวันนี้: ก่อนใช้ AI กับเอกสารจริงวันนี้ ลองทำเช็กลิสต์ลบข้อมูลส่วนตัว 1 รอบ\n\n🧭 วิธีใช้กับงานนี้: ไฮไลต์ข้อมูลส่วนตัวก่อนอัปโหลด → แทนชื่อจริงด้วยคำว่า ลูกค้า A → ลบเลขบัตร เบอร์โทร และที่อยู่\n\n🌱 มือใหม่ให้เริ่มจากเคสจริงเล็ก ๆ ของอุตสาหกรรมนี้ แล้วให้คนในทีมตรวจคำตอบก่อนใช้กับลูกค้าจริง\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเห็นว่า AI ช่วยลดงานซ้ำและทำให้บริการชัดขึ้นได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "ก่อนส่งไฟล์ให้ AI: ลบข้อมูลส่วนตัวให้เป็นนิสัย #AIมือใหม่ เอาไปใช้กับงานจริงได้ทันที"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=_ZggFpdO6do",
+      "Keywords: Context, workflow, prompt, Make",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "glossary": {
+      "Context": "บริบท",
+      "Make": "Make",
+      "prompt": "พรอมป์ต์",
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "Context",
+      "workflow",
+      "prompt",
+      "Make"
+    ],
+    "source_id": "yt-_ZggFpdO6do",
+    "source_url": "https://www.youtube.com/watch?v=_ZggFpdO6do",
+    "thai_call_to_action": "ก่อนใช้ AI กับเอกสารจริงวันนี้ ลองทำเช็กลิสต์ลบข้อมูลส่วนตัว 1 รอบ",
+    "thai_hook": "ก่อนส่งไฟล์ให้ AI: ลบข้อมูลส่วนตัวให้เป็นนิสัย",
+    "thai_problem": "หลายคนอัปโหลดเอกสารให้ AI ทั้งที่ยังมีเบอร์โทร อีเมล เลขบัตร ที่อยู่ หรือลูกค้าจริงอยู่ในไฟล์",
+    "thai_tips": [
+      "ไฮไลต์ข้อมูลส่วนตัวก่อนอัปโหลด",
+      "แทนชื่อจริงด้วยคำว่า ลูกค้า A",
+      "ลบเลขบัตร เบอร์โทร และที่อยู่",
+      "ให้ AI ช่วยตรวจว่ามีข้อมูลเสี่ยงเหลือไหม"
+    ],
+    "thai_trend_angle": "ประเด็นนี้สำคัญเพราะ AI ช่วยงานได้เร็ว แต่ความปลอดภัยต้องมาก่อน"
+  }
+}

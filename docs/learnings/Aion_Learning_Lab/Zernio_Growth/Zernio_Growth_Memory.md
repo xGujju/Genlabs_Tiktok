@@ -1,6 +1,6 @@
 # Zernio Growth Memory
 
-Last updated: 2026-06-02T16:01:18Z
+Last updated: 2026-06-03T15:25:27Z
 
 ## KPI
 - Goal: one TikTok post reaches **100,000 views**.
@@ -112,38 +112,22 @@ Last updated: 2026-06-02T16:01:18Z
 
 ## Current breakout watch
 {
-  "status": "post_import_refresh_window_candidate_current_baseline_zero_delta",
-  "platform_post_id": "7646741883024084232",
-  "label": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายคนถาม AI สั้นเกินไป เลยได้คำต…",
-  "pre_run_snapshot_at": "2026-06-02T14:00:53.111866+00:00",
-  "latest_snapshot_at": "2026-06-02T14:05:09.404276+00:00",
-  "latest_reconciled_snapshot_at": "2026-06-02T14:05:09.404276+00:00",
-  "latest_confirmed_snapshot_at": "2026-06-02T14:00:53.111172+00:00",
-  "previous_snapshot_at": "2026-06-02T13:34:03.784621+00:00",
+  "status": "no_formal_breakout_current_baseline_zero_delta",
+  "platform_post_id": null,
+  "label": null,
+  "pre_run_snapshot_at": "2026-06-03T12:30:56.442962+00:00",
+  "latest_snapshot_at": "2026-06-03T12:30:56.442962+00:00",
+  "latest_reconciled_snapshot_at": "2026-06-03T12:30:56.442962+00:00",
+  "latest_confirmed_snapshot_at": "2026-06-03T12:30:56.442962+00:00",
+  "previous_snapshot_at": "2026-06-03T12:00:25.201893+00:00",
   "latest_confirmed_delta_views": 0,
   "latest_confirmed_hourly_velocity": 0.0,
   "formal_breakout_count": 0,
-  "refresh_window_breakout_count": 1,
-  "breakout_count": 1,
+  "refresh_window_breakout_count": 0,
+  "breakout_count": 0,
   "current_formal_candidate": null,
-  "latest_confirmed_formal_candidate": null,
-  "current_refresh_window_candidate": {
-    "platform_post_id": "7646741883024084232",
-    "label": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายคนถาม AI สั้นเกินไป เลยได้คำต…",
-    "views": 350,
-    "shares": 2,
-    "gap": 99650,
-    "delta": 256,
-    "hourly": 3595.89,
-    "analytics_last_updated": "2026-06-02 13:53:42",
-    "latest_imported_at": "2026-06-02T14:00:59.612100+00:00",
-    "breakout_reasons": [
-      "high_velocity_since_last_snapshot"
-    ],
-    "reason": "post_import_refresh_window_primary_by_kpi_leverage",
-    "caveat": "Refresh-window/import-window inflated; preserve the prior normal baseline until the next >15m snapshot confirms velocity."
-  },
-  "current_reason": "2026-06-02T14:05:09.404276+00:00 same-window/import refresh found 1 breakout_candidates after the prior normal baseline `2026-06-02T14:00:53.111172+00:00`. Primary refresh-window candidate by KPI leverage/share depth: 7646741883024084232 at 350 views / 2 shares / +256 views (~3595.89 per hour); rates are refresh-window/import-window inflated. Post 7634027210248097042 remains ChatGPT productivity/workflow evidence; protected GenLabs no-prompt/10-baht product-photo phrase is CTA copy only.",
+  "current_refresh_window_candidate": null,
+  "current_reason": "2026-06-03T12:30:56.442962+00:00 normal velocity baseline found no breakout_candidates and no watched-post movement; prior positive movement is watch-only context until a later import/baseline confirms renewed velocity.",
   "best_post_watch": {
     "platform_post_id": "7634027210248097042",
     "label": "ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items",
@@ -153,96 +137,99 @@ Last updated: 2026-06-02T16:01:18Z
     "delta": 0,
     "hourly": 0.0,
     "analytics_last_updated": "2026-06-02 12:21:58",
-    "latest_imported_at": "2026-06-02T14:00:59.612100+00:00",
-    "caveat": "Best/closest-to-100k remains CTA-stripped educational evidence; protected CTA is not hook/topic evidence."
+    "latest_imported_at": "2026-06-03T12:00:35.033970+00:00",
+    "caveat": "Best/closest-to-100k watch only when current normal baseline has no breakout candidates; protected CTA is not hook/topic evidence."
   },
-  "strongest_mover_watch": {
-    "platform_post_id": "7646741883024084232",
-    "label": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายคนถาม AI สั้นเกินไป เลยได้คำต…",
-    "views": 350,
-    "shares": 2,
-    "gap": 99650,
-    "delta": 256,
-    "hourly": 3595.89,
-    "analytics_last_updated": "2026-06-02 13:53:42",
-    "latest_imported_at": "2026-06-02T14:00:59.612100+00:00",
-    "breakout_reasons": [
-      "high_velocity_since_last_snapshot"
-    ],
-    "reason": "raw_fastest_post_import_refresh_window_mover",
-    "caveat": "Secondary refresh-window evidence unless it also has the best KPI leverage."
-  },
+  "strongest_mover_watch": null,
+  "high_share_watch": null,
   "previous_positive_momentum": {
-    "delta": 555,
-    "gap": 56680,
-    "hourly": 1098.52,
-    "label": "ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items",
-    "latest_confirmed_snapshot_at": "2026-06-02T13:00:39.728284+00:00",
+    "delta": 256,
+    "gap": 99650,
+    "hourly": 526.25,
+    "label": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายคนถาม AI สั้นเกินไป เลยได้คำต…",
+    "latest_confirmed_snapshot_at": "2026-06-02T14:30:04.363674+00:00",
     "note": "Superseded as current by a later normal zero-candidate baseline; keep as watch-only context until new movement is confirmed.",
-    "platform_post_id": "7634027210248097042",
-    "shares": 519,
+    "platform_post_id": "7646741883024084232",
+    "shares": 2,
     "status": "previous_positive_momentum_watch_only_context",
-    "views": 43320
+    "views": 350
   },
   "public_posting": false,
   "spending_triggered_by_this_run": false,
   "generation_triggered_by_this_run": false,
-  "live_publishing": false,
-  "factory_status": "15:59 exact factory created safe review-only draft `6a1efdca8411762810de7c44` / Airtable `recL3VPUKLymeezIn` from source `matrix-coffee-gemini-p1`; fresh state `latest_social_draft_factory.json@2026-06-02T15:59:08.099338+00:00`; 7 generated lesson slides + reusable CTA = 8 media; live Zernio status=draft, publishNow absent, outbound scheduledFor omitted, TikTok draft=true, TikTok+Facebook present, Facebook first-comment hash exact, Instagram account access still missing; no lingering factory/radar process at `2026-06-02T16:01:18Z`. QA blocker: coffee/Gemini source drifted into generic prompt-context guidance; public slides are readable/leak-free but do not visibly teach cafe/dessert, Gemini Sheets/Docs, low-traffic promotion, or Google document/table workflow.",
-  "scheduler_state": "import_breakout_growth_factory_current_no_scheduler_miss_editorial_gates_open",
+  "factory_status": "15:23 exact factory created TikTok draft-safe review-only draft 6a2046f080753c95d4b2f050 / Airtable recR9CONproNpHQrq from source matrix-sunscreen-chatgpt-p0; fresh state latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00; 7 lesson slides + reusable CTA = 8 media; Airtable draft_created; live Zernio status=draft, media_count=8, no publishNow, TikTok draft=true; rebuilt payload omitted publishNow/scheduledFor; live account access currently exposes TikTok only, so FB/IG are account-access/config caveats; source-topic QA remains open because sunscreen/SPF source rendered generic prompt-context guidance; cron enabled/future-scheduled next 2026-06-03T16:16:30.597912+00:00; no lingering process at 2026-06-03T15:25:27Z.",
+  "scheduler_state": "15:23 exact factory created TikTok draft-safe review-only draft 6a2046f080753c95d4b2f050 / Airtable recR9CONproNpHQrq from source matrix-sunscreen-chatgpt-p0; fresh state latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00; 7 lesson slides + reusable CTA = 8 media; Airtable draft_created; live Zernio status=draft, media_count=8, no publishNow, TikTok draft=true; rebuilt payload omitted publishNow/scheduledFor; live account access currently exposes TikTok only, so FB/IG are account-access/config caveats; source-topic QA remains open because sunscreen/SPF source rendered generic prompt-context guidance; cron enabled/future-scheduled next 2026-06-03T16:16:30.597912+00:00; no lingering process at 2026-06-03T15:25:27Z.",
   "latest_completed_breakout_output": "2026-06-02_14-01-15.md",
   "latest_scheduled_import_output": "2026-06-02_14-01-48.md",
   "latest_growth_output": "2026-06-02_12-04-09.md",
-  "latest_factory_output": "manual-exact-2026-06-02T15:59Z_current-cron-delivery-pending",
+  "latest_factory_output": "latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00",
   "cta_guard": "Post `7634027210248097042` is ChatGPT productivity/workflow evidence; protected product-photo/no-prompt CTA is promo copy only, not hook/topic/weak-pattern evidence."
 }
 
 ## Current metrics
 {
-  "airtable_record_id": "historical 09:47 prior Airtable",
+  "airtable_record_id": "recR9CONproNpHQrq",
   "best_post_id": "7634027210248097042",
   "best_views": 43320,
-  "breakout_count": 1,
+  "breakout_count": 0,
   "checked_at": "2026-06-02T08:31:46Z",
   "cta_guard": {
     "note": "Post `7634027210248097042` is ChatGPT productivity/workflow evidence; protected product-photo/no-prompt CTA is promo copy only, not hook/topic/weak-pattern evidence.",
     "status": "ok",
     "unsafe_count": 0
   },
-  "current_breakout_gap_to_100k": 99650,
-  "current_breakout_import_window_hourly": 3595.89,
+  "current_breakout_gap_to_100k": null,
+  "current_breakout_import_window_hourly": null,
   "current_breakout_latest_confirmed_delta": 0,
   "current_breakout_latest_confirmed_hourly": 0.0,
   "current_breakout_output_state": "Breakout output `2026-06-02_14-01-15.md` delivered no formal candidate; current growth-check output is in-flight until delivery, not a scheduler miss.",
-  "current_breakout_platform_post_id": "7646741883024084232",
-  "current_breakout_post_import_delta": 256,
-  "current_breakout_shares": 2,
-  "current_breakout_status": "post_import_refresh_window_candidate_current_baseline_zero_delta",
-  "current_breakout_views": 350,
+  "current_breakout_platform_post_id": null,
+  "current_breakout_post_import_delta": 0,
+  "current_breakout_shares": null,
+  "current_breakout_status": "no_formal_breakout_current_baseline_zero_delta",
+  "current_breakout_views": null,
   "current_experiment_output_state": "Experiment-creator output `2026-05-26_12-38-18.md` delivered successfully with the three 12:00 draft-only specs; prior `2026-05-26_00-31-45.md` error/no-response is superseded.",
-  "current_factory_output_state": "scheduled-factory-2026-06-02T15:59Z_draft-safe-review-only",
+  "current_factory_output_state": "latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00",
   "current_growth_check_output_state": "Current Growth Check 14:00 is in-flight until this report is delivered; prior delivered growth output `2026-06-02_12-04-09.md`; next scheduled 16:00.",
   "current_import_output_state": "Import output `2026-06-02_14-01-48.md` delivered ok; Airtable Imported At `2026-06-02T14:00:59.612100+00:00`.",
   "current_issue_check_output_state": "Issue-check output `2026-05-26_18-44-23.md` delivered successfully and superseded prior `2026-05-26_13-29-41.md` no-response/error; not a scheduler miss.",
-  "current_issue_count": 9,
-  "factory_next_run_at": "2026-06-02T16:50:18.642396+00:00",
-  "factory_process_check": "2026-06-02T16:01:18Z",
-  "factory_status": "15:59 exact factory created safe review-only draft `6a1efdca8411762810de7c44` / Airtable `recL3VPUKLymeezIn` from source `matrix-coffee-gemini-p1`; fresh state `latest_social_draft_factory.json@2026-06-02T15:59:08.099338+00:00`; 7 generated lesson slides + reusable CTA = 8 media; live Zernio status=draft, publishNow absent, outbound scheduledFor omitted, TikTok draft=true, TikTok+Facebook present, Facebook first-comment hash exact, Instagram account access still missing; no lingering factory/radar process at `2026-06-02T16:01:18Z`. QA blocker: coffee/Gemini source drifted into generic prompt-context guidance; public slides are readable/leak-free but do not visibly teach cafe/dessert, Gemini Sheets/Docs, low-traffic promotion, or Google document/table workflow.",
+  "current_issue_count": 10,
+  "factory_next_run_at": "2026-06-03T16:16:30.597912+00:00",
+  "factory_process_check": "2026-06-03T15:25:27Z",
+  "factory_status": "15:23 exact factory created TikTok draft-safe review-only draft 6a2046f080753c95d4b2f050 / Airtable recR9CONproNpHQrq from source matrix-sunscreen-chatgpt-p0; fresh state latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00; 7 lesson slides + reusable CTA = 8 media; Airtable draft_created; live Zernio status=draft, media_count=8, no publishNow, TikTok draft=true; rebuilt payload omitted publishNow/scheduledFor; live account access currently exposes TikTok only, so FB/IG are account-access/config caveats; source-topic QA remains open because sunscreen/SPF source rendered generic prompt-context guidance; cron enabled/future-scheduled next 2026-06-03T16:16:30.597912+00:00; no lingering process at 2026-06-03T15:25:27Z.",
   "factory_verification": {
-  "airtable_record_id": "recL3VPUKLymeezIn",
-  "cron_next_run_at": "2026-06-02T16:50:18.642396+00:00",
-  "draft_count": 1,
-  "latest_evidence": "15:59 exact factory created safe review-only draft `6a1efdca8411762810de7c44` / Airtable `recL3VPUKLymeezIn` from source `matrix-coffee-gemini-p1`; fresh state `latest_social_draft_factory.json@2026-06-02T15:59:08.099338+00:00`; 7 generated lesson slides + reusable CTA = 8 media; live Zernio status=draft, publishNow absent, outbound scheduledFor omitted, TikTok draft=true, TikTok+Facebook present, Facebook first-comment hash exact, Instagram account access still missing; no lingering factory/radar process at `2026-06-02T16:01:18Z`. QA blocker: coffee/Gemini source drifted into generic prompt-context guidance; public slides are readable/leak-free but do not visibly teach cafe/dessert, Gemini Sheets/Docs, low-traffic promotion, or Google document/table workflow.",
-  "latest_output": "manual-exact-2026-06-02T15:59Z_current-cron-delivery-pending",
-  "media_count": 8,
-  "process_check": "2026-06-02T16:01:18Z",
-  "source_id": "matrix-coffee-gemini-p1",
-  "state_generated_at": "2026-06-02T15:59:08.099338+00:00",
-  "state_token": "scheduled-factory-2026-06-02T15:59Z_draft-safe-review-only",
-  "status": "current_safe_review_only_editorial_source_topic_qa_open",
-  "zernio_draft_id": "6a1efdca8411762810de7c44",
-  "zernio_verification": "status=draft; no publishNow; media_count=8; TikTok+Facebook live; Facebook firstComment exact; Instagram absent due account access gap; outbound scheduledFor omitted"
-},
+    "airtable_record_id": "recR9CONproNpHQrq",
+    "cron_next_run_at": "2026-06-03T16:16:30.597912+00:00",
+    "draft_count": 1,
+    "editorial_qa": "review_only_not_KPI_ready_source_topic_mismatch_womens_apparel_to_generic_prompt_context",
+    "factory_status": "15:23 exact factory created TikTok draft-safe review-only draft 6a2046f080753c95d4b2f050 / Airtable recR9CONproNpHQrq from source matrix-sunscreen-chatgpt-p0; fresh state latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00; 7 lesson slides + reusable CTA = 8 media; Airtable draft_created; live Zernio status=draft, media_count=8, no publishNow, TikTok draft=true; rebuilt payload omitted publishNow/scheduledFor; live account access currently exposes TikTok only, so FB/IG are account-access/config caveats; source-topic QA remains open because sunscreen/SPF source rendered generic prompt-context guidance; cron enabled/future-scheduled next 2026-06-03T16:16:30.597912+00:00; no lingering process at 2026-06-03T15:25:27Z.",
+    "latest_evidence": "15:23 exact factory created TikTok draft-safe review-only draft 6a2046f080753c95d4b2f050 / Airtable recR9CONproNpHQrq from source matrix-sunscreen-chatgpt-p0; fresh state latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00; 7 lesson slides + reusable CTA = 8 media; Airtable draft_created; live Zernio status=draft, media_count=8, no publishNow, TikTok draft=true; rebuilt payload omitted publishNow/scheduledFor; live account access currently exposes TikTok only, so FB/IG are account-access/config caveats; source-topic QA remains open because sunscreen/SPF source rendered generic prompt-context guidance; cron enabled/future-scheduled next 2026-06-03T16:16:30.597912+00:00; no lingering process at 2026-06-03T15:25:27Z.",
+    "latest_factory_next_run_at": "2026-06-03T16:16:30.597912+00:00",
+    "latest_factory_output": "latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00",
+    "latest_factory_state_token": "latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00",
+    "latest_output": "latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00",
+    "media_count": 8,
+    "payload_safety": {
+      "expected_platforms": [
+        "tiktok",
+        "facebook",
+        "instagram"
+      ],
+      "isDraft": true,
+      "media_count": 9,
+      "publishNow_present": false,
+      "scheduledFor_present": false,
+      "tiktokSettings_draft": true
+    },
+    "process_check": "2026-06-03T15:25:27Z",
+    "scheduler_note": "15:23 exact factory created TikTok draft-safe review-only draft 6a2046f080753c95d4b2f050 / Airtable recR9CONproNpHQrq from source matrix-sunscreen-chatgpt-p0; fresh state latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00; 7 lesson slides + reusable CTA = 8 media; Airtable draft_created; live Zernio status=draft, media_count=8, no publishNow, TikTok draft=true; rebuilt payload omitted publishNow/scheduledFor; live account access currently exposes TikTok only, so FB/IG are account-access/config caveats; source-topic QA remains open because sunscreen/SPF source rendered generic prompt-context guidance; cron enabled/future-scheduled next 2026-06-03T16:16:30.597912+00:00; no lingering process at 2026-06-03T15:25:27Z.",
+    "source_id": "prior-11-39-sauce-source",
+    "state_generated_at": "2026-06-03T07:55:51.792951+00:00",
+    "state_token": "latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00",
+    "status": "enabled_future_scheduled_draft_safe_review_only_editorial_qa_open",
+    "zernio_draft_id": "prior 11:39 draft",
+    "zernio_verification": "status=draft; no publishNow; media_count=8; TikTok+Facebook live; Facebook firstComment exact; Instagram absent due account access gap; outbound scheduledFor omitted; live GET echoes scheduledFor on draft"
+  },
   "formal_breakout_count": 0,
   "gap_to_100k": 56680,
   "high_share_watch_delta": 0,
@@ -256,9 +243,9 @@ Last updated: 2026-06-02T16:01:18Z
       "id": "041946b1fef6",
       "last_run_at": "2026-06-02T06:31:03.114449+00:00",
       "last_status": "ok",
-      "latest_output": "scheduled-factory-2026-06-02T11:00Z_draft-safe-review-only",
+      "latest_output": "latest_social_draft_factory.json@2026-06-03T04:12:41.333753+00:00",
       "name": "hermes-breakout-watch",
-      "next_run_at": "2026-06-02T07:00:00+00:00",
+      "next_run_at": "2026-06-03T05:07:21.447425+00:00",
       "schedule": "*/30 * * * *",
       "state": "scheduled"
     },
@@ -267,35 +254,35 @@ Last updated: 2026-06-02T16:01:18Z
       "id": "784e1c3b87f6",
       "last_run_at": "2026-06-02T00:03:21.266937+00:00",
       "last_status": "ok",
-      "latest_output": "scheduled-factory-2026-06-02T11:00Z_draft-safe-review-only",
+      "latest_output": "latest_social_draft_factory.json@2026-06-03T04:12:41.333753+00:00",
       "name": "hermes-experiment-creator",
-      "next_run_at": "2026-06-02T12:00:00+00:00",
+      "next_run_at": "2026-06-03T05:07:21.447425+00:00",
       "schedule": "0 */12 * * *",
       "state": "scheduled"
     },
     "factory": {
       "enabled": true,
       "id": "a97a7703af32",
-      "last_run_at": "2026-06-02T06:14:46.061797+00:00",
+      "last_run_at": "2026-06-02T18:40:16.063444+00:00",
       "last_status": "ok",
-      "last_verified_at": "2026-06-02T08:31:46Z",
-      "latest_output": "scheduled-factory-2026-06-02T11:00Z_draft-safe-review-only",
+      "last_verified_at": "2026-06-03T01:51:51Z",
+      "latest_output": "latest_social_draft_factory.json@2026-06-03T04:12:41.333753+00:00",
       "name": "GenLabs hourly educational Zernio draft factory",
-      "next_run_at": "2026-06-02T11:53:49.713781+00:00",
-      "process_check": "2026-06-02T08:31:46Z",
+      "next_run_at": "2026-06-03T02:44:38.431503+00:00",
+      "process_check": "2026-06-03T01:51:51Z",
       "schedule": "every 60m",
       "state": "scheduled",
-      "state_token": "scheduled-factory-2026-06-02T11:00Z_draft-safe-review-only",
-      "status": "enabled_future_scheduled_source_lane_exhaustion_open"
+      "state_token": "latest_social_draft_factory.json@2026-06-03T01:50:17.139393+00:00",
+      "status": "draft_safe_review_only_editorial_qa_open"
     },
     "growth": {
       "enabled": true,
       "id": "e7cd01098059",
       "last_run_at": "2026-06-02T06:03:40.928357+00:00",
       "last_status": "ok",
-      "latest_output": "scheduled-factory-2026-06-02T11:00Z_draft-safe-review-only",
+      "latest_output": "latest_social_draft_factory.json@2026-06-03T04:12:41.333753+00:00",
       "name": "hermes-growth-check",
-      "next_run_at": "2026-06-02T08:00:00+00:00",
+      "next_run_at": "2026-06-03T05:07:21.447425+00:00",
       "schedule": "0 */2 * * *",
       "state": "scheduled"
     },
@@ -304,9 +291,9 @@ Last updated: 2026-06-02T16:01:18Z
       "id": "93217f974384",
       "last_run_at": "2026-06-02T06:31:58.585064+00:00",
       "last_status": "ok",
-      "latest_output": "scheduled-factory-2026-06-02T11:00Z_draft-safe-review-only",
+      "latest_output": "latest_social_draft_factory.json@2026-06-03T04:12:41.333753+00:00",
       "name": "GenLabs Zernio analytics Airtable import",
-      "next_run_at": "2026-06-02T07:00:00+00:00",
+      "next_run_at": "2026-06-03T05:07:21.447425+00:00",
       "schedule": "*/30 * * * *",
       "state": "scheduled"
     },
@@ -321,7 +308,7 @@ Last updated: 2026-06-02T16:01:18Z
       "state": "scheduled"
     }
   },
-  "latest_absolute_snapshot_at": "2026-06-02T14:05:09.404276+00:00",
+  "latest_absolute_snapshot_at": "2026-06-03T12:34:02.833670+00:00",
   "latest_breakout_output": "2026-06-02_14-01-15.md",
   "latest_completed_breakout_output": "2026-06-02_06-31-02.md",
   "latest_confirmed_breakout_delta": 0,
@@ -330,19 +317,20 @@ Last updated: 2026-06-02T16:01:18Z
   "latest_confirmed_breakout_platform_post_id": null,
   "latest_confirmed_breakout_shares": null,
   "latest_confirmed_breakout_views": null,
-  "latest_confirmed_snapshot_at": "2026-06-02T14:00:53.111172+00:00",
-  "latest_factory_next_run_at": "2026-06-02T14:33:03.685166+00:00",
-  "latest_factory_output": "2026-06-02_13-33-02.md",
-  "latest_factory_state_token": "scheduled-factory-2026-06-02T11:00Z_draft-safe-review-only",
+  "latest_confirmed_snapshot_at": "2026-06-03T12:30:56.442962+00:00",
+  "latest_factory_next_run_at": "2026-06-03T16:16:30.597912+00:00",
+  "latest_factory_output": "latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00",
+  "latest_factory_state_token": "latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00",
   "latest_growth_output": "2026-06-02_12-04-09.md",
-  "latest_import_output": "2026-06-02_14-01-48.md",
+  "latest_import_output": "2026-06-03_00-00-43.md",
   "latest_import_process_imported_at": "2026-05-26T22:01:58.068062+00:00",
-  "latest_imported_at": "2026-06-02T14:00:59.612100+00:00",
-  "latest_live_imported_at": "2026-06-02T14:00:59.612100+00:00",
-  "latest_reconciled_snapshot_at": "2026-06-02T14:05:09.404276+00:00",
-  "latest_scheduled_import_output": "2026-06-02_06-31-58.md",
-  "media_count": 0,
+  "latest_imported_at": "2026-06-03T12:31:42.562880+00:00",
+  "latest_live_imported_at": "2026-06-03T12:31:42.562880+00:00",
+  "latest_reconciled_snapshot_at": "2026-06-03T12:30:56.442962+00:00",
+  "latest_scheduled_import_output": "2026-06-03_00-00-43.md",
+  "media_count": 8,
   "note": "Absolute metrics refreshed by zernio_growth_snapshot.py; confirmed velocity/baseline context is preserved separately.",
+  "post_baseline_mover_count": 1,
   "post_direct_import_no_change_verification": {
     "candidate_count": 0,
     "direct_imported_at": "2026-05-26T14:36:11.788605+00:00",
@@ -352,21 +340,21 @@ Last updated: 2026-06-02T16:01:18Z
     "snapshot_at": "2026-05-26T14:36:49.758603+00:00",
     "watched_mover_count": 0
   },
-  "post_import_refresh_window_delta_views": 256,
-  "post_import_refresh_window_hourly": 3595.89,
-  "previous_positive_delta": 555,
-  "previous_positive_hourly": 1098.52,
-  "previous_positive_platform_post_id": "7634027210248097042",
+  "post_import_refresh_window_delta_views": 0,
+  "post_import_refresh_window_hourly": 0.0,
+  "previous_positive_delta": 256,
+  "previous_positive_hourly": 526.25,
+  "previous_positive_platform_post_id": "7646741883024084232",
   "primary_analytics_last_updated": "2026-06-02 12:21:58",
   "primary_gap_to_100k": 56680,
-  "primary_imported_at": "2026-06-02T14:00:59.612100+00:00",
+  "primary_imported_at": "2026-06-03T12:31:42.562880+00:00",
   "primary_latest_confirmed_delta": 0,
   "primary_latest_confirmed_hourly": 0.0,
   "primary_platform_post_id": "7634027210248097042",
   "primary_shares": 519,
   "primary_views": 43320,
-  "process_check": "2026-06-02T14:04:00Z",
-  "refresh_window_breakout_count": 1,
+  "process_check": "2026-06-03T15:25:27Z",
+  "refresh_window_breakout_count": 0,
   "reportable_breakout_candidate_count": 5,
   "reportable_breakout_candidate_ids": [
     "7634027210248097042",
@@ -375,24 +363,24 @@ Last updated: 2026-06-02T16:01:18Z
     "7635310153126087954",
     "7635243951582088456"
   ],
-  "scheduler_note": "11:00 factory created safe review-only draft 6a1eb7bb8edfdf524ab3cee3 / Airtable recqUw9diElgx1KZQ from source matrix-bodyskin-claude-p1; state latest_social_draft_factory.json@2026-06-02T11:00:13.229305+00:00; manifest /home/clawd/.hermes/ai_signal_radar/carousels/auto-20260602T105440Z-matrix-bodyskin-claude-p/manifest.json; 7 generated lesson slides + reusable CTA = 8 media; live Zernio status=draft, media_count=8, no publishNow, TikTok draft mode true, TikTok+Facebook present, Facebook first comment exact; outbound payload omitted publishNow/scheduledFor and included TikTok+FB+IG, but Instagram account access remains missing under active key; cron enabled/future-scheduled next 2026-06-02T11:53:49.713781+00:00; no lingering factory/radar process at 2026-06-02T11:03:10.523742+00:00; editorial/source-topic QA open because skincare/Claude SOP source rendered as generic prompt-context lesson.",
-  "scheduler_state": "import_breakout_current_growth_inflight_factory_zernio_editorial_gates_open",
+  "scheduler_note": "15:23 exact factory created TikTok draft-safe review-only draft 6a2046f080753c95d4b2f050 / Airtable recR9CONproNpHQrq from source matrix-sunscreen-chatgpt-p0; fresh state latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00; 7 lesson slides + reusable CTA = 8 media; Airtable draft_created; live Zernio status=draft, media_count=8, no publishNow, TikTok draft=true; rebuilt payload omitted publishNow/scheduledFor; live account access currently exposes TikTok only, so FB/IG are account-access/config caveats; source-topic QA remains open because sunscreen/SPF source rendered generic prompt-context guidance; cron enabled/future-scheduled next 2026-06-03T16:16:30.597912+00:00; no lingering process at 2026-06-03T15:25:27Z.",
+  "scheduler_state": "15:23 exact factory created TikTok draft-safe review-only draft 6a2046f080753c95d4b2f050 / Airtable recR9CONproNpHQrq from source matrix-sunscreen-chatgpt-p0; fresh state latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00; 7 lesson slides + reusable CTA = 8 media; Airtable draft_created; live Zernio status=draft, media_count=8, no publishNow, TikTok draft=true; rebuilt payload omitted publishNow/scheduledFor; live account access currently exposes TikTok only, so FB/IG are account-access/config caveats; source-topic QA remains open because sunscreen/SPF source rendered generic prompt-context guidance; cron enabled/future-scheduled next 2026-06-03T16:16:30.597912+00:00; no lingering process at 2026-06-03T15:25:27Z.",
   "secondary_analytics_last_updated": "2026-06-02 12:21:58",
   "secondary_delta": 0,
   "secondary_gap_to_100k": 89799,
   "secondary_hourly": 0.0,
-  "secondary_imported_at": "2026-06-02T14:00:59.612100+00:00",
+  "secondary_imported_at": "2026-06-03T12:31:42.562880+00:00",
   "secondary_platform_post_id": "7635310153126087954",
   "secondary_shares": 97,
-  "secondary_status": "watch_only_secondary_reference",
+  "secondary_status": "previous_positive_momentum_watch_only_context",
   "secondary_views": 10201,
-  "source_id": "11:00 factory created safe review-only draft 6a1eb7bb8edfdf524ab3cee3 / Airtable recqUw9diElgx1KZQ from source matrix-bodyskin-claude-p1; state latest_social_draft_factory.json@2026-06-02T11:00:13.229305+00:00; manifest /home/clawd/.hermes/ai_signal_radar/carousels/auto-20260602T105440Z-matrix-bodyskin-claude-p/manifest.json; 7 generated lesson slides + reusable CTA = 8 media; live Zernio status=draft, media_count=8, no publishNow, TikTok draft mode true, TikTok+Facebook present, Facebook first comment exact; outbound payload omitted publishNow/scheduledFor and included TikTok+FB+IG, but Instagram account access remains missing under active key; cron enabled/future-scheduled next 2026-06-02T11:53:49.713781+00:00; no lingering factory/radar process at 2026-06-02T11:03:10.523742+00:00; editorial/source-topic QA open because skincare/Claude SOP source rendered as generic prompt-context lesson.",
-  "strongest_mover_delta": 256,
-  "strongest_mover_hourly": 3595.89,
-  "strongest_mover_platform_post_id": "7646741883024084232",
-  "strongest_mover_shares": 2,
-  "strongest_mover_status": "post_import_refresh_window_mover",
-  "strongest_mover_views": 350,
+  "source_id": "prior-11-39-sauce-source",
+  "strongest_mover_delta": 0,
+  "strongest_mover_hourly": 0.0,
+  "strongest_mover_platform_post_id": null,
+  "strongest_mover_shares": null,
+  "strongest_mover_status": "no_mover_no_formal_breakout",
+  "strongest_mover_views": null,
   "strongest_mover_watch": {
     "caveat": "Watch-only: low absolute views and no formal breakout; do not amplify until next normal baseline confirms movement/share depth.",
     "delta": 256,
@@ -406,87 +394,103 @@ Last updated: 2026-06-02T16:01:18Z
     "status": "below_threshold_movement_watch_only_post_import",
     "views": 350
   },
-  "zernio_draft_id": "11:00 factory created safe review-only draft 6a1eb7bb8edfdf524ab3cee3 / Airtable recqUw9diElgx1KZQ from source matrix-bodyskin-claude-p1; state latest_social_draft_factory.json@2026-06-02T11:00:13.229305+00:00; manifest /home/clawd/.hermes/ai_signal_radar/carousels/auto-20260602T105440Z-matrix-bodyskin-claude-p/manifest.json; 7 generated lesson slides + reusable CTA = 8 media; live Zernio status=draft, media_count=8, no publishNow, TikTok draft mode true, TikTok+Facebook present, Facebook first comment exact; outbound payload omitted publishNow/scheduledFor and included TikTok+FB+IG, but Instagram account access remains missing under active key; cron enabled/future-scheduled next 2026-06-02T11:53:49.713781+00:00; no lingering factory/radar process at 2026-06-02T11:03:10.523742+00:00; editorial/source-topic QA open because skincare/Claude SOP source rendered as generic prompt-context lesson."
+  "zernio_draft_id": "prior 11:39 draft"
 }
 
 ## Scheduler cadence watch
 {}
 
 ## Factory verification
-"15:59 exact factory created safe review-only draft `6a1efdca8411762810de7c44` / Airtable `recL3VPUKLymeezIn` from source `matrix-coffee-gemini-p1`; fresh state `latest_social_draft_factory.json@2026-06-02T15:59:08.099338+00:00`; 7 generated lesson slides + reusable CTA = 8 media; live Zernio status=draft, publishNow absent, outbound scheduledFor omitted, TikTok draft=true, TikTok+Facebook present, Facebook first-comment hash exact, Instagram account access still missing; no lingering factory/radar process at `2026-06-02T16:01:18Z`. QA blocker: coffee/Gemini source drifted into generic prompt-context guidance; public slides are readable/leak-free but do not visibly teach cafe/dessert, Gemini Sheets/Docs, low-traffic promotion, or Google document/table workflow."
+15:23 exact factory created TikTok draft-safe review-only draft `6a2046f080753c95d4b2f050` / Airtable `recR9CONproNpHQrq` from source `matrix-sunscreen-chatgpt-p0`; fresh state `latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00`; 7 lesson slides + reusable CTA = 8 media; Airtable `draft_created`; live Zernio `status=draft`, media_count=8, no `publishNow`, TikTok draft=true; rebuilt payload omitted `publishNow`/`scheduledFor`; live account access currently exposes TikTok only, so FB/IG are account-access/config caveats; source-topic QA remains open because sunscreen/SPF source rendered generic prompt-context guidance; cron enabled/future-scheduled next `2026-06-03T16:16:30.597912+00:00`; no lingering process at `2026-06-03T15:25:27Z`.
 
 ## Current issues
 [
-{
-  "airtable_record_id": "recL3VPUKLymeezIn",
-  "issue": "zernio_factory_source_topic_editorial_qa_current_2026_06_02_1559",
-  "latest_evidence": "draft `6a1efdca8411762810de7c44` is API-safe but not KPI-ready: source `matrix-coffee-gemini-p1` promises a cafe/dessert Gemini Sheets/Docs workflow for promoting low-customer hours and finishing Google docs/tables, while public title/slides/caption render generic `บริบทก่อน คำสั่งทีหลัง` prompt-context advice with broad customer-chat/sales/back-office examples and no visible cafe/Gemini/Sheets/Docs workflow. Vision QA found hook/tip/action slides readable and source/meta leak-free. Next action: regenerate/reroute to a specific cafe Gemini Sheets/Docs promo-planning workflow before manual publishing.",
-  "latest_output": "manual-exact-2026-06-02T15:59Z_current-cron-delivery-pending",
-  "next_action": "Fix matrix/source-topic routing so cafe/Gemini posts preserve exact Sheets/Docs promo-planning workflow before any publish; keep draft review-only.",
-  "process_check": "2026-06-02T16:01:18Z",
-  "severity": "critical",
-  "source_id": "matrix-coffee-gemini-p1",
-  "status": "open_current_editorial_source_topic_qa_review_only_not_KPI_ready",
-  "title": "CURRENT factory draft review-only — coffee/Gemini source drifted to generic prompt-context guidance",
-  "updated_at": "2026-06-02T16:01:18Z",
-  "zernio_draft_id": "6a1efdca8411762810de7c44"
-},
   {
-    "airtable_record_id": "historical 09:47 prior Airtable",
+    "airtable_record_id": "recR9CONproNpHQrq",
+    "cron_next_run_at": "2026-06-03T16:16:30.597912+00:00",
+    "issue": "zernio_factory_source_topic_editorial_qa_current_2026_06_03_1523",
+    "last_verified_at": "2026-06-03T15:25:27Z",
+    "latest_evidence": "15:23 exact factory created TikTok draft-safe review-only draft 6a2046f080753c95d4b2f050 / Airtable recR9CONproNpHQrq from source matrix-sunscreen-chatgpt-p0; fresh state latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00; 7 lesson slides + reusable CTA = 8 media; Airtable draft_created; live Zernio status=draft, media_count=8, no publishNow, TikTok draft=true; rebuilt payload omitted publishNow/scheduledFor; live account access currently exposes TikTok only, so FB/IG are account-access/config caveats; source-topic QA remains open because sunscreen/SPF source rendered generic prompt-context guidance; cron enabled/future-scheduled next 2026-06-03T16:16:30.597912+00:00; no lingering process at 2026-06-03T15:25:27Z.",
+    "latest_output": "latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00",
+    "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260603T014526Z-matrix-autoinsurance-aut/manifest.json",
+    "media_count": 8,
+    "next_action": "Regenerate/reroute to a specific dealership/showroom Zapier/Make lead-followup workflow before manual publishing; keep draft review-only.",
+    "process_check": "2026-06-03T15:25:27Z",
+    "source_id": "prior-11-39-sauce-source",
+    "status": "enabled_future_scheduled_draft_safe_review_only_editorial_qa_open",
+    "title": "CURRENT factory draft review-only — dealership source drifted to generic AI Agent checklist",
+    "zernio_draft_id": "prior 11:39 draft"
+  },
+  {
+    "airtable_record_id": "recR9CONproNpHQrq",
+    "issue": "zernio_factory_fb_ig_account_access_config_current_2026_06_03_1523",
+    "latest_evidence": "15:23 exact factory created TikTok draft-safe review-only draft 6a2046f080753c95d4b2f050 / Airtable recR9CONproNpHQrq from source matrix-sunscreen-chatgpt-p0; fresh state latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00; 7 lesson slides + reusable CTA = 8 media; Airtable draft_created; live Zernio status=draft, media_count=8, no publishNow, TikTok draft=true; rebuilt payload omitted publishNow/scheduledFor; live account access currently exposes TikTok only, so FB/IG are account-access/config caveats; source-topic QA remains open because sunscreen/SPF source rendered generic prompt-context guidance; cron enabled/future-scheduled next 2026-06-03T16:16:30.597912+00:00; no lingering process at 2026-06-03T15:25:27Z.",
+    "latest_output": "latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00",
+    "next_action": "Fix matrix/source-topic routing so service-industry posts preserve exact industry workflow before any publish; keep draft review-only.",
+    "process_check": "2026-06-03T15:25:27Z",
+    "severity": "critical",
+    "source_id": "prior-11-39-sauce-source",
+    "status": "enabled_future_scheduled_draft_safe_review_only_editorial_qa_open",
+    "title": "CURRENT factory draft review-only — women’s apparel source drifted to generic prompt-context guidance",
+    "updated_at": "2026-06-02T21:05:30Z",
+    "zernio_draft_id": "prior 11:39 draft"
+  },
+  {
+    "airtable_record_id": "recR9CONproNpHQrq",
     "issue": "zernio_factory_source_topic_editorial_qa_prior_separate_2026_06_01_2140",
-    "last_verified_at": "2026-06-02T08:31:46Z",
-    "latest_evidence": "Prior 21:40 draft remains safe/review-only but is not current output; source-topic fit failed; do not publish until regenerated/rerouted or approved.",
-    "latest_output": "scheduled-factory-2026-06-02T11:00Z_draft-safe-review-only",
+    "last_verified_at": "2026-06-03T15:25:27Z",
+    "latest_evidence": "15:23 exact factory created TikTok draft-safe review-only draft 6a2046f080753c95d4b2f050 / Airtable recR9CONproNpHQrq from source matrix-sunscreen-chatgpt-p0; fresh state latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00; 7 lesson slides + reusable CTA = 8 media; Airtable draft_created; live Zernio status=draft, media_count=8, no publishNow, TikTok draft=true; rebuilt payload omitted publishNow/scheduledFor; live account access currently exposes TikTok only, so FB/IG are account-access/config caveats; source-topic QA remains open because sunscreen/SPF source rendered generic prompt-context guidance; cron enabled/future-scheduled next 2026-06-03T16:16:30.597912+00:00; no lingering process at 2026-06-03T15:25:27Z.",
+    "latest_output": "latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00",
     "severity": "critical",
-    "source_id": "11:00 factory created safe review-only draft 6a1eb7bb8edfdf524ab3cee3 / Airtable recqUw9diElgx1KZQ from source matrix-bodyskin-claude-p1; state latest_social_draft_factory.json@2026-06-02T11:00:13.229305+00:00; manifest /home/clawd/.hermes/ai_signal_radar/carousels/auto-20260602T105440Z-matrix-bodyskin-claude-p/manifest.json; 7 generated lesson slides + reusable CTA = 8 media; live Zernio status=draft, media_count=8, no publishNow, TikTok draft mode true, TikTok+Facebook present, Facebook first comment exact; outbound payload omitted publishNow/scheduledFor and included TikTok+FB+IG, but Instagram account access remains missing under active key; cron enabled/future-scheduled next 2026-06-02T11:53:49.713781+00:00; no lingering factory/radar process at 2026-06-02T11:03:10.523742+00:00; editorial/source-topic QA open because skincare/Claude SOP source rendered as generic prompt-context lesson.",
-    "status": "open_prior_review_only_not_KPI_ready_source_topic_mismatch",
+    "source_id": "prior-11-39-sauce-source",
+    "status": "enabled_future_scheduled_draft_safe_review_only_editorial_qa_open",
     "title": "PRIOR factory recovered draft review-only — source-topic mismatch HR scorecard vs ChatGPT Codex",
-    "zernio_draft_id": "11:00 factory created safe review-only draft 6a1eb7bb8edfdf524ab3cee3 / Airtable recqUw9diElgx1KZQ from source matrix-bodyskin-claude-p1; state latest_social_draft_factory.json@2026-06-02T11:00:13.229305+00:00; manifest /home/clawd/.hermes/ai_signal_radar/carousels/auto-20260602T105440Z-matrix-bodyskin-claude-p/manifest.json; 7 generated lesson slides + reusable CTA = 8 media; live Zernio status=draft, media_count=8, no publishNow, TikTok draft mode true, TikTok+Facebook present, Facebook first comment exact; outbound payload omitted publishNow/scheduledFor and included TikTok+FB+IG, but Instagram account access remains missing under active key; cron enabled/future-scheduled next 2026-06-02T11:53:49.713781+00:00; no lingering factory/radar process at 2026-06-02T11:03:10.523742+00:00; editorial/source-topic QA open because skincare/Claude SOP source rendered as generic prompt-context lesson."
+    "zernio_draft_id": "prior 11:39 draft"
   },
   {
-    "airtable_record_id": "historical 09:47 prior Airtable",
-    "cron_next_run_at": "2026-06-02T11:53:49.713781+00:00",
+    "airtable_record_id": "recR9CONproNpHQrq",
+    "cron_next_run_at": "2026-06-03T16:16:30.597912+00:00",
     "issue": "zernio_factory_zernio_post_forbidden_prior_separate_2026_06_01_1804",
-    "last_verified_at": "2026-06-02T08:31:46Z",
-    "latest_evidence": "historical 09:47 factory draft-safe output superseded by 11:00 draft historical 09:47 prior draft / Airtable historical 09:47 prior Airtable; scheduler current/future-scheduled; editorial/source-topic QA open because Thai-dessert source became generic prompt-context lesson.",
-    "latest_output": "scheduled-factory-2026-06-02T11:00Z_draft-safe-review-only",
+    "last_verified_at": "2026-06-03T15:25:27Z",
+    "latest_evidence": "15:23 exact factory created TikTok draft-safe review-only draft 6a2046f080753c95d4b2f050 / Airtable recR9CONproNpHQrq from source matrix-sunscreen-chatgpt-p0; fresh state latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00; 7 lesson slides + reusable CTA = 8 media; Airtable draft_created; live Zernio status=draft, media_count=8, no publishNow, TikTok draft=true; rebuilt payload omitted publishNow/scheduledFor; live account access currently exposes TikTok only, so FB/IG are account-access/config caveats; source-topic QA remains open because sunscreen/SPF source rendered generic prompt-context guidance; cron enabled/future-scheduled next 2026-06-03T16:16:30.597912+00:00; no lingering process at 2026-06-03T15:25:27Z.",
+    "latest_output": "latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00",
     "manifest_path": "historical 09:47 factory draft-safe output superseded by 11:00 draft historical 09:47 prior draft / Airtable historical 09:47 prior Airtable; scheduler current/future-scheduled; editorial/source-topic QA open because Thai-dessert source became generic prompt-context lesson.",
-    "media_count": 9,
+    "media_count": 8,
     "next_action": "Reconnect/provide Zernio Instagram account access or adjust account configuration with Sway approval; retry only this completed manifest after account access is fixed.",
-    "process_check": "2026-06-02T08:31:46Z",
+    "process_check": "2026-06-03T15:25:27Z",
     "severity": "critical",
-    "source_id": "11:00 factory created safe review-only draft 6a1eb7bb8edfdf524ab3cee3 / Airtable recqUw9diElgx1KZQ from source matrix-bodyskin-claude-p1; state latest_social_draft_factory.json@2026-06-02T11:00:13.229305+00:00; manifest /home/clawd/.hermes/ai_signal_radar/carousels/auto-20260602T105440Z-matrix-bodyskin-claude-p/manifest.json; 7 generated lesson slides + reusable CTA = 8 media; live Zernio status=draft, media_count=8, no publishNow, TikTok draft mode true, TikTok+Facebook present, Facebook first comment exact; outbound payload omitted publishNow/scheduledFor and included TikTok+FB+IG, but Instagram account access remains missing under active key; cron enabled/future-scheduled next 2026-06-02T11:53:49.713781+00:00; no lingering factory/radar process at 2026-06-02T11:03:10.523742+00:00; editorial/source-topic QA open because skincare/Claude SOP source rendered as generic prompt-context lesson.",
-    "status": "open_prior_zernio_post_403_instagram_account_missing",
+    "source_id": "prior-11-39-sauce-source",
+    "status": "enabled_future_scheduled_draft_safe_review_only_editorial_qa_open",
     "updated_at": "2026-06-02T08:31:46Z",
-    "zernio_draft_id": "11:00 factory created safe review-only draft 6a1eb7bb8edfdf524ab3cee3 / Airtable recqUw9diElgx1KZQ from source matrix-bodyskin-claude-p1; state latest_social_draft_factory.json@2026-06-02T11:00:13.229305+00:00; manifest /home/clawd/.hermes/ai_signal_radar/carousels/auto-20260602T105440Z-matrix-bodyskin-claude-p/manifest.json; 7 generated lesson slides + reusable CTA = 8 media; live Zernio status=draft, media_count=8, no publishNow, TikTok draft mode true, TikTok+Facebook present, Facebook first comment exact; outbound payload omitted publishNow/scheduledFor and included TikTok+FB+IG, but Instagram account access remains missing under active key; cron enabled/future-scheduled next 2026-06-02T11:53:49.713781+00:00; no lingering factory/radar process at 2026-06-02T11:03:10.523742+00:00; editorial/source-topic QA open because skincare/Claude SOP source rendered as generic prompt-context lesson."
+    "zernio_draft_id": "prior 11:39 draft"
   },
   {
     "airtable_record_id": "historical 09:47 prior Airtable",
-    "cron_next_run_at": "2026-06-02T11:53:49.713781+00:00",
+    "cron_next_run_at": "2026-06-03T05:07:21.447425+00:00",
     "issue": "zernio_factory_source_topic_editorial_qa_prior_separate_2026_06_01_1804",
-    "last_verified_at": "2026-06-02T08:31:46Z",
-    "latest_evidence": "historical 09:47 factory draft-safe output superseded by 11:00 draft historical 09:47 prior draft / Airtable historical 09:47 prior Airtable; scheduler current/future-scheduled; editorial/source-topic QA open because Thai-dessert source became generic prompt-context lesson.",
-    "latest_output": "scheduled-factory-2026-06-02T11:00Z_draft-safe-review-only",
+    "last_verified_at": "2026-06-02T21:05:30Z",
+    "latest_evidence": "04:12 exact factory created safe review-only draft `6a1fa9b8732b26bc09d3ba58` / Airtable `recubdKBp5NyLSfhj` from source `matrix-bedding-claude-p1`; fresh state `latest_social_draft_factory.json@2026-06-03T04:12:41.333753+00:00`; 7 generated lesson slides + reusable CTA = 8 media; live Zernio status=draft, publishNow absent, rebuilt outbound payload omitted scheduledFor and publishNow, TikTok draft=true, TikTok+Facebook present, Facebook first-comment hash exact; live Instagram remains omitted because active account access lacks Instagram. Editorial/source-topic QA open: bedding/Claude SOP source rendered generic prompt-context guidance with no visible bedding/mattress/Claude workflow. Cron enabled/future-scheduled next `2026-06-03T05:07:21.447425+00:00`; no lingering factory process at `2026-06-03T04:14:36Z`.",
+    "latest_output": "latest_social_draft_factory.json@2026-06-03T04:12:41.333753+00:00",
     "manifest_path": "historical 09:47 factory draft-safe output superseded by 11:00 draft historical 09:47 prior draft / Airtable historical 09:47 prior Airtable; scheduler current/future-scheduled; editorial/source-topic QA open because Thai-dessert source became generic prompt-context lesson.",
     "next_action": "Regenerate/repair source-topic routing and copy before any manual publishing; do not count this manifest as KPI-ready.",
-    "process_check": "2026-06-02T08:31:46Z",
+    "process_check": "2026-06-02T21:05:30Z",
     "severity": "critical",
     "source_id": "11:00 factory created safe review-only draft 6a1eb7bb8edfdf524ab3cee3 / Airtable recqUw9diElgx1KZQ from source matrix-bodyskin-claude-p1; state latest_social_draft_factory.json@2026-06-02T11:00:13.229305+00:00; manifest /home/clawd/.hermes/ai_signal_radar/carousels/auto-20260602T105440Z-matrix-bodyskin-claude-p/manifest.json; 7 generated lesson slides + reusable CTA = 8 media; live Zernio status=draft, media_count=8, no publishNow, TikTok draft mode true, TikTok+Facebook present, Facebook first comment exact; outbound payload omitted publishNow/scheduledFor and included TikTok+FB+IG, but Instagram account access remains missing under active key; cron enabled/future-scheduled next 2026-06-02T11:53:49.713781+00:00; no lingering factory/radar process at 2026-06-02T11:03:10.523742+00:00; editorial/source-topic QA open because skincare/Claude SOP source rendered as generic prompt-context lesson.",
-    "status": "open_prior_editorial_source_topic_qa_review_only_not_KPI_ready",
+    "status": "enabled_future_scheduled_draft_safe_review_only_editorial_qa_open",
     "updated_at": "2026-06-02T08:31:46Z"
   },
   {
     "airtable_record_id": "historical 09:47 prior Airtable",
     "issue": "zernio_factory_source_topic_editorial_qa_prior_separate_2026_05_26_1952",
-    "last_verified_at": "2026-06-02T08:31:46Z",
+    "last_verified_at": "2026-06-02T21:05:30Z",
     "latest_evidence": "SEPARATE prior 20:04 manifest/source-topic QA: prior no-code ChatGPT automation source rendered as repeated Claude Code landing-page title; review-only/not KPI-ready until regenerated or approved.",
     "latest_factory_manifest": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260526T194508Z-yt-3RPIb4ofN6M/manifest.json",
-    "latest_output": "scheduled-factory-2026-06-02T11:00Z_draft-safe-review-only",
+    "latest_output": "latest_social_draft_factory.json@2026-06-03T04:12:41.333753+00:00",
     "next_action": "Repair source-topic routing toward practical Thai software-tip posts and avoid retrying this manifest as KPI-ready without editorial approval.",
-    "process_check": "2026-06-02T08:31:46Z",
+    "process_check": "2026-06-02T21:05:30Z",
     "severity": "critical",
     "source_id": "11:00 factory created safe review-only draft 6a1eb7bb8edfdf524ab3cee3 / Airtable recqUw9diElgx1KZQ from source matrix-bodyskin-claude-p1; state latest_social_draft_factory.json@2026-06-02T11:00:13.229305+00:00; manifest /home/clawd/.hermes/ai_signal_radar/carousels/auto-20260602T105440Z-matrix-bodyskin-claude-p/manifest.json; 7 generated lesson slides + reusable CTA = 8 media; live Zernio status=draft, media_count=8, no publishNow, TikTok draft mode true, TikTok+Facebook present, Facebook first comment exact; outbound payload omitted publishNow/scheduledFor and included TikTok+FB+IG, but Instagram account access remains missing under active key; cron enabled/future-scheduled next 2026-06-02T11:53:49.713781+00:00; no lingering factory/radar process at 2026-06-02T11:03:10.523742+00:00; editorial/source-topic QA open because skincare/Claude SOP source rendered as generic prompt-context lesson.",
-    "status": "open_prior_editorial_source_topic_qa_review_only_not_KPI_ready",
+    "status": "enabled_future_scheduled_draft_safe_review_only_editorial_qa_open",
     "title": "Separate prior editorial/source-topic QA — prior 20:04 manifest review-only",
     "updated_at": "2026-06-02T08:31:46Z"
   },
@@ -502,30 +506,40 @@ Last updated: 2026-06-02T16:01:18Z
   {
     "issue": "zernio_factory_source_topic_editorial_qa_prior_separate_2026_05_24_0912",
     "latest_evidence": "SEPARATE prior editorial/source-topic QA blocker: n8n source became generic AI Agent checklist.",
-    "latest_output": "scheduled-factory-2026-06-02T11:00Z_draft-safe-review-only",
+    "latest_output": "latest_social_draft_factory.json@2026-06-03T04:12:41.333753+00:00",
     "next_action": "Fix account/source-topic routing before retrying any prior manifest.",
-    "process_check": "2026-06-02T08:31:46Z",
+    "process_check": "2026-06-02T21:05:30Z",
     "severity": "critical",
-    "status": "open_prior_editorial_source_topic_qa",
+    "status": "enabled_future_scheduled_draft_safe_review_only_editorial_qa_open",
     "updated_at": "2026-06-02T08:31:46Z"
   },
   {
     "issue": "zernio_factory_source_topic_editorial_qa_prior_separate_2026_05_25_1924",
     "latest_evidence": "SEPARATE prior editorial/source-topic QA blocker for the 19:24 unsent manifest; review-only/not KPI-ready until approved or regenerated.",
-    "latest_output": "scheduled-factory-2026-06-02T11:00Z_draft-safe-review-only",
+    "latest_output": "latest_social_draft_factory.json@2026-06-03T04:12:41.333753+00:00",
     "next_action": "Fix account/source-topic routing before retrying any prior manifest.",
-    "process_check": "2026-06-02T08:31:46Z",
+    "process_check": "2026-06-02T21:05:30Z",
     "severity": "critical",
-    "status": "open_prior_editorial_source_topic_qa_review_only_not_KPI_ready",
+    "status": "enabled_future_scheduled_draft_safe_review_only_editorial_qa_open",
     "updated_at": "2026-06-02T08:31:46Z"
+  },
+  {
+    "impact_on_kpi": "A failed self-improvement report can prevent 3-day lessons/rule updates from reaching Obsidian and slow iteration toward the 100k-view KPI.",
+    "issue": "zernio_self_improvement_empty_response_2026_06_01",
+    "last_verified_at": "2026-06-03T00:49:30Z",
+    "latest_evidence": "Job `b72e805336fe` / hermes-self-improvement last_status=error on 2026-06-01T10:00:53Z: Agent completed but produced empty response. Next scheduled 2026-06-04T10:00:00Z. This weakens durable learning loops but does not block analytics import or draft-only production.",
+    "next_action": "Watch the 2026-06-04 10:00 run; if it errors again, shorten prompt/output or run direct self-improvement summary and patch cron prompt.",
+    "severity": "medium",
+    "status": "open_next_self_improvement_readback_watch",
+    "title": "Self-improvement cron produced empty response"
   }
 ]
 
 ## Last 3 useful lessons
 [
-  "Growth Check 14:00: best/closest remains CTA-stripped ChatGPT productivity at 43,320 views / 519 shares / gap 56,680 with confirmed delta=0; 14:01 import found only below-threshold recent movement (`7646741883024084232` 350 views, +256 import-window inflated), so no amplification/generation; keep result-closure and factory editorial QA gates open.",
-  "Issue Check 12:30: CTA guard unsafe_count=0; import-refresh candidate exists for ChatGPT productivity at 43,320 views / 519 shares / gap 56,680 but normal baseline delta remains 0; factory latest 12:22 draft is safe review-only with source-topic QA open.",
-  "Experiment Creator 12:00: created 3 draft-only specs from flat 12:00 baseline: ChatGPT LINE OA triage, NotebookLM catalog sales coach, and Gemini Sheets TikTok winner/loser tracker; no generation/spend/public posting."
+  "Experiment Creator 12:00: created 3 draft-only specs grounded in ChatGPT productivity winner (43,320 views / 519 shares): ChatGPT admin SOP, NotebookLM live-sale catalog cheat sheet, and Zapier/Make quote approval safety net; no generation/spend/public posting.",
+  "Issue Check 06:32: CTA guard unsafe_count=0 across active memory/tasks/Obsidian/scripts/jobs; best remains CTA-stripped ChatGPT productivity at 43,320 views / 519 shares / gap 56,680. Preserved 10 operational issues: current factory source-topic/editorial QA, result-closure backfill, prior Zernio/account/editorial blockers, and self-improvement empty-response watch.",
+  "Issue Check 00:49: CTA guard unsafe_count=0; best post remains CTA-stripped ChatGPT productivity at 43,320 views / 519 shares / gap 56,680. Fixed active state from stale factory/FAL wording to current 00:35 draft-safe review-only source-topic QA, and opened self-improvement empty-response watch."
 ]
 
 ## Active experiments
@@ -2477,103 +2491,172 @@ Last updated: 2026-06-02T16:01:18Z
     "tool": "Gemini in Google Sheets / TikTok analytics export / Google Workspace",
     "topic": "Use Gemini in Sheets to log post metrics, classify winners/losers, spot hooks/topics worth remixing, and decide continue/remix/stop before producing more content.",
     "why_views_saves": "Expansion tool test tied directly to GenLabs KPI discipline. It teaches creators/SMEs how to learn from posts instead of guessing, and the winner/loser sheet is saveable even outside GenLabs."
+  },
+  {
+    "name": "ChatGPT SOP จากงานซ้ำของแอดมินร้าน — 7 tips",
+    "source_id": "kpi-exp-0603-1200-chatgpt-admin-repeat-work-sop",
+    "classification": "draft_only_recovery_backlog",
+    "created_at": "2026-06-03T12:00:00Z",
+    "hook": "งานซ้ำในร้านทำให้ทีมตอบไม่เหมือนกัน? 7 วิธีใช้ ChatGPT ทำ SOP 1 หน้าใน 15 นาที",
+    "tool": "ChatGPT / Projects / file + text analysis",
+    "audience": "Thai shop owners, LINE OA admins, clinic/spa/salon front desks, repair shops, tutors, and small service teams with repeated daily admin work.",
+    "tips": [
+      "เลือกงานซ้ำ 1 งานที่ทีมทำทุกวัน เช่น ตอบราคา รับคิว เคลมสินค้า ส่งใบเสนอราคา หรือส่งต่อเคสให้ช่าง/ผู้เชี่ยวชาญ",
+      "รวมตัวอย่างแชท/โน้ต/เอกสาร 5–10 เคส แล้วลบชื่อ เบอร์ ที่อยู่ เลขออเดอร์ และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
+      "ให้ AI แยกขั้นตอนจริงเป็น ก่อนเริ่มงาน → ข้อมูลที่ต้องถาม → วิธีตอบ/ทำงาน → จุดที่ต้องส่งต่อ → วิธีปิดเคส",
+      "ขอ SOP 1 หน้าแบบทีมใช้ได้ทันที: objective, input, steps, output, owner, deadline, และข้อห้ามรับปากเกินจริง",
+      "ให้ ChatGPT สร้าง quick-reply/template 3 แบบ: สั้นเร็ว, อธิบายครบ, และขอข้อมูลเพิ่มแบบสุภาพ",
+      "ทดสอบ SOP ด้วยเคสง่าย/ยาก/ข้อมูลไม่ครบ/ลูกค้าโกรธ/เคสเสี่ยง แล้วแก้จุดที่ AI ตอบกำกวม",
+      "ทุกสัปดาห์ให้ทีมวางเคสใหม่กลับเข้า ChatGPT เพื่อหา FAQ ที่ควรเพิ่มและขั้นตอนที่ควรตัดออก"
+    ],
+    "topic": "Turn repeated admin work into a one-page ChatGPT SOP, quick replies, escalation rules, and weekly improvement loop.",
+    "why_views_saves": "Best post remains CTA-stripped ChatGPT productivity/work-output at 43,320 views and 519 shares. This keeps the winning practical ChatGPT numbered-template pattern but attacks a universal Thai SME pain: repeated admin work and inconsistent team replies.",
+    "target_2h": "≥300 views and ≥3 shares/comments; watch for comments asking for SOP or quick-reply templates.",
+    "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves appear, target ≥5 saves.",
+    "decision_rule": "Continue/remix into clinic, repair, tutor, and ecommerce SOP variants if target hits; if weak but comments request templates, rehook around “ทีมตอบไม่เหมือนกัน”; stop after 2 low-share SOP variants."
+  },
+  {
+    "name": "NotebookLM Live-Sale Product Cheat Sheet — 7 tips",
+    "source_id": "kpi-exp-0603-1200-notebooklm-live-sale-product-cheatsheet",
+    "classification": "draft_only_recovery_backlog",
+    "created_at": "2026-06-03T12:00:00Z",
+    "hook": "ก่อนแอดมินไลฟ์ขายของ อย่าเดาสรรพคุณ: 7 วิธีใช้ NotebookLM ทำ cheat sheet จาก catalog จริง",
+    "tool": "NotebookLM / source-grounded Q&A / Audio Overview optional",
+    "audience": "Thai live sellers, TikTok Shop/LINE OA admins, beauty/health/food shops, product brands, and new sales staff learning product details.",
+    "tips": [
+      "อัปโหลด catalog, price list, ingredient/spec sheet, delivery/refund policy, FAQ, รีวิวจริง และคำที่ห้ามเคลมเป็น source",
+      "ถาม NotebookLM ให้สรุปสินค้าแต่ละตัว: เหมาะกับใคร จุดเด่น วิธีใช้ ข้อจำกัด ราคา และ citation จากไฟล์จริง",
+      "ทำ live cheat sheet: opening line, 3 selling points, คำถามที่เจอบ่อย, objection, และ next step สำหรับแอดมิน",
+      "แบ่งคำตอบเป็นเขียว/เหลือง/แดง: ตอบได้จาก source, ต้องถามเจ้าของ/ผู้เชี่ยวชาญ, และห้ามตอบเองเพราะเสี่ยงเคลมเกินจริง",
+      "ให้ AI ทำ comparison card ระหว่างสินค้า 2–3 ตัว: ต่างกันอย่างไร เหมาะกับใคร ไม่เหมาะกับใคร และข้อควรระวัง",
+      "สร้าง quiz/roleplay 7 เคสให้แอดมินซ้อมก่อน live เช่น ราคาแพงไหม ใช้ยังไง ส่งกี่วัน คืนได้ไหม หรือเหมาะกับใคร",
+      "หลังไลฟ์ อัปเดต source จากคำถามจริง แล้วให้ NotebookLM หา cheat sheet/FAQ ที่ต้องแก้ก่อนรอบถัดไป"
+    ],
+    "topic": "Use NotebookLM to make source-cited live-sale cheat sheets, answer cards, comparison tables, and roleplay practice from real product documents.",
+    "why_views_saves": "NotebookLM is a priority Thailand lane and this is distinct from generic FAQ/admin posts: it focuses on live-selling preparation and product-claim safety, a high-save workflow for sellers and admins.",
+    "target_2h": "≥250 views and ≥3 shares/comments; watch for sellers asking for live cheat-sheet or catalog answer-card templates.",
+    "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves appear, target ≥5 saves.",
+    "decision_rule": "Continue/remix into beauty, food, supplement, TikTok Shop, and LINE OA product variants if target hits; if weak, rehook around “ตอบผิดกลางไลฟ์เสียความเชื่อใจ”; stop after 2 weak catalog/live variants."
+  },
+  {
+    "name": "Zapier/Make Quote Approval Safety Net — 7 tips",
+    "source_id": "kpi-exp-0603-1200-zapier-make-quote-approval-safety-net",
+    "classification": "draft_only_recovery_backlog",
+    "created_at": "2026-06-03T12:00:00Z",
+    "hook": "ใบเสนอราคาหลุดเพราะลืมให้คนอนุมัติ? 7 จุดตั้ง Zapier/Make ให้ quote ไม่พลาดก่อนส่งลูกค้า",
+    "tool": "Zapier / Make / Google Sheets / LINE or email",
+    "audience": "Thai service SMEs, clinics/spas, repair shops, agencies, freelancers, event vendors, and sales/admin teams that prepare quotes or package offers.",
+    "tips": [
+      "กำหนด trigger ให้ชัด: form ใหม่, Sheet row = quote_requested, CRM deal stage, หรือ LINE OA tag “รอใบเสนอราคา”",
+      "เก็บข้อมูลที่ต้องมีใน Sheet/Form: ลูกค้า บริการ งบ deadline package add-on เงื่อนไข และคนรับผิดชอบ",
+      "ใส่ filter กันพลาด: ถ้าข้อมูลไม่ครบ ราคาเกินช่วง มัดจำ/ส่วนลดพิเศษ หรือเคสเสี่ยง ให้หยุดและส่งให้คนตรวจ",
+      "ให้ AI/template ร่าง quote summary แต่ยังไม่ส่งลูกค้าอัตโนมัติ: ปัญหา → ทางแก้ → สิ่งที่รวม/ไม่รวม → ราคา → next step",
+      "ตั้ง approval step: ส่งข้อความให้เจ้าของ/เซลส์ตรวจใน LINE/Slack/email พร้อมปุ่มหรือสถานะ approve/revise/reject",
+      "หลังอนุมัติ ค่อยสร้างข้อความส่งลูกค้า + follow-up 24 ชม./3 วัน พร้อม stop-list ไม่ทักถี่หรือผิด consent",
+      "ทำ weekly report: quote ส่งกี่ใบ อนุมัติกี่ใบ ปิดได้กี่งาน ติดตรงไหน และ template ไหนต้องแก้"
+    ],
+    "topic": "Use Zapier/Make to route quote requests through data checks, human approval, customer send-off, follow-up reminders, and weekly conversion learning.",
+    "why_views_saves": "Expansion software test with clear SME money workflow. It avoids another generic AI-agent post by teaching concrete trigger-filter-approval-action steps; viewers can save it before automating quotes.",
+    "target_2h": "≥220 views and ≥2 shares/comments; watch for viewers asking for a Zap/Make quote approval template.",
+    "target_24h": "≥2,000 views or share_rate ≥0.8%; if comments/saves are strong but views are below average, keep as expansion learning.",
+    "decision_rule": "Continue/remix into clinic package quote, repair estimate, event vendor quote, and agency proposal approvals if target hits; if too technical, rehook as “เช็กลิสต์ก่อนจ้างทำ automation”; stop after 2 low-share Zapier/Make variants."
   }
 ]
 
 ## Latest experiment creator
 {
-  "checked_at": "2026-06-02T12:00:06Z",
+  "status": "experiment_creator_2026_06_03_1200_draft_only_recovery_backlog",
   "classification": "draft_only_recovery_backlog",
-  "created_at": "2026-06-02T12:00:00Z",
-  "data_signal": "Best/closest post remains CTA-stripped ChatGPT productivity at 42,765 views / 514 shares / gap 57,235; latest 12:00 normal baseline has 0 breakout candidates and no movement, so create fresh practical ChatGPT + NotebookLM experiments plus one Gemini Sheets expansion while production/editorial/Zernio gates remain draft-only.",
-  "experiments": [
-    {
-      "audience": "Thai shop owners, LINE OA admins, clinics/spas/salons, repair shops, tutors, and service SMEs with crowded customer inboxes.",
-      "classification": "draft_only_recovery_backlog",
-      "created_at": "2026-06-02T12:00:00Z",
-      "decision_rule": "Continue/remix into clinic, repair, tutor, and ecommerce inbox variants if target hits; if weak but comments ask for templates, rehook around “ตอบช้า = เสียลูกค้า”; stop after 2 low-share variants.",
-      "hook": "แชทลูกค้าเต็ม LINE OA จนทีมตอบไม่ทัน? 7 วิธีใช้ ChatGPT แยกเคสด่วน/ขาย/ต้องส่งต่อใน 10 นาที",
-      "name": "ChatGPT LINE OA Inbox Triage Board — 7 tips",
-      "source_id": "kpi-exp-0602-1200-chatgpt-lineoa-inbox-triage-board",
-      "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
-      "target_2h": "≥300 views and ≥3 shares/comments; watch for comments asking for LINE OA quick-reply/triage template.",
-      "tips": [
-        "รวมแชทลูกค้า 20–50 ข้อความ แล้วลบชื่อ เบอร์ ที่อยู่ เลขออเดอร์ และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
-        "ให้ AI แยกกลุ่มเคส: ถามราคา, พร้อมซื้อ, รอหลักฐาน, เคลม/บ่น, เคสด่วน, ต้องส่งต่อเจ้าของ/ผู้เชี่ยวชาญ",
-        "ขอ priority board วันนี้: ตอบก่อนเพราะมีโอกาสขาย, ตอบก่อนเพราะเสี่ยงเสียลูกค้า, และเคสที่รอข้อมูลเพิ่ม",
-        "ให้ ChatGPT ร่างคำตอบ 3 โทน: สั้นเร็ว, อธิบายครบ, และขอโทษ/แก้เคส โดยห้ามรับปากเกินจริง",
-        "สร้าง escalation rule: คำถามสุขภาพ/ราคาเฉพาะเคส/คืนเงิน/ประกัน/เคลมแรง ต้องให้คนอนุมัติก่อนส่ง",
-        "ทำ Tasks/manual reminder สำหรับเคสที่ต้อง follow-up 24 ชม., 3 วัน, หรือรอเอกสาร โดยไม่ทักถี่จนเหมือนสแปม",
-        "ท้ายวันให้ AI สรุป 3 คำถามที่เจอบ่อยที่สุด แล้วแปลงเป็น FAQ, quick reply, หรือโพสต์สั้นสำหรับวันถัดไป"
-      ],
-      "tool": "ChatGPT / Projects / Tasks optional",
-      "topic": "Use ChatGPT to turn messy LINE OA/inbox messages into a triage board, reply priorities, escalation rules, safe response drafts, and next-action reminders.",
-      "why_views_saves": "Grounded in the 42,765-view / 514-share ChatGPT productivity winner: Thai viewers save practical work-output templates. LINE OA triage is an urgent SME pain and gives admins a copyable board/reply system."
-    },
-    {
-      "audience": "Thai online sellers, retail shops, beauty/health shops, cafes with product lines, sales admins, and new staff learning catalog details.",
-      "classification": "draft_only_recovery_backlog",
-      "created_at": "2026-06-02T12:00:00Z",
-      "decision_rule": "Continue/remix into beauty, food, pharmacy/health, and TikTok Shop catalog versions if target hits; if weak, rehook around “แอดมินตอบผิดเพราะไม่รู้สินค้า”; stop after 2 weak catalog-coach variants.",
-      "hook": "แอดมินขายสินค้าใหม่ไม่ทัน? 7 วิธีใช้ NotebookLM เทรนทีมจาก catalog+รีวิวจริง",
-      "name": "NotebookLM Product Catalog Sales Coach — 7 tips",
-      "source_id": "kpi-exp-0602-1200-notebooklm-product-catalog-sales-coach",
-      "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
-      "target_2h": "≥250 views and ≥3 shares/comments; watch for sellers/admins asking for catalog answer-card or roleplay templates.",
-      "tips": [
-        "อัปโหลด catalog, price list, ingredient/spec sheet, FAQ, refund/delivery policy, รีวิวจริง และข้อห้ามเคลมเป็น source",
-        "ถาม NotebookLM ให้สรุปสินค้าหลักแต่ละตัว: เหมาะกับใคร จุดเด่น ข้อจำกัด ราคา และ citation จากไฟล์จริง",
-        "ทำ answer card สำหรับ LINE/inbox: คำถามลูกค้า, คำตอบสั้น, หลักฐานจาก source, และข้อมูลที่ต้องถามเพิ่มก่อนแนะนำ",
-        "ให้ AI แยก objection ที่เจอบ่อย เช่น แพงไป ใช้ยังไง ต่างจากตัวอื่นยังไง ส่งกี่วัน คืนได้ไหม พร้อมคำตอบที่ไม่รับปากเกินจริง",
-        "สร้าง comparison table ระหว่าง 2–3 สินค้า: เหมาะกับใคร ไม่เหมาะกับใคร ข้อควรระวัง และ next step ที่ลูกค้าควรทำ",
-        "ทำ quiz/roleplay 7 เคสให้แอดมินซ้อมก่อนขายจริง โดยต้องตอบจาก source ไม่เดาเอง",
-        "ตั้งรอบอัปเดต source ทุกครั้งที่ราคา โปร สต็อก หรือ policy เปลี่ยน แล้วให้ NotebookLM หา answer card ที่ต้องแก้"
-      ],
-      "tool": "NotebookLM / source-grounded Q&A / Audio Overview optional",
-      "topic": "Use NotebookLM to turn product catalogs, price lists, FAQ, reviews, and policy docs into source-cited sales answer cards, objection practice, and quiz training for admins.",
-      "why_views_saves": "NotebookLM is a priority Thailand lane and controlled-source answer cards are team-shareable. This avoids generic FAQ repetition by focusing on product-catalog sales coaching and new-admin onboarding."
-    },
-    {
-      "audience": "Thai creators, TikTok shop sellers, SME owners, content admins, and freelancers who post often but do not know what to repeat or stop.",
-      "classification": "draft_only_recovery_backlog",
-      "created_at": "2026-06-02T12:00:00Z",
-      "decision_rule": "Continue/remix into shop-content, clinic-content, and freelancer-content analytics sheets if target hits; stop Gemini analytics variants after 2 misses below channel average or if slides become generic prompt/context advice.",
-      "hook": "โพสต์ TikTok หลายคลิปแต่ไม่รู้ต้องทำซ้ำอันไหน? 7 วิธีใช้ Gemini in Sheets หา winner/loser ก่อนทำคลิปต่อไป",
-      "name": "Gemini in Sheets TikTok Winner/Loser Tracker — 7 tips",
-      "source_id": "kpi-exp-0602-1200-gemini-sheets-tiktok-winner-loser-tracker",
-      "target_24h": "≥2,000 views or share_rate ≥0.8%; if below average but comments/saves are strong, keep as expansion learning.",
-      "target_2h": "≥220 views and ≥2 shares/comments; watch for comments asking for the Sheet template or “ช่วยดูโพสต์ให้หน่อย”.",
-      "tips": [
-        "ทำชีตพื้นฐาน: วันที่ hook หัวข้อ format views likes comments shares saves watch note และสิ่งที่อยากทดสอบ",
-        "ให้ Gemini แยกโพสต์เป็น winner, watch, loser จากเกณฑ์ง่าย ๆ เช่น views เทียบค่าเฉลี่ย share rate และคอมเมนต์จริง",
-        "ถามว่า “โพสต์ไหนควร remix ก่อน เพราะอะไร” โดยดูทั้ง views, shares, comments, audience pain, และความง่ายในการทำซ้ำ",
-        "ให้ AI หา hook pattern ที่ซ้ำในโพสต์ดี เช่น problem-first, checklist, mistake-fix, before/after, หรือ tool-specific tips",
-        "สร้าง stop list: format/topic/hook ที่พลาด 3 ครั้งติด หรือ engagement ต่ำกว่าค่าเฉลี่ยมาก อย่าผลิตซ้ำเพราะเสียดายไอเดีย",
-        "ให้ Gemini ทำ next 3 experiments: 1 remix winner, 1 stronger hook for watch-only post, 1 new tool/topic test พร้อม metric เป้าหมาย",
-        "ทุกสัปดาห์ทำ summary 1 หน้า: สิ่งที่ควรทำต่อ สิ่งที่ควรหยุด และคำถามที่ต้องเก็บข้อมูลเพิ่มก่อนสรุป"
-      ],
-      "tool": "Gemini in Google Sheets / TikTok analytics export / Google Workspace",
-      "topic": "Use Gemini in Sheets to log post metrics, classify winners/losers, spot hooks/topics worth remixing, and decide continue/remix/stop before producing more content.",
-      "why_views_saves": "Expansion tool test tied directly to GenLabs KPI discipline. It teaches creators/SMEs how to learn from posts instead of guessing, and the winner/loser sheet is saveable even outside GenLabs."
-    }
-  ],
-  "gate": "Draft-only backlog only. No image generation, public posting, spend, or Zernio send from this experiment-creator run.",
+  "created_at": "2026-06-03T12:00:00Z",
+  "checked_at": "2026-06-03T12:03:29Z",
+  "data_signal": "Best/closest post remains CTA-stripped ChatGPT productivity at 43,320 views / 519 shares / gap 56,680; no formal breakout in 12:00 baseline, strongest recent mover 7646741883024084232 is watch-only at 563 views / +12. Prioritize practical ChatGPT and NotebookLM numbered tips for Thailand, plus one distinct software expansion.",
+  "gate": "Draft-only backlog only. No image generation, public posting, spend, or Zernio send from this experiment-creator run; result-closure/source-topic/editorial/Zernio access gates remain open.",
   "quality_gate": {
-    "cta_counted_as_tip": false,
     "experiment_count": 3,
     "promise_counts": [
       7,
       7,
       7
     ],
+    "cta_counted_as_tip": false,
     "source_meta_public_copy": 0
   },
   "source_ids": [
-    "kpi-exp-0602-1200-chatgpt-lineoa-inbox-triage-board",
-    "kpi-exp-0602-1200-notebooklm-product-catalog-sales-coach",
-    "kpi-exp-0602-1200-gemini-sheets-tiktok-winner-loser-tracker"
+    "kpi-exp-0603-1200-chatgpt-admin-repeat-work-sop",
+    "kpi-exp-0603-1200-notebooklm-live-sale-product-cheatsheet",
+    "kpi-exp-0603-1200-zapier-make-quote-approval-safety-net"
   ],
-  "status": "experiment_creator_2026_06_02_1200_draft_only_recovery_backlog"
+  "experiments": [
+    {
+      "name": "ChatGPT SOP จากงานซ้ำของแอดมินร้าน — 7 tips",
+      "source_id": "kpi-exp-0603-1200-chatgpt-admin-repeat-work-sop",
+      "classification": "draft_only_recovery_backlog",
+      "created_at": "2026-06-03T12:00:00Z",
+      "hook": "งานซ้ำในร้านทำให้ทีมตอบไม่เหมือนกัน? 7 วิธีใช้ ChatGPT ทำ SOP 1 หน้าใน 15 นาที",
+      "tool": "ChatGPT / Projects / file + text analysis",
+      "audience": "Thai shop owners, LINE OA admins, clinic/spa/salon front desks, repair shops, tutors, and small service teams with repeated daily admin work.",
+      "tips": [
+        "เลือกงานซ้ำ 1 งานที่ทีมทำทุกวัน เช่น ตอบราคา รับคิว เคลมสินค้า ส่งใบเสนอราคา หรือส่งต่อเคสให้ช่าง/ผู้เชี่ยวชาญ",
+        "รวมตัวอย่างแชท/โน้ต/เอกสาร 5–10 เคส แล้วลบชื่อ เบอร์ ที่อยู่ เลขออเดอร์ และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
+        "ให้ AI แยกขั้นตอนจริงเป็น ก่อนเริ่มงาน → ข้อมูลที่ต้องถาม → วิธีตอบ/ทำงาน → จุดที่ต้องส่งต่อ → วิธีปิดเคส",
+        "ขอ SOP 1 หน้าแบบทีมใช้ได้ทันที: objective, input, steps, output, owner, deadline, และข้อห้ามรับปากเกินจริง",
+        "ให้ ChatGPT สร้าง quick-reply/template 3 แบบ: สั้นเร็ว, อธิบายครบ, และขอข้อมูลเพิ่มแบบสุภาพ",
+        "ทดสอบ SOP ด้วยเคสง่าย/ยาก/ข้อมูลไม่ครบ/ลูกค้าโกรธ/เคสเสี่ยง แล้วแก้จุดที่ AI ตอบกำกวม",
+        "ทุกสัปดาห์ให้ทีมวางเคสใหม่กลับเข้า ChatGPT เพื่อหา FAQ ที่ควรเพิ่มและขั้นตอนที่ควรตัดออก"
+      ],
+      "topic": "Turn repeated admin work into a one-page ChatGPT SOP, quick replies, escalation rules, and weekly improvement loop.",
+      "why_views_saves": "Best post remains CTA-stripped ChatGPT productivity/work-output at 43,320 views and 519 shares. This keeps the winning practical ChatGPT numbered-template pattern but attacks a universal Thai SME pain: repeated admin work and inconsistent team replies.",
+      "target_2h": "≥300 views and ≥3 shares/comments; watch for comments asking for SOP or quick-reply templates.",
+      "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves appear, target ≥5 saves.",
+      "decision_rule": "Continue/remix into clinic, repair, tutor, and ecommerce SOP variants if target hits; if weak but comments request templates, rehook around “ทีมตอบไม่เหมือนกัน”; stop after 2 low-share SOP variants."
+    },
+    {
+      "name": "NotebookLM Live-Sale Product Cheat Sheet — 7 tips",
+      "source_id": "kpi-exp-0603-1200-notebooklm-live-sale-product-cheatsheet",
+      "classification": "draft_only_recovery_backlog",
+      "created_at": "2026-06-03T12:00:00Z",
+      "hook": "ก่อนแอดมินไลฟ์ขายของ อย่าเดาสรรพคุณ: 7 วิธีใช้ NotebookLM ทำ cheat sheet จาก catalog จริง",
+      "tool": "NotebookLM / source-grounded Q&A / Audio Overview optional",
+      "audience": "Thai live sellers, TikTok Shop/LINE OA admins, beauty/health/food shops, product brands, and new sales staff learning product details.",
+      "tips": [
+        "อัปโหลด catalog, price list, ingredient/spec sheet, delivery/refund policy, FAQ, รีวิวจริง และคำที่ห้ามเคลมเป็น source",
+        "ถาม NotebookLM ให้สรุปสินค้าแต่ละตัว: เหมาะกับใคร จุดเด่น วิธีใช้ ข้อจำกัด ราคา และ citation จากไฟล์จริง",
+        "ทำ live cheat sheet: opening line, 3 selling points, คำถามที่เจอบ่อย, objection, และ next step สำหรับแอดมิน",
+        "แบ่งคำตอบเป็นเขียว/เหลือง/แดง: ตอบได้จาก source, ต้องถามเจ้าของ/ผู้เชี่ยวชาญ, และห้ามตอบเองเพราะเสี่ยงเคลมเกินจริง",
+        "ให้ AI ทำ comparison card ระหว่างสินค้า 2–3 ตัว: ต่างกันอย่างไร เหมาะกับใคร ไม่เหมาะกับใคร และข้อควรระวัง",
+        "สร้าง quiz/roleplay 7 เคสให้แอดมินซ้อมก่อน live เช่น ราคาแพงไหม ใช้ยังไง ส่งกี่วัน คืนได้ไหม หรือเหมาะกับใคร",
+        "หลังไลฟ์ อัปเดต source จากคำถามจริง แล้วให้ NotebookLM หา cheat sheet/FAQ ที่ต้องแก้ก่อนรอบถัดไป"
+      ],
+      "topic": "Use NotebookLM to make source-cited live-sale cheat sheets, answer cards, comparison tables, and roleplay practice from real product documents.",
+      "why_views_saves": "NotebookLM is a priority Thailand lane and this is distinct from generic FAQ/admin posts: it focuses on live-selling preparation and product-claim safety, a high-save workflow for sellers and admins.",
+      "target_2h": "≥250 views and ≥3 shares/comments; watch for sellers asking for live cheat-sheet or catalog answer-card templates.",
+      "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves appear, target ≥5 saves.",
+      "decision_rule": "Continue/remix into beauty, food, supplement, TikTok Shop, and LINE OA product variants if target hits; if weak, rehook around “ตอบผิดกลางไลฟ์เสียความเชื่อใจ”; stop after 2 weak catalog/live variants."
+    },
+    {
+      "name": "Zapier/Make Quote Approval Safety Net — 7 tips",
+      "source_id": "kpi-exp-0603-1200-zapier-make-quote-approval-safety-net",
+      "classification": "draft_only_recovery_backlog",
+      "created_at": "2026-06-03T12:00:00Z",
+      "hook": "ใบเสนอราคาหลุดเพราะลืมให้คนอนุมัติ? 7 จุดตั้ง Zapier/Make ให้ quote ไม่พลาดก่อนส่งลูกค้า",
+      "tool": "Zapier / Make / Google Sheets / LINE or email",
+      "audience": "Thai service SMEs, clinics/spas, repair shops, agencies, freelancers, event vendors, and sales/admin teams that prepare quotes or package offers.",
+      "tips": [
+        "กำหนด trigger ให้ชัด: form ใหม่, Sheet row = quote_requested, CRM deal stage, หรือ LINE OA tag “รอใบเสนอราคา”",
+        "เก็บข้อมูลที่ต้องมีใน Sheet/Form: ลูกค้า บริการ งบ deadline package add-on เงื่อนไข และคนรับผิดชอบ",
+        "ใส่ filter กันพลาด: ถ้าข้อมูลไม่ครบ ราคาเกินช่วง มัดจำ/ส่วนลดพิเศษ หรือเคสเสี่ยง ให้หยุดและส่งให้คนตรวจ",
+        "ให้ AI/template ร่าง quote summary แต่ยังไม่ส่งลูกค้าอัตโนมัติ: ปัญหา → ทางแก้ → สิ่งที่รวม/ไม่รวม → ราคา → next step",
+        "ตั้ง approval step: ส่งข้อความให้เจ้าของ/เซลส์ตรวจใน LINE/Slack/email พร้อมปุ่มหรือสถานะ approve/revise/reject",
+        "หลังอนุมัติ ค่อยสร้างข้อความส่งลูกค้า + follow-up 24 ชม./3 วัน พร้อม stop-list ไม่ทักถี่หรือผิด consent",
+        "ทำ weekly report: quote ส่งกี่ใบ อนุมัติกี่ใบ ปิดได้กี่งาน ติดตรงไหน และ template ไหนต้องแก้"
+      ],
+      "topic": "Use Zapier/Make to route quote requests through data checks, human approval, customer send-off, follow-up reminders, and weekly conversion learning.",
+      "why_views_saves": "Expansion software test with clear SME money workflow. It avoids another generic AI-agent post by teaching concrete trigger-filter-approval-action steps; viewers can save it before automating quotes.",
+      "target_2h": "≥220 views and ≥2 shares/comments; watch for viewers asking for a Zap/Make quote approval template.",
+      "target_24h": "≥2,000 views or share_rate ≥0.8%; if comments/saves are strong but views are below average, keep as expansion learning.",
+      "decision_rule": "Continue/remix into clinic package quote, repair estimate, event vendor quote, and agency proposal approvals if target hits; if too technical, rehook as “เช็กลิสต์ก่อนจ้างทำ automation”; stop after 2 low-share Zapier/Make variants."
+    }
+  ]
 }
 
 ## Rule changes

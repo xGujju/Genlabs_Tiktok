@@ -1,9 +1,9 @@
 # GenLabs Asset + Learning Index
 
-Updated: 2026-06-02 16:56:21 UTC
+Updated: 2026-06-03 16:56:49 UTC
 
-- Carousel image assets copied: 2103
-- Carousel manifests copied: 305
+- Carousel image assets copied: 2236
+- Carousel manifests copied: 324
 - Learning/operations notes copied: 21
 
 ## Carousel folders
@@ -221,6 +221,25 @@ Updated: 2026-06-02 16:56:21 UTC
 - `auto-20260602T132318Z-matrix-footwear-claude-p` — 7 image(s)
 - `auto-20260602T143407Z-matrix-eyewear-automatio` — 7 image(s)
 - `auto-20260602T155058Z-matrix-coffee-gemini-p1` — 7 image(s)
+- `auto-20260602T171323Z-matrix-japanese-chatgpt-` — 7 image(s)
+- `auto-20260602T182530Z-matrix-injectables-chatg` — 7 image(s)
+- `auto-20260602T194135Z-matrix-ivdrip-claude-p0` — 7 image(s)
+- `auto-20260602T205918Z-matrix-functionalwellnes` — 7 image(s)
+- `auto-20260602T221524Z-matrix-hairgrowth-automa` — 7 image(s)
+- `auto-20260603T003043Z-matrix-dealership-automa` — 7 image(s)
+- `auto-20260603T014526Z-matrix-autoinsurance-aut` — 7 image(s)
+- `auto-20260603T025844Z-matrix-rental-automation` — 7 image(s)
+- `auto-20260603T040739Z-matrix-bedding-claude-p1` — 7 image(s)
+- `auto-20260603T052639Z-matrix-b2bcomponents-cha` — 7 image(s)
+- `auto-20260603T063622Z-matrix-dental-claude-p0` — 7 image(s)
+- `auto-20260603T075007Z-matrix-medicaldevice-gem` — 7 image(s)
+- `auto-20260603T090746Z-matrix-hairproduct-autom` — 7 image(s)
+- `auto-20260603T102158Z-matrix-oralcare-chatgpt-` — 7 image(s)
+- `auto-20260603T113408Z-matrix-sauce-chatgpt-p1` — 7 image(s)
+- `auto-20260603T125144Z-matrix-staple-claude-p1` — 7 image(s)
+- `auto-20260603T140455Z-matrix-bodyskin-automati` — 7 image(s)
+- `auto-20260603T151737Z-matrix-sunscreen-chatgpt` — 7 image(s)
+- `auto-20260603T163425Z-matrix-mensapparel-claud` — 7 image(s)
 - `evergreen-recovery-live-20260429T105258Z-evergreen-chatgpt-projects-sales-followup` — 5 image(s)
 - `first-public-cdn-live` — 5 image(s)
 - `first-public-cdn-live-v2` — 5 image(s)

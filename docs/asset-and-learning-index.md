@@ -1,9 +1,9 @@
 # GenLabs Asset + Learning Index
 
-Updated: 2026-06-03 16:56:49 UTC
+Updated: 2026-06-04 17:05:28 UTC
 
-- Carousel image assets copied: 2236
-- Carousel manifests copied: 324
+- Carousel image assets copied: 2377
+- Carousel manifests copied: 344
 - Learning/operations notes copied: 21
 
 ## Carousel folders
@@ -240,6 +240,27 @@ Updated: 2026-06-03 16:56:49 UTC
 - `auto-20260603T140455Z-matrix-bodyskin-automati` — 7 image(s)
 - `auto-20260603T151737Z-matrix-sunscreen-chatgpt` — 7 image(s)
 - `auto-20260603T163425Z-matrix-mensapparel-claud` — 7 image(s)
+- `auto-20260603T174625Z-matrix-footwear-automati` — 7 image(s)
+- `auto-20260603T190105Z-matrix-coffee-claude-p1` — 7 image(s)
+- `auto-20260603T201213Z-matrix-bbq-gemini-p1` — 7 image(s)
+- `auto-20260603T212632Z-matrix-energydevice-gemi` — 7 image(s)
+- `auto-20260603T224434Z-matrix-beautysupp-claude` — 7 image(s)
+- `auto-20260603T235614Z-matrix-protein-chatgpt-p` — 7 image(s)
+- `auto-20260604T010625Z-matrix-autoparts-automat` — 7 image(s)
+- `auto-20260604T021854Z-matrix-motorcycle-chatgp` — 7 image(s)
+- `auto-20260604T033035Z-matrix-autoinsurance-cha` — 7 image(s)
+- `auto-20260604T044150Z-matrix-residential-claud` — 7 image(s)
+- `auto-20260604T055632Z-matrix-landinvest-chatgp` — 7 image(s)
+- `auto-20260604T070715Z-matrix-kitchenware-chatg` — 7 image(s)
+- `auto-20260604T082151Z-matrix-powertool-claude-` — 7 image(s)
+- `auto-20260604T093255Z-matrix-bedding-automatio` — 7 image(s)
+- `auto-20260604T104606Z-matrix-itretail-gemini-p` — 7 image(s)
+- `auto-20260604T115623Z-matrix-consumerdevice-ch` — 7 image(s)
+- `auto-20260604T130933Z-matrix-dental-chatgpt-p1` — 7 image(s)
+- `auto-20260604T142224Z-matrix-medicaldevice-cla` — 7 image(s)
+- `auto-20260604T153914Z-matrix-fertility-claude-` — 7 image(s)
+- `auto-20260604T165208Z-matrix-thaidessert-claud` — 7 image(s)
+- `auto-20260604T170109Z-matrix-staple-automation` — 1 image(s)
 - `evergreen-recovery-live-20260429T105258Z-evergreen-chatgpt-projects-sales-followup` — 5 image(s)
 - `first-public-cdn-live` — 5 image(s)
 - `first-public-cdn-live-v2` — 5 image(s)

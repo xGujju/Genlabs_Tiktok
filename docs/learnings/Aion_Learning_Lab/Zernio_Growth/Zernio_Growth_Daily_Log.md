@@ -1,35 +1,59 @@
-## Current Zernio Growth Summary — 2026-06-03
+<!-- ZG-SCHEDULER-BOUNDARY-READBACK-WATCH-2026-06-04-0000 -->
+- Scheduler boundary watch narrowed: experiment delivered `2026-06-04_00-23-13.md` and factory is current via the 12:01 draft-safe review-only readback; current growth-check output delivered later; factory readback has since advanced to 12:01. Only import/breakout 00:00 readbacks remain on next-tick watch before 00:30; no matching process at `2026-06-04T00:25:00Z`. No generation/spend/public posting.
+
+## Current Zernio Growth Summary — 2026-06-04
 
 ### KPI status
 - Goal: one TikTok post reaches **100,000 views**.
 - Best post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
-- Current views: 43,320
-- Gap to 100,000: 56,680
-- Shares: 519
-- Snapshot/verification time: latest snapshot `2026-06-03T12:30:56.442962+00:00`; latest confirmed baseline `2026-06-03T12:30:56.442962+00:00`; writer run `2026-06-03T12:34:04+00:00`.
+- Current views: 44,277
+- Gap to 100,000: 55,723
+- Shares: 531
+- Snapshot/verification time: confirmed normal baseline `2026-06-04T14:00:21.509719+00:00`; process/readback check `2026-06-04T14:03:00Z`.
 
 ### Current signal
-- Breakout state: **no formal breakout current baseline zero delta**.
-- Current best/closest watch: `7634027210248097042` (ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items) at 43,320 views / 519 shares / +0 views / gap 56,680.
-- Strongest mover watch: None.
-- Previous positive momentum: `7646741883024084232` (👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายคนถาม AI …) had +256 views / 526.25/hr at `2026-06-02T14:30:04.363674+00:00`; keep as watch-only context, not current velocity.
-- Candidate count: 0 formal candidates; 0 refresh-window candidates.
-- Protected CTA: Post `7634027210248097042` is ChatGPT productivity/workflow evidence; protected product-photo/no-prompt CTA is promo copy only, not hook/topic/weak-pattern evidence.
+- Breakout state: **confirmed formal breakout current baseline**.
+- Primary candidate: `7634027210248097042` at 44,277 views / 531 shares / +402 views / ~811.6 per hour / gap 55,723.
+- Formal candidate count: 4; secondary movers: `7634893611389259016` +109, `7634785623219440914` +76, `7639765434664750354` +72.
+- Protected CTA: `7634027210248097042` is ChatGPT productivity/workflow evidence; protected product-photo/no-prompt CTA is promo copy only.
 
 ### Weak spots / blockers
-- zernio_factory_source_topic_editorial_qa_current_2026_06_03_1523
-- zernio_factory_fb_ig_account_access_config_current_2026_06_03_1523
-- zernio_self_improvement_empty_response_2026_06_01
+- zernio_factory_source_topic_editorial_qa_current_2026_06_04_1544
 - active_experiment_result_closure_overdue_or_blocked
 
 ### Action taken
-- Daily-log writer synced the top current summary, plain-date section, and compact memory note from the latest snapshot evidence.
-- Factory/readback context: 15:23 exact factory created TikTok draft-safe review-only draft `6a2046f080753c95d4b2f050` / Airtable `recR9CONproNpHQrq` from source `matrix-sunscreen-chatgpt-p0`; fresh state `latest_social_draft_factory.json@2026-06-03T15:23:29.592771+00:00`; 7 lesson slides + reusable CTA = 8 media; Airtable `draft_created`; live Zernio `status=draft`, media_count=8, no `publishNow`, TikTok draft=true; rebuilt payload omitted `publishNow`/`scheduledFor`; live account access currently exposes TikTok only, so FB/IG are account-access/config caveats; source-topic QA remains open because sunscreen/SPF source rendered generic prompt-context guidance; cron enabled/future-scheduled next `2026-06-03T16:16:30.597912+00:00`; no lingering process at `2026-06-03T15:25:27Z`.
-- No direct import, scheduler repair, public posting, live publishing, spending, or generation triggered by this daily-log run.
+- Opened/updated draft-only amplification task `zernio-confirmed-breakout-amplify-7634027210248097042` for 3 ChatGPT productivity/workflow remixes from the true winner.
+- Superseded the stale 12:33 no-breakout watch task; it is historical only after the 14:00 confirmed baseline.
+- No direct generation, public posting, live publishing, spending, scheduler repair, or Zernio send triggered by this growth check.
 
 ### Final readback
-- Snapshot script returned 58 Airtable records; data-health issue count 0; preserved operational issue count 4 after superseding same-day stale factory anchors with the 15:23 readback.
-- Current best remains `7634027210248097042` at 43,320 views / gap 56,680.
+- Scripts compile; memory/tasks/cron state read successfully.
+- Latest scheduled import output observed `2026-06-04_14-01-29.md`; import job future-scheduled at 14:30.
+- Factory job enabled/scheduled; latest factory state `latest_social_draft_factory.json@2026-06-04T15:44:47.544229+00:00` created safe review-only TikTok draft `6a219d6eb2430188939fc400` / Airtable `reccqhXoDfaQGm73Y` from `matrix-fertility-claude-p1`; editorial/source-topic QA remains open because the fertility/OB clinic Claude SOP workflow collapsed into generic prompt-context guidance.
+- No matching factory/radar process at latest factory readback `2026-06-04T15:46:51Z`; growth/import snapshot process context remains historical.
+
+
+## 2026-06-04
+<!-- ZG-DLOG-2026-06-04-1544-FACTORY -->
+- Factory 15:44: exact command created TikTok draft-safe review-only Zernio draft `6a219d6eb2430188939fc400` / Airtable `reccqhXoDfaQGm73Y` from source `matrix-fertility-claude-p1`; state `latest_social_draft_factory.json@2026-06-04T15:44:47.544229+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260604T153914Z-matrix-fertility-claude-/manifest.json`; 7 lesson slides + reusable CTA = 8 media. Airtable/Zernio safety verified draft-only, no `publishNow`, TikTok draft=true. Rebuilt payload omitted `scheduledFor`/`publishNow` and included TikTok+FB+IG with exact first-comment hash; live `/v1/accounts` exposes TikTok only so live draft contains TikTok only. QA: readable/no public source-meta leakage, but not KPI-ready because fertility/OB clinic Claude SOP/source workflow collapsed into generic prompt-context guidance. Cron enabled/future-scheduled next `2026-06-04T16:38:55.279498+00:00`; no lingering factory/radar process at `2026-06-04T15:46:51Z`.
+
+<!-- ZG-DLOG-2026-06-04-1400-BREAKOUT-WATCH -->
+- Breakout-watch 14:00: confirmed formal breakout for CTA-stripped ChatGPT productivity/workflow winner `7634027210248097042`: 44,277 views / 531 shares / +402 views (~811.62/hr) / gap 55,723. Amplification task `zernio-confirmed-breakout-amplify-7634027210248097042` opened as draft-only; no public posting/spend/generation. Protected product-photo/no-prompt CTA remains promo copy only.
+
+<!-- ZG-DLOG-2026-06-04-1400-GROWTH-CHECK -->
+- Growth-check 14:00: confirmed formal breakout for CTA-stripped ChatGPT productivity/workflow winner `7634027210248097042`: 44,277 views / 531 shares / +402 views (~811.6/hr) / gap 55,723. Action: opened draft-only amplification task `zernio-confirmed-breakout-amplify-7634027210248097042`; no public posting/spend/generation. CTA guard remains clean: protected product-photo/no-prompt phrase is promo copy only.
+
+<!-- ZG-DLOG-2026-06-04-1427-FACTORY -->
+- Factory 14:27: historical draft-safe review-only run superseded by 15:44 current readback; exact command created TikTok draft-safe review-only Zernio draft `6a218b523617eb20fefde55e` / Airtable `recBjKMDhVs9FEssO` from source `matrix-medicaldevice-claude-p1`; state `latest_social_draft_factory.json@2026-06-04T14:27:32.799918+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260604T142224Z-matrix-medicaldevice-cla/manifest.json`; 7 lesson slides + reusable CTA = 8 media. Airtable/Zernio safety verified draft-only, no `publishNow`, TikTok draft=true. Rebuilt payload omitted `scheduledFor`/`publishNow` and included TikTok+FB+IG with exact first-comment hash; live `/v1/accounts` exposes TikTok only so live draft contains TikTok only. QA: readable/no public source-meta leakage, but not KPI-ready because medical-device B2B Claude SOP/source workflow collapsed into generic prompt-context guidance. Cron enabled/future-scheduled next `2026-06-04T15:21:58.893213+00:00`; no lingering factory/radar process at `2026-06-04T14:29:28Z`.
+
+<!-- ZG-DLOG-2026-06-04-1315-FACTORY -->
+- Factory 13:15: historical dental ChatGPT draft-safe review-only run, superseded by the 14:27 current factory readback. It verified draft safety but failed KPI/editorial readiness because the dental workflow collapsed into generic prompt-context guidance. Keep as prior context only; current factory anchor is the 15:44 fertility/OB clinic Claude draft-safe review-only output.
+
+<!-- ZG-DLOG-2026-06-04-1233-ISSUE-CHECK -->
+- Issue-check 12:33: CTA guard clean; best post ChatGPT productivity/workflow 43,875 views / 524 shares / gap 56,125; import `2026-06-04_12-31-28.md` ok/fresh; self-improvement `2026-06-04_10-08-31.md` delivered; active issues narrowed to factory source-topic QA + result closure.
+
+<!-- ZG-DLOG-2026-06-04-1000-SELF-IMPROVEMENT -->
+- 3-day self-improvement review: best post `7634027210248097042` / ChatGPT productivity-workflow at 43,875 views / 524 shares / gap 56,125; +11,803 views since the 2026-05-25 3-day review, but current 10:00 baseline + 10:03 read-only comparison found 0 movers/candidates. Rule reaffirmed: ChatGPT practical numbered tips first, NotebookLM priority controlled source-grounded lane second, other tools only as exact visible-tip tests after gates clear. Current blockers: 12:01 factory source-topic QA, overdue result closure, import HTTP 500 watch, and self-improvement readback watch.
 
 ## 2026-06-01
 
@@ -611,12 +635,12 @@
 ### KPI status
 - Goal: one TikTok post reaches **100,000 views**.
 - Best post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
-- Current best views: 43320
-- Gap to 100,000: 56680
-- Closest post views: 43320
+- Current best views: 43875
+- Gap to 100,000: 56125
+- Closest post views: 43875
 - Strongest velocity post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
 - Recent 72h post count: 1
-- Snapshot time: 2026-06-03T12:34:02.833670+00:00
+- Snapshot time: 2026-06-03T23:56:13.775809+00:00
 
 ### Signals learned today
 - Winning hook samples:
@@ -629,11 +653,11 @@
 - 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา A
 - Protected CTA note: Sway-added CTA phrase is protected and must not be treated as hook/topic signal; learn from educational_signal instead.
 - Protected CTA occurrences in low-view sample: 3
-- Breakout candidates: 0 current candidates; prior `7646741883024084232` movement is watch-only context until a later import/baseline confirms renewed velocity.
+- Breakout candidates: 0 current candidates; prior `7634027210248097042` movement is watch-only context until a later import/baseline confirms renewed velocity.
 - Current issue count: 10
 
 ### Mistakes / weak spots to correct
-- zernio_factory_source_topic_editorial_qa_current_2026_06_03_0035
+- zernio_factory_source_topic_editorial_qa_historical_2026_06_04_0224_superseded_by_0446
 - zernio_factory_source_topic_editorial_qa_current_2026_06_03_0412
 - zernio_factory_source_topic_editorial_qa_prior_separate_2026_06_01_2140
 - zernio_factory_zernio_post_forbidden_prior_separate_2026_06_01_1804
@@ -642,7 +666,7 @@
 - active_experiment_result_closure_overdue_or_blocked
 - zernio_factory_source_topic_editorial_qa_prior_separate_2026_05_24_0912
 - zernio_factory_source_topic_editorial_qa_prior_separate_2026_05_25_1924
-- zernio_self_improvement_empty_response_2026_06_01
+- zernio_self_improvement_readback_resolved_2026_06_04_1008
 
 ### Rule / memory update
 - Lesson: Fix active result-closure/factory QA gates before scaling more near-duplicate growth experiments.
@@ -655,3 +679,62 @@
 - Memory note: [[Aion OS/Aion Learning Lab/Zernio Growth/Zernio Growth Memory]]
 - Master state: [[Aion OS/Projects/genlabs-ai-learning-state]]
 - Self-improvement SOP: [[Aion OS/SOPs/genlabs-ai-learning-self-improvement-system]]
+
+## 2026-06-04
+
+### KPI status
+- Goal: one TikTok post reaches **100,000 views**.
+- Best post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- Current best views: 43875
+- Gap to 100,000: 56125
+- Closest post views: 43875
+- Strongest velocity post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- Recent 72h post count: 1
+- Snapshot time: 2026-06-04T00:20:02.061498+00:00
+
+### Signals learned today
+- Winning hook samples:
+- ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายทีมประชุมแล…
+- 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: พนักงานใหม่ต้…
+- Weak hook samples:
+- 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายร้านมีข้อ…
+- Prompt Drop: ยาดม/สมุนไพรไทยให้ดู Modern Wellness เซฟโพสต์นี้ไว้ถ้าคุณทำคอนเทนต์ขายของออนไลน์ แล้วอยากได้ภาพที่ดูเหมือนถ่ายแคมเปญจริง ไม่ใช่ภาพ AI พลาสติกหรือภา…
+- 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา A
+- Protected CTA note: Sway-added CTA phrase is protected and must not be treated as hook/topic signal; learn from educational_signal instead.
+- Protected CTA occurrences in low-view sample: 3
+- Breakout candidates: 0 current candidates; prior `7634027210248097042` movement is watch-only context until a later import/baseline confirms renewed velocity.
+- Current issue count: 10
+
+### Mistakes / weak spots to correct
+- zernio_factory_source_topic_editorial_qa_historical_2026_06_04_0224_superseded_by_0446
+- zernio_factory_source_topic_editorial_qa_current_2026_06_03_0412
+- zernio_factory_source_topic_editorial_qa_prior_separate_2026_06_01_2140
+- zernio_factory_zernio_post_forbidden_prior_separate_2026_06_01_1804
+- zernio_factory_source_topic_editorial_qa_prior_separate_2026_06_01_1804
+- zernio_factory_source_topic_editorial_qa_prior_separate_2026_05_26_1952
+- active_experiment_result_closure_overdue_or_blocked
+- zernio_factory_source_topic_editorial_qa_prior_separate_2026_05_24_0912
+- zernio_factory_source_topic_editorial_qa_prior_separate_2026_05_25_1924
+- zernio_self_improvement_readback_resolved_2026_06_04_1008
+
+### Rule / memory update
+- Lesson: Fix active result-closure/factory QA gates before scaling more near-duplicate growth experiments.
+- Decision rule: If no post is on pace for 100k, increase experiment volume and remix the best specific business-use hook instead of passively waiting.
+
+### Next action
+- Close/mark blocked active 2h/4h/24h result loops and resolve factory editorial/source-topic QA before creating more near-duplicate drafts; keep any breakout amplification draft-only.
+
+### Links
+- Memory note: [[Aion OS/Aion Learning Lab/Zernio Growth/Zernio Growth Memory]]
+- Master state: [[Aion OS/Projects/genlabs-ai-learning-state]]
+- Self-improvement SOP: [[Aion OS/SOPs/genlabs-ai-learning-self-improvement-system]]
+
+<!-- ZG-DLOG-2026-06-04-0645-ISSUE-CHECK -->
+### Issue Check 06:45 UTC — CTA guard clean, no breakout, factory QA blocker open
+- KPI: best post `ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items` / `7634027210248097042` at **43,875 views**, **524 shares**, gap **56,125**.
+- CTA guard: unsafe_count=0; protected GenLabs product-photo/no-prompt CTA remains promo copy only.
+- Analytics: 06:30 normal baseline had 0 candidates; scheduled import `2026-06-04_06-31-28.md` then read-only comparison `2026-06-04T06:42Z` found 0 movers/candidates.
+- Factory: prior 06:06 safe draft was superseded by the 12:08 factory source-topic QA readback; current tick has Airtable/manifest only and no Zernio draft.
+- Current issues: factory source-topic/editorial QA and experiment result closure; self-improvement readback resolved by 2026-06-04_10-08-31.md.
+- Safety: no public posting, no spend, no generation triggered by issue-check.

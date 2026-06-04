@@ -1,38 +1,127 @@
+<!-- ZG-2026-06-04-1400-GROWTH-CHECK -->
+- [ ] Growth Check 14:00: confirmed formal breakout for CTA-stripped ChatGPT productivity/workflow winner `7634027210248097042` at 44,277 views / 531 shares / +402 views (~811.6/hr), gap 55,723. Task opened: `zernio-confirmed-breakout-amplify-7634027210248097042` for draft-only ChatGPT productivity/workflow remixes; protected GenLabs product-photo/no-prompt CTA remains promo copy only. Factory current at `latest_social_draft_factory.json@2026-06-04T16:57:53.623820+00:00`: Zernio draft-safe/review-only `6a21ae904bedc4a571e521e2` / Airtable `recauvS2HbGVORwTF`, but source-topic QA remains open because `matrix-thaidessert-claude-p1` collapsed into generic prompt-context copy instead of Thai dessert/Claude SOP storage-shipping workflow. Gates still open: factory source-topic QA + experiment result closure; no public posting/spend.
+
+<!-- ZG-2026-06-04-1400-BREAKOUT-WATCH -->
+- [ ] Breakout Watch 14:00: confirmed formal breakout for CTA-stripped ChatGPT productivity/workflow winner `7634027210248097042`: 44,277 views / 531 shares / +402 views (~811.62/hr) / gap 55,723. Action: draft-only amplification task `zernio-confirmed-breakout-amplify-7634027210248097042` opened; no public posting/spend/generation. Protected product-photo/no-prompt CTA remains promo copy only.
+
+<!-- ZG-ISSUE-CHECK-2026-06-04-1233 -->
+- Zernio issue-check 12:33: historical pre-14:00 state. CTA guard was clean and import/self-improvement readbacks resolved; later 14:00 baseline superseded the no-breakout status with a confirmed ChatGPT productivity/workflow breakout. Later 16:57 factory readback created draft-safe/review-only Zernio `6a21ae904bedc4a571e521e2` / Airtable `recauvS2HbGVORwTF`; active blockers remain factory source-topic/editorial QA for `matrix-thaidessert-claude-p1` generic prompt-context drift + overdue result closure. No public posting/spend.
+
+<!-- ZG-SCHEDULER-BOUNDARY-READBACK-WATCH-2026-06-04-0000 -->
+- [ ] Scheduler boundary readback watch 2026-06-04 00:00 UTC — narrowed: experiment delivered `2026-06-04_00-23-13.md`, factory is current via the 16:57 draft-safe review-only readback (`6a21ae904bedc4a571e521e2` / Airtable `recauvS2HbGVORwTF`), and current growth-check output delivered later. Import/breakout 00:00 readbacks remain historical next-tick context; no matching factory/radar process in the latest readback. Owner: Hermes scheduler watcher. Deadline: next tick; no generation/spend/public posting.
+
 <!-- ZG-2026-06-03-0049-ISSUE-CHECK -->
-- [ ] Issue Check 00:49: CTA guard unsafe_count=0; best post `7634027210248097042` is ChatGPT productivity/workflow evidence, not protected product-photo/no-prompt CTA. Later 15:23 exact factory superseded prior same-day factory outputs with TikTok draft-safe review-only draft `6a2046f080753c95d4b2f050` / Airtable `recR9CONproNpHQrq`; current blocker is editorial/source-topic QA plus FB/IG account access/config, not draft safety. Self-improvement empty-response readback watch for `b72e805336fe` remains separate. No public posting/live publishing outside draft-only factory.
+- [ ] Issue Check 00:49: CTA guard unsafe_count=0; best post `7634027210248097042` is ChatGPT productivity/workflow evidence, not protected product-photo/no-prompt CTA. Later 00:00 exact factory superseded prior same-day factory outputs with TikTok draft-safe review-only draft `historical 00:00 protein draft` / Airtable `historical 00:00 protein Airtable`; current blocker is protein/plant-based ChatGPT source-topic QA plus FB/IG account access/config, not draft safety. Self-improvement empty-response readback watch for `b72e805336fe` remains separate. No public posting/live publishing outside draft-only factory.
 
 <!-- ZG-REFRESH-WINDOW-WATCH-2026-06-02-1845 -->
 - [ ] Issue Check 18:30 final snapshot: refresh-window watch `7646741883024084232` reached 460 views / 2 shares / +11 views after the 18:42 import (~164/hr import-window inflated). Best/closest remains CTA-stripped ChatGPT productivity `7634027210248097042` at 43,320 views / 519 shares / gap 56,680. No public posting/spend/generation; wait for next normal baseline before amplification.
 
 <!-- ZG-2026-06-02-1830-ISSUE-CHECK -->
-- Issue Check 18:30 verification: CTA guard unsafe_count=0; later factory readbacks superseded the 23:24 FAL 422/no-draft state, 12:57 value-QA block, and 15:23 draft; current factory anchor is 16:40 TikTok draft-safe review-only draft `6a2058e290bd674a200a0427` / Airtable `recnLDCFvJsWM4dvt`; cron enabled/future-scheduled next `2026-06-03T17:33:40.621283+00:00`; no matching factory/radar process in the 16:43 readback; current issue-check markdown remains separate.
+- Issue Check 18:30 verification: CTA guard unsafe_count=0; later factory readbacks superseded the 23:24 FAL 422/no-draft state, 12:57 value-QA block, 15:23 draft, and 17:52/19:06/20:17 drafts; current factory anchor is 00:00 TikTok draft-safe review-only draft `historical 00:00 protein draft` / Airtable `historical 00:00 protein Airtable`; cron enabled/future-scheduled next `prior schedule superseded by 01:11 readback`; no matching factory/radar process in the 00:02 readback; current issue-check markdown remains separate.
 
 <!-- ZG-2026-06-03-1200-EXPERIMENT-CREATOR -->
 - **Zernio Experiment Creator 2026-06-03 12:00:** 3 draft-only specs ready for future factory input: `kpi-exp-0603-1200-chatgpt-admin-repeat-work-sop`, `kpi-exp-0603-1200-notebooklm-live-sale-product-cheatsheet`, `kpi-exp-0603-1200-zapier-make-quote-approval-safety-net`. Gate: no generation/spend/public posting/Zernio send until result-closure/source-lane/editorial/Zernio gates clear.
 
 # Open Loops
-<!-- ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-CURRENT-2026-06-03-1640 -->
-- [ ] CURRENT factory output — 16:40 exact factory created TikTok draft-safe review-only draft `6a2058e290bd674a200a0427` / Airtable `recnLDCFvJsWM4dvt` from source `matrix-mensapparel-claude-p1`; fresh state `latest_social_draft_factory.json@2026-06-03T16:40:03.904100+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260603T163425Z-matrix-mensapparel-claud/manifest.json`; 7 lesson slides + reusable CTA = 8 media. Airtable GET verified `Zernio Draft Status=draft_created`; live Zernio GET verified `status=draft`, media_count=8, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft=true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, `isDraft=true`, `tiktokSettings.draft=true`, and included TikTok+Facebook+Instagram with exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active Zernio `/v1/accounts` exposes TikTok only, so the created live draft contains TikTok only and FB/IG account access/config remains a caveat. Vision/public-copy QA found readable GenLabs sketchnote slides and no source/meta leakage, but source-topic fit fails KPI-ready: source promised a men's-apparel/Claude workflow, while public output is generic prompt-context guidance (`บริบทก่อน คำสั่งทีหลัง`) with no visible men's apparel/Claude/fashion/size/product workflow terms. Cron `a97a7703af32` remains enabled/draft-only and future-scheduled next `2026-06-03T17:33:40.621283+00:00`; no lingering factory/radar process in the 16:43 readback. Treat as safe review-only, not ready for manual publishing until regenerated/rerouted or explicitly approved.
-<!-- /ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-CURRENT-2026-06-03-1640 -->
+<!-- ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-CURRENT-2026-06-04-1544 -->
+- [ ] CURRENT factory output — 15:44 exact factory command created TikTok draft-safe review-only Zernio draft `6a219d6eb2430188939fc400` / Airtable `reccqhXoDfaQGm73Y` from source `matrix-fertility-claude-p1`; fresh state `latest_social_draft_factory.json@2026-06-04T15:44:47.544229+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260604T153914Z-matrix-fertility-claude-/manifest.json`; 7 lesson slides + reusable CTA = 8 media. Airtable GET verified Source ID=`matrix-fertility-claude-p1` and Zernio Draft Status=`draft_created`; live Zernio GET verified status=`draft`, media_count=8, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft=true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, isDraft=true, tiktokSettings.draft=true, and included TikTok+Facebook+Instagram with exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active Zernio `/v1/accounts` exposes TikTok only, so the created live draft contains TikTok only and FB/IG account access/config remains a caveat. Public-copy scan plus vision QA on hook/tips/action slides found readable GenLabs sketchnote slides and no public source/meta leakage, but source-topic fit fails KPI-ready: source promised a fertility/OB clinic Claude SOP/document-summary workflow for sensitive procedure/cost questions, while public output became generic prompt-context guidance (`บริบทก่อน คำสั่งทีหลัง`) with no visible fertility clinic/Claude/SOP/document workflow. Cron `a97a7703af32` remains enabled/draft-only and future-scheduled next `2026-06-04T16:38:55.279498+00:00`; no lingering factory/radar process in the 2026-06-04T15:46:51Z readback. Treat as safe review-only, not ready for manual publishing until regenerated/rerouted or explicitly approved.
+<!-- /ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-CURRENT-2026-06-04-1544 -->
+
+<!-- ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-04-1427 -->
+- [ ] PRIOR factory output — historical 14:27 medical-device Claude draft-safe review-only run, superseded by the 15:44 current factory output above. It verified draft safety but failed KPI/editorial readiness because the medical-device B2B Claude workflow collapsed into generic prompt-context guidance. Keep this as prior context only; current factory anchor is the 15:44 fertility/OB clinic Claude draft-safe review-only output.
+<!-- /ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-04-1427 -->
+
+<!-- ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-04-1315 -->
+- [ ] PRIOR factory output — historical 13:15 dental ChatGPT draft-safe review-only run, later superseded by the current 15:44 factory readback. It verified draft safety but failed KPI/editorial readiness because the dental workflow collapsed into generic prompt-context guidance. Keep this as prior context only; current factory anchor is the 15:44 fertility/OB clinic Claude draft-safe review-only output.
+<!-- /ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-04-1315 -->
+
+<!-- GL-SIR-2026-06-04-1000-3DAY -->
+- [ ] 3-day Self-Improvement 10:00: historical pre-14:00 baseline. KPI was `7634027210248097042` 43,875 views / 524 shares / gap 56,125 and the 10:00 baseline showed 0 movers/candidates; later 14:00 baseline superseded this with confirmed ChatGPT productivity/workflow breakout at 44,277 views / 531 shares / +402. Action remains: close result loops, fix matrix/software-tip source-topic routing, keep ChatGPT+NotebookLM practical numbered tips first. Owner: Hermes. No public posting/spend/generation.
+<!-- ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-04-1051 -->
+- [ ] PRIOR factory output — prior 10:51 exact factory created TikTok draft-safe review-only draft historical 10:51 prior draft / historical 10:51 Airtable / historical IT-retail source; draft safety passed but source-topic fit failed because public output was generic prompt-context guidance instead of the promised IT-retail/Gemini Sheets/Docs trade-in workflow. Superseded by the 12:01 current readback; treat as prior safe review-only context, not the current factory anchor.
+<!-- /ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-04-1051 -->
+
+
+<!-- ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-04-0940 -->
+- [ ] PRIOR factory output — prior 09:40 exact factory created TikTok draft-safe review-only draft `6a2147fde2a87fbe43a3723f` / Airtable `recYC940LLveRQKwI` from source `matrix-bedding-automation-p1`; draft safety passed, but source-topic fit failed because public output was generic AI Agent/checklist guidance instead of the promised bedding/mattress Zapier-Make customer-question automation. Superseded by the 10:51 current readback; treat as prior safe review-only context, not the current factory anchor.
+<!-- /ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-04-0940 -->
+
+<!-- ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-04-0826 -->
+- [ ] PRIOR factory output — prior 08:26 exact factory created TikTok draft-safe review-only draft 6a2136c524ffbfae39bce231 / Airtable recSj395SylX0MG1X from source matrix-powertool-claude-p1; draft safety passed, but source-topic fit failed because public output was generic prompt-context guidance instead of the promised power-tool/hardware-store Claude SOP workflow. Superseded by the 09:40 current readback; treat as prior safe review-only context, not the current factory anchor.
+<!-- /ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-04-0826 -->
+
+<!-- ZG-FACTORY-VALUE-QA-BLOCKED-PRIOR-2026-06-04-0713 -->
+- [ ] PRIOR factory output blocker — prior 07:13 exact factory generated manifest/Airtable for `matrix-consumerdevice-chatgpt-p1` but skipped Zernio because value QA failed; superseded by the 08:26 and 09:40 draft-safe review-only readbacks above. Keep as prior value-QA context; not the current factory anchor.
+<!-- /ZG-FACTORY-VALUE-QA-BLOCKED-PRIOR-2026-06-04-0713 -->
+
+<!-- ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-04-0601 -->
+- [ ] PRIOR factory output — prior 06:01 exact factory created a TikTok draft-safe review-only land/investment ChatGPT draft; Airtable/Zernio safety passed, but source-topic fit failed because public output was generic prompt-context guidance instead of the promised land/investment real-estate ChatGPT workflow. Superseded by later 07:13 value-QA context plus 08:26 and 09:40 draft-safe review-only readbacks; treat as prior safe review-only context, not the current factory anchor.
+<!-- /ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-04-0601 -->
+
+<!-- ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-04-0446 -->
+- [ ] PRIOR factory output — prior 04:46 exact factory created TikTok draft-safe review-only draft historical 04:46 prior draft: source historical 04:46 residential source, Airtable historical 04:46 prior Airtable, state historical 04:46 prior state token, manifest /home/clawd/.hermes/ai_signal_radar/carousels/auto-20260604T044150Z-matrix-residential-claud/manifest.json; Airtable Zernio Draft Status=draft_created; live Zernio status=draft, 8 media, no publishNow, TikTok draft=true; rebuilt outbound payload omitted publishNow/scheduledFor and included TikTok+Facebook+Instagram with exact FB/IG first-comment hash; active Zernio /v1/accounts exposes TikTok only, so live draft contains TikTok only and FB/IG account access/config remains a caveat; public-copy/vision QA found readable GenLabs sketchnote slides and no source/meta leakage, but source-topic fit fails KPI-ready: source promised a residential real-estate/Claude workflow for price/location/loan chat questions and long-document/SOP summaries, while public output is generic prompt-context guidance ('บริบทก่อน คำสั่งทีหลัง') with no visible real-estate/Claude workflow. Superseded by the 06:01 current readback; treat as prior safe review-only context, not the current factory anchor.
+<!-- /ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-04-0446 -->
+
+<!-- ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-04-0336 -->
+- [ ] PRIOR factory output — prior 03:36 exact factory created TikTok draft-safe review-only draft 6a20f2a4b5c9fb449429bd60 / Airtable recHpq5ZV7LgP10ye from source matrix-autoinsurance-chatgpt-p0; draft safety passed, but source-topic fit failed because public output was generic prompt-context guidance instead of the promised auto-insurance ChatGPT workflow. Superseded by the 04:46 current readback; treat as prior safe review-only context, not the current factory anchor.
+<!-- /ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-04-0336 -->
+
+<!-- ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-04-0224 -->
+- [ ] PRIOR factory output — prior 02:24 same-day draft-safe review-only output from the motorcycle-shop ChatGPT source family; draft safety passed, but source-topic fit failed because public output was generic prompt-context guidance instead of the promised motorcycle shop ChatGPT workflow. Superseded by the 03:36 readback and then by the 04:46 current readback; treat as prior safe review-only context, not the current factory anchor.
+<!-- /ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-04-0224 -->
+
+<!-- ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-04-0111 -->
+- [ ] PRIOR factory output — prior 01:11 exact factory created TikTok draft-safe review-only draft 6a20d0bd72acc677b0197271 / Airtable rec0vYjH6hHEA3wC0 from source matrix-autoparts-automation-p1; draft safety passed, but source-topic fit failed because public output was generic AI Agent/checklist guidance instead of the promised autoparts/Zapier-Make compatibility workflow. Superseded by the 02:24 and 03:36 readbacks and then by the 04:46 current readback; treat as prior safe review-only context, not the current factory anchor.
+<!-- /ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-04-0111 -->
+
+<!-- ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-04-0000 -->
+- [ ] PRIOR factory output — prior 00:00 exact factory created a TikTok draft-safe review-only protein/plant-based ChatGPT draft; Airtable/Zernio safety passed, but source-topic fit failed because public output was generic prompt-context guidance instead of the promised protein/calorie/caption/FAQ workflow. Superseded by the 01:11 current readback; treat as prior safe review-only context, not the current factory anchor.
+<!-- /ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-04-0000 -->
+
+<!-- ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-03-2249 -->
+- [ ] PRIOR factory output — prior 22:49 exact factory created a TikTok draft-safe review-only beauty-supplement/Claude SOP draft; Airtable/Zernio draft safety passed, but source-topic fit failed because public output was generic prompt-context guidance instead of the promised beauty-supplement/Claude SOP workflow. Superseded by the 01:11 current readback; treat as prior safe review-only context, not the current factory anchor.
+<!-- /ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-03-2249 -->
+
+
+<!-- ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-03-2131 -->
+- [ ] PRIOR factory output — prior same-day 21:31 factory created a TikTok draft-safe review-only laser/HIFU Gemini draft; Airtable/Zernio safety passed, but source-topic fit failed because public output was generic prompt-context guidance instead of the promised laser/HIFU clinic Gemini Sheets/Docs workflow. Superseded by the 22:49 current readback; treat as prior safe review-only context, not the current factory anchor.
+<!-- /ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-03-2131 -->
+
+<!-- ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-03-2017 -->
+- [ ] PRIOR factory output — prior same-day 20:17 factory created a TikTok draft-safe review-only BBQ/shabu Gemini draft; 7 lesson slides + reusable CTA = 8 media. Airtable/Zernio safety passed, but source-topic fit failed because public output was generic prompt-context guidance instead of BBQ/shabu/buffet Gemini Sheets/Docs reservation workflow. Superseded by the 21:31 current readback; cron stayed enabled/draft-only; no lingering factory/radar process in the 20:20 readback. Treat as prior safe review-only, not ready for manual publishing until regenerated/rerouted or explicitly approved.
+<!-- /ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-03-2017 -->
+
+
+<!-- ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-03-1906 -->
+- [ ] PRIOR factory output — prior same-day 19:06 factory created a TikTok draft-safe review-only coffee/cafe Claude draft; Airtable/Zernio safety passed, but source-topic fit failed because public output was generic prompt-context guidance instead of the promised coffee/cafe Claude SOP workflow. Superseded by later same-day factory readbacks; treat as prior safe review-only context, not the current factory anchor.
+<!-- /ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-03-1906 -->
+
+<!-- ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-03-1752 -->
+- [ ] PRIOR factory output — historical 17:52 exact factory created TikTok draft-safe review-only draft `6a2069cc707fab31d3e00d55` / Airtable `recGJfejnnYlfJKoK` from source `matrix-footwear-automation-p1`; fresh state `latest_social_draft_factory.json@2026-06-03T17:52:13.619913+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260603T174625Z-matrix-footwear-automati/manifest.json`; 7 lesson slides + reusable CTA = 8 media. Airtable GET verified `Zernio Draft Status=draft_created`; live Zernio GET verified `status=draft`, media_count=8, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft=true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, `isDraft=true`, `tiktokSettings.draft=true`, and included TikTok+Facebook+Instagram with exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active Zernio `/v1/accounts` exposes TikTok only, so the created live draft contains TikTok only and FB/IG account access/config remains a caveat. Vision/public-copy QA found readable GenLabs sketchnote slides and no source/meta leakage, but source-topic fit fails KPI-ready: source promised a footwear/Zapier-Make workflow for shoe size/width customer questions, while public output is generic AI Agent/checklist guidance with no visible footwear/size/width/Zapier flow. Superseded by the 20:17 current readback above. Treat as prior safe review-only context, not the current factory anchor.
+<!-- /ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-03-1752 -->
+
+<!-- ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-03-1640 -->
+- [ ] PRIOR factory output — historical 16:40 safe review-only draft `historical 16:40 prior draft` / Airtable `historical 16:40 prior Airtable` from source `historical 16:40 mensapparel source`; fresh state `historical 16:40 prior state token`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260603T163425Z-matrix-mensapparel-claud/manifest.json`; 7 lesson slides + reusable CTA = 8 media. Airtable GET verified `Zernio Draft Status=draft_created`; live Zernio GET verified `status=draft`, media_count=8, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft=true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, `isDraft=true`, `tiktokSettings.draft=true`, and included TikTok+Facebook+Instagram with exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active Zernio `/v1/accounts` exposes TikTok only, so the created live draft contains TikTok only and FB/IG account access/config remains a caveat. Vision/public-copy QA found readable GenLabs sketchnote slides and no source/meta leakage, but source-topic fit fails KPI-ready: source promised a men's-apparel/Claude workflow, while public output is generic prompt-context guidance (`บริบทก่อน คำสั่งทีหลัง`) with no visible men's apparel/Claude/fashion/size/product workflow terms. Cron `a97a7703af32` remains enabled/draft-only and future-scheduled next `historical 17:33 prior schedule time`; no lingering factory/radar process in the 16:43 readback. Treat as safe review-only, not ready for manual publishing until regenerated/rerouted or explicitly approved.
+<!-- /ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-03-1640 -->
 
 <!-- ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-03-1523 -->
-- [ ] PRIOR factory output — 15:23 exact factory created TikTok draft-safe review-only draft `6a2046f080753c95d4b2f050` / Airtable `recR9CONproNpHQrq` from source `matrix-sunscreen-chatgpt-p0`; superseded by the 16:40 current readback above. Keep its sunscreen/ChatGPT source-topic mismatch as prior editorial context, not the current factory anchor.
+- [ ] PRIOR factory output — historical 15:23 safe review-only draft `historical 15:23 prior draft` / Airtable `historical 15:23 prior Airtable` from source `historical 15:23 sunscreen source`; superseded by the 17:52 current readback above. Keep its sunscreen/ChatGPT source-topic mismatch as prior editorial context, not the current factory anchor.
 <!-- /ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-03-1523 -->
 
 <!-- ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-03-1139 -->
-- [ ] PRIOR factory output — 11:39 exact factory created safe review-only draft `6a201283bfb36963567741f2` / Airtable `reccfxZlNqtkS1qT9` from source `matrix-sauce-chatgpt-p1`; superseded by later same-day readbacks, with 16:40 now the current factory anchor. Keep its sauce/ChatGPT source-topic mismatch as prior editorial context, not the current factory anchor.
+- [ ] PRIOR factory output — 11:39 exact factory created safe review-only draft `6a201283bfb36963567741f2` / Airtable `reccfxZlNqtkS1qT9` from source `matrix-sauce-chatgpt-p1`; superseded by later same-day readbacks, with 20:17 now the current factory anchor. Keep its sauce/ChatGPT source-topic mismatch as prior editorial context, not the current factory anchor.
 <!-- /ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-03-1139 -->
 
 <!-- ZG-SOURCE-TOPIC-EDITORIAL-QA-PRIOR-2026-06-03-1139 -->
-- [ ] PRIOR editorial/source-topic QA blocker — draft `6a201283bfb36963567741f2` was API-safe and source/meta leak-free, but not KPI-ready: source `matrix-sauce-chatgpt-p1` promises a ซอส/เครื่องปรุง / เจ้าของแบรนด์ซอส ChatGPT workflow for ingredient/spiciness/halal explanations, captions/FAQ answers, a concrete sauce example, checklist, and mistake avoidance. Public title/slides/caption instead render generic prompt-context guidance (`บริบทก่อน คำสั่งทีหลัง`) with no visible sauce/เครื่องปรุง/ความเผ็ด/ฮาลาล/ChatGPT caption/FAQ workflow. This is prior context; current factory blocker is the 16:40 men's-apparel/Claude source-topic mismatch above.
+- [ ] PRIOR editorial/source-topic QA blocker — draft `6a201283bfb36963567741f2` was API-safe and source/meta leak-free, but not KPI-ready: source `matrix-sauce-chatgpt-p1` promises a ซอส/เครื่องปรุง / เจ้าของแบรนด์ซอส ChatGPT workflow for ingredient/spiciness/halal explanations, captions/FAQ answers, a concrete sauce example, checklist, and mistake avoidance. Public title/slides/caption instead render generic prompt-context guidance (`บริบทก่อน คำสั่งทีหลัง`) with no visible sauce/เครื่องปรุง/ความเผ็ด/ฮาลาล/ChatGPT caption/FAQ workflow. This is prior context; current factory blocker is the 20:17 BBQ/shabu/buffet Gemini Sheets/Docs source-topic mismatch above.
 <!-- /ZG-SOURCE-TOPIC-EDITORIAL-QA-PRIOR-2026-06-03-1139 -->
 
 <!-- ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-03-1027 -->
-- [ ] PRIOR factory output — 10:27 safe review-only draft `6a2001a07cc95045c543843e` / Airtable `recMTSLSUqDp2nJji` from source `matrix-oralcare-chatgpt-p0` was superseded by later same-day readbacks; current anchor is the 16:40 TikTok draft-safe review-only record above. Keep its oral-care/ChatGPT source-topic mismatch as prior editorial context, not the current factory anchor.
+- [ ] PRIOR factory output — 10:27 safe review-only draft `6a2001a07cc95045c543843e` / Airtable `recMTSLSUqDp2nJji` from source `matrix-oralcare-chatgpt-p0` was superseded by later same-day readbacks; current anchor is the 20:17 TikTok draft-safe review-only record above. Keep its oral-care/ChatGPT source-topic mismatch as prior editorial context, not the current factory anchor.
 <!-- /ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-03-1027 -->
 
 <!-- ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-03-0914 -->
-- [ ] PRIOR factory output — 09:14 safe review-only draft `6a1ff0864b55966c95dea5de` / Airtable `recTpN57aO9Umfkg7` from source `matrix-hairproduct-automation-p1` was superseded by later same-day drafts; current anchor is the 16:40 draft above. Keep its hair-product/Zapier-Make source-topic mismatch as prior editorial context, not the current factory anchor.
+- [ ] PRIOR factory output — 09:14 safe review-only draft `6a1ff0864b55966c95dea5de` / Airtable `recTpN57aO9Umfkg7` from source `matrix-hairproduct-automation-p1` was superseded by later same-day drafts; current anchor is the 20:17 draft above. Keep its hair-product/Zapier-Make source-topic mismatch as prior editorial context, not the current factory anchor.
 <!-- /ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-03-0914 -->
 
 <!-- ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-03-0755 -->
@@ -40,7 +129,7 @@
 <!-- /ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-03-0755 -->
 
 <!-- ZG-FACTORY-FAL-422-HISTORICAL-2026-06-02-2324 -->
-- [x] Historical factory blocker — 23:24 FAL 422/no-draft state was superseded by later safe review-only drafts; current factory anchor is the 16:40 safe review-only draft `6a2058e290bd674a200a0427` above. Keep only as historical image-generation reliability context; current blocker is editorial/source-topic QA plus Instagram account access, not FAL 422.
+- [x] Historical factory blocker — 23:24 FAL 422/no-draft state was superseded by later safe review-only drafts; current factory anchor is the 17:52 safe review-only draft `6a2069cc707fab31d3e00d55` above. Keep only as historical image-generation reliability context; current blocker is editorial/source-topic QA plus Instagram account access, not FAL 422.
 <!-- /ZG-FACTORY-FAL-422-HISTORICAL-2026-06-02-2324 -->
 
 <!-- ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-02-2220 -->
@@ -52,41 +141,41 @@
 <!-- /ZG-FACTORY-DRAFT-SAFE-REVIEW-ONLY-PRIOR-2026-06-02-2104 -->
 
 <!-- ZG-SOURCE-TOPIC-EDITORIAL-QA-PRIOR-SEPARATE-2026-06-02-2220 -->
-- [ ] SEPARATE prior editorial/source-topic QA blocker — prior draft `6a1f571ff564d97468957cf3` remains API-safe but not KPI-ready: source `matrix-hairgrowth-automation-p1` promised a hair-growth/อาหารเสริมบำรุงผม Zapier/Make automation workflow for repeated usage/timeline questions, while public title/slides/caption rendered generic `อย่าเริ่มจาก AI Agent...เช็กลิสต์งานซ้ำ` guidance with broad API/workflow/Make chips and no visible hair-growth/supplement/timeline/customer-FAQ automation flow. This is historical/prior context; current factory output is `6a1f76b8e1742f30800a0233` above.
+- [ ] SEPARATE prior editorial/source-topic QA blocker — prior draft `6a1f571ff564d97468957cf3` remains API-safe but not KPI-ready: source `matrix-hairgrowth-automation-p1` promised a hair-growth/อาหารเสริมบำรุงผม Zapier/Make automation workflow for repeated usage/timeline questions, while public title/slides/caption rendered generic `อย่าเริ่มจาก AI Agent...เช็กลิสต์งานซ้ำ` guidance with broad API/workflow/Make chips and no visible hair-growth/supplement/timeline/customer-FAQ automation flow. This is historical/prior context; current factory output is the 17:52 safe review-only draft above.
 <!-- /ZG-SOURCE-TOPIC-EDITORIAL-QA-PRIOR-SEPARATE-2026-06-02-2220 -->
 
 <!-- ZG-SOURCE-TOPIC-EDITORIAL-QA-PRIOR-SEPARATE-2026-06-02-2104 -->
-- [ ] SEPARATE prior editorial/source-topic QA blocker — prior 21:04 functional-wellness draft `6a1f4550716eeada15c465d5` / Airtable `recNAyc9RolLIhjL0` remains API-safe but review-only/not KPI-ready: source `matrix-functionalwellness-chatgpt-p0` promised an อาหารเสริมสุขภาพ ChatGPT compliance/caption workflow, while public slides rendered generic prompt-context guidance. This is historical/prior context; current factory output is `6a1f571ff564d97468957cf3` above.
+- [ ] SEPARATE prior editorial/source-topic QA blocker — prior 21:04 functional-wellness draft `6a1f4550716eeada15c465d5` / Airtable `recNAyc9RolLIhjL0` remains API-safe but review-only/not KPI-ready: source `matrix-functionalwellness-chatgpt-p0` promised an อาหารเสริมสุขภาพ ChatGPT compliance/caption workflow, while public slides rendered generic prompt-context guidance. This is historical/prior context; current factory output is the 17:52 safe review-only draft above.
 <!-- /ZG-SOURCE-TOPIC-EDITORIAL-QA-PRIOR-SEPARATE-2026-06-02-2104 -->
 
 <!-- ZG-SOURCE-TOPIC-EDITORIAL-QA-PRIOR-SEPARATE-2026-06-02-1946 -->
-- [ ] SEPARATE prior editorial/source-topic QA blocker — prior 19:46 IV Drip/vitamin clinic draft `6a1f332de45278d333899989` / Airtable `recqZ7o2PJw4oQaI3` remains API-safe but review-only/not KPI-ready: source `matrix-ivdrip-claude-p0` promised an IV Drip/วิตามิน clinic Claude workflow, while public slides rendered generic prompt-context guidance. This is historical/prior context; current factory output is `6a1f4550716eeada15c465d5` above.
+- [ ] SEPARATE prior editorial/source-topic QA blocker — prior 19:46 IV Drip/vitamin clinic draft `6a1f332de45278d333899989` / Airtable `recqZ7o2PJw4oQaI3` remains API-safe but review-only/not KPI-ready: source `matrix-ivdrip-claude-p0` promised an IV Drip/วิตามิน clinic Claude workflow, while public slides rendered generic prompt-context guidance. This is historical/prior context; current factory output is the 17:52 safe review-only draft above.
 <!-- /ZG-SOURCE-TOPIC-EDITORIAL-QA-PRIOR-SEPARATE-2026-06-02-1946 -->
 
 <!-- ZG-SOURCE-TOPIC-EDITORIAL-QA-PRIOR-SEPARATE-2026-06-02-1831 -->
-- [ ] SEPARATE prior editorial/source-topic QA blocker — prior 18:31 injectables/filler/Botox draft `historical 18:31 prior draft` / Airtable `historical 18:31 prior Airtable` remains API-safe but review-only/not KPI-ready: source `historical 18:31 injectables source` promised a clinic ChatGPT promo/FAQ workflow, while public slides rendered generic prompt-context guidance. This is historical/prior context; current factory output is `6a1f4550716eeada15c465d5` above.
+- [ ] SEPARATE prior editorial/source-topic QA blocker — prior 18:31 injectables/filler/Botox draft `historical 18:31 prior draft` / Airtable `historical 18:31 prior Airtable` remains API-safe but review-only/not KPI-ready: source `historical 18:31 injectables source` promised a clinic ChatGPT promo/FAQ workflow, while public slides rendered generic prompt-context guidance. This is historical/prior context; current factory output is the 17:52 safe review-only draft above.
 <!-- /ZG-SOURCE-TOPIC-EDITORIAL-QA-PRIOR-SEPARATE-2026-06-02-1831 -->
 
 <!-- ZG-SOURCE-TOPIC-EDITORIAL-QA-PRIOR-SEPARATE-2026-06-02-1719 -->
-- [ ] SEPARATE prior editorial/source-topic QA blocker — prior 17:19 Japanese/Asian restaurant draft remains API-safe but review-only/not KPI-ready: source promised a Japanese/Asian restaurant ChatGPT workflow, while public slides rendered generic prompt-context guidance. This is historical/prior context; current factory output is `6a1f4550716eeada15c465d5` above.
+- [ ] SEPARATE prior editorial/source-topic QA blocker — prior 17:19 Japanese/Asian restaurant draft remains API-safe but review-only/not KPI-ready: source promised a Japanese/Asian restaurant ChatGPT workflow, while public slides rendered generic prompt-context guidance. This is historical/prior context; current factory output is the 17:52 safe review-only draft above.
 <!-- /ZG-SOURCE-TOPIC-EDITORIAL-QA-PRIOR-SEPARATE-2026-06-02-1719 -->
 
 <!-- ZG-SOURCE-TOPIC-EDITORIAL-QA-PRIOR-SEPARATE-2026-06-02-1559 -->
-- [ ] SEPARATE prior editorial/source-topic QA blocker — prior draft `historical 15:59 prior draft` / Airtable `historical 15:59 prior Airtable` remains API-safe but review-only/not KPI-ready: source `matrix-coffee-gemini-p1` promised a cafe/dessert Gemini Sheets/Docs workflow, while public slides rendered generic prompt-context guidance. This is historical/prior context; current factory output is `6a1f4550716eeada15c465d5` above.
+- [ ] SEPARATE prior editorial/source-topic QA blocker — prior draft `historical 15:59 prior draft` / Airtable `historical 15:59 prior Airtable` remains API-safe but review-only/not KPI-ready: source `matrix-coffee-gemini-p1` promised a cafe/dessert Gemini Sheets/Docs workflow, while public slides rendered generic prompt-context guidance. This is historical/prior context; current factory output is the 17:52 safe review-only draft above.
 <!-- /ZG-SOURCE-TOPIC-EDITORIAL-QA-PRIOR-SEPARATE-2026-06-02-1559 -->
 
 
 <!-- ZG-SOURCE-TOPIC-EDITORIAL-QA-PRIOR-SEPARATE-2026-06-02-1441 -->
-- [ ] SEPARATE prior editorial/source-topic QA blocker — prior 14:41 eyewear draft remains API-safe but review-only/not KPI-ready: eyewear/accessory shop Zapier/Make source promised a lens/eye-prescription/material Q&A automation workflow, while public title/slides/caption rendered a generic AI Agent/checklist lesson with API/workflow/Make chips and no visible eyewear/เลนส์/ค่าสายตา workflow. This is historical/prior context; current factory output is `6a1f4550716eeada15c465d5` above.
+- [ ] SEPARATE prior editorial/source-topic QA blocker — prior 14:41 eyewear draft remains API-safe but review-only/not KPI-ready: eyewear/accessory shop Zapier/Make source promised a lens/eye-prescription/material Q&A automation workflow, while public title/slides/caption rendered a generic AI Agent/checklist lesson with API/workflow/Make chips and no visible eyewear/เลนส์/ค่าสายตา workflow. This is historical/prior context; current factory output is the 17:52 safe review-only draft above.
 <!-- /ZG-SOURCE-TOPIC-EDITORIAL-QA-PRIOR-SEPARATE-2026-06-02-1441 -->
 
 
 <!-- ZG-SOURCE-TOPIC-EDITORIAL-QA-PRIOR-SEPARATE-2026-06-02-1329 -->
-- [ ] SEPARATE prior editorial/source-topic QA blocker — prior draft `6a1eda9a8b75ab846cd987a7` / Airtable `rec1DsTfVxmts8YXj` remains API-safe but review-only/not KPI-ready: source `matrix-footwear-claude-p1` promised a footwear shop Claude SOP workflow, while public slides rendered generic prompt-context guidance. This is historical/prior context; current factory output is `6a1f4550716eeada15c465d5` above.
+- [ ] SEPARATE prior editorial/source-topic QA blocker — prior draft `6a1eda9a8b75ab846cd987a7` / Airtable `rec1DsTfVxmts8YXj` remains API-safe but review-only/not KPI-ready: source `matrix-footwear-claude-p1` promised a footwear shop Claude SOP workflow, while public slides rendered generic prompt-context guidance. This is historical/prior context; current factory output is the 17:52 safe review-only draft above.
 <!-- /ZG-SOURCE-TOPIC-EDITORIAL-QA-PRIOR-SEPARATE-2026-06-02-1329 -->
 
 <!-- ZG-SOURCE-TOPIC-EDITORIAL-QA-PRIOR-SEPARATE-2026-06-02-0947 -->
-- [ ] SEPARATE prior editorial/source-topic QA blocker — prior draft `historical 09:47 prior draft` / Airtable `historical 09:47 prior Airtable` remains API-safe but review-only/not KPI-ready: source `historical 09:47 prior Thai-dessert source` promised a Thai-dessert/ของฝาก ChatGPT workflow for customer storage/shipping FAQs and captions, while public slides/caption rendered a generic prompt-context lesson. This is historical/prior context; current factory output is `6a1f4550716eeada15c465d5` above.
+- [ ] SEPARATE prior editorial/source-topic QA blocker — prior draft `historical 09:47 prior draft` / Airtable `historical 09:47 prior Airtable` remains API-safe but review-only/not KPI-ready: source `historical 09:47 prior Thai-dessert source` promised a Thai-dessert/ของฝาก ChatGPT workflow for customer storage/shipping FAQs and captions, while public slides/caption rendered a generic prompt-context lesson. This is historical/prior context; current factory output is the 17:52 safe review-only draft above.
 <!-- /ZG-SOURCE-TOPIC-EDITORIAL-QA-PRIOR-SEPARATE-2026-06-02-0947 -->
 
 <!-- ZG-FACTORY-SOURCE-LANE-EXHAUSTION-HISTORICAL-2026-06-02-0831 -->
@@ -211,3 +300,6 @@
 
 <!-- ZG-SOURCE-TOPIC-EDITORIAL-QA-PRIOR-SEPARATE-2026-05-24-0912 -->
 - [ ] SEPARATE prior editorial/source-topic QA blocker: n8n source became generic AI Agent checklist; repair content-brief routing before retrying.
+
+<!-- ZG-ISSUE-CHECK-2026-06-04-0645 -->
+- **Zernio issue check 06:45:** CTA guard clean (`unsafe_count=0`); no formal breakout after 06:30 baseline + 06:31 import no-change comparison. Current issue-check superseded that older factory/readback context; current KPI blockers: 12:08 factory source-topic QA readback and overdue experiment result closure. Import and self-improvement readbacks are resolved. Owner: Hermes. Next: fix/reroute matrix/software-tip source-topic generation; close experiment results.

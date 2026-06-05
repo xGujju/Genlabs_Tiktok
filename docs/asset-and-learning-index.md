@@ -1,9 +1,9 @@
 # GenLabs Asset + Learning Index
 
-Updated: 2026-06-04 17:05:28 UTC
+Updated: 2026-06-05 16:56:32 UTC
 
-- Carousel image assets copied: 2377
-- Carousel manifests copied: 344
+- Carousel image assets copied: 2503
+- Carousel manifests copied: 362
 - Learning/operations notes copied: 21
 
 ## Carousel folders
@@ -261,6 +261,24 @@ Updated: 2026-06-04 17:05:28 UTC
 - `auto-20260604T153914Z-matrix-fertility-claude-` — 7 image(s)
 - `auto-20260604T165208Z-matrix-thaidessert-claud` — 7 image(s)
 - `auto-20260604T170109Z-matrix-staple-automation` — 1 image(s)
+- `auto-20260604T180500Z-matrix-womensapparel-cla` — 7 image(s)
+- `auto-20260604T202613Z-matrix-thaifood-chatgpt-` — 7 image(s)
+- `auto-20260604T213739Z-matrix-bbq-automation-p1` — 7 image(s)
+- `auto-20260604T225049Z-matrix-bar-chatgpt-p1` — 7 image(s)
+- `auto-20260605T000039Z-matrix-energydevice-clau` — 7 image(s)
+- `auto-20260605T011021Z-matrix-weightloss-gemini` — 7 image(s)
+- `auto-20260605T022229Z-matrix-beautysupp-automa` — 7 image(s)
+- `auto-20260605T033419Z-matrix-autoparts-chatgpt` — 7 image(s)
+- `auto-20260605T044419Z-matrix-residential-autom` — 7 image(s)
+- `auto-20260605T055618Z-matrix-furniture-chatgpt` — 7 image(s)
+- `auto-20260605T070648Z-matrix-powertool-automat` — 7 image(s)
+- `auto-20260605T081856Z-matrix-audioaccessory-ge` — 7 image(s)
+- `auto-20260605T093221Z-matrix-itretail-claude-p` — 7 image(s)
+- `auto-20260605T104507Z-matrix-medicaldevice-cha` — 7 image(s)
+- `auto-20260605T120130Z-matrix-fertility-automat` — 7 image(s)
+- `auto-20260605T131228Z-matrix-snacks-chatgpt-p1` — 7 image(s)
+- `auto-20260605T142649Z-matrix-beverage-gemini-p` — 7 image(s)
+- `auto-20260605T154356Z-matrix-sauce-claude-p1` — 7 image(s)
 - `evergreen-recovery-live-20260429T105258Z-evergreen-chatgpt-projects-sales-followup` — 5 image(s)
 - `first-public-cdn-live` — 5 image(s)
 - `first-public-cdn-live-v2` — 5 image(s)

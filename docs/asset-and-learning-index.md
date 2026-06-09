@@ -1,9 +1,9 @@
 # GenLabs Asset + Learning Index
 
-Updated: 2026-06-05 16:56:32 UTC
+Updated: 2026-06-09 16:57:25 UTC
 
-- Carousel image assets copied: 2503
-- Carousel manifests copied: 362
+- Carousel image assets copied: 2769
+- Carousel manifests copied: 400
 - Learning/operations notes copied: 21
 
 ## Carousel folders
@@ -279,6 +279,44 @@ Updated: 2026-06-05 16:56:32 UTC
 - `auto-20260605T131228Z-matrix-snacks-chatgpt-p1` — 7 image(s)
 - `auto-20260605T142649Z-matrix-beverage-gemini-p` — 7 image(s)
 - `auto-20260605T154356Z-matrix-sauce-claude-p1` — 7 image(s)
+- `auto-20260605T165937Z-matrix-thaidessert-autom` — 7 image(s)
+- `auto-20260605T180940Z-matrix-serum-chatgpt-p0` — 7 image(s)
+- `auto-20260605T192448Z-matrix-makeup-chatgpt-p1` — 7 image(s)
+- `auto-20260605T203753Z-matrix-fragrance-chatgpt` — 7 image(s)
+- `auto-20260605T214829Z-matrix-womensapparel-aut` — 7 image(s)
+- `auto-20260605T230305Z-matrix-jewelry-claude-p1` — 7 image(s)
+- `auto-20260605T231656Z-matrix-weightloss-claude` — 7 image(s)
+- `auto-20260606T003004Z-matrix-motorcycle-claude` — 7 image(s)
+- `auto-20260606T014617Z-matrix-agent-gemini-p0` — 7 image(s)
+- `auto-20260606T025954Z-matrix-appliance-gemini-` — 7 image(s)
+- `auto-20260606T043342Z-matrix-audioaccessory-cl` — 7 image(s)
+- `auto-20260606T054441Z-matrix-itretail-chatgpt-` — 7 image(s)
+- `auto-20260606T070321Z-matrix-consumerdevice-cl` — 7 image(s)
+- `auto-20260606T081519Z-matrix-dental-claude-p1` — 7 image(s)
+- `auto-20260606T092746Z-matrix-fertility-chatgpt` — 7 image(s)
+- `auto-20260606T103709Z-matrix-mensgrooming-gemi` — 7 image(s)
+- `auto-20260606T114805Z-matrix-feminine-gemini-p` — 7 image(s)
+- `auto-20260606T130516Z-matrix-beverage-claude-p` — 7 image(s)
+- `auto-20260606T141905Z-matrix-sauce-automation-` — 7 image(s)
+- `auto-20260606T153112Z-matrix-eyewear-chatgpt-p` — 7 image(s)
+- `auto-20260606T164202Z-matrix-thaifood-claude-p` — 7 image(s)
+- `auto-20260608T200556Z-matrix-japanese-gemini-p` — 7 image(s)
+- `auto-20260608T211642Z-matrix-injectables-gemin` — 7 image(s)
+- `auto-20260608T224008Z-matrix-weightloss-chatgp` — 7 image(s)
+- `auto-20260609T000120Z-matrix-ivdrip-chatgpt-p0` — 7 image(s)
+- `auto-20260609T011143Z-matrix-functionalwellnes` — 7 image(s)
+- `auto-20260609T022634Z-matrix-hairgrowth-chatgp` — 7 image(s)
+- `auto-20260609T034147Z-matrix-dealership-gemini` — 7 image(s)
+- `auto-20260609T045724Z-matrix-motorcycle-automa` — 7 image(s)
+- `auto-20260609T060835Z-matrix-agent-claude-p0` — 7 image(s)
+- `auto-20260609T072205Z-matrix-rental-chatgpt-p1` — 7 image(s)
+- `auto-20260609T083605Z-matrix-furniture-claude-` — 7 image(s)
+- `auto-20260609T095823Z-matrix-appliance-claude-` — 7 image(s)
+- `auto-20260609T111304Z-matrix-b2bcomponents-gem` — 7 image(s)
+- `auto-20260609T122647Z-matrix-consumerdevice-au` — 7 image(s)
+- `auto-20260609T134143Z-matrix-dental-automation` — 7 image(s)
+- `auto-20260609T145638Z-matrix-hairproduct-chatg` — 7 image(s)
+- `auto-20260609T161002Z-matrix-mensgrooming-clau` — 7 image(s)
 - `evergreen-recovery-live-20260429T105258Z-evergreen-chatgpt-projects-sales-followup` — 5 image(s)
 - `first-public-cdn-live` — 5 image(s)
 - `first-public-cdn-live-v2` — 5 image(s)

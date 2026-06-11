@@ -1,9 +1,9 @@
 # GenLabs Asset + Learning Index
 
-Updated: 2026-06-10 16:57:02 UTC
+Updated: 2026-06-11 16:56:40 UTC
 
-- Carousel image assets copied: 2902
-- Carousel manifests copied: 419
+- Carousel image assets copied: 3041
+- Carousel manifests copied: 438
 - Learning/operations notes copied: 21
 
 ## Carousel folders
@@ -336,6 +336,26 @@ Updated: 2026-06-10 16:57:02 UTC
 - `auto-20260610T132225Z-matrix-furniture-automat` — 7 image(s)
 - `auto-20260610T143447Z-matrix-appliance-chatgpt` — 7 image(s)
 - `auto-20260610T155321Z-matrix-kitchenware-gemin` — 7 image(s)
+- `auto-20260610T170728Z-matrix-bedding-chatgpt-p` — 7 image(s)
+- `auto-20260610T182333Z-matrix-b2bcomponents-cla` — 7 image(s)
+- `auto-20260610T193605Z-matrix-itretail-claude-p` — 6 image(s)
+- `auto-20260610T205021Z-matrix-dental-chatgpt-p0` — 7 image(s)
+- `auto-20260610T220851Z-matrix-oralcare-claude-p` — 7 image(s)
+- `auto-20260610T222224Z-matrix-feminine-chatgpt-` — 7 image(s)
+- `auto-20260610T233434Z-matrix-snacks-automation` — 7 image(s)
+- `auto-20260611T005021Z-matrix-staple-chatgpt-p1` — 7 image(s)
+- `auto-20260611T020435Z-matrix-makeup-automation` — 7 image(s)
+- `auto-20260611T031542Z-matrix-sunscreen-claude-` — 7 image(s)
+- `auto-20260611T042928Z-matrix-mensapparel-chatg` — 7 image(s)
+- `auto-20260611T055117Z-matrix-eyewear-claude-p1` — 7 image(s)
+- `auto-20260611T070252Z-matrix-bar-gemini-p1` — 7 image(s)
+- `auto-20260611T082054Z-matrix-injectables-chatg` — 7 image(s)
+- `auto-20260611T093602Z-matrix-energydevice-chat` — 7 image(s)
+- `auto-20260611T105000Z-matrix-weightloss-claude` — 7 image(s)
+- `auto-20260611T120802Z-matrix-functionalwellnes` — 7 image(s)
+- `auto-20260611T132756Z-matrix-beautysupp-chatgp` — 7 image(s)
+- `auto-20260611T144717Z-matrix-protein-claude-p0` — 7 image(s)
+- `auto-20260611T160456Z-matrix-hairgrowth-claude` — 7 image(s)
 - `evergreen-recovery-live-20260429T105258Z-evergreen-chatgpt-projects-sales-followup` — 5 image(s)
 - `first-public-cdn-live` — 5 image(s)
 - `first-public-cdn-live-v2` — 5 image(s)

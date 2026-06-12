@@ -1,18 +1,22 @@
 # Zernio Growth Memory
 
-Last updated: 2026-06-11T14:58:30Z
+
+## Factory verification — 2026-06-12 15:55 UTC
+
+- Factory 15:55 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-autoparts-claude-p0`; state `latest_social_draft_factory.json@2026-06-12T15:55:48.238578+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T154904Z-matrix-autoparts-claude-/manifest.json`; Airtable `reccdzOjQP9e4j610`; Zernio `6a2c2c0203b293a84ef4d5e8`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: public-copy and vision checks found readable, leak-free GenLabs sketchnote slides, but the source promised an auto-parts/accessories Claude document/SOP workflow for part-fit explanation, long-file summaries, checklist/staff handoff, and human verification while the public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible auto-parts, Claude, part-fit, document/SOP, or long-file summary workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T16:47:51.336234+00:00`; no lingering factory/radar process was observed at `2026-06-12T15:57:37Z`. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.
+
+## Factory verification — 2026-06-12 14:43 UTC (historical; superseded by 15:55 autoparts/Claude readback)
+
+- Factory 14:43 readback: historical exact run superseded by 15:55 autoparts/Claude readback; created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-weightloss-automation-p1`; state `latest_social_draft_factory.json@2026-06-12T14:43:42.221445+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T143720Z-matrix-weightloss-automa/manifest.json`; Airtable `rec9PCnCVuRb183Bb`; Zernio `6a2c1b1c81741d5a9422aeaa`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: public-copy and vision checks found readable, leak-free GenLabs sketchnote slides, but the source promised a weight-loss/GLP-1 Zapier/Make pre-consult screening automation workflow while the public output collapsed into generic AI-Agent/checklist/prompt-context advice with no visible clinic, GLP-1, screening, Zapier/Make trigger/action, intake, or human medical-safety verification workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T15:36:35.977475+00:00`; no lingering factory/radar process was observed at `2026-06-12T14:45:11Z`. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.
+
+
+Last updated: 2026-06-11T23:56:15+00:00
 
 ## KPI
-- Primary KPI: views/followers toward 100k views
-- Current views: 46745
-- Goal: 100000
-- Gap: 53255
-
-## Factory verification — current 2026-06-11 14:55 UTC
-- Current factory anchor: `latest_social_draft_factory.json@2026-06-11T14:55:49.962999+00:00` / Airtable `recCxNQu5qU2BK1mS` / Zernio `6a2acc74fe509c607b5c7d1e` / source `matrix-protein-claude-p0` / manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260611T144717Z-matrix-protein-claude-p0/manifest.json`.
-- Safety: live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true; rebuilt outbound payload omitted `publishNow` and `scheduledFor`, `isDraft=true`, root `tiktokSettings.draft=true`, FB/IG first-comment hash exact. Active Zernio key exposes TikTok only, so live draft is TikTok-only; FB/IG access remains a config caveat.
-- Quality: readable/leak-free but review-only/not KPI-ready because protein/plant-based Claude source collapsed into generic prompt-context advice instead of visible protein/calorie facts, Claude document/SOP or long-file summary workflow, concrete protein-brand example, staff checklist, or human verification.
-- Scheduler/process: cron `a97a7703af32` enabled/future-scheduled next `2026-06-11T15:46:43.421075+00:00`; no lingering factory/radar process at `2026-06-11T14:58:30Z` verification.
+- Goal: one TikTok post reaches **100,000 views**.
+- Best post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- Current views: 47122
+- Gap: 52878
 
 ## Winning pattern
 {
@@ -121,11 +125,11 @@ Last updated: 2026-06-11T14:58:30Z
   "status": "no_formal_breakout_current_baseline_zero_delta",
   "platform_post_id": null,
   "label": null,
-  "pre_run_snapshot_at": "2026-06-10T23:55:44.624647+00:00",
-  "latest_snapshot_at": "2026-06-10T23:55:44.624647+00:00",
-  "latest_reconciled_snapshot_at": "2026-06-10T23:55:44.624647+00:00",
-  "latest_confirmed_snapshot_at": "2026-06-10T23:55:44.624647+00:00",
-  "previous_snapshot_at": "2026-06-10T23:30:59.956117+00:00",
+  "pre_run_snapshot_at": "2026-06-11T23:55:55.351509+00:00",
+  "latest_snapshot_at": "2026-06-11T23:55:55.351509+00:00",
+  "latest_reconciled_snapshot_at": "2026-06-11T23:55:55.351509+00:00",
+  "latest_confirmed_snapshot_at": "2026-06-11T23:55:55.351509+00:00",
+  "previous_snapshot_at": "2026-06-11T23:30:17.857364+00:00",
   "latest_confirmed_delta_views": 0,
   "latest_confirmed_hourly_velocity": 0.0,
   "formal_breakout_count": 0,
@@ -133,17 +137,17 @@ Last updated: 2026-06-11T14:58:30Z
   "breakout_count": 0,
   "current_formal_candidate": null,
   "current_refresh_window_candidate": null,
-  "current_reason": "2026-06-10T23:55:44.624647+00:00 normal velocity baseline found no breakout_candidates and no watched-post movement; prior positive movement is watch-only context until a later import/baseline confirms renewed velocity.",
+  "current_reason": "2026-06-11T23:55:55.351509+00:00 normal velocity baseline found no breakout_candidates and no watched-post movement; prior positive movement is watch-only context until a later import/baseline confirms renewed velocity.",
   "best_post_watch": {
     "platform_post_id": "7634027210248097042",
     "label": "ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items",
-    "views": 46745,
-    "shares": 552,
-    "gap": 53255,
+    "views": 47122,
+    "shares": 556,
+    "gap": 52878,
     "delta": 0,
     "hourly": 0.0,
-    "analytics_last_updated": "2026-06-10 16:52:02",
-    "latest_imported_at": "2026-06-10T23:31:11.284705+00:00",
+    "analytics_last_updated": "2026-06-11 17:57:21",
+    "latest_imported_at": "2026-06-11T23:30:24.203517+00:00",
     "caveat": "Best/closest-to-100k watch only when current normal baseline has no breakout candidates; protected CTA is not hook/topic evidence."
   },
   "strongest_mover_watch": null,
@@ -152,12 +156,12 @@ Last updated: 2026-06-11T14:58:30Z
     "status": "previous_positive_momentum_watch_only_context",
     "platform_post_id": "7634027210248097042",
     "label": "ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items",
-    "views": 46745,
-    "shares": 552,
-    "gap": 53255,
-    "delta": 591,
-    "hourly": 1195.52,
-    "latest_confirmed_snapshot_at": "2026-06-10T17:30:24.476940+00:00",
+    "views": 47122,
+    "shares": 556,
+    "gap": 52878,
+    "delta": 377,
+    "hourly": 755.65,
+    "latest_confirmed_snapshot_at": "2026-06-11T18:30:32.307575+00:00",
     "note": "Superseded as current by a later normal zero-candidate baseline; keep as watch-only context until new movement is confirmed."
   },
   "public_posting": false,
@@ -168,7 +172,7 @@ Last updated: 2026-06-11T14:58:30Z
 ## Current metrics
 {
   "best_post_id": "7634027210248097042",
-  "best_views": 46745,
+  "best_views": 47122,
   "breakout_count": 0,
   "cta_guard": {
     "status": "ok",
@@ -183,101 +187,109 @@ Last updated: 2026-06-11T14:58:30Z
   "current_breakout_shares": null,
   "current_breakout_status": "no_formal_breakout_current_baseline_zero_delta",
   "current_breakout_views": null,
-  "current_issue_count": 3,
+  "current_issue_count": 4,
   "factory_scheduler_watch": {
-    "issue": "zernio_factory_source_topic_current_2026_06_11_0435",
-    "status": "draft_safe_review_only_not_kpi_ready",
+    "issue": "zernio_factory_scheduler_cadence_lag_watch",
+    "status": "resolved_current_readback",
     "severity": "high",
     "job_id": "a97a7703af32",
-    "latest_cron_output": "latest_social_draft_factory.json@2026-06-11T05:57:19.131268+00:00",
-    "latest_output": "latest_social_draft_factory.json@2026-06-11T05:57:19.131268+00:00",
-    "latest_evidence": "Factory 06:01 scheduled run created safe TikTok-only review draft `6a2a4e3d71b25aea0ffc307a` / Airtable `recXQrWSZYzP4Ds7k` from source `matrix-eyewear-claude-p1`. Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no publishNow, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted publishNow/scheduledFor and used isDraft=true/tiktokSettings.draft=true. Live `/v1/accounts` exposes TikTok only, so draft remains TikTok-only; FB/IG access remains account-access caveat. Vision/public QA: readable, sketchnote-style, leak-free, but not KPI-ready because copy collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) instead of visibly teaching the promised eyewear/glasses Claude workflow: lenses, frames, prescription/warranty/return, Claude document/SOP/product-comparison, customer-question workflow. Cron enabled/future-scheduled next `2026-06-11T07:01:56.192395+00:00`; no lingering factory/radar process verified at `2026-06-11T06:33:04Z`; no public posting/live publishing.",
-    "next_action": "Repair source-topic routing so the next draft visibly teaches the promised industry/tool workflow; prioritize ChatGPT/NotebookLM practical software tips. Keep production cron enabled/draft-only.",
-    "cron_next_run_at": "2026-06-11T07:01:56.192395+00:00",
-    "process_check": "2026-06-11T06:33:04Z",
-    "last_verified_at": "2026-06-11T06:33:04Z",
-    "source_id": "matrix-eyewear-claude-p1",
-    "zernio_draft_id": "6a2a4e3d71b25aea0ffc307a",
-    "airtable_record_id": "recXQrWSZYzP4Ds7k"
+    "latest_output": "latest_social_draft_factory.json@2026-06-12T04:51:01.080109+00:00",
+    "latest_state_token": "latest_social_draft_factory.json@2026-06-12T04:51:01.080109+00:00",
+    "last_run_at": "2026-06-11T17:31:46.168400+00:00",
+    "next_run_at": "2026-06-12T05:44:37.245771+00:00",
+    "process_check": "2026-06-12T04:52:59Z",
+    "latest_evidence": "Factory 04:51 readback created safe TikTok-only review draft `6a2b903366db4b70e2ccbbb0` / Airtable `recIpXqItp7K0PIyQ` from source `matrix-itretail-automation-p1`; state `latest_social_draft_factory.json@2026-06-12T04:51:01.080109+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T044515Z-matrix-itretail-automati/manifest.json`. Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok draft mode true. Rebuilt payload omitted `publishNow`/`scheduledFor`, used `isDraft=true` and `tiktokSettings.draft=true`. Active Zernio accounts expose TikTok only, so FB/IG are account-access caveats. Vision/public-copy QA: readable/leak-free but not KPI-ready because output collapsed into generic `บริบทก่อน คำสั่งทีหลัง` advice instead of visible B2B components ChatGPT/spec/quotation/customer-answer workflow. Cron enabled/future-scheduled; no lingering factory/radar process at 2026-06-12T03:37:16Z.",
+    "next_action": "safe TikTok-only review draft created and live Zernio draft verified; source-topic QA remains open; factory scheduler cadence current/future-scheduled by 03:28 readback"
   },
-  "factory_status": "draft-safe review-only TikTok output; scheduler readback current/future-scheduled; source-topic QA open",
+  "factory_status": "safe TikTok-only review draft created and live Zernio draft verified; source-topic QA remains open; factory scheduler cadence current/future-scheduled by 03:28 readback",
   "formal_breakout_count": 0,
-  "gap_to_100k": 53255,
+  "gap_to_100k": 52878,
   "high_share_watch_delta": 0,
   "high_share_watch_platform_post_id": null,
   "high_share_watch_shares": null,
   "high_share_watch_status": null,
   "high_share_watch_views": null,
-  "latest_absolute_snapshot_at": "2026-06-11T00:01:28.699220+00:00",
+  "latest_absolute_snapshot_at": "2026-06-11T23:56:13.943756+00:00",
   "latest_confirmed_breakout_delta": 0,
   "latest_confirmed_breakout_gap_to_100k": null,
   "latest_confirmed_breakout_hourly": 0.0,
   "latest_confirmed_breakout_platform_post_id": null,
   "latest_confirmed_breakout_shares": null,
   "latest_confirmed_breakout_views": null,
-  "latest_confirmed_snapshot_at": "2026-06-10T23:55:44.624647+00:00",
-  "latest_factory_next_run_at": "2026-06-11T07:01:56.192395+00:00",
-  "latest_factory_output": "latest_social_draft_factory.json@2026-06-11T05:57:19.131268+00:00",
+  "latest_confirmed_snapshot_at": "2026-06-11T23:55:55.351509+00:00",
+  "latest_factory_next_run_at": "2026-06-12T05:44:37.245771+00:00",
+  "latest_factory_output": "latest_social_draft_factory.json@2026-06-12T04:51:01.080109+00:00",
   "latest_import_output": "2026-06-10_18-35-21 job readback",
-  "latest_imported_at": "2026-06-11T00:00:15.706578+00:00",
-  "latest_live_imported_at": "2026-06-11T00:00:15.706578+00:00",
-  "latest_reconciled_snapshot_at": "2026-06-10T23:55:44.624647+00:00",
+  "latest_imported_at": "2026-06-11T23:30:24.203517+00:00",
+  "latest_live_imported_at": "2026-06-11T23:30:24.203517+00:00",
+  "latest_reconciled_snapshot_at": "2026-06-11T23:55:55.351509+00:00",
   "note": "Absolute metrics refreshed by zernio_growth_snapshot.py; confirmed velocity/baseline context is preserved separately.",
   "post_baseline_mover_count": 1,
   "post_import_refresh_window_delta_views": 0,
   "post_import_refresh_window_hourly": 0.0,
-  "previous_positive_delta": 591,
-  "previous_positive_hourly": 1195.52,
+  "previous_positive_delta": 377,
+  "previous_positive_hourly": 755.65,
   "previous_positive_platform_post_id": "7634027210248097042",
-  "primary_analytics_last_updated": "2026-06-10 16:52:02",
-  "primary_gap_to_100k": 53255,
-  "primary_imported_at": "2026-06-11T00:00:15.706578+00:00",
+  "primary_analytics_last_updated": "2026-06-11 17:57:21",
+  "primary_gap_to_100k": 52878,
+  "primary_imported_at": "2026-06-11T23:30:24.203517+00:00",
   "primary_latest_confirmed_delta": 0,
   "primary_latest_confirmed_hourly": 0.0,
   "primary_platform_post_id": "7634027210248097042",
-  "primary_shares": 552,
-  "primary_views": 46745,
+  "primary_shares": 556,
+  "primary_views": 47122,
   "refresh_window_breakout_count": 0,
-  "secondary_analytics_last_updated": "2026-06-10 16:52:02",
+  "secondary_analytics_last_updated": "2026-06-11 17:57:21",
   "secondary_delta": 0,
-  "secondary_gap_to_100k": 89786,
+  "secondary_gap_to_100k": 89783,
   "secondary_hourly": 0.0,
-  "secondary_imported_at": "2026-06-11T00:00:15.706578+00:00",
+  "secondary_imported_at": "2026-06-11T23:30:24.203517+00:00",
   "secondary_platform_post_id": "7635310153126087954",
   "secondary_shares": 97,
   "secondary_status": "previous_positive_momentum_watch_only_context",
-  "secondary_views": 10214,
+  "secondary_views": 10217,
   "strongest_mover_delta": 0,
   "strongest_mover_hourly": 0.0,
   "strongest_mover_platform_post_id": null,
   "strongest_mover_shares": null,
   "strongest_mover_status": "no_mover_no_formal_breakout",
   "strongest_mover_views": null,
-  "issue": "zernio_factory_source_topic_current_2026_06_11_0435",
+  "issue": "zernio_factory_source_topic_qa_current_2026_06_12_0328",
   "status": "draft_safe_review_only_not_kpi_ready",
-  "latest_evidence": "Factory 06:01 scheduled run created safe TikTok-only review draft `6a2a4e3d71b25aea0ffc307a` / Airtable `recXQrWSZYzP4Ds7k` from source `matrix-eyewear-claude-p1`. Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no publishNow, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted publishNow/scheduledFor and used isDraft=true/tiktokSettings.draft=true. Live `/v1/accounts` exposes TikTok only, so draft remains TikTok-only; FB/IG access remains account-access caveat. Vision/public QA: readable, sketchnote-style, leak-free, but not KPI-ready because copy collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) instead of visibly teaching the promised eyewear/glasses Claude workflow: lenses, frames, prescription/warranty/return, Claude document/SOP/product-comparison, customer-question workflow. Cron enabled/future-scheduled next `2026-06-11T07:01:56.192395+00:00`; no lingering factory/radar process verified at `2026-06-11T06:33:04Z`; no public posting/live publishing.",
-  "latest_cron_output": "latest_social_draft_factory.json@2026-06-11T05:57:19.131268+00:00",
-  "latest_output": "latest_social_draft_factory.json@2026-06-11T05:57:19.131268+00:00",
-  "cron_next_run_at": "2026-06-11T07:01:56.192395+00:00",
-  "process_check": "2026-06-11T06:33:04Z",
-  "last_verified_at": "2026-06-11T06:33:04Z",
-  "source_id": "matrix-eyewear-claude-p1",
-  "zernio_draft_id": "6a2a4e3d71b25aea0ffc307a",
-  "airtable_record_id": "recXQrWSZYzP4Ds7k"
+  "latest_evidence": "Factory 04:51 readback created safe TikTok-only review draft `6a2b903366db4b70e2ccbbb0` / Airtable `recIpXqItp7K0PIyQ` from source `matrix-itretail-automation-p1`; state `latest_social_draft_factory.json@2026-06-12T04:51:01.080109+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T044515Z-matrix-itretail-automati/manifest.json`. Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok draft mode true. Rebuilt payload omitted `publishNow`/`scheduledFor`, used `isDraft=true` and `tiktokSettings.draft=true`. Active Zernio accounts expose TikTok only, so FB/IG are account-access caveats. Vision/public-copy QA: readable/leak-free but not KPI-ready because output collapsed into generic `บริบทก่อน คำสั่งทีหลัง` advice instead of visible B2B components ChatGPT/spec/quotation/customer-answer workflow. Cron enabled/future-scheduled; no lingering factory/radar process at 2026-06-12T03:37:16Z.",
+  "latest_cron_output": "manual-exact-run-2026-06-12T03:28Z_current-cron-delivery-pending",
+  "latest_output": "latest_social_draft_factory.json@2026-06-12T04:51:01.080109+00:00",
+  "cron_next_run_at": "2026-06-12T05:44:37.245771+00:00",
+  "process_check": "2026-06-12T04:52:59Z",
+  "last_verified_at": "2026-06-12T04:52:59Z",
+  "source_id": "matrix-itretail-automation-p1",
+  "zernio_draft_id": "6a2b903366db4b70e2ccbbb0",
+  "airtable_record_id": "recIpXqItp7K0PIyQ",
+  "severity": "high",
+  "next_action": "Repair matrix ChatGPT source-topic routing so B2B/industrial-components drafts visibly teach ChatGPT with specs, part numbers, MOQ/lead time, quotation/customer-answer outputs, stock/price/warranty checks, and human verification; prioritize ChatGPT/NotebookLM practical software-tip sources; keep production cron enabled/draft-only.",
+  "latest_factory_draft_id": "6a2b903366db4b70e2ccbbb0",
+  "latest_factory_zernio_draft_id": "6a2b903366db4b70e2ccbbb0",
+  "latest_factory_airtable_record_id": "recIpXqItp7K0PIyQ",
+  "latest_factory_airtable_id": "recIpXqItp7K0PIyQ"
 }
 
 ## Scheduler cadence watch
 {
-  "issue": "zernio_scheduler_readback_watch_2026_06_10_0000_import_breakout_growth_experiment",
-  "latest_evidence": "Final experiment-creator readback: import output 2026-06-10_00-10-22.md and breakout output 2026-06-10_00-10-01.md delivered with ok status and next_run_at 2026-06-10T00:30:00+00:00; growth next_run_at is 2026-06-10T02:00:00+00:00; experiment next_run_at is 2026-06-10T12:00:00+00:00; factory remains future-scheduled at 2026-06-10T06:56:59.339661+00:00. Current experiment-creator markdown is in-flight until this delivery, not a scheduler miss.",
-  "next_action": "No scheduler repair. Continue result-closure and factory source-topic/editorial QA gates.",
-  "process_check": "2026-06-10T00:12:40Z",
-  "severity": "none",
-  "status": "resolved_current_tick_import_breakout_delivered_growth_experiment_not_due_or_current_output_inflight"
+  "issue": "zernio_factory_scheduler_cadence_lag_watch",
+  "status": "resolved_current_readback",
+  "severity": "high",
+  "job_id": "a97a7703af32",
+  "latest_output": "historical 23:43 factory state superseded by 03:28 readback",
+  "latest_state_token": "historical 23:43 factory state superseded by 03:28 readback",
+  "last_run_at": "2026-06-11T17:31:46.168400+00:00",
+  "next_run_at": "2026-06-12T05:44:37.245771+00:00",
+  "process_check": "2026-06-11T23:45:07+00:00",
+  "latest_evidence": "Historical 23:43 factory readback superseded by 03:28 verified the safe TikTok-only review draft `historical 23:43 Zernio draft` / Airtable `historical 23:43 Airtable record` from source `matrix-landinvest-claude-p0`. Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt payload omitted `publishNow`/`scheduledFor`, included TikTok+FB+IG with exact FB/IG first-comment hash; active /v1/accounts exposes TikTok only, so live draft is TikTok-only and FB/IG account access/config remains a caveat. Vision/public QA: readable and source/meta-leak-free, but not KPI-ready because land/property-investment Claude/SOP source collapsed into generic prompt-context advice rather than land docs, location/returns, investor explanation, Claude document summary/SOP, checklist, and human verification. Cron enabled/future-scheduled next `2026-06-12T05:44:37.245771+00:00`; no lingering factory/radar process at `2026-06-11T23:45:07+00:00`.",
+  "next_action": "safe TikTok-only review draft created and live Zernio draft verified; source-topic QA remains open; factory scheduler cadence current/future-scheduled by 03:28 readback"
 }
 
 ## Factory verification
-"Factory 06:01 scheduled run created safe TikTok-only review draft `6a2a4e3d71b25aea0ffc307a` / Airtable `recXQrWSZYzP4Ds7k` from source `matrix-eyewear-claude-p1`. Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no publishNow, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted publishNow/scheduledFor and used isDraft=true/tiktokSettings.draft=true. Live `/v1/accounts` exposes TikTok only, so draft remains TikTok-only; FB/IG access remains account-access caveat. Vision/public QA: readable, sketchnote-style, leak-free, but not KPI-ready because copy collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) instead of visibly teaching the promised eyewear/glasses Claude workflow: lenses, frames, prescription/warranty/return, Claude document/SOP/product-comparison, customer-question workflow. Cron enabled/future-scheduled next `2026-06-11T07:01:56.192395+00:00`; no lingering factory/radar process verified at `2026-06-11T06:33:04Z`; no public posting/live publishing."
+"safe TikTok-only review draft created and live Zernio draft verified; source-topic QA remains open; factory scheduler cadence current/future-scheduled by 03:28 readback"
 
 ## Current issues
 [
@@ -293,28 +305,43 @@ Last updated: 2026-06-11T14:58:30Z
     "status": "open_result_closure_backfill_before_scaling_more_experiments"
   },
   {
-    "issue": "zernio_factory_source_topic_current_2026_06_11_0435",
+    "issue": "zernio_factory_source_topic_qa_current_2026_06_12_0328",
     "status": "draft_safe_review_only_not_kpi_ready",
     "severity": "high",
     "job_id": "a97a7703af32",
-    "latest_cron_output": "latest_social_draft_factory.json@2026-06-11T05:57:19.131268+00:00",
-    "latest_output": "latest_social_draft_factory.json@2026-06-11T05:57:19.131268+00:00",
-    "latest_evidence": "Factory 06:01 scheduled run created safe TikTok-only review draft `6a2a4e3d71b25aea0ffc307a` / Airtable `recXQrWSZYzP4Ds7k` from source `matrix-eyewear-claude-p1`. Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no publishNow, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted publishNow/scheduledFor and used isDraft=true/tiktokSettings.draft=true. Live `/v1/accounts` exposes TikTok only, so draft remains TikTok-only; FB/IG access remains account-access caveat. Vision/public QA: readable, sketchnote-style, leak-free, but not KPI-ready because copy collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) instead of visibly teaching the promised eyewear/glasses Claude workflow: lenses, frames, prescription/warranty/return, Claude document/SOP/product-comparison, customer-question workflow. Cron enabled/future-scheduled next `2026-06-11T07:01:56.192395+00:00`; no lingering factory/radar process verified at `2026-06-11T06:33:04Z`; no public posting/live publishing.",
-    "next_action": "Repair source-topic routing so the next draft visibly teaches the promised industry/tool workflow; prioritize ChatGPT/NotebookLM practical software tips. Keep production cron enabled/draft-only.",
-    "cron_next_run_at": "2026-06-11T07:01:56.192395+00:00",
-    "process_check": "2026-06-11T06:33:04Z",
-    "last_verified_at": "2026-06-11T06:33:04Z",
-    "source_id": "matrix-eyewear-claude-p1",
-    "zernio_draft_id": "6a2a4e3d71b25aea0ffc307a",
-    "airtable_record_id": "recXQrWSZYzP4Ds7k"
+    "latest_cron_output": "2026-06-11_23-52-54.md",
+    "latest_output": "historical 23:43 factory state superseded by 03:28 readback",
+    "latest_evidence": "Historical 23:43 factory readback superseded by 03:28 verified the safe TikTok-only review draft `historical 23:43 Zernio draft` / Airtable `historical 23:43 Airtable record` from source `matrix-landinvest-claude-p0`. Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt payload omitted `publishNow`/`scheduledFor`, included TikTok+FB+IG with exact FB/IG first-comment hash; active /v1/accounts exposes TikTok only, so live draft is TikTok-only and FB/IG account access/config remains a caveat. Vision/public QA: readable and source/meta-leak-free, but not KPI-ready because land/property-investment Claude/SOP source collapsed into generic prompt-context advice rather than land docs, location/returns, investor explanation, Claude document summary/SOP, checklist, and human verification. Cron enabled/future-scheduled next `2026-06-12T05:44:37.245771+00:00`; no lingering factory/radar process at `2026-06-11T23:45:07+00:00`.",
+    "next_action": "Repair matrix Claude/SOP source-topic routing so land/property-investment drafts visibly teach land documents, location/return explanations, investor-facing summary, Claude-generated SOP/checklist, and human verification, or prioritize ChatGPT/NotebookLM practical software-tip sources; keep production cron enabled/draft-only.",
+    "cron_next_run_at": "2026-06-12T05:44:37.245771+00:00",
+    "process_check": "2026-06-11T23:45:07+00:00",
+    "last_verified_at": "2026-06-11T23:45:07+00:00",
+    "source_id": "matrix-landinvest-claude-p0",
+    "zernio_draft_id": "historical 23:43 Zernio draft",
+    "airtable_record_id": "historical 23:43 Airtable record"
+  },
+  {
+    "issue": "zernio_scheduler_boundary_readback_watch_2026_06_12_0000_resolved_current_tick",
+    "status": "resolved_current_tick_import_breakout_growth_experiment_factory_current_issue_check_inflight_not_scheduler_miss",
+    "severity": "medium",
+    "latest_evidence": "Issue-check final readback verified scheduler catch-up: import `2026-06-12_00-31-10.md`, breakout `2026-06-12_00-30-49.md`, growth `2026-06-12_00-11-31.md`, experiment `2026-06-12_00-10-46.md`, and factory `2026-06-11_23-52-54.md` are delivered/ok with future next_run_at values; current issue-check markdown is in-flight until delivery, not a scheduler miss. No matching import/snapshot/factory/radar/daily-log Python process at `2026-06-12T00:30:55+00:00`.",
+    "next_action": "Re-read jobs.json and cron outputs on the next tick; close this watch if 00:00 import/breakout/growth/experiment outputs appear or jobs advance future-scheduled. Do not trigger generation/spend/public posting from daily-log.",
+    "process_check": "2026-06-12T00:30:55+00:00",
+    "job_ids": [
+      "93217f974384",
+      "041946b1fef6",
+      "e7cd01098059",
+      "784e1c3b87f6"
+    ],
+    "factory_job_id": "a97a7703af32"
   }
 ]
 
 ## Last 3 useful lessons
 [
-  "Issue-check 2026-06-10T18:38Z: CTA guard clean (0 unsafe); prior blank breakout response resolved by 18:01/18:34 no-candidate outputs; memory/tasks normalized to latest 18:33 factory draft-safe review-only but not KPI-ready due B2B Claude source-topic collapse.",
-  "3-day review 2026-06-10T10:00Z: ChatGPT practical numbered work-output remains proven lane at 46,154 views / 545 shares / gap 53,846 (+2,279 views vs 2026-06-04); NotebookLM stays priority controlled source-grounded lane; factory source-topic QA + result closure are the active blockers.",
-  "Issue-check 2026-06-10T06:35Z: CTA guard clean (0 unsafe); factory 05:56 safe review-only TikTok draft is not KPI-ready due generic prompt-context collapse; result-closure backfill and factory source-topic QA remain open."
+  "Experiment-creator 2026-06-11T12:00Z: created 3 draft-only specs from current evidence: ChatGPT boss-ready progress update, NotebookLM real-doc answer cards, CapCut AI FAQ-to-15s Q&A clip; no generation/spend/public posting.",
+  "Experiment-creator 2026-06-11T00:00Z: created 3 draft-only specs from current evidence: ChatGPT one-page status report, NotebookLM source-cited team answer cards, Canva AI three-format promo kit; no generation/spend/public posting.",
+  "Issue-check 2026-06-10T18:38Z: CTA guard clean (0 unsafe); prior blank breakout response resolved by 18:01/18:34 no-candidate outputs; memory/tasks normalized to latest 18:33 factory draft-safe review-only but not KPI-ready due B2B ChatGPT source-topic collapse."
 ]
 
 ## Active experiments
@@ -675,10 +702,10 @@ Last updated: 2026-06-11T14:58:30Z
     "audience": "Thai SMEs, freelancers, shop owners, admins, and solo operators curious about AI agents but not ready for complex automation.",
     "classification": "draft_only_recovery_backlog",
     "created_at": "2026-05-15T00:11:56Z",
-    "decision_rule": "Continue/remix into LINE OA admin, clinic booking, repair quote, and lead-filter mini-agent examples if target hits; if viewers find Claude/agent too technical, rehook as “เช็กลิสต์ก่อนจ้างทำ automation”; stop after 2 misses with low comments/shares.",
+    "decision_rule": "Continue/remix into LINE OA admin, clinic booking, repair quote, and lead-filter mini-agent examples if target hits; if viewers find ChatGPT/agent too technical, rehook as “เช็กลิสต์ก่อนจ้างทำ automation”; stop after 2 misses with low comments/shares.",
     "format": "Thai handwritten/sketchnote carousel; 7 numbered tips over 8 lesson slides + reusable GenLabs CTA only at the end.",
-    "hook": "อยากเริ่มทำ AI Agent แต่ไม่รู้เริ่มตรงไหน? 7 วิธีใช้ Claude ทำ mini tool ก่อนสร้างจริง",
-    "name": "Claude Artifacts Mini AI Agent Starter — 7 tips",
+    "hook": "อยากเริ่มทำ AI Agent แต่ไม่รู้เริ่มตรงไหน? 7 วิธีใช้ ChatGPT ทำ mini tool ก่อนสร้างจริง",
+    "name": "ChatGPT Artifacts Mini AI Agent Starter — 7 tips",
     "success_metric": "2h >=220 views and >=2 shares/comments; 24h >=2,000 views or share_rate >=0.8%.",
     "target_24h": ">=2,000 views or share_rate >=0.8%; if below average but comments are strong, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for comments asking for mini-agent/Artifact templates.",
@@ -686,12 +713,12 @@ Last updated: 2026-06-11T14:58:30Z
       "เลือกงานซ้ำ 1 อย่างที่เล็กพอ เช่น คัด lead, เช็ก booking, สรุปเคสลูกค้า, หรือเตรียม reply",
       "เขียน input/output ให้ชัด: ข้อมูลที่ใส่เข้าไปคืออะไร และผลลัพธ์ที่ต้องการใช้ต่อคืออะไร",
       "วางตัวอย่างจริง 3 เคส พร้อมกฎร้าน/ทีม เช่น ห้ามรับปากเกินจริง, ต้องส่งต่อเมื่อเสี่ยง",
-      "ให้ Claude สร้าง Artifact เป็น checklist, form, table, หรือ mini dashboard ที่คนในทีมลองใช้ได้",
+      "ให้ ChatGPT สร้าง Artifact เป็น checklist, form, table, หรือ mini dashboard ที่คนในทีมลองใช้ได้",
       "ทดสอบด้วยเคสง่าย/ยาก/ขอบเขตเทา 5 เคส แล้วจดว่าตรงไหนยังต้องให้คนตัดสินใจ",
       "เพิ่มขั้น “human approval” ก่อนส่งลูกค้า/ลงระบบจริง เพื่อไม่ให้ agent ทำพลาดแบบอัตโนมัติ",
       "ถ้าทดลองแล้วช่วยได้จริง ค่อยแยกงานเป็น automation brief: trigger, action, owner, risk, และ success metric"
     ],
-    "tool": "Claude Artifacts / Claude Projects",
+    "tool": "ChatGPT Artifacts / ChatGPT Projects",
     "topic": "Validate a tiny AI-agent workflow as a checklist/form/table Artifact before spending on automation.",
     "why_views_saves": "Grounded in the previous positive watch-only context: AI Agent beginner/start-point post `7639765434664750354` had 871 views and +331 at the 17:30 baseline; 18:00/import no-change means not current velocity. The mini-tool checklist makes the agent idea concrete and saveable."
   },
@@ -978,13 +1005,13 @@ Last updated: 2026-06-11T14:58:30Z
   },
   {
     "audience": "Thai clinics, spas, repair shops, agencies, tutors, and service SMEs that quote custom packages and want a small internal tool before paying for automation.",
-    "caption": "ยังไม่ต้องจ้างทำระบบใหญ่ ลองให้ Claude ทำ quote calculator เล็ก ๆ จากราคา/แพ็กเกจ/ข้อจำกัดจริง แล้วให้ทีมทดสอบเคสยากก่อนใช้กับลูกค้า #ClaudeAI #AIสำหรับSME #ธุรกิจบริการ",
+    "caption": "ยังไม่ต้องจ้างทำระบบใหญ่ ลองให้ ChatGPT ทำ quote calculator เล็ก ๆ จากราคา/แพ็กเกจ/ข้อจำกัดจริง แล้วให้ทีมทดสอบเคสยากก่อนใช้กับลูกค้า #ChatGPTAI #AIสำหรับSME #ธุรกิจบริการ",
     "classification": "draft_only_recovery_backlog",
     "created_at": "2026-05-17T00:00:00Z",
     "decision_rule": "Continue/remix into clinic package calculator, repair quote calculator, and tutor course pricing if target hits; stop/rehook if viewers find it too technical or if share/comment signal stays weak after 2 variants.",
     "format": "Thai handwritten/sketchnote carousel; 7 numbered tips over 8 lesson slides + reusable GenLabs CTA only at the end.",
-    "hook": "คิดราคาบริการทีไรมั่วทุกที? 7 วิธีใช้ Claude Artifacts ทำ quote calculator ให้ทีมลองใช้ก่อน",
-    "name": "Claude Artifacts Service Quote Calculator — 7 tips",
+    "hook": "คิดราคาบริการทีไรมั่วทุกที? 7 วิธีใช้ ChatGPT Artifacts ทำ quote calculator ให้ทีมลองใช้ก่อน",
+    "name": "ChatGPT Artifacts Service Quote Calculator — 7 tips",
     "quality_gate": {
       "cta_counted_as_tip": false,
       "distinct_tips_count": 7,
@@ -994,16 +1021,16 @@ Last updated: 2026-06-11T14:58:30Z
     "target_24h": ">=2,000 views or share_rate >=0.8%; if comments are strong but views are below average, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for comments asking for calculator/Artifact templates.",
     "tips": [
-      "รวบรวมราคาเริ่มต้น, package, add-on, ส่วนลด, เงื่อนไข, และสิ่งที่ห้ามรับปากเกินจริงให้ Claude เห็นก่อน",
+      "รวบรวมราคาเริ่มต้น, package, add-on, ส่วนลด, เงื่อนไข, และสิ่งที่ห้ามรับปากเกินจริงให้ ChatGPT เห็นก่อน",
       "กำหนด input ที่ทีมต้องกรอก เช่น ประเภทบริการ จำนวนครั้ง งบ เวลา สถานที่ ข้อจำกัด และบริการเสริม",
-      "ขอให้ Claude สร้าง Artifact เป็นฟอร์ม + ตารางคำนวณราคา + คำอธิบายสั้นสำหรับลูกค้า",
+      "ขอให้ ChatGPT สร้าง Artifact เป็นฟอร์ม + ตารางคำนวณราคา + คำอธิบายสั้นสำหรับลูกค้า",
       "เพิ่ม rule ป้องกันพลาด: ถ้าเกินขอบเขต/มีความเสี่ยง/ราคาผิดปกติ ให้ขึ้นข้อความ “ต้องให้คนตรวจ”",
       "ทดสอบ 5 เคส: เคสง่าย, เคสส่วนลด, เคสด่วน, เคสข้อมูลไม่ครบ, และเคสที่ควรปฏิเสธหรือส่งต่อ",
-      "ให้ Claude ร่างใบเสนอราคาสั้นจากผลลัพธ์ แต่กำหนดว่าห้ามส่งลูกค้าอัตโนมัติก่อนคนตรวจ",
+      "ให้ ChatGPT ร่างใบเสนอราคาสั้นจากผลลัพธ์ แต่กำหนดว่าห้ามส่งลูกค้าอัตโนมัติก่อนคนตรวจ",
       "ถ้าทีมใช้แล้วลดเวลาคิดราคาได้จริง ให้แปลงเป็น brief สำหรับ Google Sheets, Zapier/Make, หรือ dev ต่อไป"
     ],
-    "tool": "Claude Artifacts / Claude Projects",
-    "topic": "Prototype a small quote/package calculator as a Claude Artifact before building a real automation or app.",
+    "tool": "ChatGPT Artifacts / ChatGPT Projects",
+    "topic": "Prototype a small quote/package calculator as a ChatGPT Artifact before building a real automation or app.",
     "visual_brief": "Mini quote calculator screen, service package cards, human approval stamp, and test-case checklist; avoid generic AI automation chips without the calculator workflow.",
     "why_views_saves": "Expansion test grounded in recent AI-agent/beginner automation interest (recent 72h AI Agent post at 1,142 views but below breakout). It makes “AI agent/automation” concrete with a tiny tool Thai SMEs can understand, save, and test without big spend."
   },
@@ -1441,22 +1468,22 @@ Last updated: 2026-06-11T14:58:30Z
   {
     "asset_count": 8,
     "audience": "Thai aircon/home-repair shops, field-service teams, dispatch admins, and small contractors that need a lightweight internal tool before building automation.",
-    "caption": "ยังไม่ต้องสร้างระบบใหญ่ ลองใช้ Claude ทำฟอร์มรับงานเล็ก ๆ ก่อน: รับข้อมูล → triage → brief ให้ช่าง → ให้คนอนุมัติก่อนเสนอราคา #ClaudeAI #ช่างแอร์ #AIสำหรับSME",
+    "caption": "ยังไม่ต้องสร้างระบบใหญ่ ลองใช้ ChatGPT ทำฟอร์มรับงานเล็ก ๆ ก่อน: รับข้อมูล → triage → brief ให้ช่าง → ให้คนอนุมัติก่อนเสนอราคา #ChatGPTAI #ช่างแอร์ #AIสำหรับSME",
     "classification": "draft_only_recovery_backlog",
     "created_at": "2026-05-21T00:28:12Z",
-    "cron_next_run_at": "2026-06-11T07:01:56.192395+00:00",
-    "decision_rule": "Continue/remix into cleaning, pest-control, and appliance-repair intake tools if target hits; if viewers find Claude too technical, rehook as 'ฟอร์มรับงานก่อนทำ automation'; stop after 2 misses with weak comments/shares.",
+    "cron_next_run_at": "2026-06-12T05:44:37.245771+00:00",
+    "decision_rule": "Continue/remix into cleaning, pest-control, and appliance-repair intake tools if target hits; if viewers find ChatGPT too technical, rehook as 'ฟอร์มรับงานก่อนทำ automation'; stop after 2 misses with weak comments/shares.",
     "format": "Thai handwritten/sketchnote carousel; 7 numbered tips over 8 lesson slides + reusable GenLabs CTA only at the end.",
-    "hook": "รับเคสซ่อมแอร์/งานบ้านเยอะจนหลุด? 7 วิธีใช้ Claude Artifacts ทำฟอร์มรับงานให้ทีมลองใช้ก่อน",
-    "issue": "zernio_factory_source_topic_current_2026_06_11_0435",
-    "last_verified_at": "2026-06-11T06:33:04Z",
-    "latest_evidence": "Factory 06:01 scheduled run created safe TikTok-only review draft `6a2a4e3d71b25aea0ffc307a` / Airtable `recXQrWSZYzP4Ds7k` from source `matrix-eyewear-claude-p1`. Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no publishNow, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted publishNow/scheduledFor and used isDraft=true/tiktokSettings.draft=true. Live `/v1/accounts` exposes TikTok only, so draft remains TikTok-only; FB/IG access remains account-access caveat. Vision/public QA: readable, sketchnote-style, leak-free, but not KPI-ready because copy collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) instead of visibly teaching the promised eyewear/glasses Claude workflow: lenses, frames, prescription/warranty/return, Claude document/SOP/product-comparison, customer-question workflow. Cron enabled/future-scheduled next `2026-06-11T07:01:56.192395+00:00`; no lingering factory/radar process verified at `2026-06-11T06:33:04Z`; no public posting/live publishing.",
-    "latest_output": "latest_social_draft_factory.json@2026-06-11T05:57:19.131268+00:00",
+    "hook": "รับเคสซ่อมแอร์/งานบ้านเยอะจนหลุด? 7 วิธีใช้ ChatGPT Artifacts ทำฟอร์มรับงานให้ทีมลองใช้ก่อน",
+    "issue": "zernio_factory_source_topic_qa_current_2026_06_12_0328",
+    "last_verified_at": "2026-06-11T23:45:07+00:00",
+    "latest_evidence": "Historical 23:43 factory readback superseded by 03:28 verified the safe TikTok-only review draft `historical 23:43 Zernio draft` / Airtable `historical 23:43 Airtable record` from source `matrix-landinvest-claude-p0`. Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt payload omitted `publishNow`/`scheduledFor`, included TikTok+FB+IG with exact FB/IG first-comment hash; active /v1/accounts exposes TikTok only, so live draft is TikTok-only and FB/IG account access/config remains a caveat. Vision/public QA: readable and source/meta-leak-free, but not KPI-ready because land/property-investment Claude/SOP source collapsed into generic prompt-context advice rather than land docs, location/returns, investor explanation, Claude document summary/SOP, checklist, and human verification. Cron enabled/future-scheduled next `2026-06-12T05:44:37.245771+00:00`; no lingering factory/radar process at `2026-06-11T23:45:07+00:00`.",
+    "latest_output": "historical 23:43 factory state superseded by 03:28 readback",
     "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260609T184230Z-matrix-feminine-claude-p/manifest.json",
     "media_count": 8,
-    "name": "Claude Artifacts Aircon/Home-Repair Intake Tool — 7 tips",
-    "next_action": "Repair source-topic routing/generation so auto-insurance broker + Claude document/quotation/SOP workflow is visible before manual publishing; keep production cron enabled/draft-only.",
-    "process_check": "2026-06-11T06:33:04Z",
+    "name": "ChatGPT Artifacts Aircon/Home-Repair Intake Tool — 7 tips",
+    "next_action": "Repair matrix Claude/SOP source-topic routing so land/property-investment drafts visibly teach land documents, location/return explanations, investor-facing summary, Claude-generated SOP/checklist, and human verification, or prioritize ChatGPT/NotebookLM practical software-tip sources; keep production cron enabled/draft-only.",
+    "process_check": "2026-06-11T23:45:07+00:00",
     "quality_gate": {
       "cta_counted_as_tip": false,
       "distinct_tips_count": 7,
@@ -1464,27 +1491,27 @@ Last updated: 2026-06-11T14:58:30Z
       "source_meta_public_copy": 0
     },
     "severity": "high",
-    "source_id": "matrix-eyewear-claude-p1",
+    "source_id": "matrix-landinvest-claude-p0",
     "status": "draft_safe_review_only_not_kpi_ready",
     "target_24h": ">=2,000 views or share_rate >=0.8%; if comments are strong but views are below average, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for contractors/admins asking for the Artifact/form template.",
     "tips": [
-      "รวบรวม service menu พื้นที่ให้บริการ ราคาเริ่มต้น add-on ข้อจำกัด warranty และสิ่งที่ห้ามรับปากเกินจริงให้ Claude เห็นก่อน",
+      "รวบรวม service menu พื้นที่ให้บริการ ราคาเริ่มต้น add-on ข้อจำกัด warranty และสิ่งที่ห้ามรับปากเกินจริงให้ ChatGPT เห็นก่อน",
       "กำหนด input ที่แอดมินต้องกรอก: ประเภทงาน อาการ รูป/วิดีโอ สถานที่ ความเร่งด่วน งบประมาณ ประวัติซ่อม และเวลาที่ลูกค้าสะดวก",
-      "ขอให้ Claude สร้าง Artifact เป็นฟอร์มรับงาน + ตาราง triage + checklist สิ่งที่ต้องถามเพิ่มก่อนส่งช่าง",
+      "ขอให้ ChatGPT สร้าง Artifact เป็นฟอร์มรับงาน + ตาราง triage + checklist สิ่งที่ต้องถามเพิ่มก่อนส่งช่าง",
       "เพิ่ม guardrail: ถ้าเกี่ยวกับไฟฟ้า น้ำรั่วรุนแรง แก๊ส ประกัน หรือข้อมูลไม่ครบ ให้ขึ้นข้อความ 'ต้องให้ช่าง/หัวหน้าตรวจ'",
       "ทดสอบ 5 เคสจริง: ล้างแอร์ปกติ แอร์ไม่เย็น น้ำหยด งานด่วนคอนโด และลูกค้าให้ข้อมูลไม่ครบ แล้วดูว่าแบบฟอร์มถามถูกไหม",
       "ให้ Artifact ร่างข้อความ 2 ฝั่ง: ข้อความยืนยันลูกค้า + brief ให้ช่าง พร้อมเวลานัด สิ่งที่ต้องเตรียม และข้อห้ามรับปากเกินจริง",
       "ถ้าทีมใช้แล้วลดงานหลุดได้จริง ค่อยแปลงเป็น Google Form/Sheets หรือ Zapier/Make automation โดยยังต้องให้คนอนุมัติก่อน quote/dispatch"
     ],
-    "tool": "Claude Artifacts / Claude Projects",
+    "tool": "ChatGPT Artifacts / ChatGPT Projects",
     "topic": "Prototype a small service-intake Artifact that collects job details, triages risk, estimates next checks, prepares technician handoff, and keeps human approval before quoting/dispatch.",
     "visual_brief": "Aircon/home-repair dispatch board, form fields, triage tags, technician brief card, human approval stamp, and automation-later arrow; avoid generic AI-agent chips without the intake form.",
     "why_views_saves": "Expansion test beyond ChatGPT/NotebookLM with a concrete mini-tool workflow. It addresses factory source-topic/Zernio create blocker by adding a fresh service-industry + software-tool angle, while avoiding the generic AI-agent/HR-scorecard routing failure.",
-    "zernio_draft_status": "not_sent",
-    "latest_cron_output": "latest_social_draft_factory.json@2026-06-11T05:57:19.131268+00:00",
-    "zernio_draft_id": "6a2a4e3d71b25aea0ffc307a",
-    "airtable_record_id": "recXQrWSZYzP4Ds7k"
+    "zernio_draft_status": "draft_created",
+    "latest_cron_output": "2026-06-11_23-52-54.md",
+    "zernio_draft_id": "historical 23:43 Zernio draft",
+    "airtable_record_id": "historical 23:43 Airtable record"
   },
   {
     "audience": "Thai gyms, Muay Thai/yoga/pilates studios, personal trainers, and fitness service admins following up trial-class leads.",
@@ -1801,19 +1828,19 @@ Last updated: 2026-06-11T14:58:30Z
     "caption": "ก่อนส่ง proposal/แผนงานให้ลูกค้า ลองให้ ChatGPT Canvas ช่วยไฮไลต์จุดงง ขอบเขตไม่ชัด ความเสี่ยง และสรุปส่ง LINE ให้สั้นลงก่อน #ChatGPT #ฟรีแลนซ์ #AIทำงานจริง",
     "classification": "draft_only_recovery_backlog",
     "created_at": "2026-05-24T00:00:00Z",
-    "cron_next_run_at": "2026-06-11T07:01:56.192395+00:00",
+    "cron_next_run_at": "2026-06-12T05:44:37.245771+00:00",
     "decision_rule": "If it works, remix into real-estate listing proposal, agency retainer proposal, and clinic/service package proposal versions. If it fails, rehook around “proposal อ่านไม่รู้เรื่อง = ลูกค้าไม่เซ็น”; stop after 2 misses below channel average with weak shares/comments.",
     "format": "Thai handwritten/sketchnote carousel; 7 numbered tips over 8 lesson slides + reusable GenLabs CTA only at the end.",
     "hook": "ส่ง proposal ให้ลูกค้าแล้วโดนแก้ยับ? 7 วิธีใช้ ChatGPT Canvas ตรวจเอกสารก่อนส่งจริง",
-    "issue": "zernio_factory_source_topic_current_2026_06_11_0435",
-    "last_verified_at": "2026-06-11T06:33:04Z",
-    "latest_evidence": "Factory 06:01 scheduled run created safe TikTok-only review draft `6a2a4e3d71b25aea0ffc307a` / Airtable `recXQrWSZYzP4Ds7k` from source `matrix-eyewear-claude-p1`. Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no publishNow, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted publishNow/scheduledFor and used isDraft=true/tiktokSettings.draft=true. Live `/v1/accounts` exposes TikTok only, so draft remains TikTok-only; FB/IG access remains account-access caveat. Vision/public QA: readable, sketchnote-style, leak-free, but not KPI-ready because copy collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) instead of visibly teaching the promised eyewear/glasses Claude workflow: lenses, frames, prescription/warranty/return, Claude document/SOP/product-comparison, customer-question workflow. Cron enabled/future-scheduled next `2026-06-11T07:01:56.192395+00:00`; no lingering factory/radar process verified at `2026-06-11T06:33:04Z`; no public posting/live publishing.",
-    "latest_output": "latest_social_draft_factory.json@2026-06-11T05:57:19.131268+00:00",
+    "issue": "zernio_factory_source_topic_qa_current_2026_06_12_0328",
+    "last_verified_at": "2026-06-11T23:45:07+00:00",
+    "latest_evidence": "Historical 23:43 factory readback superseded by 03:28 verified the safe TikTok-only review draft `historical 23:43 Zernio draft` / Airtable `historical 23:43 Airtable record` from source `matrix-landinvest-claude-p0`. Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt payload omitted `publishNow`/`scheduledFor`, included TikTok+FB+IG with exact FB/IG first-comment hash; active /v1/accounts exposes TikTok only, so live draft is TikTok-only and FB/IG account access/config remains a caveat. Vision/public QA: readable and source/meta-leak-free, but not KPI-ready because land/property-investment Claude/SOP source collapsed into generic prompt-context advice rather than land docs, location/returns, investor explanation, Claude document summary/SOP, checklist, and human verification. Cron enabled/future-scheduled next `2026-06-12T05:44:37.245771+00:00`; no lingering factory/radar process at `2026-06-11T23:45:07+00:00`.",
+    "latest_output": "historical 23:43 factory state superseded by 03:28 readback",
     "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260609T184230Z-matrix-feminine-claude-p/manifest.json",
     "media_count": 8,
     "name": "ChatGPT Canvas Client Proposal Polish — 7 tips",
-    "next_action": "Repair source-topic routing/generation so auto-insurance broker + Claude document/quotation/SOP workflow is visible before manual publishing; keep production cron enabled/draft-only.",
-    "process_check": "2026-06-11T06:33:04Z",
+    "next_action": "Repair matrix Claude/SOP source-topic routing so land/property-investment drafts visibly teach land documents, location/return explanations, investor-facing summary, Claude-generated SOP/checklist, and human verification, or prioritize ChatGPT/NotebookLM practical software-tip sources; keep production cron enabled/draft-only.",
+    "process_check": "2026-06-11T23:45:07+00:00",
     "quality_gate": {
       "cta_counted_as_tip": false,
       "distinct_tips_count": 7,
@@ -1836,11 +1863,11 @@ Last updated: 2026-06-11T14:58:30Z
     "tool": "ChatGPT Canvas / ChatGPT Projects",
     "topic": "Use ChatGPT Canvas to turn a rough proposal/work plan into a clearer client-ready document, scope checklist, risk note, and short LINE/email send-off.",
     "why_views_saves": "Grounded in the current KPI leader: ChatGPT practical work-output tips are at 32,072 views / 429 shares. This keeps the winning “make work output better before sending” pattern but uses a fresh ChatGPT Canvas document-review feature and a high-value freelancer/client pain, so it is saveable as a pre-send checklist.",
-    "zernio_draft_status": "not_sent",
-    "latest_cron_output": "latest_social_draft_factory.json@2026-06-11T05:57:19.131268+00:00",
-    "source_id": "matrix-eyewear-claude-p1",
-    "zernio_draft_id": "6a2a4e3d71b25aea0ffc307a",
-    "airtable_record_id": "recXQrWSZYzP4Ds7k"
+    "zernio_draft_status": "draft_created",
+    "latest_cron_output": "2026-06-11_23-52-54.md",
+    "source_id": "matrix-landinvest-claude-p0",
+    "zernio_draft_id": "historical 23:43 Zernio draft",
+    "airtable_record_id": "historical 23:43 Airtable record"
   },
   {
     "audience": "Thai insurance brokers, agency admins, SME benefit consultants, finance-service teams, and support staff answering policy/claim questions.",
@@ -2328,22 +2355,106 @@ Last updated: 2026-06-11T14:58:30Z
 ]
 
 ## Latest experiment creator
-- Checked: 2026-06-11T12:00:17Z
-- Gate: draft-only recovery backlog; no public posting, spend, or generation. Keep factory enabled/draft-only; wait for result-closure + factory source-topic/editorial QA gates.
-- Data signal: CTA-stripped ChatGPT productivity/work-output remains best at 46,745 views / 552 shares / gap 53,255; no current breakout; no posts in last 72h.
-- Specs:
-  1. `kpi-exp-0611-1200-chatgpt-boss-ready-progress-update` — ChatGPT Boss-Ready Progress Update — 8 tips.
-  2. `kpi-exp-0611-1200-notebooklm-real-doc-answer-cards` — NotebookLM Real-Doc Customer Answer Cards — 7 tips.
-  3. `kpi-exp-0611-1200-capcut-faq-to-qa-clip` — CapCut AI FAQ-to-15s Q&A Clip — 7 tips.
-- CTA guard: protected product-photo/no-prompt CTA remains promo copy only; experiments learn from educational work-output signal.
-- Final readback: Final readback 2026-06-11T12:03Z: import `2026-06-11_12-01-02.md` ok/future 12:30; breakout `2026-06-11_12-00-17.md` ok/future 12:30; growth `2026-06-11_10-03-16.md` ok/future 14:00; factory `2026-06-11_11-06-46.md` ok/future 12:06; current experiment-creator markdown is in-flight until this delivery, not a scheduler miss; no matching Python import/snapshot/factory/radar process.
+{
+  "checked_at": "2026-06-11T23:45:07+00:00",
+  "status": "draft_only_specs_created_no_generation_no_public_posting_no_spend",
+  "classification": "draft_only_recovery_backlog",
+  "data_signal": "Best/closest-to-100k remains CTA-stripped ChatGPT productivity/work-output at 46,745 views / 552 shares / gap 53,255; current snapshot has no breakout candidates, no posts in last 72h, and active result-closure/factory source-topic gates. Prioritize ChatGPT + NotebookLM practical Thai numbered tips plus one visible CapCut AI expansion test.",
+  "gate": "Draft-only specs only. Do not generate/send until result-closure and factory source-topic/editorial QA gates clear; keep factory enabled/draft-only. No public posting, spend, or generation triggered by this run.",
+  "experiments": [
+    {
+      "name": "ChatGPT Boss-Ready Progress Update — 8 tips",
+      "source_id": "matrix-landinvest-claude-p0",
+      "tool": "ChatGPT / Projects / Canvas optional",
+      "hook": "หัวหน้าถามความคืบหน้าแล้วตอบไม่ทัน? 8 วิธีใช้ ChatGPT ทำอัปเดตงานให้ดูโปรใน 10 นาที",
+      "audience": "Thai office workers, SME admins, freelancers, agency teams, sales/admin leads, and anyone sending boss/client updates.",
+      "hypothesis": "Best/closest post remains CTA-stripped ChatGPT practical productivity/work output at 46,745 views / 552 shares / gap 53,255. Boss/client status updates are a daily pain, naturally saveable, and close to the proven ChatGPT work-output winner without using the protected CTA as hook/topic.",
+      "tips": [
+        "วางโน้ตงาน แชท และตัวเลขล่าสุด แล้วบอก ChatGPT ว่าคนอ่านคือหัวหน้า ลูกค้า หรือทีมภายใน",
+        "ให้ AI สรุปงานเป็น 5 ช่อง: เป้าหมาย สถานะล่าสุด งานที่เสร็จ งานที่ค้าง และตัวเลขสำคัญ",
+        "ขอตาราง blocker: ปัญหา ผลกระทบ ใครต้องช่วย deadline และสิ่งที่ต้องตัดสินใจ",
+        "ให้ AI แยก next action เป็น วันนี้ / สัปดาห์นี้ / รออนุมัติ พร้อม owner ชัดเจน",
+        "ขอ executive summary 5 บรรทัด: headline, progress, risk, ask, next milestone",
+        "ให้ ChatGPT เปลี่ยนคำกำกวม เช่น ใกล้เสร็จ/เร็ว ๆ นี้ เป็นวันจริง ตัวเลขจริง หรือสถานะจริง",
+        "ขอเวอร์ชันส่ง LINE/email สั้น พร้อม CTA เดียว เช่น ขออนุมัติ ขอข้อมูลเพิ่ม หรือยืนยัน deadline",
+        "ก่อนส่ง ให้ AI ทำ final check: ตัวเลขถูก ชื่อถูก ไม่มีข้อมูลลับ และ next step ไม่เกิน 1–2 อย่าง"
+      ],
+      "target_2h": "≥300 views and ≥3 shares/comments; watch for comments asking for status-report/update templates.",
+      "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves are available, target ≥5 saves.",
+      "if_works": "Remix into client update, freelancer delivery report, sales pipeline update, and weekly team report variants.",
+      "if_fails": "Rehook around “รายงานงานใน 10 นาที”; stop after 2 low-share status-report variants."
+    },
+    {
+      "name": "NotebookLM Real-Doc Customer Answer Cards — 7 tips",
+      "source_id": "matrix-landinvest-claude-p0",
+      "tool": "NotebookLM / source-grounded Q&A / Audio Overview optional",
+      "hook": "ทีมตอบลูกค้าไม่ตรงกัน? 7 วิธีใช้ NotebookLM ทำ answer card จากเอกสารจริง",
+      "audience": "Thai SME owners, LINE OA admins, clinic/spa/hotel/tour/tutor/repair teams answering from policies, price lists, menus, SOPs, or service docs.",
+      "hypothesis": "NotebookLM is Thailand-priority and source-cited answer cards are team-shareable. This fixes a real trust problem and avoids generic PDF-summary content by producing usable LINE/inbox answer cards.",
+      "tips": [
+        "อัปโหลด price list, policy, FAQ, SOP, service menu, post-care note และตัวอย่างแชทที่ลบข้อมูลส่วนตัวแล้วเป็น source",
+        "ถาม NotebookLM ให้รวบรวมคำถามลูกค้าที่ทีมตอบบ่อย พร้อม citation ว่าคำตอบมาจากไฟล์ไหน",
+        "ทำ answer card 1 ใบต่อคำถาม: คำตอบสั้น เงื่อนไข ข้อมูลที่ต้องถามเพิ่ม และ next step",
+        "แบ่งคำตอบเป็นเขียว/เหลือง/แดง: ตอบได้จาก source, ต้องถามเจ้าของ/ผู้เชี่ยวชาญ, และห้ามตอบเอง",
+        "ให้ AI rewrite คำตอบเป็นภาษา LINE/inbox ที่สุภาพ สั้น และไม่รับปากเกินจริง",
+        "สร้าง quiz/roleplay 5 เคสให้ทีมซ้อมตอบก่อนใช้จริง โดยต้องอ้าง source ไม่เดาเอง",
+        "ตั้งรอบอัปเดต source ทุกครั้งที่ราคา โปร policy หรือบริการเปลี่ยน แล้วให้ NotebookLM หา card ที่ต้องแก้"
+      ],
+      "target_2h": "≥250 views and ≥3 shares/comments; watch for “ขอ answer card / FAQ template” comments.",
+      "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves are available, target ≥5 saves.",
+      "if_works": "Remix into clinic post-care, hotel/tour FAQ, repair warranty, product catalog, and HR policy answer-card versions.",
+      "if_fails": "Rehook around “ตอบผิดเสียลูกค้า”; stop after 2 weak NotebookLM answer-card variants."
+    },
+    {
+      "name": "CapCut AI FAQ-to-15s Q&A Clip — 7 tips",
+      "source_id": "matrix-landinvest-claude-p0",
+      "tool": "CapCut AI / TikTok short-video workflow",
+      "hook": "ลูกค้าถามซ้ำทุกวัน? 7 วิธีใช้ CapCut AI เปลี่ยน FAQ เป็นคลิป Q&A 15 วิ",
+      "audience": "Thai shops, clinics, spas, salons, repair shops, tutors, restaurants/cafes, TikTok sellers, and local creators with repeated customer questions.",
+      "hypothesis": "One expansion tool is needed, but it must be visible and practical. CapCut tests retention directly: FAQ-to-Q&A clips create a first-3-second hook, clear subtitles, and a reusable short-video format without drifting into product-photo/generic prompt advice.",
+      "tips": [
+        "เลือก FAQ จริง 1 ข้อจากแชท/รีวิว/หน้าร้าน เช่น ราคา ขั้นตอน เตรียมตัว ข้อห้าม หรือเวลารอ",
+        "เขียนคำตอบจาก policy/menu/price list จริง แล้วลบข้อมูลลูกค้าและเช็กกับเจ้าของก่อนใช้เป็น public script",
+        "ให้ CapCut AI ช่วยร่างสคริปต์ 35–45 คำ: คำถามของลูกค้า → คำตอบสั้น → ตัวอย่าง/หลักฐาน → next step",
+        "ทำ first 3 seconds ให้ชัด เช่น “ก่อนจองคิว ต้องรู้ข้อนี้” หรือ “ทำไมราคานี้ไม่เท่ากันทุกร้าน”",
+        "เลือกภาพ/ช็อต 3 ช่วง: คำถามบนจอ, หลักฐาน/หน้างาน/เอกสาร, และผลลัพธ์หรือขั้นตอนถัดไป",
+        "ใช้ subtitle ใหญ่ อ่านทัน และตัดคำฟุ่มเฟือย/ช่วงเงียบให้คำตอบหลักเริ่มภายใน 1–2 วินาที",
+        "ทำ A/B opening text 2 แบบ แล้วปิดด้วย CTA ที่ไม่กดดัน: คอมเมนต์คำถามถัดไป ขอ checklist ทักจองคิว หรือดูตัวอย่างเพิ่ม"
+      ],
+      "target_2h": "≥220 views and ≥2 shares/comments; watch for creators/admins asking for FAQ-to-clip templates.",
+      "target_24h": "≥2,000 views or share_rate ≥0.8%; if below average but comments/saves are strong, keep as expansion learning.",
+      "if_works": "Remix into clinic FAQ, repair price FAQ, tutor course FAQ, cafe/menu FAQ, and TikTok Shop product FAQ variants.",
+      "if_fails": "Stop CapCut variants after 2 misses or if output drifts into product-photo/promo-image instead of short-video workflow."
+    }
+  ],
+  "source_ids": [
+    "kpi-exp-0611-1200-chatgpt-boss-ready-progress-update",
+    "kpi-exp-0611-1200-notebooklm-real-doc-answer-cards",
+    "kpi-exp-0611-1200-capcut-faq-to-qa-clip"
+  ],
+  "quality_gate": {
+    "experiment_count": 3,
+    "promise_counts": [
+      8,
+      7,
+      7
+    ],
+    "cta_counted_as_tip": false,
+    "source_meta_public_copy": 0
+  },
+  "public_posting": false,
+  "spending_triggered_by_this_run": false,
+  "generation_triggered_by_this_run": false,
+  "scheduler_note": "Final readback 2026-06-11T12:03Z: import `2026-06-11_12-01-02.md` ok/future 12:30; breakout `2026-06-11_12-00-17.md` ok/future 12:30; growth `2026-06-11_10-03-16.md` ok/future 14:00; factory `2026-06-11_11-06-46.md` ok/future 12:06; current experiment-creator markdown is in-flight until this delivery, not a scheduler miss; no matching Python import/snapshot/factory/radar process."
+}
+
 ## Rule changes
 [
   "2026-06-10 3-day review: ChatGPT practical numbered work-output tips remain the only direct proven Thailand lane (46,154 views / 545 shares / gap 53,846, +2,279 views since 2026-06-04). NotebookLM remains the priority controlled source-grounded lane. Other tools stay one-at-a-time visible-tip tests only after result-closure, source-topic, duplicate-family, promised-tip, CTA-separation, and draft-only safety gates pass; generic/off-topic safe drafts are review-only, not KPI-ready.",
-  "2026-06-04 3-day review: ChatGPT practical numbered work-output tips remain the only direct proven Thailand lane (best post 43,875 views / 524 shares / gap 56,125, +11,803 views since 2026-05-25). NotebookLM remains the priority controlled source-grounded lane. Other tools (Canva AI, CapCut AI, Perplexity, Gamma, ChatGPT, Claude, Zapier/Make) stay one-at-a-time visible-tip tests only after result-closure, source-topic, duplicate-family, promised-tip, and draft-only safety gates pass.",
+  "2026-06-04 3-day review: ChatGPT practical numbered work-output tips remain the only direct proven Thailand lane (best post 43,875 views / 524 shares / gap 56,125, +11,803 views since 2026-05-25). NotebookLM remains the priority controlled source-grounded lane. Other tools (Canva AI, CapCut AI, Perplexity, Gamma, ChatGPT, ChatGPT, Zapier/Make) stay one-at-a-time visible-tip tests only after result-closure, source-topic, duplicate-family, promised-tip, and draft-only safety gates pass.",
   "Factory 22:14 readback: safe TikTok-only review draft created; scheduler current/future-scheduled; source-topic QA remains open.",
-  "2026-05-22 3-day review: direct performance proof still favors practical ChatGPT numbered work-output tips (best post 32,072 views / 429 shares). NotebookLM should be the priority controlled Thailand source-grounded lane. Canva AI, CapCut AI, Perplexity, Gamma, ChatGPT, Claude tools, and Zapier/Make are allowed only as distinct practical numbered software-tip carousels with all promised tips visible before the reusable CTA; do not force generic/duplicate drafts while result-closure/source-lane/Zernio/editorial gates are open.",
-  "2026-05-25 3-day review: KPI is flat at 32,072 views / 429 shares / gap 67,928 with no posts in the last 72h and no formal breakout; the work is production recovery, not more generic ideation. Prioritize fresh non-repeating practical numbered ChatGPT and NotebookLM carousels for Thai service workflows; use Canva AI, CapCut AI, Perplexity, Gamma, ChatGPT, Claude tools, and Zapier/Make only as distinct visible-tip software tests after result-closure/source-lane/Zernio/editorial gates clear."
+  "2026-05-22 3-day review: direct performance proof still favors practical ChatGPT numbered work-output tips (best post 32,072 views / 429 shares). NotebookLM should be the priority controlled Thailand source-grounded lane. Canva AI, CapCut AI, Perplexity, Gamma, ChatGPT, ChatGPT tools, and Zapier/Make are allowed only as distinct practical numbered software-tip carousels with all promised tips visible before the reusable CTA; do not force generic/duplicate drafts while result-closure/source-lane/Zernio/editorial gates are open.",
+  "2026-05-25 3-day review: KPI is flat at 32,072 views / 429 shares / gap 67,928 with no posts in the last 72h and no formal breakout; the work is production recovery, not more generic ideation. Prioritize fresh non-repeating practical numbered ChatGPT and NotebookLM carousels for Thai service workflows; use Canva AI, CapCut AI, Perplexity, Gamma, ChatGPT, ChatGPT tools, and Zapier/Make only as distinct visible-tip software tests after result-closure/source-lane/Zernio/editorial gates clear."
 ]
 
 ## Current operating rule

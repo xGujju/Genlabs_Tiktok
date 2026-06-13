@@ -1,22 +1,32 @@
+
+## Factory verification — current 2026-06-13 11:15Z
+- current exact command created safe TikTok-only review draft `6a2d4c7806c8feac3d6937bb` / Airtable `recOzrHzNE2xF2c8D` from source `matrix-mensgrooming-chatgpt-p1`; state `latest_social_draft_factory.json@2026-06-13T11:15:16.653019+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260613T111001Z-matrix-fertility-claude-/manifest.json`. Safety verified: Airtable draft_created, live Zernio status=draft, 8 media, no publishNow, TikTok account 69ee7188985e734bf3bb187f, TikTok draft mode true; rebuilt outbound payload omitted publishNow/scheduledFor, isDraft=true, tiktokSettings.draft=true, 8 media, title length 90, exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`. Active Zernio key exposes TikTok only (facebook=false, instagram=false), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: public/source-meta leakage scan clean and rendered slides readable, but public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) instead of the promised men’s grooming / skin-hair brand ChatGPT workflow (clinic service communication, long docs/chats, SOP/checklist/staff training, medical-safety human verification). Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-13T13:30:41.669737+00:00`; no lingering factory/radar process at `2026-06-13T12:45:00Z`. Do not manually publish until regenerated/rerouted or explicitly approved.
+- KPI note: safe review-only output, not KPI-ready until matrix source-topic routing stops collapsing into generic prompt-context copy.
+
 # Zernio Growth Memory
 
+Last updated: 2026-06-13T10:13:07Z
 
-## Factory verification — 2026-06-12 15:55 UTC
+## 3-day self-improvement current rule — 2026-06-13T10:10Z
+- KPI: CTA-stripped ChatGPT productivity/workflow post `7634027210248097042` is at **47,973 views / 568 shares / gap 52,027**; +1,819 views and +23 shares vs the 2026-06-10 3-day review, but current formal breakout count is 0 and recent 72h post count is 0.
+- Durable rule: prioritize ChatGPT practical numbered work-output tips first and NotebookLM source-grounded SOP/PDF/FAQ/team workflows second. Test Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude tools, and Zapier/Make only as exact-workflow visible-tip experiments after duplicate-family, source-topic, promised-tip, CTA, and draft-only safety gates pass.
+- System fix: factory source-topic routing must preserve exact tool + industry workflow and visible output artifacts before FAL/Zernio; generic prompt-context drafts remain review-only/not KPI-ready. Result-closure backfill remains open before scaling near-duplicates. No public posting/spend/generation from the review.
 
-- Factory 15:55 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-autoparts-claude-p0`; state `latest_social_draft_factory.json@2026-06-12T15:55:48.238578+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T154904Z-matrix-autoparts-claude-/manifest.json`; Airtable `reccdzOjQP9e4j610`; Zernio `6a2c2c0203b293a84ef4d5e8`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: public-copy and vision checks found readable, leak-free GenLabs sketchnote slides, but the source promised an auto-parts/accessories Claude document/SOP workflow for part-fit explanation, long-file summaries, checklist/staff handoff, and human verification while the public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible auto-parts, Claude, part-fit, document/SOP, or long-file summary workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T16:47:51.336234+00:00`; no lingering factory/radar process was observed at `2026-06-12T15:57:37Z`. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.
+## Factory verification
+- Current factory readback: exact command created safe TikTok-only review draft `6a2d4c7806c8feac3d6937bb` / Airtable `recOzrHzNE2xF2c8D` from source `matrix-mensgrooming-chatgpt-p1`, but it is not KPI-ready because source-topic QA failed.
+- Evidence: state `latest_social_draft_factory.json@2026-06-13T07:35:32.681286+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260613T073038Z-matrix-mensgrooming-chatgpt-p1/manifest.json`; Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, TikTok+FB+IG IDs, and exact FB/IG first-comment hash.
+- Cron/process: no lingering factory/radar process at current readback; factory cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-13T13:30:41.669737+00:00`.
+- Current blocker: editorial/source-topic routing — public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) instead of visible men’s grooming / skin-hair brand ChatGPT workflow. Active `/v1/accounts` exposes TikTok only, so FB/IG account access remains a platform caveat. No public posting/live publishing.
 
-## Factory verification — 2026-06-12 14:43 UTC (historical; superseded by 15:55 autoparts/Claude readback)
-
-- Factory 14:43 readback: historical exact run superseded by 15:55 autoparts/Claude readback; created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-weightloss-automation-p1`; state `latest_social_draft_factory.json@2026-06-12T14:43:42.221445+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T143720Z-matrix-weightloss-automa/manifest.json`; Airtable `rec9PCnCVuRb183Bb`; Zernio `6a2c1b1c81741d5a9422aeaa`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: public-copy and vision checks found readable, leak-free GenLabs sketchnote slides, but the source promised a weight-loss/GLP-1 Zapier/Make pre-consult screening automation workflow while the public output collapsed into generic AI-Agent/checklist/prompt-context advice with no visible clinic, GLP-1, screening, Zapier/Make trigger/action, intake, or human medical-safety verification workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T15:36:35.977475+00:00`; no lingering factory/radar process was observed at `2026-06-12T14:45:11Z`. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.
-
-
-Last updated: 2026-06-11T23:56:15+00:00
+## Issue-check current readback — 2026-06-13T07:35:32Z
+- CTA guard remains clean from prior issue check; `7634027210248097042` remains ChatGPT productivity/workflow evidence, not product-photo/no-prompt CTA evidence.
+- Current issues: no posts in last 72h; experiment result closure overdue; factory source-topic QA open for draft `6a2d4c7806c8feac3d6937bb`; FB/IG Zernio account access missing from active key. No public posting/spend.
 
 ## KPI
 - Goal: one TikTok post reaches **100,000 views**.
 - Best post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
-- Current views: 47122
-- Gap: 52878
+- Current views: 47973
+- Gap: 52027
 
 ## Winning pattern
 {
@@ -125,11 +135,11 @@ Last updated: 2026-06-11T23:56:15+00:00
   "status": "no_formal_breakout_current_baseline_zero_delta",
   "platform_post_id": null,
   "label": null,
-  "pre_run_snapshot_at": "2026-06-11T23:55:55.351509+00:00",
-  "latest_snapshot_at": "2026-06-11T23:55:55.351509+00:00",
-  "latest_reconciled_snapshot_at": "2026-06-11T23:55:55.351509+00:00",
-  "latest_confirmed_snapshot_at": "2026-06-11T23:55:55.351509+00:00",
-  "previous_snapshot_at": "2026-06-11T23:30:17.857364+00:00",
+  "pre_run_snapshot_at": "2026-06-13T06:30:15.604141+00:00",
+  "latest_snapshot_at": "2026-06-13T06:30:15.604141+00:00",
+  "latest_reconciled_snapshot_at": "2026-06-13T06:30:15.604141+00:00",
+  "latest_confirmed_snapshot_at": "2026-06-13T06:30:15.604141+00:00",
+  "previous_snapshot_at": "2026-06-12T23:30:09.090220+00:00",
   "latest_confirmed_delta_views": 0,
   "latest_confirmed_hourly_velocity": 0.0,
   "formal_breakout_count": 0,
@@ -137,17 +147,17 @@ Last updated: 2026-06-11T23:56:15+00:00
   "breakout_count": 0,
   "current_formal_candidate": null,
   "current_refresh_window_candidate": null,
-  "current_reason": "2026-06-11T23:55:55.351509+00:00 normal velocity baseline found no breakout_candidates and no watched-post movement; prior positive movement is watch-only context until a later import/baseline confirms renewed velocity.",
+  "current_reason": "2026-06-12T23:55:13.486373+00:00 normal velocity baseline found no breakout_candidates and no watched-post movement; prior positive movement is watch-only context until a later import/baseline confirms renewed velocity.",
   "best_post_watch": {
     "platform_post_id": "7634027210248097042",
     "label": "ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items",
-    "views": 47122,
-    "shares": 556,
-    "gap": 52878,
+    "views": 47973,
+    "shares": 568,
+    "gap": 52027,
     "delta": 0,
     "hourly": 0.0,
-    "analytics_last_updated": "2026-06-11 17:57:21",
-    "latest_imported_at": "2026-06-11T23:30:24.203517+00:00",
+    "analytics_last_updated": "2026-06-12 18:35:09",
+    "latest_imported_at": "2026-06-13T06:30:26.555112+00:00",
     "caveat": "Best/closest-to-100k watch only when current normal baseline has no breakout candidates; protected CTA is not hook/topic evidence."
   },
   "strongest_mover_watch": null,
@@ -156,12 +166,12 @@ Last updated: 2026-06-11T23:56:15+00:00
     "status": "previous_positive_momentum_watch_only_context",
     "platform_post_id": "7634027210248097042",
     "label": "ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items",
-    "views": 47122,
-    "shares": 556,
-    "gap": 52878,
-    "delta": 377,
-    "hourly": 755.65,
-    "latest_confirmed_snapshot_at": "2026-06-11T18:30:32.307575+00:00",
+    "views": 47973,
+    "shares": 568,
+    "gap": 52027,
+    "delta": 851,
+    "hourly": 1991.15,
+    "latest_confirmed_snapshot_at": "2026-06-12T19:00:35.010072+00:00",
     "note": "Superseded as current by a later normal zero-candidate baseline; keep as watch-only context until new movement is confirmed."
   },
   "public_posting": false,
@@ -171,9 +181,11 @@ Last updated: 2026-06-11T23:56:15+00:00
 
 ## Current metrics
 {
+  "airtable_record_id": "recX6AnTauR8PS8fn",
   "best_post_id": "7634027210248097042",
-  "best_views": 47122,
+  "best_views": 47973,
   "breakout_count": 0,
+  "cron_next_run_at": "2026-06-12T19:33:55.879772+00:00",
   "cta_guard": {
     "status": "ok",
     "unsafe_count": 0
@@ -187,109 +199,124 @@ Last updated: 2026-06-11T23:56:15+00:00
   "current_breakout_shares": null,
   "current_breakout_status": "no_formal_breakout_current_baseline_zero_delta",
   "current_breakout_views": null,
-  "current_issue_count": 4,
+  "current_issue_count": 3,
   "factory_scheduler_watch": {
-    "issue": "zernio_factory_scheduler_cadence_lag_watch",
-    "status": "resolved_current_readback",
-    "severity": "high",
+    "issue": "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
     "job_id": "a97a7703af32",
-    "latest_output": "latest_social_draft_factory.json@2026-06-12T04:51:01.080109+00:00",
-    "latest_state_token": "latest_social_draft_factory.json@2026-06-12T04:51:01.080109+00:00",
     "last_run_at": "2026-06-11T17:31:46.168400+00:00",
-    "next_run_at": "2026-06-12T05:44:37.245771+00:00",
-    "process_check": "2026-06-12T04:52:59Z",
-    "latest_evidence": "Factory 04:51 readback created safe TikTok-only review draft `6a2b903366db4b70e2ccbbb0` / Airtable `recIpXqItp7K0PIyQ` from source `matrix-itretail-automation-p1`; state `latest_social_draft_factory.json@2026-06-12T04:51:01.080109+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T044515Z-matrix-itretail-automati/manifest.json`. Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok draft mode true. Rebuilt payload omitted `publishNow`/`scheduledFor`, used `isDraft=true` and `tiktokSettings.draft=true`. Active Zernio accounts expose TikTok only, so FB/IG are account-access caveats. Vision/public-copy QA: readable/leak-free but not KPI-ready because output collapsed into generic `บริบทก่อน คำสั่งทีหลัง` advice instead of visible B2B components ChatGPT/spec/quotation/customer-answer workflow. Cron enabled/future-scheduled; no lingering factory/radar process at 2026-06-12T03:37:16Z.",
-    "next_action": "safe TikTok-only review draft created and live Zernio draft verified; source-topic QA remains open; factory scheduler cadence current/future-scheduled by 03:28 readback"
+    "latest_evidence": "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
+    "latest_output": "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
+    "latest_state_token": "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
+    "next_action": "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
+    "next_run_at": "2026-06-12T19:33:55.879772+00:00",
+    "process_check": "2026-06-12T18:37:18Z",
+    "severity": "high",
+    "status": "resolved_current_readback"
   },
-  "factory_status": "safe TikTok-only review draft created and live Zernio draft verified; source-topic QA remains open; factory scheduler cadence current/future-scheduled by 03:28 readback",
+  "factory_status": "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
   "formal_breakout_count": 0,
-  "gap_to_100k": 52878,
+  "gap_to_100k": 52027,
   "high_share_watch_delta": 0,
   "high_share_watch_platform_post_id": null,
   "high_share_watch_shares": null,
   "high_share_watch_status": null,
   "high_share_watch_views": null,
-  "latest_absolute_snapshot_at": "2026-06-11T23:56:13.943756+00:00",
+  "issue": "zernio_factory_source_topic_qa_current_2026_06_12_2051",
+  "last_verified_at": "2026-06-12T18:37:18Z",
+  "latest_absolute_snapshot_at": "2026-06-12T23:58:03.059033+00:00",
   "latest_confirmed_breakout_delta": 0,
   "latest_confirmed_breakout_gap_to_100k": null,
   "latest_confirmed_breakout_hourly": 0.0,
   "latest_confirmed_breakout_platform_post_id": null,
   "latest_confirmed_breakout_shares": null,
   "latest_confirmed_breakout_views": null,
-  "latest_confirmed_snapshot_at": "2026-06-11T23:55:55.351509+00:00",
-  "latest_factory_next_run_at": "2026-06-12T05:44:37.245771+00:00",
-  "latest_factory_output": "latest_social_draft_factory.json@2026-06-12T04:51:01.080109+00:00",
+  "latest_confirmed_snapshot_at": "2026-06-13T06:30:15.604141+00:00",
+  "latest_cron_output": "2026-06-13_12-30-40.md",
+  "latest_evidence": "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
+  "latest_factory_airtable_id": "receG4pxj7kMFap63",
+  "latest_factory_airtable_record_id": "receG4pxj7kMFap63",
+  "latest_factory_draft_id": "6a2c713926075d44561f1451",
+  "latest_factory_next_run_at": "2026-06-12T21:44:28.544011+00:00",
+  "latest_factory_output": "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
+  "latest_factory_zernio_draft_id": "6a2c713926075d44561f1451",
   "latest_import_output": "2026-06-10_18-35-21 job readback",
-  "latest_imported_at": "2026-06-11T23:30:24.203517+00:00",
-  "latest_live_imported_at": "2026-06-11T23:30:24.203517+00:00",
-  "latest_reconciled_snapshot_at": "2026-06-11T23:55:55.351509+00:00",
+  "latest_imported_at": "2026-06-13T06:30:26.555112+00:00",
+  "latest_live_imported_at": "2026-06-12T23:30:24.530504+00:00",
+  "latest_output": "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
+  "latest_reconciled_snapshot_at": "2026-06-13T06:30:15.604141+00:00",
+  "next_action": "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
   "note": "Absolute metrics refreshed by zernio_growth_snapshot.py; confirmed velocity/baseline context is preserved separately.",
   "post_baseline_mover_count": 1,
   "post_import_refresh_window_delta_views": 0,
   "post_import_refresh_window_hourly": 0.0,
-  "previous_positive_delta": 377,
-  "previous_positive_hourly": 755.65,
+  "previous_positive_delta": 851,
+  "previous_positive_hourly": 1991.15,
   "previous_positive_platform_post_id": "7634027210248097042",
-  "primary_analytics_last_updated": "2026-06-11 17:57:21",
-  "primary_gap_to_100k": 52878,
-  "primary_imported_at": "2026-06-11T23:30:24.203517+00:00",
+  "primary_analytics_last_updated": "2026-06-12 18:35:09",
+  "primary_gap_to_100k": 52027,
+  "primary_imported_at": "2026-06-12T23:30:24.530504+00:00",
   "primary_latest_confirmed_delta": 0,
   "primary_latest_confirmed_hourly": 0.0,
   "primary_platform_post_id": "7634027210248097042",
-  "primary_shares": 556,
-  "primary_views": 47122,
+  "primary_shares": 568,
+  "primary_views": 47973,
+  "process_check": "2026-06-12T18:37:18Z",
   "refresh_window_breakout_count": 0,
-  "secondary_analytics_last_updated": "2026-06-11 17:57:21",
+  "scheduler_readback_watch": {
+    "issue": "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
+    "latest_evidence": "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
+    "next_action": "Keep normal monitoring; no scheduler repair/generation/spend/public posting.",
+    "process_check": "2026-06-12T00:30:55+00:00",
+    "resolved_job_ids": [
+      "93217f974384",
+      "041946b1fef6",
+      "e7cd01098059",
+      "784e1c3b87f6",
+      "a97a7703af32"
+    ],
+    "severity": "info",
+    "status": "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing."
+  },
+  "secondary_analytics_last_updated": "2026-06-12 18:35:09",
   "secondary_delta": 0,
   "secondary_gap_to_100k": 89783,
   "secondary_hourly": 0.0,
-  "secondary_imported_at": "2026-06-11T23:30:24.203517+00:00",
+  "secondary_imported_at": "2026-06-12T23:30:24.530504+00:00",
   "secondary_platform_post_id": "7635310153126087954",
   "secondary_shares": 97,
   "secondary_status": "previous_positive_momentum_watch_only_context",
   "secondary_views": 10217,
+  "severity": "high",
+  "source_id": "matrix-agent-chatgpt-p0",
+  "status": "draft_safe_review_only_not_kpi_ready",
   "strongest_mover_delta": 0,
   "strongest_mover_hourly": 0.0,
   "strongest_mover_platform_post_id": null,
   "strongest_mover_shares": null,
   "strongest_mover_status": "no_mover_no_formal_breakout",
   "strongest_mover_views": null,
-  "issue": "zernio_factory_source_topic_qa_current_2026_06_12_0328",
-  "status": "draft_safe_review_only_not_kpi_ready",
-  "latest_evidence": "Factory 04:51 readback created safe TikTok-only review draft `6a2b903366db4b70e2ccbbb0` / Airtable `recIpXqItp7K0PIyQ` from source `matrix-itretail-automation-p1`; state `latest_social_draft_factory.json@2026-06-12T04:51:01.080109+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T044515Z-matrix-itretail-automati/manifest.json`. Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok draft mode true. Rebuilt payload omitted `publishNow`/`scheduledFor`, used `isDraft=true` and `tiktokSettings.draft=true`. Active Zernio accounts expose TikTok only, so FB/IG are account-access caveats. Vision/public-copy QA: readable/leak-free but not KPI-ready because output collapsed into generic `บริบทก่อน คำสั่งทีหลัง` advice instead of visible B2B components ChatGPT/spec/quotation/customer-answer workflow. Cron enabled/future-scheduled; no lingering factory/radar process at 2026-06-12T03:37:16Z.",
-  "latest_cron_output": "manual-exact-run-2026-06-12T03:28Z_current-cron-delivery-pending",
-  "latest_output": "latest_social_draft_factory.json@2026-06-12T04:51:01.080109+00:00",
-  "cron_next_run_at": "2026-06-12T05:44:37.245771+00:00",
-  "process_check": "2026-06-12T04:52:59Z",
-  "last_verified_at": "2026-06-12T04:52:59Z",
-  "source_id": "matrix-itretail-automation-p1",
-  "zernio_draft_id": "6a2b903366db4b70e2ccbbb0",
-  "airtable_record_id": "recIpXqItp7K0PIyQ",
-  "severity": "high",
-  "next_action": "Repair matrix ChatGPT source-topic routing so B2B/industrial-components drafts visibly teach ChatGPT with specs, part numbers, MOQ/lead time, quotation/customer-answer outputs, stock/price/warranty checks, and human verification; prioritize ChatGPT/NotebookLM practical software-tip sources; keep production cron enabled/draft-only.",
-  "latest_factory_draft_id": "6a2b903366db4b70e2ccbbb0",
-  "latest_factory_zernio_draft_id": "6a2b903366db4b70e2ccbbb0",
-  "latest_factory_airtable_record_id": "recIpXqItp7K0PIyQ",
-  "latest_factory_airtable_id": "recIpXqItp7K0PIyQ"
+  "zernio_draft_id": "6a2c713926075d44561f1451"
 }
 
 ## Scheduler cadence watch
 {
-  "issue": "zernio_factory_scheduler_cadence_lag_watch",
-  "status": "resolved_current_readback",
-  "severity": "high",
-  "job_id": "a97a7703af32",
-  "latest_output": "historical 23:43 factory state superseded by 03:28 readback",
-  "latest_state_token": "historical 23:43 factory state superseded by 03:28 readback",
-  "last_run_at": "2026-06-11T17:31:46.168400+00:00",
-  "next_run_at": "2026-06-12T05:44:37.245771+00:00",
-  "process_check": "2026-06-11T23:45:07+00:00",
-  "latest_evidence": "Historical 23:43 factory readback superseded by 03:28 verified the safe TikTok-only review draft `historical 23:43 Zernio draft` / Airtable `historical 23:43 Airtable record` from source `matrix-landinvest-claude-p0`. Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt payload omitted `publishNow`/`scheduledFor`, included TikTok+FB+IG with exact FB/IG first-comment hash; active /v1/accounts exposes TikTok only, so live draft is TikTok-only and FB/IG account access/config remains a caveat. Vision/public QA: readable and source/meta-leak-free, but not KPI-ready because land/property-investment Claude/SOP source collapsed into generic prompt-context advice rather than land docs, location/returns, investor explanation, Claude document summary/SOP, checklist, and human verification. Cron enabled/future-scheduled next `2026-06-12T05:44:37.245771+00:00`; no lingering factory/radar process at `2026-06-11T23:45:07+00:00`.",
-  "next_action": "safe TikTok-only review draft created and live Zernio draft verified; source-topic QA remains open; factory scheduler cadence current/future-scheduled by 03:28 readback"
+  "issue": "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
+  "latest_evidence": "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
+  "next_action": "Keep normal scheduled monitoring; do not trigger generation/spend/public posting from issue-check.",
+  "process_check": "2026-06-12T00:30:55+00:00",
+  "resolved_job_ids": [
+    "93217f974384",
+    "041946b1fef6",
+    "e7cd01098059",
+    "784e1c3b87f6",
+    "a97a7703af32"
+  ],
+  "severity": "info",
+  "status": "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing."
 }
 
 ## Factory verification
-"safe TikTok-only review draft created and live Zernio draft verified; source-topic QA remains open; factory scheduler cadence current/future-scheduled by 03:28 readback"
+"Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing."
 
 ## Current issues
 [
@@ -305,43 +332,28 @@ Last updated: 2026-06-11T23:56:15+00:00
     "status": "open_result_closure_backfill_before_scaling_more_experiments"
   },
   {
-    "issue": "zernio_factory_source_topic_qa_current_2026_06_12_0328",
-    "status": "draft_safe_review_only_not_kpi_ready",
-    "severity": "high",
+    "airtable_record_id": "recX6AnTauR8PS8fn",
+    "cron_next_run_at": "2026-06-12T19:33:55.879772+00:00",
+    "issue": "zernio_factory_source_topic_qa_current_2026_06_12_2051",
     "job_id": "a97a7703af32",
-    "latest_cron_output": "2026-06-11_23-52-54.md",
-    "latest_output": "historical 23:43 factory state superseded by 03:28 readback",
-    "latest_evidence": "Historical 23:43 factory readback superseded by 03:28 verified the safe TikTok-only review draft `historical 23:43 Zernio draft` / Airtable `historical 23:43 Airtable record` from source `matrix-landinvest-claude-p0`. Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt payload omitted `publishNow`/`scheduledFor`, included TikTok+FB+IG with exact FB/IG first-comment hash; active /v1/accounts exposes TikTok only, so live draft is TikTok-only and FB/IG account access/config remains a caveat. Vision/public QA: readable and source/meta-leak-free, but not KPI-ready because land/property-investment Claude/SOP source collapsed into generic prompt-context advice rather than land docs, location/returns, investor explanation, Claude document summary/SOP, checklist, and human verification. Cron enabled/future-scheduled next `2026-06-12T05:44:37.245771+00:00`; no lingering factory/radar process at `2026-06-11T23:45:07+00:00`.",
-    "next_action": "Repair matrix Claude/SOP source-topic routing so land/property-investment drafts visibly teach land documents, location/return explanations, investor-facing summary, Claude-generated SOP/checklist, and human verification, or prioritize ChatGPT/NotebookLM practical software-tip sources; keep production cron enabled/draft-only.",
-    "cron_next_run_at": "2026-06-12T05:44:37.245771+00:00",
-    "process_check": "2026-06-11T23:45:07+00:00",
-    "last_verified_at": "2026-06-11T23:45:07+00:00",
-    "source_id": "matrix-landinvest-claude-p0",
-    "zernio_draft_id": "historical 23:43 Zernio draft",
-    "airtable_record_id": "historical 23:43 Airtable record"
-  },
-  {
-    "issue": "zernio_scheduler_boundary_readback_watch_2026_06_12_0000_resolved_current_tick",
-    "status": "resolved_current_tick_import_breakout_growth_experiment_factory_current_issue_check_inflight_not_scheduler_miss",
-    "severity": "medium",
-    "latest_evidence": "Issue-check final readback verified scheduler catch-up: import `2026-06-12_00-31-10.md`, breakout `2026-06-12_00-30-49.md`, growth `2026-06-12_00-11-31.md`, experiment `2026-06-12_00-10-46.md`, and factory `2026-06-11_23-52-54.md` are delivered/ok with future next_run_at values; current issue-check markdown is in-flight until delivery, not a scheduler miss. No matching import/snapshot/factory/radar/daily-log Python process at `2026-06-12T00:30:55+00:00`.",
-    "next_action": "Re-read jobs.json and cron outputs on the next tick; close this watch if 00:00 import/breakout/growth/experiment outputs appear or jobs advance future-scheduled. Do not trigger generation/spend/public posting from daily-log.",
-    "process_check": "2026-06-12T00:30:55+00:00",
-    "job_ids": [
-      "93217f974384",
-      "041946b1fef6",
-      "e7cd01098059",
-      "784e1c3b87f6"
-    ],
-    "factory_job_id": "a97a7703af32"
+    "last_verified_at": "2026-06-12T18:37:18Z",
+    "latest_cron_output": "2026-06-13_12-30-40.md",
+    "latest_evidence": "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
+    "latest_output": "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
+    "next_action": "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
+    "process_check": "2026-06-12T18:37:18Z",
+    "severity": "high",
+    "source_id": "matrix-agent-chatgpt-p0",
+    "status": "draft_safe_review_only_not_kpi_ready",
+    "zernio_draft_id": "6a2c713926075d44561f1451"
   }
 ]
 
 ## Last 3 useful lessons
 [
-  "Experiment-creator 2026-06-11T12:00Z: created 3 draft-only specs from current evidence: ChatGPT boss-ready progress update, NotebookLM real-doc answer cards, CapCut AI FAQ-to-15s Q&A clip; no generation/spend/public posting.",
-  "Experiment-creator 2026-06-11T00:00Z: created 3 draft-only specs from current evidence: ChatGPT one-page status report, NotebookLM source-cited team answer cards, Canva AI three-format promo kit; no generation/spend/public posting.",
-  "Issue-check 2026-06-10T18:38Z: CTA guard clean (0 unsafe); prior blank breakout response resolved by 18:01/18:34 no-candidate outputs; memory/tasks normalized to latest 18:33 factory draft-safe review-only but not KPI-ready due B2B ChatGPT source-topic collapse."
+  "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
+  "Growth-check 2026-06-12T14:00Z: normal baseline found no formal breakout/no watched-post movement; best remains CTA-stripped ChatGPT productivity at 47,122 views / 556 shares / gap 52,878; CTA guard clean and no generation/spend/public posting.",
+  "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing."
 ]
 
 ## Active experiments
@@ -1466,24 +1478,26 @@ Last updated: 2026-06-11T23:56:15+00:00
     "why_views_saves": "NotebookLM is the priority Thailand controlled-source lane. Elder-care/family communication is high-trust, high-anxiety, and team-shareable; answer cards and handover checklists are practical enough to save."
   },
   {
+    "airtable_record_id": "recX6AnTauR8PS8fn",
     "asset_count": 8,
     "audience": "Thai aircon/home-repair shops, field-service teams, dispatch admins, and small contractors that need a lightweight internal tool before building automation.",
     "caption": "ยังไม่ต้องสร้างระบบใหญ่ ลองใช้ ChatGPT ทำฟอร์มรับงานเล็ก ๆ ก่อน: รับข้อมูล → triage → brief ให้ช่าง → ให้คนอนุมัติก่อนเสนอราคา #ChatGPTAI #ช่างแอร์ #AIสำหรับSME",
     "classification": "draft_only_recovery_backlog",
     "created_at": "2026-05-21T00:28:12Z",
-    "cron_next_run_at": "2026-06-12T05:44:37.245771+00:00",
+    "cron_next_run_at": "2026-06-12T19:33:55.879772+00:00",
     "decision_rule": "Continue/remix into cleaning, pest-control, and appliance-repair intake tools if target hits; if viewers find ChatGPT too technical, rehook as 'ฟอร์มรับงานก่อนทำ automation'; stop after 2 misses with weak comments/shares.",
     "format": "Thai handwritten/sketchnote carousel; 7 numbered tips over 8 lesson slides + reusable GenLabs CTA only at the end.",
     "hook": "รับเคสซ่อมแอร์/งานบ้านเยอะจนหลุด? 7 วิธีใช้ ChatGPT Artifacts ทำฟอร์มรับงานให้ทีมลองใช้ก่อน",
-    "issue": "zernio_factory_source_topic_qa_current_2026_06_12_0328",
-    "last_verified_at": "2026-06-11T23:45:07+00:00",
-    "latest_evidence": "Historical 23:43 factory readback superseded by 03:28 verified the safe TikTok-only review draft `historical 23:43 Zernio draft` / Airtable `historical 23:43 Airtable record` from source `matrix-landinvest-claude-p0`. Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt payload omitted `publishNow`/`scheduledFor`, included TikTok+FB+IG with exact FB/IG first-comment hash; active /v1/accounts exposes TikTok only, so live draft is TikTok-only and FB/IG account access/config remains a caveat. Vision/public QA: readable and source/meta-leak-free, but not KPI-ready because land/property-investment Claude/SOP source collapsed into generic prompt-context advice rather than land docs, location/returns, investor explanation, Claude document summary/SOP, checklist, and human verification. Cron enabled/future-scheduled next `2026-06-12T05:44:37.245771+00:00`; no lingering factory/radar process at `2026-06-11T23:45:07+00:00`.",
-    "latest_output": "historical 23:43 factory state superseded by 03:28 readback",
+    "issue": "zernio_factory_source_topic_qa_current_2026_06_12_2051",
+    "last_verified_at": "2026-06-12T18:37:18Z",
+    "latest_cron_output": "2026-06-13_12-30-40.md",
+    "latest_evidence": "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
+    "latest_output": "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
     "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260609T184230Z-matrix-feminine-claude-p/manifest.json",
     "media_count": 8,
     "name": "ChatGPT Artifacts Aircon/Home-Repair Intake Tool — 7 tips",
-    "next_action": "Repair matrix Claude/SOP source-topic routing so land/property-investment drafts visibly teach land documents, location/return explanations, investor-facing summary, Claude-generated SOP/checklist, and human verification, or prioritize ChatGPT/NotebookLM practical software-tip sources; keep production cron enabled/draft-only.",
-    "process_check": "2026-06-11T23:45:07+00:00",
+    "next_action": "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
+    "process_check": "2026-06-12T18:37:18Z",
     "quality_gate": {
       "cta_counted_as_tip": false,
       "distinct_tips_count": 7,
@@ -1491,7 +1505,7 @@ Last updated: 2026-06-11T23:56:15+00:00
       "source_meta_public_copy": 0
     },
     "severity": "high",
-    "source_id": "matrix-landinvest-claude-p0",
+    "source_id": "matrix-agent-chatgpt-p0",
     "status": "draft_safe_review_only_not_kpi_ready",
     "target_24h": ">=2,000 views or share_rate >=0.8%; if comments are strong but views are below average, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for contractors/admins asking for the Artifact/form template.",
@@ -1508,10 +1522,8 @@ Last updated: 2026-06-11T23:56:15+00:00
     "topic": "Prototype a small service-intake Artifact that collects job details, triages risk, estimates next checks, prepares technician handoff, and keeps human approval before quoting/dispatch.",
     "visual_brief": "Aircon/home-repair dispatch board, form fields, triage tags, technician brief card, human approval stamp, and automation-later arrow; avoid generic AI-agent chips without the intake form.",
     "why_views_saves": "Expansion test beyond ChatGPT/NotebookLM with a concrete mini-tool workflow. It addresses factory source-topic/Zernio create blocker by adding a fresh service-industry + software-tool angle, while avoiding the generic AI-agent/HR-scorecard routing failure.",
-    "zernio_draft_status": "draft_created",
-    "latest_cron_output": "2026-06-11_23-52-54.md",
-    "zernio_draft_id": "historical 23:43 Zernio draft",
-    "airtable_record_id": "historical 23:43 Airtable record"
+    "zernio_draft_id": "6a2c713926075d44561f1451",
+    "zernio_draft_status": "6a2c713926075d44561f1451"
   },
   {
     "audience": "Thai gyms, Muay Thai/yoga/pilates studios, personal trainers, and fitness service admins following up trial-class leads.",
@@ -1823,24 +1835,26 @@ Last updated: 2026-06-11T23:56:15+00:00
     "why_views_saves": "Expansion tool test with clear money-risk utility. It is distinct from prior Perplexity competitor/vendor/content-gap ideas because the output is a booth/event go-no-go checklist with citations and break-even math that Thai SMEs can save before spending."
   },
   {
+    "airtable_record_id": "recX6AnTauR8PS8fn",
     "asset_count": 8,
     "audience": "Thai freelancers, agencies, consultants, real-estate/service-SME sales teams, and operators sending proposals or work plans to clients.",
     "caption": "ก่อนส่ง proposal/แผนงานให้ลูกค้า ลองให้ ChatGPT Canvas ช่วยไฮไลต์จุดงง ขอบเขตไม่ชัด ความเสี่ยง และสรุปส่ง LINE ให้สั้นลงก่อน #ChatGPT #ฟรีแลนซ์ #AIทำงานจริง",
     "classification": "draft_only_recovery_backlog",
     "created_at": "2026-05-24T00:00:00Z",
-    "cron_next_run_at": "2026-06-12T05:44:37.245771+00:00",
+    "cron_next_run_at": "2026-06-12T19:33:55.879772+00:00",
     "decision_rule": "If it works, remix into real-estate listing proposal, agency retainer proposal, and clinic/service package proposal versions. If it fails, rehook around “proposal อ่านไม่รู้เรื่อง = ลูกค้าไม่เซ็น”; stop after 2 misses below channel average with weak shares/comments.",
     "format": "Thai handwritten/sketchnote carousel; 7 numbered tips over 8 lesson slides + reusable GenLabs CTA only at the end.",
     "hook": "ส่ง proposal ให้ลูกค้าแล้วโดนแก้ยับ? 7 วิธีใช้ ChatGPT Canvas ตรวจเอกสารก่อนส่งจริง",
-    "issue": "zernio_factory_source_topic_qa_current_2026_06_12_0328",
-    "last_verified_at": "2026-06-11T23:45:07+00:00",
-    "latest_evidence": "Historical 23:43 factory readback superseded by 03:28 verified the safe TikTok-only review draft `historical 23:43 Zernio draft` / Airtable `historical 23:43 Airtable record` from source `matrix-landinvest-claude-p0`. Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt payload omitted `publishNow`/`scheduledFor`, included TikTok+FB+IG with exact FB/IG first-comment hash; active /v1/accounts exposes TikTok only, so live draft is TikTok-only and FB/IG account access/config remains a caveat. Vision/public QA: readable and source/meta-leak-free, but not KPI-ready because land/property-investment Claude/SOP source collapsed into generic prompt-context advice rather than land docs, location/returns, investor explanation, Claude document summary/SOP, checklist, and human verification. Cron enabled/future-scheduled next `2026-06-12T05:44:37.245771+00:00`; no lingering factory/radar process at `2026-06-11T23:45:07+00:00`.",
-    "latest_output": "historical 23:43 factory state superseded by 03:28 readback",
+    "issue": "zernio_factory_source_topic_qa_current_2026_06_12_2051",
+    "last_verified_at": "2026-06-12T18:37:18Z",
+    "latest_cron_output": "2026-06-13_12-30-40.md",
+    "latest_evidence": "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
+    "latest_output": "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
     "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260609T184230Z-matrix-feminine-claude-p/manifest.json",
     "media_count": 8,
     "name": "ChatGPT Canvas Client Proposal Polish — 7 tips",
-    "next_action": "Repair matrix Claude/SOP source-topic routing so land/property-investment drafts visibly teach land documents, location/return explanations, investor-facing summary, Claude-generated SOP/checklist, and human verification, or prioritize ChatGPT/NotebookLM practical software-tip sources; keep production cron enabled/draft-only.",
-    "process_check": "2026-06-11T23:45:07+00:00",
+    "next_action": "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
+    "process_check": "2026-06-12T18:37:18Z",
     "quality_gate": {
       "cta_counted_as_tip": false,
       "distinct_tips_count": 7,
@@ -1848,6 +1862,7 @@ Last updated: 2026-06-11T23:56:15+00:00
       "source_meta_public_copy": 0
     },
     "severity": "high",
+    "source_id": "matrix-agent-chatgpt-p0",
     "status": "draft_safe_review_only_not_kpi_ready",
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥300 views and ≥3 shares/comments; watch for comments asking for proposal/checklist templates.",
@@ -1863,11 +1878,8 @@ Last updated: 2026-06-11T23:56:15+00:00
     "tool": "ChatGPT Canvas / ChatGPT Projects",
     "topic": "Use ChatGPT Canvas to turn a rough proposal/work plan into a clearer client-ready document, scope checklist, risk note, and short LINE/email send-off.",
     "why_views_saves": "Grounded in the current KPI leader: ChatGPT practical work-output tips are at 32,072 views / 429 shares. This keeps the winning “make work output better before sending” pattern but uses a fresh ChatGPT Canvas document-review feature and a high-value freelancer/client pain, so it is saveable as a pre-send checklist.",
-    "zernio_draft_status": "draft_created",
-    "latest_cron_output": "2026-06-11_23-52-54.md",
-    "source_id": "matrix-landinvest-claude-p0",
-    "zernio_draft_id": "historical 23:43 Zernio draft",
-    "airtable_record_id": "historical 23:43 Airtable record"
+    "zernio_draft_id": "6a2c713926075d44561f1451",
+    "zernio_draft_status": "6a2c713926075d44561f1451"
   },
   {
     "audience": "Thai insurance brokers, agency admins, SME benefit consultants, finance-service teams, and support staff answering policy/claim questions.",
@@ -2355,106 +2367,21 @@ Last updated: 2026-06-11T23:56:15+00:00
 ]
 
 ## Latest experiment creator
-{
-  "checked_at": "2026-06-11T23:45:07+00:00",
-  "status": "draft_only_specs_created_no_generation_no_public_posting_no_spend",
-  "classification": "draft_only_recovery_backlog",
-  "data_signal": "Best/closest-to-100k remains CTA-stripped ChatGPT productivity/work-output at 46,745 views / 552 shares / gap 53,255; current snapshot has no breakout candidates, no posts in last 72h, and active result-closure/factory source-topic gates. Prioritize ChatGPT + NotebookLM practical Thai numbered tips plus one visible CapCut AI expansion test.",
-  "gate": "Draft-only specs only. Do not generate/send until result-closure and factory source-topic/editorial QA gates clear; keep factory enabled/draft-only. No public posting, spend, or generation triggered by this run.",
-  "experiments": [
-    {
-      "name": "ChatGPT Boss-Ready Progress Update — 8 tips",
-      "source_id": "matrix-landinvest-claude-p0",
-      "tool": "ChatGPT / Projects / Canvas optional",
-      "hook": "หัวหน้าถามความคืบหน้าแล้วตอบไม่ทัน? 8 วิธีใช้ ChatGPT ทำอัปเดตงานให้ดูโปรใน 10 นาที",
-      "audience": "Thai office workers, SME admins, freelancers, agency teams, sales/admin leads, and anyone sending boss/client updates.",
-      "hypothesis": "Best/closest post remains CTA-stripped ChatGPT practical productivity/work output at 46,745 views / 552 shares / gap 53,255. Boss/client status updates are a daily pain, naturally saveable, and close to the proven ChatGPT work-output winner without using the protected CTA as hook/topic.",
-      "tips": [
-        "วางโน้ตงาน แชท และตัวเลขล่าสุด แล้วบอก ChatGPT ว่าคนอ่านคือหัวหน้า ลูกค้า หรือทีมภายใน",
-        "ให้ AI สรุปงานเป็น 5 ช่อง: เป้าหมาย สถานะล่าสุด งานที่เสร็จ งานที่ค้าง และตัวเลขสำคัญ",
-        "ขอตาราง blocker: ปัญหา ผลกระทบ ใครต้องช่วย deadline และสิ่งที่ต้องตัดสินใจ",
-        "ให้ AI แยก next action เป็น วันนี้ / สัปดาห์นี้ / รออนุมัติ พร้อม owner ชัดเจน",
-        "ขอ executive summary 5 บรรทัด: headline, progress, risk, ask, next milestone",
-        "ให้ ChatGPT เปลี่ยนคำกำกวม เช่น ใกล้เสร็จ/เร็ว ๆ นี้ เป็นวันจริง ตัวเลขจริง หรือสถานะจริง",
-        "ขอเวอร์ชันส่ง LINE/email สั้น พร้อม CTA เดียว เช่น ขออนุมัติ ขอข้อมูลเพิ่ม หรือยืนยัน deadline",
-        "ก่อนส่ง ให้ AI ทำ final check: ตัวเลขถูก ชื่อถูก ไม่มีข้อมูลลับ และ next step ไม่เกิน 1–2 อย่าง"
-      ],
-      "target_2h": "≥300 views and ≥3 shares/comments; watch for comments asking for status-report/update templates.",
-      "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves are available, target ≥5 saves.",
-      "if_works": "Remix into client update, freelancer delivery report, sales pipeline update, and weekly team report variants.",
-      "if_fails": "Rehook around “รายงานงานใน 10 นาที”; stop after 2 low-share status-report variants."
-    },
-    {
-      "name": "NotebookLM Real-Doc Customer Answer Cards — 7 tips",
-      "source_id": "matrix-landinvest-claude-p0",
-      "tool": "NotebookLM / source-grounded Q&A / Audio Overview optional",
-      "hook": "ทีมตอบลูกค้าไม่ตรงกัน? 7 วิธีใช้ NotebookLM ทำ answer card จากเอกสารจริง",
-      "audience": "Thai SME owners, LINE OA admins, clinic/spa/hotel/tour/tutor/repair teams answering from policies, price lists, menus, SOPs, or service docs.",
-      "hypothesis": "NotebookLM is Thailand-priority and source-cited answer cards are team-shareable. This fixes a real trust problem and avoids generic PDF-summary content by producing usable LINE/inbox answer cards.",
-      "tips": [
-        "อัปโหลด price list, policy, FAQ, SOP, service menu, post-care note และตัวอย่างแชทที่ลบข้อมูลส่วนตัวแล้วเป็น source",
-        "ถาม NotebookLM ให้รวบรวมคำถามลูกค้าที่ทีมตอบบ่อย พร้อม citation ว่าคำตอบมาจากไฟล์ไหน",
-        "ทำ answer card 1 ใบต่อคำถาม: คำตอบสั้น เงื่อนไข ข้อมูลที่ต้องถามเพิ่ม และ next step",
-        "แบ่งคำตอบเป็นเขียว/เหลือง/แดง: ตอบได้จาก source, ต้องถามเจ้าของ/ผู้เชี่ยวชาญ, และห้ามตอบเอง",
-        "ให้ AI rewrite คำตอบเป็นภาษา LINE/inbox ที่สุภาพ สั้น และไม่รับปากเกินจริง",
-        "สร้าง quiz/roleplay 5 เคสให้ทีมซ้อมตอบก่อนใช้จริง โดยต้องอ้าง source ไม่เดาเอง",
-        "ตั้งรอบอัปเดต source ทุกครั้งที่ราคา โปร policy หรือบริการเปลี่ยน แล้วให้ NotebookLM หา card ที่ต้องแก้"
-      ],
-      "target_2h": "≥250 views and ≥3 shares/comments; watch for “ขอ answer card / FAQ template” comments.",
-      "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves are available, target ≥5 saves.",
-      "if_works": "Remix into clinic post-care, hotel/tour FAQ, repair warranty, product catalog, and HR policy answer-card versions.",
-      "if_fails": "Rehook around “ตอบผิดเสียลูกค้า”; stop after 2 weak NotebookLM answer-card variants."
-    },
-    {
-      "name": "CapCut AI FAQ-to-15s Q&A Clip — 7 tips",
-      "source_id": "matrix-landinvest-claude-p0",
-      "tool": "CapCut AI / TikTok short-video workflow",
-      "hook": "ลูกค้าถามซ้ำทุกวัน? 7 วิธีใช้ CapCut AI เปลี่ยน FAQ เป็นคลิป Q&A 15 วิ",
-      "audience": "Thai shops, clinics, spas, salons, repair shops, tutors, restaurants/cafes, TikTok sellers, and local creators with repeated customer questions.",
-      "hypothesis": "One expansion tool is needed, but it must be visible and practical. CapCut tests retention directly: FAQ-to-Q&A clips create a first-3-second hook, clear subtitles, and a reusable short-video format without drifting into product-photo/generic prompt advice.",
-      "tips": [
-        "เลือก FAQ จริง 1 ข้อจากแชท/รีวิว/หน้าร้าน เช่น ราคา ขั้นตอน เตรียมตัว ข้อห้าม หรือเวลารอ",
-        "เขียนคำตอบจาก policy/menu/price list จริง แล้วลบข้อมูลลูกค้าและเช็กกับเจ้าของก่อนใช้เป็น public script",
-        "ให้ CapCut AI ช่วยร่างสคริปต์ 35–45 คำ: คำถามของลูกค้า → คำตอบสั้น → ตัวอย่าง/หลักฐาน → next step",
-        "ทำ first 3 seconds ให้ชัด เช่น “ก่อนจองคิว ต้องรู้ข้อนี้” หรือ “ทำไมราคานี้ไม่เท่ากันทุกร้าน”",
-        "เลือกภาพ/ช็อต 3 ช่วง: คำถามบนจอ, หลักฐาน/หน้างาน/เอกสาร, และผลลัพธ์หรือขั้นตอนถัดไป",
-        "ใช้ subtitle ใหญ่ อ่านทัน และตัดคำฟุ่มเฟือย/ช่วงเงียบให้คำตอบหลักเริ่มภายใน 1–2 วินาที",
-        "ทำ A/B opening text 2 แบบ แล้วปิดด้วย CTA ที่ไม่กดดัน: คอมเมนต์คำถามถัดไป ขอ checklist ทักจองคิว หรือดูตัวอย่างเพิ่ม"
-      ],
-      "target_2h": "≥220 views and ≥2 shares/comments; watch for creators/admins asking for FAQ-to-clip templates.",
-      "target_24h": "≥2,000 views or share_rate ≥0.8%; if below average but comments/saves are strong, keep as expansion learning.",
-      "if_works": "Remix into clinic FAQ, repair price FAQ, tutor course FAQ, cafe/menu FAQ, and TikTok Shop product FAQ variants.",
-      "if_fails": "Stop CapCut variants after 2 misses or if output drifts into product-photo/promo-image instead of short-video workflow."
-    }
-  ],
-  "source_ids": [
-    "kpi-exp-0611-1200-chatgpt-boss-ready-progress-update",
-    "kpi-exp-0611-1200-notebooklm-real-doc-answer-cards",
-    "kpi-exp-0611-1200-capcut-faq-to-qa-clip"
-  ],
-  "quality_gate": {
-    "experiment_count": 3,
-    "promise_counts": [
-      8,
-      7,
-      7
-    ],
-    "cta_counted_as_tip": false,
-    "source_meta_public_copy": 0
-  },
-  "public_posting": false,
-  "spending_triggered_by_this_run": false,
-  "generation_triggered_by_this_run": false,
-  "scheduler_note": "Final readback 2026-06-11T12:03Z: import `2026-06-11_12-01-02.md` ok/future 12:30; breakout `2026-06-11_12-00-17.md` ok/future 12:30; growth `2026-06-11_10-03-16.md` ok/future 14:00; factory `2026-06-11_11-06-46.md` ok/future 12:06; current experiment-creator markdown is in-flight until this delivery, not a scheduler miss; no matching Python import/snapshot/factory/radar process."
-}
+- Checked: 2026-06-13T12:00:43Z
+- Gate: draft-only recovery backlog; no public posting, no spend, no generation from this cron.
+- Data signal: best/closest TikTok remains CTA-stripped ChatGPT productivity/workflow at 47,973 views / 568 shares / gap 52,027; no breakout candidates; no posts in last 72h. Protected GenLabs CTA remains promo copy only.
+- Specs:
+  - `kpi-exp-0613-1200-chatgpt-daily-work-update-pack` — ChatGPT Daily Work Update Pack — 8 tips (ChatGPT / Projects / file + text analysis): งานทั้งวันเยอะแต่สรุปไม่เป็น? 8 วิธีใช้ ChatGPT ทำรายงานอัปเดตหัวหน้า/ลูกค้าใน 10 นาที
+  - `kpi-exp-0613-1200-notebooklm-policy-change-alert` — NotebookLM Policy Change Alert for Teams — 7 tips (NotebookLM / source-grounded Q&A / Audio Overview optional): ราคา/โปร/นโยบายเปลี่ยนแล้วทีมยังตอบแบบเก่า? 7 วิธีใช้ NotebookLM หา answer card ที่ต้องแก้ทันที
+  - `kpi-exp-0613-1200-capcut-silent-viewer-sales-clip` — CapCut AI Silent-Viewer Sales Clip Checklist — 7 tips (CapCut AI / TikTok short-video workflow): คนดูปิดเสียงแล้วไม่เข้าใจคลิป? 7 วิธีใช้ CapCut AI เช็ก subtitle+ภาพให้ขายได้แม้ไม่เปิดเสียง
 
 ## Rule changes
 [
-  "2026-06-10 3-day review: ChatGPT practical numbered work-output tips remain the only direct proven Thailand lane (46,154 views / 545 shares / gap 53,846, +2,279 views since 2026-06-04). NotebookLM remains the priority controlled source-grounded lane. Other tools stay one-at-a-time visible-tip tests only after result-closure, source-topic, duplicate-family, promised-tip, CTA-separation, and draft-only safety gates pass; generic/off-topic safe drafts are review-only, not KPI-ready.",
-  "2026-06-04 3-day review: ChatGPT practical numbered work-output tips remain the only direct proven Thailand lane (best post 43,875 views / 524 shares / gap 56,125, +11,803 views since 2026-05-25). NotebookLM remains the priority controlled source-grounded lane. Other tools (Canva AI, CapCut AI, Perplexity, Gamma, ChatGPT, ChatGPT, Zapier/Make) stay one-at-a-time visible-tip tests only after result-closure, source-topic, duplicate-family, promised-tip, and draft-only safety gates pass.",
-  "Factory 22:14 readback: safe TikTok-only review draft created; scheduler current/future-scheduled; source-topic QA remains open.",
-  "2026-05-22 3-day review: direct performance proof still favors practical ChatGPT numbered work-output tips (best post 32,072 views / 429 shares). NotebookLM should be the priority controlled Thailand source-grounded lane. Canva AI, CapCut AI, Perplexity, Gamma, ChatGPT, ChatGPT tools, and Zapier/Make are allowed only as distinct practical numbered software-tip carousels with all promised tips visible before the reusable CTA; do not force generic/duplicate drafts while result-closure/source-lane/Zernio/editorial gates are open.",
-  "2026-05-25 3-day review: KPI is flat at 32,072 views / 429 shares / gap 67,928 with no posts in the last 72h and no formal breakout; the work is production recovery, not more generic ideation. Prioritize fresh non-repeating practical numbered ChatGPT and NotebookLM carousels for Thai service workflows; use Canva AI, CapCut AI, Perplexity, Gamma, ChatGPT, ChatGPT tools, and Zapier/Make only as distinct visible-tip software tests after result-closure/source-lane/Zernio/editorial gates clear."
+  "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
+  "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
+  "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
+  "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing.",
+  "Factory 20:51 readback: current exact run created a safe TikTok-only review draft, but it is not KPI-ready because source-topic QA failed. Source `matrix-itretail-chatgpt-p0`; state `latest_social_draft_factory.json@2026-06-12T20:51:06.408046+00:00`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260612T204517Z-matrix-itretail-chatgpt-/manifest.json`; Airtable `receG4pxj7kMFap63`; Zernio `6a2c713926075d44561f1451`. Safety verified: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, 8 media, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, used `isDraft=true`, root `tiktokSettings.draft=true`, 8 media, included TikTok+FB+IG IDs and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; active `/v1/accounts` exposes TikTok only (`facebook=false`, `instagram=false`), so live draft is TikTok-only and FB/IG account-access/config remains a caveat. QA: manifest/public-copy plus vision QA on hook/tips/action slides found readable, leak-free slides, but the source promised an IT retail/trade-in ChatGPT workflow for content/captions/customer answers while public output collapsed into generic prompt-context advice (`บริบทก่อน คำสั่งทีหลัง`) with no visible ร้านไอที/รับเทิร์น/ChatGPT/caption workflow. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-12T21:44:28.544011+00:00`; no lingering factory/radar process was observed at current readback. Do not manually publish until regenerated/rerouted or explicitly approved; repair matrix source-topic routing toward practical Thai software-tip carousels with visible tool/industry workflow. No public posting/live publishing."
 ]
 
 ## Current operating rule

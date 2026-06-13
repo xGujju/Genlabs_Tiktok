@@ -1,9 +1,9 @@
 # GenLabs Asset + Learning Index
 
-Updated: 2026-06-12 16:57:24 UTC
+Updated: 2026-06-13 16:56:31 UTC
 
-- Carousel image assets copied: 3174
-- Carousel manifests copied: 457
+- Carousel image assets copied: 3312
+- Carousel manifests copied: 476
 - Learning/operations notes copied: 21
 
 ## Carousel folders
@@ -375,6 +375,26 @@ Updated: 2026-06-12 16:57:24 UTC
 - `auto-20260612T132719Z-matrix-bar-claude-p1` — 7 image(s)
 - `auto-20260612T143720Z-matrix-weightloss-automa` — 7 image(s)
 - `auto-20260612T154904Z-matrix-autoparts-claude-` — 7 image(s)
+- `auto-20260612T170430Z-matrix-autoinsurance-gem` — 7 image(s)
+- `auto-20260612T181607Z-matrix-agent-chatgpt-p0` — 7 image(s)
+- `auto-20260612T193517Z-matrix-audioaccessory-ch` — 7 image(s)
+- `auto-20260612T204517Z-matrix-itretail-chatgpt-` — 7 image(s)
+- `auto-20260612T215852Z-matrix-medicaldevice-cla` — 7 image(s)
+- `auto-20260612T231105Z-matrix-fertility-gemini-` — 7 image(s)
+- `auto-20260613T002037Z-matrix-feminine-claude-p` — 7 image(s)
+- `auto-20260613T012925Z-matrix-beverage-chatgpt-` — 7 image(s)
+- `auto-20260613T024046Z-matrix-serum-claude-p0` — 5 image(s)
+- `auto-20260613T035219Z-matrix-fragrance-claude-` — 7 image(s)
+- `auto-20260613T050504Z-matrix-injectables-claud` — 7 image(s)
+- `auto-20260613T061552Z-matrix-weightloss-chatgp` — 7 image(s)
+- `auto-20260613T073038Z-matrix-ivdrip-gemini-p0` — 7 image(s)
+- `auto-20260613T084910Z-matrix-autoparts-chatgpt` — 7 image(s)
+- `auto-20260613T095923Z-matrix-medicaldevice-cha` — 7 image(s)
+- `auto-20260613T111001Z-matrix-fertility-claude-` — 7 image(s)
+- `auto-20260613T122109Z-matrix-mensgrooming-chat` — 7 image(s)
+- `auto-20260613T133110Z-matrix-oralcare-claude-p` — 7 image(s)
+- `auto-20260613T144403Z-matrix-feminine-automati` — 7 image(s)
+- `auto-20260613T155531Z-matrix-staple-automation` — 7 image(s)
 - `evergreen-recovery-live-20260429T105258Z-evergreen-chatgpt-projects-sales-followup` — 5 image(s)
 - `first-public-cdn-live` — 5 image(s)
 - `first-public-cdn-live-v2` — 5 image(s)

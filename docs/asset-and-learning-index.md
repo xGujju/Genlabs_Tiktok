@@ -1,9 +1,9 @@
 # GenLabs Asset + Learning Index
 
-Updated: 2026-06-14 16:56:56 UTC
+Updated: 2026-06-15 16:56:20 UTC
 
-- Carousel image assets copied: 3435
-- Carousel manifests copied: 493
+- Carousel image assets copied: 3473
+- Carousel manifests copied: 498
 - Learning/operations notes copied: 21
 
 ## Carousel folders
@@ -413,6 +413,11 @@ Updated: 2026-06-14 16:56:56 UTC
 - `auto-20260614T124510Z-yt-wRITR7hBOWo` — 8 image(s)
 - `auto-20260614T140359Z-matrix-itretail-claude-p` — 7 image(s)
 - `auto-20260614T152029Z-yt-rWWcgvJYFxY` — 3 image(s)
+- `auto-20260614T174844Z-yt-b3yuAekDS4U` — 7 image(s)
+- `auto-20260614T212834Z-yt-mKyaNr3jK-E` — 8 image(s)
+- `auto-20260614T224213Z-yt-xSmHOteVPc8` — 8 image(s)
+- `auto-20260615T044337Z-yt-25UIfzJNzoA` — 8 image(s)
+- `auto-20260615T070905Z-yt-h4_-eY03U40` — 7 image(s)
 - `evergreen-recovery-live-20260429T105258Z-evergreen-chatgpt-projects-sales-followup` — 5 image(s)
 - `first-public-cdn-live` — 5 image(s)
 - `first-public-cdn-live-v2` — 5 image(s)

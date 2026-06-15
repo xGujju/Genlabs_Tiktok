@@ -1,0 +1,298 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0a9e59e6/uPXOjxO_r8wxGV1H-9Lhg_FuUqv6Um.png",
+    "https://v3b.fal.media/files/b/0a9e59ea/L2RKBfltNEHbntPoTQ4oJ_Q1Jd0blY.png",
+    "https://v3b.fal.media/files/b/0a9e59ee/UWfn5Y5Qmj3xECVqUSNu3_szKphxNj.png",
+    "https://v3b.fal.media/files/b/0a9e59f9/fxBrP46Zh07TJ5nNEoGvg_K0vcQU8E.png",
+    "https://v3b.fal.media/files/b/0a9e59f7/sEwelAJ0Y1A-CQ1eniQIo_iAQjdhgi.png",
+    "https://v3b.fal.media/files/b/0a9e59fb/BgS8vKxe4KEISw2L__8nL_ZU2lakhx.png",
+    "https://v3b.fal.media/files/b/0a9e5a00/dzivCpVwia1bqh3l6IADg_uR7WY9aq.png",
+    "https://v3b.fal.media/files/b/0a9e5a05/Ox1a5T5Z1eI92F3FnVVHg_fNmt4Ybh.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 8,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/8 role=hook. Thai copy: ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที\nToken • workflow • Make • agent. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที\nToken • workflow • Make • agent",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/8 role=problem. Thai copy: ปัญหา: หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มีเจ้าของงาน วันครบกำหนด ความเสี่ยง หรือข้อความ follow-up ที่ส่งต่อได้. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มีเจ้าของงาน วันครบกำหนด ความเสี่ยง หรือข้อความ follow-up ที่ส่งต่อได้",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/8 role=trend. Thai copy: ทำไมควรสนใจ:\nAI สำหรับประชุมควรเปลี่ยนโน้ตให้เป็นงานที่ตามต่อได้ ไม่ใช่สรุปกว้าง ๆ ว่าใครพูดอะไร. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nAI สำหรับประชุมควรเปลี่ยนโน้ตให้เป็นงานที่ตามต่อได้ ไม่ใช่สรุปกว้าง ๆ ว่าใครพูดอะไร",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/8 role=tips. Thai copy: ลองใช้แบบนี้:\n1) วาง notes หลังประชุม\n2) ขอตารางงานที่ต้องทำ เจ้าของงาน วันครบกำหนด และความเสี่ยง\n3) ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE\n4) ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) วาง notes หลังประชุม\n2) ขอตารางงานที่ต้องทำ เจ้าของงาน วันครบกำหนด และความเสี่ยง\n3) ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE\n4) ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/8 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/8 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\n5) เก็บ template นี้ไว้ใช้กับประชุมประเภทเดิม. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\n5) เก็บ template นี้ไว้ใช้กับประชุมประเภทเดิม",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/8 role=framework. Thai copy: จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ. Visual direction: five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "framework",
+        "thai_copy": "จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ",
+        "visual_direction": "five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat"
+      },
+      {
+        "image_prompt": "Slide 8/8 role=cta. Thai copy: ลองวันนี้:\nวันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 8,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "yt-25UIfzJNzoA",
+    "source_url": "https://www.youtube.com/watch?v=25UIfzJNzoA",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://www.youtube.com/watch?v=25UIfzJNzoA",
+        "Keywords: Token, workflow, Make, agent",
+        "This is trending because people can copy the workflow immediately instead of only reading AI news."
+      ],
+      "glossary": {
+        "Make": "Make",
+        "Token": "ชิ้นข้อความที่ AI ใช้นับ",
+        "agent": "เอเจนต์ AI",
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "Token",
+        "workflow",
+        "Make",
+        "agent"
+      ],
+      "source_id": "yt-25UIfzJNzoA",
+      "source_url": "https://www.youtube.com/watch?v=25UIfzJNzoA",
+      "thai_call_to_action": "วันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message",
+      "thai_hook": "ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที",
+      "thai_problem": "หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มีเจ้าของงาน วันครบกำหนด ความเสี่ยง หรือข้อความ follow-up ที่ส่งต่อได้",
+      "thai_tips": [
+        "วาง notes หลังประชุม",
+        "ขอตารางงานที่ต้องทำ เจ้าของงาน วันครบกำหนด และความเสี่ยง",
+        "ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE",
+        "ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ",
+        "เก็บ template นี้ไว้ใช้กับประชุมประเภทเดิม"
+      ],
+      "thai_trend_angle": "AI สำหรับประชุมควรเปลี่ยนโน้ตให้เป็นงานที่ตามต่อได้ ไม่ใช่สรุปกว้าง ๆ ว่าใครพูดอะไร"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "Dr. Shikha Sharma Rishi",
+    "clean_headline": "Start Earning Money With AI - Free Tools & Business Ideas | Viral Sakhiya | Dr.",
+    "clean_summary": "Start Earning Money With AI - Free Tools & Business Ideas | Viral Sakhiya | Dr. Shikha Podcast 73 Dr. Shikha Sharma Rishi Order my First Book “The Way Back to You” Here - For those on the journey of self-love, healing, and inner ... Transcript: Start Earning Money With AI - Free Tools & Business Ideas | Viral Sakhiya | Dr. Shikha Podcast 73 description&redir_token=REDACTED&q=https%3A%2F%2Famzn.to%2F4rhI4ke&v=25UIfzJNzoA) For those on the journey of self-love, healing, and inner growth. If you’ve ever felt disconnected from yourself, this book might be exactly what you need right now.…...more ...more ## Chapters View all [![Image 8]( ### AI Se Job Chali Jayegi? (Real Fear Explained) ### AI Se Job Chali Jayegi? (Real Fear Explained) 0:00]( ### [AI Se Job Chali Jayegi? (Real Fear Explained)]( 0:00 [![Image 9]( ### Internet Example: Jo Adapt Karega Wahi Jeetega ### Internet Example: Jo Adapt Karega Wahi Jeetega 0:26]( ### [Internet Example: Jo Adapt Karega Wahi Jeetega]( 0:26 [![Image 10]( ### AI Agent Se Social Media Grow Kaise Hota Hai ### AI Agent Se Social Media Grow Kaise Hota Hai 1:00]( ### [AI Agent Se Social Media Grow Kaise Hota Hai]( 1:00 [![Image 11]( ### Guest Intro + Aaj Ka Topic (AI Practical Use) ### Guest Intro + Aaj Ka Topic (AI Practical Use) 2:00]( ### [Guest Intro + Aaj Ka Topic (AI Practical Use)]( 2:00 [![Image 12]( ### AI Hype Hai Ya Reality? (Bubble vs Truth) ### AI Hype Hai Ya Reality? (Bubble vs Truth) 4:00]( ### [AI Hype Hai Ya Reality? (Bubble vs Truth)]( 4:00 [![Image 13]( ### Repetitive Kaam AI Se Minutes Me Kaise Hoga ### Repetitive Kaam AI Se Minutes Me Kaise Hoga 5:00]( ### [Repetitive Kaam AI Se Minutes Me Kaise Hoga]( 5:00 [![Image 14]( ### AI Agents Kya Hote Hain? (Simple Explanation) ### AI Agents Kya Hote Hain? (Simple Explanation) 7:00]( ### [AI Agents Kya Hote Hain? (Simple Explanation)]( 7:00 [![Image 15]( ### Workflow Socho: Process Identify Karke AI Lagao ### Workflow Socho: Process Identify Karke AI Lagao 10:00]( ### [Workflow Socho: Process Identify Karke AI Lagao]( 10:00 Explore the podcast [![Image 16: Dr. Shikha Podcast]( episodes 89 episodes]( Dr. Shikha Podcast Dr. Shikha Sharma Rishi [![Image 17]( Podcasts]( ## Featured places [![Image 18]( # Dr. Shikha Sharma Rishi #### Life coach 5.0(22)](about:invalid#zClosurez) Transcript Follow along using the transcript. Show transcript [![Image 19]( ### Dr. Shikha Sharma Rishi 471K subscribers]( [Videos]( 20]( Instagram]( 21]( Self Love Channel]( Show less []( ## Chapters View all [![Image 8]( ### AI Se Job Chali Jayegi? (Real Fear Explained) ### AI Se Job Chali Jayegi? (Real Fear Explained) 0:00]( ### [AI Se Job Chali Jayegi? (Real Fear Explained)]( 0:00 [![Image 9]( ### Internet Example: Jo Adapt Karega Wahi Jeetega ### Internet Example: Jo Adapt Karega Wahi Jeetega 0:26]( ### [Internet Example: Jo Adapt Karega Wahi Jeetega]( 0:26 [![Image 10]( ### AI Agent Se Social Media Grow Kaise Hota Hai ### AI Agent Se Social Media Grow Kaise Hota Hai 1:00]( ### [AI Agent Se Social Media Grow Kaise Hota Hai]( 1:00 [![Image 11]( ### Guest Intro + Aaj Ka Topic (AI Practical Use) ### Guest Intro + Aaj Ka Topic (AI Practical Use) 2:00]( ### [Guest Intro + Aaj Ka Topic (AI Practical Use)]( 2:00 [![Image 12]( ### AI Hype Hai Ya Reality? (Bubble vs Truth) ### AI Hype Hai Ya Reality? (Bubble vs Truth) 4:00]( ### [AI Hype Hai Ya Reality? (Bubble vs Truth)]( 4:00 [![Image 13]( ### Repetitive Kaam AI Se Minutes Me Kaise Hoga ### Repetitive Kaam AI Se Minutes Me Kaise Hoga 5:00]( ### [Repetitive Kaam AI Se Minutes Me Kaise Hoga]( 5:00 [![Image 14]( ### AI Agents Kya Hote Hain? (Simple Explanation) ### AI Agents Kya Hote Hain? (Simple Explanation) 7:00]( ### [AI Agents Kya Hote Hain? (Simple Explanation)]( 7:00 [![Image 15]( ### Workflow Socho: Process Identify Karke AI Lagao ### Workflow Socho: Process Identify Karke AI Lagao 10:00]( ### [Workflow Socho: Process Identify Karke AI Lagao]( 10:00 Explore the podcast [![Image 16: Dr. Shikha Podcast]( episodes 89 episodes]( Dr. Shikha Podcast Dr. Shikha Sharma Rishi [![Image 17]( Podcasts]( ## Featured places [![Image 18](http",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 216666,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "Token",
+      "workflow",
+      "Make",
+      "agent"
+    ],
+    "original_language": "en",
+    "raw_text": "YouTube title: Start Earning Money With AI - Free Tools & Business Ideas | Viral Sakhiya | Dr. Shikha Podcast 73\nChannel: Dr. Shikha Sharma Rishi\nDescription: Order my First Book “The Way Back to You” Here - https://amzn.to/4rhI4ke For those on the journey of self-love, healing, and inner ...\nTranscript:\nTitle: Start Earning Money With AI - Free Tools & Business Ideas | Viral Sakhiya | Dr. Shikha Podcast 73 description&redir_token=REDACTED&q=https%3A%2F%2Famzn.to%2F4rhI4ke&v=25UIfzJNzoA) For those on the journey of self-love, healing, and inner growth. If you’ve ever felt disconnected from yourself, this book might be exactly what you need right now.…...more ...more ## Chapters View all [![Image 8](https://www.youtube.com/watch?v=25UIfzJNzoA) ### AI Se Job Chali Jayegi? (Real Fear Explained) ### AI Se Job Chali Jayegi? (Real Fear Explained) 0:00](https://www.youtube.com/watch?v=25UIfzJNzoA) ### [AI Se Job Chali Jayegi? (Real Fear Explained)](https://www.youtube.com/watch?v=25UIfzJNzoA) 0:00 [![Image 9](https://www.youtube.com/watch?v=25UIfzJNzoA) ### Internet Example: Jo Adapt Karega Wahi Jeetega ### Internet Example: Jo Adapt Karega Wahi Jeetega 0:26](https://www.youtube.com/watch?v=25UIfzJNzoA&t=26s) ### [Internet Example: Jo Adapt Karega Wahi Jeetega](https://www.youtube.com/watch?v=25UIfzJNzoA&t=26s) 0:26 [![Image 10](https://www.youtube.com/watch?v=25UIfzJNzoA) ### AI Agent Se Social Media Grow Kaise Hota Hai ### AI Agent Se Social Media Grow Kaise Hota Hai 1:00](https://www.youtube.com/watch?v=25UIfzJNzoA&t=60s) ### [AI Agent Se Social Media Grow Kaise Hota Hai](https://www.youtube.com/watch?v=25UIfzJNzoA&t=60s) 1:00 [![Image 11](https://www.youtube.com/watch?v=25UIfzJNzoA) ### Guest Intro + Aaj Ka Topic (AI Practical Use) ### Guest Intro + Aaj Ka Topic (AI Practical Use) 2:00](https://www.youtube.com/watch?v=25UIfzJNzoA&t=120s) ### [Guest Intro + Aaj Ka Topic (AI Practical Use)](https://www.youtube.com/watch?v=25UIfzJNzoA&t=120s) 2:00 [![Image 12](https://www.youtube.com/watch?v=25UIfzJNzoA) ### AI Hype Hai Ya Reality? (Bubble vs Truth) ### AI Hype Hai Ya Reality? (Bubble vs Truth) 4:00](https://www.youtube.com/watch?v=25UIfzJNzoA&t=240s) ### [AI Hype Hai Ya Reality? (Bubble vs Truth)](https://www.youtube.com/watch?v=25UIfzJNzoA&t=240s) 4:00 [![Image 13](https://www.youtube.com/watch?v=25UIfzJNzoA) ### Repetitive Kaam AI Se Minutes Me Kaise Hoga ### Repetitive Kaam AI Se Minutes Me Kaise Hoga 5:00](https://www.youtube.com/watch?v=25UIfzJNzoA&t=300s) ### [Repetitive Kaam AI Se Minutes Me Kaise Hoga](https://www.youtube.com/watch?v=25UIfzJNzoA&t=300s) 5:00 [![Image 14](https://www.youtube.com/watch?v=25UIfzJNzoA) ### AI Agents Kya Hote Hain? (Simple Explanation) ### AI Agents Kya Hote Hain? (Simple Explanation) 7:00](https://www.youtube.com/watch?v=25UIfzJNzoA&t=420s) ### [AI Agents Kya Hote Hain? (Simple Explanation)](https://www.youtube.com/watch?v=25UIfzJNzoA&t=420s) 7:00 [![Image 15](https://www.youtube.com/watch?v=25UIfzJNzoA) ### Workflow Socho: Process Identify Karke AI Lagao ### Workflow Socho: Process Identify Karke AI Lagao 10:00](https://www.youtube.com/watch?v=25UIfzJNzoA&t=600s) ### [Workflow Socho: Process Identify Karke AI Lagao](https://www.youtube.com/watch?v=25UIfzJNzoA&t=600s) 10:00 Explore the podcast [![Image 16: Dr. Shikha Podcast](https://www.youtube.com/watch?v=25UIfzJNzoA)89 episodes 89 episodes](https://www.youtube.com/playlist?list=PLg5aZBlKc9KIFpWDT7OALZ7kSaTsZR66A) Dr. Shikha Podcast Dr. Shikha Sharma Rishi [![Image 17](https://www.youtube.com/watch?v=25UIfzJNzoA) Podcasts](https://www.youtube.com/podcasts) ## Featured places [![Image 18](https://www.youtube.com/watch?v=25UIfzJNzoA) # Dr. Shikha Sharma Rishi #### Life coach 5.0(22)](about:invalid#zClosurez) Transcript Follow along using the transcript. Show transcript [![Image 19](https://www.youtube.com/watch?v=25UIfzJNzoA) ### Dr. Shikha Sharma Rishi 471K subscribers](https://www.youtube.com/@drshikha) [Videos](https://www.youtube.com/channel/UCvf0kmeVOmqL2KpCJ1wtIvA/videos)[About](https://www.youtube.com/channel/UCvf0kmeVOmqL2KpCJ1wtIvA/about)[![Image 20](https://www.youtube.com/watch?v=25UIfzJNzoA) Instagram](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=REDACTED&q=https%3A%2F%2Fwww.instagram.com%2Fdrshikhasharmarishi%2F)[![Image 21](https://www.youtube.com/watch?v=25UIfzJNzoA) Self Love Channel](https://www.youtube.com/@drshikhasharmarishi1) Show less [](https://www.youtube.com/playl ## Chapters View all [![Image 8](https://www.youtube.com/watch?v=25UIfzJNzoA) ### AI Se Job Chali Jayegi? (Real Fear Explained) ### AI Se Job Chali Jayegi? (Real Fear Explained) 0:00](https://www.youtube.com/watch?v=25UIfzJNzoA) ### [AI Se Job Chali Jayegi? (Real Fear Explained)](https://www.youtube.com/watch?v=25UIfzJNzoA) 0:00 [![Image 9](https://www.youtube.com/watch?v=25UIfzJNzoA) ### Internet Example: Jo Adapt Karega Wahi Jeetega ### Internet Example: Jo Adapt Karega Wahi Jeetega 0:26](https://www.youtube.com/watch?v=25UIfzJNzoA&t=26s) ### [Internet Example: Jo Adapt Karega Wahi Jeetega](https://www.youtube.com/watch?v=25UIfzJNzoA&t=26s) 0:26 [![Image 10](https://www.youtube.com/watch?v=25UIfzJNzoA) ### AI Agent Se Social Media Grow Kaise Hota Hai ### AI Agent Se Social Media Grow Kaise Hota Hai 1:00](https://www.youtube.com/watch?v=25UIfzJNzoA&t=60s) ### [AI Agent Se Social Media Grow Kaise Hota Hai](https://www.youtube.com/watch?v=25UIfzJNzoA&t=60s) 1:00 [![Image 11](https://www.youtube.com/watch?v=25UIfzJNzoA) ### Guest Intro + Aaj Ka Topic (AI Practical Use) ### Guest Intro + Aaj Ka Topic (AI Practical Use) 2:00](https://www.youtube.com/watch?v=25UIfzJNzoA&t=120s) ### [Guest Intro + Aaj Ka Topic (AI Practical Use)](https://www.youtube.com/watch?v=25UIfzJNzoA&t=120s) 2:00 [![Image 12](https://www.youtube.com/watch?v=25UIfzJNzoA) ### AI Hype Hai Ya Reality? (Bubble vs Truth) ### AI Hype Hai Ya Reality? (Bubble vs Truth) 4:00](https://www.youtube.com/watch?v=25UIfzJNzoA&t=240s) ### [AI Hype Hai Ya Reality? (Bubble vs Truth)](https://www.youtube.com/watch?v=25UIfzJNzoA&t=240s) 4:00 [![Image 13](https://www.youtube.com/watch?v=25UIfzJNzoA) ### Repetitive Kaam AI Se Minutes Me Kaise Hoga ### Repetitive Kaam AI Se Minutes Me Kaise Hoga 5:00](https://www.youtube.com/watch?v=25UIfzJNzoA&t=300s) ### [Repetitive Kaam AI Se Minutes Me Kaise Hoga](https://www.youtube.com/watch?v=25UIfzJNzoA&t=300s) 5:00 [![Image 14](https://www.youtube.com/watch?v=25UIfzJNzoA) ### AI Agents Kya Hote Hain? (Simple Explanation) ### AI Agents Kya Hote Hain? (Simple Explanation) 7:00](https://www.youtube.com/watch?v=25UIfzJNzoA&t=420s) ### [AI Agents Kya Hote Hain? (Simple Explanation)](https://www.youtube.com/watch?v=25UIfzJNzoA&t=420s) 7:00 [![Image 15](https://www.youtube.com/watch?v=25UIfzJNzoA) ### Workflow Socho: Process Identify Karke AI Lagao ### Workflow Socho: Process Identify Karke AI Lagao 10:00](https://www.youtube.com/watch?v=25UIfzJNzoA&t=600s) ### [Workflow Socho: Process Identify Karke AI Lagao](https://www.youtube.com/watch?v=25UIfzJNzoA&t=600s) 10:00 Explore the podcast [![Image 16: Dr. Shikha Podcast](https://www.youtube.com/watch?v=25UIfzJNzoA)89 episodes 89 episodes](https://www.youtube.com/playlist?list=PLg5aZBlKc9KIFpWDT7OALZ7kSaTsZR66A) Dr. Shikha Podcast Dr. Shikha Sharma Rishi [![Image 17](https://www.youtube.com/watch?v=25UIfzJNzoA) Podcasts](https://www.youtube.com/podcasts) ## Featured places [![Image 18](http",
+    "source_id": "yt-25UIfzJNzoA",
+    "source_url": "https://www.youtube.com/watch?v=25UIfzJNzoA",
+    "why_it_matters": "This is trending because people can copy the workflow immediately instead of only reading AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message",
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=25UIfzJNzoA",
+      "Keywords: Token, workflow, Make, agent",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "hook": "ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที",
+    "original_keywords": [
+      "Token",
+      "workflow",
+      "Make",
+      "agent"
+    ],
+    "original_language": "en",
+    "problem": "หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มีเจ้าของงาน วันครบกำหนด ความเสี่ยง หรือข้อความ follow-up ที่ส่งต่อได้",
+    "source_id": "yt-25UIfzJNzoA",
+    "source_url": "https://www.youtube.com/watch?v=25UIfzJNzoA",
+    "tips": [
+      "วาง notes หลังประชุม",
+      "ขอตารางงานที่ต้องทำ เจ้าของงาน วันครบกำหนด และความเสี่ยง",
+      "ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE",
+      "ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ",
+      "เก็บ template นี้ไว้ใช้กับประชุมประเภทเดิม"
+    ],
+    "trend_angle": "AI สำหรับประชุมควรเปลี่ยนโน้ตให้เป็นงานที่ตามต่อได้ ไม่ใช่สรุปกว้าง ๆ ว่าใครพูดอะไร"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "uPXOjxO_r8wxGV1H-9Lhg_FuUqv6Um.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9e59e6/uPXOjxO_r8wxGV1H-9Lhg_FuUqv6Um.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260615T044337Z-yt-25UIfzJNzoA/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "L2RKBfltNEHbntPoTQ4oJ_Q1Jd0blY.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9e59ea/L2RKBfltNEHbntPoTQ4oJ_Q1Jd0blY.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260615T044337Z-yt-25UIfzJNzoA/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "UWfn5Y5Qmj3xECVqUSNu3_szKphxNj.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9e59ee/UWfn5Y5Qmj3xECVqUSNu3_szKphxNj.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260615T044337Z-yt-25UIfzJNzoA/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "fxBrP46Zh07TJ5nNEoGvg_K0vcQU8E.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9e59f9/fxBrP46Zh07TJ5nNEoGvg_K0vcQU8E.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260615T044337Z-yt-25UIfzJNzoA/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "sEwelAJ0Y1A-CQ1eniQIo_iAQjdhgi.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9e59f7/sEwelAJ0Y1A-CQ1eniQIo_iAQjdhgi.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260615T044337Z-yt-25UIfzJNzoA/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "BgS8vKxe4KEISw2L__8nL_ZU2lakhx.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9e59fb/BgS8vKxe4KEISw2L__8nL_ZU2lakhx.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260615T044337Z-yt-25UIfzJNzoA/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "dzivCpVwia1bqh3l6IADg_uR7WY9aq.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9e5a00/dzivCpVwia1bqh3l6IADg_uR7WY9aq.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260615T044337Z-yt-25UIfzJNzoA/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "Ox1a5T5Z1eI92F3FnVVHg_fNmt4Ybh.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a9e5a05/Ox1a5T5Z1eI92F3FnVVHg_fNmt4Ybh.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260615T044337Z-yt-25UIfzJNzoA/slide-8.png",
+      "slide_index": 8,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 9,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260615T044337Z-yt-25UIfzJNzoA/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มีเจ้าของงาน วันครบกำหนด ความเสี่ยง หรือข้อความ follow-up ที่ส่งต่อได้\n\n📌 ทำไมควรเซฟโพสต์นี้: AI สำหรับประชุมควรเปลี่ยนโน้ตให้เป็นงานที่ตามต่อได้ ไม่ใช่สรุปกว้าง ๆ ว่าใครพูดอะไร\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ วาง notes หลังประชุม\n\n2) ✨ ขอตารางงานที่ต้องทำ เจ้าของงาน วันครบกำหนด และความเสี่ยง\n\n3) ✨ ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE\n\n4) ✨ ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ\n\n🧪 ลองเริ่มวันนี้: วันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message\n\n🧭 วิธีใช้กับงานนี้: วาง notes หลังประชุม → ขอตารางงานที่ต้องทำ เจ้าของงาน วันครบกำหนด และความเสี่ยง → ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE\n\n🌱 มือใหม่ให้เริ่มจากเคสจริงเล็ก ๆ ของอุตสาหกรรมนี้ แล้วให้คนในทีมตรวจคำตอบก่อนใช้กับลูกค้าจริง\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเห็นว่า AI ช่วยลดงานซ้ำและทำให้บริการชัดขึ้นได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที #AIมือใหม่ เอาไปใช้กับงานจริงได้ทันที"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=25UIfzJNzoA",
+      "Keywords: Token, workflow, Make, agent",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "glossary": {
+      "Make": "Make",
+      "Token": "ชิ้นข้อความที่ AI ใช้นับ",
+      "agent": "เอเจนต์ AI",
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "Token",
+      "workflow",
+      "Make",
+      "agent"
+    ],
+    "source_id": "yt-25UIfzJNzoA",
+    "source_url": "https://www.youtube.com/watch?v=25UIfzJNzoA",
+    "thai_call_to_action": "วันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message",
+    "thai_hook": "ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที",
+    "thai_problem": "หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มีเจ้าของงาน วันครบกำหนด ความเสี่ยง หรือข้อความ follow-up ที่ส่งต่อได้",
+    "thai_tips": [
+      "วาง notes หลังประชุม",
+      "ขอตารางงานที่ต้องทำ เจ้าของงาน วันครบกำหนด และความเสี่ยง",
+      "ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE",
+      "ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ",
+      "เก็บ template นี้ไว้ใช้กับประชุมประเภทเดิม"
+    ],
+    "thai_trend_angle": "AI สำหรับประชุมควรเปลี่ยนโน้ตให้เป็นงานที่ตามต่อได้ ไม่ใช่สรุปกว้าง ๆ ว่าใครพูดอะไร"
+  }
+}

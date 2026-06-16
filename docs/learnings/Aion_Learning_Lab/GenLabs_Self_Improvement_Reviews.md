@@ -439,3 +439,44 @@
 - **Aion system miss:** I kept the engine supplied with broad matrix/software ideas while the factory repeatedly lost the promised industry/tool specificity. The next cycle must prioritize routing/QA repair and result closure over more ideation volume.
 - **Rule promoted:** If ChatGPT/NotebookLM evidence is strongest but factory drafts keep becoming generic prompt-context content, production must gate on `expected_tool_workflow`, concrete industry nouns, visible output artifacts (table/card/checklist/reply), promised-tip count, and a no-generic-prompt-context scan before FAL/Zernio. Generic safe drafts are review-only, never KPI-ready.
 - **Next 3-day plan:** (1) backfill/close active 2h/24h experiment results; (2) repair matrix/source-topic routing so generated slides visibly teach the promised ChatGPT/NotebookLM/Gemini/etc. workflow; (3) feed fresh non-repeating ChatGPT + NotebookLM practical source IDs into production; (4) run one differentiated software-tip test only after source-topic, duplicate-family, promised-tip, CTA, and draft-only gates pass; (5) keep production enabled/draft-only with no public posting/spend from this review.
+
+## 2026-06-16 3-Day Self-Improvement Review — GenLabs/Zernio
+<!-- ZG-SELF-IMPROVEMENT-2026-06-16-1003 -->
+
+### KPI progress
+- Best post: `7634027210248097042` — ChatGPT 8 productivity tips for work (CTA-stripped educational signal, not the protected product-photo CTA).
+- Current views/shares: **49,675 views / 592 shares**.
+- Gap to 100,000: **50,325**.
+- 3-day movement: **+1,702 views** versus the prior self-improvement review baseline (47,973 → 49,675), so the KPI moved closer but not fast enough.
+- Fresh 10:03 snapshot after the 10:00 import surfaced one refresh-window candidate: AI Agent beginner/start-point post `7651643934417898760` at **442 views / +11 / 3 shares**. Treat hourly rate as import-window inflated until next normal baseline confirms.
+
+### What worked
+- ChatGPT practical work-output content keeps compounding: the winner is still broad, saveable, office/SME productivity, not AI news.
+- Numbered tips/checklists remain the right shape: viewers can copy daily work templates.
+- Protected CTA guard held: GenLabs product-photo/no-prompt copy stays promo copy only.
+
+### What failed / weak spots
+- No post is close enough to 100k velocity; the best post still needs 50,325 more views.
+- Factory source lane is the active production blocker: latest verified state remains zero-draft/source-lane exhaustion, not paused cron.
+- Too many active experiments are still draft-only/backlog or overdue for result closure, so learning speed is slower than idea volume.
+
+### Aion system misses
+- I should bias harder toward the proven ChatGPT practical-work lane instead of letting expansion tools spread attention too thin.
+- Factory/source replenishment needs to become a production fix, not just repeated monitoring.
+- Result-closure backlog must be closed before creating more near-duplicate experiments.
+
+### Tool/topic direction rule
+- **Primary:** ChatGPT numbered Thai carousels for concrete work outputs: reports, LINE OA replies, follow-up, SOPs, proposals, daily updates, customer notes.
+- **Secondary:** NotebookLM numbered carousels for source-grounded work: SOP/PDF/FAQ/team answer books, policy-change checks, training/quiz, document gap audits.
+- **Expansion tests:** Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude tools, Zapier/Make only when the post visibly teaches a specific workflow with 7/8 distinct tips, tool steps, and a clear saveable template.
+
+### Fixes / durable updates applied
+- Updated compact Zernio memory with this 3-day lesson and tool/topic direction.
+- Updated Zernio task state with the 2026-06-16 self-improvement decision and reinforced the source-lane exhaustion blocker.
+- Promoted this rule into the Decision Log so future production stays biased toward ChatGPT/NotebookLM practical numbered tips.
+
+### Next 3-day plan
+1. Replenish eligible source lanes with fresh ChatGPT and NotebookLM practical numbered-tip concepts first; keep factory enabled.
+2. Use the AI Agent beginner post `7651643934417898760` as watch/amplification input only after result/source gates are clear; do not overtrust import-window hourly velocity.
+3. Close overdue result-loop tasks, then run exactly scoped software-tip tests for Canva/CapCut/Perplexity/Gamma/Gemini/Claude/Zapier only when they are concrete Thai SME workflows.
+

@@ -194,3 +194,11 @@
 - **Why:** 2026-06-13 self-improvement evidence shows the KPI winner is still CTA-stripped ChatGPT practical workflow content at 47,973 views, while repeated safe factory drafts collapsed matrix/software sources into generic prompt-context advice.
 - **Consequences:** Prioritize ChatGPT practical numbered tips and NotebookLM source-grounded SOP/PDF/FAQ/team workflows. Test Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude tools, and Zapier/Make only as one-at-a-time exact-workflow visible-tip experiments after duplicate-family, source-topic, promised-tip, CTA, and draft-only gates pass.
 - **Revisit Trigger:** Revisit after a non-ChatGPT/NotebookLM software-tip carousel beats the channel average with strong shares/saves or after the factory source-topic QA issue is closed for multiple consecutive drafts.
+
+## 2026-06-16 — GenLabs tool/topic priority for next growth cycle
+<!-- ZG-DECISION-TOOL-TOPIC-PRIORITY-2026-06-16 -->
+- **Decision:** For the next 3-day GenLabs/Zernio growth cycle, prioritize ChatGPT practical numbered-tip carousels first and NotebookLM source-grounded numbered-tip carousels second. Expansion tools are allowed only as concrete software-tip workflow tests: Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude tools, and Zapier/Make.
+- **Rationale:** The CTA-stripped ChatGPT productivity/workflow winner is at 49,675 views / 592 shares and remains the clearest evidence toward the 100k KPI. Sway also says ChatGPT and NotebookLM are popular in Thailand.
+- **Consequences:** Source replenishment and factory routing should favor practical Thai SME work-output templates, not generic AI news or vague tool explainers. Do not force GenLabs product-photo CTA into performance analysis.
+- **Revisit trigger:** Revisit when a non-ChatGPT/NotebookLM software-tip post beats 2,500 views in 24h or reaches share_rate >=0.8%, or when a new post breaks 100,000 views.
+

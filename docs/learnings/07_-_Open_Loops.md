@@ -1,16 +1,82 @@
 <!-- ZG-ISSUE-CHECK-CURRENT -->
-- [ ] Zernio issue-check current — hourly factory is currently blocked by source-lane / anti-repetition saturation. Exact command and required recovery rerun both exited 0 with `draft_count=0/results=[]`; state `latest_social_draft_factory.json@2026-06-21T16:17:52.388295+00:00`; no new `auto-*` folder/manifest/media after 16:16Z; no Airtable Carousel Posts row or outbound Zernio payload/post exists for this tick; selector/static lanes saturated (canonical selected 0; matrix 0/436 scanned; evergreen 0/42; AI Words 0/8; KPI backstop 0/8; existing Carousel Posts 443; partial-source quarantine 34; blocked families 68; canonical blockers overlapping: duplicate 12, repeat-family 42, no educational value 12, not A/B 98, watch-for-corroboration 98); cron `a97a7703af32` enabled/future-scheduled next `2026-06-21T17:16:17.485532+00:00`; no lingering factory/radar process at `2026-06-21T16:20:55.762981+00:00`. Zernio/platform verification is not applicable because no outbound payload/post exists. Next: urgently replenish practical Thai numbered software-tip lanes (ChatGPT/NotebookLM first, then Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude, Zapier/Make) while keeping the production cron enabled/draft-only.
+- [ ] Zernio issue-check current — 16:49Z exact hourly command plus required recovery rerun both returned `draft_count=0/results=[]`; fresh state `latest_social_draft_factory.json@2026-06-22T16:49:27.197014+00:00`. No new `auto-*` folder/manifest/media after 16:49Z, no new Airtable Carousel Posts row, and no outbound Zernio payload/post. Selector/source diagnosis: canonical selected 0/98 (overlapping blockers: 98 not A/B, 98 watch-for-corroboration, 42 repeat-family, 12 duplicate, 12 no educational value); matrix 0/436; evergreen 0/42; AI Words 0/8; KPI backstop 0/8; existing Carousel Posts 447; partial-source quarantine 34; blocked families 68. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-22T17:47:51.329714+00:00`; no lingering factory/radar process at `2026-06-22T16:51:16Z`. Current blocker: source-lane / anti-repetition saturation; urgent next action is replenish fresh practical Thai numbered software-tip sources (ChatGPT/NotebookLM first). Zernio/platform verification is not applicable because no outbound post/payload exists. No public posting/live publishing.
 
-<!-- ZG-GROWTH-CHECK-2026-06-21-1603 -->
-- [ ] Growth-check amplification — confirmed formal breakout candidate `7653829036090641684` (AI Agent beginner/start-point post) at 357 views, +226 since normal baseline, ~453.04 views/hour. Draft-only next action: create/remix mini AI agent starter checklist, LINE OA/admin mini-agent, and service-intake Artifact after result-closure/source-lane gates; no public posting/spend/generation from the growth check. Best KPI leader remains CTA-stripped ChatGPT productivity/workflow post `7634027210248097042` at 51,391 views / 615 shares / gap 48,609; protected product-photo/no-prompt CTA is promo copy only.
-<!-- /ZG-GROWTH-CHECK-2026-06-21-1603 -->
+<!-- ZG-FACTORY-CURRENT-2026-06-22-1649 -->
+- [ ] Factory current — 16:49Z zero-draft/source-lane saturation supersedes the 15:38 safe review-only draft as the active factory anchor. Current anchor is `latest_social_draft_factory.json@2026-06-22T16:49:27.197014+00:00`. Scheduler cadence is current/future-scheduled; source replenishment is the KPI blocker. Zernio/platform verification is not applicable for this tick because no outbound payload/post exists.
+<!-- /ZG-FACTORY-CURRENT-2026-06-22-1649 -->
 
-<!-- ZG-FACTORY-CURRENT-2026-06-21-1617 -->
-- [ ] Factory current — 16:17Z exact hourly command plus required recovery both produced zero drafts. Exact command and required recovery rerun both exited 0 with `draft_count=0/results=[]`; state `latest_social_draft_factory.json@2026-06-21T16:17:52.388295+00:00`; no new `auto-*` folder/manifest/media after 16:16Z; no Airtable Carousel Posts row or outbound Zernio payload/post exists for this tick; selector/static lanes saturated (canonical selected 0; matrix 0/436 scanned; evergreen 0/42; AI Words 0/8; KPI backstop 0/8; existing Carousel Posts 443; partial-source quarantine 34; blocked families 68; canonical blockers overlapping: duplicate 12, repeat-family 42, no educational value 12, not A/B 98, watch-for-corroboration 98); cron `a97a7703af32` enabled/future-scheduled next `2026-06-21T17:16:17.485532+00:00`; no lingering factory/radar process at `2026-06-21T16:20:55.762981+00:00`. Zernio/platform verification is not applicable because no outbound payload/post exists. Next: urgently replenish practical Thai numbered software-tip lanes (ChatGPT/NotebookLM first, then Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude, Zapier/Make) while keeping the production cron enabled/draft-only. No public posting/live publishing; no Zernio draft ID for this tick; FB/IG first-comment verification is not applicable because no post was built. This supersedes the prior 15:09 zero-draft/source-lane readback as the active factory anchor.
-<!-- /ZG-FACTORY-CURRENT-2026-06-21-1617 -->
+<!-- ZG-FACTORY-HISTORICAL-2026-06-22-1538 -->
+- [x] Historical factory reference — prior 15:38 safe TikTok-only review draft is superseded as the active factory anchor by the 16:49 zero-draft/source-lane readback above. Keep its FB/IG account-access and editorial/source-topic caveats as historical/review-only evidence; do not use it as this tick's output.
+<!-- /ZG-FACTORY-HISTORICAL-2026-06-22-1538 -->
+
+<!-- ZG-FACTORY-HISTORICAL-2026-06-22-1423 -->
+- [x] Historical factory reference — 14:23 zero-draft/source-lane saturation is superseded by the 15:38 safe TikTok-only review draft above. Treat the 14:23 zero-state as historical only, not as the active factory anchor.
+<!-- /ZG-FACTORY-HISTORICAL-2026-06-22-1423 -->
+
+<!-- ZG-FACTORY-HISTORICAL-2026-06-22-1314 -->
+- [x] Historical factory reference — 13:14 zero-draft/source-lane saturation is superseded by the 14:23 zero-draft/source-lane readback above. Treat the 13:14 state as historical only, not as the active factory anchor.
+<!-- /ZG-FACTORY-HISTORICAL-2026-06-22-1314 -->
+
+<!-- ZG-FACTORY-HISTORICAL-2026-06-22-1207 -->
+- [x] Historical factory reference — 12:07 zero-draft/source-lane saturation is superseded by the 13:14 zero-draft/source-lane readback above. Treat the 12:07 state as historical only, not as the active factory anchor.
+<!-- /ZG-FACTORY-HISTORICAL-2026-06-22-1207 -->
+
+<!-- ZG-FACTORY-HISTORICAL-2026-06-22-1056 -->
+- [x] Historical factory reference — 10:56 zero-draft/source-lane saturation is superseded by the 12:07 zero-draft/source-lane readback above. Treat the 10:56 state as historical only, not as the active factory anchor.
+<!-- /ZG-FACTORY-HISTORICAL-2026-06-22-1056 -->
+
+<!-- ZG-FACTORY-HISTORICAL-2026-06-22-0950 -->
+- [x] Historical factory reference — 09:50 zero-draft/source-lane saturation is superseded by the 10:56 zero-draft/source-lane readback above. Treat the 09:50 state as historical only, not as the active factory anchor.
+<!-- /ZG-FACTORY-HISTORICAL-2026-06-22-0950 -->
+
+<!-- ZG-FACTORY-HISTORICAL-2026-06-22-0842 -->
+- [x] Historical factory reference — 08:42 zero-draft/source-lane saturation is superseded by the 09:50 zero-draft/source-lane readback above. Treat the 08:42 state as historical only, not as the active factory anchor.
+<!-- /ZG-FACTORY-HISTORICAL-2026-06-22-0842 -->
+<!-- ZG-FACTORY-HISTORICAL-2026-06-22-0735 -->
+- [x] Historical factory reference — 07:35 zero-draft/source-lane saturation is superseded by the 08:42 zero-draft/source-lane readback above. Treat the 07:35 state as historical only, not as the active factory anchor.
+<!-- /ZG-FACTORY-HISTORICAL-2026-06-22-0735 -->
+
+<!-- ZG-FACTORY-HISTORICAL-2026-06-22-0627 -->
+- [x] Historical factory reference — 06:27 zero-draft/source-lane saturation is superseded by the 07:35 zero-draft/source-lane readback above. Treat the 06:27 state as historical only, not as the active factory anchor.
+<!-- /ZG-FACTORY-HISTORICAL-2026-06-22-0627 -->
+<!-- ZG-FACTORY-HISTORICAL-2026-06-22-0519 -->
+- [x] Historical factory reference — 05:19 safe TikTok-only review draft `6a38c5fb643e276891828382` / Airtable `rechz5KPetTJYokkP` is superseded as the active factory anchor by the 06:27 zero-draft/source-lane readback above. Keep its FB/IG account-access and editorial/source-topic caveats as historical/review-only evidence; do not use it as this tick's output.
+<!-- /ZG-FACTORY-HISTORICAL-2026-06-22-0519 -->
+
+<!-- ZG-FACTORY-HISTORICAL-2026-06-22-0408 -->
+- [x] Historical factory reference — 04:08 zero-draft/source-lane saturation is superseded by the 06:27 zero-draft/source-lane readback above. Treat the 04:08 zero-state as historical only, not as the active factory anchor.
+<!-- /ZG-FACTORY-HISTORICAL-2026-06-22-0408 -->
+
+<!-- ZG-FACTORY-HISTORICAL-2026-06-22-0259 -->
+- [x] Historical factory reference — 02:59 zero-draft/source-lane saturation is superseded by the 04:08 zero-draft/source-lane saturation readback above. Treat the 02:59 state as historical only, not as the active factory anchor.
+<!-- /ZG-FACTORY-HISTORICAL-2026-06-22-0259 -->
+
+<!-- ZG-FACTORY-HISTORICAL-2026-06-22-0146 -->
+- [x] Historical factory reference — 01:46 zero-draft/source-lane saturation is superseded by the 02:59 zero-draft/source-lane saturation readback above. Treat the 01:46 state as historical only, not as the active factory anchor.
+<!-- /ZG-FACTORY-HISTORICAL-2026-06-22-0146 -->
+
+<!-- ZG-FACTORY-HISTORICAL-2026-06-22-0037 -->
+- [x] Historical factory reference — 00:37 zero-draft/source-lane saturation is superseded by the 01:46 zero-draft/source-lane saturation readback above. Treat the 00:37 state as historical only, not as the active factory anchor.
+<!-- /ZG-FACTORY-HISTORICAL-2026-06-22-0037 -->
+
+<!-- ZG-FACTORY-HISTORICAL-2026-06-21-2331 -->
+- [x] Historical factory reference — 23:31 zero-draft/source-lane saturation is superseded by the 01:46 zero-draft/source-lane saturation readback above. Treat the 23:31 state as historical only, not as the active factory anchor.
+<!-- /ZG-FACTORY-HISTORICAL-2026-06-21-2331 -->
+
+<!-- ZG-FACTORY-HISTORICAL-2026-06-21-2220 -->
+- [x] Historical factory reference — 22:20 value-QA-blocked manifest/Airtable readback is superseded by the 01:46 zero-draft/source-lane saturation readback above. Keep its Airtable/manifest/value-QA evidence as historical only; do not use it as the active factory anchor.
+<!-- /ZG-FACTORY-HISTORICAL-2026-06-21-2220 -->
+
+<!-- ZG-FACTORY-HISTORICAL-2026-06-21-2107 -->
+- [x] Historical factory reference — 21:07Z exact+recovery zero-draft/source-lane saturation is superseded by the 22:20 value-QA-blocked manifest/Airtable readback above. Do not use the 21:07 zero-state as the active factory anchor.
+<!-- /ZG-FACTORY-HISTORICAL-2026-06-21-2107 -->
+
+<!-- ZG-FACTORY-HISTORICAL-2026-06-21-1730 -->
+- [x] Historical factory reference — 17:30Z safe TikTok-only review draft `6a381fcd835886588b202acc` / Airtable `rectNQq58TYBFu8KM` from source `yt-Xl57Pki6ChE` is superseded as the active factory anchor by the 21:07Z zero-draft/source-lane readback above. Keep it as prior review-only evidence with FB/IG account-access and source-topic QA caveats; do not use it as this tick's output.
+<!-- /ZG-FACTORY-HISTORICAL-2026-06-21-1730 -->
 
 <!-- ZG-FACTORY-HISTORICAL-2026-06-21-1509 -->
-- [x] Historical factory reference — 15:09 exact+recovery zero-draft/source-lane saturation is superseded by the 16:17 current readback above. Treat the 15:09 zero-state as historical only, not as the active factory anchor.
+- [x] Historical factory reference — 15:09 exact+recovery zero-draft/source-lane saturation is superseded by the 17:30 safe review draft above. Treat the 15:09 zero-state as historical only, not as the active factory anchor.
 <!-- /ZG-FACTORY-HISTORICAL-2026-06-21-1509 -->
 
 <!-- ZG-FACTORY-HISTORICAL-2026-06-21-1401 -->
@@ -43,7 +109,7 @@
 <!-- /ZG-FACTORY-HISTORICAL-2026-06-21-0438 -->
 
 <!-- ZG-ISSUE-CHECK-2026-06-20-2254 -->
-- Issue-check 22:54Z: initial exact hourly command returned `draft_count=0/results=[]` from selector saturation (canonical=0, matrix=0, evergreen=0/42, AI Words=0/8, KPI backstop=0/8). Required recovery rerun created safe TikTok-only review draft `6a371a3154622c002f35d44e` / Airtable `recEqQVP8xeVW0TcB` from `yt-WTif7jP6nLk`; state `historical 22:54 safe-draft state`, manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260620T225024Z-yt-WTif7jP6nLk/manifest.json`. Verification: Airtable `Zernio Draft Status=draft_created`; Zernio `status=draft`, media=8, no `publishNow`; rebuilt outbound payload omitted `publishNow` and `scheduledFor`, `isDraft=true`, `tiktokSettings.draft=true`. Active Zernio key exposed TikTok only, so FB/IG were not included; FB/IG account access remains a platform blocker. Editorial QA: source title was `5 AI Automations Every Small Business Should Steal (2026)` but public draft teaches a generic AI-Agent/checklist workflow and does not visibly deliver 5 automations, so it is review-only/not KPI-ready. No public posting/live publishing; no lingering factory/radar process.
+- Issue-check 22:54Z: initial exact hourly command returned `draft_count=0/results=[]` from selector saturation (canonical=0, matrix=not rerun in verifier to avoid pointer mutation, evergreen=0/42, AI Words=0/8, KPI backstop=0/8). Required recovery rerun created safe TikTok-only review draft `6a371a3154622c002f35d44e` / Airtable `recEqQVP8xeVW0TcB` from `yt-WTif7jP6nLk`; state `historical 22:54 safe-draft state`, manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260620T225024Z-yt-WTif7jP6nLk/manifest.json`. Verification: Airtable `Zernio Draft Status=draft_created`; Zernio `status=draft`, media=8, no `publishNow`; rebuilt outbound payload omitted `publishNow` and `scheduledFor`, `isDraft=true`, `tiktokSettings.draft=true`. Active Zernio key exposed TikTok only, so FB/IG were not included; FB/IG account access remains a platform blocker. Editorial QA: source title was `5 AI Automations Every Small Business Should Steal (2026)` but public draft teaches a generic AI-Agent/checklist workflow and does not visibly deliver 5 automations, so it is review-only/not KPI-ready. No public posting/live publishing; no lingering factory/radar process.
 
 <!-- ZG-FACTORY-HISTORICAL-2026-06-20-2254 -->
 - [x] Historical factory reference — safe TikTok-only review draft created by recovery at historical 22:54 state, superseded by the 2026-06-21 00:06 zero-draft/source-lane readback: Zernio `6a371a3154622c002f35d44e`, Airtable `recEqQVP8xeVW0TcB`, source `yt-WTif7jP6nLk`, manifest `auto-20260620T225024Z-yt-WTif7jP6nLk/manifest.json`. Draft safety passed for TikTok review mode (status=draft, 8 media, no publishNow, outbound payload omitted scheduledFor, TikTok account `69ee7188985e734bf3bb187f`, tiktokSettings.draft=true). Current blockers are separate: active API key exposes TikTok only (FB/IG account access missing) and content is review-only/not KPI-ready because the 5-automation YouTube source collapsed into a generic AI-Agent/checklist lesson. Cron remains enabled; no public posting/live publishing.
@@ -90,7 +156,7 @@
 <!-- /ZG-FACTORY-HISTORICAL-2026-06-20-0859 -->
 
 <!-- ZG-FACTORY-HISTORICAL-2026-06-20-0748 -->
-## 2026-06-20 07:48 UTC — Historical safe TikTok-only review draft; later superseded by the 15:54 current zero-draft/source-lane readback
+## 2026-06-20 07:48 UTC — Historical safe TikTok-only review draft; later superseded by newer factory readbacks
 - Historical output: safe TikTok-only review draft `6a3645d7d2ccf3d7296abd98` / Airtable `recq51puW9RDZUiNE` from `yt-kQFW3bUrOu4`; remains prior review-only/not KPI-ready, not this tick's output. Later current readbacks supersede this historical draft as the factory anchor.
 <!-- /ZG-FACTORY-HISTORICAL-2026-06-20-0748 -->
 
@@ -235,7 +301,7 @@
 
 <!-- ZG-FACTORY-HISTORICAL-2026-06-19-0633 -->
 ## 2026-06-19 06:33 UTC — Historical TikTok-only safe review draft superseded by later zero-draft/source-lane readbacks
-- Historical summary: source `yt-KDvFJ4R-S2I` created TikTok-only safe review draft `6a34e2ced4025bed7788b9fc` / Airtable `reclN29ByWiYJsIzR`; no public posting/live publishing. Superseded as the active factory anchor by the latest current zero-draft/source-lane readback above. Prior draft remains review-only with FB/IG access and editorial/source-topic caveats.
+- Historical summary: source `yt-KDvFJ4R-S2I` created TikTok-only safe review draft `6a34e2ced4025bed7788b9fc` / Airtable `reclN29ByWiYJsIzR`; no public posting/live publishing. Superseded as the active factory anchor by later factory readbacks. Prior draft remains review-only with FB/IG access and editorial/source-topic caveats.
 <!-- /ZG-FACTORY-HISTORICAL-2026-06-19-0633 -->
 
 <!-- ZG-FACTORY-HISTORICAL-2026-06-19-0418 -->
@@ -1481,7 +1547,7 @@
 
 
 <!-- ZG-ISSUE-CHECK-2026-06-09-1835 -->
-- Issue-check 18:35Z historical context: CTA guard clean (0 unsafe protected CTA classifications); import `2026-06-09_18-31-46.md`, breakout `2026-06-09_18-30-47.md`, and growth `2026-06-09_18-03-34.md` remain valid. Factory current readback is now the 18:48 value-QA block (`latest_social_draft_factory.json@2026-06-09T18:48:15.756242+00:00`): Airtable `rec09D8N5AcCnAM3j`, no Zernio draft, not_sent, promise-gap/missing mistake-tip. Active blockers: result-closure backfill + factory value-QA/source-routing repair. No public posting/spend/generation.
+- Issue-check 18:35Z historical context: CTA guard clean (0 unsafe protected CTA classifications); import `2026-06-09_18-31-46.md`, breakout `2026-06-09_18-30-47.md`, and growth `2026-06-09_18-03-34.md` remain valid. Historical factory reference at that time was the 18:48 value-QA block (`latest_social_draft_factory.json@2026-06-09T18:48:15.756242+00:00`): Airtable `rec09D8N5AcCnAM3j`, no Zernio draft, not_sent, promise-gap/missing mistake-tip. Active blockers: result-closure backfill + factory value-QA/source-routing repair. No public posting/spend/generation.
 
 <!-- ZG-2026-06-10-0010-EXPERIMENT-CREATOR -->
 - **Experiment creator 2026-06-10T00:12:01Z:** 3 draft-only specs created from current KPI evidence; no generation, spend, or public posting. Gate: result-closure + factory source-topic/editorial QA must clear first.
@@ -1522,3 +1588,10 @@
 
 <!-- ZG-ISSUE-CHECK-2026-06-21-1231 -->
 - Issue-check 12:31 UTC: CTA guard clean (unsafe_count=0); best post `7634027210248097042` remains ChatGPT productivity/workflow at 51,391 views / 615 shares, not protected GenLabs CTA. Import `2026-06-21_12-31-38.md` ok; breakout `2026-06-21_12-30-57.md` no candidate; factory `2026-06-21_11-49-21.md` confirms source-lane saturation/zero draft, cron enabled/future-scheduled next `2026-06-21T12:49:22.220991+00:00`. Active blockers: no posts in 72h, source-lane replenishment, experiment result closure. Owner: Hermes/Aion. Deadline: next scheduled cycle.
+
+<!-- ZG-2026-06-22-0000-EXPERIMENT-CREATOR -->
+- Latest experiment creator: 3 draft-only recovery backlog specs: ChatGPT Daily Sales/Service Decision Brief (`kpi-exp-20260622-chatgpt-daily-decision-brief`), NotebookLM Price/Policy Change Answer-Card Audit (`kpi-exp-20260622-notebooklm-policy-answer-audit`), CapCut AI Sound-Off Sales Clip Checklist (`kpi-exp-20260622-capcut-soundoff-sales-checklist`). Gate: source-lane exhaustion + result closure remain open; no posting/spend/generation triggered. CTA guard: protected product-photo/no-prompt CTA not used as hook/topic evidence.
+
+<!-- ZG-SELF-IMPROVEMENT-2026-06-22-1001 -->
+- Zernio 3-day self-improvement 2026-06-22 10:01 UTC: KPI leader is CTA-stripped ChatGPT productivity at 51,391 views / 615 shares; source-lane saturation + result-closure backlog remain active. Rule: next 3 days prioritize practical numbered ChatGPT/NotebookLM Thai carousels; use Canva/CapCut/Perplexity/Gamma/Gemini/Claude/Zapier-Make only as concrete software-tip tests. Owner: Hermes/Aion. Status: open execution loop, no public posting/spend.
+<!-- /ZG-SELF-IMPROVEMENT-2026-06-22-1001 -->

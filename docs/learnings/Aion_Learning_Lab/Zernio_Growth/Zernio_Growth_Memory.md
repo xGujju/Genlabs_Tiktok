@@ -1,9 +1,6 @@
-## Factory verification — 2026-06-22 16:49 UTC
-- Current factory state: 16:49Z exact hourly command plus required recovery rerun both returned `draft_count=0/results=[]`; fresh state `latest_social_draft_factory.json@2026-06-22T16:49:27.197014+00:00`. No new `auto-*` folder/manifest/media after 16:49Z, no new Airtable Carousel Posts row, and no outbound Zernio payload/post. Selector/source diagnosis: canonical selected 0/98 (overlapping blockers: 98 not A/B, 98 watch-for-corroboration, 42 repeat-family, 12 duplicate, 12 no educational value); matrix 0/436; evergreen 0/42; AI Words 0/8; KPI backstop 0/8; existing Carousel Posts 447; partial-source quarantine 34; blocked families 68. Cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-22T17:47:51.329714+00:00`; no lingering factory/radar process at `2026-06-22T16:51:16Z`. Current blocker: source-lane / anti-repetition saturation; urgent next action is replenish fresh practical Thai numbered software-tip sources (ChatGPT/NotebookLM first). Zernio/platform verification is not applicable because no outbound post/payload exists. No public posting/live publishing.
-
 # Zernio Growth Memory
 
-Last updated: 2026-06-22T16:51:16Z
+Last updated: 2026-06-23T16:12:58+00:00
 
 ## KPI
 - Goal: one TikTok post reaches **100,000 views**.
@@ -115,36 +112,18 @@ Last updated: 2026-06-22T16:51:16Z
 
 ## Current breakout watch
 {
-  "status": "confirmed_formal_breakout_current_baseline",
-  "platform_post_id": "7634893611389259016",
-  "label": "เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต…",
-  "pre_run_snapshot_at": "2026-06-21T23:55:08.860999+00:00",
-  "latest_snapshot_at": "2026-06-21T23:55:08.860999+00:00",
-  "latest_reconciled_snapshot_at": "2026-06-21T23:55:08.860999+00:00",
-  "latest_confirmed_snapshot_at": "2026-06-21T23:55:08.860999+00:00",
-  "previous_snapshot_at": "2026-06-21T23:36:28.086075+00:00",
-  "latest_confirmed_delta_views": 94,
-  "latest_confirmed_hourly_velocity": 301.93,
-  "formal_breakout_count": 2,
+  "status": "no_formal_breakout_current_baseline_zero_delta",
+  "pre_run_snapshot_at": "2026-06-23T16:00:57.272924+00:00",
+  "latest_snapshot_at": "2026-06-23T16:00:57.272924+00:00",
+  "latest_reconciled_snapshot_at": "2026-06-23T16:00:57.272924+00:00",
+  "latest_confirmed_snapshot_at": "2026-06-23T16:00:57.272924+00:00",
+  "previous_snapshot_at": "2026-06-23T15:30:15.607330+00:00",
+  "latest_confirmed_delta_views": 0,
+  "latest_confirmed_hourly_velocity": 0.0,
+  "formal_breakout_count": 0,
   "refresh_window_breakout_count": 0,
-  "breakout_count": 2,
-  "current_formal_candidate": {
-    "platform_post_id": "7634893611389259016",
-    "label": "เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต…",
-    "views": 14911,
-    "shares": 126,
-    "gap": 85089,
-    "delta": 94,
-    "hourly": 301.93,
-    "analytics_last_updated": "2026-06-21 23:00:28",
-    "latest_imported_at": "2026-06-21T23:36:35.377058+00:00",
-    "breakout_reasons": [
-      "high_velocity_since_last_snapshot"
-    ],
-    "reason": "normal_baseline_primary_by_kpi_leverage_share_depth",
-    "caveat": "Confirmed by normal >15m velocity baseline; rates are not import-window inflated."
-  },
-  "current_reason": "2026-06-21T23:55:08.860999+00:00 normal velocity baseline confirmed 2 formal breakout_candidates. Primary by KPI leverage/share depth: 7634893611389259016 at 14911 views / 126 shares / +94 views (~301.93 per hour). Raw fastest: 7634893611389259016 +94 views. Post 7634027210248097042 remains ChatGPT productivity/workflow evidence; protected GenLabs no-prompt/10-baht product-photo phrase is CTA copy only.",
+  "breakout_count": 0,
+  "current_reason": "2026-06-23T16:00:57.272924+00:00 normal velocity baseline found no breakout_candidates and no watched-post movement; prior positive movement is watch-only context until a later import/baseline confirms renewed velocity.",
   "best_post_watch": {
     "platform_post_id": "7634027210248097042",
     "label": "ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items",
@@ -155,40 +134,23 @@ Last updated: 2026-06-22T16:51:16Z
     "hourly": 0.0,
     "analytics_last_updated": "2026-06-20 22:41:58",
     "latest_imported_at": "2026-06-21T13:30:59.573495+00:00",
-    "caveat": "Best/closest-to-100k remains CTA-stripped educational evidence; protected CTA is not hook/topic evidence."
-  },
-  "strongest_mover_watch": {
-    "platform_post_id": "7634893611389259016",
-    "label": "เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต…",
-    "views": 14911,
-    "shares": 126,
-    "gap": 85089,
-    "delta": 94,
-    "hourly": 301.93,
-    "analytics_last_updated": "2026-06-21 23:00:28",
-    "latest_imported_at": "2026-06-21T23:36:35.377058+00:00",
-    "breakout_reasons": [
-      "high_velocity_since_last_snapshot"
-    ],
-    "reason": "raw_fastest_normal_baseline_mover",
-    "caveat": "Secondary evidence unless it also has the best KPI leverage."
+    "caveat": "Best/closest-to-100k watch only when current normal baseline has no breakout candidates; protected CTA is not hook/topic evidence."
   },
   "previous_positive_momentum": {
-    "delta": 226,
-    "gap": 99643,
-    "hourly": 453.04,
-    "label": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายคนอยากทำ AI Agent แต่ยังไม่รู…",
-    "latest_confirmed_snapshot_at": "2026-06-21T16:00:19.391654+00:00",
+    "delta": 48,
+    "gap": 85041,
+    "hourly": 117.42,
+    "label": "เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต…",
+    "latest_confirmed_snapshot_at": "2026-06-22T23:55:24.767573+00:00",
     "note": "Superseded as current by a later normal zero-candidate baseline; keep as watch-only context until new movement is confirmed.",
-    "platform_post_id": "7653829036090641684",
-    "shares": 0,
+    "platform_post_id": "7634893611389259016",
+    "shares": 127,
     "status": "previous_positive_momentum_watch_only_context",
-    "views": 357
+    "views": 14959
   },
   "public_posting": false,
   "spending_triggered_by_this_run": false,
-  "generation_triggered_by_this_run": false,
-  "live_publishing": false
+  "generation_triggered_by_this_run": false
 }
 
 ## Current metrics
@@ -205,76 +167,71 @@ Last updated: 2026-06-22T16:51:16Z
   "latest_live_imported_at": "2026-06-21T13:30:59.573495+00:00",
   "primary_analytics_last_updated": "2026-06-20 22:41:58",
   "secondary_platform_post_id": "7635310153126087954",
-  "secondary_views": 10237,
+  "secondary_views": 10238,
   "secondary_shares": 97,
-  "secondary_gap_to_100k": 89763,
-  "secondary_imported_at": "2026-06-21T23:36:35.377058+00:00",
-  "secondary_analytics_last_updated": "2026-06-21 23:00:28",
+  "secondary_gap_to_100k": 89762,
+  "secondary_imported_at": "2026-06-23T16:02:04.344200+00:00",
+  "secondary_analytics_last_updated": "2026-06-22 23:19:50",
   "secondary_delta": 0,
   "secondary_hourly": 0.0,
-  "secondary_status": "watch_only_secondary_reference",
-  "current_breakout_platform_post_id": "7634893611389259016",
-  "current_breakout_views": 14911,
-  "current_breakout_shares": 126,
-  "current_breakout_gap_to_100k": 85089,
-  "current_breakout_status": "confirmed_formal_breakout_current_baseline",
-  "formal_breakout_count": 2,
+  "secondary_status": "previous_positive_momentum_watch_only_context",
+  "primary_latest_confirmed_delta": 0,
+  "primary_latest_confirmed_hourly": 0.0,
+  "previous_positive_platform_post_id": "7634893611389259016",
+  "previous_positive_delta": 48,
+  "previous_positive_hourly": 117.42,
+  "current_breakout_platform_post_id": null,
+  "current_breakout_views": null,
+  "current_breakout_shares": null,
+  "current_breakout_gap_to_100k": null,
+  "current_breakout_status": "no_formal_breakout_current_baseline_zero_delta",
+  "formal_breakout_count": 0,
   "refresh_window_breakout_count": 0,
-  "breakout_count": 2,
-  "current_breakout_latest_confirmed_delta": 94,
-  "current_breakout_latest_confirmed_hourly": 301.93,
-  "latest_reconciled_snapshot_at": "2026-06-21T23:55:08.860999+00:00",
-  "latest_confirmed_snapshot_at": "2026-06-21T23:55:08.860999+00:00",
+  "breakout_count": 0,
+  "current_breakout_latest_confirmed_delta": 0,
+  "current_breakout_latest_confirmed_hourly": 0.0,
   "current_breakout_post_import_delta": 0,
   "current_breakout_import_window_hourly": null,
-  "latest_confirmed_breakout_platform_post_id": "7634893611389259016",
-  "latest_confirmed_breakout_views": 14911,
-  "latest_confirmed_breakout_shares": 126,
-  "latest_confirmed_breakout_gap_to_100k": 85089,
-  "latest_confirmed_breakout_delta": 94,
-  "latest_confirmed_breakout_hourly": 301.93,
+  "latest_confirmed_breakout_platform_post_id": null,
+  "latest_confirmed_breakout_views": null,
+  "latest_confirmed_breakout_shares": null,
+  "latest_confirmed_breakout_gap_to_100k": null,
+  "latest_confirmed_breakout_delta": 0,
+  "latest_confirmed_breakout_hourly": 0.0,
   "post_import_refresh_window_delta_views": 0,
   "post_import_refresh_window_hourly": 0.0,
-  "strongest_mover_platform_post_id": "7634893611389259016",
-  "strongest_mover_views": 14911,
-  "strongest_mover_shares": 126,
-  "strongest_mover_delta": 94,
-  "strongest_mover_hourly": 301.93,
-  "strongest_mover_status": "formal_baseline_mover",
-  "latest_absolute_snapshot_at": "2026-06-21T23:55:34.270897+00:00",
+  "latest_reconciled_snapshot_at": "2026-06-23T16:00:57.272924+00:00",
+  "latest_confirmed_snapshot_at": "2026-06-23T16:00:57.272924+00:00",
+  "latest_absolute_snapshot_at": "2026-06-23T16:07:45.480041+00:00",
   "note": "Absolute metrics refreshed by zernio_growth_snapshot.py; confirmed velocity/baseline context is preserved separately."
 }
 
 ## Scheduler cadence watch
 {
-  "cron_next_run_at": "historical 02:59 next-run timestamp superseded by 04:08 readback",
-  "job_id": "a97a7703af32",
-  "last_verified_at": "2026-06-22T02:59:02Z",
-  "media_count": 0,
-  "next_run_at": "historical 02:59 next-run timestamp superseded by 04:08 readback",
-  "severity": "critical",
-  "status": "source_lane_exhaustion_open_scheduler_current",
-  "updated_at": "2026-06-22T02:59:02Z"
+  "issue": "zernio_factory_scheduler_cadence_readback_resolved",
+  "status": "resolved_current_for_tick",
+  "severity": "info",
+  "owner": "Hermes/Aion",
+  "latest_evidence": "Manual exact command plus required recovery at 16:09/16:11Z both exited 0 with draft_count=0/results=[] and refreshed state latest_social_draft_factory.json@2026-06-23T16:11:35.254662+00:00; cron a97a7703af32 remains enabled/future-scheduled next 2026-06-23T17:09:26.036326+00:00; no lingering factory/radar process at 2026-06-23T16:12:58Z.",
+  "impact_on_kpi": "Scheduler cadence is current; KPI blocker is source-lane/anti-repetition saturation.",
+  "next_action": "Replenish fresh practical Thai numbered software-tip source lanes while keeping the production cron enabled/draft-only.",
+  "factory_state_token": "latest_social_draft_factory.json@2026-06-23T16:11:35.254662+00:00",
+  "factory_next_run_at": "2026-06-23T17:09:26.036326+00:00",
+  "process_check": "2026-06-23T16:12:58Z"
 }
 
 ## Factory verification
-- Current factory readback — historical 02:59 exact hourly command and required source-exhaustion recovery rerun both exited 0 with `draft_count=0/results=[]`. Fresh state `historical 02:59 zero-draft state`; no new `auto-*` folder/manifest/media after the 02:59 recovery state; no current Airtable Carousel Posts row or outbound Zernio payload/post exists, so Zernio/platform verification is not applicable for this tick. Selector/static-lane diagnosis: canonical=0, matrix=not rerun in verifier to avoid pointer mutation, evergreen=0/42, AI Words=0/8, KPI backstop=0/8; existing Carousel Posts=445; partial-source quarantine=34; blocked families=68. Cron `a97a7703af32` remains enabled/future-scheduled next `historical 02:59 next-run timestamp superseded by 04:08 readback`; no lingering factory/radar process at the 02:59 verifier. KPI blocker: source-lane/anti-repetition saturation; replenish practical Thai numbered software-tip sources (ChatGPT/NotebookLM first, then Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude, Zapier/Make) without weakening duplicate/value-QA gates. Keep production cron enabled/draft-only; no public posting/live publishing.
+{}
 
 ## Current issues
 [
   {
-    "cron_next_run_at": "historical 02:59 next-run timestamp superseded by 04:08 readback",
+    "cron_next_run_at": "2026-06-23T17:09:26.036326+00:00",
     "issue": "factory_source_lane_exhaustion",
-    "last_verified_at": "2026-06-22T02:59:02Z",
-    "latest_output": "historical 02:59 zero-draft state",
-    "next_action": "Replenish practical Thai numbered software-tip source lanes; keep cron enabled/draft-only; do not weaken duplicate/value-QA gates.",
-    "owner": "Hermes/Aion",
-    "process_check": "2026-06-22T02:59:02Z",
-    "severity": "critical",
-    "state_token": "historical 02:59 zero-draft state",
-    "status": "open_source_lane_saturation_current_0632",
-    "title": "Factory source-lane exhaustion — 06:32 cron zero draft",
-    "next_run_at": "historical 02:59 next-run timestamp superseded by 04:08 readback"
+    "last_verified_at": "2026-06-23T16:12:58Z",
+    "latest_evidence": "exact+recovery zero-draft/no-payload; state latest_social_draft_factory.json@2026-06-23T16:11:35.254662+00:00; canonical 0, matrix 0, evergreen 0/42, AI Words 0/8, KPI 0/8 selectable; no current manifest/Airtable/Zernio payload.",
+    "next_action": "Replenish fresh practical Thai numbered software-tip source lanes; keep cron enabled/draft-only and do not force filler drafts.",
+    "status": "open_source_lane_exhaustion_scheduler_current"
   },
   {
     "issue": "active_experiment_result_closure_overdue",
@@ -282,14 +239,21 @@ Last updated: 2026-06-22T16:51:16Z
     "owner": "Hermes/Aion",
     "severity": "medium",
     "status": "open"
+  },
+  {
+    "issue": "zernio_fbig_accounts_not_exposed",
+    "next_action": "Fix Zernio FB/IG account access/config before expecting cross-post first-comment verification.",
+    "owner": "Hermes/Aion",
+    "severity": "medium",
+    "status": "open_config_caveat"
   }
 ]
 
 ## Last 3 useful lessons
 [
-  "2026-06-22 02:59 factory: exact+required recovery produced zero drafts; no payload; static/source lanes saturated; replenish ChatGPT/NotebookLM-first software-tip sources while keeping cron enabled.",
-  "2026-06-21 16:00 growth-check: normal baseline confirmed breakout candidate 7653829036090641684 at 357 views / +226 (~453.04/hr); amplify AI Agent beginner/start-point angle draft-only while preserving ChatGPT productivity as KPI leader.",
-  "2026-06-21 12:00 growth-check: no formal breakout; ChatGPT practical productivity/work-output remains KPI leader at 51,391 views / 615 shares; close result loops and replenish source lanes."
+  "16:11 factory readback: exact+recovery produced fresh zero-draft state `latest_social_draft_factory.json@2026-06-23T16:11:35.254662+00:00`; scheduler current/future-scheduled; source-lane exhaustion open.",
+  "2026-06-23T12:49 issue-check: analytics import refreshed 47 records/0 created; CTA guard unsafe_count=0; no breakout; factory source-lane exhaustion remains the primary KPI blocker.",
+  "Do not force filler drafts when canonical/matrix/evergreen/AI Words/KPI lanes are all blocked; replenish ChatGPT/NotebookLM-first numbered software-tip sources."
 ]
 
 ## Active experiments
@@ -536,13 +500,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=300 views and >=3 shares/comments; watch for comments asking for an interview-note template.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมโน้ตสัมภาษณ์/แชท/เสียงถอดความไว้ชุดเดียว แล้วลบชื่อ เบอร์ และข้อมูลส่วนตัวก่อนวางให้ AI",
-      "ให้ ChatGPT แยกคำพูดลูกค้าเป็นหมวด pain point, คำถาม, objection, คำชม, และสิ่งที่อยากได้",
-      "ขอ top 3 insight พร้อม quote ตัวอย่าง เพื่อไม่สรุปจากความรู้สึกเราเอง",
-      "ให้ AI แปลง insight เป็น action: แก้ offer, ปรับหน้าเว็บ, ทำ FAQ, หรือ follow-up ลูกค้า",
-      "ทำตาราง owner / deadline / evidence / risk เพื่อรู้ว่าทีมต้องทำอะไรก่อน",
-      "ให้ AI ร่างคำถาม follow-up 5 ข้อสำหรับข้อมูลที่ยังคลุมเครือ",
-      "หลังลองแก้ 1 สัปดาห์ วางโน้ตรอบใหม่ให้ AI เทียบว่า pain point ลดลงหรือยัง"
+      "ให้ ChatGPT แยกคำพูดลูกค้าเป็นหมวด pain point, คำถาม, objection, คำชม, และสิ่งที่อยากได้"
     ],
     "tool": "ChatGPT / file + text analysis"
   },
@@ -556,13 +516,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=250 views and >=3 shares/comments; watch for comments asking for FAQ/answer-card templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด SOP, ราคา, package, policy, FAQ เก่า, post-care notes, และเงื่อนไขบริการเป็น source เดียว",
-      "ถาม NotebookLM ให้สรุปคำถามที่ทีมต้องตอบบ่อย พร้อม citation ว่ามาจากไฟล์ไหน",
-      "ทำ answer card สั้นสำหรับ LINE/inbox: คำตอบหลัก, ข้อจำกัด, และข้อมูลที่ต้องถามเพิ่ม",
-      "แยกคำถามที่ตอบได้แน่ ๆ กับคำถามที่ต้องส่งต่อเจ้าของ/ผู้เชี่ยวชาญ",
-      "ให้ AI หา gap ในเอกสาร เช่น ราคาไม่ครบ เงื่อนไขยกเลิกไม่ชัด หรือคำตอบขัดกัน",
-      "ทำ quiz/roleplay 5 เคสให้พนักงานซ้อมตอบก่อนใช้จริง",
-      "ตั้งรอบอัปเดต source ทุกครั้งที่ราคา/โปร/นโยบายเปลี่ยน แล้วให้ NotebookLM เช็กคำตอบที่ต้องแก้"
+      "ถาม NotebookLM ให้สรุปคำถามที่ทีมต้องตอบบ่อย พร้อม citation ว่ามาจากไฟล์ไหน"
     ],
     "tool": "NotebookLM"
   },
@@ -576,13 +532,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,000 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for comments asking for a booking-leak sheet template.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "ทำชีต booking ง่าย ๆ: วันที่ ช่องทาง ลูกค้า บริการ มูลค่า สถานะ และเหตุผลที่หลุด",
-      "ให้ ChatGPT จัดกลุ่มสถานะ เช่น จองแล้ว, รอจ่ายมัดจำ, no-show, ขอเลื่อน, ถามราคาแล้วหาย",
-      "ถามช่วงเวลา/ช่องทาง/บริการที่หลุดบ่อยที่สุด พร้อมตัวเลขนับจริง",
-      "ให้ AI หา pattern เช่น ตอบช้า ราคาไม่ชัด คิวเต็ม หรือไม่มี reminder ก่อนนัด",
-      "ทำ action 7 วัน เช่น reminder template, มัดจำชัดขึ้น, follow-up 24 ชม., หรือเปลี่ยนข้อความปิดการขาย",
-      "ให้ ChatGPT ร่างข้อความติดตาม 3 โทน: สุภาพ เร่งด่วน และให้ข้อมูลเพิ่ม",
-      "ทำ mini dashboard รายสัปดาห์: booking, no-show, lost lead, recovery และรายได้ที่กู้กลับมาได้"
+      "ให้ ChatGPT จัดกลุ่มสถานะ เช่น จองแล้ว, รอจ่ายมัดจำ, no-show, ขอเลื่อน, ถามราคาแล้วหาย"
     ],
     "tool": "ChatGPT in Google Sheets / Google Workspace"
   },
@@ -597,13 +549,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=300 views and >=3 shares/comments; watch for comments asking for quote/follow-up templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "วาง service menu, ราคาเริ่มต้น, ข้อจำกัด, และสิ่งที่ห้ามรับปากเกินจริงให้ ChatGPT ก่อน",
-      "สรุปความต้องการลูกค้าจากแชท/โน้ตคุยงานเป็น pain point, budget, deadline, และคำถามค้าง",
-      "ขอแพ็กเกจ 3 ระดับ: เริ่มต้น / แนะนำ / พรีเมียม พร้อมสิ่งที่รวมและไม่รวม",
-      "ให้ AI เขียนใบเสนอราคาภาษาไทยแบบอ่านง่าย: ปัญหา → ทางแก้ → ราคา → ขั้นตอนถัดไป",
-      "สร้างคำตอบ objection 3 แบบ: แพงไป, ขอคิดก่อน, กลัวไม่คุ้ม โดยไม่กดดันลูกค้าเกินจริง",
-      "ทำ follow-up 24 ชม. / 3 วัน / 7 วัน ให้โทนต่างกัน: สุภาพ, ช่วยตัดสินใจ, เตือนโปร/คิว",
-      "ทำ checklist ก่อนส่ง: ตัวเลขถูก, เงื่อนไขชัด, ไม่เปิดเผยข้อมูลส่วนตัว, มี next step เดียว"
+      "สรุปความต้องการลูกค้าจากแชท/โน้ตคุยงานเป็น pain point, budget, deadline, และคำถามค้าง"
     ],
     "tool": "ChatGPT",
     "topic": "Turn customer needs/chats into clear service packages, quote text, objections, and follow-up messages.",
@@ -620,13 +568,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=250 views and >=3 shares/comments; watch for comments asking for content calendar/source template.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด FAQ, รีวิว, ราคา, service menu, policy, คู่มือ, และคำถามในแชทเป็น source ของ NotebookLM",
-      "ถามว่า “ลูกค้าสงสัยเรื่องอะไรซ้ำที่สุด” แล้วให้ดึง quote/หัวข้อพร้อม citation จากไฟล์จริง",
-      "ให้จัดคำถามเป็น 5 bucket: ราคา, ขั้นตอน, ความเสี่ยง, ผลลัพธ์, และก่อน/หลังใช้บริการ",
-      "แปลงแต่ละ bucket เป็น hook โพสต์แบบ “เข้าใจผิด/เช็กก่อน/3 ข้อควรรู้/ตัวอย่างจริง”",
-      "ขอ outline carousel 5–7 สไลด์ที่ตอบ 1 คำถามต่อโพสต์ โดยไม่อ้างเกินเอกสาร",
-      "ให้ NotebookLM ทำ content calendar 7 วัน: คำถาม, angle, หลักฐานจาก source, และ CTA ที่เหมาะ",
-      "ตั้งกฎตรวจซ้ำ: ทุกโพสต์ต้องมี citation ใน source และแยก “ข้อมูลไม่แน่ใจ” ไว้ถามเจ้าของก่อนลง"
+      "ถามว่า “ลูกค้าสงสัยเรื่องอะไรซ้ำที่สุด” แล้วให้ดึง quote/หัวข้อพร้อม citation จากไฟล์จริง"
     ],
     "tool": "NotebookLM",
     "topic": "Use source-grounded business docs/customer questions to generate trustworthy content ideas and a weekly content plan.",
@@ -643,13 +587,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,000 views or share_rate >=0.8%; if below average but comments are strong, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for comments asking for mini-agent/Artifact templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "เลือกงานซ้ำ 1 อย่างที่เล็กพอ เช่น คัด lead, เช็ก booking, สรุปเคสลูกค้า, หรือเตรียม reply",
-      "เขียน input/output ให้ชัด: ข้อมูลที่ใส่เข้าไปคืออะไร และผลลัพธ์ที่ต้องการใช้ต่อคืออะไร",
-      "วางตัวอย่างจริง 3 เคส พร้อมกฎร้าน/ทีม เช่น ห้ามรับปากเกินจริง, ต้องส่งต่อเมื่อเสี่ยง",
-      "ให้ ChatGPT สร้าง Artifact เป็น checklist, form, table, หรือ mini dashboard ที่คนในทีมลองใช้ได้",
-      "ทดสอบด้วยเคสง่าย/ยาก/ขอบเขตเทา 5 เคส แล้วจดว่าตรงไหนยังต้องให้คนตัดสินใจ",
-      "เพิ่มขั้น “human approval” ก่อนส่งลูกค้า/ลงระบบจริง เพื่อไม่ให้ agent ทำพลาดแบบอัตโนมัติ",
-      "ถ้าทดลองแล้วช่วยได้จริง ค่อยแยกงานเป็น automation brief: trigger, action, owner, risk, และ success metric"
+      "เขียน input/output ให้ชัด: ข้อมูลที่ใส่เข้าไปคืออะไร และผลลัพธ์ที่ต้องการใช้ต่อคืออะไร"
     ],
     "tool": "ChatGPT Artifacts / ChatGPT Projects",
     "topic": "Validate a tiny AI-agent workflow as a checklist/form/table Artifact before spending on automation.",
@@ -667,13 +607,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves appear, target >=5 saves.",
     "target_2h": ">=300 views and >=3 shares/comments; watch for comments asking for offer/package templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวม quote/แชท/โน้ตสัมภาษณ์ลูกค้า 5–10 ชิ้น แล้วลบชื่อ เบอร์ และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
-      "ขอให้ AI แยก pain point ตามความเร่งด่วน เงินที่เสีย เวลา และความเสี่ยงที่ลูกค้ากลัว",
-      "เลือก pain ที่แรงที่สุด 1 เรื่อง แล้วให้ AI เขียนผลลัพธ์ที่บริการควรช่วยให้ลูกค้าเห็นชัด",
-      "ให้ ChatGPT ออกแพ็กเกจ 3 ระดับ: เริ่มต้น / แนะนำ / พรีเมียม พร้อมสิ่งที่รวมและไม่รวม",
-      "สร้างข้อความ offer แบบ before → after → หลักฐานจาก quote → next step เดียว",
-      "ขอคำตอบ objection 3 แบบ: แพงไป, ขอคิดก่อน, ไม่แน่ใจว่าจะคุ้ม โดยไม่กดดันหรือรับปากเกินจริง",
-      "ทำ checklist ก่อนใช้จริง: ตัวเลขถูก, เงื่อนไขชัด, ไม่เปิดเผยข้อมูลส่วนตัว, และแยกสิ่งที่ต้องถามเจ้าของก่อน"
+      "ขอให้ AI แยก pain point ตามความเร่งด่วน เงินที่เสีย เวลา และความเสี่ยงที่ลูกค้ากลัว"
     ],
     "tool": "ChatGPT",
     "topic": "Turn real customer quotes/notes into a clear service offer, package, objections, and sales message without overclaiming.",
@@ -691,13 +627,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves appear, target >=5 saves.",
     "target_2h": ">=250 views and >=3 shares/comments; watch for comments asking for answer-card/gap-audit templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด price list, package, policy, FAQ เก่า, post-care note, เงื่อนไขยกเลิก/คืนเงิน และ SOP เป็น source ของ NotebookLM",
-      "ถาม NotebookLM ว่า “ข้อมูลไหนตอบไม่ตรงกันหรือขัดกัน” พร้อม citation ว่ามาจากไฟล์ไหน",
-      "ให้ทำตาราง gap: คำถามลูกค้า / ข้อมูลที่มี / ข้อมูลที่ยังไม่มี / คนที่ต้องยืนยัน",
-      "แยกคำตอบเป็น 3 กลุ่ม: ตอบได้แน่, ต้องถามเพิ่ม, และห้ามตอบเองเพราะเสี่ยง",
-      "สร้าง answer card สั้นสำหรับ LINE/inbox พร้อมเงื่อนไข ข้อจำกัด และสิ่งที่ต้องส่งต่อเจ้าของ",
-      "ทำ quiz/roleplay 5 เคสให้แอดมินซ้อมตอบโดยอ้างอิง source ไม่เดาเอง",
-      "ตั้งรอบอัปเดต source ทุกครั้งที่ราคา โปร นโยบาย หรือแพ็กเกจเปลี่ยน แล้วให้ NotebookLM เช็กคำตอบเดิมที่ต้องแก้"
+      "ถาม NotebookLM ว่า “ข้อมูลไหนตอบไม่ตรงกันหรือขัดกัน” พร้อม citation ว่ามาจากไฟล์ไหน"
     ],
     "tool": "NotebookLM",
     "topic": "Audit real service documents for missing/contradicting answers, then create safe source-grounded answer cards for admins.",
@@ -715,13 +647,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,000 views or share_rate >=0.8%; if below average but comments are strong, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for comments asking for a script/template or “ทำแบบนี้ยังไง”.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "เลือกรีวิวหรือผลลัพธ์จริง 1 เคส แล้วลบชื่อ เบอร์ หน้า และข้อมูลส่วนตัวก่อนใช้",
-      "เขียน first 3 seconds เป็น pain/result ชัด ๆ เช่น “ลูกค้าถามราคาแล้วหาย เพราะ offer ไม่ชัด”",
-      "จัด shot 4 ช่วง: ปัญหา → หลักฐานรีวิว/ภาพก่อนหลัง → สิ่งที่ร้านทำ → next step",
-      "ใช้ CapCut AI ช่วยทำ script/voiceover สั้น 35–45 คำ ไม่ยัดข้อมูลเกิน 15 วินาที",
-      "ใส่ subtitle ใหญ่ อ่านง่าย และเน้นคำสำคัญ 3 จุด ไม่ใช่ข้อความแน่นทั้งจอ",
-      "ตัดช่วงเงียบ/ภาพซ้ำ/คำฟุ่มเฟือย แล้วเช็กว่าคนดูเข้าใจผลลัพธ์ได้แม้ปิดเสียง",
-      "ปิดด้วย CTA ที่ไม่อวดเกินจริง: ขอ checklist, ทักถามแพ็กเกจ, หรือดูตัวอย่างเพิ่ม"
+      "เขียน first 3 seconds เป็น pain/result ชัด ๆ เช่น “ลูกค้าถามราคาแล้วหาย เพราะ offer ไม่ชัด”"
     ],
     "tool": "CapCut AI",
     "topic": "Turn a real review/result into a 15-second proof video with hook, captions, scene order, and non-overclaiming CTA.",
@@ -738,13 +666,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves appear, target >=5 saves.",
     "target_2h": ">=300 views and >=3 shares/comments; watch for comments asking for reply templates or “ตอบลูกค้าแบบนี้ยังไง”.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมแชท/รีวิว/รายละเอียดเคส แล้วลบชื่อ เบอร์ ใบเสร็จ และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
-      "ให้ AI แยกปัญหาเป็นหมวด: ส่งช้า ราคาไม่ชัด เข้าใจผิด คุณภาพบริการ หรือขอคืนเงิน/เลื่อนนัด",
-      "ขอให้สรุป 3 ส่วน: ข้อเท็จจริงที่รู้แล้ว ความรู้สึกลูกค้า และข้อมูลที่ยังต้องถามเพิ่ม",
-      "ให้ร่างคำตอบ 3 จังหวะ: รับฟัง → อธิบายตามหลักฐาน → เสนอ next step เดียวที่ลูกค้าทำได้ทันที",
-      "สร้างตัวเลือก recovery ที่ไม่รับปากเกินจริง เช่น แก้ไขงาน นัดใหม่ ส่วนลดตามนโยบาย หรือส่งต่อเจ้าของ",
-      "ทำโน้ตภายในสำหรับทีม: ใครต้องเช็กอะไร หลักฐานอยู่ตรงไหน และต้องตอบกลับภายในเวลาใด",
-      "ขอเวอร์ชันสั้นสำหรับคอมเมนต์สาธารณะ + เวอร์ชันละเอียดสำหรับ LINE/inbox + ข้อความ follow-up หลังแก้เคส"
+      "ให้ AI แยกปัญหาเป็นหมวด: ส่งช้า ราคาไม่ชัด เข้าใจผิด คุณภาพบริการ หรือขอคืนเงิน/เลื่อนนัด"
     ],
     "tool": "ChatGPT",
     "topic": "Turn angry customer chats/reviews into calm, policy-safe replies, recovery options, and follow-up notes without overpromising.",
@@ -761,13 +685,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves appear, target >=5 saves.",
     "target_2h": ">=250 views and >=3 shares/comments; watch for comments asking for caption-check templates or “ใช้กับคลินิกได้ไหม”.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด price list, package, policy, FAQ, post-care note, เงื่อนไขยกเลิก/คืนเงิน และข้อจำกัดบริการเป็น source",
-      "วาง caption/โปร/สคริปต์ขายที่อยากโพสต์ แล้วถามว่า “ประโยคไหนมีหลักฐานใน source และประโยคไหนเสี่ยงเกินไป”",
-      "ให้ NotebookLM ทำตาราง เขียว/เหลือง/แดง: พูดได้, ต้องแก้คำ, และห้ามโพสต์จนกว่าจะยืนยัน",
-      "ขอ citation ว่าคำเคลมแต่ละข้ออ้างจากไฟล์ไหน หน้า/หัวข้อไหน เพื่อทีมตรวจย้อนกลับได้",
-      "ให้ AI rewrite ประโยคเสี่ยงเป็นภาษาปลอดภัย เช่น เปลี่ยน “หายแน่นอน” เป็น “ผลลัพธ์ขึ้นกับแต่ละคน”",
-      "ทำลิสต์คำถามที่ต้องถามเจ้าของ/ผู้เชี่ยวชาญก่อนโพสต์ เช่น ราคา เงื่อนไข ข้อยกเว้น หรือเคสที่ไม่รับ",
-      "สร้าง checklist ก่อนลงจริง: source ครบ, claim มีหลักฐาน, ไม่มีข้อมูลส่วนตัว, CTA ไม่สัญญาเกินจริง"
+      "วาง caption/โปร/สคริปต์ขายที่อยากโพสต์ แล้วถามว่า “ประโยคไหนมีหลักฐานใน source และประโยคไหนเสี่ยงเกินไป”"
     ],
     "tool": "NotebookLM",
     "topic": "Use NotebookLM to check captions/promotions against source documents so admins avoid unsupported claims, policy mistakes, and risky overpromises.",
@@ -784,13 +704,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,000 views or share_rate >=0.8%; if below average but comments/saves are strong, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for comments asking for winback sheet/template.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "ทำชีตง่าย ๆ: ชื่อลูกค้า/รหัส, บริการล่าสุด, วันที่มา, มูลค่า, ช่องทาง, consent, ปัญหาที่เคยเจอ และนัดถัดไปที่ควรมี",
-      "ให้ ChatGPT แบ่งกลุ่มลูกค้าเป็น VIP, repeat, หายไป 60–90 วัน, เคยถามแต่ยังไม่ซื้อ, และควรเว้นห้ามทัก",
-      "ถามว่า “กลุ่มไหนควรทักกลับก่อน เพราะอะไร” พร้อมจำนวนคน มูลค่าประมาณ และความเสี่ยงที่จะรบกวนลูกค้า",
-      "ให้ AI เสนอ offer/เหตุผลการทักที่เหมาะกับแต่ละกลุ่ม เช่น เช็กผลลัพธ์ นัด follow-up แพ็กเกจเดิม หรือบริการเสริม",
-      "สร้างข้อความ LINE/SMS 3 โทน: ดูแลหลังบริการ, แจ้งเตือนนัด, และเสนอโปรแบบไม่กดดัน",
-      "ทำ stop-list ก่อนส่ง: ไม่มี consent, เคยร้องเรียนแรง, ข้อมูลไม่ครบ, หรือเพิ่งถูกทักไปไม่นาน",
-      "ติดตามผลในชีต: ส่งแล้ว, ตอบแล้ว, จองแล้ว, ไม่สนใจ, รายได้กู้กลับมา และสิ่งที่ต้องแก้รอบหน้า"
+      "ให้ ChatGPT แบ่งกลุ่มลูกค้าเป็น VIP, repeat, หายไป 60–90 วัน, เคยถามแต่ยังไม่ซื้อ, และควรเว้นห้ามทัก"
     ],
     "tool": "ChatGPT in Google Sheets / Google Workspace",
     "topic": "Use ChatGPT in Sheets to segment old customers, find reactivation opportunities, write safe follow-up messages, and track recovered bookings/revenue.",
@@ -807,13 +723,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves appear, target >=5 saves.",
     "target_2h": ">=300 views and >=3 shares/comments; watch for comments asking for brand-voice prompt/templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวบรวมแชท/caption/FAQ ที่ตอบดี 5–10 ตัวอย่าง แล้วลบชื่อ เบอร์ ราคาเฉพาะเคส และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
-      "กำหนดเสียงแบรนด์ 4 ช่อง: สุภาพ/เป็นกันเอง/เชี่ยวชาญ/ไม่ขายแข็ง พร้อมคำที่ใช้ได้และคำที่ห้ามใช้",
-      "เพิ่มข้อมูลสินค้า/บริการ ราคา เงื่อนไข ข้อจำกัด และสิ่งที่ห้ามรับปากเกินจริงให้ AI เห็นก่อนเขียน",
-      "ให้ ChatGPT ทำ style guide สั้น ๆ: ประโยคเปิด คำลงท้าย วิธีอธิบายราคา และวิธีขอโทษ/ปฏิเสธแบบรักษาลูกค้า",
-      "ทดสอบ 3 เคสจริง: ถามราคา, ขอส่วนลด, บ่น/รีวิวแรง แล้วขอคำตอบ 3 โทนให้ทีมเลือก",
-      "ทำ quick prompt หรือ Project/Custom Instruction ให้แอดมินใช้ซ้ำ พร้อม checklist ก่อนส่งจริง",
-      "อัปเดตเสียงแบรนด์ทุกสัปดาห์จากคำถาม/คอมเมนต์ที่ลูกค้าตอบกลับดี และแยกเคสที่ต้องให้คนอนุมัติก่อนส่ง"
+      "กำหนดเสียงแบรนด์ 4 ช่อง: สุภาพ/เป็นกันเอง/เชี่ยวชาญ/ไม่ขายแข็ง พร้อมคำที่ใช้ได้และคำที่ห้ามใช้"
     ],
     "tool": "ChatGPT / Custom Instructions / Projects",
     "topic": "Turn existing customer replies and service rules into a reusable ChatGPT brand-voice system for consistent LINE/inbox captions and replies.",
@@ -830,13 +742,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves appear, target >=5 saves.",
     "target_2h": ">=250 views and >=3 shares/comments; watch for “ขอ SOP/quiz template” or “ใช้กับทีมได้ไหม” comments.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด SOP, ราคา, policy, FAQ, post-care note, service menu และตัวอย่างเคสจริงเป็น source เดียวของทีม",
-      "ถาม NotebookLM ให้แยก “งานที่ต้องทำทุกวัน / เคสเสี่ยง / คำถามที่ลูกค้าถามบ่อย” พร้อม citation จากไฟล์จริง",
-      "ให้ทำบทเรียน 10 นาทีสำหรับพนักงานใหม่: สิ่งที่ต้องจำ, ห้ามตอบเอง, และจุดที่ต้องส่งต่อเจ้าของ/ผู้เชี่ยวชาญ",
-      "ใช้ Audio Overview หรือให้ AI ร่างสคริปต์เสียงสั้น ๆ เพื่อให้ทีมฟังทบทวนก่อนเริ่มกะ/ก่อนตอบลูกค้าจริง",
-      "สร้าง quiz 7 ข้อจากเอกสารจริง พร้อมเฉลยและเหตุผลว่าคำตอบอ้างจาก source ไหน",
-      "ทำ roleplay 5 เคส เช่น ลูกค้าถามราคา ขอเลื่อนนัด ขอคืนเงิน หรือถามผลลัพธ์เกินจริง แล้วให้ทีมซ้อมตอบ",
-      "ตั้งรอบอัปเดต source ทุกครั้งที่ราคา/โปร/นโยบายเปลี่ยน และให้ NotebookLM เช็กบทเรียน/quiz ที่ต้องแก้"
+      "ถาม NotebookLM ให้แยก “งานที่ต้องทำทุกวัน / เคสเสี่ยง / คำถามที่ลูกค้าถามบ่อย” พร้อม citation จากไฟล์จริง"
     ],
     "tool": "NotebookLM / Audio Overview / source-grounded Q&A",
     "topic": "Use NotebookLM to turn real SOP/service documents into audio-friendly lessons, quizzes, and roleplay drills for new staff.",
@@ -853,13 +761,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,000 views or share_rate >=0.8%; if below average but comments/saves are strong, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for creators asking for a 3-second hook checklist or CapCut workflow.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "ใส่เป้าหมายคลิป 1 อย่างก่อน: ให้คนทัก, เซฟ checklist, เข้าใจราคา, จองคิว หรือดูตัวอย่างบริการเพิ่ม",
-      "ให้ CapCut AI/AI writer ช่วยร่าง hook 3 แบบใน 3 วินาทีแรก: pain, result, หรือ mistake ที่คนดูเจอบ่อย",
-      "เลือกภาพเปิดที่สื่อผลลัพธ์ทันที: ก่อน/หลัง, รีวิวจริง, หน้างาน, ตารางราคา, หรือปัญหาที่แก้ให้ลูกค้า",
-      "ตัดช่วงเงียบ ภาพซ้ำ และคำอธิบายยาวก่อนเข้าประเด็น ให้เนื้อหาหลักเริ่มภายใน 1–2 วินาที",
-      "ใส่ subtitle ใหญ่และสั้นพออ่านทัน โดยเน้นคำสำคัญไม่เกิน 3 จุดแทนการยัดข้อความทั้งจอ",
-      "ทำเวอร์ชัน A/B สอง opening text แล้วเทียบว่าเวอร์ชันไหนเข้าใจเร็วกว่าเมื่อปิดเสียง",
-      "เช็กก่อนลง: hook ตรงกับเนื้อหา, ไม่เคลมเกินจริง, มี CTA เดียว และคนดูรู้ next step หลัง 15 วินาที"
+      "ให้ CapCut AI/AI writer ช่วยร่าง hook 3 แบบใน 3 วินาทีแรก: pain, result, หรือ mistake ที่คนดูเจอบ่อย"
     ],
     "tool": "CapCut AI / TikTok short-video workflow",
     "topic": "Use CapCut AI to improve the first 3 seconds, subtitles, pacing, and CTA of short TikTok videos before publishing.",
@@ -882,13 +786,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=300 views and >=3 shares/comments; watch for comments asking for the follow-up template.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวม lead/แชท/booking 10–20 รายการ แล้วลบชื่อ เบอร์ และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
-      "ให้ AI แยกสถานะลูกค้า: ถามราคา, รอใบเสนอราคา, นัดแล้ว, ขอเลื่อน, เงียบเกิน 24 ชม., หรือปิดการขายแล้ว",
-      "ขอ next action ของแต่ละราย: ต้องตอบอะไร วันนี้หรือพรุ่งนี้ และต้องถามข้อมูลอะไรเพิ่ม",
-      "ตั้ง ChatGPT Tasks หรือรายการเตือนซ้ำแบบ manual fallback: วันนี้, 24 ชม., 3 วัน, 7 วัน โดยไม่ทักถี่เกินไป",
-      "ให้ร่างข้อความ follow-up 3 โทน: ดูแล, ช่วยตัดสินใจ, และปิดเคสแบบสุภาพ พร้อมข้อห้ามรับปากเกินจริง",
-      "ทำรีวิว 10 นาทีทุกเช้า: ลูกค้าที่ต้องทักวันนี้ / เกินกำหนด / ต้องส่งต่อคนในทีม / ห้ามทักเพราะไม่มี consent",
-      "ทุกสัปดาห์ให้ AI สรุปว่า follow-up แบบไหนได้คำตอบ ยอดจอง หรือคอมเมนต์ดีที่สุด แล้วปรับ template รอบต่อไป"
+      "ให้ AI แยกสถานะลูกค้า: ถามราคา, รอใบเสนอราคา, นัดแล้ว, ขอเลื่อน, เงียบเกิน 24 ชม., หรือปิดการขายแล้ว"
     ],
     "tool": "ChatGPT / ChatGPT Tasks / Projects",
     "topic": "Use ChatGPT to turn lead/chat/booking notes into daily follow-up tasks, reply templates, and a lightweight review habit.",
@@ -912,13 +812,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=250 views and >=3 shares/comments; watch for “ขอ checklist เอกสาร” or accountant/admin comments.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด checklist เอกสาร, SOP ปิดงบ/ภาษี, กำหนดส่ง, ตัวอย่างใบกำกับ/ใบเสร็จ, และ FAQ ลูกค้าเป็น source",
-      "ถาม NotebookLM ให้แยกเอกสารที่ต้องมีตามงาน: ภาษีซื้อ/ขาย, หัก ณ ที่จ่าย, payroll, bank statement, หรือค่าใช้จ่าย",
-      "ให้ทำตาราง missing docs: รายการที่ขาด, ลูกค้าที่ต้องส่ง, เหตุผลที่ต้องใช้, และ citation จาก source",
-      "สร้างข้อความ LINE/email ไล่เอกสาร 3 รอบ: แจ้งรายการที่ขาด, เตือนก่อน deadline, และแจ้งผลกระทบถ้าส่งช้า",
-      "ให้ AI แยกเคสเสี่ยงที่ต้องให้นักบัญชีตรวจเอง เช่น เอกสารไม่ตรงยอด, ขาดเลขผู้เสียภาษี, หรือค่าใช้จ่ายคลุมเครือ",
-      "ทำ mini FAQ ให้ลูกค้าเข้าใจว่าเอกสารแต่ละชนิดใช้ทำอะไร โดยอ้างอิงจาก source ไม่เดาเอง",
-      "ใช้ NotebookLM ทำ quiz/roleplay ให้พนักงานใหม่ซ้อมตรวจเอกสาร ก่อนส่งต่อให้นักบัญชีจริง"
+      "ถาม NotebookLM ให้แยกเอกสารที่ต้องมีตามงาน: ภาษีซื้อ/ขาย, หัก ณ ที่จ่าย, payroll, bank statement, หรือค่าใช้จ่าย"
     ],
     "tool": "NotebookLM",
     "topic": "Use NotebookLM to turn tax/accounting SOPs and client document lists into source-grounded missing-document checklists, client replies, and junior-staff QA.",
@@ -942,13 +838,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,000 views or share_rate >=0.8%; if comments are strong but views are below average, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for comments asking for calculator/Artifact templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวบรวมราคาเริ่มต้น, package, add-on, ส่วนลด, เงื่อนไข, และสิ่งที่ห้ามรับปากเกินจริงให้ ChatGPT เห็นก่อน",
-      "กำหนด input ที่ทีมต้องกรอก เช่น ประเภทบริการ จำนวนครั้ง งบ เวลา สถานที่ ข้อจำกัด และบริการเสริม",
-      "ขอให้ ChatGPT สร้าง Artifact เป็นฟอร์ม + ตารางคำนวณราคา + คำอธิบายสั้นสำหรับลูกค้า",
-      "เพิ่ม rule ป้องกันพลาด: ถ้าเกินขอบเขต/มีความเสี่ยง/ราคาผิดปกติ ให้ขึ้นข้อความ “ต้องให้คนตรวจ”",
-      "ทดสอบ 5 เคส: เคสง่าย, เคสส่วนลด, เคสด่วน, เคสข้อมูลไม่ครบ, และเคสที่ควรปฏิเสธหรือส่งต่อ",
-      "ให้ ChatGPT ร่างใบเสนอราคาสั้นจากผลลัพธ์ แต่กำหนดว่าห้ามส่งลูกค้าอัตโนมัติก่อนคนตรวจ",
-      "ถ้าทีมใช้แล้วลดเวลาคิดราคาได้จริง ให้แปลงเป็น brief สำหรับ Google Sheets, Zapier/Make, หรือ dev ต่อไป"
+      "กำหนด input ที่ทีมต้องกรอก เช่น ประเภทบริการ จำนวนครั้ง งบ เวลา สถานที่ ข้อจำกัด และบริการเสริม"
     ],
     "tool": "ChatGPT Artifacts / ChatGPT Projects",
     "topic": "Prototype a small quote/package calculator as a ChatGPT Artifact before building a real automation or app.",
@@ -972,13 +864,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=300 views and >=3 shares/comments; watch for comments asking for memory/custom-instruction templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "เขียน profile ร้าน/ธุรกิจแบบสั้น: บริการหลัก ลูกค้าหลัก ราคาเริ่มต้น ช่องทางขาย และสิ่งที่อยากให้ AI ช่วยประจำ",
-      "กำหนดเสียงแบรนด์: สุภาพ/เป็นกันเอง/ผู้เชี่ยวชาญ พร้อมคำที่ใช้ได้ คำที่ห้ามใช้ และระดับการขายที่ไม่แข็งเกินไป",
-      "แยกข้อมูลถาวรกับข้อมูลส่วนตัว: ให้จำกฎร้าน/โทนงาน แต่ไม่ให้จำชื่อ เบอร์ ใบเสร็จ หรือเคสลูกค้าเฉพาะคน",
-      "ทำชุด output ที่ใช้ซ้ำ: reply ลูกค้า, caption, FAQ, ใบเสนอราคาสั้น, ข้อความ follow-up, และ checklist ก่อนส่ง",
-      "ให้ ChatGPT สร้าง prompt card สำหรับแต่ละงาน: ต้องใส่ข้อมูลอะไร, ต้องได้ผลลัพธ์แบบไหน, และต้องเช็กอะไรหลังได้คำตอบ",
-      "ทดสอบด้วย 3 เคสจริง: ถามราคา ขอส่วนลด และบ่นแรง แล้วดูว่า AI ยังตอบตามโทน/ข้อจำกัดร้านหรือไม่",
-      "ทุกเดือนถาม ChatGPT ว่าจำอะไรเกี่ยวกับร้านไว้บ้าง แล้วลบ/แก้ memory ที่เก่า ผิด หรือเสี่ยงเก็บข้อมูลส่วนตัว"
+      "กำหนดเสียงแบรนด์: สุภาพ/เป็นกันเอง/ผู้เชี่ยวชาญ พร้อมคำที่ใช้ได้ คำที่ห้ามใช้ และระดับการขายที่ไม่แข็งเกินไป"
     ],
     "tool": "ChatGPT Memory / Custom Instructions / Projects",
     "topic": "Set up safe reusable ChatGPT business memory/instructions so everyday SME outputs stay on-brand without storing sensitive customer data.",
@@ -1002,13 +890,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=250 views and >=3 shares/comments; watch for real-estate/admin comments asking for answer-card or listing QA templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด listing, floor plan, ราคา, ค่าส่วนกลาง, เงื่อนไขเช่า/ซื้อ, แผนที่, FAQ เก่า และรูป/โน้ตจุดขายเป็น source",
-      "ถาม NotebookLM ให้สรุปคำถามที่ลูกค้าถามบ่อย 20 ข้อ พร้อม citation ว่าคำตอบมาจากไฟล์ไหน",
-      "ทำ answer card สั้นสำหรับ LINE: ราคา/ทำเล/ที่จอดรถ/สัตว์เลี้ยง/ค่าส่วนกลาง/เอกสาร/ขั้นตอนนัดดูห้อง",
-      "ให้ AI ทำตารางเขียว-เหลือง-แดง: พูดได้แน่, ต้องเช็กกับเจ้าของก่อน, และห้ามตอบเองเพราะเสี่ยงผิดเงื่อนไข",
-      "ขอ objection script 4 แบบ: ราคาแรง, ทำเลไม่มั่นใจ, กลัวสัญญา, และเทียบกับยูนิตอื่น โดยอ้างจาก source เท่านั้น",
-      "ให้ NotebookLM ทำ comparison table ระหว่าง 2–3 ยูนิต: เหมาะกับใคร จุดเด่น ข้อจำกัด ค่าใช้จ่าย และ next step",
-      "ตั้งรอบอัปเดต source ทุกครั้งที่ราคา โปร ห้องว่าง หรือเงื่อนไขเปลี่ยน แล้วให้ AI หา answer card ที่ต้องแก้ก่อนทีมส่งลูกค้า"
+      "ถาม NotebookLM ให้สรุปคำถามที่ลูกค้าถามบ่อย 20 ข้อ พร้อม citation ว่าคำตอบมาจากไฟล์ไหน"
     ],
     "tool": "NotebookLM",
     "topic": "Use NotebookLM to turn listings, contracts, floor plans, fee tables, and FAQ docs into source-cited buyer/renter answer cards.",
@@ -1032,12 +916,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,000 views or share_rate >=0.8%; if below average but comments/saves are strong, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for comments asking for message-check templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "ให้ ChatGPT สรุปว่า “ลูกค้าควรรู้อะไรใน 1 ประโยค” ถ้าสรุปไม่ได้ แปลว่าข้อความยังไม่ชัด",
-      "ถามว่าข้อมูลสำคัญอะไรหายไป: วันเวลา ราคา เงื่อนไข เอกสารที่ต้องเตรียม next step และช่องทางติดต่อ",
-      "ขอ rewrite 3 โทน: สุภาพสั้น, เป็นกันเอง, และทางการ โดยต้องไม่สัญญาเกินจริงหรือกดดันลูกค้า",
-      "ให้แปลงข้อความเดียวกันเป็น 3 รูปแบบ: LINE สั้น, email ครบ, และ caption/post ที่อ่านเร็ว",
-      "ให้ ChatGPT ทำ safety check: ข้อมูลส่วนตัวหลุดไหม คำเคลมแรงไปไหม เงื่อนไขไม่ชัดไหม หรือมีประโยคที่ลูกค้าจะเข้าใจผิด",
-      "ใช้ comment/checklist ใน Docs ให้ทีมตรวจ: ตัวเลขถูก เงื่อนไขตรง แบรนด์โทนถูก มี CTA เดียว และพร้อมส่งจริง"
+      "ถามว่าข้อมูลสำคัญอะไรหายไป: วันเวลา ราคา เงื่อนไข เอกสารที่ต้องเตรียม next step และช่องทางติดต่อ"
     ],
     "tool": "ChatGPT in Google Docs / Google Workspace",
     "topic": "Use ChatGPT in Docs to make customer-facing messages clearer, safer, shorter, and channel-ready before sending.",
@@ -1061,13 +942,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=300 views and >=3 shares/comments; watch for comments asking for a case-brief or handoff template.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมแชท/โน้ตคุยงาน/เสียงถอดความของเคสเดียว แล้วลบชื่อ เบอร์ ที่อยู่ ใบเสร็จ และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
-      "ให้ AI แยก 4 ช่อง: ลูกค้าต้องการอะไร, ปัญหาคืออะไร, ตอนนี้คุยถึงขั้นไหน, และมีหลักฐาน/ไฟล์อะไรประกอบ",
-      "ขอ “สิ่งที่ทีมรับช่วงต้องรู้” เช่น เวลานัด เงื่อนไขบริการ ข้อจำกัด สิ่งที่ห้ามรับปากเกินจริง และจุดที่ต้องถามเพิ่ม",
-      "ให้ ChatGPT ทำ case brief 1 หน้า สำหรับส่งใน LINE/Slack ภายในทีม: สรุปสั้น, next step, คนที่ต้องรับช่วง, เวลาที่ต้องตอบกลับ",
-      "ขอข้อความตอบลูกค้า 2 เวอร์ชัน: ยืนยันว่าเข้าใจเคสแล้ว และขอข้อมูลที่ยังขาด โดยไม่สัญญาผลลัพธ์เกินจริง",
-      "ให้ AI ทำ checklist ก่อนส่งต่อ: ข้อมูลครบไหม, ราคา/เงื่อนไขตรงไหม, หลักฐานอยู่ไหน, และเคสไหนต้องให้หัวหน้าตรวจ",
-      "หลังปิดเคส ให้ ChatGPT สรุปบทเรียนเป็น FAQ/SOP สั้น ๆ เพื่อให้ทีมตอบเคสคล้ายกันเร็วขึ้นรอบหน้า"
+      "ให้ AI แยก 4 ช่อง: ลูกค้าต้องการอะไร, ปัญหาคืออะไร, ตอนนี้คุยถึงขั้นไหน, และมีหลักฐาน/ไฟล์อะไรประกอบ"
     ],
     "tool": "ChatGPT / file + text analysis",
     "topic": "Turn customer chats/notes into a privacy-safe case handoff brief, missing-info questions, next customer message, and reusable team SOP notes.",
@@ -1091,13 +968,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=250 views and >=3 shares/comments; watch for restaurant/cafe admins asking for answer-card or allergen FAQ templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลดเมนู ราคา ingredient/allergen note โปรโมชัน เงื่อนไข delivery/refund และ FAQ เก่าเป็น source ของ NotebookLM",
-      "ถาม NotebookLM ให้รวบรวมคำถามที่ลูกค้าถามบ่อย เช่น แพ้อาหาร วัตถุดิบ เผ็ดไหม เมนูเด็ก โปรหมดวันไหน และค่าส่ง",
-      "ทำ answer card สั้นสำหรับ LINE/inbox: คำตอบหลัก, ข้อควรถามเพิ่ม, ตัวเลือกเมนูใกล้เคียง, และ citation จาก source",
-      "แบ่งคำตอบเป็นเขียว/เหลือง/แดง: ตอบได้แน่, ต้องถามครัว/เจ้าของก่อน, และห้ามตอบเองเพราะเสี่ยงแพ้อาหารหรือข้อมูลผิด",
-      "ให้ AI rewrite คำตอบให้สุภาพและไม่รับปากเกินจริง เช่น “มีส่วนผสม X ตามเมนู แต่ถ้าแพ้รุนแรงควรยืนยันกับร้านก่อน”",
-      "สร้าง quiz/roleplay 5 เคสให้พนักงานซ้อมตอบก่อนใช้จริง เช่น ลูกค้าแพ้ถั่ว ขอเปลี่ยนท็อปปิง หรือถามโปรในแอป delivery",
-      "ตั้งรอบอัปเดต source ทุกครั้งที่เมนู ราคา วัตถุดิบ หรือโปรเปลี่ยน แล้วให้ NotebookLM หา answer card ที่ต้องแก้"
+      "ถาม NotebookLM ให้รวบรวมคำถามที่ลูกค้าถามบ่อย เช่น แพ้อาหาร วัตถุดิบ เผ็ดไหม เมนูเด็ก โปรหมดวันไหน และค่าส่ง"
     ],
     "tool": "NotebookLM / source-grounded Q&A",
     "topic": "Use NotebookLM to turn menu, ingredient, allergen, promo, and delivery policy docs into source-cited answer cards for food-service teams.",
@@ -1121,13 +994,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,000 views or share_rate >=0.8%; if saves/comments are strong but views are below average, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for comments asking for a content-calendar or research prompt.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "เลือกธุรกิจ/พื้นที่/บริการให้ชัด เช่น คลินิกผิวหนังในกรุงเทพ ร้านซ่อมมือถือ หรือคาเฟ่เดลิเวอรี แล้วถาม Perplexity จากมุมลูกค้า",
-      "ให้ค้นคำถามที่คนมักถามก่อนซื้อ/จอง เช่น ราคา ขั้นตอน ความเสี่ยง ระยะเวลา รีวิว และสิ่งที่ต้องเตรียม พร้อมขอแหล่งอ้างอิง",
-      "ขอให้แยก pain เป็น 4 กลุ่ม: กลัวเสียเงิน, กลัวผลลัพธ์ไม่ตรง, ไม่เข้าใจขั้นตอน, และไม่รู้ต้องเตรียมอะไร",
-      "ให้ Perplexity เทียบว่าคู่แข่ง/เว็บอื่นอธิบายอะไรไม่ชัด โดยห้ามคัดลอกข้อความ ให้สรุปเป็นช่องว่างของคอนเทนต์",
-      "แปลงแต่ละ pain เป็น hook แบบไทยอ่านไว: “เช็กก่อน…”, “อย่าพลาด…”, “ทำไม…”, “3 เรื่องที่ลูกค้าถามบ่อย”",
-      "ตรวจ facts ก่อนใช้จริง: เทียบกับเอกสารร้าน กฎหมาย/ข้อจำกัดบริการ และคำที่ห้ามเคลมเกินจริง",
-      "ทำ 7-day content calendar: คำถามลูกค้า, hook, หลักฐาน/แหล่งอ้างอิง, caption, CTA เดียว และสิ่งที่ต้องถามเจ้าของก่อนโพสต์"
+      "ให้ค้นคำถามที่คนมักถามก่อนซื้อ/จอง เช่น ราคา ขั้นตอน ความเสี่ยง ระยะเวลา รีวิว และสิ่งที่ต้องเตรียม พร้อมขอแหล่งอ้างอิง"
     ],
     "tool": "Perplexity / cited local research",
     "topic": "Use Perplexity to find cited customer questions, review pain points, competitor explanation gaps, and safe content angles for a 7-day local-service content calendar.",
@@ -1150,13 +1019,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=300 views and >=3 shares/comments; watch for comments asking for the morning-report template.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมยอดขาย คิวจอง รีวิว แชท และปัญหาจากเมื่อวานไว้ชุดเดียว แล้วลบชื่อ เบอร์ ใบเสร็จ และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
-      "ให้ AI แยกข้อมูลเป็น 4 ช่อง: เงิน/ยอดขาย, ลูกค้า, งานหน้าร้าน/หลังบ้าน, และความเสี่ยงที่ต้องรีบแก้",
-      "ขอ top 3 action ของวันนี้ พร้อมหลักฐานจากข้อมูล ผลกระทบที่คาดหวัง และสิ่งที่ต้องเช็กก่อนทำ",
-      "ให้ ChatGPT เขียน morning brief สำหรับทีม: ใครทำอะไร เมื่อไร ต้องดูตัวเลขไหน และต้องรายงานผลอย่างไร",
-      "ถามว่า “ข้อมูลไหนยังไม่พอให้ตัดสินใจ” เพื่อรู้ว่าต้องถามเจ้าของร้าน/หัวหน้าทีมก่อนสั่งงานอะไร",
-      "ให้ AI ร่างข้อความลูกค้า/ทีม 1 เรื่องที่ควรส่งวันนี้ เช่น follow-up, แจ้งคิว, ขอโทษ, หรือโปรที่ไม่เคลมเกินจริง",
-      "ท้ายวันวางผลลัพธ์กลับเข้าไป ให้ ChatGPT เทียบว่า action ไหนเวิร์ก/ไม่เวิร์ก แล้วปรับ template รายงานพรุ่งนี้"
+      "ให้ AI แยกข้อมูลเป็น 4 ช่อง: เงิน/ยอดขาย, ลูกค้า, งานหน้าร้าน/หลังบ้าน, และความเสี่ยงที่ต้องรีบแก้"
     ],
     "tool": "ChatGPT / file + text analysis / Projects or Tasks optional",
     "topic": "Use ChatGPT to turn daily sales/booking/review/inbox notes into a short morning operations report, top priorities, team brief, and next-day learning loop.",
@@ -1179,13 +1044,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=250 views and >=3 shares/comments; watch for visa/translation/admin comments asking for checklist templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด checklist เอกสาร ราคา ขั้นตอน เงื่อนไขบริการ FAQ เก่า และตัวอย่างเคสที่ไม่เปิดเผยข้อมูลส่วนตัวเป็น source",
-      "ถาม NotebookLM ให้แยกเอกสารที่ต้องมีตามประเภทเคส เช่น วีซ่า แปลเอกสาร รับรองสำเนา หรือยื่นหน่วยงาน พร้อม citation",
-      "ทำตาราง missing docs: ลูกค้าคนไหน ขาดอะไร ทำไมต้องใช้ อ้างจากไฟล์ไหน และ deadline วันไหน",
-      "แบ่งคำตอบเป็นเขียว/เหลือง/แดง: ตอบได้จาก source, ต้องให้ผู้เชี่ยวชาญเช็ก, และห้ามรับปากผลลัพธ์เอง",
-      "ให้ AI ร่างข้อความ LINE/email ขอเอกสารเพิ่มแบบสุภาพ ชัด และไม่ทำให้ลูกค้ารู้สึกโดนตำหนิ",
-      "สร้าง FAQ card อธิบายเวลา ค่าบริการ ขั้นตอน ข้อยกเว้น และความเสี่ยง โดยไม่สัญญาว่าผลจะผ่านแน่นอน",
-      "ตั้งรอบอัปเดต source ทุกครั้งที่กฎ/ราคา/ฟอร์มเปลี่ยน แล้วให้ NotebookLM หา checklist หรือคำตอบเดิมที่ต้องแก้"
+      "ถาม NotebookLM ให้แยกเอกสารที่ต้องมีตามประเภทเคส เช่น วีซ่า แปลเอกสาร รับรองสำเนา หรือยื่นหน่วยงาน พร้อม citation"
     ],
     "tool": "NotebookLM / source-grounded Q&A",
     "topic": "Use NotebookLM to turn real document requirements, service policy, pricing, and FAQ into source-cited missing-document checklists and safe client replies.",
@@ -1208,13 +1069,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,000 views or share_rate >=0.8%; if below average but saves/comments are strong, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for comments asking for comparison-table prompts.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "เขียนโจทย์ให้ชัดก่อนค้น: ธุรกิจอะไร งบเท่าไร ต้องใช้กับงานไหน ข้อห้ามคืออะไร และใครเป็นคนใช้จริง",
-      "ถาม Perplexity หา 5 ตัวเลือกพร้อมแหล่งอ้างอิง ไม่ใช่เอาแค่ชื่อที่เห็นในโฆษณาหรือโพสต์รีวิวเดียว",
-      "ทำตารางเทียบราคา ค่ารายเดือน ฟีเจอร์ ภาษาไทย การเชื่อมต่อ support warranty และข้อจำกัดที่ต้องรู้",
-      "ให้ค้นรีวิว/ข้อร้องเรียนซ้ำ ๆ แล้วแยกว่าเป็นปัญหาจริง ปัญหาเฉพาะบางเคส หรือข้อมูลที่ต้องถาม vendor เพิ่ม",
-      "ถามว่า “สำหรับธุรกิจแบบนี้ ตัวเลือกไหนควรหลีกเลี่ยงและเพราะอะไร” เพื่อไม่เลือกจากฟีเจอร์เยอะอย่างเดียว",
-      "ให้ AI สร้าง checklist คำถามก่อนซื้อ: ค่าใช้จ่ายแฝง การย้ายข้อมูล สัญญา ทดลองใช้ การคืนเงิน และคนรับผิดชอบหลังซื้อ",
-      "สรุป decision note 1 หน้า: เลือกอะไร เพราะอะไร จะทดลองกี่วัน วัดผลยังไง และถ้าไม่เวิร์กจะถอยอย่างไร"
+      "ถาม Perplexity หา 5 ตัวเลือกพร้อมแหล่งอ้างอิง ไม่ใช่เอาแค่ชื่อที่เห็นในโฆษณาหรือโพสต์รีวิวเดียว"
     ],
     "tool": "Perplexity / cited research",
     "topic": "Use Perplexity to compare vendors/tools with citations, review complaints, hidden costs, fit-to-business criteria, and a vendor-question checklist before spending money.",
@@ -1237,13 +1094,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=300 views and >=3 shares/comments; watch for clinic/dentist/admin comments asking for treatment-plan templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวม diagnosis/แผนรักษา/ทางเลือก/ราคาโดยประมาณ/ข้อจำกัด แล้วลบชื่อ เบอร์ รูปหน้า และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
-      "บอก AI ว่า “ห้ามวินิจฉัยเอง” แล้วให้ rewrite เป็นภาษาคนไข้: ปัญหาเกิดจากอะไร ทำไมต้องรักษา และไม่รักษาเสี่ยงอะไร",
-      "ขอตารางเทียบทางเลือก: วิธีรักษา จำนวนครั้ง ระยะเวลา ข้อดี ข้อจำกัด after-care และช่วงราคาที่ทีมตรวจแล้ว",
-      "ให้ ChatGPT ร่างคำถามที่คนไข้ควรถามหมอ 5 ข้อก่อนตัดสินใจ เพื่อให้ทีมตอบจุดกังวลให้ครบ",
-      "ทำข้อความ LINE หลัง consult: สรุปแผนที่คุย เอกสาร/รูปที่ต้องดูเพิ่ม วันนัดถัดไป และ next step เดียว",
-      "สร้าง post-care checklist แบบอ่านง่าย: อาการปกติ อาการที่ควรติดต่อคลินิก อาหาร/การแปรงฟัน และเวลาติดตามผล",
-      "ทำ safety check ก่อนส่ง: ตัวเลขถูก เงื่อนไขชัด ไม่สัญญาผลลัพธ์ ไม่เผยข้อมูลส่วนตัว และให้หมอ/ผู้รับผิดชอบอนุมัติ"
+      "บอก AI ว่า “ห้ามวินิจฉัยเอง” แล้วให้ rewrite เป็นภาษาคนไข้: ปัญหาเกิดจากอะไร ทำไมต้องรักษา และไม่รักษาเสี่ยงอะไร"
     ],
     "tool": "ChatGPT / file + text analysis / Projects optional",
     "topic": "Use ChatGPT to turn dentist-approved treatment notes into patient-friendly explanations, option tables, post-care checklists, and follow-up messages without diagnosing or overclaiming.",
@@ -1267,13 +1120,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=250 views and >=3 shares/comments; watch for vet/admin comments asking for post-care answer-card templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด post-care sheet, วิธีให้ยา, ตารางวัคซีน, ราคา, policy นัดติดตาม, FAQ เก่า และเคสตัวอย่างที่ปิดข้อมูลส่วนตัวเป็น source",
-      "ถาม NotebookLM ให้รวบรวมคำถามหลังรักษาที่เจอบ่อย เช่น กินยาอย่างไร อาการไหนปกติ อาบน้ำได้ไหม กลับมาตรวจเมื่อไร พร้อม citation",
-      "ทำ answer card สำหรับ LINE/inbox: คำตอบหลัก สิ่งที่ต้องถามเพิ่ม เอกสารอ้างอิง และประโยคส่งต่อสัตวแพทย์เมื่อไม่มั่นใจ",
-      "แบ่งเคสเป็นเขียว/เหลือง/แดง: ตอบได้จาก source, ต้องถามหมอ, และต้องแนะนำให้รีบกลับมาคลินิก/ติดต่อฉุกเฉิน",
-      "ให้ AI rewrite คำตอบให้อบอุ่นสำหรับเจ้าของสัตว์ แต่ไม่รับปากผลลัพธ์หรือให้คำวินิจฉัยแทนสัตวแพทย์",
-      "สร้าง quiz/roleplay 5 เคสให้แอดมินซ้อมตอบ เช่น ลืมให้ยา แผลบวม ไม่กินอาหาร นัดวัคซีน และคำถามเรื่องราคา",
-      "ตั้งรอบอัปเดต source ทุกครั้งที่ยา ราคา โปรโตคอล หรือคำแนะนำหมอเปลี่ยน แล้วให้ NotebookLM หา answer card ที่ต้องแก้"
+      "ถาม NotebookLM ให้รวบรวมคำถามหลังรักษาที่เจอบ่อย เช่น กินยาอย่างไร อาการไหนปกติ อาบน้ำได้ไหม กลับมาตรวจเมื่อไร พร้อม citation"
     ],
     "tool": "NotebookLM / source-grounded Q&A / Audio Overview optional",
     "topic": "Use NotebookLM to turn vet-approved care sheets, medicine instructions, vaccine schedules, pricing, and FAQ into source-cited answer cards for reception/admin teams.",
@@ -1297,13 +1146,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,000 views or share_rate >=0.8%; if below average but comments/saves are strong, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for creators asking for the FAQ-to-clip template or dropping their own FAQ.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "เลือก FAQ จริง 1 ข้อจากแชท/รีวิว/หน้าร้าน เช่น ราคา ขั้นตอน เตรียมตัว ข้อห้าม หรือเวลารอ อย่ายัดหลายหัวข้อในคลิปเดียว",
-      "เขียนคำตอบจาก policy/menu/price list จริง แล้วลบข้อมูลลูกค้าและเช็กกับเจ้าของก่อนใช้เป็น public script",
-      "ให้ CapCut AI ช่วยร่างสคริปต์ 35–45 คำ: คำถามของลูกค้า → คำตอบสั้น → ตัวอย่าง/หลักฐาน → next step",
-      "ทำ first 3 seconds ให้ชัด เช่น “ก่อนจองคิว ต้องรู้ข้อนี้” หรือ “ทำไมราคานี้ไม่เท่ากันทุกร้าน” ให้ตรงกับคำตอบจริง",
-      "เลือกภาพ/ช็อต 3 ช่วง: คำถามบนจอ, หลักฐาน/หน้างาน/เอกสาร, และผลลัพธ์หรือขั้นตอนถัดไปที่ลูกค้าทำได้",
-      "ใช้ subtitle ใหญ่ อ่านทัน และตัดคำฟุ่มเฟือย/ช่วงเงียบให้คำตอบหลักเริ่มภายใน 1–2 วินาที",
-      "ทำ A/B opening text 2 แบบ แล้วปิดด้วย CTA ที่ไม่กดดัน: คอมเมนต์คำถามถัดไป, ขอ checklist, ทักจองคิว, หรือดูตัวอย่างเพิ่ม"
+      "เขียนคำตอบจาก policy/menu/price list จริง แล้วลบข้อมูลลูกค้าและเช็กกับเจ้าของก่อนใช้เป็น public script"
     ],
     "tool": "CapCut AI / TikTok short-video workflow",
     "topic": "Use CapCut AI to turn one repeated customer question into a 15-second Q&A clip with hook, proof, captions, and a safe CTA.",
@@ -1327,13 +1172,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=300 views and >=3 shares/comments; watch for repair-shop/admin comments asking for an intake-form template.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมแชทลูกค้า รูปอาการ รุ่นเครื่อง ประวัติซ่อม และสิ่งที่ลูกค้าต้องการ แล้วลบชื่อ เบอร์ serial และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
-      "ให้ AI แยกข้อมูลเป็น 5 ช่อง: อาการเกิดเมื่อไร รุ่น/ระบบคืออะไร ลูกค้าคาดหวังอะไร ความเสี่ยงเรื่องข้อมูล และสิ่งที่ยังไม่รู้",
-      "ขอคำถามที่ต้องถามเพิ่มก่อนรับงาน เช่น เคยตกน้ำไหม มีประกันไหม สำรองข้อมูลหรือยัง อาการเกิดซ้ำตอนไหน และยอมรับช่วงราคาประมาณไหน",
-      "ให้ ChatGPT ทำใบรับงาน 1 หน้า: อาการหลัก หลักฐานจากลูกค้า จุดที่ต้องเช็กก่อน ราคา/เวลาโดยประมาณ และข้อควรระวัง",
-      "สร้าง checklist ให้ช่างตรวจแบบไม่วินิจฉัยเกินจริง: จอ แบต พอร์ต ซอฟต์แวร์ ข้อมูลสำรอง และเคสที่ต้องเปิดเครื่อง/ให้หัวหน้าตรวจ",
-      "ร่างข้อความอัปเดตลูกค้า 3 จังหวะ: รับเครื่องแล้ว ต้องเช็กเพิ่ม และขออนุมัติก่อนซ่อม/เปลี่ยนอะไหล่ โดยไม่รับปากผลลัพธ์เกินจริง",
-      "หลังปิดงาน ให้ ChatGPT สรุปเคสเป็น FAQ/SOP สั้น ๆ สำหรับอาการที่เจอบ่อย เพื่อให้ทีมรับงานครั้งต่อไปเร็วขึ้น"
+      "ให้ AI แยกข้อมูลเป็น 5 ช่อง: อาการเกิดเมื่อไร รุ่น/ระบบคืออะไร ลูกค้าคาดหวังอะไร ความเสี่ยงเรื่องข้อมูล และสิ่งที่ยังไม่รู้"
     ],
     "tool": "ChatGPT / file + text analysis / Projects optional",
     "topic": "Turn customer repair chats/photos/symptoms into a privacy-safe intake brief, missing-question list, technician checklist, customer update, and reusable FAQ/SOP.",
@@ -1357,13 +1198,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=250 views and >=3 shares/comments; watch for caregiver/admin/family-service comments asking for answer-card templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด care plan, ตารางยา, diet note, ตารางกิจกรรม, ค่าใช้จ่าย, นโยบายเยี่ยม, emergency protocol และ FAQ เก่าเป็น source ของ NotebookLM",
-      "ถาม NotebookLM ให้รวบรวมคำถามที่ญาติถามบ่อย เช่น กินยาอย่างไร อาการไหนต้องเฝ้าระวัง เยี่ยมได้เมื่อไร ค่าใช้จ่ายอะไรบ้าง พร้อม citation",
-      "ทำ answer card สำหรับ LINE/inbox: คำตอบหลัก ข้อมูลที่ต้องถามเพิ่ม ไฟล์อ้างอิง และประโยคส่งต่อพยาบาล/ผู้รับผิดชอบเมื่อไม่มั่นใจ",
-      "แบ่งเคสเป็นเขียว/เหลือง/แดง: ตอบได้จาก source, ต้องให้ผู้ดูแลเช็ก, และต้องรีบแจ้งผู้เชี่ยวชาญ/ครอบครัวทันที",
-      "ให้ AI rewrite คำตอบให้อบอุ่นและไม่ทำให้ญาติกังวลเกินไป แต่ไม่วินิจฉัยหรือรับปากผลลัพธ์แทนทีมดูแล",
-      "สร้าง handover checklist รายวัน: อาหาร ยา อารมณ์ การนอน กิจกรรม เหตุผิดปกติ และคำถามที่ต้องตอบครอบครัว",
-      "ตั้งรอบอัปเดต source ทุกครั้งที่ยา แผนดูแล ราคา นโยบายเยี่ยม หรือคำแนะนำแพทย์เปลี่ยน แล้วให้ NotebookLM หา answer card ที่ต้องแก้"
+      "ถาม NotebookLM ให้รวบรวมคำถามที่ญาติถามบ่อย เช่น กินยาอย่างไร อาการไหนต้องเฝ้าระวัง เยี่ยมได้เมื่อไร ค่าใช้จ่ายอะไรบ้าง พร้อม citation"
     ],
     "tool": "NotebookLM / source-grounded Q&A / Audio Overview optional",
     "topic": "Use NotebookLM to turn care plans, medicine schedules, diet notes, emergency rules, pricing, and visit policies into source-cited answer cards for caregivers/admins.",
@@ -1375,16 +1212,16 @@ Last updated: 2026-06-22T16:51:16Z
     "audience": "Thai aircon/home-repair shops, field-service teams, dispatch admins, and small contractors that need a lightweight internal tool before building automation.",
     "caption": "ยังไม่ต้องสร้างระบบใหญ่ ลองใช้ ChatGPT ทำฟอร์มรับงานเล็ก ๆ ก่อน: รับข้อมูล → triage → brief ให้ช่าง → ให้คนอนุมัติก่อนเสนอราคา #ChatGPTAI #ช่างแอร์ #AIสำหรับSME",
     "created_at": "2026-06-20T13:41:18+00:00",
-    "cron_next_run_at": "prior schedule superseded by 02:44 schedule",
+    "cron_next_run_at": "2026-06-23T17:09:26.036326+00:00",
     "decision_rule": "Continue/remix into cleaning, pest-control, and appliance-repair intake tools if target hits; if viewers find ChatGPT too technical, rehook as 'ฟอร์มรับงานก่อนทำ automation'; stop after 2 misses with weak comments/shares.",
     "draft_count": 0,
     "format": "Thai handwritten/sketchnote carousel; 7 numbered tips over 8 lesson slides + reusable GenLabs CTA only at the end.",
     "hook": "รับเคสซ่อมแอร์/งานบ้านเยอะจนหลุด? 7 วิธีใช้ ChatGPT Artifacts ทำฟอร์มรับงานให้ทีมลองใช้ก่อน",
-    "last_verified_at": "historical process-check superseded by 02:59 readback",
+    "last_verified_at": "2026-06-22T18:03:03Z",
     "media_count": 0,
     "name": "ChatGPT Artifacts Aircon/Home-Repair Intake Tool — 7 tips",
-    "next_run_at": "prior schedule superseded by 02:44 schedule",
-    "process_check": "historical process-check superseded by 02:59 readback",
+    "next_run_at": "2026-06-23T17:09:26.036326+00:00",
+    "process_check": "2026-06-22T18:03:03Z",
     "quality_gate": {
       "cta_counted_as_tip": false,
       "distinct_tips_count": 7,
@@ -1396,17 +1233,13 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,000 views or share_rate >=0.8%; if comments are strong but views are below average, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for contractors/admins asking for the Artifact/form template.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวบรวม service menu พื้นที่ให้บริการ ราคาเริ่มต้น add-on ข้อจำกัด warranty และสิ่งที่ห้ามรับปากเกินจริงให้ ChatGPT เห็นก่อน",
-      "กำหนด input ที่แอดมินต้องกรอก: ประเภทงาน อาการ รูป/วิดีโอ สถานที่ ความเร่งด่วน งบประมาณ ประวัติซ่อม และเวลาที่ลูกค้าสะดวก",
-      "ขอให้ ChatGPT สร้าง Artifact เป็นฟอร์มรับงาน + ตาราง triage + checklist สิ่งที่ต้องถามเพิ่มก่อนส่งช่าง",
-      "เพิ่ม guardrail: ถ้าเกี่ยวกับไฟฟ้า น้ำรั่วรุนแรง แก๊ส ประกัน หรือข้อมูลไม่ครบ ให้ขึ้นข้อความ 'ต้องให้ช่าง/หัวหน้าตรวจ'",
-      "ทดสอบ 5 เคสจริง: ล้างแอร์ปกติ แอร์ไม่เย็น น้ำหยด งานด่วนคอนโด และลูกค้าให้ข้อมูลไม่ครบ แล้วดูว่าแบบฟอร์มถามถูกไหม",
-      "ให้ Artifact ร่างข้อความ 2 ฝั่ง: ข้อความยืนยันลูกค้า + brief ให้ช่าง พร้อมเวลานัด สิ่งที่ต้องเตรียม และข้อห้ามรับปากเกินจริง",
-      "ถ้าทีมใช้แล้วลดงานหลุดได้จริง ค่อยแปลงเป็น Google Form/Sheets หรือ Zapier/Make automation โดยยังต้องให้คนอนุมัติก่อน quote/dispatch"
+      "กำหนด input ที่แอดมินต้องกรอก: ประเภทงาน อาการ รูป/วิดีโอ สถานที่ ความเร่งด่วน งบประมาณ ประวัติซ่อม และเวลาที่ลูกค้าสะดวก"
     ],
     "tool": "ChatGPT Artifacts / ChatGPT Projects",
     "topic": "Prototype a small service-intake Artifact that collects job details, triages risk, estimates next checks, prepares technician handoff, and keeps human approval before quoting/dispatch.",
-    "updated_at": "historical process-check superseded by 02:59 readback",
+    "updated_at": "2026-06-22T18:03:03Z",
     "visual_brief": "Aircon/home-repair dispatch board, form fields, triage tags, technician brief card, human approval stamp, and automation-later arrow; avoid generic AI-agent chips without the intake form."
   },
   {
@@ -1420,13 +1253,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves appear, target >=5 saves.",
     "target_2h": ">=300 views and >=3 shares/comments; watch for gym/studio owners asking for follow-up templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมโน้ตทดลองคลาส เป้าหมายลูกค้า อาการบาดเจ็บที่ลูกค้าบอกเอง เวลาที่สะดวก และคำถามเรื่องราคา แล้วลบชื่อ เบอร์ และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
-      "ให้ AI แยกสถานะลูกค้า: เพิ่งทดลอง, ถามราคาแล้วเงียบ, สนใจคลาสกลุ่ม, ต้องการเทรนส่วนตัว, มีข้อจำกัดสุขภาพ, หรือยังไม่พร้อมจ่าย",
-      "ขอ top 3 motivation และ objection จากโน้ต เช่น อยากลดน้ำหนัก กลัวเจ็บ ไม่มีเวลา ราคาแรง หรือไม่มั่นใจว่าจะทำได้",
-      "สร้างแผน follow-up 7 วัน: หลังคลาสทันที, วันถัดไป, วันที่ 3, วันที่ 7 โดยกำหนดว่าแต่ละครั้งต้องช่วยอะไร ไม่ใช่ขายซ้ำอย่างเดียว",
-      "ให้ ChatGPT ร่างข้อความ 3 โทน: ให้กำลังใจ, ให้ข้อมูลคลาส/แพ็กเกจ, และชวนกลับมาลองอย่างสุภาพ โดยไม่เคลมผลลัพธ์สุขภาพเกินจริง",
-      "ทำข้อเสนอ next step ที่ตรงกับเป้าหมาย: คลาส beginner, เช็กท่าฟรี, trial อีกครั้ง, หรือคุยกับเทรนเนอร์ก่อนสมัคร",
-      "ทุกสัปดาห์ให้ AI สรุปว่า follow-up แบบไหนทำให้ลูกค้ากลับมา จองคลาส หรือถามต่อ แล้วปรับ template รอบหน้า"
+      "ให้ AI แยกสถานะลูกค้า: เพิ่งทดลอง, ถามราคาแล้วเงียบ, สนใจคลาสกลุ่ม, ต้องการเทรนส่วนตัว, มีข้อจำกัดสุขภาพ, หรือยังไม่พร้อมจ่าย"
     ],
     "tool": "ChatGPT / Projects or Tasks optional",
     "topic": "Turn trial-class notes, fitness goals, objections, and class attendance into a 7-day non-spam follow-up plan, reply templates, and retention review loop.",
@@ -1443,13 +1272,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves appear, target >=5 saves.",
     "target_2h": ">=250 views and >=3 shares/comments; watch for childcare/admin comments asking for handover-card templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด handbook ผู้ปกครอง ตารางอาหาร ตารางกิจกรรม policy ป่วย/รับส่ง/ค่าใช้จ่าย consent form และ FAQ เก่าเป็น source ของ NotebookLM",
-      "ถาม NotebookLM ให้รวบรวมคำถามที่ผู้ปกครองถามบ่อย เช่น กินอะไร นอนหลับไหม ป่วยต้องทำอย่างไร รับส่งได้กี่โมง พร้อม citation จากไฟล์จริง",
-      "ทำ daily handover card: อาหาร การนอน กิจกรรม อารมณ์ สิ่งที่ต้องเตรียมพรุ่งนี้ และคำถามที่ครู/แอดมินต้องตอบต่อ",
-      "แบ่งคำตอบเป็นเขียว/เหลือง/แดง: แอดมินตอบได้จาก source, ต้องถามครูก่อน, และต้องรีบแจ้งผู้ปกครอง/ผู้รับผิดชอบทันที",
-      "ให้ AI rewrite คำตอบให้อบอุ่นและสั้นสำหรับ LINE แต่ไม่วินิจฉัยสุขภาพ ไม่รับปากเกินจริง และไม่เปิดเผยข้อมูลเด็กคนอื่น",
-      "สร้าง quiz/roleplay 5 เคสให้ทีมซ้อมตอบ เช่น มารับช้า แพ้อาหาร มีไข้ ของหาย หรือผู้ปกครองกังวลเรื่องพฤติกรรม",
-      "ตั้งรอบอัปเดต source ทุกครั้งที่เมนู กิจกรรม เวลา pickup policy หรือค่าบริการเปลี่ยน แล้วให้ NotebookLM หา answer card ที่ต้องแก้"
+      "ถาม NotebookLM ให้รวบรวมคำถามที่ผู้ปกครองถามบ่อย เช่น กินอะไร นอนหลับไหม ป่วยต้องทำอย่างไร รับส่งได้กี่โมง พร้อม citation จากไฟล์จริง"
     ],
     "tool": "NotebookLM / source-grounded Q&A / Audio Overview optional",
     "topic": "Turn parent handbook, meal/activity schedules, sick-day policy, pickup rules, and consent forms into source-cited handover cards, parent replies, and staff roleplay.",
@@ -1466,13 +1291,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": ">=2,000 views or share_rate >=0.8%; if below average but saves/comments are strong, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for event/wedding/vendor comments asking for package-card templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมแพ็กเกจ ราคาเริ่มต้น สิ่งที่รวม/ไม่รวม รูปผลงาน mood board สถานที่ วันเวลา และคำถามลูกค้าบ่อยก่อนเปิด Canva",
-      "ให้ Canva Magic Design ทำ 3 format จากข้อมูลเดียวกัน: square carousel, story, และ one-page quote สำหรับส่งใน LINE",
-      "ทำ package comparison card: Basic / Standard / Premium พร้อมสิ่งที่ได้ ข้อจำกัด จำนวนคน เวลา และ next step ที่ลูกค้าต้องทำ",
-      "สร้าง timeline visual: inquiry → brief → deposit → design check → event day → after-service เพื่อให้ลูกค้าเข้าใจขั้นตอนเร็ว",
-      "เพิ่ม proof/mood-board slide: before-after, งานจริง, theme สี, หรือภาพบรรยากาศ; ถ้ารูปไม่พร้อม ให้ใช้ GenLabs ทำ hero visual แบบไม่ต้องเขียน prompt ยาว",
-      "เช็ก brand kit: โลโก้ สี ฟอนต์ เบอร์/LINE/QR อ่านง่ายบนมือถือ และข้อความไทยไม่แน่นเกินไป",
-      "ทำ A/B cover 2 แบบ: pain hook vs result hook แล้ววัดว่าแบบไหนได้คอมเมนต์/เซฟ/ทักถามแพ็กเกจมากกว่า"
+      "ให้ Canva Magic Design ทำ 3 format จากข้อมูลเดียวกัน: square carousel, story, และ one-page quote สำหรับส่งใน LINE"
     ],
     "tool": "Canva AI / Magic Design; optional GenLabs visual pre-step for no-prompt promo/hero visuals when assets are weak",
     "topic": "Use Canva AI to turn event packages, mood boards, inclusions/exclusions, timelines, and client FAQs into visual package cards, comparison slides, and inquiry-ready assets.",
@@ -1501,13 +1322,9 @@ Last updated: 2026-06-22T16:51:16Z
     "name": "ChatGPT Hotel/Tour Cancellation Recovery Reply Kit — 7 tips",
     "success_metric": "2h: ≥300 views and ≥3 shares/comments; watch for hotel/tour/admin viewers asking for cancellation/rebooking templates. 24h: ≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวม booking detail, policy ยกเลิก/เลื่อน, ราคา, มัดจำ, วันเดินทาง และแชทลูกค้า แล้วลบชื่อ เบอร์ เลขจอง และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
-      "ให้ AI แยกเหตุผลการยกเลิกเป็นหมวด เช่น เปลี่ยนแผน อากาศไม่ดี งบไม่พอ ป่วย เข้าใจผิด หรือไม่มั่นใจในแพ็กเกจ",
-      "ขอทางเลือกที่ไม่ใช่ลดราคาอย่างเดียว: เลื่อนวัน, credit ไว้ใช้ครั้งหน้า, เปลี่ยนแพ็กเกจ, เพิ่มข้อมูลก่อนตัดสินใจ, หรือส่งต่อเจ้าของอนุมัติ",
-      "ให้ ChatGPT ร่างคำตอบ 3 โทน: เห็นใจลูกค้า, อธิบายนโยบายชัด, และช่วยรักษาการจองแบบไม่กดดัน",
-      "ทำ internal note ให้ทีม: ต้องเช็กอะไร ใครอนุมัติได้ deadline ไหน หลักฐานอยู่ตรงไหน และอะไรห้ามรับปากเกินจริง",
-      "ตั้ง follow-up 24 ชม. / 3 วัน / ก่อนวันเดินทาง พร้อมข้อความสั้นที่ช่วยตัดสินใจ ไม่สแปม และเคารพ consent",
-      "ทุกสัปดาห์ให้ AI สรุปเหตุผลยกเลิกซ้ำ ๆ แล้วเสนอว่าควรแก้ FAQ, หน้าโปร, policy, หรือข้อความก่อนจองตรงไหน"
+      "ให้ AI แยกเหตุผลการยกเลิกเป็นหมวด เช่น เปลี่ยนแผน อากาศไม่ดี งบไม่พอ ป่วย เข้าใจผิด หรือไม่มั่นใจในแพ็กเกจ"
     ],
     "tool": "ChatGPT / Projects or Tasks optional"
   },
@@ -1519,13 +1336,9 @@ Last updated: 2026-06-22T16:51:16Z
     "name": "NotebookLM Pharmacy/Health-Shop Safety Answer Book — 7 tips",
     "success_metric": "2h: ≥250 views and ≥3 shares/comments; watch for pharmacy/clinic/admin comments asking for answer-card or escalation templates. 24h: ≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลดฉลากสินค้า เอกสารกำกับยา/อาหารเสริม price list policy คืนสินค้า delivery FAQ เก่า และข้อจำกัดร้านเป็น source ของ NotebookLM",
-      "ถาม NotebookLM ให้รวบรวมคำถามที่ลูกค้าถามบ่อย เช่น วิธีใช้ ข้อควรระวัง ใครไม่ควรใช้ ราคา ส่งได้ไหม และต้องปรึกษาใคร พร้อม citation",
-      "ทำ answer card สำหรับ LINE/inbox: คำตอบหลัก ข้อมูลที่ต้องถามเพิ่ม citation จาก source และประโยคส่งต่อเภสัชกร/ผู้เชี่ยวชาญ",
-      "แบ่งคำตอบเป็นเขียว/เหลือง/แดง: ตอบได้จาก source, ต้องให้เภสัชกรเช็ก, และต้องแนะนำให้พบแพทย์/ผู้เชี่ยวชาญทันที",
-      "ให้ AI rewrite คำตอบให้อ่านง่ายและไม่วินิจฉัย ไม่สั่งใช้ยาแทนผู้เชี่ยวชาญ และไม่รับปากผลลัพธ์เกินจริง",
-      "สร้าง quiz/roleplay 5 เคสให้ทีมซ้อมตอบ เช่น แพ้ยา ตั้งครรภ์ ใช้ร่วมกับยาอื่น ลืมวิธีใช้ หรือถามผลข้างเคียง",
-      "ตั้งรอบอัปเดต source ทุกครั้งที่ฉลาก ราคา policy หรือคำแนะนำผู้เชี่ยวชาญเปลี่ยน แล้วให้ NotebookLM หา answer card ที่ต้องแก้"
+      "ถาม NotebookLM ให้รวบรวมคำถามที่ลูกค้าถามบ่อย เช่น วิธีใช้ ข้อควรระวัง ใครไม่ควรใช้ ราคา ส่งได้ไหม และต้องปรึกษาใคร พร้อม citation"
     ],
     "tool": "NotebookLM / source-grounded Q&A"
   },
@@ -1537,13 +1350,9 @@ Last updated: 2026-06-22T16:51:16Z
     "name": "ChatGPT in Sheets Cashflow + Payment Follow-up Board — 7 tips",
     "success_metric": "2h: ≥220 views and ≥2 shares/comments; watch for comments asking for the Sheet template or payment reminder copy. 24h: ≥2,000 views or share_rate ≥0.8%; if below average but saves/comments are strong, keep as expansion learning.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "ทำชีตพื้นฐาน: ลูกค้า/โปรเจกต์ invoice มูลค่า due date มัดจำ สถานะ ช่องทางติดต่อ last follow-up และ note ความเสี่ยง",
-      "ให้ ChatGPT แบ่งสถานะเป็น paid, due soon, overdue, partial paid, disputed, waiting approval, และห้ามทักตอนนี้",
-      "ถาม cash-in 7/14/30 วันข้างหน้า: เงินที่คาดว่าจะเข้า ช่องว่างเงินสด และยอดที่เสี่ยงหลุดจาก deadline",
-      "ให้ AI จัดลำดับลูกหนี้ที่ควรตามก่อนจากยอดเงิน อายุหนี้ ความสัมพันธ์ และเหตุผลที่ไม่ควรทักแบบแข็งเกินไป",
-      "สร้างข้อความ follow-up 3 โทน: สุภาพ เตือนกำหนด และขอเอกสาร/ยืนยันยอด พร้อมเลข invoice/next step ชัด",
-      "ทำ stop-list ก่อนส่ง: ลูกค้าจ่ายแล้ว มี dispute ไม่มี consent ติดต่อผิดคน หรือเคสที่ต้องให้เจ้าของ/บัญชีตรวจ",
-      "ทำ dashboard รายสัปดาห์: เก็บได้เท่าไร ค้างเท่าไร ใครต้องทักวันนี้ ข้อความแบบไหนได้ผล และ template ไหนต้องแก้"
+      "ให้ ChatGPT แบ่งสถานะเป็น paid, due soon, overdue, partial paid, disputed, waiting approval, และห้ามทักตอนนี้"
     ],
     "tool": "ChatGPT in Google Sheets / Google Workspace"
   },
@@ -1558,13 +1367,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥300 views and ≥3 shares/comments; watch for salon/nail/barber admins asking for consult-card templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมรูป inspo แชทลูกค้า service menu ราคา เวลา ข้อจำกัด และรูปผลงานร้าน แล้วลบชื่อ เบอร์ ใบหน้า และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
-      "ให้ AI แยกสิ่งที่ลูกค้าต้องการจริง: สี/ทรง/ความยาว โอกาสใช้งาน งบ เวลา ความเสี่ยง และสิ่งที่ยังไม่ชัด",
-      "ขอคำถามก่อนจองคิว เช่น สภาพผม/เล็บเดิม เคยทำเคมีไหม แพ้ผลิตภัณฑ์ไหม เวลาที่มี และรับ maintenance ได้แค่ไหน",
-      "ให้ ChatGPT ทำ consult card 1 หน้า: สิ่งที่ลูกค้าอยากได้ สิ่งที่ร้านทำได้/ทำไม่ได้ ช่วงราคา เวลาโดยประมาณ และรูป/เอกสารที่ต้องดูเพิ่ม",
-      "สร้างคำอธิบาย expectation แบบไม่รับปากเกินจริง เช่น สีอาจต่างตามสภาพเดิม ต้อง test strand หรืออาจต้องแบ่งหลายรอบ",
-      "ร่างข้อความ LINE 3 แบบ: ขอข้อมูลเพิ่ม ยืนยันคิว/ราคาโดยประมาณ และสรุป after-care หลังทำบริการ",
-      "หลังปิดเคส ให้ AI สรุปบทเรียนเป็น FAQ/SOP สั้น ๆ สำหรับทรง/สี/บริการที่ลูกค้าถามซ้ำ เพื่อให้ทีมตอบตรงกันรอบหน้า"
+      "ให้ AI แยกสิ่งที่ลูกค้าต้องการจริง: สี/ทรง/ความยาว โอกาสใช้งาน งบ เวลา ความเสี่ยง และสิ่งที่ยังไม่ชัด"
     ],
     "tool": "ChatGPT / image+text analysis / Projects optional",
     "topic": "Turn inspo photos, chat notes, price/menu rules, and service constraints into a clear consultation card, missing questions, safe expectation-setting, quote/time range, and after-care note.",
@@ -1581,13 +1386,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥250 views and ≥3 shares/comments; watch for repair-shop/service-counter comments asking for warranty answer-card templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด service menu ราคาอะไหล่ เงื่อนไขประกัน ใบรับงาน policy คืนสินค้า/เคลม และ FAQ เก่าเป็น source ของ NotebookLM",
-      "ถาม NotebookLM ให้รวบรวมคำถามที่ลูกค้าถามบ่อย เช่น รับประกันกี่วัน อะไหล่แท้ไหม ซ่อมกี่ชั่วโมง เคลมได้ไหม พร้อม citation",
-      "ทำ answer card สำหรับ LINE/หน้าเคาน์เตอร์: คำตอบหลัก สิ่งที่ต้องถามเพิ่ม หลักฐานจาก source และประโยคส่งต่อช่าง/เจ้าของ",
-      "แบ่งเคสเป็นเขียว/เหลือง/แดง: แอดมินตอบได้จาก source, ต้องให้ช่างเช็ก, และห้ามรับปากก่อนเปิดเครื่อง/ตรวจหน้างาน",
-      "ให้ AI rewrite คำตอบเรื่องราคา/ประกันให้อ่านง่าย แต่ไม่รับปากผลลัพธ์หรือสาเหตุเสียหายเกินหลักฐาน",
-      "สร้าง quiz/roleplay 5 เคสให้ทีมซ้อมตอบ เช่น ลูกค้าขอเคลม อะไหล่หมด ราคาไม่ตรง อาการกลับมาเป็นซ้ำ หรือข้อมูลไม่ครบ",
-      "ตั้งรอบอัปเดต source ทุกครั้งที่ราคาอะไหล่ เงื่อนไขประกัน supplier หรือบริการเปลี่ยน แล้วให้ NotebookLM หา answer card ที่ต้องแก้"
+      "ถาม NotebookLM ให้รวบรวมคำถามที่ลูกค้าถามบ่อย เช่น รับประกันกี่วัน อะไหล่แท้ไหม ซ่อมกี่ชั่วโมง เคลมได้ไหม พร้อม citation"
     ],
     "tool": "NotebookLM / source-grounded Q&A / Audio Overview optional",
     "topic": "Use real warranty terms, parts lists, service menus, job cards, and FAQ to build source-cited answer cards for repair/warranty questions.",
@@ -1604,13 +1405,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,000 views or share_rate ≥0.8%; if below average but saves/comments are strong, keep as expansion learning.",
     "target_2h": "≥220 views and ≥2 shares/comments; watch for cleaning/maid/Airbnb-service viewers asking for package-card or before/after templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวม service menu ราคาเริ่มต้น checklist งาน before/after รีวิวจริง พื้นที่ให้บริการ และข้อจำกัดความปลอดภัยก่อนเปิด Canva",
-      "ให้ Canva Magic Design ทำ 3 format จากข้อมูลเดียวกัน: square carousel, story, และ one-page package card สำหรับส่งใน LINE",
-      "ทำ before/after proof card ที่ไม่หลอกตา: ปัญหาเดิม สิ่งที่ทีมทำ จุดที่ลูกค้าจะเห็นชัด และคำเตือนว่าแต่ละเคสต่างกัน",
-      "สร้าง package comparison: Basic / Deep Clean / Move-in หรือ Airbnb turnover พร้อมสิ่งที่รวม/ไม่รวม เวลา และ add-on",
-      "ทำ trust checklist slide: ทีมเข้าออกอย่างไร อุปกรณ์อะไร ใช้น้ำยาแบบไหน ถ่ายรูปส่งหลังงานไหม และอะไรต้องให้เจ้าของยืนยัน",
-      "ถ้ารูปหน้างาน/ภาพ hero ไม่พร้อม ให้ใช้ GenLabs เป็นตัวช่วยทำภาพประกอบสินค้า/บริการแบบไม่ต้องเขียน prompt ยาว แล้วใส่ใน Canva ต่อ",
-      "ทำ A/B cover 2 แบบ: pain hook (“ห้องไม่พร้อมรับแขก?”) vs result hook (“ก่อน/หลังใน 3 ชม.”) แล้ววัดคอมเมนต์ เซฟ และทักจอง"
+      "ให้ Canva Magic Design ทำ 3 format จากข้อมูลเดียวกัน: square carousel, story, และ one-page package card สำหรับส่งใน LINE"
     ],
     "tool": "Canva AI / Magic Design; optional GenLabs visual pre-step for clean no-prompt hero visuals when assets are weak",
     "topic": "Use Canva AI to turn service packages, before/after proof, checklist, pricing, reviews, and safety/trust rules into booking-ready visual assets.",
@@ -1633,13 +1430,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥300 views and ≥3 shares/comments; watch for tailor/shop-admin comments asking for the order-card template.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมแชทลูกค้า รูป inspo/รูปชุดจริง ประเภทงาน ราคาเริ่มต้น deadline และข้อจำกัดร้าน แล้วลบชื่อ เบอร์ ใบหน้า และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
-      "ให้ AI แยกประเภทงาน: ขึ้นทรงใหม่ แก้ไซซ์ ตัดขา เปลี่ยนซิป ซ่อมรอยขาด ปรับชุดยูนิฟอร์ม หรือเช่าชุด/คืนชุด",
-      "ขอคำถามที่ต้องถามเพิ่มก่อนรับงาน เช่น วัดจุดไหน ต้องลองชุดวันไหน ผ้า/ซับในเป็นแบบไหน รีบแค่ไหน และรับความเสี่ยงเรื่องทรง/สีได้ไหม",
-      "ให้ ChatGPT ทำใบรับงาน 1 หน้า: สิ่งที่ลูกค้าอยากได้ สภาพเดิม สิ่งที่ร้านทำได้/ทำไม่ได้ ราคา-เวลาประมาณ และรูป/วัดตัวที่ยังขาด",
-      "สร้างข้อความ expectation แบบไม่รับปากเกินจริง เช่น ทรงอาจต่างจากรูปต้นแบบ ต้องลองก่อนตัดจริง หรืออาจต้องแบ่งงานหลายรอบ",
-      "ทำ checklist ให้ช่าง/ทีมหน้าร้าน: จุดวัดตัว จุดที่ต้องเย็บ/แก้ หลักฐานรูป วันที่นัดลอง และเคสที่ต้องให้หัวหน้าตรวจ",
-      "หลังส่งงาน ให้ AI สรุปบทเรียนเป็น FAQ/SOP สั้น ๆ สำหรับงานแก้ชุดที่ถามซ้ำ เพื่อให้ทีมรับออร์เดอร์รอบหน้าเร็วขึ้น"
+      "ให้ AI แยกประเภทงาน: ขึ้นทรงใหม่ แก้ไซซ์ ตัดขา เปลี่ยนซิป ซ่อมรอยขาด ปรับชุดยูนิฟอร์ม หรือเช่าชุด/คืนชุด"
     ],
     "tool": "ChatGPT / image+text analysis / Projects optional",
     "topic": "Turn customer chat, inspiration photos, measurements, service rules, deadlines, and price ranges into a privacy-safe alteration/order brief, missing-question list, expectation note, tailor checklist, and after-care/update message.",
@@ -1662,13 +1455,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥250 views and ≥3 shares/comments; watch for document-office/legal/admin viewers asking for answer-card or missing-doc templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด contract template, service policy, fee table, document checklist, FAQ เก่า, process note และตัวอย่างเคสที่ปิดข้อมูลส่วนตัวเป็น source",
-      "ถาม NotebookLM ให้รวบรวมคำถามที่ลูกค้าถามบ่อย เช่น ต้องใช้เอกสารอะไร ค่าใช้จ่ายเท่าไร ขั้นตอนกี่วัน จุดไหนต้องอ่านก่อนเซ็น พร้อม citation",
-      "ทำ answer card สำหรับ LINE/email: คำตอบหลัก เอกสารที่ต้องส่ง ขั้นตอนถัดไป ข้อจำกัด และแหล่งอ้างอิงจากไฟล์จริง",
-      "แบ่งเคสเป็นเขียว/เหลือง/แดง: ตอบได้จาก source, ต้องให้ผู้เชี่ยวชาญตรวจ, และห้ามตอบเองเพราะอาจเป็นคำแนะนำกฎหมายเฉพาะเคส",
-      "ให้ AI rewrite คำตอบเป็นภาษาเข้าใจง่าย แต่ต้องมีประโยคกันความเข้าใจผิดว่า “นี่คือข้อมูลจากเอกสาร ไม่ใช่คำวินิจฉัย/คำปรึกษาเฉพาะบุคคล”",
-      "สร้าง missing-doc checklist: ลูกค้าขาดอะไร ทำไมต้องใช้ deadline ไหน และต้องถามใครถ้าข้อมูลไม่ตรงกัน",
-      "ตั้งรอบอัปเดต source ทุกครั้งที่ template, fee, policy หรือกฎหมาย/ขั้นตอนเปลี่ยน แล้วให้ NotebookLM หา answer card ที่ต้องแก้"
+      "ถาม NotebookLM ให้รวบรวมคำถามที่ลูกค้าถามบ่อย เช่น ต้องใช้เอกสารอะไร ค่าใช้จ่ายเท่าไร ขั้นตอนกี่วัน จุดไหนต้องอ่านก่อนเซ็น พร้อม citation"
     ],
     "tool": "NotebookLM / source-grounded Q&A",
     "topic": "Use NotebookLM to turn contract templates, service policy, fee tables, document checklists, process notes, and FAQ into source-cited answer cards with escalation rules, not legal advice.",
@@ -1691,13 +1480,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,000 views or share_rate ≥0.8%; if below average but saves/comments are strong, keep as expansion learning.",
     "target_2h": "≥220 views and ≥2 shares/comments; watch for sellers asking for the booth-check table or dropping event names.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "เขียนโจทย์ให้ชัดก่อนค้น: สินค้า/บริการอะไร เมือง/ย่านไหน งบเท่าไร เป้าหมายคือยอดขาย leads หรือ awareness และทีมมีแรงขายกี่คน",
-      "ถาม Perplexity หาแหล่งข้อมูลของงาน/สถานที่จาก official page, organizer, mall, social post, หรือข่าว พร้อมวันที่และ citation",
-      "ทำตารางเทียบค่าใช้จ่าย: ค่าเช่าบูธ ค่าเดินทาง อุปกรณ์ staff stock packaging promotion และค่าเสียโอกาสถ้าขายไม่ได้",
-      "ให้ AI ดู audience fit: คนเดินเป็นใคร กำลังซื้อประมาณไหน สินค้าเราเข้ากับงานไหม และมี restriction เรื่องอาหาร/เสียง/ไฟ/สุขอนามัยหรือไม่",
-      "ค้นคู่แข่ง/บูธคล้ายกันจากแหล่งอ้างอิง แล้วเทียบ price range, offer, bundle, visual display และช่องว่างที่เราทำให้ต่างได้โดยไม่ลอก",
-      "สร้าง break-even note: ต้องขายกี่ชิ้น/กี่ booking/กี่ lead ถึงคุ้ม พร้อม best/base/worst case ที่ไม่มโนเกินข้อมูล",
-      "ขอ checklist ก่อนจอง: คำถามที่ต้องถาม organizer, สิ่งที่ต้องเตรียม, ความเสี่ยง, วันที่ต้องตัดสินใจ, และแผนถอยถ้าไม่คุ้ม"
+      "ถาม Perplexity หาแหล่งข้อมูลของงาน/สถานที่จาก official page, organizer, mall, social post, หรือข่าว พร้อมวันที่และ citation"
     ],
     "tool": "Perplexity / cited market research",
     "topic": "Use Perplexity to compare event/booth fit with cited sources: audience, booth fee, rules, competitor prices, demand proof, hidden costs, and a break-even decision note before spending money.",
@@ -1708,16 +1493,16 @@ Last updated: 2026-06-22T16:51:16Z
     "audience": "Thai freelancers, agencies, consultants, real-estate/service-SME sales teams, and operators sending proposals or work plans to clients.",
     "caption": "ก่อนส่ง proposal/แผนงานให้ลูกค้า ลองให้ ChatGPT Canvas ช่วยไฮไลต์จุดงง ขอบเขตไม่ชัด ความเสี่ยง และสรุปส่ง LINE ให้สั้นลงก่อน #ChatGPT #ฟรีแลนซ์ #AIทำงานจริง",
     "created_at": "2026-06-20T13:41:18+00:00",
-    "cron_next_run_at": "prior schedule superseded by 02:44 schedule",
+    "cron_next_run_at": "2026-06-23T17:09:26.036326+00:00",
     "decision_rule": "If it works, remix into real-estate listing proposal, agency retainer proposal, and clinic/service package proposal versions. If it fails, rehook around “proposal อ่านไม่รู้เรื่อง = ลูกค้าไม่เซ็น”; stop after 2 misses below channel average with weak shares/comments.",
     "draft_count": 0,
     "format": "Thai handwritten/sketchnote carousel; 7 numbered tips over 8 lesson slides + reusable GenLabs CTA only at the end.",
     "hook": "ส่ง proposal ให้ลูกค้าแล้วโดนแก้ยับ? 7 วิธีใช้ ChatGPT Canvas ตรวจเอกสารก่อนส่งจริง",
-    "last_verified_at": "historical process-check superseded by 02:59 readback",
+    "last_verified_at": "2026-06-22T18:03:03Z",
     "media_count": 0,
     "name": "ChatGPT Canvas Client Proposal Polish — 7 tips",
-    "next_run_at": "prior schedule superseded by 02:44 schedule",
-    "process_check": "historical process-check superseded by 02:59 readback",
+    "next_run_at": "2026-06-23T17:09:26.036326+00:00",
+    "process_check": "2026-06-22T18:03:03Z",
     "quality_gate": {
       "cta_counted_as_tip": false,
       "distinct_tips_count": 7,
@@ -1729,16 +1514,13 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥300 views and ≥3 shares/comments; watch for comments asking for proposal/checklist templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "ให้ ChatGPT Canvas ไฮไลต์ประโยคที่ลูกค้าอาจงง: scope, ราคา, deliverable, เวลา, owner, และ next step",
-      "ขอ rewrite executive summary 5 บรรทัดให้เห็นปัญหา → ทางแก้ → ผลลัพธ์ → ราคา/ช่วงงบ → ขั้นตอนถัดไป",
-      "ให้ AI แปลง scope เป็น checklist: สิ่งที่ทำให้, สิ่งที่ไม่รวม, ข้อมูลที่ลูกค้าต้องส่ง, และจุดที่ต้องอนุมัติก่อนเริ่ม",
-      "ขอ risk/assumption note แบบสุภาพ เช่น ข้อมูลยังไม่ครบ timeline ขึ้นกับ feedback หรือราคาอาจเปลี่ยนเมื่อ scope เปลี่ยน",
-      "ให้ Canvas ทำเวอร์ชันสั้นสำหรับ LINE/email พร้อม CTA เดียว: ยืนยันขอบเขต นัดคุย หรืออนุมัติใบเสนอราคา",
-      "ก่อนส่งจริง ให้ AI ทำ final checklist: ตัวเลขถูก ชื่อลูกค้าถูก เงื่อนไขชัด ไม่มีข้อมูลส่วนตัวหลุด และคนรับผิดชอบตรวจแล้ว"
+      "ขอ rewrite executive summary 5 บรรทัดให้เห็นปัญหา → ทางแก้ → ผลลัพธ์ → ราคา/ช่วงงบ → ขั้นตอนถัดไป"
     ],
     "tool": "ChatGPT Canvas / ChatGPT Projects",
     "topic": "Use ChatGPT Canvas to turn a rough proposal/work plan into a clearer client-ready document, scope checklist, risk note, and short LINE/email send-off.",
-    "updated_at": "historical process-check superseded by 02:59 readback",
+    "updated_at": "2026-06-22T18:03:03Z",
     "why_views_saves": "Grounded in the current KPI leader: ChatGPT practical work-output tips are at 32,072 views / 429 shares. This keeps the winning “make work output better before sending” pattern but uses a fresh ChatGPT Canvas document-review feature and a high-value freelancer/client pain, so it is saveable as a pre-send checklist."
   },
   {
@@ -1758,13 +1540,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥250 views and ≥3 shares/comments; watch for broker/admin comments asking for answer-card or claim-doc templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด policy PDF, ตารางความคุ้มครอง, exclusion, เบี้ย/ราคา, claim form, FAQ เก่า และตัวอย่างเคสที่ปิดข้อมูลส่วนตัวเป็น source",
-      "ถาม NotebookLM ให้รวบรวมคำถามที่ลูกค้าถามบ่อย เช่น คุ้มครองอะไร ไม่คุ้มครองอะไร เคลมอย่างไร เอกสารอะไรต้องมี พร้อม citation",
-      "ทำ answer card สำหรับ LINE/email: คำตอบหลัก ข้อจำกัด เอกสารที่ต้องขอเพิ่ม แหล่งอ้างอิง และประโยคส่งต่อผู้เชี่ยวชาญ",
-      "แบ่งเคสเป็นเขียว/เหลือง/แดง: ตอบได้จาก source, ต้องให้ underwriter/เจ้าหน้าที่เคลมเช็ก, และห้ามรับปากผลเคลมเอง",
-      "ให้ AI rewrite ภาษากรมธรรม์ยาก ๆ เป็นภาษาลูกค้าเข้าใจง่าย แต่ยังมีคำเตือนว่าอ้างอิงตามเงื่อนไขในเอกสาร",
-      "สร้าง missing-doc checklist สำหรับเคลม: ลูกค้าขาดอะไร ทำไมต้องใช้ deadline ไหน และไฟล์ไหนเป็นหลักฐาน",
-      "ตั้งรอบอัปเดต source ทุกครั้งที่เงื่อนไข ราคา แบบฟอร์ม หรือขั้นตอนเคลมเปลี่ยน แล้วให้ NotebookLM หา answer card ที่ต้องแก้"
+      "ถาม NotebookLM ให้รวบรวมคำถามที่ลูกค้าถามบ่อย เช่น คุ้มครองอะไร ไม่คุ้มครองอะไร เคลมอย่างไร เอกสารอะไรต้องมี พร้อม citation"
     ],
     "tool": "NotebookLM / source-grounded Q&A",
     "topic": "Use NotebookLM to turn policy PDFs, coverage tables, exclusions, claim forms, and FAQ into source-cited answer cards with escalation rules for insurance teams.",
@@ -1787,13 +1565,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,000 views or share_rate ≥0.8%; if below average but comments/saves are strong, keep as expansion learning.",
     "target_2h": "≥220 views and ≥2 shares/comments; watch for SME/admin viewers asking for a Zap/Make template or review message examples.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "กำหนด trigger ให้ชัด: booking เสร็จ, job status = done, invoice paid, class attended, หรือเคสปิดแล้วใน Google Sheets/CRM",
-      "ใส่ consent/stop-list ก่อนส่ง: ลูกค้ายินยอมไหม เคยร้องเรียนไหม เพิ่งถูกทักไปหรือยัง และต้องห้ามทักเคสไหน",
-      "ตั้ง delay ที่เหมาะกับบริการ เช่น หลังคลินิก 24 ชม., งานซ่อมหลังรับของ, tutor หลังจบคลาส, cleaning หลังส่งรูปงาน",
-      "ให้ AI/เทมเพลตร่างข้อความ 3 แบบ: ขอบคุณ, ขอรีวิวสั้น, และขอ feedback ส่วนตัวเมื่อคะแนนต่ำ โดยไม่กดดันลูกค้า",
-      "ใส่ filter ให้เคสเสี่ยงส่งให้คนตรวจ: complaint, refund, งานยังไม่ปิด, รีวิวต่ำ, หรือข้อมูลลูกค้ายังไม่ครบ",
-      "บันทึกผลกลับเข้า Sheet: ส่งแล้ว เปิด/ตอบแล้ว รีวิวแล้ว rating เท่าไร มี referral ไหม และต้อง follow-up อะไรต่อ",
-      "ทำ weekly report ให้ทีมดูว่า timing/ข้อความแบบไหนได้รีวิวดี และปิด automation ที่ทำให้ลูกค้ารำคาญหรือ unsubscribe เพิ่ม"
+      "ใส่ consent/stop-list ก่อนส่ง: ลูกค้ายินยอมไหม เคยร้องเรียนไหม เพิ่งถูกทักไปหรือยัง และต้องห้ามทักเคสไหน"
     ],
     "tool": "Zapier / Make / Google Sheets / LINE or email",
     "topic": "Use Zapier/Make to trigger a safe post-service review/referral follow-up after a booking/job is completed, with consent filters, delay, human review, logging, and stop rules.",
@@ -1816,13 +1590,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥300 views and ≥3 shares/comments; watch for sellers asking for the order-table or payment-message template.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมคอมเมนต์สั่งซื้อ แชท รูปสินค้า ราคา และสต็อกล่าสุด แล้วลบชื่อ เบอร์ ที่อยู่ และข้อมูลจ่ายเงินก่อนวางให้ ChatGPT",
-      "ให้ AI แยกออเดอร์เป็นตาราง: รหัสสินค้า จำนวน สี/ไซซ์ ราคา สถานะจอง และข้อมูลที่ยังขาด",
-      "ขอรายการ “ต้องถามเพิ่ม” เช่น สีไม่ชัด สต็อกหมด เลือกไซซ์ไม่ครบ หรือยังไม่ยืนยันรับสินค้า",
-      "ให้ ChatGPT ร่างข้อความโอนเงิน/ยืนยันออเดอร์ 3 แบบ: สุภาพ สั้นมาก และกันความเข้าใจผิดเรื่องค่าส่ง/เวลาโอน",
-      "ทำ stock exception list: สินค้าหมด จำนวนเกิน สั่งซ้ำ หรือรายการที่ต้องให้คนตรวจเองก่อนส่งยอด",
-      "สร้างข้อความ follow-up หลังไลฟ์: เตือนโอน, แจ้งของหมด/ตัวเลือกแทน, และปิดออเดอร์แบบไม่สแปมลูกค้า",
-      "วันถัดไปให้ AI สรุปว่าสินค้า/ราคา/ช่วงไลฟ์/ข้อความไหนขายดี เพื่อปรับไลฟ์และสต็อกรอบหน้า"
+      "ให้ AI แยกออเดอร์เป็นตาราง: รหัสสินค้า จำนวน สี/ไซซ์ ราคา สถานะจอง และข้อมูลที่ยังขาด"
     ],
     "tool": "ChatGPT / file + text analysis / Projects optional",
     "topic": "Turn live-sale comments/chats/order notes into an order table, payment messages, stock exceptions, and next-day learning loop.",
@@ -1845,13 +1615,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥250 views and ≥3 shares/comments; watch for contractor/interior/admin viewers asking for BOQ/change-order templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลดสัญญา BOQ แบบงาน timeline งวดชำระ warranty policy change-order rule และ FAQ เก่าเป็น source ของ NotebookLM",
-      "ถาม NotebookLM ให้รวบรวมคำถามลูกค้าบ่อย เช่น เสร็จเมื่อไร เพิ่มงานคิดยังไง วัสดุอะไร รับประกันอะไร พร้อม citation จากไฟล์จริง",
-      "ทำ answer card สำหรับ LINE: คำตอบหลัก ไฟล์อ้างอิง สิ่งที่ต้องถามเพิ่ม และประโยคส่งต่อ PM/ช่างเมื่อไม่แน่ใจ",
-      "แบ่งเคสเป็นเขียว/เหลือง/แดง: ตอบได้จาก source, ต้องให้ PM เช็ก, และห้ามรับปากก่อนดูหน้างาน/แก้สcope",
-      "ให้ AI ทำ change-order checklist: ลูกค้าขอเพิ่มอะไร กระทบเวลา/งบไหม ต้องอนุมัติใคร และต้องมีรูป/ใบเสนอราคาใหม่ไหม",
-      "สร้าง weekly update template: งานที่เสร็จ งานค้าง เหตุที่เลื่อน รูป/หลักฐาน และ next step ที่ลูกค้าต้องอนุมัติ",
-      "ตั้งรอบอัปเดต source ทุกครั้งที่ timeline, BOQ, วัสดุ, ราคา หรือสัญญาเปลี่ยน แล้วให้ NotebookLM หา answer card ที่ต้องแก้"
+      "ถาม NotebookLM ให้รวบรวมคำถามลูกค้าบ่อย เช่น เสร็จเมื่อไร เพิ่มงานคิดยังไง วัสดุอะไร รับประกันอะไร พร้อม citation จากไฟล์จริง"
     ],
     "tool": "NotebookLM / source-grounded Q&A",
     "topic": "Use NotebookLM to turn renovation contracts, BOQ, timelines, payment terms, warranties, and change-order rules into source-cited client answer cards.",
@@ -1874,13 +1640,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,000 views or share_rate ≥0.8%; if comments/saves are strong but views are below average, keep as expansion learning.",
     "target_2h": "≥220 views and ≥2 shares/comments; watch for viewers asking for the Sheet template or expiry/reorder formula.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "ทำชีตพื้นฐาน: ชื่อสินค้า/วัตถุดิบ หมวด จำนวนปัจจุบัน minimum stock วันหมดอายุ supplier ราคา และสาขา/พื้นที่เก็บ",
-      "ให้ ChatGPT จัดกลุ่มสถานะ: ต้องสั่งเพิ่ม, ใกล้หมดอายุ, ขาย/ใช้ช้า, หมุนเร็ว, ของห้ามใช้/ต้องตรวจ, และข้อมูลไม่ครบ",
-      "ถามว่า “สัปดาห์นี้ควรสั่งอะไรก่อน เพราะอะไร” โดยดูยอดคงเหลือ วันหมดอายุ ความสำคัญ และเวลารอ supplier",
-      "ให้ AI ทำ reorder list พร้อมจำนวนแนะนำ เหตุผล งบประมาณคร่าว ๆ และข้อความสั่งของ/ถามราคา supplier",
-      "สร้าง stop-sell/stop-use checklist สำหรับของหมดอายุ ฉลากไม่ชัด ของเสียหาย หรือเคสที่ต้องให้เจ้าของ/ผู้เชี่ยวชาญตรวจ",
-      "ทำ waste note: ของอะไรทิ้งบ่อย ทำไม เช่น ซื้อเยอะเกิน โปรไม่เดิน เมนูไม่ขาย หรือเก็บผิดวิธี",
-      "ทำ dashboard รายสัปดาห์: ของขาด ของใกล้หมดอายุ มูลค่าที่เสีย สั่งซื้อแล้วหรือยัง และสิ่งที่ต้องปรับในรอบหน้า"
+      "ให้ ChatGPT จัดกลุ่มสถานะ: ต้องสั่งเพิ่ม, ใกล้หมดอายุ, ขาย/ใช้ช้า, หมุนเร็ว, ของห้ามใช้/ต้องตรวจ, และข้อมูลไม่ครบ"
     ],
     "tool": "ChatGPT in Google Sheets / Google Workspace",
     "topic": "Use ChatGPT in Sheets to classify stock, expiry dates, reorder priority, supplier messages, stop-sell items, and weekly stock loss learning.",
@@ -1897,13 +1659,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥300 views and ≥3 shares/comments; watch for comments asking for creator-brief/shot-list templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมข้อมูลสินค้า/บริการ ราคา โปร จุดต่าง ลูกค้าหลัก และตัวอย่างโพสต์ที่ชอบ แล้วลบข้อมูลส่วนตัว/ราคาเฉพาะเคสก่อนวางให้ ChatGPT",
-      "ให้ AI สรุปเป้าหมายคอนเทนต์ 1 ข้อ เช่น คนทัก LINE, กดจอง, เซฟ checklist, หรือเข้าใจโปรใหม่ ไม่ใช่แค่ “ทำให้ไวรัล”",
-      "ขอ creator brief 1 หน้า: โทนแบรนด์ ข้อความหลัก สิ่งที่ต้องโชว์ สิ่งที่ห้ามพูด และ CTA เดียวที่ต้องการ",
-      "ให้ ChatGPT ทำ shot list 5 ช็อต: opening pain/result, product/service proof, before-after/example, trust point, และ next step",
-      "สร้าง script 15–30 วิ 3 เวอร์ชัน: pain-first, result-first, และ story/review-first โดยไม่รับปากผลลัพธ์เกินจริง",
-      "ทำ approval checklist: logo/ราคา/claim/เสียงแบรนด์/ข้อมูลส่วนตัว/สิทธิ์ใช้ภาพ ถูกต้องก่อนให้ครีเอเตอร์ถ่ายจริง",
-      "หลังส่งงาน ให้ AI ทำ feedback note ที่สุภาพ: ต้องแก้อะไร ตัวอย่างประโยคใหม่ deadline และเกณฑ์อนุมัติรอบถัดไป"
+      "ให้ AI สรุปเป้าหมายคอนเทนต์ 1 ข้อ เช่น คนทัก LINE, กดจอง, เซฟ checklist, หรือเข้าใจโปรใหม่ ไม่ใช่แค่ “ทำให้ไวรัล”"
     ],
     "tool": "ChatGPT / Projects / file + text analysis",
     "topic": "Turn product/service details, brand tone, offer, claims limits, deliverables, and examples into a creator-ready UGC/influencer brief with approval checklist.",
@@ -1920,13 +1678,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥250 views and ≥3 shares/comments; watch for HR/admin/owner comments asking for answer-card or policy-template examples.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด employee handbook, policy ลา/OT/เงินเดือน/สวัสดิการ, uniform rule, onboarding checklist และ FAQ เก่าเป็น source ของ NotebookLM",
-      "ถาม NotebookLM ให้รวบรวมคำถามพนักงานที่เจอบ่อย เช่น ลาป่วย ลากิจ OT วันหยุด payroll cutoff uniform และ probation พร้อม citation",
-      "ทำ answer card สำหรับ LINE/Slack ภายในทีม: คำตอบหลัก เงื่อนไข เอกสารที่ต้องส่ง deadline และไฟล์อ้างอิง",
-      "แบ่งเคสเป็นเขียว/เหลือง/แดง: แอดมินตอบได้จาก source, ต้องให้ HR/เจ้าของตรวจ, และห้ามตอบเองเพราะเสี่ยงกฎหมาย/เงินเดือน",
-      "ให้ AI rewrite policy ยาว ๆ เป็นภาษาพนักงานเข้าใจง่าย แต่ยังคงเงื่อนไข จำนวนวัน เวลา และข้อยกเว้นให้ครบ",
-      "สร้าง onboarding quiz/roleplay 5 เคสให้หัวหน้าสาขาซ้อมตอบ เช่น มาสาย ขอ OT เปลี่ยนกะ หรือขอลาป่วย",
-      "ตั้งรอบอัปเดต source ทุกครั้งที่กฎ เงินเดือน สวัสดิการ หรือแบบฟอร์มเปลี่ยน แล้วให้ NotebookLM หา answer card ที่ต้องแก้"
+      "ถาม NotebookLM ให้รวบรวมคำถามพนักงานที่เจอบ่อย เช่น ลาป่วย ลากิจ OT วันหยุด payroll cutoff uniform และ probation พร้อม citation"
     ],
     "tool": "NotebookLM / source-grounded Q&A",
     "topic": "Use NotebookLM to turn employee handbook, leave/OT policy, payroll cutoffs, uniform rules, benefits, and onboarding SOP into source-cited HR answer cards and escalation rules.",
@@ -1943,13 +1697,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,000 views or share_rate ≥0.8%; if saves/comments are strong but views are below average, keep as expansion learning.",
     "target_2h": "≥220 views and ≥2 shares/comments; watch for viewers asking for the roster Sheet/template.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "ทำชีตพื้นฐาน: ชื่อพนักงาน บทบาท skill วันที่ว่าง วันลา ชั่วโมงทำงาน ค่าแรง/OT และช่วงเวลาร้านยุ่ง",
-      "ให้ ChatGPT จัดกลุ่มสถานะ: กะครบ คนขาด skill ไม่พอ OT เสี่ยง ลาชนกัน และข้อมูลยังไม่ครบ",
-      "ถามว่า “สัปดาห์นี้กะไหนเสี่ยงที่สุด เพราะอะไร” พร้อมจำนวนคนที่ต้องมี skill ที่ขาด และผลกระทบต่อลูกค้า",
-      "ให้ AI เสนอ roster ทางเลือก 2 แบบ: ประหยัด OT และเน้น service coverage พร้อมข้อดี/ข้อเสียของแต่ละแบบ",
-      "สร้างข้อความแจ้งกะสำหรับ LINE/Slack: กะของแต่ละคน สิ่งที่ต้องเตรียม และ deadline ยืนยันกะ",
-      "ทำ exception checklist: พนักงานใหม่ต้องคู่กับใคร ใครห้ามทำ OT เกิน ใครต้องให้หัวหน้าตรวจ หรือกะไหนต้องโทรยืนยัน",
-      "ทำ weekly dashboard: ชั่วโมงรวม OT คนขาด ช่วงพีคที่พลาด complaint ที่เกิดจากกะ และสิ่งที่ต้องแก้สัปดาห์หน้า"
+      "ให้ ChatGPT จัดกลุ่มสถานะ: กะครบ คนขาด skill ไม่พอ OT เสี่ยง ลาชนกัน และข้อมูลยังไม่ครบ"
     ],
     "tool": "ChatGPT in Google Sheets / Google Workspace",
     "topic": "Use ChatGPT in Sheets to classify staff availability, skills, busy hours, leave, overtime risk, shift gaps, and weekly roster messages.",
@@ -1972,13 +1722,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥300 views and ≥3 shares/comments; watch for optical-shop/admin comments asking for consult-card or option-table templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมค่าสายตา/โน้ตลูกค้า/รูปกรอบ/งบ/ไลฟ์สไตล์ แล้วลบชื่อ เบอร์ ใบเสร็จ และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
-      "กำหนดกฎชัด ๆ ว่า AI ห้ามวินิจฉัยเอง ให้ใช้เฉพาะข้อมูลร้าน/ผู้เชี่ยวชาญอนุมัติ และต้องให้คนตรวจทุกครั้งก่อนส่งลูกค้า",
-      "ให้ AI แยกความต้องการลูกค้า: ทำงานหน้าคอม ขับรถกลางคืน อ่านหนังสือ เล่นกีฬา งบประมาณ แพ้ง่าย หรืออยากได้เลนส์บาง",
-      "ขอตารางเทียบตัวเลือก เช่น เลนส์ชั้นเดียว โปรเกรสซีฟ ตัดแสง ปรับแสง เลนส์บาง พร้อมข้อดี ข้อจำกัด และช่วงราคาที่ร้านตรวจแล้ว",
-      "สร้างคำถามที่ต้องถามเพิ่มก่อนเสนอราคา เช่น PD/ขนาดกรอบ ประวัติใส่เลนส์เดิม ระยะใช้งาน งบจริง และวันรับแว่นที่ต้องการ",
-      "ให้ ChatGPT ทำ consult card 1 หน้า: ปัญหา/การใช้งานหลัก ตัวเลือกที่เหมาะ สิ่งที่ต้องเช็กกับผู้เชี่ยวชาญ ราคาโดยประมาณ และ next step เดียว",
-      "หลังขาย ให้ AI ร่างข้อความดูแลเลนส์/ประกัน/นัดปรับแว่น และสรุป FAQ/SOP สำหรับคำถามที่ลูกค้าถามซ้ำ"
+      "กำหนดกฎชัด ๆ ว่า AI ห้ามวินิจฉัยเอง ให้ใช้เฉพาะข้อมูลร้าน/ผู้เชี่ยวชาญอนุมัติ และต้องให้คนตรวจทุกครั้งก่อนส่งลูกค้า"
     ],
     "tool": "ChatGPT / image+text analysis / Projects optional",
     "topic": "Turn prescription/lifestyle notes and shop-approved lens rules into a customer-friendly consult card, option table, quote questions, safe expectation note, and follow-up message without diagnosing.",
@@ -2002,13 +1748,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥250 views and ≥3 shares/comments; watch for event/rental/admin viewers asking for answer-card or setup-checklist templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลดสัญญาเช่า price list รายการอุปกรณ์ คู่มือติดตั้ง เงื่อนไขมัดจำ/เสียหาย delivery zone cancellation policy และ FAQ เก่าเป็น source",
-      "ถาม NotebookLM ให้รวบรวมคำถามที่ลูกค้าถามบ่อย เช่น ส่งกี่โมง ติดตั้งนานไหม ไฟพอไหม ยกเลิกได้ไหม ของเสียหายคิดอย่างไร พร้อม citation",
-      "ทำ answer card สำหรับ LINE/email: คำตอบหลัก เงื่อนไขที่ต้องย้ำ ข้อมูลที่ต้องถามเพิ่ม และไฟล์อ้างอิงจาก source จริง",
-      "แบ่งเคสเป็นเขียว/เหลือง/แดง: แอดมินตอบได้จาก source, ต้องให้ช่าง/หัวหน้าทีมเช็ก, และห้ามรับปากก่อนดูหน้างาน",
-      "สร้าง pre-event checklist: สถานที่ เวลาโหลดของ ไฟ/ปลั๊ก ลิฟต์/ที่จอดรถ ผู้ประสานงาน แผนฝน/ลม และรูปพื้นที่ที่ต้องขอเพิ่ม",
-      "ให้ AI ร่างข้อความสำหรับเปลี่ยนวัน/ยกเลิก/ของเสียหาย/เพิ่มอุปกรณ์ โดยไม่รับปากเกินสัญญาและไม่โทษลูกค้าแรงเกินไป",
-      "ตั้งรอบอัปเดต source ทุกครั้งที่ราคา สต็อก supplier เงื่อนไขมัดจำ หรือรายการอุปกรณ์เปลี่ยน แล้วให้ NotebookLM หา answer card ที่ต้องแก้"
+      "ถาม NotebookLM ให้รวบรวมคำถามที่ลูกค้าถามบ่อย เช่น ส่งกี่โมง ติดตั้งนานไหม ไฟพอไหม ยกเลิกได้ไหม ของเสียหายคิดอย่างไร พร้อม citation"
     ],
     "tool": "NotebookLM / source-grounded Q&A / Audio Overview optional",
     "topic": "Use NotebookLM to turn rental contracts, setup manuals, inventory lists, deposit/damage rules, delivery zones, cancellation terms, and FAQs into source-cited answer cards and event handoff checklists.",
@@ -2032,13 +1774,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,000 views or share_rate ≥0.8%; if below average but saves/comments are strong, keep as expansion learning.",
     "target_2h": "≥220 views and ≥2 shares/comments; watch for viewers asking for the location-check table or naming areas they want to compare.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "เขียนโจทย์ก่อนค้น: ธุรกิจอะไร พื้นที่ไหน ลูกค้าหลักคือใคร งบค่าเช่าเท่าไร เป้าหมายยอดขาย/booking และจุดคุ้มทุนคร่าว ๆ",
-      "ถาม Perplexity หาแหล่งอ้างอิงจาก official page, แผนที่, ข่าว, รีวิว, community post หรือข้อมูลพื้นที่ พร้อมวันที่และ URL ที่ตรวจกลับได้",
-      "ทำตารางเทียบ 3–5 ทำเล: ค่าเช่า ขนาด การเดินทาง ที่จอดรถ คู่แข่งใกล้เคียง กลุ่มลูกค้า และข้อจำกัดอาคาร/นิติบุคคล",
-      "ให้ AI หา competitor pattern: เขาขายอะไร ราคาเริ่มเท่าไร รีวิวบ่นเรื่องอะไร และช่องว่างที่เราทำให้ต่างได้โดยไม่ลอก",
-      "เช็ก hidden cost: ค่าตกแต่ง มัดจำ สัญญาขั้นต่ำ ค่า common area ค่าไฟ/น้ำ พนักงาน ป้าย หน้าร้าน และฤดูกาลขายช้า",
-      "ทำ break-even note: ต้องขายกี่บิล/กี่คอร์ส/กี่ booking ต่อวันถึงคุ้ม พร้อม best/base/worst case ที่ไม่มโนเกินข้อมูล",
-      "ขอ landlord/agent question checklist + go/no-go note 1 หน้า: ข้อมูลที่ยังไม่ชัด ความเสี่ยง สิ่งที่ต้องต่อรอง และ deadline ตัดสินใจ"
+      "ถาม Perplexity หาแหล่งอ้างอิงจาก official page, แผนที่, ข่าว, รีวิว, community post หรือข้อมูลพื้นที่ พร้อมวันที่และ URL ที่ตรวจกลับได้"
     ],
     "tool": "Perplexity / cited local market research",
     "topic": "Use Perplexity to compare location fit with cited evidence: target customers, competitors, rent, foot traffic proxies, restrictions, hidden costs, and break-even before signing a lease.",
@@ -2087,13 +1825,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥300 views and ≥3 shares/comments; watch for comments asking for LINE OA quick-reply/triage template.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมแชทลูกค้า 20–50 ข้อความ แล้วลบชื่อ เบอร์ ที่อยู่ เลขออเดอร์ และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
-      "ให้ AI แยกกลุ่มเคส: ถามราคา, พร้อมซื้อ, รอหลักฐาน, เคลม/บ่น, เคสด่วน, ต้องส่งต่อเจ้าของ/ผู้เชี่ยวชาญ",
-      "ขอ priority board วันนี้: ตอบก่อนเพราะมีโอกาสขาย, ตอบก่อนเพราะเสี่ยงเสียลูกค้า, และเคสที่รอข้อมูลเพิ่ม",
-      "ให้ ChatGPT ร่างคำตอบ 3 โทน: สั้นเร็ว, อธิบายครบ, และขอโทษ/แก้เคส โดยห้ามรับปากเกินจริง",
-      "สร้าง escalation rule: คำถามสุขภาพ/ราคาเฉพาะเคส/คืนเงิน/ประกัน/เคลมแรง ต้องให้คนอนุมัติก่อนส่ง",
-      "ทำ Tasks/manual reminder สำหรับเคสที่ต้อง follow-up 24 ชม., 3 วัน, หรือรอเอกสาร โดยไม่ทักถี่จนเหมือนสแปม",
-      "ท้ายวันให้ AI สรุป 3 คำถามที่เจอบ่อยที่สุด แล้วแปลงเป็น FAQ, quick reply, หรือโพสต์สั้นสำหรับวันถัดไป"
+      "ให้ AI แยกกลุ่มเคส: ถามราคา, พร้อมซื้อ, รอหลักฐาน, เคลม/บ่น, เคสด่วน, ต้องส่งต่อเจ้าของ/ผู้เชี่ยวชาญ"
     ],
     "tool": "ChatGPT / Projects / Tasks optional",
     "why_views_saves": "Grounded in the 42,765-view / 514-share ChatGPT productivity winner: Thai viewers save practical work-output templates. LINE OA triage is an urgent SME pain and gives admins a copyable board/reply system."
@@ -2107,13 +1841,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥250 views and ≥3 shares/comments; watch for sellers/admins asking for catalog answer-card or roleplay templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด catalog, price list, ingredient/spec sheet, FAQ, refund/delivery policy, รีวิวจริง และข้อห้ามเคลมเป็น source",
-      "ถาม NotebookLM ให้สรุปสินค้าหลักแต่ละตัว: เหมาะกับใคร จุดเด่น ข้อจำกัด ราคา และ citation จากไฟล์จริง",
-      "ทำ answer card สำหรับ LINE/inbox: คำถามลูกค้า, คำตอบสั้น, หลักฐานจาก source, และข้อมูลที่ต้องถามเพิ่มก่อนแนะนำ",
-      "ให้ AI แยก objection ที่เจอบ่อย เช่น แพงไป ใช้ยังไง ต่างจากตัวอื่นยังไง ส่งกี่วัน คืนได้ไหม พร้อมคำตอบที่ไม่รับปากเกินจริง",
-      "สร้าง comparison table ระหว่าง 2–3 สินค้า: เหมาะกับใคร ไม่เหมาะกับใคร ข้อควรระวัง และ next step ที่ลูกค้าควรทำ",
-      "ทำ quiz/roleplay 7 เคสให้แอดมินซ้อมก่อนขายจริง โดยต้องตอบจาก source ไม่เดาเอง",
-      "ตั้งรอบอัปเดต source ทุกครั้งที่ราคา โปร สต็อก หรือ policy เปลี่ยน แล้วให้ NotebookLM หา answer card ที่ต้องแก้"
+      "ถาม NotebookLM ให้สรุปสินค้าหลักแต่ละตัว: เหมาะกับใคร จุดเด่น ข้อจำกัด ราคา และ citation จากไฟล์จริง"
     ],
     "tool": "NotebookLM / source-grounded Q&A / Audio Overview optional",
     "topic": "Use NotebookLM to turn product catalogs, price lists, FAQ, reviews, and policy docs into source-cited sales answer cards, objection practice, and quiz training for admins.",
@@ -2128,13 +1858,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,000 views or share_rate ≥0.8%; if below average but comments/saves are strong, keep as expansion learning.",
     "target_2h": "≥220 views and ≥2 shares/comments; watch for comments asking for the Sheet template or “ช่วยดูโพสต์ให้หน่อย”.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "ทำชีตพื้นฐาน: วันที่ hook หัวข้อ format views likes comments shares saves watch note และสิ่งที่อยากทดสอบ",
-      "ให้ ChatGPT แยกโพสต์เป็น winner, watch, loser จากเกณฑ์ง่าย ๆ เช่น views เทียบค่าเฉลี่ย share rate และคอมเมนต์จริง",
-      "ถามว่า “โพสต์ไหนควร remix ก่อน เพราะอะไร” โดยดูทั้ง views, shares, comments, audience pain, และความง่ายในการทำซ้ำ",
-      "ให้ AI หา hook pattern ที่ซ้ำในโพสต์ดี เช่น problem-first, checklist, mistake-fix, before/after, หรือ tool-specific tips",
-      "สร้าง stop list: format/topic/hook ที่พลาด 3 ครั้งติด หรือ engagement ต่ำกว่าค่าเฉลี่ยมาก อย่าผลิตซ้ำเพราะเสียดายไอเดีย",
-      "ให้ ChatGPT ทำ next 3 experiments: 1 remix winner, 1 stronger hook for watch-only post, 1 new tool/topic test พร้อม metric เป้าหมาย",
-      "ทุกสัปดาห์ทำ summary 1 หน้า: สิ่งที่ควรทำต่อ สิ่งที่ควรหยุด และคำถามที่ต้องเก็บข้อมูลเพิ่มก่อนสรุป"
+      "ให้ ChatGPT แยกโพสต์เป็น winner, watch, loser จากเกณฑ์ง่าย ๆ เช่น views เทียบค่าเฉลี่ย share rate และคอมเมนต์จริง"
     ],
     "tool": "ChatGPT in Google Sheets / TikTok analytics export / Google Workspace",
     "topic": "Use ChatGPT in Sheets to log post metrics, classify winners/losers, spot hooks/topics worth remixing, and decide continue/remix/stop before producing more content.",
@@ -2149,13 +1875,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves appear, target ≥5 saves.",
     "target_2h": "≥300 views and ≥3 shares/comments; watch for comments asking for SOP or quick-reply templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "เลือกงานซ้ำ 1 งานที่ทีมทำทุกวัน เช่น ตอบราคา รับคิว เคลมสินค้า ส่งใบเสนอราคา หรือส่งต่อเคสให้ช่าง/ผู้เชี่ยวชาญ",
-      "รวมตัวอย่างแชท/โน้ต/เอกสาร 5–10 เคส แล้วลบชื่อ เบอร์ ที่อยู่ เลขออเดอร์ และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
-      "ให้ AI แยกขั้นตอนจริงเป็น ก่อนเริ่มงาน → ข้อมูลที่ต้องถาม → วิธีตอบ/ทำงาน → จุดที่ต้องส่งต่อ → วิธีปิดเคส",
-      "ขอ SOP 1 หน้าแบบทีมใช้ได้ทันที: objective, input, steps, output, owner, deadline, และข้อห้ามรับปากเกินจริง",
-      "ให้ ChatGPT สร้าง quick-reply/template 3 แบบ: สั้นเร็ว, อธิบายครบ, และขอข้อมูลเพิ่มแบบสุภาพ",
-      "ทดสอบ SOP ด้วยเคสง่าย/ยาก/ข้อมูลไม่ครบ/ลูกค้าโกรธ/เคสเสี่ยง แล้วแก้จุดที่ AI ตอบกำกวม",
-      "ทุกสัปดาห์ให้ทีมวางเคสใหม่กลับเข้า ChatGPT เพื่อหา FAQ ที่ควรเพิ่มและขั้นตอนที่ควรตัดออก"
+      "รวมตัวอย่างแชท/โน้ต/เอกสาร 5–10 เคส แล้วลบชื่อ เบอร์ ที่อยู่ เลขออเดอร์ และข้อมูลส่วนตัวก่อนวางให้ ChatGPT"
     ],
     "tool": "ChatGPT / Projects / file + text analysis",
     "topic": "Turn repeated admin work into a one-page ChatGPT SOP, quick replies, escalation rules, and weekly improvement loop.",
@@ -2170,13 +1892,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves appear, target ≥5 saves.",
     "target_2h": "≥250 views and ≥3 shares/comments; watch for sellers asking for live cheat-sheet or catalog answer-card templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด catalog, price list, ingredient/spec sheet, delivery/refund policy, FAQ, รีวิวจริง และคำที่ห้ามเคลมเป็น source",
-      "ถาม NotebookLM ให้สรุปสินค้าแต่ละตัว: เหมาะกับใคร จุดเด่น วิธีใช้ ข้อจำกัด ราคา และ citation จากไฟล์จริง",
-      "ทำ live cheat sheet: opening line, 3 selling points, คำถามที่เจอบ่อย, objection, และ next step สำหรับแอดมิน",
-      "แบ่งคำตอบเป็นเขียว/เหลือง/แดง: ตอบได้จาก source, ต้องถามเจ้าของ/ผู้เชี่ยวชาญ, และห้ามตอบเองเพราะเสี่ยงเคลมเกินจริง",
-      "ให้ AI ทำ comparison card ระหว่างสินค้า 2–3 ตัว: ต่างกันอย่างไร เหมาะกับใคร ไม่เหมาะกับใคร และข้อควรระวัง",
-      "สร้าง quiz/roleplay 7 เคสให้แอดมินซ้อมก่อน live เช่น ราคาแพงไหม ใช้ยังไง ส่งกี่วัน คืนได้ไหม หรือเหมาะกับใคร",
-      "หลังไลฟ์ อัปเดต source จากคำถามจริง แล้วให้ NotebookLM หา cheat sheet/FAQ ที่ต้องแก้ก่อนรอบถัดไป"
+      "ถาม NotebookLM ให้สรุปสินค้าแต่ละตัว: เหมาะกับใคร จุดเด่น วิธีใช้ ข้อจำกัด ราคา และ citation จากไฟล์จริง"
     ],
     "tool": "NotebookLM / source-grounded Q&A / Audio Overview optional",
     "topic": "Use NotebookLM to make source-cited live-sale cheat sheets, answer cards, comparison tables, and roleplay practice from real product documents.",
@@ -2191,13 +1909,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,000 views or share_rate ≥0.8%; if comments/saves are strong but views are below average, keep as expansion learning.",
     "target_2h": "≥220 views and ≥2 shares/comments; watch for viewers asking for a Zap/Make quote approval template.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "กำหนด trigger ให้ชัด: form ใหม่, Sheet row = quote_requested, CRM deal stage, หรือ LINE OA tag “รอใบเสนอราคา”",
-      "เก็บข้อมูลที่ต้องมีใน Sheet/Form: ลูกค้า บริการ งบ deadline package add-on เงื่อนไข และคนรับผิดชอบ",
-      "ใส่ filter กันพลาด: ถ้าข้อมูลไม่ครบ ราคาเกินช่วง มัดจำ/ส่วนลดพิเศษ หรือเคสเสี่ยง ให้หยุดและส่งให้คนตรวจ",
-      "ให้ AI/template ร่าง quote summary แต่ยังไม่ส่งลูกค้าอัตโนมัติ: ปัญหา → ทางแก้ → สิ่งที่รวม/ไม่รวม → ราคา → next step",
-      "ตั้ง approval step: ส่งข้อความให้เจ้าของ/เซลส์ตรวจใน LINE/Slack/email พร้อมปุ่มหรือสถานะ approve/revise/reject",
-      "หลังอนุมัติ ค่อยสร้างข้อความส่งลูกค้า + follow-up 24 ชม./3 วัน พร้อม stop-list ไม่ทักถี่หรือผิด consent",
-      "ทำ weekly report: quote ส่งกี่ใบ อนุมัติกี่ใบ ปิดได้กี่งาน ติดตรงไหน และ template ไหนต้องแก้"
+      "เก็บข้อมูลที่ต้องมีใน Sheet/Form: ลูกค้า บริการ งบ deadline package add-on เงื่อนไข และคนรับผิดชอบ"
     ],
     "tool": "Zapier / Make / Google Sheets / LINE or email",
     "topic": "Use Zapier/Make to route quote requests through data checks, human approval, customer send-off, follow-up reminders, and weekly conversion learning.",
@@ -2211,39 +1925,30 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥300 views and ≥3 shares/comments; watch for comments asking for the daily/weekly update template.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมงานที่ทำวันนี้ แชทสำคัญ ไฟล์/ตัวเลข และปัญหาค้าง แล้วลบชื่อ เบอร์ ลูกค้า และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
-      "ให้ AI แยกงานเป็น done / in progress / blocked / needs approval / next action เพื่อไม่เล่าเป็นก้อนยาว",
-      "ขอ executive summary 5 บรรทัด: วันนี้คืบหน้าอะไร ตัวเลขไหนสำคัญ ติดอะไร ต้องให้ใครตัดสินใจ และพรุ่งนี้ทำอะไรต่อ",
-      "ให้ ChatGPT ทำตาราง owner / deadline / evidence / risk / next step สำหรับงานที่ต้องตามต่อ",
-      "ขอเวอร์ชันส่งหัวหน้าแบบสั้น + เวอร์ชันส่งลูกค้าแบบสุภาพ โดยไม่เปิดเผยข้อมูลภายในหรือรับปากเกินจริง",
-      "ให้ AI หา gap ในรายงาน เช่น ไม่มีตัวเลข ไม่มีหลักฐาน deadline ไม่ชัด หรือ next step เยอะเกินไป",
-      "สร้างข้อความ follow-up สำหรับคนที่ต้องอนุมัติ/ส่งไฟล์/ตอบคำถาม พร้อม deadline และเหตุผลที่ต้องตอบ",
-      "ท้ายสัปดาห์ให้ ChatGPT รวม daily updates เป็น weekly report: สิ่งที่สำเร็จ สิ่งที่ติด และข้อเสนอแก้รอบหน้า"
+      "ให้ AI แยกงานเป็น done / in progress / blocked / needs approval / next action เพื่อไม่เล่าเป็นก้อนยาว"
     ],
     "tool": "ChatGPT / Projects / file + text analysis",
     "why_views_saves": "Grounded in the 47,973-view / 568-share ChatGPT productivity winner. This is a broad office+SME work-output template viewers can save and reuse daily; it is new enough versus self-review/onboarding because it focuses on daily status reporting and approval follow-up."
   },
   {
     "audience": "Thai clinics, hotels, tours, tutors, repair shops, retail teams, and service SMEs where price/package/policy changes make staff answer incorrectly.",
-    "cron_next_run_at": "prior schedule superseded by 02:44 schedule",
+    "cron_next_run_at": "2026-06-23T17:09:26.036326+00:00",
     "decision_rule": "Continue/remix into clinic price-change, hotel cancellation-policy, repair warranty, and tutor course-policy variants if target hits; if weak, rehook around “ตอบราคาเก่าเสียลูกค้า”; stop after 2 weak NotebookLM policy-update variants.",
     "hook": "ราคา/โปร/นโยบายเปลี่ยนแล้วทีมยังตอบแบบเก่า? 7 วิธีใช้ NotebookLM หา answer card ที่ต้องแก้ทันที",
-    "last_verified_at": "historical process-check superseded by 02:59 readback",
+    "last_verified_at": "2026-06-22T18:03:03Z",
     "media_count": 0,
     "name": "NotebookLM Policy Change Alert for Teams — 7 tips",
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥250 views and ≥3 shares/comments; watch for owners/admins asking for policy-change or answer-card templates.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด source เวอร์ชันเก่าและใหม่ เช่น price list, package, policy, FAQ, SOP, post-care note หรือ warranty rule",
-      "ถาม NotebookLM ให้สรุป “อะไรเปลี่ยน” พร้อม citation จากไฟล์จริง: ราคา เงื่อนไข deadline ข้อยกเว้น และคำที่ห้ามพูดแล้ว",
-      "ให้ทำตาราง answer card ที่ต้องแก้: คำถามลูกค้า คำตอบเดิม คำตอบใหม่ ไฟล์อ้างอิง และคนที่ต้องอนุมัติ",
-      "แบ่งความเร่งด่วนเป็นแดง/เหลือง/เขียว: ตอบผิดแล้วเสี่ยงเสียเงิน/เสียความเชื่อใจ, ต้องแก้ก่อนโพสต์, หรือแก้รอบถัดไปได้",
-      "สร้างข้อความประกาศในทีมแบบสั้นสำหรับ LINE/Slack: เปลี่ยนอะไร ใช้ตั้งแต่เมื่อไร และถ้าไม่แน่ใจต้องถามใคร",
-      "ทำ quiz/roleplay 5 เคสจาก policy ใหม่ ให้แอดมินซ้อมตอบก่อนใช้กับลูกค้าจริง",
-      "ตั้งรอบ audit หลังเปลี่ยน 7 วัน: ให้ NotebookLM เทียบแชท/FAQ ล่าสุดกับ source ใหม่ เพื่อหาเคสที่ทีมยังตอบแบบเก่า"
+      "ถาม NotebookLM ให้สรุป “อะไรเปลี่ยน” พร้อม citation จากไฟล์จริง: ราคา เงื่อนไข deadline ข้อยกเว้น และคำที่ห้ามพูดแล้ว"
     ],
     "tool": "NotebookLM / source-grounded Q&A / Audio Overview optional",
-    "updated_at": "historical process-check superseded by 02:59 readback",
+    "updated_at": "2026-06-22T18:03:03Z",
     "why_views_saves": "NotebookLM is a Thailand-priority lane. This turns source-grounded Q&A into a sharper operational pain: policy/price changes causing wrong answers. Owners/admins can save the change-alert table and reuse it whenever promos or terms change."
   },
   {
@@ -2254,13 +1959,9 @@ Last updated: 2026-06-22T16:51:16Z
     "target_24h": "≥2,000 views or share_rate ≥0.8%; if below average but comments/saves are strong, keep as expansion learning.",
     "target_2h": "≥220 views and ≥2 shares/comments; watch for comments asking for the subtitle/hook checklist or dropping their own clip problem.",
     "tips": [
+      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "เลือกคลิป/สคริปต์ 1 เรื่องเดียว เช่น โปรใหม่ รีวิวลูกค้า FAQ ราคา หรือ before/after อย่ายัดหลาย offer ใน 15 วินาที",
-      "ให้ CapCut AI ช่วยร่าง opening text 3 แบบที่อ่านรู้เรื่องใน 3 วิ: pain, result, หรือ mistake ของลูกค้า",
-      "ทำ subtitle ใหญ่ สั้น และแบ่งจังหวะตามภาพ ไม่ใช่ข้อความยาวเต็มจอจนอ่านไม่ทัน",
-      "ใส่ visual proof ให้ตรงคำพูด: รีวิวจริง หน้างาน ตารางราคา ภาพก่อน/หลัง หรือขั้นตอนบริการที่ลูกค้าต้องทำต่อ",
-      "ตัดช่วงเงียบ ภาพซ้ำ และคำเกริ่นนำยาว ให้คำตอบหลักเริ่มภายใน 1–2 วินาทีแรก",
-      "เช็ก sound-off test: ปิดเสียงดู 1 รอบ แล้วถามว่าเข้าใจปัญหา ผลลัพธ์ ราคา/เงื่อนไข และ next step ไหม",
-      "ทำ A/B cover text 2 แบบ แล้ววัด views, shares, comments, completion proxy, และจำนวนคนทักถาม/เซฟ checklist"
+      "ให้ CapCut AI ช่วยร่าง opening text 3 แบบที่อ่านรู้เรื่องใน 3 วิ: pain, result, หรือ mistake ของลูกค้า"
     ],
     "tool": "CapCut AI / TikTok short-video workflow",
     "why_views_saves": "Expansion experiment with direct TikTok retention logic. CapCut is practical for Thai SMEs and this avoids product-photo drift by visibly teaching short-video subtitles, pacing, proof, and sound-off comprehension—specific enough to save before posting."
@@ -2269,73 +1970,60 @@ Last updated: 2026-06-22T16:51:16Z
 
 ## Latest experiment creator
 {
-  "checked_at": "2026-06-21T17:34:51.127227Z",
-  "created_at": "2026-06-20T13:41:18+00:00",
-  "data_signal": "Snapshot 2026-06-17T00:04:17Z: best/closest remains CTA-stripped ChatGPT productivity/workflow at 50,092 views / 596 shares / gap 49,908; breakout_candidates=0; recent 72h post 1,286 views; prioritize ChatGPT and NotebookLM for Thailand, plus one concrete software expansion test.",
+  "checked_at": "2026-06-23T16:12:58Z",
+  "classification": "draft_only_recovery_backlog",
+  "data_signal": "KPI leader remains CTA-stripped ChatGPT productivity/workflow at 51,391 views / 615 shares / gap 48,609; no current formal breakout at 12:00 baseline. Prioritize ChatGPT and NotebookLM practical Thai numbered tips; use Gemini Sheets/Docs as one concrete software expansion.",
   "experiments": [
     {
-      "audience": "Thai office workers, freelancers, SME owners, team leads, admins who report progress to a boss/client",
-      "decision_rule": "Continue/remix into boss update, client update, agency weekly report, and SME owner morning report if target hits; stop after 2 low-share variants.",
-      "hook": "งานทั้งวันเยอะ แต่สรุปให้หัวหน้าไม่เป็น? 8 วิธีใช้ ChatGPT ทำรายงานอัปเดตใน 10 นาที",
-      "name": "ChatGPT Daily Boss/Client Update — 8 tips",
-      "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
-      "target_2h": "≥300 views and ≥3 shares/comments; watch for comments asking for daily/weekly update template.",
+      "audience": "Thai shop owners, LINE OA admins, clinics/spas/salons, repair shops, tutors, and service SMEs with crowded customer inboxes.",
+      "hook": "แชทลูกค้าเต็ม LINE OA จนทีมตอบไม่ทัน? 8 วิธีใช้ ChatGPT แยกเคสด่วน/ขาย/ต้องส่งต่อใน 10 นาที",
+      "name": "ChatGPT LINE OA Inbox Triage + Quick Reply Board — 8 tips",
+      "rule": "Continue/remix into clinic, repair, tutor, ecommerce, and hotel/tour inbox variants if target hits; if weak but comments ask for templates, rehook around “ตอบช้า = เสียลูกค้า”; stop after 2 low-share variants.",
+      "source_id": "kpi-exp-20260623-chatgpt-lineoa-inbox-triage",
+      "t2": "≥300 views and ≥3 shares/comments; watch for LINE OA quick-reply/triage template requests.",
+      "t24": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
       "tips": [
-        "รวมงานที่ทำวันนี้ แชทสำคัญ ไฟล์/ตัวเลข และปัญหาค้าง แล้วลบชื่อ เบอร์ ลูกค้า และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
-        "ให้ AI แยกงานเป็น done / in progress / blocked / needs approval / next action เพื่อไม่เล่าเป็นก้อนยาว",
-        "ขอ executive summary 5 บรรทัด: คืบหน้าอะไร ตัวเลขไหนสำคัญ ติดอะไร ต้องให้ใครตัดสินใจ และพรุ่งนี้ทำอะไรต่อ",
-        "ให้ ChatGPT ทำตาราง owner / deadline / evidence / risk / next step สำหรับงานที่ต้องตามต่อ",
-        "ขอเวอร์ชันส่งหัวหน้าแบบสั้น + เวอร์ชันส่งลูกค้าแบบสุภาพ โดยไม่เปิดเผยข้อมูลภายในหรือรับปากเกินจริง",
-        "ให้ AI หา gap ในรายงาน เช่น ไม่มีตัวเลข ไม่มีหลักฐาน deadline ไม่ชัด หรือ next step เยอะเกินไป",
-        "สร้างข้อความ follow-up สำหรับคนที่ต้องอนุมัติ/ส่งไฟล์/ตอบคำถาม พร้อม deadline และเหตุผลที่ต้องตอบ",
-        "ท้ายสัปดาห์ให้ ChatGPT รวม daily updates เป็น weekly report: สิ่งที่สำเร็จ สิ่งที่ติด และข้อเสนอแก้รอบหน้า"
+        "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
+        "รวมแชทลูกค้า 20–50 ข้อความ แล้วลบชื่อ เบอร์ ที่อยู่ เลขออเดอร์ และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
+        "ให้ AI แยกเคสเป็น ถามราคา พร้อมซื้อ รอหลักฐาน เคลม/บ่น เคสด่วน และต้องส่งต่อเจ้าของ/ผู้เชี่ยวชาญ"
       ],
-      "tool": "ChatGPT / Projects / file+text analysis",
-      "why_views_saves": "Grounded in the current best CTA-stripped winner: ChatGPT productivity/workflow at 50,092 views and 596 shares. Daily status updates are broad, repeatable, and template-saveable for Thai office/SME viewers."
+      "tool": "ChatGPT / Projects / Tasks optional",
+      "why": "Directly extends the CTA-stripped ChatGPT productivity/work-output winner at 51,391 views / 615 shares into a daily Thai SME pain. LINE OA triage is urgent, template-saveable, and comment-friendly."
     },
     {
-      "audience": "Thai clinics, hotels, tours, tutors, repair shops, retail teams, and service SMEs where price/package/policy changes cause wrong customer replies",
-      "cron_next_run_at": "prior schedule superseded by 02:44 schedule",
-      "decision_rule": "Continue/remix into clinic price-change, hotel cancellation policy, repair warranty, and tutor course-policy variants if target hits; stop after 2 weak NotebookLM audit variants.",
-      "hook": "โปร/ราคาเปลี่ยน แต่ทีมยังตอบแบบเก่า? 7 วิธีใช้ NotebookLM จับคำตอบที่หลุดจากเอกสารจริง",
-      "last_verified_at": "historical process-check superseded by 02:59 readback",
-      "media_count": 0,
-      "name": "NotebookLM Staff Answer Drift Audit — 7 tips",
-      "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
-      "target_2h": "≥250 views and ≥3 shares/comments; watch for owners/admins asking for answer-card or policy-change templates.",
+      "audience": "Thai clinics, hotels/tours, tutors, repair shops, retail teams, and service SMEs where price/package/policy changes make staff answer customers incorrectly.",
+      "hook": "ราคา/โปร/นโยบายเปลี่ยนแล้วทีมยังตอบแบบเก่า? 7 วิธีใช้ NotebookLM หา answer card ที่ต้องแก้ทันที",
+      "name": "NotebookLM Staff Policy Change Alert — 7 tips",
+      "rule": "Continue/remix into clinic price-change, hotel cancellation policy, repair warranty, and tutor course-policy variants if target hits; stop after 2 weak NotebookLM audit variants.",
+      "source_id": "kpi-exp-20260623-notebooklm-staff-policy-change-alert",
+      "t2": "≥250 views and ≥3 shares/comments; watch for answer-card or policy-change template requests.",
+      "t24": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
       "tips": [
-        "อัปโหลด price list, package, policy, FAQ, SOP, warranty/post-care note เวอร์ชันล่าสุดเป็น source ของ NotebookLM",
-        "วางตัวอย่างแชท/คำตอบทีมล่าสุดที่ปิดข้อมูลส่วนตัวแล้ว แล้วถามว่าอะไรไม่ตรงกับ source ใหม่",
-        "ให้ทำ answer-drift table: คำถามลูกค้า / คำตอบทีม / คำตอบที่ถูก / citation / severity / owner ที่ต้องอนุมัติ",
-        "แบ่งเคสเป็นแดง/เหลือง/เขียว: เสี่ยงเสียเงินหรือความเชื่อใจ, wording ไม่ชัด, หรือปลอดภัยจาก source",
-        "ให้ NotebookLM rewrite answer card สำหรับ LINE/inbox โดยเก็บ citation ไว้ใช้ภายในทีม",
-        "สร้าง roleplay 5 เคสจากคำตอบที่ผิดบ่อย ให้แอดมินซ้อมก่อนตอบลูกค้าจริง",
-        "ตั้ง audit ทุกครั้งหลังเปลี่ยนราคา/โปร/นโยบาย 7 วัน เพื่อหา FAQ/quick reply ที่ยังตอบแบบเก่า"
+        "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
+        "อัปโหลด source เวอร์ชันเก่าและใหม่ เช่น price list, package, policy, FAQ, SOP, warranty หรือ post-care note",
+        "ถาม NotebookLM ให้สรุป “อะไรเปลี่ยน” พร้อม citation จากไฟล์จริง: ราคา เงื่อนไข deadline ข้อยกเว้น และคำที่ห้ามพูดแล้ว"
       ],
       "tool": "NotebookLM / source-grounded Q&A / Audio Overview optional",
-      "updated_at": "historical process-check superseded by 02:59 readback",
-      "why_views_saves": "NotebookLM is prioritized for Thailand and this is a sharper, practical source-grounded workflow than generic PDF summaries. Owners/admins can save the answer-drift table and reuse it whenever promo/policy changes."
+      "why": "NotebookLM is a Thailand-priority lane and this uses its strongest use case: source-grounded answer cards. Price/policy changes are risky, recurring, and highly saveable for managers/admin teams."
     },
     {
-      "audience": "Thai online sellers, cafes, clinics/spas/salons, tutors, repair shops, and local SMEs making short TikTok clips from offers, reviews, or FAQs",
-      "decision_rule": "Continue/remix into seller review clips, clinic FAQ clips, cafe promo clips, and repair before/after clips if target hits; stop CapCut variants after 2 misses or if generated slides drift into product-photo/prompt-context copy.",
-      "hook": "คนดูปิดเสียงแล้วไม่เข้าใจคลิป? 7 วิธีใช้ CapCut AI เช็ก subtitle+ภาพให้ขายได้แม้ไม่เปิดเสียง",
-      "name": "CapCut AI Sound-Off Sales Clip Checklist — 7 tips",
-      "target_24h": "≥2,000 views or share_rate ≥0.8%; if below average but saves/comments are strong, keep as expansion learning.",
-      "target_2h": "≥220 views and ≥2 shares/comments; watch for comments asking for subtitle/hook checklist or dropping their clip problem.",
+      "audience": "Thai restaurants/cafes, clinics/spas, salons, tutors, repair shops, and shop admins storing customer questions in Google Sheets or Docs.",
+      "hook": "คำถามลูกค้าอยู่เต็มชีตแต่ทีมตอบไม่ทัน? 7 วิธีใช้ Gemini Sheets/Docs ทำ FAQ+ข้อความตอบกลับใน 15 นาที",
+      "name": "Gemini Sheets/Docs Customer FAQ to Reply Pack — 7 tips",
+      "rule": "Continue/remix into restaurant menu FAQ, clinic package FAQ, repair warranty FAQ, and tutor course FAQ if target hits; stop Gemini variants after 2 misses below channel average or if rendered copy becomes generic prompt-context advice.",
+      "source_id": "kpi-exp-20260623-gemini-sheetsdocs-faq-reply-pack",
+      "t2": "≥220 views and ≥2 shares/comments; watch for Sheet/FAQ template requests.",
+      "t24": "≥2,000 views or share_rate ≥0.8%; if below average but saves/comments are strong, keep as expansion learning.",
       "tips": [
-        "เลือกคลิป/สคริปต์ 1 เรื่องเดียว เช่น โปรใหม่ รีวิวลูกค้า FAQ ราคา หรือ before/after อย่ายัดหลาย offer ใน 15 วินาที",
-        "ให้ CapCut AI ช่วยร่าง opening text 3 แบบที่อ่านรู้เรื่องใน 3 วิ: pain, result, หรือ mistake ของลูกค้า",
-        "ทำ subtitle ใหญ่ สั้น และแบ่งจังหวะตามภาพ ไม่ใช่ข้อความยาวเต็มจอจนอ่านไม่ทัน",
-        "ใส่ visual proof ให้ตรงคำพูด: รีวิวจริง หน้างาน ตารางราคา ภาพก่อน/หลัง หรือขั้นตอนบริการที่ลูกค้าต้องทำต่อ",
-        "ตัดช่วงเงียบ ภาพซ้ำ และคำเกริ่นนำยาว ให้คำตอบหลักเริ่มภายใน 1–2 วินาทีแรก",
-        "เช็ก sound-off test: ปิดเสียงดู 1 รอบ แล้วถามว่าเข้าใจปัญหา ผลลัพธ์ ราคา/เงื่อนไข และ next step ไหม",
-        "ทำ A/B cover text 2 แบบ แล้ววัด views, shares, comments, completion proxy, และจำนวนคนทักถาม/เซฟ checklist"
+        "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
+        "ทำชีตคำถามลูกค้า: วันที่ ช่องทาง คำถาม หมวด สถานะ คำตอบเดิม policy/source และคนรับผิดชอบ",
+        "ให้ Gemini in Sheets จัดกลุ่มคำถามซ้ำ เช่น ราคา ขั้นตอน เตรียมตัว ส่งของ refund warranty หรือ booking"
       ],
-      "tool": "CapCut AI / TikTok short-video workflow",
-      "why_views_saves": "Expansion test with direct TikTok retention logic. It keeps the lesson concrete and avoids prior CapCut/product-photo drift by visibly teaching short-video subtitles, pacing, proof, and sound-off comprehension."
+      "tool": "Gemini in Google Sheets / Gemini in Docs / Google Workspace",
+      "why": "Expansion slot beyond ChatGPT/NotebookLM with a concrete Google Workspace workflow. It is practical for Thai SMEs already using Sheets/Docs, avoids vague AI news, and gives a template viewers can save."
     }
   ],
+  "gate": "Factory source-lane exhaustion and active experiment result-closure backlog remain open; these are executable draft-only backlog specs for future factory source replenishment. No public posting/spend/generation triggered by this cron.",
   "generation_triggered_by_this_run": false,
   "public_posting": false,
   "quality_gate": {
@@ -2346,21 +2034,25 @@ Last updated: 2026-06-22T16:51:16Z
       7,
       7
     ],
-    "source_meta_public_copy": 0
+    "source_meta_public_copy": 0,
+    "tip_counts": [
+      8,
+      7,
+      7
+    ]
   },
   "source_ids": [
-    "kpi-exp-0617-0000-chatgpt-daily-boss-client-update",
-    "kpi-exp-0617-0000-notebooklm-answer-drift-audit",
-    "kpi-exp-0617-0000-capcut-sound-off-sales-clip-checklist"
+    "kpi-exp-20260623-chatgpt-lineoa-inbox-triage",
+    "kpi-exp-20260623-notebooklm-staff-policy-change-alert"
   ],
   "spending_triggered_by_this_run": false
 }
 
 ## Rule changes
 [
+  "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
   "Protected CTA enforcement remains active: learn from CTA-stripped educational_signal/body; do not classify product-photo/10-baht/no-prompt CTA as hook/topic/winner/weak pattern.",
-  "3-day tool/topic direction confirmed 2026-06-16: prioritize ChatGPT practical numbered work-output carousels first and NotebookLM source-grounded answer/SOP/PDF workflows second for Thailand; test Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude tools, and Zapier/Make only when the carousel visibly teaches a concrete workflow with 7/8 distinct tips.",
-  "Next 3 days bias production toward practical numbered ChatGPT and NotebookLM Thai carousels; use Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude tools, and Zapier/Make only as concrete software-tip workflow tests with visible 7/8 distinct tips, not vague AI news."
+  "3-day tool/topic direction confirmed 2026-06-16: prioritize ChatGPT practical numbered work-output carousels first and NotebookLM source-grounded answer/SOP/PDF workflows second for Thailand; test Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude tools, and Zapier/Make only when the carousel visibly teaches a concrete workflow with 7/8 distinct tips."
 ]
 
 ## Current operating rule
@@ -2372,15 +2064,3 @@ Last updated: 2026-06-22T16:51:16Z
 
 ## Daily log
 - [[Aion OS/Aion Learning Lab/Zernio Growth/Zernio Growth Daily Log]]
-
-<!-- ZG-2026-06-22-0000-EXPERIMENT-CREATOR -->
-- Latest experiment creator: 3 draft-only recovery backlog specs: ChatGPT Daily Sales/Service Decision Brief (`kpi-exp-20260622-chatgpt-daily-decision-brief`), NotebookLM Price/Policy Change Answer-Card Audit (`kpi-exp-20260622-notebooklm-policy-answer-audit`), CapCut AI Sound-Off Sales Clip Checklist (`kpi-exp-20260622-capcut-soundoff-sales-checklist`). Gate: source-lane exhaustion + result closure remain open; no posting/spend/generation triggered. CTA guard: protected product-photo/no-prompt CTA not used as hook/topic evidence.
-
-<!-- ZG-SELF-IMPROVEMENT-2026-06-22-1001 -->
-## 3-Day Self-Improvement — 2026-06-22 10:01 UTC
-- KPI: CTA-stripped best post **ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items** is at **51,391 views / 615 shares**, gap **48,609** to 100k. Protected GenLabs product-photo/no-prompt CTA remains promo copy only.
-- Breakout/watch: current short-window candidate `7653829036090641684` at **607 views** with **+13** recent views; classify as refresh-window evidence until next normal baseline confirms.
-- Tool/topic direction: **ChatGPT + NotebookLM first** for practical numbered Thai carousels. Expansion slots: Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude tools, Zapier/Make only when they teach a concrete workflow with visible 7/8 tips and no generic prompt/context filler.
-- Active blockers: factory source-lane saturation and active experiment result-closure backlog. No public posting, spending, or generation from this review.
-- Next action: replenish non-repeating ChatGPT/NotebookLM source lanes, close result loops, then test one concrete software-tip expansion.
-<!-- /ZG-SELF-IMPROVEMENT-2026-06-22-1001 -->

@@ -1,6 +1,6 @@
 # Zernio Growth Memory
 
-Last updated: 2026-06-23T16:12:58+00:00
+Last updated: 2026-06-24T16:05:44+00:00
 
 ## KPI
 - Goal: one TikTok post reaches **100,000 views**.
@@ -113,17 +113,17 @@ Last updated: 2026-06-23T16:12:58+00:00
 ## Current breakout watch
 {
   "status": "no_formal_breakout_current_baseline_zero_delta",
-  "pre_run_snapshot_at": "2026-06-23T16:00:57.272924+00:00",
-  "latest_snapshot_at": "2026-06-23T16:00:57.272924+00:00",
-  "latest_reconciled_snapshot_at": "2026-06-23T16:00:57.272924+00:00",
-  "latest_confirmed_snapshot_at": "2026-06-23T16:00:57.272924+00:00",
-  "previous_snapshot_at": "2026-06-23T15:30:15.607330+00:00",
+  "pre_run_snapshot_at": "2026-06-24T16:02:17.889372+00:00",
+  "latest_snapshot_at": "2026-06-24T16:02:17.889372+00:00",
+  "latest_reconciled_snapshot_at": "2026-06-24T16:02:17.889372+00:00",
+  "latest_confirmed_snapshot_at": "2026-06-24T16:02:17.889372+00:00",
+  "previous_snapshot_at": "2026-06-24T15:31:04.110762+00:00",
   "latest_confirmed_delta_views": 0,
   "latest_confirmed_hourly_velocity": 0.0,
   "formal_breakout_count": 0,
   "refresh_window_breakout_count": 0,
   "breakout_count": 0,
-  "current_reason": "2026-06-23T16:00:57.272924+00:00 normal velocity baseline found no breakout_candidates and no watched-post movement; prior positive movement is watch-only context until a later import/baseline confirms renewed velocity.",
+  "current_reason": "2026-06-24T16:02:17.889372+00:00 snapshot after 16:01 import found no breakout_candidates and no watched-post movement; best/closest remains ChatGPT productivity at 51,391 views; no public posting/spend/generation.",
   "best_post_watch": {
     "platform_post_id": "7634027210248097042",
     "label": "ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items",
@@ -134,19 +134,19 @@ Last updated: 2026-06-23T16:12:58+00:00
     "hourly": 0.0,
     "analytics_last_updated": "2026-06-20 22:41:58",
     "latest_imported_at": "2026-06-21T13:30:59.573495+00:00",
-    "caveat": "Best/closest-to-100k watch only when current normal baseline has no breakout candidates; protected CTA is not hook/topic evidence."
+    "caveat": "CTA-stripped ChatGPT productivity/workflow evidence; protected GenLabs product-photo/no-prompt CTA is promo copy only."
   },
   "previous_positive_momentum": {
-    "delta": 48,
-    "gap": 85041,
-    "hourly": 117.42,
+    "delta": 60,
+    "gap": 84981,
+    "hourly": 102.19,
     "label": "เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต…",
-    "latest_confirmed_snapshot_at": "2026-06-22T23:55:24.767573+00:00",
+    "latest_confirmed_snapshot_at": "2026-06-24T00:30:14.190425+00:00",
     "note": "Superseded as current by a later normal zero-candidate baseline; keep as watch-only context until new movement is confirmed.",
     "platform_post_id": "7634893611389259016",
-    "shares": 127,
+    "shares": 128,
     "status": "previous_positive_momentum_watch_only_context",
-    "views": 14959
+    "views": 15019
   },
   "public_posting": false,
   "spending_triggered_by_this_run": false,
@@ -170,16 +170,16 @@ Last updated: 2026-06-23T16:12:58+00:00
   "secondary_views": 10238,
   "secondary_shares": 97,
   "secondary_gap_to_100k": 89762,
-  "secondary_imported_at": "2026-06-23T16:02:04.344200+00:00",
-  "secondary_analytics_last_updated": "2026-06-22 23:19:50",
+  "secondary_imported_at": "2026-06-24T16:01:36.732107+00:00",
+  "secondary_analytics_last_updated": "2026-06-23 23:39:06",
   "secondary_delta": 0,
   "secondary_hourly": 0.0,
   "secondary_status": "previous_positive_momentum_watch_only_context",
   "primary_latest_confirmed_delta": 0,
   "primary_latest_confirmed_hourly": 0.0,
   "previous_positive_platform_post_id": "7634893611389259016",
-  "previous_positive_delta": 48,
-  "previous_positive_hourly": 117.42,
+  "previous_positive_delta": 60,
+  "previous_positive_hourly": 102.19,
   "current_breakout_platform_post_id": null,
   "current_breakout_views": null,
   "current_breakout_shares": null,
@@ -200,24 +200,28 @@ Last updated: 2026-06-23T16:12:58+00:00
   "latest_confirmed_breakout_hourly": 0.0,
   "post_import_refresh_window_delta_views": 0,
   "post_import_refresh_window_hourly": 0.0,
-  "latest_reconciled_snapshot_at": "2026-06-23T16:00:57.272924+00:00",
-  "latest_confirmed_snapshot_at": "2026-06-23T16:00:57.272924+00:00",
-  "latest_absolute_snapshot_at": "2026-06-23T16:07:45.480041+00:00",
+  "latest_reconciled_snapshot_at": "2026-06-24T16:02:17.889372+00:00",
+  "latest_confirmed_snapshot_at": "2026-06-24T16:02:17.889372+00:00",
+  "latest_absolute_snapshot_at": "2026-06-24T16:05:41.238662+00:00",
   "note": "Absolute metrics refreshed by zernio_growth_snapshot.py; confirmed velocity/baseline context is preserved separately."
 }
 
 ## Scheduler cadence watch
 {
-  "issue": "zernio_factory_scheduler_cadence_readback_resolved",
-  "status": "resolved_current_for_tick",
-  "severity": "info",
-  "owner": "Hermes/Aion",
-  "latest_evidence": "Manual exact command plus required recovery at 16:09/16:11Z both exited 0 with draft_count=0/results=[] and refreshed state latest_social_draft_factory.json@2026-06-23T16:11:35.254662+00:00; cron a97a7703af32 remains enabled/future-scheduled next 2026-06-23T17:09:26.036326+00:00; no lingering factory/radar process at 2026-06-23T16:12:58Z.",
-  "impact_on_kpi": "Scheduler cadence is current; KPI blocker is source-lane/anti-repetition saturation.",
-  "next_action": "Replenish fresh practical Thai numbered software-tip source lanes while keeping the production cron enabled/draft-only.",
-  "factory_state_token": "latest_social_draft_factory.json@2026-06-23T16:11:35.254662+00:00",
-  "factory_next_run_at": "2026-06-23T17:09:26.036326+00:00",
-  "process_check": "2026-06-23T16:12:58Z"
+  "airtable_record_id": null,
+  "cron_next_run_at": "2026-06-24T17:30:24.855637+00:00",
+  "issue": "zernio_factory_scheduler_cadence_resolved_source_lane_saturation_open",
+  "last_verified_at": "2026-06-24T16:34:44Z",
+  "latest_evidence": "16:33 factory exact command plus required recovery both returned draft_count=0/results=[]; no current manifest/media/Airtable/Zernio payload; selector lanes saturated (canonical 0, matrix 0/436, evergreen 0/42, AI Words 0/8, KPI backstop 0/8); cron enabled/future-scheduled; no lingering process.",
+  "latest_output": "latest_social_draft_factory.json@2026-06-24T16:33:08.338662+00:00",
+  "next_action": "Replenish fresh non-repeating Thai software-tip sources, prioritizing ChatGPT/NotebookLM, then Canva AI, CapCut, Perplexity, Gamma, Gemini Sheets/Docs, Claude, and Zapier/Make; keep cron enabled/draft-only.",
+  "next_run_at": "2026-06-24T17:30:24.855637+00:00",
+  "process_check": "2026-06-24T16:34:44Z",
+  "source_id": null,
+  "state_token": "latest_social_draft_factory.json@2026-06-24T16:33:08.338662+00:00",
+  "status": "scheduler_current_source_lane_saturation_open",
+  "updated_at": "2026-06-24T16:34:44Z",
+  "zernio_draft_id": null
 }
 
 ## Factory verification
@@ -226,34 +230,44 @@ Last updated: 2026-06-23T16:12:58+00:00
 ## Current issues
 [
   {
-    "cron_next_run_at": "2026-06-23T17:09:26.036326+00:00",
-    "issue": "factory_source_lane_exhaustion",
-    "last_verified_at": "2026-06-23T16:12:58Z",
-    "latest_evidence": "exact+recovery zero-draft/no-payload; state latest_social_draft_factory.json@2026-06-23T16:11:35.254662+00:00; canonical 0, matrix 0, evergreen 0/42, AI Words 0/8, KPI 0/8 selectable; no current manifest/Airtable/Zernio payload.",
-    "next_action": "Replenish fresh practical Thai numbered software-tip source lanes; keep cron enabled/draft-only and do not force filler drafts.",
-    "status": "open_source_lane_exhaustion_scheduler_current"
+    "issue": "no_posts_in_last_72h",
+    "severity": "medium"
+  },
+  {
+    "issue": "factory_source_lane_anti_repetition_saturation",
+    "severity": "high",
+    "status": "open",
+    "latest_evidence": "16:33 factory exact command plus required recovery both returned draft_count=0/results=[]; no current manifest/media/Airtable/Zernio payload; selector lanes saturated (canonical 0, matrix 0/436, evergreen 0/42, AI Words 0/8, KPI backstop 0/8); cron enabled/future-scheduled; no lingering process.",
+    "next_action": "Add/route fresh non-repeating practical Thai ChatGPT/NotebookLM-first software-tip sources; use Canva/CapCut/Perplexity/Gamma/Zapier only as concrete workflow tests."
   },
   {
     "issue": "active_experiment_result_closure_overdue",
-    "latest_evidence": "Large active experiment backlog exists; close/measure 2h/24h results before spawning near-duplicates.",
-    "owner": "Hermes/Aion",
     "severity": "medium",
-    "status": "open"
+    "status": "open",
+    "latest_evidence": "Large active experiment backlog remains open while no formal breakout exists; near-duplicate generation should stay gated.",
+    "next_action": "Measure/close oldest 2h/24h active experiments and continue only patterns with views/share/comment proof."
   },
   {
     "issue": "zernio_fbig_accounts_not_exposed",
-    "next_action": "Fix Zernio FB/IG account access/config before expecting cross-post first-comment verification.",
-    "owner": "Hermes/Aion",
     "severity": "medium",
-    "status": "open_config_caveat"
+    "status": "open_config_caveat",
+    "latest_evidence": "Prior safe draft verification exposed TikTok draft path but FB/IG account access is still not exposed for cross-post first-comment verification.",
+    "next_action": "Fix Zernio FB/IG account access/config before expecting cross-post verification."
+  },
+  {
+    "issue": "prior_safe_tiktok_review_draft_editorial_fbig_caveat",
+    "severity": "medium",
+    "status": "prior_review_only_not_kpi_ready",
+    "latest_evidence": "Prior safe TikTok-only review draft 6a3bc600c86bf880e3e46ff0 / Airtable recphIOkTaasEs6St exists from source yt-WxRqUVWQzyE, but it is review-only because source drifted generic AI-agent/checklist and FB/IG access is incomplete.",
+    "next_action": "Do not publish until editorial/source-topic QA passes or regenerate from higher-fit Thai software-tip source."
   }
 ]
 
 ## Last 3 useful lessons
 [
-  "16:11 factory readback: exact+recovery produced fresh zero-draft state `latest_social_draft_factory.json@2026-06-23T16:11:35.254662+00:00`; scheduler current/future-scheduled; source-lane exhaustion open.",
-  "2026-06-23T12:49 issue-check: analytics import refreshed 47 records/0 created; CTA guard unsafe_count=0; no breakout; factory source-lane exhaustion remains the primary KPI blocker.",
-  "Do not force filler drafts when canonical/matrix/evergreen/AI Words/KPI lanes are all blocked; replenish ChatGPT/NotebookLM-first numbered software-tip sources."
+  "2026-06-24 16:02 growth-check: direct import succeeded (47 updated); snapshot has no formal breakout, no posts in last 72h, best ChatGPT productivity/workflow remains 51,391 views / 615 shares / gap 48,609; factory 15:30 produced zero new drafts from source-lane saturation; action is source replenishment + result closure, no posting/spend/generation.",
+  "2026-06-24 14:00 growth-check: no formal breakout; best ChatGPT productivity/workflow remains 51,391 views / 615 shares / gap 48,609; strongest mover 7653829036090641684 +4 views is watch-only; action is source replenishment + result closure, not public posting.",
+  "2026-06-24 12:31 issue-check: fixed compact state drift to latest import 12:31, breakout 12:30, growth 12:12, experiment 12:11, factory 12:09; CTA guard clean; open gates remain result-closure, editorial/source-topic QA, FB/IG account access."
 ]
 
 ## Active experiments
@@ -500,7 +514,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=300 views and >=3 shares/comments; watch for comments asking for an interview-note template.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมโน้ตสัมภาษณ์/แชท/เสียงถอดความไว้ชุดเดียว แล้วลบชื่อ เบอร์ และข้อมูลส่วนตัวก่อนวางให้ AI",
       "ให้ ChatGPT แยกคำพูดลูกค้าเป็นหมวด pain point, คำถาม, objection, คำชม, และสิ่งที่อยากได้"
     ],
@@ -516,7 +529,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=250 views and >=3 shares/comments; watch for comments asking for FAQ/answer-card templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด SOP, ราคา, package, policy, FAQ เก่า, post-care notes, และเงื่อนไขบริการเป็น source เดียว",
       "ถาม NotebookLM ให้สรุปคำถามที่ทีมต้องตอบบ่อย พร้อม citation ว่ามาจากไฟล์ไหน"
     ],
@@ -532,7 +544,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,000 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for comments asking for a booking-leak sheet template.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "ทำชีต booking ง่าย ๆ: วันที่ ช่องทาง ลูกค้า บริการ มูลค่า สถานะ และเหตุผลที่หลุด",
       "ให้ ChatGPT จัดกลุ่มสถานะ เช่น จองแล้ว, รอจ่ายมัดจำ, no-show, ขอเลื่อน, ถามราคาแล้วหาย"
     ],
@@ -549,7 +560,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=300 views and >=3 shares/comments; watch for comments asking for quote/follow-up templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "วาง service menu, ราคาเริ่มต้น, ข้อจำกัด, และสิ่งที่ห้ามรับปากเกินจริงให้ ChatGPT ก่อน",
       "สรุปความต้องการลูกค้าจากแชท/โน้ตคุยงานเป็น pain point, budget, deadline, และคำถามค้าง"
     ],
@@ -568,7 +578,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=250 views and >=3 shares/comments; watch for comments asking for content calendar/source template.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด FAQ, รีวิว, ราคา, service menu, policy, คู่มือ, และคำถามในแชทเป็น source ของ NotebookLM",
       "ถามว่า “ลูกค้าสงสัยเรื่องอะไรซ้ำที่สุด” แล้วให้ดึง quote/หัวข้อพร้อม citation จากไฟล์จริง"
     ],
@@ -587,7 +596,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,000 views or share_rate >=0.8%; if below average but comments are strong, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for comments asking for mini-agent/Artifact templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "เลือกงานซ้ำ 1 อย่างที่เล็กพอ เช่น คัด lead, เช็ก booking, สรุปเคสลูกค้า, หรือเตรียม reply",
       "เขียน input/output ให้ชัด: ข้อมูลที่ใส่เข้าไปคืออะไร และผลลัพธ์ที่ต้องการใช้ต่อคืออะไร"
     ],
@@ -607,7 +615,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves appear, target >=5 saves.",
     "target_2h": ">=300 views and >=3 shares/comments; watch for comments asking for offer/package templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวม quote/แชท/โน้ตสัมภาษณ์ลูกค้า 5–10 ชิ้น แล้วลบชื่อ เบอร์ และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
       "ขอให้ AI แยก pain point ตามความเร่งด่วน เงินที่เสีย เวลา และความเสี่ยงที่ลูกค้ากลัว"
     ],
@@ -627,7 +634,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves appear, target >=5 saves.",
     "target_2h": ">=250 views and >=3 shares/comments; watch for comments asking for answer-card/gap-audit templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด price list, package, policy, FAQ เก่า, post-care note, เงื่อนไขยกเลิก/คืนเงิน และ SOP เป็น source ของ NotebookLM",
       "ถาม NotebookLM ว่า “ข้อมูลไหนตอบไม่ตรงกันหรือขัดกัน” พร้อม citation ว่ามาจากไฟล์ไหน"
     ],
@@ -647,7 +653,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,000 views or share_rate >=0.8%; if below average but comments are strong, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for comments asking for a script/template or “ทำแบบนี้ยังไง”.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "เลือกรีวิวหรือผลลัพธ์จริง 1 เคส แล้วลบชื่อ เบอร์ หน้า และข้อมูลส่วนตัวก่อนใช้",
       "เขียน first 3 seconds เป็น pain/result ชัด ๆ เช่น “ลูกค้าถามราคาแล้วหาย เพราะ offer ไม่ชัด”"
     ],
@@ -666,7 +671,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves appear, target >=5 saves.",
     "target_2h": ">=300 views and >=3 shares/comments; watch for comments asking for reply templates or “ตอบลูกค้าแบบนี้ยังไง”.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมแชท/รีวิว/รายละเอียดเคส แล้วลบชื่อ เบอร์ ใบเสร็จ และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
       "ให้ AI แยกปัญหาเป็นหมวด: ส่งช้า ราคาไม่ชัด เข้าใจผิด คุณภาพบริการ หรือขอคืนเงิน/เลื่อนนัด"
     ],
@@ -685,7 +689,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves appear, target >=5 saves.",
     "target_2h": ">=250 views and >=3 shares/comments; watch for comments asking for caption-check templates or “ใช้กับคลินิกได้ไหม”.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด price list, package, policy, FAQ, post-care note, เงื่อนไขยกเลิก/คืนเงิน และข้อจำกัดบริการเป็น source",
       "วาง caption/โปร/สคริปต์ขายที่อยากโพสต์ แล้วถามว่า “ประโยคไหนมีหลักฐานใน source และประโยคไหนเสี่ยงเกินไป”"
     ],
@@ -704,7 +707,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,000 views or share_rate >=0.8%; if below average but comments/saves are strong, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for comments asking for winback sheet/template.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "ทำชีตง่าย ๆ: ชื่อลูกค้า/รหัส, บริการล่าสุด, วันที่มา, มูลค่า, ช่องทาง, consent, ปัญหาที่เคยเจอ และนัดถัดไปที่ควรมี",
       "ให้ ChatGPT แบ่งกลุ่มลูกค้าเป็น VIP, repeat, หายไป 60–90 วัน, เคยถามแต่ยังไม่ซื้อ, และควรเว้นห้ามทัก"
     ],
@@ -723,7 +725,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves appear, target >=5 saves.",
     "target_2h": ">=300 views and >=3 shares/comments; watch for comments asking for brand-voice prompt/templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวบรวมแชท/caption/FAQ ที่ตอบดี 5–10 ตัวอย่าง แล้วลบชื่อ เบอร์ ราคาเฉพาะเคส และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
       "กำหนดเสียงแบรนด์ 4 ช่อง: สุภาพ/เป็นกันเอง/เชี่ยวชาญ/ไม่ขายแข็ง พร้อมคำที่ใช้ได้และคำที่ห้ามใช้"
     ],
@@ -742,7 +743,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves appear, target >=5 saves.",
     "target_2h": ">=250 views and >=3 shares/comments; watch for “ขอ SOP/quiz template” or “ใช้กับทีมได้ไหม” comments.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด SOP, ราคา, policy, FAQ, post-care note, service menu และตัวอย่างเคสจริงเป็น source เดียวของทีม",
       "ถาม NotebookLM ให้แยก “งานที่ต้องทำทุกวัน / เคสเสี่ยง / คำถามที่ลูกค้าถามบ่อย” พร้อม citation จากไฟล์จริง"
     ],
@@ -761,7 +761,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,000 views or share_rate >=0.8%; if below average but comments/saves are strong, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for creators asking for a 3-second hook checklist or CapCut workflow.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "ใส่เป้าหมายคลิป 1 อย่างก่อน: ให้คนทัก, เซฟ checklist, เข้าใจราคา, จองคิว หรือดูตัวอย่างบริการเพิ่ม",
       "ให้ CapCut AI/AI writer ช่วยร่าง hook 3 แบบใน 3 วินาทีแรก: pain, result, หรือ mistake ที่คนดูเจอบ่อย"
     ],
@@ -786,7 +785,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=300 views and >=3 shares/comments; watch for comments asking for the follow-up template.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวม lead/แชท/booking 10–20 รายการ แล้วลบชื่อ เบอร์ และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
       "ให้ AI แยกสถานะลูกค้า: ถามราคา, รอใบเสนอราคา, นัดแล้ว, ขอเลื่อน, เงียบเกิน 24 ชม., หรือปิดการขายแล้ว"
     ],
@@ -812,7 +810,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=250 views and >=3 shares/comments; watch for “ขอ checklist เอกสาร” or accountant/admin comments.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด checklist เอกสาร, SOP ปิดงบ/ภาษี, กำหนดส่ง, ตัวอย่างใบกำกับ/ใบเสร็จ, และ FAQ ลูกค้าเป็น source",
       "ถาม NotebookLM ให้แยกเอกสารที่ต้องมีตามงาน: ภาษีซื้อ/ขาย, หัก ณ ที่จ่าย, payroll, bank statement, หรือค่าใช้จ่าย"
     ],
@@ -838,7 +835,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,000 views or share_rate >=0.8%; if comments are strong but views are below average, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for comments asking for calculator/Artifact templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวบรวมราคาเริ่มต้น, package, add-on, ส่วนลด, เงื่อนไข, และสิ่งที่ห้ามรับปากเกินจริงให้ ChatGPT เห็นก่อน",
       "กำหนด input ที่ทีมต้องกรอก เช่น ประเภทบริการ จำนวนครั้ง งบ เวลา สถานที่ ข้อจำกัด และบริการเสริม"
     ],
@@ -864,7 +860,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=300 views and >=3 shares/comments; watch for comments asking for memory/custom-instruction templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "เขียน profile ร้าน/ธุรกิจแบบสั้น: บริการหลัก ลูกค้าหลัก ราคาเริ่มต้น ช่องทางขาย และสิ่งที่อยากให้ AI ช่วยประจำ",
       "กำหนดเสียงแบรนด์: สุภาพ/เป็นกันเอง/ผู้เชี่ยวชาญ พร้อมคำที่ใช้ได้ คำที่ห้ามใช้ และระดับการขายที่ไม่แข็งเกินไป"
     ],
@@ -890,7 +885,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=250 views and >=3 shares/comments; watch for real-estate/admin comments asking for answer-card or listing QA templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด listing, floor plan, ราคา, ค่าส่วนกลาง, เงื่อนไขเช่า/ซื้อ, แผนที่, FAQ เก่า และรูป/โน้ตจุดขายเป็น source",
       "ถาม NotebookLM ให้สรุปคำถามที่ลูกค้าถามบ่อย 20 ข้อ พร้อม citation ว่าคำตอบมาจากไฟล์ไหน"
     ],
@@ -916,7 +910,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,000 views or share_rate >=0.8%; if below average but comments/saves are strong, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for comments asking for message-check templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "ให้ ChatGPT สรุปว่า “ลูกค้าควรรู้อะไรใน 1 ประโยค” ถ้าสรุปไม่ได้ แปลว่าข้อความยังไม่ชัด",
       "ถามว่าข้อมูลสำคัญอะไรหายไป: วันเวลา ราคา เงื่อนไข เอกสารที่ต้องเตรียม next step และช่องทางติดต่อ"
     ],
@@ -942,7 +935,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=300 views and >=3 shares/comments; watch for comments asking for a case-brief or handoff template.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมแชท/โน้ตคุยงาน/เสียงถอดความของเคสเดียว แล้วลบชื่อ เบอร์ ที่อยู่ ใบเสร็จ และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
       "ให้ AI แยก 4 ช่อง: ลูกค้าต้องการอะไร, ปัญหาคืออะไร, ตอนนี้คุยถึงขั้นไหน, และมีหลักฐาน/ไฟล์อะไรประกอบ"
     ],
@@ -968,7 +960,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=250 views and >=3 shares/comments; watch for restaurant/cafe admins asking for answer-card or allergen FAQ templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลดเมนู ราคา ingredient/allergen note โปรโมชัน เงื่อนไข delivery/refund และ FAQ เก่าเป็น source ของ NotebookLM",
       "ถาม NotebookLM ให้รวบรวมคำถามที่ลูกค้าถามบ่อย เช่น แพ้อาหาร วัตถุดิบ เผ็ดไหม เมนูเด็ก โปรหมดวันไหน และค่าส่ง"
     ],
@@ -994,7 +985,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,000 views or share_rate >=0.8%; if saves/comments are strong but views are below average, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for comments asking for a content-calendar or research prompt.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "เลือกธุรกิจ/พื้นที่/บริการให้ชัด เช่น คลินิกผิวหนังในกรุงเทพ ร้านซ่อมมือถือ หรือคาเฟ่เดลิเวอรี แล้วถาม Perplexity จากมุมลูกค้า",
       "ให้ค้นคำถามที่คนมักถามก่อนซื้อ/จอง เช่น ราคา ขั้นตอน ความเสี่ยง ระยะเวลา รีวิว และสิ่งที่ต้องเตรียม พร้อมขอแหล่งอ้างอิง"
     ],
@@ -1019,7 +1009,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=300 views and >=3 shares/comments; watch for comments asking for the morning-report template.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมยอดขาย คิวจอง รีวิว แชท และปัญหาจากเมื่อวานไว้ชุดเดียว แล้วลบชื่อ เบอร์ ใบเสร็จ และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
       "ให้ AI แยกข้อมูลเป็น 4 ช่อง: เงิน/ยอดขาย, ลูกค้า, งานหน้าร้าน/หลังบ้าน, และความเสี่ยงที่ต้องรีบแก้"
     ],
@@ -1044,7 +1033,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=250 views and >=3 shares/comments; watch for visa/translation/admin comments asking for checklist templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด checklist เอกสาร ราคา ขั้นตอน เงื่อนไขบริการ FAQ เก่า และตัวอย่างเคสที่ไม่เปิดเผยข้อมูลส่วนตัวเป็น source",
       "ถาม NotebookLM ให้แยกเอกสารที่ต้องมีตามประเภทเคส เช่น วีซ่า แปลเอกสาร รับรองสำเนา หรือยื่นหน่วยงาน พร้อม citation"
     ],
@@ -1069,7 +1057,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,000 views or share_rate >=0.8%; if below average but saves/comments are strong, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for comments asking for comparison-table prompts.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "เขียนโจทย์ให้ชัดก่อนค้น: ธุรกิจอะไร งบเท่าไร ต้องใช้กับงานไหน ข้อห้ามคืออะไร และใครเป็นคนใช้จริง",
       "ถาม Perplexity หา 5 ตัวเลือกพร้อมแหล่งอ้างอิง ไม่ใช่เอาแค่ชื่อที่เห็นในโฆษณาหรือโพสต์รีวิวเดียว"
     ],
@@ -1094,7 +1081,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=300 views and >=3 shares/comments; watch for clinic/dentist/admin comments asking for treatment-plan templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวม diagnosis/แผนรักษา/ทางเลือก/ราคาโดยประมาณ/ข้อจำกัด แล้วลบชื่อ เบอร์ รูปหน้า และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
       "บอก AI ว่า “ห้ามวินิจฉัยเอง” แล้วให้ rewrite เป็นภาษาคนไข้: ปัญหาเกิดจากอะไร ทำไมต้องรักษา และไม่รักษาเสี่ยงอะไร"
     ],
@@ -1120,7 +1106,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=250 views and >=3 shares/comments; watch for vet/admin comments asking for post-care answer-card templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด post-care sheet, วิธีให้ยา, ตารางวัคซีน, ราคา, policy นัดติดตาม, FAQ เก่า และเคสตัวอย่างที่ปิดข้อมูลส่วนตัวเป็น source",
       "ถาม NotebookLM ให้รวบรวมคำถามหลังรักษาที่เจอบ่อย เช่น กินยาอย่างไร อาการไหนปกติ อาบน้ำได้ไหม กลับมาตรวจเมื่อไร พร้อม citation"
     ],
@@ -1146,7 +1131,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,000 views or share_rate >=0.8%; if below average but comments/saves are strong, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for creators asking for the FAQ-to-clip template or dropping their own FAQ.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "เลือก FAQ จริง 1 ข้อจากแชท/รีวิว/หน้าร้าน เช่น ราคา ขั้นตอน เตรียมตัว ข้อห้าม หรือเวลารอ อย่ายัดหลายหัวข้อในคลิปเดียว",
       "เขียนคำตอบจาก policy/menu/price list จริง แล้วลบข้อมูลลูกค้าและเช็กกับเจ้าของก่อนใช้เป็น public script"
     ],
@@ -1172,7 +1156,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=300 views and >=3 shares/comments; watch for repair-shop/admin comments asking for an intake-form template.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมแชทลูกค้า รูปอาการ รุ่นเครื่อง ประวัติซ่อม และสิ่งที่ลูกค้าต้องการ แล้วลบชื่อ เบอร์ serial และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
       "ให้ AI แยกข้อมูลเป็น 5 ช่อง: อาการเกิดเมื่อไร รุ่น/ระบบคืออะไร ลูกค้าคาดหวังอะไร ความเสี่ยงเรื่องข้อมูล และสิ่งที่ยังไม่รู้"
     ],
@@ -1198,7 +1181,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves become available, target >=5 saves.",
     "target_2h": ">=250 views and >=3 shares/comments; watch for caregiver/admin/family-service comments asking for answer-card templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด care plan, ตารางยา, diet note, ตารางกิจกรรม, ค่าใช้จ่าย, นโยบายเยี่ยม, emergency protocol และ FAQ เก่าเป็น source ของ NotebookLM",
       "ถาม NotebookLM ให้รวบรวมคำถามที่ญาติถามบ่อย เช่น กินยาอย่างไร อาการไหนต้องเฝ้าระวัง เยี่ยมได้เมื่อไร ค่าใช้จ่ายอะไรบ้าง พร้อม citation"
     ],
@@ -1212,16 +1194,16 @@ Last updated: 2026-06-23T16:12:58+00:00
     "audience": "Thai aircon/home-repair shops, field-service teams, dispatch admins, and small contractors that need a lightweight internal tool before building automation.",
     "caption": "ยังไม่ต้องสร้างระบบใหญ่ ลองใช้ ChatGPT ทำฟอร์มรับงานเล็ก ๆ ก่อน: รับข้อมูล → triage → brief ให้ช่าง → ให้คนอนุมัติก่อนเสนอราคา #ChatGPTAI #ช่างแอร์ #AIสำหรับSME",
     "created_at": "2026-06-20T13:41:18+00:00",
-    "cron_next_run_at": "2026-06-23T17:09:26.036326+00:00",
+    "cron_next_run_at": "2026-06-24T17:30:24.855637+00:00",
     "decision_rule": "Continue/remix into cleaning, pest-control, and appliance-repair intake tools if target hits; if viewers find ChatGPT too technical, rehook as 'ฟอร์มรับงานก่อนทำ automation'; stop after 2 misses with weak comments/shares.",
     "draft_count": 0,
     "format": "Thai handwritten/sketchnote carousel; 7 numbered tips over 8 lesson slides + reusable GenLabs CTA only at the end.",
     "hook": "รับเคสซ่อมแอร์/งานบ้านเยอะจนหลุด? 7 วิธีใช้ ChatGPT Artifacts ทำฟอร์มรับงานให้ทีมลองใช้ก่อน",
-    "last_verified_at": "2026-06-22T18:03:03Z",
+    "last_verified_at": "2026-06-24T00:19:48Z",
     "media_count": 0,
     "name": "ChatGPT Artifacts Aircon/Home-Repair Intake Tool — 7 tips",
-    "next_run_at": "2026-06-23T17:09:26.036326+00:00",
-    "process_check": "2026-06-22T18:03:03Z",
+    "next_run_at": "2026-06-24T17:30:24.855637+00:00",
+    "process_check": "2026-06-24T00:19:48Z",
     "quality_gate": {
       "cta_counted_as_tip": false,
       "distinct_tips_count": 7,
@@ -1233,13 +1215,12 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,000 views or share_rate >=0.8%; if comments are strong but views are below average, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for contractors/admins asking for the Artifact/form template.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวบรวม service menu พื้นที่ให้บริการ ราคาเริ่มต้น add-on ข้อจำกัด warranty และสิ่งที่ห้ามรับปากเกินจริงให้ ChatGPT เห็นก่อน",
       "กำหนด input ที่แอดมินต้องกรอก: ประเภทงาน อาการ รูป/วิดีโอ สถานที่ ความเร่งด่วน งบประมาณ ประวัติซ่อม และเวลาที่ลูกค้าสะดวก"
     ],
     "tool": "ChatGPT Artifacts / ChatGPT Projects",
     "topic": "Prototype a small service-intake Artifact that collects job details, triages risk, estimates next checks, prepares technician handoff, and keeps human approval before quoting/dispatch.",
-    "updated_at": "2026-06-22T18:03:03Z",
+    "updated_at": "2026-06-24T00:19:48Z",
     "visual_brief": "Aircon/home-repair dispatch board, form fields, triage tags, technician brief card, human approval stamp, and automation-later arrow; avoid generic AI-agent chips without the intake form."
   },
   {
@@ -1253,7 +1234,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves appear, target >=5 saves.",
     "target_2h": ">=300 views and >=3 shares/comments; watch for gym/studio owners asking for follow-up templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมโน้ตทดลองคลาส เป้าหมายลูกค้า อาการบาดเจ็บที่ลูกค้าบอกเอง เวลาที่สะดวก และคำถามเรื่องราคา แล้วลบชื่อ เบอร์ และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
       "ให้ AI แยกสถานะลูกค้า: เพิ่งทดลอง, ถามราคาแล้วเงียบ, สนใจคลาสกลุ่ม, ต้องการเทรนส่วนตัว, มีข้อจำกัดสุขภาพ, หรือยังไม่พร้อมจ่าย"
     ],
@@ -1272,7 +1252,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,500 views or share_rate >=0.8%; if saves appear, target >=5 saves.",
     "target_2h": ">=250 views and >=3 shares/comments; watch for childcare/admin comments asking for handover-card templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด handbook ผู้ปกครอง ตารางอาหาร ตารางกิจกรรม policy ป่วย/รับส่ง/ค่าใช้จ่าย consent form และ FAQ เก่าเป็น source ของ NotebookLM",
       "ถาม NotebookLM ให้รวบรวมคำถามที่ผู้ปกครองถามบ่อย เช่น กินอะไร นอนหลับไหม ป่วยต้องทำอย่างไร รับส่งได้กี่โมง พร้อม citation จากไฟล์จริง"
     ],
@@ -1291,7 +1270,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": ">=2,000 views or share_rate >=0.8%; if below average but saves/comments are strong, keep as expansion learning.",
     "target_2h": ">=220 views and >=2 shares/comments; watch for event/wedding/vendor comments asking for package-card templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมแพ็กเกจ ราคาเริ่มต้น สิ่งที่รวม/ไม่รวม รูปผลงาน mood board สถานที่ วันเวลา และคำถามลูกค้าบ่อยก่อนเปิด Canva",
       "ให้ Canva Magic Design ทำ 3 format จากข้อมูลเดียวกัน: square carousel, story, และ one-page quote สำหรับส่งใน LINE"
     ],
@@ -1322,7 +1300,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "name": "ChatGPT Hotel/Tour Cancellation Recovery Reply Kit — 7 tips",
     "success_metric": "2h: ≥300 views and ≥3 shares/comments; watch for hotel/tour/admin viewers asking for cancellation/rebooking templates. 24h: ≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวม booking detail, policy ยกเลิก/เลื่อน, ราคา, มัดจำ, วันเดินทาง และแชทลูกค้า แล้วลบชื่อ เบอร์ เลขจอง และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
       "ให้ AI แยกเหตุผลการยกเลิกเป็นหมวด เช่น เปลี่ยนแผน อากาศไม่ดี งบไม่พอ ป่วย เข้าใจผิด หรือไม่มั่นใจในแพ็กเกจ"
     ],
@@ -1336,7 +1313,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "name": "NotebookLM Pharmacy/Health-Shop Safety Answer Book — 7 tips",
     "success_metric": "2h: ≥250 views and ≥3 shares/comments; watch for pharmacy/clinic/admin comments asking for answer-card or escalation templates. 24h: ≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลดฉลากสินค้า เอกสารกำกับยา/อาหารเสริม price list policy คืนสินค้า delivery FAQ เก่า และข้อจำกัดร้านเป็น source ของ NotebookLM",
       "ถาม NotebookLM ให้รวบรวมคำถามที่ลูกค้าถามบ่อย เช่น วิธีใช้ ข้อควรระวัง ใครไม่ควรใช้ ราคา ส่งได้ไหม และต้องปรึกษาใคร พร้อม citation"
     ],
@@ -1350,7 +1326,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "name": "ChatGPT in Sheets Cashflow + Payment Follow-up Board — 7 tips",
     "success_metric": "2h: ≥220 views and ≥2 shares/comments; watch for comments asking for the Sheet template or payment reminder copy. 24h: ≥2,000 views or share_rate ≥0.8%; if below average but saves/comments are strong, keep as expansion learning.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "ทำชีตพื้นฐาน: ลูกค้า/โปรเจกต์ invoice มูลค่า due date มัดจำ สถานะ ช่องทางติดต่อ last follow-up และ note ความเสี่ยง",
       "ให้ ChatGPT แบ่งสถานะเป็น paid, due soon, overdue, partial paid, disputed, waiting approval, และห้ามทักตอนนี้"
     ],
@@ -1367,7 +1342,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥300 views and ≥3 shares/comments; watch for salon/nail/barber admins asking for consult-card templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมรูป inspo แชทลูกค้า service menu ราคา เวลา ข้อจำกัด และรูปผลงานร้าน แล้วลบชื่อ เบอร์ ใบหน้า และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
       "ให้ AI แยกสิ่งที่ลูกค้าต้องการจริง: สี/ทรง/ความยาว โอกาสใช้งาน งบ เวลา ความเสี่ยง และสิ่งที่ยังไม่ชัด"
     ],
@@ -1386,7 +1360,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥250 views and ≥3 shares/comments; watch for repair-shop/service-counter comments asking for warranty answer-card templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด service menu ราคาอะไหล่ เงื่อนไขประกัน ใบรับงาน policy คืนสินค้า/เคลม และ FAQ เก่าเป็น source ของ NotebookLM",
       "ถาม NotebookLM ให้รวบรวมคำถามที่ลูกค้าถามบ่อย เช่น รับประกันกี่วัน อะไหล่แท้ไหม ซ่อมกี่ชั่วโมง เคลมได้ไหม พร้อม citation"
     ],
@@ -1405,7 +1378,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,000 views or share_rate ≥0.8%; if below average but saves/comments are strong, keep as expansion learning.",
     "target_2h": "≥220 views and ≥2 shares/comments; watch for cleaning/maid/Airbnb-service viewers asking for package-card or before/after templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวม service menu ราคาเริ่มต้น checklist งาน before/after รีวิวจริง พื้นที่ให้บริการ และข้อจำกัดความปลอดภัยก่อนเปิด Canva",
       "ให้ Canva Magic Design ทำ 3 format จากข้อมูลเดียวกัน: square carousel, story, และ one-page package card สำหรับส่งใน LINE"
     ],
@@ -1430,7 +1402,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥300 views and ≥3 shares/comments; watch for tailor/shop-admin comments asking for the order-card template.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมแชทลูกค้า รูป inspo/รูปชุดจริง ประเภทงาน ราคาเริ่มต้น deadline และข้อจำกัดร้าน แล้วลบชื่อ เบอร์ ใบหน้า และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
       "ให้ AI แยกประเภทงาน: ขึ้นทรงใหม่ แก้ไซซ์ ตัดขา เปลี่ยนซิป ซ่อมรอยขาด ปรับชุดยูนิฟอร์ม หรือเช่าชุด/คืนชุด"
     ],
@@ -1455,7 +1426,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥250 views and ≥3 shares/comments; watch for document-office/legal/admin viewers asking for answer-card or missing-doc templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด contract template, service policy, fee table, document checklist, FAQ เก่า, process note และตัวอย่างเคสที่ปิดข้อมูลส่วนตัวเป็น source",
       "ถาม NotebookLM ให้รวบรวมคำถามที่ลูกค้าถามบ่อย เช่น ต้องใช้เอกสารอะไร ค่าใช้จ่ายเท่าไร ขั้นตอนกี่วัน จุดไหนต้องอ่านก่อนเซ็น พร้อม citation"
     ],
@@ -1480,7 +1450,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,000 views or share_rate ≥0.8%; if below average but saves/comments are strong, keep as expansion learning.",
     "target_2h": "≥220 views and ≥2 shares/comments; watch for sellers asking for the booth-check table or dropping event names.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "เขียนโจทย์ให้ชัดก่อนค้น: สินค้า/บริการอะไร เมือง/ย่านไหน งบเท่าไร เป้าหมายคือยอดขาย leads หรือ awareness และทีมมีแรงขายกี่คน",
       "ถาม Perplexity หาแหล่งข้อมูลของงาน/สถานที่จาก official page, organizer, mall, social post, หรือข่าว พร้อมวันที่และ citation"
     ],
@@ -1493,16 +1462,16 @@ Last updated: 2026-06-23T16:12:58+00:00
     "audience": "Thai freelancers, agencies, consultants, real-estate/service-SME sales teams, and operators sending proposals or work plans to clients.",
     "caption": "ก่อนส่ง proposal/แผนงานให้ลูกค้า ลองให้ ChatGPT Canvas ช่วยไฮไลต์จุดงง ขอบเขตไม่ชัด ความเสี่ยง และสรุปส่ง LINE ให้สั้นลงก่อน #ChatGPT #ฟรีแลนซ์ #AIทำงานจริง",
     "created_at": "2026-06-20T13:41:18+00:00",
-    "cron_next_run_at": "2026-06-23T17:09:26.036326+00:00",
+    "cron_next_run_at": "2026-06-24T17:30:24.855637+00:00",
     "decision_rule": "If it works, remix into real-estate listing proposal, agency retainer proposal, and clinic/service package proposal versions. If it fails, rehook around “proposal อ่านไม่รู้เรื่อง = ลูกค้าไม่เซ็น”; stop after 2 misses below channel average with weak shares/comments.",
     "draft_count": 0,
     "format": "Thai handwritten/sketchnote carousel; 7 numbered tips over 8 lesson slides + reusable GenLabs CTA only at the end.",
     "hook": "ส่ง proposal ให้ลูกค้าแล้วโดนแก้ยับ? 7 วิธีใช้ ChatGPT Canvas ตรวจเอกสารก่อนส่งจริง",
-    "last_verified_at": "2026-06-22T18:03:03Z",
+    "last_verified_at": "2026-06-24T00:19:48Z",
     "media_count": 0,
     "name": "ChatGPT Canvas Client Proposal Polish — 7 tips",
-    "next_run_at": "2026-06-23T17:09:26.036326+00:00",
-    "process_check": "2026-06-22T18:03:03Z",
+    "next_run_at": "2026-06-24T17:30:24.855637+00:00",
+    "process_check": "2026-06-24T00:19:48Z",
     "quality_gate": {
       "cta_counted_as_tip": false,
       "distinct_tips_count": 7,
@@ -1514,13 +1483,12 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥300 views and ≥3 shares/comments; watch for comments asking for proposal/checklist templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "ให้ ChatGPT Canvas ไฮไลต์ประโยคที่ลูกค้าอาจงง: scope, ราคา, deliverable, เวลา, owner, และ next step",
       "ขอ rewrite executive summary 5 บรรทัดให้เห็นปัญหา → ทางแก้ → ผลลัพธ์ → ราคา/ช่วงงบ → ขั้นตอนถัดไป"
     ],
     "tool": "ChatGPT Canvas / ChatGPT Projects",
     "topic": "Use ChatGPT Canvas to turn a rough proposal/work plan into a clearer client-ready document, scope checklist, risk note, and short LINE/email send-off.",
-    "updated_at": "2026-06-22T18:03:03Z",
+    "updated_at": "2026-06-24T00:19:48Z",
     "why_views_saves": "Grounded in the current KPI leader: ChatGPT practical work-output tips are at 32,072 views / 429 shares. This keeps the winning “make work output better before sending” pattern but uses a fresh ChatGPT Canvas document-review feature and a high-value freelancer/client pain, so it is saveable as a pre-send checklist."
   },
   {
@@ -1540,7 +1508,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥250 views and ≥3 shares/comments; watch for broker/admin comments asking for answer-card or claim-doc templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด policy PDF, ตารางความคุ้มครอง, exclusion, เบี้ย/ราคา, claim form, FAQ เก่า และตัวอย่างเคสที่ปิดข้อมูลส่วนตัวเป็น source",
       "ถาม NotebookLM ให้รวบรวมคำถามที่ลูกค้าถามบ่อย เช่น คุ้มครองอะไร ไม่คุ้มครองอะไร เคลมอย่างไร เอกสารอะไรต้องมี พร้อม citation"
     ],
@@ -1565,7 +1532,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,000 views or share_rate ≥0.8%; if below average but comments/saves are strong, keep as expansion learning.",
     "target_2h": "≥220 views and ≥2 shares/comments; watch for SME/admin viewers asking for a Zap/Make template or review message examples.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "กำหนด trigger ให้ชัด: booking เสร็จ, job status = done, invoice paid, class attended, หรือเคสปิดแล้วใน Google Sheets/CRM",
       "ใส่ consent/stop-list ก่อนส่ง: ลูกค้ายินยอมไหม เคยร้องเรียนไหม เพิ่งถูกทักไปหรือยัง และต้องห้ามทักเคสไหน"
     ],
@@ -1590,7 +1556,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥300 views and ≥3 shares/comments; watch for sellers asking for the order-table or payment-message template.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมคอมเมนต์สั่งซื้อ แชท รูปสินค้า ราคา และสต็อกล่าสุด แล้วลบชื่อ เบอร์ ที่อยู่ และข้อมูลจ่ายเงินก่อนวางให้ ChatGPT",
       "ให้ AI แยกออเดอร์เป็นตาราง: รหัสสินค้า จำนวน สี/ไซซ์ ราคา สถานะจอง และข้อมูลที่ยังขาด"
     ],
@@ -1615,7 +1580,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥250 views and ≥3 shares/comments; watch for contractor/interior/admin viewers asking for BOQ/change-order templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลดสัญญา BOQ แบบงาน timeline งวดชำระ warranty policy change-order rule และ FAQ เก่าเป็น source ของ NotebookLM",
       "ถาม NotebookLM ให้รวบรวมคำถามลูกค้าบ่อย เช่น เสร็จเมื่อไร เพิ่มงานคิดยังไง วัสดุอะไร รับประกันอะไร พร้อม citation จากไฟล์จริง"
     ],
@@ -1640,7 +1604,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,000 views or share_rate ≥0.8%; if comments/saves are strong but views are below average, keep as expansion learning.",
     "target_2h": "≥220 views and ≥2 shares/comments; watch for viewers asking for the Sheet template or expiry/reorder formula.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "ทำชีตพื้นฐาน: ชื่อสินค้า/วัตถุดิบ หมวด จำนวนปัจจุบัน minimum stock วันหมดอายุ supplier ราคา และสาขา/พื้นที่เก็บ",
       "ให้ ChatGPT จัดกลุ่มสถานะ: ต้องสั่งเพิ่ม, ใกล้หมดอายุ, ขาย/ใช้ช้า, หมุนเร็ว, ของห้ามใช้/ต้องตรวจ, และข้อมูลไม่ครบ"
     ],
@@ -1659,7 +1622,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥300 views and ≥3 shares/comments; watch for comments asking for creator-brief/shot-list templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมข้อมูลสินค้า/บริการ ราคา โปร จุดต่าง ลูกค้าหลัก และตัวอย่างโพสต์ที่ชอบ แล้วลบข้อมูลส่วนตัว/ราคาเฉพาะเคสก่อนวางให้ ChatGPT",
       "ให้ AI สรุปเป้าหมายคอนเทนต์ 1 ข้อ เช่น คนทัก LINE, กดจอง, เซฟ checklist, หรือเข้าใจโปรใหม่ ไม่ใช่แค่ “ทำให้ไวรัล”"
     ],
@@ -1678,7 +1640,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥250 views and ≥3 shares/comments; watch for HR/admin/owner comments asking for answer-card or policy-template examples.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด employee handbook, policy ลา/OT/เงินเดือน/สวัสดิการ, uniform rule, onboarding checklist และ FAQ เก่าเป็น source ของ NotebookLM",
       "ถาม NotebookLM ให้รวบรวมคำถามพนักงานที่เจอบ่อย เช่น ลาป่วย ลากิจ OT วันหยุด payroll cutoff uniform และ probation พร้อม citation"
     ],
@@ -1697,7 +1658,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,000 views or share_rate ≥0.8%; if saves/comments are strong but views are below average, keep as expansion learning.",
     "target_2h": "≥220 views and ≥2 shares/comments; watch for viewers asking for the roster Sheet/template.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "ทำชีตพื้นฐาน: ชื่อพนักงาน บทบาท skill วันที่ว่าง วันลา ชั่วโมงทำงาน ค่าแรง/OT และช่วงเวลาร้านยุ่ง",
       "ให้ ChatGPT จัดกลุ่มสถานะ: กะครบ คนขาด skill ไม่พอ OT เสี่ยง ลาชนกัน และข้อมูลยังไม่ครบ"
     ],
@@ -1722,7 +1682,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥300 views and ≥3 shares/comments; watch for optical-shop/admin comments asking for consult-card or option-table templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมค่าสายตา/โน้ตลูกค้า/รูปกรอบ/งบ/ไลฟ์สไตล์ แล้วลบชื่อ เบอร์ ใบเสร็จ และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
       "กำหนดกฎชัด ๆ ว่า AI ห้ามวินิจฉัยเอง ให้ใช้เฉพาะข้อมูลร้าน/ผู้เชี่ยวชาญอนุมัติ และต้องให้คนตรวจทุกครั้งก่อนส่งลูกค้า"
     ],
@@ -1748,7 +1707,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥250 views and ≥3 shares/comments; watch for event/rental/admin viewers asking for answer-card or setup-checklist templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลดสัญญาเช่า price list รายการอุปกรณ์ คู่มือติดตั้ง เงื่อนไขมัดจำ/เสียหาย delivery zone cancellation policy และ FAQ เก่าเป็น source",
       "ถาม NotebookLM ให้รวบรวมคำถามที่ลูกค้าถามบ่อย เช่น ส่งกี่โมง ติดตั้งนานไหม ไฟพอไหม ยกเลิกได้ไหม ของเสียหายคิดอย่างไร พร้อม citation"
     ],
@@ -1774,7 +1732,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,000 views or share_rate ≥0.8%; if below average but saves/comments are strong, keep as expansion learning.",
     "target_2h": "≥220 views and ≥2 shares/comments; watch for viewers asking for the location-check table or naming areas they want to compare.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "เขียนโจทย์ก่อนค้น: ธุรกิจอะไร พื้นที่ไหน ลูกค้าหลักคือใคร งบค่าเช่าเท่าไร เป้าหมายยอดขาย/booking และจุดคุ้มทุนคร่าว ๆ",
       "ถาม Perplexity หาแหล่งอ้างอิงจาก official page, แผนที่, ข่าว, รีวิว, community post หรือข้อมูลพื้นที่ พร้อมวันที่และ URL ที่ตรวจกลับได้"
     ],
@@ -1825,7 +1782,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥300 views and ≥3 shares/comments; watch for comments asking for LINE OA quick-reply/triage template.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมแชทลูกค้า 20–50 ข้อความ แล้วลบชื่อ เบอร์ ที่อยู่ เลขออเดอร์ และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
       "ให้ AI แยกกลุ่มเคส: ถามราคา, พร้อมซื้อ, รอหลักฐาน, เคลม/บ่น, เคสด่วน, ต้องส่งต่อเจ้าของ/ผู้เชี่ยวชาญ"
     ],
@@ -1841,7 +1797,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥250 views and ≥3 shares/comments; watch for sellers/admins asking for catalog answer-card or roleplay templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด catalog, price list, ingredient/spec sheet, FAQ, refund/delivery policy, รีวิวจริง และข้อห้ามเคลมเป็น source",
       "ถาม NotebookLM ให้สรุปสินค้าหลักแต่ละตัว: เหมาะกับใคร จุดเด่น ข้อจำกัด ราคา และ citation จากไฟล์จริง"
     ],
@@ -1858,7 +1813,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,000 views or share_rate ≥0.8%; if below average but comments/saves are strong, keep as expansion learning.",
     "target_2h": "≥220 views and ≥2 shares/comments; watch for comments asking for the Sheet template or “ช่วยดูโพสต์ให้หน่อย”.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "ทำชีตพื้นฐาน: วันที่ hook หัวข้อ format views likes comments shares saves watch note และสิ่งที่อยากทดสอบ",
       "ให้ ChatGPT แยกโพสต์เป็น winner, watch, loser จากเกณฑ์ง่าย ๆ เช่น views เทียบค่าเฉลี่ย share rate และคอมเมนต์จริง"
     ],
@@ -1875,7 +1829,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves appear, target ≥5 saves.",
     "target_2h": "≥300 views and ≥3 shares/comments; watch for comments asking for SOP or quick-reply templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "เลือกงานซ้ำ 1 งานที่ทีมทำทุกวัน เช่น ตอบราคา รับคิว เคลมสินค้า ส่งใบเสนอราคา หรือส่งต่อเคสให้ช่าง/ผู้เชี่ยวชาญ",
       "รวมตัวอย่างแชท/โน้ต/เอกสาร 5–10 เคส แล้วลบชื่อ เบอร์ ที่อยู่ เลขออเดอร์ และข้อมูลส่วนตัวก่อนวางให้ ChatGPT"
     ],
@@ -1892,7 +1845,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves appear, target ≥5 saves.",
     "target_2h": "≥250 views and ≥3 shares/comments; watch for sellers asking for live cheat-sheet or catalog answer-card templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด catalog, price list, ingredient/spec sheet, delivery/refund policy, FAQ, รีวิวจริง และคำที่ห้ามเคลมเป็น source",
       "ถาม NotebookLM ให้สรุปสินค้าแต่ละตัว: เหมาะกับใคร จุดเด่น วิธีใช้ ข้อจำกัด ราคา และ citation จากไฟล์จริง"
     ],
@@ -1909,7 +1861,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,000 views or share_rate ≥0.8%; if comments/saves are strong but views are below average, keep as expansion learning.",
     "target_2h": "≥220 views and ≥2 shares/comments; watch for viewers asking for a Zap/Make quote approval template.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "กำหนด trigger ให้ชัด: form ใหม่, Sheet row = quote_requested, CRM deal stage, หรือ LINE OA tag “รอใบเสนอราคา”",
       "เก็บข้อมูลที่ต้องมีใน Sheet/Form: ลูกค้า บริการ งบ deadline package add-on เงื่อนไข และคนรับผิดชอบ"
     ],
@@ -1925,7 +1876,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥300 views and ≥3 shares/comments; watch for comments asking for the daily/weekly update template.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "รวมงานที่ทำวันนี้ แชทสำคัญ ไฟล์/ตัวเลข และปัญหาค้าง แล้วลบชื่อ เบอร์ ลูกค้า และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
       "ให้ AI แยกงานเป็น done / in progress / blocked / needs approval / next action เพื่อไม่เล่าเป็นก้อนยาว"
     ],
@@ -1934,21 +1884,20 @@ Last updated: 2026-06-23T16:12:58+00:00
   },
   {
     "audience": "Thai clinics, hotels, tours, tutors, repair shops, retail teams, and service SMEs where price/package/policy changes make staff answer incorrectly.",
-    "cron_next_run_at": "2026-06-23T17:09:26.036326+00:00",
+    "cron_next_run_at": "2026-06-24T17:30:24.855637+00:00",
     "decision_rule": "Continue/remix into clinic price-change, hotel cancellation-policy, repair warranty, and tutor course-policy variants if target hits; if weak, rehook around “ตอบราคาเก่าเสียลูกค้า”; stop after 2 weak NotebookLM policy-update variants.",
     "hook": "ราคา/โปร/นโยบายเปลี่ยนแล้วทีมยังตอบแบบเก่า? 7 วิธีใช้ NotebookLM หา answer card ที่ต้องแก้ทันที",
-    "last_verified_at": "2026-06-22T18:03:03Z",
+    "last_verified_at": "2026-06-24T00:19:48Z",
     "media_count": 0,
     "name": "NotebookLM Policy Change Alert for Teams — 7 tips",
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥250 views and ≥3 shares/comments; watch for owners/admins asking for policy-change or answer-card templates.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "อัปโหลด source เวอร์ชันเก่าและใหม่ เช่น price list, package, policy, FAQ, SOP, post-care note หรือ warranty rule",
       "ถาม NotebookLM ให้สรุป “อะไรเปลี่ยน” พร้อม citation จากไฟล์จริง: ราคา เงื่อนไข deadline ข้อยกเว้น และคำที่ห้ามพูดแล้ว"
     ],
     "tool": "NotebookLM / source-grounded Q&A / Audio Overview optional",
-    "updated_at": "2026-06-22T18:03:03Z",
+    "updated_at": "2026-06-24T00:19:48Z",
     "why_views_saves": "NotebookLM is a Thailand-priority lane. This turns source-grounded Q&A into a sharper operational pain: policy/price changes causing wrong answers. Owners/admins can save the change-alert table and reuse it whenever promos or terms change."
   },
   {
@@ -1959,7 +1908,6 @@ Last updated: 2026-06-23T16:12:58+00:00
     "target_24h": "≥2,000 views or share_rate ≥0.8%; if below average but comments/saves are strong, keep as expansion learning.",
     "target_2h": "≥220 views and ≥2 shares/comments; watch for comments asking for the subtitle/hook checklist or dropping their own clip problem.",
     "tips": [
-      "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
       "เลือกคลิป/สคริปต์ 1 เรื่องเดียว เช่น โปรใหม่ รีวิวลูกค้า FAQ ราคา หรือ before/after อย่ายัดหลาย offer ใน 15 วินาที",
       "ให้ CapCut AI ช่วยร่าง opening text 3 แบบที่อ่านรู้เรื่องใน 3 วิ: pain, result, หรือ mistake ของลูกค้า"
     ],
@@ -1970,60 +1918,73 @@ Last updated: 2026-06-23T16:12:58+00:00
 
 ## Latest experiment creator
 {
-  "checked_at": "2026-06-23T16:12:58Z",
+  "checked_at": "2026-06-24T00:00:44.613859+00:00",
   "classification": "draft_only_recovery_backlog",
-  "data_signal": "KPI leader remains CTA-stripped ChatGPT productivity/workflow at 51,391 views / 615 shares / gap 48,609; no current formal breakout at 12:00 baseline. Prioritize ChatGPT and NotebookLM practical Thai numbered tips; use Gemini Sheets/Docs as one concrete software expansion.",
+  "data_signal": "KPI leader remains CTA-stripped ChatGPT productivity/workflow at 51,391 views / 615 shares / gap 48,609; no current formal breakout. Prioritize ChatGPT and NotebookLM practical Thai numbered tips, plus one Canva AI visual workflow expansion.",
   "experiments": [
     {
       "audience": "Thai shop owners, LINE OA admins, clinics/spas/salons, repair shops, tutors, and service SMEs with crowded customer inboxes.",
+      "decision_rule": "Continue/remix into clinic, repair shop, tutor school, ecommerce, hotel/tour inbox variants if target hits; rehook around “ตอบช้า = เสียลูกค้า” if weak; stop after 2 low-share variants.",
       "hook": "แชทลูกค้าเต็ม LINE OA จนทีมตอบไม่ทัน? 8 วิธีใช้ ChatGPT แยกเคสด่วน/ขาย/ต้องส่งต่อใน 10 นาที",
       "name": "ChatGPT LINE OA Inbox Triage + Quick Reply Board — 8 tips",
-      "rule": "Continue/remix into clinic, repair, tutor, ecommerce, and hotel/tour inbox variants if target hits; if weak but comments ask for templates, rehook around “ตอบช้า = เสียลูกค้า”; stop after 2 low-share variants.",
-      "source_id": "kpi-exp-20260623-chatgpt-lineoa-inbox-triage",
-      "t2": "≥300 views and ≥3 shares/comments; watch for LINE OA quick-reply/triage template requests.",
-      "t24": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
+      "source_id": "kpi-exp-20260624-chatgpt-lineoa-inbox-triage-v2",
+      "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
+      "target_2h": "≥300 views and ≥3 shares/comments; watch for LINE OA quick-reply/triage template requests.",
       "tips": [
-        "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
-        "รวมแชทลูกค้า 20–50 ข้อความ แล้วลบชื่อ เบอร์ ที่อยู่ เลขออเดอร์ และข้อมูลส่วนตัวก่อนวางให้ ChatGPT",
-        "ให้ AI แยกเคสเป็น ถามราคา พร้อมซื้อ รอหลักฐาน เคลม/บ่น เคสด่วน และต้องส่งต่อเจ้าของ/ผู้เชี่ยวชาญ"
+        "รวมแชทลูกค้า 20–50 ข้อความ แล้วลบชื่อ เบอร์ ที่อยู่ เลขออเดอร์ และข้อมูลส่วนตัว",
+        "ให้ AI แยกเคส: ถามราคา / พร้อมซื้อ / รอหลักฐาน / เคลม-บ่น / เคสด่วน / ต้องส่งต่อ",
+        "ขอ priority board วันนี้: โอกาสขาย / เสี่ยงเสียลูกค้า / รอข้อมูลเพิ่ม",
+        "ให้ ChatGPT ร่าง quick reply 3 โทน: สั้นเร็ว / อธิบายครบ / ขอโทษและแก้เคส",
+        "สร้าง escalation rule สำหรับสุขภาพ ราคาเฉพาะเคส คืนเงิน ประกัน หรือเคลมแรง",
+        "ตั้ง Tasks/manual reminder สำหรับ follow-up 24 ชม., 3 วัน, หรือรอเอกสาร",
+        "ให้ AI สรุป FAQ 5 ข้อที่เจอบ่อย แล้วแปลงเป็น quick reply หรือโพสต์สั้น",
+        "ท้ายวันวัดผล: ตอบทันกี่เคส ปิดขายกี่เคส เคลมลดลงไหม และ reply ไหนต้องแก้"
       ],
       "tool": "ChatGPT / Projects / Tasks optional",
-      "why": "Directly extends the CTA-stripped ChatGPT productivity/work-output winner at 51,391 views / 615 shares into a daily Thai SME pain. LINE OA triage is urgent, template-saveable, and comment-friendly."
+      "why": "Extends CTA-stripped ChatGPT productivity/work-output winner at 51,391 views / 615 shares into a daily Thai SME admin pain; LINE OA triage boards and quick replies are template-saveable."
     },
     {
       "audience": "Thai clinics, hotels/tours, tutors, repair shops, retail teams, and service SMEs where price/package/policy changes make staff answer customers incorrectly.",
+      "decision_rule": "Continue/remix into clinic price-change, hotel cancellation policy, repair warranty, tutor course-policy variants; stop after 2 weak NotebookLM audit variants.",
       "hook": "ราคา/โปร/นโยบายเปลี่ยนแล้วทีมยังตอบแบบเก่า? 7 วิธีใช้ NotebookLM หา answer card ที่ต้องแก้ทันที",
       "name": "NotebookLM Staff Policy Change Alert — 7 tips",
-      "rule": "Continue/remix into clinic price-change, hotel cancellation policy, repair warranty, and tutor course-policy variants if target hits; stop after 2 weak NotebookLM audit variants.",
-      "source_id": "kpi-exp-20260623-notebooklm-staff-policy-change-alert",
-      "t2": "≥250 views and ≥3 shares/comments; watch for answer-card or policy-change template requests.",
-      "t24": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
+      "source_id": "kpi-exp-20260624-notebooklm-staff-policy-change-alert-v2",
+      "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
+      "target_2h": "≥250 views and ≥3 shares/comments; watch for answer-card or policy-change template requests.",
       "tips": [
-        "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
         "อัปโหลด source เวอร์ชันเก่าและใหม่ เช่น price list, package, policy, FAQ, SOP, warranty หรือ post-care note",
-        "ถาม NotebookLM ให้สรุป “อะไรเปลี่ยน” พร้อม citation จากไฟล์จริง: ราคา เงื่อนไข deadline ข้อยกเว้น และคำที่ห้ามพูดแล้ว"
+        "ถาม NotebookLM ให้สรุป “อะไรเปลี่ยน” พร้อม citation จากไฟล์จริง",
+        "ทำตาราง answer card ที่ต้องแก้: คำถามลูกค้า / คำตอบเดิม / คำตอบใหม่ / citation / owner",
+        "แบ่งความเร่งด่วนเป็นแดง/เหลือง/เขียว: เสี่ยงเสียเงิน / wording ไม่ชัด / แก้รอบถัดไปได้",
+        "สร้างข้อความประกาศในทีมสำหรับ LINE/Slack: เปลี่ยนอะไร ใช้ตั้งแต่เมื่อไร ถ้าไม่แน่ใจถามใคร",
+        "ทำ quiz/roleplay 5 เคสจาก policy ใหม่ ให้แอดมินซ้อมตอบก่อนใช้จริง",
+        "ตั้ง audit หลังเปลี่ยน 7 วัน ให้ NotebookLM เทียบแชท/FAQ ล่าสุดกับ source ใหม่"
       ],
       "tool": "NotebookLM / source-grounded Q&A / Audio Overview optional",
-      "why": "NotebookLM is a Thailand-priority lane and this uses its strongest use case: source-grounded answer cards. Price/policy changes are risky, recurring, and highly saveable for managers/admin teams."
+      "why": "NotebookLM is a Thailand-priority lane; source-cited answer-card changes solve a risky, frequent SME problem and are naturally saveable/team-shareable."
     },
     {
-      "audience": "Thai restaurants/cafes, clinics/spas, salons, tutors, repair shops, and shop admins storing customer questions in Google Sheets or Docs.",
-      "hook": "คำถามลูกค้าอยู่เต็มชีตแต่ทีมตอบไม่ทัน? 7 วิธีใช้ Gemini Sheets/Docs ทำ FAQ+ข้อความตอบกลับใน 15 นาที",
-      "name": "Gemini Sheets/Docs Customer FAQ to Reply Pack — 7 tips",
-      "rule": "Continue/remix into restaurant menu FAQ, clinic package FAQ, repair warranty FAQ, and tutor course FAQ if target hits; stop Gemini variants after 2 misses below channel average or if rendered copy becomes generic prompt-context advice.",
-      "source_id": "kpi-exp-20260623-gemini-sheetsdocs-faq-reply-pack",
-      "t2": "≥220 views and ≥2 shares/comments; watch for Sheet/FAQ template requests.",
-      "t24": "≥2,000 views or share_rate ≥0.8%; if below average but saves/comments are strong, keep as expansion learning.",
+      "audience": "Thai restaurants/cafes, salons, clinics, spas, tutors, repair shops, and local service businesses that need promo/menu visuals fast.",
+      "decision_rule": "Continue/remix into cafe menu, clinic package, spa promo, tutoring course poster if target hits; stop Canva variants after 2 misses below channel average or if rendered slides become generic prompt/context advice.",
+      "hook": "มีโปรแต่ภาพไม่พร้อม? 7 วิธีใช้ Canva AI ทำเมนู/โปสเตอร์ขายแบบไม่เริ่มจากศูนย์",
+      "name": "Canva AI Menu/Promo Kit for Local Service Businesses — 7 tips",
+      "source_id": "kpi-exp-20260624-canva-service-menu-promo-kit-v1",
+      "target_24h": "≥2,000 views or share_rate ≥0.8%; if comments/saves are strong but views are below average, keep as expansion learning.",
+      "target_2h": "≥220 views and ≥2 shares/comments; watch for menu/poster/template requests.",
       "tips": [
-        "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
-        "ทำชีตคำถามลูกค้า: วันที่ ช่องทาง คำถาม หมวด สถานะ คำตอบเดิม policy/source และคนรับผิดชอบ",
-        "ให้ Gemini in Sheets จัดกลุ่มคำถามซ้ำ เช่น ราคา ขั้นตอน เตรียมตัว ส่งของ refund warranty หรือ booking"
+        "รวม service menu ราคาเริ่มต้น โปร รูป/รีวิวจริง brand colors และข้อจำกัดการเคลมก่อนเปิด Canva",
+        "ให้ Canva Magic Design ทำ 3 format จากข้อมูลเดียวกัน: square carousel, story, และ one-page LINE card",
+        "จัด hierarchy ให้ชัด: offer / benefit / price or starting price / deadline / CTA / terms",
+        "ทำ variation 3 แบบ: โปรแรง, อธิบายบริการ, และ before-after/testimonial เพื่อดูว่าแบบไหนคนเซฟมากกว่า",
+        "ถ้ารูป hero ไม่ดี ให้ใช้ GenLabs ทำภาพสินค้า/บริการแบบ no-prompt ก่อน แล้วค่อยเอาเข้า Canva",
+        "เช็ก mobile readability: headline ใหญ่, ราคาอ่านชัด, เงื่อนไขไม่เล็กจนหาย",
+        "Export เป็นชุดใช้งานจริง: TikTok cover, LINE broadcast image, IG story, และ template ที่แก้โปรครั้งหน้าได้"
       ],
-      "tool": "Gemini in Google Sheets / Gemini in Docs / Google Workspace",
-      "why": "Expansion slot beyond ChatGPT/NotebookLM with a concrete Google Workspace workflow. It is practical for Thai SMEs already using Sheets/Docs, avoids vague AI news, and gives a template viewers can save."
+      "tool": "Canva AI / Magic Design; optional GenLabs visual pre-step for clean no-prompt hero visuals when assets are weak",
+      "why": "Expansion test beyond ChatGPT/NotebookLM with a concrete visual workflow. It naturally supports genlabs.in.th when SMEs lack clean visuals, while staying educational and saveable."
     }
   ],
-  "gate": "Factory source-lane exhaustion and active experiment result-closure backlog remain open; these are executable draft-only backlog specs for future factory source replenishment. No public posting/spend/generation triggered by this cron.",
+  "gate": "Draft-only recovery backlog until source-lane replenishment and active experiment result-closure gates clear; no public posting/spend/generation triggered.",
   "generation_triggered_by_this_run": false,
   "public_posting": false,
   "quality_gate": {
@@ -2042,15 +2003,15 @@ Last updated: 2026-06-23T16:12:58+00:00
     ]
   },
   "source_ids": [
-    "kpi-exp-20260623-chatgpt-lineoa-inbox-triage",
-    "kpi-exp-20260623-notebooklm-staff-policy-change-alert"
+    "kpi-exp-20260624-chatgpt-lineoa-inbox-triage-v2",
+    "kpi-exp-20260624-notebooklm-staff-policy-change-alert-v2",
+    "kpi-exp-20260624-canva-service-menu-promo-kit-v1"
   ],
   "spending_triggered_by_this_run": false
 }
 
 ## Rule changes
 [
-  "14:57 factory readback: exact+recovery produced fresh zero-draft state `historical 14:57 zero-state superseded by 16:11 readback`; scheduler current/future-scheduled; source-lane exhaustion open.",
   "Protected CTA enforcement remains active: learn from CTA-stripped educational_signal/body; do not classify product-photo/10-baht/no-prompt CTA as hook/topic/winner/weak pattern.",
   "3-day tool/topic direction confirmed 2026-06-16: prioritize ChatGPT practical numbered work-output carousels first and NotebookLM source-grounded answer/SOP/PDF workflows second for Thailand; test Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude tools, and Zapier/Make only when the carousel visibly teaches a concrete workflow with 7/8 distinct tips."
 ]

@@ -1,6 +1,127 @@
-## 2026-06-24 16:33 UTC — GenLabs factory zero-draft/source-lane saturation after exact + required recovery
-- Current factory state: `latest_social_draft_factory.json@2026-06-24T16:33:08.338662+00:00`; exact command `venv/bin/python scripts/scheduled_ai_social_draft_factory.py --limit 1 --apply --quality low --send-to-zernio` returned `draft_count=0/results=[]`, and the required same-command recovery rerun also returned `draft_count=0/results=[]`.
-- Verification: no new `auto-*` folder/manifest/media after the 16:30 run start, no current Airtable/Zernio payload, and no lingering factory/radar process at `2026-06-24T16:34:44Z`; cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-24T17:30:24.855637+00:00`.
+
+## 2026-06-25 16:11 UTC — Factory exact+recovery zero-draft current readback
+- Current status: exact command + required recovery `manual-exact-run+recovery-2026-06-25T16:11Z_current-cron-delivery-pending` plus state `latest_social_draft_factory.json@2026-06-25T16:11:18.424447+00:00` show zero drafts/no current Airtable or Zernio payload; source-lane/anti-repetition saturation remains the active KPI blocker; cron remains enabled/future-scheduled next `2026-06-25T17:09:03.199202+00:00`; no lingering factory/radar process at `2026-06-25T16:11:49.559858+00:00`. Zernio/platform verification is not applicable because no post was created. Diagnosis: source-lane / anti-repetition saturation, not FAL/Zernio; selector reconstruction: canonical 0, matrix 0, evergreen 0/42, AI Words 0/8, KPI backstop 0/8; existing/partial source IDs 480; blocked content families 68. No public posting/live publishing. Urgent next action: replenish fresh non-repeating Thai software-tip source lanes, prioritizing ChatGPT and NotebookLM, then Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude, and Zapier/Make; keep production cron enabled/draft-only.
+- Commands: exact hourly factory command exited `status=ok,draft_count=0`; required recovery rerun also exited `status=ok,draft_count=0`.
+- Verification: no `auto-*` carousel folder/manifest/media was created after the 15:00Z run start; no current Airtable/Zernio payload exists; Zernio verification is not applicable because no outbound post exists.
+
+## 2026-06-25 13:55 UTC — Historical factory readback superseded by 16:11 current readback
+- Historical status: 13:55 zero-draft readback superseded by the 16:11 current readback; prior exact label/state were historical show zero drafts/no current Airtable or Zernio payload; source-lane/anti-repetition saturation remains the active KPI blocker; cron remains enabled/future-scheduled next `historical 13:55 next-run superseded by 16:11 schedule`; no lingering factory/radar process at `historical 13:55 process-check superseded by 16:11 readback`. Zernio/platform verification is not applicable because no post was created. Diagnosis: source-lane / anti-repetition saturation, not FAL/Zernio; selector reconstruction: canonical 0, matrix 0, evergreen 0/42, AI Words 0/8, KPI backstop 0/8; existing/partial source IDs 480; blocked content families 68. No public posting/live publishing. Urgent next action: replenish fresh non-repeating Thai software-tip source lanes, prioritizing ChatGPT and NotebookLM, then Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude, and Zapier/Make; keep production cron enabled/draft-only.
+- Commands: exact hourly factory command exited `status=ok,draft_count=0`; required recovery rerun also exited `status=ok,draft_count=0`.
+- Verification: newest auto folder is still 2026-06-25 02:04 UTC, so no current manifest/media was generated; Zernio verification is not applicable because no outbound post exists.
+
+## 2026-06-25 12:33 UTC — Issue check: per-post analytics freshness mismatch; CTA guard clean
+- Import/snapshot: `import_zernio_analytics_to_airtable.py --days 365` succeeded at `2026-06-25T12:32:26Z` with 47 records updated / 0 created; fresh snapshot `2026-06-25T12:33:26+00:00` has 62 Airtable records, best post 51391 views / 615 shares / gap 48609, and 0 breakout candidates.
+- Issue found: Zernio overview reports totalPosts=62 and staleAccountCount=0, but the KPI leader `7634027210248097042` still has Airtable Imported At `2026-06-21T13:30:59.573495+00:00` and analytics_last_updated `2026-06-20 22:41:58`; records_seen=47 indicates partial post coverage/update mismatch.
+- CTA guard: unsafe_count=0; `7634027210248097042` remains ChatGPT productivity/workflow evidence, not product-photo/no-prompt CTA evidence.
+- Fix/action: compiled growth/log scripts, refreshed import, wrote fresh snapshot, opened `zernio_analytics_partial_post_coverage_stale_best_post` task/watch. No public posting, spend, generation, or Zernio send.
+- Prevention: compare import `records_seen` vs overview `totalPosts` and key-post `Imported At`/`analytics_last_updated` on every issue-check; separate account freshness from per-post KPI freshness.
+
+## 2026-06-25 11:42 UTC — Current factory readback: zero-draft/source-lane saturation after manual exact + required recovery
+- Command: ran exactly `venv/bin/python scripts/scheduled_ai_social_draft_factory.py --limit 1 --apply --quality low --send-to-zernio` from `/home/clawd/.hermes/hermes-agent`; first manual run exited 0 with `status=ok`, `draft_count=0`, `results=[]`; required recovery rerun used the same exact command and also exited 0 with `draft_count=0`, `results=[]`.
+- Verification: fresh state `latest_social_draft_factory.json@2026-06-25T16:11:18.424447+00:00`; no new current-run `auto-*` carousel folder/manifest/media after the run; no current Airtable Carousel Posts record; no outbound Zernio payload/post exists for this tick. Zernio/platform verification is not applicable because no post was created.
+- Diagnosis: source-lane / anti-repetition saturation, not FAL/Zernio. Selector reconstruction: canonical 0, matrix 0/436, evergreen 0/42, AI Words 0/8, KPI backstop 0/8; existing/partial source IDs 480; blocked content families 68.
+- Scheduler/process: current readback `manual-exact-run+recovery-2026-06-25T16:11Z_current-cron-delivery-pending`; cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-25T17:09:03.199202+00:00`; no lingering factory/radar process at `2026-06-25T16:11:49.559858+00:00`. No public posting/live publishing.
+- Next action: urgently replenish fresh non-repeating Thai software-tip source lanes, prioritizing ChatGPT and NotebookLM, then Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude, and Zapier/Make; keep production cron enabled/draft-only.
+
+## 2026-06-25 10:35 UTC — Historical factory readback superseded by 16:11 current readback: zero-draft/source-lane saturation after manual exact + required recovery
+- Command: ran exactly `venv/bin/python scripts/scheduled_ai_social_draft_factory.py --limit 1 --apply --quality low --send-to-zernio` from `/home/clawd/.hermes/hermes-agent`; first manual run exited 0 with `status=ok`, `draft_count=0`, `results=[]`; required recovery rerun used the same exact command and also exited 0 with `draft_count=0`, `results=[]`.
+- Verification: fresh state `historical 10:35 zero-state superseded by 16:11 current readback`; no new current-run `auto-*` carousel folder/manifest/media after the run (latest auto folder remains `auto-20260625T015907Z-yt-Ze-IqS-UoFA`, mtime 02:04Z); no current Airtable Carousel Posts record; no outbound Zernio payload/post exists for this tick. Zernio/platform verification is not applicable because no post was created.
+- Diagnosis: source-lane / anti-repetition saturation, not FAL/Zernio. Selector reconstruction: canonical 0, matrix 0/436, evergreen 0/42, AI Words 0/8, KPI backstop 0/8; existing/partial source IDs 480; blocked content families 68.
+- Scheduler/process: historical readback `10:35 manual exact+recovery readback superseded by 16:11 current readback`; cron `a97a7703af32` remained enabled/future-scheduled in that historical readback; newer 11:42 readback above is the active scheduler/process evidence. No public posting/live publishing.
+- Next action: urgently replenish fresh non-repeating Thai software-tip source lanes, prioritizing ChatGPT and NotebookLM, then Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude, and Zapier/Make; keep production cron enabled/draft-only.
+
+## 2026-06-25 09:25 UTC — Historical factory readback superseded by 16:11 current readback: zero-draft/source-lane saturation after manual exact + required recovery
+
+<!-- ZG-SELF-IMPROVEMENT-2026-06-25-1000 -->
+### 2026-06-25T10:01Z self-improvement sync
+- KPI: best post `7634027210248097042` / ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items — 51391 views, 615 shares, gap 48609.
+- Current signal: no formal breakout; no posts in the last 72h; previous positive movement is watch-only until a later import/baseline confirms renewed velocity.
+- Durable rule: 2026-06-25 3-day rule: Bias the next production window toward practical numbered Thai ChatGPT and NotebookLM carousels because ChatGPT has direct KPI proof (best post 51,391 views / 615 shares) and Sway says NotebookLM is popular in Thailand; use Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude tools, and Zapier/Make only as concrete software-tip workflow tests with visible promised tip counts, CTA separated, and source-topic/anti-repetition gates before Zernio.
+- Action: updated compact memory/tasks; next 3 days prioritize result closure + fresh ChatGPT/NotebookLM practical numbered tips before other software tests. No public posting, spend, or generation triggered.
+
+- Command: ran exactly `venv/bin/python scripts/scheduled_ai_social_draft_factory.py --limit 1 --apply --quality low --send-to-zernio` from `/home/clawd/.hermes/hermes-agent`; first manual run exited 0 with `status=ok`, `draft_count=0`, `results=[]`; required recovery rerun used the same exact command and also exited 0 with `draft_count=0`, `results=[]`.
+- Verification: fresh state historical 09:25 zero-state; no new current-run `auto-*` carousel folder/manifest/media after the run; no current Airtable Carousel Posts record; no outbound Zernio payload/post exists for this tick. Zernio/platform verification is not applicable because no post was created.
+- Diagnosis: source-lane / anti-repetition saturation, not FAL/Zernio. Selector reconstruction: canonical 0, matrix 0/436, evergreen 0/42, AI Words 0/8, KPI backstop 0/8; existing/partial source IDs 480; blocked content families 68.
+- Scheduler/process: current readback historical 09:25 manual exact+recovery readback; cron `a97a7703af32` remains enabled/future-scheduled next historical 09:25 next-run timestamp superseded by 10:35 readback; no lingering factory/radar process at historical 09:25 process-check superseded by 10:35 readback. No public posting/live publishing.
+- Next action: urgently replenish fresh non-repeating Thai software-tip source lanes, prioritizing ChatGPT and NotebookLM, then Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude, and Zapier/Make; keep production cron enabled/draft-only.
+
+## 2026-06-25 08:15 UTC — Historical factory readback superseded by 09:25 historical readback: zero-draft/source-lane saturation after manual exact + required recovery
+- Command: ran exactly `venv/bin/python scripts/scheduled_ai_social_draft_factory.py --limit 1 --apply --quality low --send-to-zernio` from `/home/clawd/.hermes/hermes-agent`; first manual run exited 0 with `status=ok`, `draft_count=0`, `results=[]`; required recovery rerun used the same exact command and also exited 0 with `draft_count=0`, `results=[]`.
+- Verification: fresh state `historical 08:15 zero-draft state token superseded by 09:25 readback`; no new current-run `auto-*` carousel folder/manifest/media after the run (latest auto folder remains `auto-20260625T015907Z-yt-Ze-IqS-UoFA` from 02:04Z), no current Airtable Carousel Posts record, and no outbound Zernio payload/post exists for this tick. Zernio/platform verification is not applicable because no post was created.
+- Diagnosis: source-lane / anti-repetition saturation, not FAL/Zernio. Selector reconstruction: canonical 0, evergreen 0/42, AI Words 0/8, KPI backstop 0/8; existing/partial source IDs 480; blocked content families 68.
+- Scheduler/process: current readback `historical 08:15 manual exact+recovery label superseded by 09:25 readback`; cron `a97a7703af32` remains enabled/future-scheduled next `historical 09:13 factory next-run time superseded by live 10:23 schedule`; no lingering factory/radar process at `historical 08:17 process check superseded by 09:26 readback`. No public posting/live publishing.
+- Next action: urgently replenish fresh non-repeating Thai software-tip source lanes, prioritizing ChatGPT and NotebookLM, then Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude, and Zapier/Make; keep production cron enabled/draft-only.
+
+## 2026-06-25 07:05 UTC — Historical factory readback superseded by newer zero-draft/source-lane readbacks: zero-draft/source-lane saturation after manual exact + required recovery
+- Command: ran exactly `venv/bin/python scripts/scheduled_ai_social_draft_factory.py --limit 1 --apply --quality low --send-to-zernio` from `/home/clawd/.hermes/hermes-agent`; first manual run exited 0 with `status=ok`, `draft_count=0`, `results=[]`; required recovery rerun used the same exact command and also exited 0 with `draft_count=0`, `results=[]`.
+- Verification: fresh state `historical 08:15 zero-draft state token superseded by 09:25 readback`; no new current-run `auto-*` carousel folder/manifest/media after the run (latest auto folder remains `auto-20260625T015907Z-yt-Ze-IqS-UoFA` from 02:04Z), no current Airtable Carousel Posts record, and no outbound Zernio payload/post exists for this tick. Zernio/platform verification is not applicable because no post was created.
+- Diagnosis: source-lane / anti-repetition saturation, not FAL/Zernio. Selector reconstruction: canonical 0, matrix 0/436, evergreen 0/42, AI Words 0/8, KPI backstop 0/8; existing/partial source IDs 480; blocked content families 68.
+- Scheduler/process: current readback `historical 08:15 manual exact+recovery label superseded by 09:25 readback`; cron `a97a7703af32` remains enabled/future-scheduled next `historical 09:13 factory next-run time superseded by live 10:23 schedule`; no lingering factory/radar process at `historical 08:17 process check superseded by 09:26 readback`. No public posting/live publishing.
+- Next action: urgently replenish fresh non-repeating Thai software-tip source lanes, prioritizing ChatGPT and NotebookLM, then Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude, and Zapier/Make; keep production cron enabled/draft-only.
+
+## 2026-06-25 06:34 UTC — Historical factory readback superseded by 08:15 manual readback
+- Historical status: the prior 06:34/07:05 zero-draft/source-lane readbacks were superseded by the 08:15 manual exact+required-recovery readback above.
+- Historical verification: the earlier state also showed zero drafts/no Airtable/Zernio payload. Zernio/platform verification was not applicable because no post was created.
+- Historical diagnosis: source-lane / anti-repetition saturation, not FAL/Zernio; selector counts matched the current blocker family.
+- Supersession: this 09:25 historical entry is superseded by the 11:42 current entry above for active factory state, cron next-run, and process evidence.
+- Next action remains: replenish fresh non-repeating Thai software-tip source lanes; keep production cron enabled/draft-only.
+
+## 2026-06-25 04:31 UTC — Historical factory readback superseded by 05:42 zero-draft/source-lane saturation
+- Command: ran exactly `venv/bin/python scripts/scheduled_ai_social_draft_factory.py --limit 1 --apply --quality low --send-to-zernio` from `/home/clawd/.hermes/hermes-agent`; latest recovery run exited 0 with `status=ok`, `draft_count=0`, `results=[]`.
+- Verification: fresh state `historical 04:31 state superseded by 05:42 readback`; no new current-run Airtable Carousel Posts record or outbound Zernio payload/post exists for this tick. Zernio/platform verification is not applicable because no post was created.
+- Diagnosis: source-lane / anti-repetition saturation, not FAL/Zernio. Selector reconstruction: canonical 0, matrix 0, evergreen 0, AI Words 0, KPI backstop 0; existing/partial source IDs 480; blocked content families 68; matrix scanned 436.
+- Scheduler/process: cron `a97a7703af32` remains enabled/future-scheduled next `historical 05:29 next-run superseded by 06:40 schedule`; no lingering factory/radar process at `historical 04:33 process-check superseded by 05:42 readback`. No public posting/live publishing.
+- Next action: replenish fresh non-repeating Thai software-tip source lanes, prioritizing ChatGPT and NotebookLM, then Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude, and Zapier/Make; keep production cron enabled/draft-only.
+
+## 2026-06-25 02:04 UTC — Historical safe TikTok-only review draft superseded by 04:31 zero-draft readback
+- Historical factory anchor: `historical 02:04 safe-draft state superseded by 04:31 zero-draft readback`; exact command completed with `draft_count=1`; source `yt-Ze-IqS-UoFA`; Airtable `recDkcmhJ2s7GvdG1`; Zernio draft `6a3c8cb4645010a3fd956724`.
+- Verification: Airtable `draft_created`; live Zernio `status=draft`, media_count=8, no `publishNow`, TikTok draft mode true; outbound payload omitted `scheduledFor` and `publishNow`. Readback `scheduledFor` is Zernio echo/autopopulation, not live scheduling evidence.
+- Platform caveat: active Zernio accounts expose TikTok only (`tt=true`, `fb=false`, `ig=false`), so the live draft is TikTok-only. Rebuilt intended payload includes TikTok+FB+IG and exact FB/IG first-comment hash; FB/IG account access/config remains blocked.
+- QA: public manifest copy leak scan clean; spot vision QA on hook/checklist/CTA slides passed readable GenLabs sketchnote style. Editorial caveat: source `yt-Ze-IqS-UoFA` is an AI marketing agency/HighLevel workflow video while public output is a generic AI Agent/repeated-work checklist; count as safe review-only/not KPI-ready unless approved or rerouted.
+- Scheduler/process: cron `a97a7703af32` historical next-run evidence superseded by 04:31 readback next `historical 05:29 next-run superseded by 06:40 schedule`; no lingering factory/radar process at `2026-06-25T02:11:27Z`. No public posting/live publishing.
+- Supersedes: prior same-day safe draft is historical for current output; active blockers are FB/IG account access and editorial/source-topic QA.
+
+## 2026-06-25 00:46 UTC — Historical safe TikTok-only review draft
+- Historical factory anchor: `historical 00:46 safe-draft state superseded by 02:04 current draft`; exact command completed with `draft_count=1`; source `historical prior source`; Airtable `historical prior Airtable record`; Zernio draft `historical prior same-day safe draft`.
+- Verification: Airtable `draft_created`; live Zernio `status=draft`, media_count=9, no `publishNow`, TikTok draft mode true; outbound payload omitted `scheduledFor` and `publishNow`. Readback `scheduledFor` is Zernio echo/autopopulation, not live scheduling evidence.
+- Platform caveat: active Zernio accounts expose TikTok only (`tt=true`, `fb=false`, `ig=false`), so the live draft is TikTok-only. FB/IG account access/config remains blocked.
+- Editorial QA: no source/meta leakage found in public manifest copy, but source `historical prior source` is a Claude one-person-business video while public output is generic AI Agent/repeated-work checklist; count as safe review-only/not KPI-ready unless approved or rerouted.
+- Scheduler/process: cron `a97a7703af32` remains enabled/future-scheduled next `historical prior next-run timestamp superseded by 02:57 current schedule`; no lingering factory/radar process at `historical prior process-check timestamp superseded by 02:17 readback`. No public posting/live publishing.
+- Supersedes: 23:30 zero-draft/source-lane saturation is historical for current output; active blockers are FB/IG account access and editorial/source-topic QA.
+
+## 2026-06-24 23:30 UTC — Historical factory zero-draft/source-lane saturation superseded by 00:46 safe draft
+- Historical factory anchor: 23:30 zero-draft/source-lane saturation was superseded by the 00:46 safe TikTok-only review draft.
+- Verification: no new `auto-*` folder/manifest/media after 23:29 UTC; no current Airtable Carousel Posts row, outbound Zernio payload, or Zernio draft exists for this tick. Zernio verification is not applicable because no post was created.
+- Diagnosis: source-lane/anti-repetition saturation (canonical 0, matrix 0, evergreen 0/42, AI Words 0/8, KPI backstop 0/8; existing/partial source IDs 478; blocked content families 68), not image generation or Zernio failure.
+- Scheduler/process: cron `a97a7703af32` remains enabled/future-scheduled next `historical prior next-run timestamp superseded by 02:57 current schedule`; no lingering factory/radar process at `2026-06-25T00:32:53Z`. No public posting/live publishing.
+- Supersedes: previous 22:20 safe TikTok-only review draft is historical/review-only, not current output. Next action: Replenish fresh non-repeating Thai software-tip source lanes, prioritizing ChatGPT and NotebookLM, then Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude, and Zapier/Make; keep production cron enabled/draft-only.
+
+## 2026-06-24 22:20 UTC — Historical safe review-only draft superseded by 00:46 safe draft
+- Historical factory anchor: 22:20 safe TikTok-only review draft / Airtable record / source `yt-27KddOgU9aA` was superseded by later current factory readbacks.
+- Platform verification: draft-only TikTok readback passed; no `publishNow`; outbound payload omitted `scheduledFor`; 8 media. FB/IG are not live because active Zernio key currently exposes TikTok only, despite rebuilt payload including FB/IG first comments with exact hash.
+- Editorial QA: readable/leak-free slides, but source-topic mismatch from lead-capture automation source to generic AI Agent/checklist lesson. Count as review-only, not KPI-ready.
+- Supersedes: previous 21:08 zero-draft/source-lane saturation is historical, not current.
+
+### 2026-06-24T21:08Z historical factory readback
+- Historical factory state: `historical 21:08 zero-draft state`; exact command + required recovery both returned `draft_count=0/results=[]`. No new auto manifest/media, Airtable payload, or Zernio post exists for this tick; Zernio verification not applicable. Cron enabled/future-scheduled next `historical 21:08 next-run timestamp`; no lingering process at `2026-06-24T21:12:21Z`. Blocker: source-lane/anti-repetition saturation (canonical 0, matrix 0, evergreen 0/42, AI Words 0/8, KPI backstop 0/8; existing Carousel Post source IDs 454, partial-generation source IDs 34, blocked content families 68). Prior 20:01/18:55 zero-states and 17:46 value-QA manifest/Airtable states are historical only.
+
+### 2026-06-24T20:01Z historical factory readback superseded by later readbacks
+- Historical factory state: `historical 20:01 zero-state token superseded by 21:08 readback`; exact command + required recovery both returned `draft_count=0/results=[]`. No new auto manifest/media, Airtable payload, or Zernio post exists for this tick; Zernio verification not applicable. Cron enabled/future-scheduled next `historical 20:59 next-run superseded by 22:07 schedule`; no lingering process at `historical 20:01 process check superseded by 21:12 readback`. Blocker: source-lane/anti-repetition saturation (canonical 0, matrix 0, evergreen 0/42, AI Words 0/8, KPI backstop 0/8; existing Carousel Post source IDs 454, partial-generation source IDs 34, blocked content families 68). Prior 18:55 zero-state and 17:46 value-QA manifest/Airtable states are historical only.
+
+### 2026-06-24T18:55Z historical factory readback
+- Historical factory state: `historical 18:55 zero-draft state superseded by 20:01 readback`; exact command + required recovery both returned `draft_count=0/results=[]`. No new auto manifest/media, Airtable payload, or Zernio post exists for this tick; Zernio verification not applicable. Cron enabled/future-scheduled next `historical 18:55 next-run timestamp superseded by 20:01 readback`; no lingering process at `historical 18:56 process check superseded by 20:01 readback`. Blocker: source-lane/anti-repetition saturation (canonical 0, matrix 0, evergreen 0/42, AI Words 0/8, KPI backstop 0/8; existing Carousel Post source IDs 454, partial-generation source IDs 34, blocked content families 68). Prior 17:46 value-QA manifest/Airtable state is historical only.
+
+## 2026-06-24 17:46 UTC — historical GenLabs factory value-QA block before Zernio after manifest+Airtable generation
+- Historical factory state: `historical 17:46 state token superseded by 18:55 readback`; exact command `venv/bin/python scripts/scheduled_ai_social_draft_factory.py --limit 1 --apply --quality low --send-to-zernio` returned `draft_count=1` for source `yt-lIoCyicVpgU` but `zernio_created=false`.
+- Output: manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260624T174056Z-yt-lIoCyicVpgU/manifest.json` with 8 generated assets; Airtable `rec4MUg6cbiHB6ePl` has Source ID `yt-lIoCyicVpgU`, `Zernio Draft Status=not_sent`, and no `Zernio Draft ID`.
+- Value-QA: blocked before Zernio because `no-mistake-slide: missing a common-mistake/avoid tip`. Slide plan has the meeting-notes/action workflow but does not include the required avoid/mistake slide, so it is not Zernio-ready.
+- Zernio/platform verification: not applicable for this tick because no outbound payload/post exists; no public posting/live publishing.
+- Scheduler/process: cron `a97a7703af32` remains enabled/future-scheduled next `historical 18:52 schedule superseded by 19:53 future schedule`; no lingering factory/radar process at `historical 18:33 process check superseded by 18:56 readback`.
+- Next action: keep production cron enabled and repair the generator/source routing so practical Thai software-tip carousels include complete promise accounting plus a common-mistake/avoid slide before attempting Zernio.
+
+## 2026-06-24 16:33 UTC — Historical GenLabs factory zero-draft/source-lane saturation
+- Historical factory state: `historical 17:46 state token superseded by 18:55 readback`; exact command `venv/bin/python scripts/scheduled_ai_social_draft_factory.py --limit 1 --apply --quality low --send-to-zernio` returned `draft_count=0/results=[]`, and the required same-command recovery rerun also returned `draft_count=0/results=[]`.
+- Verification: no new `auto-*` folder/manifest/media after the 16:30 run start, no current Airtable/Zernio payload, and no lingering factory/radar process at `historical 16:34 process check superseded by 18:33 issue-check readback`; cron `a97a7703af32` remains enabled/future-scheduled next `historical 17:30 schedule superseded by 18:52 future schedule`.
 - Diagnosis: source-lane/anti-repetition saturation, not image generation or Zernio failure. Selector readback: canonical 0 selectable, matrix 0/436, evergreen 0/42, AI Words 0/8, KPI backstop 0/8, 453 existing source IDs, 34 partial-generation source IDs, 68 blocked content families.
 - Zernio/platform verification: not applicable for this tick because no outbound payload/post exists. Previous safe TikTok-only review draft `6a3bc600c86bf880e3e46ff0` / Airtable `recphIOkTaasEs6St` is historical/review-only evidence, not current output.
 - Next action: keep production cron enabled and urgently replenish fresh non-repeating Thai practical software-tip sources, prioritizing ChatGPT/NotebookLM, then Canva AI, CapCut, Perplexity, Gamma, Gemini Sheets/Docs, Claude, and Zapier/Make. No public posting/live publishing.
@@ -11,8 +132,8 @@
 - Current KPI: best/closest remains ChatGPT 8 productivity/workflow post `7634027210248097042` at 51,391 views / 615 shares / gap 48,609; no formal breakout; recent AI Agent post `7653829036090641684` is watch-only below threshold.
 - Open gates: active experiment result-closure overdue; current factory draft is review-only/not KPI-ready due to source-topic/editorial caveat; FB/IG Zernio account access/config remains unavailable. No public posting/spend/generation.
 
-### 2026-06-24 11:59 UTC — GenLabs factory safe TikTok-only review draft created
-- Current factory state: `latest_social_draft_factory.json@2026-06-24T11:59:02+00:00`; exact command `venv/bin/python scripts/scheduled_ai_social_draft_factory.py --limit 1 --apply --quality low --send-to-zernio` completed with `draft_count=1`.
+### 2026-06-24 11:59 UTC — Historical GenLabs factory safe TikTok-only review draft created
+- Historical factory state: `latest_social_draft_factory.json@2026-06-24T11:59:02+00:00`; exact command `venv/bin/python scripts/scheduled_ai_social_draft_factory.py --limit 1 --apply --quality low --send-to-zernio` completed with `draft_count=1`.
 - Output: source `yt-WxRqUVWQzyE`; Airtable `recphIOkTaasEs6St`; Zernio draft `6a3bc600c86bf880e3e46ff0`; manifest `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260624T115118Z-yt-WxRqUVWQzyE/manifest.json`; 7 content slides + reusable CTA = 8 media.
 - Safety verification: Airtable `draft_created`; live Zernio `status=draft`, media_count=8, no `publishNow`, TikTok platform `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow` and `scheduledFor`, had `isDraft=true`, media_count=8, intended TikTok+FB+IG platforms, and exact FB/IG first-comment hash `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`.
 - Platform caveat: `/v1/accounts` returned TikTok access only (`tt=true`, `fb=false`, `ig=false`), so live Zernio persisted TikTok-only. FB/IG account access/config remains a separate blocker.
@@ -142,7 +263,7 @@
 - Factory/readback: Factory current — safe TikTok-only review draft generated at 06:38Z from `yt-HQ3eVt2jgAY`. Airtable `recEmm16GMeFedQZh` has `draft_created`; Zernio `6a3a29e18001592eca2ea25a` verifies `status=draft`, 9 media, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft flag true, no `publishNow`. Rebuilt outbound payload omitted `publishNow`/`scheduledFor`, had `isDraft=true` and `tiktokSettings.draft=true`, and included TikTok+FB+IG with FB/IG first-comment SHA-256 `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`; live `/v1/accounts` exposes TikTok only (`fb=false`, `ig=false`), so created draft is TikTok-only and FB/IG account access remains a separate blocker. Vision QA: hook/middle/action slides readable, sketchnote style, no source URL/channel leakage; editorial caveat: YouTube source is '$215M AI CEO: How I’d Build a Profitable AI Startup in 30 Days (2026 Playbook)' but public output is a generic AI Agent/checklist workflow with generic tool chips, so treat as safe review-only/not KPI-ready until Sway approves or source-topic routing is repaired. No lingering factory/radar process at `2026-06-23T06:40:29Z`; cron enabled/future-scheduled next `historical 07:30 next-run superseded by 08:43 schedule`; no public posting/live publishing.
 
 ## 2026-06-23 04:17 UTC — Factory readback: zero-draft/source-lane saturation after exact + required recovery
-- Current status: exact hourly command at 04:15 plus required recovery rerun at 04:17 both exited 0 with `draft_count=0/results=[]`; current state `latest_social_draft_factory.json@2026-06-23T04:17:15.569472+00:00`.
+- Historical status: exact hourly command at 04:15 plus required recovery rerun at 04:17 both exited 0 with `draft_count=0/results=[]`; current state `latest_social_draft_factory.json@2026-06-23T04:17:15.569472+00:00`.
 - Verification: no current `auto-*` folder/manifest/media was created after the run; latest auto folder remains historical `auto-20260622T223025Z-yt-hzjHiabeLiE`. No current Airtable Carousel Posts record or outbound Zernio payload/post exists; Zernio/platform verification is not applicable for this tick.
 - Diagnosis: selector reconstruction returned canonical 0, matrix 0 selectable, evergreen 0/42, AI Words 0/8, KPI backstop 0/8; existing source IDs plus partial-source quarantine total 471; blocked content families 68. Static/deterministic lanes are exhausted by duplicate/repeat-family guards.
 - Scheduler/process: cron `a97a7703af32` remains enabled/future-scheduled next `2026-06-23T05:15:11.310416+00:00`; no lingering factory/radar process at `2026-06-23T04:17Z`; no public posting/live publishing.
@@ -156,7 +277,7 @@
 - Next action: urgent source-lane replenishment is the KPI blocker. Add fresh practical Thai numbered software-tip sources, prioritizing ChatGPT and NotebookLM, then Canva AI/CapCut/Perplexity/Gemini/Claude/Zapier-Make.
 
 ## 2026-06-22 21:22 UTC — Factory readback: zero-draft/source-lane saturation after manual exact + required recovery
-- Current status: 21:22 manual exact+required recovery readback confirmed zero draft/source-lane saturation: state `latest_social_draft_factory.json@2026-06-22T21:22:25.972387+00:00`; both runs returned `draft_count=0/results=[]`; no new auto folder/manifest/media after 21:20Z; no outbound Airtable/Zernio payload; cron enabled/future-scheduled next `2026-06-22T22:20:28.761338+00:00`; no lingering factory/radar process at `2026-06-22T21:23:36Z`. Current KPI blocker is source-lane / anti-repetition saturation; replenish fresh ChatGPT/NotebookLM-first numbered software-tip sources. No public posting/spend/generation. Selector diagnosis: canonical 0, matrix 0, evergreen 0/42, AI Words 0/8, KPI backstop 0/8; existing Carousel Posts 447; existing/partial source IDs 481; partial-source quarantine 34; blocked content families 68.
+- Historical status: 21:22 manual exact+required recovery readback confirmed zero draft/source-lane saturation: state `latest_social_draft_factory.json@2026-06-22T21:22:25.972387+00:00`; both runs returned `draft_count=0/results=[]`; no new auto folder/manifest/media after 21:20Z; no outbound Airtable/Zernio payload; cron enabled/future-scheduled next `2026-06-22T22:20:28.761338+00:00`; no lingering factory/radar process at `2026-06-22T21:23:36Z`. Current KPI blocker is source-lane / anti-repetition saturation; replenish fresh ChatGPT/NotebookLM-first numbered software-tip sources. No public posting/spend/generation. Selector diagnosis: canonical 0, matrix 0, evergreen 0/42, AI Words 0/8, KPI backstop 0/8; existing Carousel Posts 447; existing/partial source IDs 481; partial-source quarantine 34; blocked content families 68.
 - Action taken: exact hourly command and one required recovery rerun completed; no draft/payload existed, so Zernio verification is not applicable. Keep cron enabled and replenish fresh ChatGPT/NotebookLM/software-tip source lanes.
 
 ## 2026-06-22 20:14 UTC — Historical zero-draft/source-lane saturation superseded by 21:22 readback
@@ -361,7 +482,7 @@
 - Verification: Airtable `Zernio Draft Status=draft_created`; live Zernio `status=draft`, media=8, no `publishNow`, TikTok account `69ee7188985e734bf3bb187f`, TikTok draft mode true. Rebuilt outbound payload omitted `publishNow` and `scheduledFor`, had `isDraft=true`, `tiktokSettings.draft=true`, TikTok+FB+IG payload accounts, and FB/IG first-comment SHA-256 `c106abada72072b8911c42b91d45b949b7260d98fff37facd868979dfff56dd8`.
 - Platform caveat: live `/v1/accounts` exposes TikTok only, so the created post is TikTok-only; Facebook/Instagram account access/config remains separate.
 - Content QA: source-lane exhaustion was resolved for that historical tick, but this is review-only/not KPI-ready unless Sway approves; output is a generic AI Agent/checklist workflow, not the preferred ChatGPT/NotebookLM-first software-tip lane.
-- Cron/process: latest scheduled factory output `historical 05:59 scheduled factory output` delivered ok; cron `a97a7703af32` remains enabled/future-scheduled next `prior due time`; no lingering growth/import/factory/radar process at `2026-06-21T07:01:30Z`. No public posting/live publishing.
+- Cron/process: historical scheduled factory output delivered ok; cron `a97a7703af32` remains enabled/future-scheduled next `prior due time`; no lingering growth/import/factory/radar process at `2026-06-21T07:01:30Z`. No public posting/live publishing.
 
 ## 2026-06-21 04:38 UTC — Hourly factory zero-draft/source-lane saturation
 - Command: `venv/bin/python scripts/scheduled_ai_social_draft_factory.py --limit 1 --apply --quality low --send-to-zernio`; required recovery rerun used the same exact command after source-exhaustion diagnosis.
@@ -1176,7 +1297,7 @@
 <!-- ZG-2026-06-09-1736-FACTORY-READBACK -->
 - [ ] Factory 17:36 readback: historical prior output was safe TikTok-only review draft `6a284f2963366d0e7cfae355` / Airtable `recHDgBoIt1ItKlXo` from `matrix-oralcare-gemini-p0` (state `latest_social_draft_factory.json@2026-06-09T17:36:43.329927+00:00`). Draft safety verified: Airtable draft_created, live Zernio status=draft, 8 media, no publishNow, TikTok draft mode true, cron enabled/future-scheduled next `2026-06-09T18:41:45.918527+00:00`, no lingering factory/radar process. Rebuilt outbound payload omitted publishNow/scheduledFor and included TikTok+FB+IG with exact FB/IG first-comment hash, but active /v1/accounts exposes TikTok only so live draft is TikTok-only. QA: no source/meta leakage and slides readable, but not KPI-ready/source-topic mismatch — source promised oral-care Gemini Sheets/Docs workflow and public draft collapsed into generic prompt-context advice. No public posting/spend/live publishing.
 
-## Current Zernio Growth Summary — 2026-06-24
+## Current Zernio Growth Summary — 2026-06-25
 
 ### KPI status
 - Goal: one TikTok post reaches **100,000 views**.
@@ -1184,13 +1305,13 @@
 - Current views: 51,391
 - Gap to 100,000: 48,609
 - Shares: 615
-- Snapshot/verification time: latest snapshot `2026-06-24T16:02:17.889372+00:00`; latest confirmed baseline `2026-06-24T16:02:17.889372+00:00`; writer run `2026-06-24T16:05:44+00:00`.
+- Snapshot/verification time: latest snapshot `2026-06-25T10:00:21.289980+00:00`; latest confirmed baseline `2026-06-25T10:00:21.289980+00:00`; writer run `2026-06-25T10:01:42+00:00`.
 
 ### Current signal
 - Breakout state: **no formal breakout current baseline zero delta**.
 - Current best/closest watch: `7634027210248097042` (ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items) at 51,391 views / 615 shares / +0 views / gap 48,609.
 - Strongest mover watch: None.
-- Previous positive momentum: `7634893611389259016` (เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายทีมประชุมแล…) had +60 views / 102.19/hr at `2026-06-24T00:30:14.190425+00:00`; keep as watch-only context, not current velocity.
+- Previous positive momentum: `7634893611389259016` (เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายทีมประชุมแล…) had +55 views / 95.68/hr at `2026-06-25T00:30:07.052168+00:00`; keep as watch-only context, not current velocity.
 - Candidate count: 0 formal candidates; 0 refresh-window candidates.
 - Protected CTA: CTA guard verified: post `7634027210248097042` is ChatGPT productivity/workflow evidence; protected GenLabs no-prompt/10-baht product-photo phrase is CTA copy only.
 
@@ -1715,7 +1836,52 @@
 - Closest post views: 51391
 - Strongest velocity post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
 - Recent 72h post count: 0
-- Snapshot time: 2026-06-24T16:05:41.238662+00:00
+- Snapshot time: 2026-06-24T23:57:40.594887+00:00
+
+### Signals learned today
+- Winning hook samples:
+- ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายทีมประชุมแล…
+- 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: พนักงานใหม่ต้…
+- Weak hook samples:
+- 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายร้านมีข้อ…
+- Prompt Drop: ยาดม/สมุนไพรไทยให้ดู Modern Wellness เซฟโพสต์นี้ไว้ถ้าคุณทำคอนเทนต์ขายของออนไลน์ แล้วอยากได้ภาพที่ดูเหมือนถ่ายแคมเปญจริง ไม่ใช่ภาพ AI พลาสติกหรือภา…
+- 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา A
+- Protected CTA note: Sway-added CTA phrase is protected and must not be treated as hook/topic signal; learn from educational_signal instead.
+- Protected CTA occurrences in low-view sample: 3
+- Breakout candidates: 0 current candidates; prior `7634893611389259016` movement is watch-only context until a later import/baseline confirms renewed velocity.
+- Current issue count: 5
+
+### Mistakes / weak spots to correct
+- no_posts_in_last_72h
+- factory_value_qa_blocked_before_zernio
+- active_experiment_result_closure_overdue
+- zernio_fbig_accounts_not_exposed
+- prior_safe_tiktok_review_draft_editorial_fbig_caveat
+
+### Rule / memory update
+- Lesson: Fix active result-closure/factory QA gates before scaling more near-duplicate growth experiments.
+- Decision rule: If no post is on pace for 100k, increase experiment volume and remix the best specific business-use hook instead of passively waiting.
+
+### Next action
+- Close/mark blocked active 2h/4h/24h result loops and resolve factory editorial/source-topic QA before creating more near-duplicate drafts; keep any breakout amplification draft-only.
+
+### Links
+- Memory note: [[Aion OS/Aion Learning Lab/Zernio Growth/Zernio Growth Memory]]
+- Master state: [[Aion OS/Projects/genlabs-ai-learning-state]]
+- Self-improvement SOP: [[Aion OS/SOPs/genlabs-ai-learning-self-improvement-system]]
+
+## 2026-06-25
+
+### KPI status
+- Goal: one TikTok post reaches **100,000 views**.
+- Best post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- Current best views: 51391
+- Gap to 100,000: 48609
+- Closest post views: 51391
+- Strongest velocity post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- Recent 72h post count: 0
+- Snapshot time: 2026-06-25T10:01:40.728936+00:00
 
 ### Signals learned today
 - Winning hook samples:

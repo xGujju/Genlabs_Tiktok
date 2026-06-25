@@ -202,3 +202,10 @@
 - **Consequences:** Source replenishment and factory routing should favor practical Thai SME work-output templates, not generic AI news or vague tool explainers. Do not force GenLabs product-photo CTA into performance analysis.
 - **Revisit trigger:** Revisit when a non-ChatGPT/NotebookLM software-tip post beats 2,500 views in 24h or reaches share_rate >=0.8%, or when a new post breaks 100,000 views.
 
+<!-- DECISION-GENLABS-TOOL-DIRECTION-2026-06-25 -->
+## 2026-06-25 — GenLabs/Zernio tool-topic direction for next production window
+- Review ID: `ZG-SELF-IMPROVEMENT-2026-06-25-1000`; current gap to 100k: 48609.
+- Decision: prioritize practical numbered Thai ChatGPT and NotebookLM carousels first. ChatGPT has direct KPI proof from the current best post at 51391 views / 615 shares; NotebookLM is a Sway-priority Thailand lane for source-grounded SOP/PDF/team-answer workflows.
+- Expansion rule: Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude tools, and Zapier/Make are allowed only as concrete software-tip workflow tests with visible promised tip counts, source-topic preservation, anti-repetition checks, and CTA separated from content tips.
+- Consequence: if result closure is overdue or source lanes are saturated, create draft-only recovery backlog/source replenishment tasks instead of near-duplicate generation. No public posting/spend without explicit approval.
+- Revisit trigger: next 3-day review or when a NotebookLM/software-tip post gets 2h/24h metrics above target.

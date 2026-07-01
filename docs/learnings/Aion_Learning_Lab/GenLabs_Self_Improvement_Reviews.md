@@ -497,3 +497,11 @@
 - Aion miss: too much state cleanup, not enough fresh source-lane replenishment and result closure.
 - Tool/topic direction: bias the next 3 days toward ChatGPT and NotebookLM practical numbered Thai carousels. Use Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude tools, and Zapier/Make only as concrete software-tip workflow tests with visible promised tip counts and source-topic/anti-repetition QA.
 - Next action: close oldest 2h/24h experiments, then feed fresh ChatGPT/NotebookLM source records; keep no-public-posting/no-spend/no-generation safety unless production pipeline explicitly passes QA.
+
+<!-- ZG-SELF-IMPROVEMENT-2026-07-01-1005 -->
+## 2026-07-01T10:05Z 3-day self-improvement review — ChatGPT/NotebookLM source replenishment
+- Machine evidence: fresh Zernio snapshot at 2026-07-01T10:04Z from Airtable `Zernio Analytics` (`record_count=62`); best post remains TikTok `7634027210248097042` / ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items at **51,391 views / 615 shares / gap 48,609**. `breakout_count=0`; `recent_72h_count=0`; data issues include stale analytics and no posts in last 72h.
+- What worked: CTA-stripped ChatGPT practical numbered work-output tips remain the only direct high-view proof. Reusable output/template formats beat generic AI news.
+- What failed: no recent posts, no breakout, overdue result closure, and factory/source-lane saturation mean experiments are not reaching TikTok.
+- Tool/topic direction: prioritize fresh non-repeating **ChatGPT** numbered work-output carousels and **NotebookLM** controlled-source SOP/PDF/FAQ/team-answer carousels. Test Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude tools, and Zapier/Make only as concrete software workflows with visible 7/8 tips and clean QA.
+- Aion fix: promoted the rule into compact memory/tasks/Zernio Growth notes/Decision Log; next 3 days must close results first, then replenish source lanes. No public posting, no spend, no generation triggered by this review.

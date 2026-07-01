@@ -1,0 +1,295 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0aa07b74/2g4DCGX0ad0DIUC3tS7SO_dUyLNqEy.png",
+    "https://v3b.fal.media/files/b/0aa07b79/vPTaSwyLVyNmuenmbX38r_nKOE24wJ.png",
+    "https://v3b.fal.media/files/b/0aa07b7d/k4UBb4Q6uPIIJ_5GNHsHN_pqXTd2Qp.png",
+    "https://v3b.fal.media/files/b/0aa07b81/9MXBadcg7lk5VflWm_3fE_66dxGu2L.png",
+    "https://v3b.fal.media/files/b/0aa07b86/zCxHUvnn_4Z_0yUfC2nRN_r34gGZcs.png",
+    "https://v3b.fal.media/files/b/0aa07b8a/e-v1MzLgCwTxLNk5sXSg4_SFcIg9KU.png",
+    "https://v3b.fal.media/files/b/0aa07b8f/1PxLVS9t2ywW5v5RPkfK-_dZJgEwvG.png",
+    "https://v3b.fal.media/files/b/0aa07b93/rr2KmXdCjU7ymIozz9ODB_Fst51T5B.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 8,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/8 role=hook. Thai copy: อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน\nAPI • Token • workflow • MCP. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน\nAPI • Token • workflow • MCP",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/8 role=problem. Thai copy: ปัญหา: หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/8 role=trend. Thai copy: ทำไมควรสนใจ:\nโพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nโพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/8 role=tips. Thai copy: ลองใช้แบบนี้:\n1) จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง\n2) เลือกงานที่มีกฎชัดที่สุด 1 งาน\n3) เขียน input/output ที่ต้องการ\n4) ให้ AI ช่วยทำเช็กลิสต์ก่อน แล้วค่อยต่อ automation. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง\n2) เลือกงานที่มีกฎชัดที่สุด 1 งาน\n3) เขียน input/output ที่ต้องการ\n4) ให้ AI ช่วยทำเช็กลิสต์ก่อน แล้วค่อยต่อ automation",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/8 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/8 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\nใช้กับ 3 จุดนี้:\n5) แชทลูกค้า: ร่างคำตอบจาก FAQ จริง\n6) ฝ่ายขาย: สรุปลีดที่พร้อมซื้อ\n7) หลังบ้าน: สรุปรายงานประจำวัน. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\nใช้กับ 3 จุดนี้:\n5) แชทลูกค้า: ร่างคำตอบจาก FAQ จริง\n6) ฝ่ายขาย: สรุปลีดที่พร้อมซื้อ\n7) หลังบ้าน: สรุปรายงานประจำวัน",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/8 role=framework. Thai copy: จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ. Visual direction: five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "framework",
+        "thai_copy": "จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ",
+        "visual_direction": "five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat"
+      },
+      {
+        "image_prompt": "Slide 8/8 role=cta. Thai copy: ลองวันนี้:\nวันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 8,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "yt-poM2n8fBcag",
+    "source_url": "https://www.youtube.com/watch?v=poM2n8fBcag",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://www.youtube.com/watch?v=poM2n8fBcag",
+        "Keywords: API, Token, workflow, MCP",
+        "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+      ],
+      "glossary": {
+        "API": "ช่องทางให้ระบบคุยกัน",
+        "MCP": "MCP",
+        "Token": "ชิ้นข้อความที่ AI ใช้นับ",
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "API",
+        "Token",
+        "workflow",
+        "MCP"
+      ],
+      "source_id": "yt-poM2n8fBcag",
+      "source_url": "https://www.youtube.com/watch?v=poM2n8fBcag",
+      "thai_call_to_action": "วันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น",
+      "thai_hook": "อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน",
+      "thai_problem": "หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้",
+      "thai_tips": [
+        "จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง",
+        "เลือกงานที่มีกฎชัดที่สุด 1 งาน",
+        "เขียน input/output ที่ต้องการ",
+        "ให้ AI ช่วยทำเช็กลิสต์ก่อน แล้วค่อยต่อ automation"
+      ],
+      "thai_trend_angle": "โพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "Kevin Stratvert",
+    "clean_headline": "ChatGPT Tutorial for Beginners: How to Actually Get Work Done with AI Kevin Stratvert Learn how to use ChatGPT step by step in this complete beginner's tutorial",
+    "clean_summary": "ChatGPT Tutorial for Beginners: How to Actually Get Work Done with AI Kevin Stratvert Learn how to use ChatGPT step by step in this complete beginner's tutorial. Whether you're brand new to AI or you've only used ... Transcript: ChatGPT Tutorial for Beginners: How to Actually Get Work Done with AI Description ChatGPT Tutorial for Beginners: How to Actually Get Work Done with AI 70 Likes 480 Views 1h Ago Learn how to use ChatGPT step by step in this complete beginner's tutorial. Whether you're brand new to AI or you've only used ChatGPT to ask a few questions, this guide will show you how to use ChatGPT to save time, write better, research faster, and become more productive. In this ChatGPT tutorial, you'll learn everything from the basics to advanced features. We'll cover the free version of ChatGPT along with premium features, and I'll clearly point out which tools require a ChatGPT Plus subscription. In this video, you'll learn how to: * Write, edit, and improve emails, documents, and other content through natural conversation * Upload PDFs, Word documents, Excel spreadsheets, and images to instantly summarize, analyze, and ask questions about them * Research topics, compare products, and organize information with AI * Create plans, calendars, checklists, presentations, and other documents from scratch * Generate ideas, brainstorm solutions, and overcome writer's block * Connect ChatGPT to Zapier for easier automation * Save chats into Projects to organize your work (ChatGPT Plus) * Use Memory so ChatGPT remembers your preferences across conversations (ChatGPT Plus) * Customize ChatGPT to work the way you do Whether you're using ChatGPT for work, school, your business, or everyday life, you'll leave with practical skills you can start using immediately. Host: Garrick Chow Sponsor: Zapier [#ChatGPT]( 📚 RESOURCES Zapier MCP: [ ⌚ TIMESTAMPS [00:00]( - Introduction [00:49]( - Create a free account [01:10]( - Explore the interface [01:45]( - Generate and refine an email [03:46]( - Summarize and analyze your files [05:23]( - Research topics and compare options [07:18]( - Create plans [08:58]( - Create and use projects [11:15]( - Connect ChatGPT to the apps and services you use with Zapier [12:27]( - View and edit ChatGPT’s memory [13:59]( - Conclusion 📩 NEWSLETTER * Get the latest high-quality tutorial and tips and tricks videos emailed to your inbox each week: [ 🔽 CONNECT WITH ME * Official website: [ * LinkedIn: [![Image 33]( ## Chapters View all [![Image 8]( ### Introduction ### Introduction 0:00]( ### [Introduction]( 0:00 [![Image 9]( ### Create a free account ### Create a free account 0:49]( ### [Create a free account]( 0:49 [![Image 10]( ### Explore the interface ### Explore the interface 1:10]( ### [Explore the interface]( 1:10 [![Image 11]( ### Generate and refine an email ### Generate and refine an email 1:45]( ### [Generate and refine an email]( 1:45 [![Image 12]( ### Summarize and analyze your files ### Summarize and analyze your files 3:46]( ### [Summarize and analyze your files]( 3:46 [![Image 13]( ### Research topics and compare options ### Research topics and compare options 5:23]( ### [Research topics and compare options]( 5:23 [![Image 14]( ### Create plans ### Create plans 7:18]( ### [Create plans]( 7:18 [![Image 15]( ### Create and use projects ### Create and use projects 8:58]( ### [Create and use projects]( 8:58 Transcript Follow along using the transcript. Show transcript [![Image 16]( ### Kevin Stratvert 4.32M subscribers]( [Videos]( 17]( Instagram]( 18]( TikTok](",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 480,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "API",
+      "Token",
+      "workflow",
+      "MCP"
+    ],
+    "original_language": "en",
+    "raw_text": "YouTube title: ChatGPT Tutorial for Beginners: How to Actually Get Work Done with AI\nChannel: Kevin Stratvert\nDescription: Learn how to use ChatGPT step by step in this complete beginner's tutorial. Whether you're brand new to AI or you've only used ...\nTranscript:\nTitle: ChatGPT Tutorial for Beginners: How to Actually Get Work Done with AI Description ChatGPT Tutorial for Beginners: How to Actually Get Work Done with AI 70 Likes 480 Views 1h Ago Learn how to use ChatGPT step by step in this complete beginner's tutorial. Whether you're brand new to AI or you've only used ChatGPT to ask a few questions, this guide will show you how to use ChatGPT to save time, write better, research faster, and become more productive. In this ChatGPT tutorial, you'll learn everything from the basics to advanced features. We'll cover the free version of ChatGPT along with premium features, and I'll clearly point out which tools require a ChatGPT Plus subscription. In this video, you'll learn how to: * Write, edit, and improve emails, documents, and other content through natural conversation * Upload PDFs, Word documents, Excel spreadsheets, and images to instantly summarize, analyze, and ask questions about them * Research topics, compare products, and organize information with AI * Create plans, calendars, checklists, presentations, and other documents from scratch * Generate ideas, brainstorm solutions, and overcome writer's block * Connect ChatGPT to Zapier for easier automation * Save chats into Projects to organize your work (ChatGPT Plus) * Use Memory so ChatGPT remembers your preferences across conversations (ChatGPT Plus) * Customize ChatGPT to work the way you do Whether you're using ChatGPT for work, school, your business, or everyday life, you'll leave with practical skills you can start using immediately. Host: Garrick Chow Sponsor: Zapier [#ChatGPT](https://www.youtube.com/hashtag/chatgpt)[#AI](https://www.youtube.com/hashtag/ai)[#Productivity](https://www.youtube.com/hashtag/productivity)[#ChatGPTTutorial](https://www.youtube.com/hashtag/chatgpttutorial)[#Zapier](https://www.youtube.com/hashtag/zapier) 📚 RESOURCES Zapier MCP: [https://chatgptconnector.kevinstratve...](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fchatgptconnector.kevinstratvert.com%2F&v=poM2n8fBcag) ⌚ TIMESTAMPS [00:00](https://www.youtube.com/watch?v=poM2n8fBcag) - Introduction [00:49](https://www.youtube.com/watch?v=poM2n8fBcag&t=49s) - Create a free account [01:10](https://www.youtube.com/watch?v=poM2n8fBcag&t=70s) - Explore the interface [01:45](https://www.youtube.com/watch?v=poM2n8fBcag&t=105s) - Generate and refine an email [03:46](https://www.youtube.com/watch?v=poM2n8fBcag&t=226s) - Summarize and analyze your files [05:23](https://www.youtube.com/watch?v=poM2n8fBcag&t=323s) - Research topics and compare options [07:18](https://www.youtube.com/watch?v=poM2n8fBcag&t=438s) - Create plans [08:58](https://www.youtube.com/watch?v=poM2n8fBcag&t=538s) - Create and use projects [11:15](https://www.youtube.com/watch?v=poM2n8fBcag&t=675s) - Connect ChatGPT to the apps and services you use with Zapier [12:27](https://www.youtube.com/watch?v=poM2n8fBcag&t=747s) - View and edit ChatGPT’s memory [13:59](https://www.youtube.com/watch?v=poM2n8fBcag&t=839s) - Conclusion 📩 NEWSLETTER * Get the latest high-quality tutorial and tips and tricks videos emailed to your inbox each week: [https://kevinstratvert.com/newsletter](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fkevinstratvert.com%2Fnewsletter&v=poM2n8fBcag) 🔽 CONNECT WITH ME * Official website: [http://www.kevinstratvert.com](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=http%3A%2F%2Fwww.kevinstratvert.com%2F&v=poM2n8fBcag) * LinkedIn: [![Image 33](https://www.youtube.com/watch?v=poM2n8fBcag)/kevinstratvert](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F% ## Chapters View all [![Image 8](https://www.youtube.com/watch?v=poM2n8fBcag) ### Introduction ### Introduction 0:00](https://www.youtube.com/watch?v=poM2n8fBcag) ### [Introduction](https://www.youtube.com/watch?v=poM2n8fBcag) 0:00 [![Image 9](https://www.youtube.com/watch?v=poM2n8fBcag) ### Create a free account ### Create a free account 0:49](https://www.youtube.com/watch?v=poM2n8fBcag&t=49s) ### [Create a free account](https://www.youtube.com/watch?v=poM2n8fBcag&t=49s) 0:49 [![Image 10](https://www.youtube.com/watch?v=poM2n8fBcag) ### Explore the interface ### Explore the interface 1:10](https://www.youtube.com/watch?v=poM2n8fBcag&t=70s) ### [Explore the interface](https://www.youtube.com/watch?v=poM2n8fBcag&t=70s) 1:10 [![Image 11](https://www.youtube.com/watch?v=poM2n8fBcag) ### Generate and refine an email ### Generate and refine an email 1:45](https://www.youtube.com/watch?v=poM2n8fBcag&t=105s) ### [Generate and refine an email](https://www.youtube.com/watch?v=poM2n8fBcag&t=105s) 1:45 [![Image 12](https://www.youtube.com/watch?v=poM2n8fBcag) ### Summarize and analyze your files ### Summarize and analyze your files 3:46](https://www.youtube.com/watch?v=poM2n8fBcag&t=226s) ### [Summarize and analyze your files](https://www.youtube.com/watch?v=poM2n8fBcag&t=226s) 3:46 [![Image 13](https://www.youtube.com/watch?v=poM2n8fBcag) ### Research topics and compare options ### Research topics and compare options 5:23](https://www.youtube.com/watch?v=poM2n8fBcag&t=323s&pp=0gcJCRkDDuyUWbzu) ### [Research topics and compare options](https://www.youtube.com/watch?v=poM2n8fBcag&t=323s&pp=0gcJCRkDDuyUWbzu) 5:23 [![Image 14](https://www.youtube.com/watch?v=poM2n8fBcag) ### Create plans ### Create plans 7:18](https://www.youtube.com/watch?v=poM2n8fBcag&t=438s) ### [Create plans](https://www.youtube.com/watch?v=poM2n8fBcag&t=438s) 7:18 [![Image 15](https://www.youtube.com/watch?v=poM2n8fBcag) ### Create and use projects ### Create and use projects 8:58](https://www.youtube.com/watch?v=poM2n8fBcag&t=538s) ### [Create and use projects](https://www.youtube.com/watch?v=poM2n8fBcag&t=538s) 8:58 Transcript Follow along using the transcript. Show transcript [![Image 16](https://www.youtube.com/watch?v=poM2n8fBcag) ### Kevin Stratvert 4.32M subscribers](https://www.youtube.com/@KevinStratvert) [Videos](https://www.youtube.com/channel/UCfJT_eYDTmDE-ovKaxVE1ig/videos)[About](https://www.youtube.com/channel/UCfJT_eYDTmDE-ovKaxVE1ig/about)[![Image 17](https://www.youtube.com/watch?v=poM2n8fBcag) Instagram](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=REDACTED&q=https%3A%2F%2Fwww.instagram.com%2Fkevinstratvert%2F)[![Image 18](https://www.youtube.com/watch?v=poM2n8fBcag) TikTok](https://www.youtube.com/redirect?event=Watch_SD_EP&red",
+    "source_id": "yt-poM2n8fBcag",
+    "source_url": "https://www.youtube.com/watch?v=poM2n8fBcag",
+    "why_it_matters": "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น",
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=poM2n8fBcag",
+      "Keywords: API, Token, workflow, MCP",
+      "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+    ],
+    "hook": "อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน",
+    "original_keywords": [
+      "API",
+      "Token",
+      "workflow",
+      "MCP"
+    ],
+    "original_language": "en",
+    "problem": "หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้",
+    "source_id": "yt-poM2n8fBcag",
+    "source_url": "https://www.youtube.com/watch?v=poM2n8fBcag",
+    "tips": [
+      "จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง",
+      "เลือกงานที่มีกฎชัดที่สุด 1 งาน",
+      "เขียน input/output ที่ต้องการ",
+      "ให้ AI ช่วยทำเช็กลิสต์ก่อน แล้วค่อยต่อ automation"
+    ],
+    "trend_angle": "โพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "2g4DCGX0ad0DIUC3tS7SO_dUyLNqEy.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa07b74/2g4DCGX0ad0DIUC3tS7SO_dUyLNqEy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260701T084045Z-yt-poM2n8fBcag/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "vPTaSwyLVyNmuenmbX38r_nKOE24wJ.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa07b79/vPTaSwyLVyNmuenmbX38r_nKOE24wJ.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260701T084045Z-yt-poM2n8fBcag/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "k4UBb4Q6uPIIJ_5GNHsHN_pqXTd2Qp.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa07b7d/k4UBb4Q6uPIIJ_5GNHsHN_pqXTd2Qp.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260701T084045Z-yt-poM2n8fBcag/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "9MXBadcg7lk5VflWm_3fE_66dxGu2L.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa07b81/9MXBadcg7lk5VflWm_3fE_66dxGu2L.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260701T084045Z-yt-poM2n8fBcag/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "zCxHUvnn_4Z_0yUfC2nRN_r34gGZcs.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa07b86/zCxHUvnn_4Z_0yUfC2nRN_r34gGZcs.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260701T084045Z-yt-poM2n8fBcag/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "e-v1MzLgCwTxLNk5sXSg4_SFcIg9KU.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa07b8a/e-v1MzLgCwTxLNk5sXSg4_SFcIg9KU.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260701T084045Z-yt-poM2n8fBcag/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "1PxLVS9t2ywW5v5RPkfK-_dZJgEwvG.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa07b8f/1PxLVS9t2ywW5v5RPkfK-_dZJgEwvG.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260701T084045Z-yt-poM2n8fBcag/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "rr2KmXdCjU7ymIozz9ODB_Fst51T5B.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa07b93/rr2KmXdCjU7ymIozz9ODB_Fst51T5B.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260701T084045Z-yt-poM2n8fBcag/slide-8.png",
+      "slide_index": 8,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 9,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260701T084045Z-yt-poM2n8fBcag/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้\n\n📌 ทำไมควรเซฟโพสต์นี้: โพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง\n\n2) ✨ เลือกงานที่มีกฎชัดที่สุด 1 งาน\n\n3) ✨ เขียน input/output ที่ต้องการ\n\n4) ✨ ให้ AI ช่วยทำเช็กลิสต์ก่อน แล้วค่อยต่อ automation\n\n🧪 ลองเริ่มวันนี้: วันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น\n\n🧭 วิธีใช้กับงานนี้: จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง → เลือกงานที่มีกฎชัดที่สุด 1 งาน → เขียน input/output ที่ต้องการ\n\n🌱 มือใหม่ให้เริ่มจากเคสจริงเล็ก ๆ ของอุตสาหกรรมนี้ แล้วให้คนในทีมตรวจคำตอบก่อนใช้กับลูกค้าจริง\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเห็นว่า AI ช่วยลดงานซ้ำและทำให้บริการชัดขึ้นได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน #AIมือใหม่ เอาไปใช้กับงานจริงได้ทันที"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=poM2n8fBcag",
+      "Keywords: API, Token, workflow, MCP",
+      "This is useful because it packages a viral AI workflow into a practical learning post for Thai builders and operators."
+    ],
+    "glossary": {
+      "API": "ช่องทางให้ระบบคุยกัน",
+      "MCP": "MCP",
+      "Token": "ชิ้นข้อความที่ AI ใช้นับ",
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "API",
+      "Token",
+      "workflow",
+      "MCP"
+    ],
+    "source_id": "yt-poM2n8fBcag",
+    "source_url": "https://www.youtube.com/watch?v=poM2n8fBcag",
+    "thai_call_to_action": "วันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น",
+    "thai_hook": "อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน",
+    "thai_problem": "หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้",
+    "thai_tips": [
+      "จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง",
+      "เลือกงานที่มีกฎชัดที่สุด 1 งาน",
+      "เขียน input/output ที่ต้องการ",
+      "ให้ AI ช่วยทำเช็กลิสต์ก่อน แล้วค่อยต่อ automation"
+    ],
+    "thai_trend_angle": "โพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ"
+  }
+}

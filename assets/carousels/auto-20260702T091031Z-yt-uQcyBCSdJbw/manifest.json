@@ -1,0 +1,301 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0aa09de7/8UesiIrS8aksNTUMZVGbx_RykonBMd.png",
+    "https://v3b.fal.media/files/b/0aa09deb/OO6Jlqs7yzl3QuPTnFWD9_4rSmcM3F.png",
+    "https://v3b.fal.media/files/b/0aa09df1/BuXlL84t5OCa7A5hEg60__szRqNCg3.png",
+    "https://v3b.fal.media/files/b/0aa09df6/ozll4C3BDg_QFkXHXW5qy_7aIPMjNH.png",
+    "https://v3b.fal.media/files/b/0aa09dfa/Kb5e5VZZpbfyNzTXf2eEu_Hxa27URU.png",
+    "https://v3b.fal.media/files/b/0aa09dfe/QdTHC01EC4hKhgOi6KBMj_BWw7ZqeR.png",
+    "https://v3b.fal.media/files/b/0aa09e02/k9EvNg5Eecr6-6lGpAh2B_LJyL3ARL.png",
+    "https://v3b.fal.media/files/b/0aa09e0f/tGuO5MO2Gkq55qxxFBAOd_FWPFIiTE.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 8,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/8 role=hook. Thai copy: อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน\nToken • slides • workflow • AI automation. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน\nToken • slides • workflow • AI automation",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/8 role=problem. Thai copy: ปัญหา: หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/8 role=trend. Thai copy: ทำไมควรสนใจ:\nโพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nโพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/8 role=tips. Thai copy: ลองใช้แบบนี้:\n1) จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง\n2) เลือกงานที่มีกฎชัดที่สุด 1 งาน\n3) เขียน input/output ที่ต้องการ\n4) ให้ AI ช่วยทำเช็กลิสต์ก่อน แล้วค่อยต่อ automation. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง\n2) เลือกงานที่มีกฎชัดที่สุด 1 งาน\n3) เขียน input/output ที่ต้องการ\n4) ให้ AI ช่วยทำเช็กลิสต์ก่อน แล้วค่อยต่อ automation",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/8 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/8 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\nใช้กับ 3 จุดนี้:\n5) แชทลูกค้า: ร่างคำตอบจาก FAQ จริง\n6) ฝ่ายขาย: สรุปลีดที่พร้อมซื้อ\n7) หลังบ้าน: สรุปรายงานประจำวัน. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\nใช้กับ 3 จุดนี้:\n5) แชทลูกค้า: ร่างคำตอบจาก FAQ จริง\n6) ฝ่ายขาย: สรุปลีดที่พร้อมซื้อ\n7) หลังบ้าน: สรุปรายงานประจำวัน",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/8 role=framework. Thai copy: จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ. Visual direction: five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "framework",
+        "thai_copy": "จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ",
+        "visual_direction": "five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat"
+      },
+      {
+        "image_prompt": "Slide 8/8 role=cta. Thai copy: ลองวันนี้:\nวันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 8,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "yt-uQcyBCSdJbw",
+    "source_url": "https://www.youtube.com/watch?v=uQcyBCSdJbw",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://www.youtube.com/watch?v=uQcyBCSdJbw",
+        "Keywords: Token, slides, workflow, AI automation, agent",
+        "This is trending because people can copy the workflow immediately instead of only reading AI news."
+      ],
+      "glossary": {
+        "AI automation": "ระบบอัตโนมัติด้วย AI",
+        "Token": "ชิ้นข้อความที่ AI ใช้นับ",
+        "agent": "เอเจนต์ AI",
+        "slides": "สไลด์",
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "Token",
+        "slides",
+        "workflow",
+        "AI automation",
+        "agent"
+      ],
+      "source_id": "yt-uQcyBCSdJbw",
+      "source_url": "https://www.youtube.com/watch?v=uQcyBCSdJbw",
+      "thai_call_to_action": "วันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น",
+      "thai_hook": "อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน",
+      "thai_problem": "หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้",
+      "thai_tips": [
+        "จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง",
+        "เลือกงานที่มีกฎชัดที่สุด 1 งาน",
+        "เขียน input/output ที่ต้องการ",
+        "ให้ AI ช่วยทำเช็กลิสต์ก่อน แล้วค่อยต่อ automation"
+      ],
+      "thai_trend_angle": "โพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "AI Pro Studios",
+    "clean_headline": "AI Automation Agents for Business: Where to Start AI Pro Studios AI automation agents go beyond basic automation — a normal workflow tool just moves data betwee",
+    "clean_summary": "AI Automation Agents for Business: Where to Start AI Pro Studios AI automation agents go beyond basic automation — a normal workflow tool just moves data between apps and breaks the ... Transcript: AI Automation Agents for Business: Where to Start Description AI Automation Agents for Business: Where to Start 0 Likes 0 Views 1h Ago AI automation agents go beyond basic automation — a normal workflow tool just moves data between apps and breaks the moment something unexpected shows up. An AI automation agent reasons about what to do next, handles the exception, and finishes the job without a human restarting it. Here's where to start. Full guide: [ More on AI core agents: [ CHAPTERS: [0:00]( Beyond basic automation [0:18]( What an agent does [0:35]( No-code tools to use [0:48]( Where to start Presented by Ryan R at AI Pro Studios. Subscribe for practical AI tools and workflows for small business. [#AIAutomationAgents]( ...more Show less How this was made Made with AI Sounds or visuals were altered or fully generated. [Learn more]( ## Chapters View all [![Image 17]( ### Beyond basic automation ### Beyond basic automation 0:00]( ### [Beyond basic automation]( 0:00 [![Image 18]( ### What an agent does ### What an agent does 0:18]( ### [What an agent does]( 0:18 [![Image 19]( ### No-code tools to use ### No-code tools to use 0:35]( ### [No-code tools to use]( 0:35 [![Image 20]( ### Where to start ### Where to start 0:48]( ### [Where to start]( 0:48 Transcript Follow along using the transcript. Show transcript [![Image 21]( ### AI Pro Studios 8 subscribers]( [Videos]( ## Transcript [![Image 22]( LIVE]( ![Image 23]( ### [TV ART SLIDESHOW 24/7 | Vintage Floral Gallery 🌼4K Framed Art Screensaver for Living Room]( FrameAura TV Art 3K watching [![Image 24]( 2:13:15]( ![Image 25]( ### [AI Agents Full Course 2026: Master Agentic AI (2 Hours)]( ## Chapters View all [![Image 8]( ### Beyond basic automation ### Beyond basic automation 0:00]( ### [Beyond basic automation]( 0:00 [![Image 9]( ### What an agent does ### What an agent does 0:18]( ### [What an agent does]( 0:18 [![Image 10]( ### No-code tools to use ### No-code tools to use 0:35]( ### [No-code tools to use]( 0:35 [![Image 11]( ### Where to start ### Where to start 0:48]( ### [Where to start]( 0:48 Transcript Follow along using the transcript. Show transcript [![Image 12]( ### AI Pro Studios 8 subscribers]( [Videos]( Show less []( # AI Automation Agents for Business: Where to Start AI No views Jul 2, 2026 0 Share Save Download Download NaN / NaN ## Comments [Top Show featured comments]( Show recent comments, including potential spam]( ## In this video Chapters Transcript ## Chapters [![Image 13]( ### Beyond basic automation ### Beyond basic automation 0:00]( ### [Beyond basic automation]( 0:00 [![Image 14]( ### What an agent does ### What an agent does 0:18]( ### [What an agent does]( 0:18 [![Image 15]( ### No-code tools to use ### No-code tools to use 0:35]( ### [No-code tools to use]( 0:35 [![Image 16]( ### Where to start ### Where to start 0:48]( ### [Where to start]( 0:48 Sync to video time ## Description AI Automat",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "Token",
+      "slides",
+      "workflow",
+      "AI automation",
+      "agent"
+    ],
+    "original_language": "en",
+    "raw_text": "YouTube title: AI Automation Agents for Business: Where to Start\nChannel: AI Pro Studios\nDescription: AI automation agents go beyond basic automation — a normal workflow tool just moves data between apps and breaks the ...\nTranscript:\nTitle: AI Automation Agents for Business: Where to Start Description AI Automation Agents for Business: Where to Start 0 Likes 0 Views 1h Ago AI automation agents go beyond basic automation — a normal workflow tool just moves data between apps and breaks the moment something unexpected shows up. An AI automation agent reasons about what to do next, handles the exception, and finishes the job without a human restarting it. Here's where to start. Full guide: [https://www.aiprostudios.com/ai-core-...](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fwww.aiprostudios.com%2Fai-core-agents%2Fai-automation-agents-for-business%2F%3Futm_source%3Dyoutube%26utm_medium%3Dvideo%26utm_campaign%3Dai-automation-agents-for-business&v=uQcyBCSdJbw) More on AI core agents: [https://www.aiprostudios.com/ai-core-...](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fwww.aiprostudios.com%2Fai-core-agents%2F%3Futm_source%3Dyoutube%26utm_medium%3Dvideo%26utm_campaign%3Dai-core-agents&v=uQcyBCSdJbw) CHAPTERS: [0:00](https://www.youtube.com/watch?v=uQcyBCSdJbw) Beyond basic automation [0:18](https://www.youtube.com/watch?v=uQcyBCSdJbw&t=18s) What an agent does [0:35](https://www.youtube.com/watch?v=uQcyBCSdJbw&t=35s) No-code tools to use [0:48](https://www.youtube.com/watch?v=uQcyBCSdJbw&t=48s) Where to start Presented by Ryan R at AI Pro Studios. Subscribe for practical AI tools and workflows for small business. [#AIAutomationAgents](https://www.youtube.com/hashtag/aiautomationagents)[#AIForBusiness](https://www.youtube.com/hashtag/aiforbusiness)[#SmallBusiness](https://www.youtube.com/hashtag/smallbusiness)[#AITools](https://www.youtube.com/hashtag/aitools)[#AIProStudios](https://www.youtube.com/hashtag/aiprostudios)…...more ...more Show less How this was made Made with AI Sounds or visuals were altered or fully generated. [Learn more](https://support.google.com/youtube/answer/15447836?hl=en) ## Chapters View all [![Image 17](https://www.youtube.com/watch?v=uQcyBCSdJbw) ### Beyond basic automation ### Beyond basic automation 0:00](https://www.youtube.com/watch?v=uQcyBCSdJbw) ### [Beyond basic automation](https://www.youtube.com/watch?v=uQcyBCSdJbw) 0:00 [![Image 18](https://www.youtube.com/watch?v=uQcyBCSdJbw) ### What an agent does ### What an agent does 0:18](https://www.youtube.com/watch?v=uQcyBCSdJbw&t=18s) ### [What an agent does](https://www.youtube.com/watch?v=uQcyBCSdJbw&t=18s) 0:18 [![Image 19](https://www.youtube.com/watch?v=uQcyBCSdJbw) ### No-code tools to use ### No-code tools to use 0:35](https://www.youtube.com/watch?v=uQcyBCSdJbw&t=35s) ### [No-code tools to use](https://www.youtube.com/watch?v=uQcyBCSdJbw&t=35s) 0:35 [![Image 20](https://www.youtube.com/watch?v=uQcyBCSdJbw) ### Where to start ### Where to start 0:48](https://www.youtube.com/watch?v=uQcyBCSdJbw&t=48s) ### [Where to start](https://www.youtube.com/watch?v=uQcyBCSdJbw&t=48s) 0:48 Transcript Follow along using the transcript. Show transcript [![Image 21](https://www.youtube.com/watch?v=uQcyBCSdJbw) ### AI Pro Studios 8 subscribers](https://www.youtube.com/@aiprostudios) [Videos](https://www.youtube.com/channel/UCnoUePGSwIsc1nh3ec0kheA/videos)[About](https://www.youtube.com/channel/UCnoUePGSwIsc1nh3ec0kheA/about) ## Transcript [![Image 22](https://i.ytimg.com/vi/EOQG307EKoU/hqdefault.jpg?v=69678a41&sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBA5tDmTzfDNWNiTg5Wy4PoKNkgGA) LIVE](https://www.youtube.com/watch?v=EOQG307EKoU) ![Image 23](https://www.youtube.com/watch?v=uQcyBCSdJbw) ### [TV ART SLIDESHOW 24/7 | Vintage Floral Gallery 🌼4K Framed Art Screensaver for Living Room](https://www.youtube.com/watch?v=EOQG307EKoU) FrameAura TV Art 3K watching [![Image 24](https://i.ytimg.com/vi/EsTrWCV0Ph4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD9z99MZUTe7aoVVhVc3hZpcLRScQ) 2:13:15](https://www.youtube.com/watch?v=EsTrWCV0Ph4) ![Image 25](https://www.youtube.com/watch?v=uQcyBCSdJbw) ### [AI Agents Full Course 2026: Master Agentic AI (2 Hours)]( ## Chapters View all [![Image 8](https://www.youtube.com/watch?v=uQcyBCSdJbw) ### Beyond basic automation ### Beyond basic automation 0:00](https://www.youtube.com/watch?v=uQcyBCSdJbw) ### [Beyond basic automation](https://www.youtube.com/watch?v=uQcyBCSdJbw) 0:00 [![Image 9](https://www.youtube.com/watch?v=uQcyBCSdJbw) ### What an agent does ### What an agent does 0:18](https://www.youtube.com/watch?v=uQcyBCSdJbw&t=18s) ### [What an agent does](https://www.youtube.com/watch?v=uQcyBCSdJbw&t=18s) 0:18 [![Image 10](https://www.youtube.com/watch?v=uQcyBCSdJbw) ### No-code tools to use ### No-code tools to use 0:35](https://www.youtube.com/watch?v=uQcyBCSdJbw&t=35s) ### [No-code tools to use](https://www.youtube.com/watch?v=uQcyBCSdJbw&t=35s) 0:35 [![Image 11](https://www.youtube.com/watch?v=uQcyBCSdJbw) ### Where to start ### Where to start 0:48](https://www.youtube.com/watch?v=uQcyBCSdJbw&t=48s) ### [Where to start](https://www.youtube.com/watch?v=uQcyBCSdJbw&t=48s) 0:48 Transcript Follow along using the transcript. Show transcript [![Image 12](https://www.youtube.com/watch?v=uQcyBCSdJbw) ### AI Pro Studios 8 subscribers](https://www.youtube.com/@aiprostudios) [Videos](https://www.youtube.com/channel/UCnoUePGSwIsc1nh3ec0kheA/videos)[About](https://www.youtube.com/channel/UCnoUePGSwIsc1nh3ec0kheA/about) Show less [](https://www.youtube.com/hashtag/aiautomationagents)[#AIAutomationAgents](https://www.youtube.com/hashtag/aiautomationagents)[#AIForBusiness](https://www.youtube.com/hashtag/aiforbusiness)[#SmallBusiness](https://www.youtube.com/hashtag/smallbusiness) # AI Automation Agents for Business: Where to Start AI No views Jul 2, 2026 0 Share Save Download Download NaN / NaN ## Comments [Top Show featured comments](https://www.youtube.com/watch?v=uQcyBCSdJbw)[Newest Show recent comments, including potential spam](https://www.youtube.com/watch?v=uQcyBCSdJbw) ## In this video Chapters Transcript ## Chapters [![Image 13](https://www.youtube.com/watch?v=uQcyBCSdJbw) ### Beyond basic automation ### Beyond basic automation 0:00](https://www.youtube.com/watch?v=uQcyBCSdJbw) ### [Beyond basic automation](https://www.youtube.com/watch?v=uQcyBCSdJbw) 0:00 [![Image 14](https://www.youtube.com/watch?v=uQcyBCSdJbw) ### What an agent does ### What an agent does 0:18](https://www.youtube.com/watch?v=uQcyBCSdJbw&t=18s) ### [What an agent does](https://www.youtube.com/watch?v=uQcyBCSdJbw&t=18s) 0:18 [![Image 15](https://www.youtube.com/watch?v=uQcyBCSdJbw) ### No-code tools to use ### No-code tools to use 0:35](https://www.youtube.com/watch?v=uQcyBCSdJbw&t=35s) ### [No-code tools to use](https://www.youtube.com/watch?v=uQcyBCSdJbw&t=35s) 0:35 [![Image 16](https://www.youtube.com/watch?v=uQcyBCSdJbw) ### Where to start ### Where to start 0:48](https://www.youtube.com/watch?v=uQcyBCSdJbw&t=48s) ### [Where to start](https://www.youtube.com/watch?v=uQcyBCSdJbw&t=48s) 0:48 Sync to video time ## Description AI Automat",
+    "source_id": "yt-uQcyBCSdJbw",
+    "source_url": "https://www.youtube.com/watch?v=uQcyBCSdJbw",
+    "why_it_matters": "This is trending because people can copy the workflow immediately instead of only reading AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น",
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=uQcyBCSdJbw",
+      "Keywords: Token, slides, workflow, AI automation, agent",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "hook": "อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน",
+    "original_keywords": [
+      "Token",
+      "slides",
+      "workflow",
+      "AI automation",
+      "agent"
+    ],
+    "original_language": "en",
+    "problem": "หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้",
+    "source_id": "yt-uQcyBCSdJbw",
+    "source_url": "https://www.youtube.com/watch?v=uQcyBCSdJbw",
+    "tips": [
+      "จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง",
+      "เลือกงานที่มีกฎชัดที่สุด 1 งาน",
+      "เขียน input/output ที่ต้องการ",
+      "ให้ AI ช่วยทำเช็กลิสต์ก่อน แล้วค่อยต่อ automation"
+    ],
+    "trend_angle": "โพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "8UesiIrS8aksNTUMZVGbx_RykonBMd.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa09de7/8UesiIrS8aksNTUMZVGbx_RykonBMd.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260702T091031Z-yt-uQcyBCSdJbw/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "OO6Jlqs7yzl3QuPTnFWD9_4rSmcM3F.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa09deb/OO6Jlqs7yzl3QuPTnFWD9_4rSmcM3F.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260702T091031Z-yt-uQcyBCSdJbw/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "BuXlL84t5OCa7A5hEg60__szRqNCg3.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa09df1/BuXlL84t5OCa7A5hEg60__szRqNCg3.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260702T091031Z-yt-uQcyBCSdJbw/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "ozll4C3BDg_QFkXHXW5qy_7aIPMjNH.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa09df6/ozll4C3BDg_QFkXHXW5qy_7aIPMjNH.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260702T091031Z-yt-uQcyBCSdJbw/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "Kb5e5VZZpbfyNzTXf2eEu_Hxa27URU.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa09dfa/Kb5e5VZZpbfyNzTXf2eEu_Hxa27URU.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260702T091031Z-yt-uQcyBCSdJbw/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "QdTHC01EC4hKhgOi6KBMj_BWw7ZqeR.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa09dfe/QdTHC01EC4hKhgOi6KBMj_BWw7ZqeR.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260702T091031Z-yt-uQcyBCSdJbw/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "k9EvNg5Eecr6-6lGpAh2B_LJyL3ARL.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa09e02/k9EvNg5Eecr6-6lGpAh2B_LJyL3ARL.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260702T091031Z-yt-uQcyBCSdJbw/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "tGuO5MO2Gkq55qxxFBAOd_FWPFIiTE.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa09e0f/tGuO5MO2Gkq55qxxFBAOd_FWPFIiTE.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260702T091031Z-yt-uQcyBCSdJbw/slide-8.png",
+      "slide_index": 8,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 9,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260702T091031Z-yt-uQcyBCSdJbw/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้\n\n📌 ทำไมควรเซฟโพสต์นี้: โพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง\n\n2) ✨ เลือกงานที่มีกฎชัดที่สุด 1 งาน\n\n3) ✨ เขียน input/output ที่ต้องการ\n\n4) ✨ ให้ AI ช่วยทำเช็กลิสต์ก่อน แล้วค่อยต่อ automation\n\n🧪 ลองเริ่มวันนี้: วันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น\n\n🧭 วิธีใช้กับงานนี้: จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง → เลือกงานที่มีกฎชัดที่สุด 1 งาน → เขียน input/output ที่ต้องการ\n\n🌱 มือใหม่ให้เริ่มจากเคสจริงเล็ก ๆ ของอุตสาหกรรมนี้ แล้วให้คนในทีมตรวจคำตอบก่อนใช้กับลูกค้าจริง\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเห็นว่า AI ช่วยลดงานซ้ำและทำให้บริการชัดขึ้นได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน #AIมือใหม่ เอาไปใช้กับงานจริงได้ทันที"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=uQcyBCSdJbw",
+      "Keywords: Token, slides, workflow, AI automation, agent",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "glossary": {
+      "AI automation": "ระบบอัตโนมัติด้วย AI",
+      "Token": "ชิ้นข้อความที่ AI ใช้นับ",
+      "agent": "เอเจนต์ AI",
+      "slides": "สไลด์",
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "Token",
+      "slides",
+      "workflow",
+      "AI automation",
+      "agent"
+    ],
+    "source_id": "yt-uQcyBCSdJbw",
+    "source_url": "https://www.youtube.com/watch?v=uQcyBCSdJbw",
+    "thai_call_to_action": "วันนี้เลือกงานซ้ำ 1 งาน แล้วเขียนเช็กลิสต์ให้ AI ช่วยทำทีละขั้น",
+    "thai_hook": "อย่าเริ่มจาก AI Agent เริ่มจากเช็กลิสต์งานซ้ำก่อน",
+    "thai_problem": "หลายคนอยากทำ AI Agent แต่ยังไม่รู้ว่างานซ้ำจริง ๆ ของตัวเองคืออะไร เลยดู tutorial เยอะแล้วทำต่อไม่ได้",
+    "thai_tips": [
+      "จดงานซ้ำที่ทำทุกสัปดาห์ 5 อย่าง",
+      "เลือกงานที่มีกฎชัดที่สุด 1 งาน",
+      "เขียน input/output ที่ต้องการ",
+      "ให้ AI ช่วยทำเช็กลิสต์ก่อน แล้วค่อยต่อ automation"
+    ],
+    "thai_trend_angle": "โพสต์แนว agent/workflow ชนะเมื่อสอนให้เริ่มจากงานจริง ไม่ใช่แค่โชว์เครื่องมือ"
+  }
+}

@@ -1,6 +1,6 @@
 # Zernio Growth Memory
 
-Last updated: 2026-07-04T16:02:42+00:00
+Last updated: 2026-07-05T16:56:05+00:00
 
 ## KPI
 - Goal: one TikTok post reaches **100,000 views**.
@@ -113,17 +113,17 @@ Last updated: 2026-07-04T16:02:42+00:00
 ## Current breakout watch
 {
   "status": "no_formal_breakout_current_baseline_zero_delta",
-  "pre_run_snapshot_at": "2026-07-04T16:00:47.992309+00:00",
-  "latest_snapshot_at": "2026-07-04T16:00:47.992309+00:00",
-  "latest_reconciled_snapshot_at": "2026-07-04T16:00:47.992309+00:00",
-  "latest_confirmed_snapshot_at": "2026-07-04T16:00:47.992309+00:00",
-  "previous_snapshot_at": "2026-07-04T15:30:48.424316+00:00",
+  "pre_run_snapshot_at": "2026-07-05T12:30:16.764090+00:00",
+  "latest_snapshot_at": "2026-07-05T12:30:16.764090+00:00",
+  "latest_reconciled_snapshot_at": "2026-07-05T12:30:16.764090+00:00",
+  "latest_confirmed_snapshot_at": "2026-07-05T12:30:16.764090+00:00",
+  "previous_snapshot_at": "2026-07-05T12:00:57.772430+00:00",
   "latest_confirmed_delta_views": 0,
   "latest_confirmed_hourly_velocity": 0.0,
   "formal_breakout_count": 0,
   "refresh_window_breakout_count": 0,
   "breakout_count": 0,
-  "current_reason": "2026-07-04T16:00:47.992309+00:00 normal velocity baseline found no breakout_candidates and no watched-post movement; prior positive movement is watch-only context until a later import/baseline confirms renewed velocity.",
+  "current_reason": "2026-07-05T12:30:16.764090+00:00 normal velocity baseline found no breakout_candidates and no watched-post movement; prior positive movement is watch-only context until a later import/baseline confirms renewed velocity.",
   "best_post_watch": {
     "platform_post_id": "7634027210248097042",
     "label": "ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items",
@@ -137,16 +137,16 @@ Last updated: 2026-07-04T16:02:42+00:00
     "caveat": "Best/closest-to-100k watch only when current normal baseline has no breakout candidates; protected CTA is not hook/topic evidence."
   },
   "previous_positive_momentum": {
-    "status": "previous_positive_momentum_watch_only_context",
-    "platform_post_id": "7634893611389259016",
-    "label": "เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต…",
-    "views": 15740,
-    "shares": 135,
-    "gap": 84260,
     "delta": 60,
+    "gap": 84260,
     "hourly": 119.28,
+    "label": "เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต…",
     "latest_confirmed_snapshot_at": "2026-07-04T03:30:34.682642+00:00",
-    "note": "Superseded as current by a later normal zero-candidate baseline; keep as watch-only context until new movement is confirmed."
+    "note": "Superseded as current by a later normal zero-candidate baseline; keep as watch-only context until new movement is confirmed.",
+    "platform_post_id": "7634893611389259016",
+    "shares": 135,
+    "status": "previous_positive_momentum_watch_only_context",
+    "views": 15740
   },
   "public_posting": false,
   "spending_triggered_by_this_run": false,
@@ -167,11 +167,11 @@ Last updated: 2026-07-04T16:02:42+00:00
   "latest_live_imported_at": "2026-06-21T13:30:59.573495+00:00",
   "primary_analytics_last_updated": "2026-06-20 22:41:58",
   "secondary_platform_post_id": "7635310153126087954",
-  "secondary_views": 10253,
+  "secondary_views": 10257,
   "secondary_shares": 97,
-  "secondary_gap_to_100k": 89747,
-  "secondary_imported_at": "2026-07-04T16:01:23.071009+00:00",
-  "secondary_analytics_last_updated": "2026-07-04 02:56:41",
+  "secondary_gap_to_100k": 89743,
+  "secondary_imported_at": "2026-07-05T12:31:10.477217+00:00",
+  "secondary_analytics_last_updated": "2026-07-05 03:14:19",
   "secondary_delta": 0,
   "secondary_hourly": 0.0,
   "secondary_status": "previous_positive_momentum_watch_only_context",
@@ -200,24 +200,24 @@ Last updated: 2026-07-04T16:02:42+00:00
   "latest_confirmed_breakout_hourly": 0.0,
   "post_import_refresh_window_delta_views": 0,
   "post_import_refresh_window_hourly": 0.0,
-  "latest_reconciled_snapshot_at": "2026-07-04T16:00:47.992309+00:00",
-  "latest_confirmed_snapshot_at": "2026-07-04T16:00:47.992309+00:00",
-  "latest_absolute_snapshot_at": "2026-07-04T16:02:41.062667+00:00",
+  "latest_reconciled_snapshot_at": "2026-07-05T12:30:16.764090+00:00",
+  "latest_confirmed_snapshot_at": "2026-07-05T12:30:16.764090+00:00",
+  "latest_absolute_snapshot_at": "2026-07-05T12:33:45.398331+00:00",
   "note": "Absolute metrics refreshed by zernio_growth_snapshot.py; confirmed velocity/baseline context is preserved separately."
 }
 
 ## Scheduler cadence watch
 {
-  "impact_on_kpi": "Scheduler readbacks current; latest factory output created a safe review-only draft, but source-topic routing/editorial quality remains separate KPI blocker.",
+  "impact_on_kpi": "Scheduler readbacks current; latest factory output is zero-draft/no-payload because source-lane and anti-repetition guards have no selectable candidates. Source replenishment is the KPI blocker.",
   "job_state": {
     "analytics_import": {
       "enabled": true,
       "id": "93217f974384",
       "last_run_at": "2026-07-04T03:20:32Z",
       "last_status": "ok",
-      "latest_output": "latest_social_draft_factory.json@2026-07-04T15:16:55.204990+00:00",
+      "latest_output": "manual-exact-run+recovery-2026-07-05T1656Z_zero-draft-source-saturation",
       "name": "GenLabs Zernio analytics Airtable import",
-      "next_run_at": "2026-07-04T10:13:20.873513+00:00",
+      "next_run_at": "2026-07-05T17:53:13.282139+00:00",
       "schedule": "*/30 * * * *",
       "state": "scheduled"
     },
@@ -226,9 +226,9 @@ Last updated: 2026-07-04T16:02:42+00:00
       "id": "041946b1fef6",
       "last_run_at": "2026-07-04T03:20:32Z",
       "last_status": "ok",
-      "latest_output": "latest_social_draft_factory.json@2026-07-04T15:16:55.204990+00:00",
+      "latest_output": "manual-exact-run+recovery-2026-07-05T1656Z_zero-draft-source-saturation",
       "name": "hermes-breakout-watch",
-      "next_run_at": "2026-07-04T10:13:20.873513+00:00",
+      "next_run_at": "2026-07-05T17:53:13.282139+00:00",
       "schedule": "*/30 * * * *",
       "state": "scheduled"
     },
@@ -237,9 +237,9 @@ Last updated: 2026-07-04T16:02:42+00:00
       "id": "a97a7703af32",
       "last_run_at": "2026-07-04T03:20:32Z",
       "last_status": "ok",
-      "latest_output": "latest_social_draft_factory.json@2026-07-04T15:16:55.204990+00:00",
-      "name": "GenLabs hourly educational Zernio draft factory",
-      "next_run_at": "2026-07-04T10:13:20.873513+00:00",
+      "latest_output": "manual-exact-run+recovery-2026-07-05T1656Z_zero-draft-source-saturation",
+      "name": "Current factory readback is zero-draft/source-lane saturation: exact command exited ok with draft_count=0/results=[], no current auto folder/Airtable/Zernio payload, existing_source_ids=482, partial_source_ids=34, combined_existing_or_partial=505, blocked_content_families=76, Canonical/Matrix/Evergreen/AI Words/KPI/YouTube selectable all 0. Zernio verification is not applicable; fresh ChatGPT/NotebookLM-first source replenishment is urgent.",
+      "next_run_at": "2026-07-05T17:53:13.282139+00:00",
       "schedule": "every 60m",
       "state": "scheduled"
     },
@@ -248,9 +248,9 @@ Last updated: 2026-07-04T16:02:42+00:00
       "id": "784e1c3b87f6",
       "last_run_at": "2026-07-04T03:20:32Z",
       "last_status": "ok",
-      "latest_output": "latest_social_draft_factory.json@2026-07-04T15:16:55.204990+00:00",
+      "latest_output": "manual-exact-run+recovery-2026-07-05T1656Z_zero-draft-source-saturation",
       "name": "hermes-experiment-creator",
-      "next_run_at": "2026-07-04T10:13:20.873513+00:00",
+      "next_run_at": "2026-07-05T17:53:13.282139+00:00",
       "schedule": "0 */12 * * *",
       "state": "scheduled"
     },
@@ -259,9 +259,9 @@ Last updated: 2026-07-04T16:02:42+00:00
       "id": "e7cd01098059",
       "last_run_at": "2026-07-04T03:20:32Z",
       "last_status": "ok",
-      "latest_output": "latest_social_draft_factory.json@2026-07-04T15:16:55.204990+00:00",
+      "latest_output": "manual-exact-run+recovery-2026-07-05T1656Z_zero-draft-source-saturation",
       "name": "hermes-growth-check",
-      "next_run_at": "2026-07-04T10:13:20.873513+00:00",
+      "next_run_at": "2026-07-05T17:53:13.282139+00:00",
       "schedule": "0 */2 * * *",
       "state": "scheduled"
     },
@@ -270,9 +270,9 @@ Last updated: 2026-07-04T16:02:42+00:00
       "id": "e2869f58ebe9",
       "last_run_at": "2026-07-04T03:20:32Z",
       "last_status": "ok",
-      "latest_output": "latest_social_draft_factory.json@2026-07-04T15:16:55.204990+00:00",
+      "latest_output": "manual-exact-run+recovery-2026-07-05T1656Z_zero-draft-source-saturation",
       "name": "hermes-issue-check",
-      "next_run_at": "2026-07-04T10:13:20.873513+00:00",
+      "next_run_at": "2026-07-05T17:53:13.282139+00:00",
       "schedule": "30 */6 * * *",
       "state": "scheduled"
     }
@@ -285,16 +285,21 @@ Last updated: 2026-07-04T16:02:42+00:00
     "growth_check": "2026-07-02_22-04-57.md",
     "issue_check": "2026-07-02_06-40-03.md"
   },
-  "process_check": "2026-07-04T03:20:32Z",
+  "process_check": "2026-07-05T12:12:30+00:00",
   "severity": "none",
   "status": "resolved_current_tick"
 }
 
 ## Factory verification
-{}
+"2026-07-05T11:00:36.139322+00:00"
 
 ## Current issues
 [
+  {
+    "issue": "zernio_analytics_stale_over_3h",
+    "severity": "high",
+    "oldest_minutes": 96343.9
+  },
   {
     "issue": "no_posts_in_last_72h",
     "severity": "medium"
@@ -309,28 +314,16 @@ Last updated: 2026-07-04T16:02:42+00:00
     "severity": "medium"
   },
   {
-    "issue": "prior_safe_tiktok_review_draft_editorial_fbig_caveat",
+    "issue": "Current factory readback is zero-draft/source-lane saturation: exact command exited ok with draft_count=0/results=[], no current auto folder/Airtable/Zernio payload, existing_source_ids=482, partial_source_ids=34, combined_existing_or_partial=505, blocked_content_families=76, Canonical/Matrix/Evergreen/AI Words/KPI/YouTube selectable all 0. Zernio verification is not applicable; fresh ChatGPT/NotebookLM-first source replenishment is urgent.",
     "severity": "medium"
-  },
-  {
-    "cron_next_run_at": "2026-07-04T10:13:20.873513+00:00",
-    "impact_on_kpi": "Latest factory readback created 0 drafts because source lanes remain blocked by existing/partial source IDs and repeat-family guards; no new TikTok-ready content reached Zernio this tick.",
-    "issue": "current_safe_tiktok_review_draft_editorial_fbig_caveat",
-    "latest_evidence": "Current factory recovery created safe TikTok-only review draft 6a4923e55bd67c8e9fb9185f / Airtable rec8YaOFuVC0Eicol from yt-gFSkmD8vbfg; draft safety passed, FB/IG account access blocked, content review-only/not KPI-ready due generic AI Agent checklist/source-topic caveat.",
-    "latest_factory_output": "latest_social_draft_factory.json@2026-07-04T15:16:55.204990+00:00",
-    "next_action": "Current factory recovery created safe TikTok-only review draft 6a4923e55bd67c8e9fb9185f / Airtable rec8YaOFuVC0Eicol from yt-gFSkmD8vbfg; draft safety passed, FB/IG account access blocked, content review-only/not KPI-ready due generic AI Agent checklist/source-topic caveat.",
-    "process_check": "2026-07-04T09:20:31Z",
-    "severity": "high",
-    "state_token": "latest_social_draft_factory.json@2026-07-04T15:16:55.204990+00:00",
-    "updated_at": "2026-07-04T09:20:31Z"
   }
 ]
 
 ## Last 3 useful lessons
 [
-  "2026-07-04 14:02 growth-check: no breakout/recent posts; KPI leader remains CTA-stripped ChatGPT productivity at 51,391 views/615 shares (gap 48,609); action is source-lane repair + result closure, not protected-CTA learning or duplicate amplification.",
-  "2026-07-04 12:30 issue-check: direct import ok (47 updated), snapshot still shows no breakout/recent posts and partial stale historical analytics coverage; CTA guard clean (0 unsafe), so blocker is production/source/result closure, not protected CTA classification.",
-  "2026-07-04 10:01 3-day self-improvement: KPI leader remains CTA-stripped ChatGPT productivity at 51,391 views/615 shares, gap 48,609; breakout_count=0, recent_72h=0. Bias next 3 days to ChatGPT/NotebookLM practical numbered sources, close result loops, and fix factory value-QA/source-lane blockers before expansion tools."
+  "2026-07-05 12:36 issue-check: direct import ok (47 updated), fresh snapshot still shows KPI leader CTA-stripped ChatGPT productivity at 51,391 views/615 shares (gap 48,609), no breakout and no posts in last 72h; protected CTA unsafe_count=0; resolved factory stale-internal-readback because latest 12:24 factory output correctly reports the 12:12 safe review draft.",
+  "2026-07-05 06:34 issue-check: direct import ok (47 updated) and fresh snapshot still shows KPI leader CTA-stripped ChatGPT productivity at 51,391 views/615 shares (gap 48,609), no breakout and no posts in last 72h; protected CTA guard scan unsafe_count=0; action is source-lane/result-closure/analytics-coverage repair, not product-photo CTA learning.",
+  "2026-07-05 04:05 growth-check: latest disk state has 3 refresh-window candidates after import; primary 7634893611389259016 at 15754 views/+14 (import-window inflated), while KPI leader remains CTA-stripped ChatGPT productivity at 51391 views/615 shares (gap 48609); action is draft-only amplification input + source/result closure, not protected-CTA learning."
 ]
 
 ## Active experiments
@@ -339,21 +332,21 @@ Last updated: 2026-07-04T16:02:42+00:00
     "classification": "active_experiment",
     "created_at": "2026-07-04T03:20:32Z",
     "name": "Problem-first onboarding docs to 30-day plan remix",
-    "source_platform_post_id_note": "cleared by issue-check scalar hygiene; prior value was factory-readback prose, not a platform/source ID",
+    "source_platform_post_id_note": "Current factory readback is zero-draft/source-lane saturation: exact command exited ok with draft_count=0/results=[], no current auto folder/Airtable/Zernio payload, existing_source_ids=482, partial_source_ids=34, combined_existing_or_partial=505, blocked_content_families=76, Canonical/Matrix/Evergreen/AI Words/KPI/YouTube selectable all 0. Zernio verification is not applicable; fresh ChatGPT/NotebookLM-first source replenishment is urgent.",
     "success_metric": "2h >=300 views and >=4 shares; 24h >=3000 views or share_rate >=0.8%, using CTA-stripped educational signal."
   },
   {
     "classification": "active_experiment",
     "created_at": "2026-07-04T03:20:32Z",
     "name": "Feedback to 7-day action plan ChatGPT work remix",
-    "source_platform_post_id_note": "cleared by issue-check scalar hygiene; prior value was factory-readback prose, not a platform/source ID",
+    "source_platform_post_id_note": "Current factory readback is zero-draft/source-lane saturation: exact command exited ok with draft_count=0/results=[], no current auto folder/Airtable/Zernio payload, existing_source_ids=482, partial_source_ids=34, combined_existing_or_partial=505, blocked_content_families=76, Canonical/Matrix/Evergreen/AI Words/KPI/YouTube selectable all 0. Zernio verification is not applicable; fresh ChatGPT/NotebookLM-first source replenishment is urgent.",
     "success_metric": "2h >=250 views and >=3 shares; 24h >=2500 views or >=20 shares, without using protected CTA as hook/topic."
   },
   {
     "classification": "active_experiment",
     "created_at": "2026-07-04T03:20:32Z",
     "name": "Meeting notes to owner-deadline-risk matrix stronger hook test",
-    "source_platform_post_id_note": "cleared by issue-check scalar hygiene; prior value was factory-readback prose, not a platform/source ID",
+    "source_platform_post_id_note": "Current factory readback is zero-draft/source-lane saturation: exact command exited ok with draft_count=0/results=[], no current auto folder/Airtable/Zernio payload, existing_source_ids=482, partial_source_ids=34, combined_existing_or_partial=505, blocked_content_families=76, Canonical/Matrix/Evergreen/AI Words/KPI/YouTube selectable all 0. Zernio verification is not applicable; fresh ChatGPT/NotebookLM-first source replenishment is urgent.",
     "success_metric": "2h >=180 views and ER >=4%; 24h >=1800 views and share_rate >=0.8%; stop meeting-note variants if below channel average."
   },
   {
@@ -422,7 +415,7 @@ Last updated: 2026-07-04T16:02:42+00:00
     "created_at": "2026-07-04T03:20:32Z",
     "hook": "มีไฟล์ Excel ยอดขายเต็มไปหมด? ให้ AI เปลี่ยนเป็น 3 คำตอบที่ใช้ตัดสินใจได้",
     "name": "Excel/CSV seller workflow breakout remix",
-    "source_platform_post_id_note": "cleared by issue-check scalar hygiene; prior value was factory-readback prose, not a platform/source ID",
+    "source_platform_post_id_note": "Current factory readback is zero-draft/source-lane saturation: exact command exited ok with draft_count=0/results=[], no current auto folder/Airtable/Zernio payload, existing_source_ids=482, partial_source_ids=34, combined_existing_or_partial=505, blocked_content_families=76, Canonical/Matrix/Evergreen/AI Words/KPI/YouTube selectable all 0. Zernio verification is not applicable; fresh ChatGPT/NotebookLM-first source replenishment is urgent.",
     "success_metric": "Watch-only context after 17:00 previous-positive watch shifted priority to the interview/customer-notes workflow; do not generate Excel/CSV remix until result-closure/source-availability gates clear and a later baseline/import confirms stronger movement.",
     "tool": "ChatGPT / spreadsheet workflow"
   },
@@ -1257,7 +1250,7 @@ Last updated: 2026-07-04T16:02:42+00:00
     "audience": "Thai aircon/home-repair shops, field-service teams, dispatch admins, and small contractors that need a lightweight internal tool before building automation.",
     "caption": "ยังไม่ต้องสร้างระบบใหญ่ ลองใช้ ChatGPT ทำฟอร์มรับงานเล็ก ๆ ก่อน: รับข้อมูล → triage → brief ให้ช่าง → ให้คนอนุมัติก่อนเสนอราคา #ChatGPTAI #ช่างแอร์ #AIสำหรับSME",
     "created_at": "2026-07-04T03:20:32Z",
-    "cron_next_run_at": "2026-07-04T10:13:20.873513+00:00",
+    "cron_next_run_at": "2026-07-05T01:14:46.958513+00:00",
     "decision_rule": "Continue/remix into cleaning, pest-control, and appliance-repair intake tools if target hits; if viewers find ChatGPT too technical, rehook as 'ฟอร์มรับงานก่อนทำ automation'; stop after 2 misses with weak comments/shares.",
     "draft_count": 0,
     "format": "Thai handwritten/sketchnote carousel; 7 numbered tips over 8 lesson slides + reusable GenLabs CTA only at the end.",
@@ -1265,7 +1258,7 @@ Last updated: 2026-07-04T16:02:42+00:00
     "last_verified_at": "2026-07-04T09:20:31Z",
     "media_count": 8,
     "name": "ChatGPT Artifacts Aircon/Home-Repair Intake Tool — 7 tips",
-    "next_run_at": "2026-07-04T10:13:20.873513+00:00",
+    "next_run_at": "2026-07-05T01:14:46.958513+00:00",
     "process_check": "2026-07-04T09:20:31Z",
     "quality_gate": {
       "cta_counted_as_tip": false,
@@ -1524,7 +1517,7 @@ Last updated: 2026-07-04T16:02:42+00:00
     "audience": "Thai freelancers, agencies, consultants, real-estate/service-SME sales teams, and operators sending proposals or work plans to clients.",
     "caption": "ก่อนส่ง proposal/แผนงานให้ลูกค้า ลองให้ ChatGPT Canvas ช่วยไฮไลต์จุดงง ขอบเขตไม่ชัด ความเสี่ยง และสรุปส่ง LINE ให้สั้นลงก่อน #ChatGPT #ฟรีแลนซ์ #AIทำงานจริง",
     "created_at": "2026-07-04T03:20:32Z",
-    "cron_next_run_at": "2026-07-04T10:13:20.873513+00:00",
+    "cron_next_run_at": "2026-07-05T01:14:46.958513+00:00",
     "decision_rule": "If it works, remix into real-estate listing proposal, agency retainer proposal, and clinic/service package proposal versions. If it fails, rehook around “proposal อ่านไม่รู้เรื่อง = ลูกค้าไม่เซ็น”; stop after 2 misses below channel average with weak shares/comments.",
     "draft_count": 0,
     "format": "Thai handwritten/sketchnote carousel; 7 numbered tips over 8 lesson slides + reusable GenLabs CTA only at the end.",
@@ -1532,7 +1525,7 @@ Last updated: 2026-07-04T16:02:42+00:00
     "last_verified_at": "2026-07-04T09:20:31Z",
     "media_count": 8,
     "name": "ChatGPT Canvas Client Proposal Polish — 7 tips",
-    "next_run_at": "2026-07-04T10:13:20.873513+00:00",
+    "next_run_at": "2026-07-05T01:14:46.958513+00:00",
     "process_check": "2026-07-04T09:20:31Z",
     "quality_gate": {
       "cta_counted_as_tip": false,
@@ -1945,7 +1938,7 @@ Last updated: 2026-07-04T16:02:42+00:00
   },
   {
     "audience": "Thai clinics, hotels, tours, tutors, repair shops, retail teams, and service SMEs where price/package/policy changes make staff answer incorrectly.",
-    "cron_next_run_at": "2026-07-04T10:13:20.873513+00:00",
+    "cron_next_run_at": "2026-07-05T01:14:46.958513+00:00",
     "decision_rule": "Continue/remix into clinic price-change, hotel cancellation-policy, repair warranty, and tutor course-policy variants if target hits; if weak, rehook around “ตอบราคาเก่าเสียลูกค้า”; stop after 2 weak NotebookLM policy-update variants.",
     "hook": "ราคา/โปร/นโยบายเปลี่ยนแล้วทีมยังตอบแบบเก่า? 7 วิธีใช้ NotebookLM หา answer card ที่ต้องแก้ทันที",
     "last_verified_at": "2026-07-04T09:20:31Z",
@@ -1979,78 +1972,79 @@ Last updated: 2026-07-04T16:02:42+00:00
 
 ## Latest experiment creator
 {
-  "checked_at": "2026-07-04T03:20:32Z",
+  "checked_at": "2026-07-05T12:00:57.797613+00:00",
   "classification": "draft_only_recovery_backlog",
+  "data_signal": "KPI leader is CTA-stripped ChatGPT productivity/work tips at 51,391 views and 615 shares; no posts in last 72h, stale analytics, and zero current breakout candidates. Prioritize practical Thai numbered-tip carousels for ChatGPT and NotebookLM, plus one Canva AI expansion.",
   "experiments": [
     {
-      "audience": "Thai SMEs, freelancers, admins, agencies, clinics/shops that answer customers daily",
+      "audience": "Thai office workers, freelancers, team leads, and SME operators sending work to a boss or client",
       "classification": "draft_only_recovery_backlog",
-      "decision_rule": "Continue if saves/shares beat baseline or comments request templates; remix by industry if strong; stop if <1,000 views and no saves/comments after 24h.",
-      "hook": "ตอบลูกค้าแล้วกลัวพลาด? 8 วิธีใช้ ChatGPT เช็กข้อความก่อนส่ง",
-      "name": "ChatGPT Client Reply Quality Check — 8 tips",
-      "source_id": "yt-gFSkmD8vbfg",
-      "target_24h": ">=2,500 views or share_rate >=0.8%; continue/remix if saves/comments show template demand",
-      "target_2h": ">=300 views, >=3 shares/comments, or comments asking for reply template",
+      "decision_rule": "Continue/remix into report, proposal, and client-update variants if target hits; stop or rehook if below 800 views with low save/share/comment rate after 24h.",
+      "hook": "ส่งงานให้หัวหน้าแล้วกลัวโดนแก้? 8 วิธีใช้ ChatGPT เช็กงานก่อนส่ง",
+      "name": "ChatGPT Boss-Ready Work Check — 8 tips",
+      "source_id": "kpi-exp-20260705-chatgpt-boss-ready-work-check-v1",
+      "target_24h": ">=2,500 views or share_rate/save_rate >=0.8%; continue/remix if comments ask for checklist/template; stop if <800 views and <2 saves/shares.",
+      "target_2h": ">=300 views or >=3 saves/shares/comments asking for checklist/template",
       "tips": [
-        "วางข้อความร่าง + บอกประเภทธุรกิจ/ลูกค้า",
-        "ให้ ChatGPT เช็กความชัดเจนและคำที่ลูกค้าอาจงง",
-        "ขอเวอร์ชันสุภาพ/สั้น/เป็นกันเอง 3 แบบ",
-        "ให้ตรวจว่ามีการรับปากเกินจริงหรือไม่",
-        "ให้ดึงตัวเลข/เงื่อนไข/ราคา/วันส่งของมาเป็น bullet",
-        "ให้สร้างคำถามกลับเมื่อข้อมูลลูกค้ายังไม่พอ",
-        "ให้ทำ final checklist ก่อนกดส่ง",
-        "เก็บคำตอบที่ใช้บ่อยเป็น template ใน Project"
+        "ใส่โจทย์งาน + คนอ่าน + เป้าหมายก่อนให้ AI ตรวจ",
+        "ขอให้ ChatGPT หา 3 จุดที่ยังไม่ชัด",
+        "ให้ AI แปลงประโยคยาวเป็น bullet สั้น",
+        "ให้ AI เช็กน้ำเสียง: สุภาพ มั่นใจ ไม่เว่อร์",
+        "ขอเวอร์ชันสั้นสำหรับ LINE/Slack และเวอร์ชันละเอียดสำหรับอีเมล",
+        "ให้ AI สร้าง checklist ก่อนกดส่ง",
+        "ขอคำถามที่หัวหน้า/ลูกค้าอาจถามกลับ",
+        "ให้ AI ทำ final proofread เฉพาะตัวเลข ชื่อคน วันเวลา และ deadline"
       ],
-      "tool": "ChatGPT / Projects / Custom Instructions",
-      "why_views_saves": "Best post is ChatGPT productivity/work tips at 51,391 views and 615 shares; this expands the same practical-work winner into a daily customer-facing pain with high save/template value."
+      "tool": "ChatGPT",
+      "why_views_saves": "Best post is ChatGPT productivity/work tips at 51,391 views and 615 shares; this repeats the proven practical-work utility without copying the same tip list."
     },
     {
-      "audience": "Thai shop owners, multi-branch SMEs, training/admin teams, support leads",
+      "audience": "Thai shop owners, admins, support teams, multi-branch SMEs, trainers, and sales teams",
       "classification": "draft_only_recovery_backlog",
-      "decision_rule": "Continue/remix for clinics/hotels/shops if save/share signal appears; stop if low engagement and no template questions.",
-      "hook": "ทีมตอบไม่เหมือนกัน? 7 วิธีใช้ NotebookLM ทำ FAQ จากเอกสารจริง",
+      "decision_rule": "Continue/remix by industry if owners ask for FAQ examples; stop if <800 views and no saves/template comments after 24h.",
+      "hook": "ทีมตอบลูกค้าไม่เหมือนกัน? 7 วิธีใช้ NotebookLM ทำ FAQ จากเอกสารจริง",
       "name": "NotebookLM Staff FAQ From Real Docs — 7 tips",
-      "source_id": "yt-gFSkmD8vbfg",
-      "target_24h": ">=2,500 views or share_rate >=0.8%; continue if owners ask how to upload docs or make answer cards",
-      "target_2h": ">=250 views, >=3 saves/shares/comments, or comments asking for FAQ template",
+      "source_id": "kpi-exp-20260705-notebooklm-staff-faq-real-docs-v1",
+      "target_24h": ">=2,500 views or save_rate/share_rate >=0.8%; continue if owners ask how to upload docs or make answer cards",
+      "target_2h": ">=250 views or >=3 saves/shares/comments asking how to upload docs",
       "tips": [
-        "อัปโหลด SOP/ราคา/นโยบาย/คำถามลูกค้าจริง",
-        "ให้ NotebookLM สรุปคำถามที่เจอบ่อยเป็นหมวด",
-        "ขอคำตอบสั้นสำหรับแอดมินใช้หน้าแชท",
-        "ให้ทำคำตอบแบบมีแหล่งอ้างอิงจากเอกสาร",
-        "ถามเคสยาก เช่น คืนเงิน/เลื่อนนัด/สินค้าเสีย",
-        "สร้าง answer card ให้ทีมใช้เหมือนกันทุกสาขา",
-        "ทบทวนทุกสัปดาห์แล้วเพิ่มคำถามใหม่จากแชทจริง"
+        "อัปโหลดไฟล์จริง: ราคา เงื่อนไขส่งของ คืนสินค้า SOP",
+        "ให้ NotebookLM สรุปคำถามลูกค้าที่น่าจะถามซ้ำ",
+        "ขอคำตอบแบบสั้นสำหรับแชต และแบบละเอียดสำหรับทีม",
+        "ให้ AI อ้างอิงแหล่งที่มาจากเอกสารก่อนเอาไปใช้",
+        "ทำการ์ด FAQ 10 ข้อให้แอดมินคัดลอกได้",
+        "แยกคำถามที่ AI ห้ามตอบเอง เช่น เคลม/กฎหมาย/สุขภาพ",
+        "อัปเดตเอกสารทุกครั้งที่ราคา/โปร/นโยบายเปลี่ยน"
       ],
       "tool": "NotebookLM",
-      "why_views_saves": "NotebookLM is a Thailand-priority practical tool; source-grounded FAQ solves trust/consistency and should earn saves from owners who fear wrong customer answers."
+      "why_views_saves": "NotebookLM is a Thailand-priority practical tool with high save potential for teams; the no-posts-in-72h issue needs useful draft backlog, not generic AI news."
     },
     {
-      "audience": "Thai sellers, cafes, service businesses, marketers making promo graphics",
+      "audience": "Thai online sellers, restaurants/cafes, clinics, salons, local service SMEs, and marketers making promo graphics",
       "classification": "draft_only_recovery_backlog",
-      "decision_rule": "Continue with before/after visual remix if saves are strong; remix to cafe/clinic/online seller niches; stop if viewers do not save/comment.",
+      "decision_rule": "Continue/remix into product-photo, restaurant, clinic, and service-package examples if saves/comments are strong; stop Canva variants after 2 misses below channel average.",
       "hook": "โปรโมชันสวยแต่คนไม่กด? 6 วิธีใช้ Canva AI ทำภาพขายให้เข้าใจใน 3 วิ",
       "name": "Canva AI Promo Design Fix — 6 tips",
-      "source_id": "yt-gFSkmD8vbfg",
-      "target_24h": ">=2,000 views or share_rate >=0.8%; continue if saves/comments show design-check demand",
-      "target_2h": ">=220 views, >=2 saves/shares/comments, or comments asking for before/after template",
+      "source_id": "kpi-exp-20260705-canva-ai-promo-3sec-fix-v1",
+      "target_24h": ">=2,000 views or save_rate/share_rate >=0.8%; continue/remix for product-photo/restaurant/clinic examples if saved; stop if <700 views and no saves/comments.",
+      "target_2h": ">=220 views or >=2 saves/shares/comments asking for before/after template",
       "tips": [
-        "เริ่มจากข้อเสนอเดียว: ลดอะไร/ให้ใคร/ถึงวันไหน",
-        "ให้ Canva สร้าง 3 layout แล้วเลือกแบบอ่านง่ายสุด",
-        "ใส่ราคา/ผลลัพธ์/CTA ใหญ่กว่าข้อความรอง",
-        "ใช้ brand kit หรือสีประจำร้านให้คนจำได้",
-        "ทำเวอร์ชันสี่เหลี่ยม/Story/LINE ก่อนโพสต์จริง",
-        "เช็กมือถือ: อ่านได้ใน 3 วิหรือยัง"
+        "ใส่ข้อเสนอหลัก 1 อย่างก่อน ไม่ยัดทุกอย่างลงภาพ",
+        "ให้ Canva AI ทำ 3 layout: ลดราคา / แพ็กเกจ / before-after",
+        "เช็ก hierarchy: ราคาใหญ่กว่าเงื่อนไข รายละเอียดเล็กกว่า CTA",
+        "ใช้ภาพสินค้า/บริการจริงเป็นจุดนำสายตา",
+        "ขอเวอร์ชัน square, story, LINE OA แล้วเทียบ readability",
+        "ทดสอบ 3 วิ: คนเห็นแล้วรู้ไหมว่าขายอะไรและต้องทำอะไรต่อ"
       ],
       "tool": "Canva AI / Magic Design",
-      "why_views_saves": "Expansion beyond ChatGPT/NotebookLM with clear SME visual utility; Canva is familiar in Thailand and the 3-second promo critique has strong save/share potential for sellers."
+      "why_views_saves": "Clear expansion software test with SME visual utility and natural GenLabs fit; likely to earn saves because it teaches a quick design-check workflow."
     }
   ],
-  "gate": "Draft-only backlog. Do not publish/spend/generate until result-closure/source-lane gates clear; educational carousels must use GPT Image 2 Thai sketchnote pipeline and pass promise accounting/source-topic QA.",
+  "gate": "Draft-only backlog. Do not publish/spend/generate until result-closure/source-lane/analytics gates clear; educational carousels must use GPT Image 2 Thai sketchnote pipeline and pass promise accounting/source-topic QA.",
   "source_ids": [
-    "kpi-exp-20260703-chatgpt-client-reply-quality-v1",
-    "kpi-exp-20260703-notebooklm-staff-faq-docs-v1",
-    "kpi-exp-20260703-canva-ai-promo-design-fix-v1"
+    "kpi-exp-20260705-chatgpt-boss-ready-work-check-v1",
+    "kpi-exp-20260705-notebooklm-staff-faq-real-docs-v1",
+    "kpi-exp-20260705-canva-ai-promo-3sec-fix-v1"
   ]
 }
 

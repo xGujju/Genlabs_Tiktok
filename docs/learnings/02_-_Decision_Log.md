@@ -211,3 +211,13 @@
 - Expansion rule: Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude tools, and Zapier/Make are allowed only as concrete software-tip workflow tests with visible promised tip counts, source-topic preservation, anti-repetition checks, and CTA separated from content tips.
 - Consequence: if result closure is overdue or source lanes are saturated, create draft-only recovery backlog/source replenishment tasks instead of near-duplicate generation. No public posting/spend without explicit approval.
 - Revisit trigger: next 3-day review or when a NotebookLM/software-tip post gets 2h/24h metrics above target.
+---
+
+## 2026-07-07 — GenLabs next production bias is ChatGPT + NotebookLM numbered software tips
+- **Project:** [[Aion OS/Projects/genlabs-ai-learning-state]]
+- **Decision:** For the next production window, bias GenLabs/Zernio source replenishment toward practical numbered Thai ChatGPT work-output carousels and NotebookLM source-grounded SOP/PDF/FAQ/team-answer carousels. Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude tools, and Zapier/Make are expansion tests only when they teach a concrete software workflow with visible promised tips and pass anti-duplication/source-topic QA.
+- **Why:** Current KPI proof is still ChatGPT practical productivity/work-output (`7634027210248097042` at 51,391 views / 615 shares). Sway says NotebookLM is popular in Thailand and it fits high-save controlled-source business workflows; factory source lanes are saturated and need fresh, non-repeating inputs.
+- **Consequences:** Do not feed generic AI-agent/repeated-work filler or broad audience-list hooks into the factory. Keep the hourly factory enabled/draft-only, replenish fresh source records, close result loops, and only use expansion tools as concrete numbered software-tip tests.
+- **Revisit Trigger:** Revisit after fresh ChatGPT/NotebookLM posts have 2h/24h metrics or when one expansion tool produces repeatable above-average saves/shares/views.
+- **Review marker:** `ZG-SELF-IMPROVEMENT-2026-07-07-1004`
+

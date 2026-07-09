@@ -1,0 +1,310 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0aa177d9/cR-Thn0xqweBMDgSnBP2L_lPTKLKfk.png",
+    "https://v3b.fal.media/files/b/0aa177e0/w571P6rj2wbMYUoQLpU0r_lgCEA22Z.png",
+    "https://v3b.fal.media/files/b/0aa177e5/dVJXUzqAJF6SH0PMiDLOF_AjP59XQG.png",
+    "https://v3b.fal.media/files/b/0aa177ec/k1LIU9-f-ZcJdHFVjt5-o_Qb7wakhL.png",
+    "https://v3b.fal.media/files/b/0aa177f0/f-TPeLBlR5I0Xg9Gip_Ii_FleP7gYd.png",
+    "https://v3b.fal.media/files/b/0aa177f4/VWimL8Z6Sbkj6m66bLZe__YOlJhmtw.png",
+    "https://v3b.fal.media/files/b/0aa177f8/NlffunMRLfnKTlUKt9vTV_yapiSSgr.png",
+    "https://v3b.fal.media/files/b/0aa177fc/ZpSaAZ2zKCP9Sa5UUFB6y_Igwmzlkj.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 8,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/8 role=hook. Thai copy: ใช้ Claude Code ทำหน้าเว็บร้านแบบตรวจได้ก่อนปล่อยจริง\nClaude Code • LLM • Token • workflow. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "ใช้ Claude Code ทำหน้าเว็บร้านแบบตรวจได้ก่อนปล่อยจริง\nClaude Code • LLM • Token • workflow",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/8 role=problem. Thai copy: ปัญหา: SME อยากได้เว็บโปรโมชันเร็ว แต่ถ้าสั่ง AI กว้างเกินไปจะได้โค้ดที่ตรวจยาก แก้ยาก และเสี่ยงพังก่อนขายจริง. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: SME อยากได้เว็บโปรโมชันเร็ว แต่ถ้าสั่ง AI กว้างเกินไปจะได้โค้ดที่ตรวจยาก แก้ยาก และเสี่ยงพังก่อนขายจริง",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/8 role=trend. Thai copy: ทำไมควรสนใจ:\nClaude Code เหมาะกับงานที่มี brief, input/output, ไฟล์ที่เกี่ยวข้อง และ checklist ทดสอบ. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nClaude Code เหมาะกับงานที่มี brief, input/output, ไฟล์ที่เกี่ยวข้อง และ checklist ทดสอบ",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/8 role=tips. Thai copy: ลองใช้แบบนี้:\n1) เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์\n2) ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ\n3) ขอ responsive landing page พร้อม copy สั้น\n4) ให้ Claude Code สรุป diff และไฟล์ที่แก้. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์\n2) ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ\n3) ขอ responsive landing page พร้อม copy สั้น\n4) ให้ Claude Code สรุป diff และไฟล์ที่แก้",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/8 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/8 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\n5) ทดสอบ mobile ปุ่ม CTA form และ tracking ก่อน deploy. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\n5) ทดสอบ mobile ปุ่ม CTA form และ tracking ก่อน deploy",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/8 role=framework. Thai copy: จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ. Visual direction: five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "framework",
+        "thai_copy": "จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ",
+        "visual_direction": "five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat"
+      },
+      {
+        "image_prompt": "Slide 8/8 role=cta. Thai copy: ลองวันนี้:\nวันนี้ลองให้ Claude Code ทำ landing page 1 หน้า พร้อม diff summary และ checklist ทดสอบก่อนปล่อยจริง. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 8,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้ลองให้ Claude Code ทำ landing page 1 หน้า พร้อม diff summary และ checklist ทดสอบก่อนปล่อยจริง",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "yt-CC-BicbKeMU",
+    "source_url": "https://www.youtube.com/watch?v=CC-BicbKeMU",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://www.youtube.com/watch?v=CC-BicbKeMU",
+        "Keywords: Claude Code, LLM, Token, workflow, AI automation, n8n",
+        "This is trending because people can copy the workflow immediately instead of only reading AI news."
+      ],
+      "glossary": {
+        "AI automation": "ระบบอัตโนมัติด้วย AI",
+        "Claude Code": "Claude Code",
+        "LLM": "โมเดลภาษาขนาดใหญ่",
+        "Token": "ชิ้นข้อความที่ AI ใช้นับ",
+        "n8n": "n8n",
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "Claude Code",
+        "LLM",
+        "Token",
+        "workflow",
+        "AI automation",
+        "n8n"
+      ],
+      "source_id": "yt-CC-BicbKeMU",
+      "source_url": "https://www.youtube.com/watch?v=CC-BicbKeMU",
+      "thai_call_to_action": "วันนี้ลองให้ Claude Code ทำ landing page 1 หน้า พร้อม diff summary และ checklist ทดสอบก่อนปล่อยจริง",
+      "thai_hook": "ใช้ Claude Code ทำหน้าเว็บร้านแบบตรวจได้ก่อนปล่อยจริง",
+      "thai_problem": "SME อยากได้เว็บโปรโมชันเร็ว แต่ถ้าสั่ง AI กว้างเกินไปจะได้โค้ดที่ตรวจยาก แก้ยาก และเสี่ยงพังก่อนขายจริง",
+      "thai_tips": [
+        "เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์",
+        "ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ",
+        "ขอ responsive landing page พร้อม copy สั้น",
+        "ให้ Claude Code สรุป diff และไฟล์ที่แก้",
+        "ทดสอบ mobile ปุ่ม CTA form และ tracking ก่อน deploy"
+      ],
+      "thai_trend_angle": "Claude Code เหมาะกับงานที่มี brief, input/output, ไฟล์ที่เกี่ยวข้อง และ checklist ทดสอบ ไม่ใช่แค่บอกให้สร้างเว็บให้หน่อย"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "KJ Rainey",
+    "clean_headline": "FULL 3 HOUR COURSE: Automate Your Business With Claude AI (2026) KJ Rainey USEFUL LINKS: - download my Level 1 CLAUDE.md: ...",
+    "clean_summary": "FULL 3 HOUR COURSE: Automate Your Business With Claude AI (2026) KJ Rainey USEFUL LINKS: - download my Level 1 CLAUDE.md: ... Transcript: FULL 3 HOUR COURSE: Automate Your Business With Claude AI (2026) Description FULL 3 HOUR COURSE: Automate Your Business With Claude AI (2026) 1.6K Likes 29,529 Views Jul 2 2026 🫴🏼 🔶 USEFUL LINKS: * download my Level 1 CLAUDE.md: [ * download my Automation Folder Template: [ * download claude desktop app: [ * download claude code in terminal: [ * download obsidian: [ 🧊 MOAR LINKS: * work with my agency: [ * 1-1 AI consulting: [ * 7-day free trial of my web app (SGNL): [ * superwhisper: [ (my fav text to speech tool) * claude cowork masterclass (full beginner guide): [ ⏩ TIMESTAMPS: [00:00]( - Intro 📕 CHAPTER 1 - Principles [1:18](h ## Chapters View all [![Image 8]( ### Intro ### Intro 0:00]( ### [Intro]( 0:00 [![Image 9]( ### Principles of AI ### Principles of AI 1:18]( ### [Principles of AI]( 1:18 [![Image 10]( ### Principles of Systems & Automations ### Principles of Systems & Automations 22:00]( ### [Principles of Systems & Automations]( 22:00 [![Image 11]( ### How to build systems with AI ### How to build systems with AI 52:48]( ### [How to build systems with AI]( 52:48 [![Image 12]( ### KJ's Automation Building Process ### KJ's Automation Building Process 1:31:41]( ### [KJ's Automation Building Process]( 1:31:41 [![Image 13]( ### Building Level 1 Automations ### Building Level 1 Automations 1:53:48]( ### [Building Level 1 Automations]( 1:53:48 [![Image 14]( ### Building Level 2 Automations ### Building Level 2 Automations 2:08:50]( ### [Building Level 2 Automations]( 2:08:50 [![Image 15]( ### Building Level 3 Automations ### Building Level 3 Automations 2:22:11]( ### [Building Level 3 Automations]( 2:22:11 Transcript Follow along using the transcript. Show transcript [![Image 16]( ### KJ Rainey 41.7K subscribers]( [Videos]( 17]( IG]( 18]( secret channel](",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 29529,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "Claude Code",
+      "LLM",
+      "Token",
+      "workflow",
+      "AI automation",
+      "n8n"
+    ],
+    "original_language": "en",
+    "raw_text": "YouTube title: FULL 3 HOUR COURSE: Automate Your Business With Claude AI (2026)\nChannel: KJ Rainey\nDescription: USEFUL LINKS: - download my Level 1 CLAUDE.md: ...\nTranscript:\nTitle: FULL 3 HOUR COURSE: Automate Your Business With Claude AI (2026) Description FULL 3 HOUR COURSE: Automate Your Business With Claude AI (2026) 1.6K Likes 29,529 Views Jul 2 2026 🫴🏼 🔶 USEFUL LINKS: * download my Level 1 CLAUDE.md: [https://www.skool.com/useful-ai/class...](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fwww.skool.com%2Fuseful-ai%2Fclassroom%2F3d2ca754%3Fmd%3D856bfa167f72412db302e397341b1486&v=CC-BicbKeMU) * download my Automation Folder Template: [https://www.skool.com/useful-ai/class...](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fwww.skool.com%2Fuseful-ai%2Fclassroom%2F3d2ca754%3Fmd%3D856bfa167f72412db302e397341b1486&v=CC-BicbKeMU) * download claude desktop app: [https://claude.ai/download/](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fclaude.ai%2Fdownload%2F&v=CC-BicbKeMU) * download claude code in terminal: [https://code.claude.com/docs/en/overview](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Foverview&v=CC-BicbKeMU) * download obsidian: [https://obsidian.md/](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fobsidian.md%2F&v=CC-BicbKeMU) 🧊 MOAR LINKS: * work with my agency: [https://www.seven80labs.com/](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fwww.seven80labs.com%2F&v=CC-BicbKeMU) * 1-1 AI consulting: [https://cal.com/kj-rainey-bsqmsc/1-1-...](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fcal.com%2Fkj-rainey-bsqmsc%2F1-1-ai-consulting&v=CC-BicbKeMU) * 7-day free trial of my web app (SGNL): [https://www.sgnl.so/](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fwww.sgnl.so%2F&v=CC-BicbKeMU) * superwhisper: [https://superwhisper.com/](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fsuperwhisper.com%2F&v=CC-BicbKeMU) (my fav text to speech tool) * claude cowork masterclass (full beginner guide): [https://www.skool.com/useful-ai/class...](https://www.youtube.com/redirect?event=video_description&redir_token=REDACTED&q=https%3A%2F%2Fwww.skool.com%2Fuseful-ai%2Fclassroom%2Ff195d4a5%3Fmd%3Da7e3fe1d42a044cc89a1ccfe2f5dfc14&v=CC-BicbKeMU) ⏩ TIMESTAMPS: [00:00](https://www.youtube.com/watch?v=CC-BicbKeMU) - Intro 📕 CHAPTER 1 - Principles [1:18](h ## Chapters View all [![Image 8](https://www.youtube.com/watch?v=CC-BicbKeMU) ### Intro ### Intro 0:00](https://www.youtube.com/watch?v=CC-BicbKeMU) ### [Intro](https://www.youtube.com/watch?v=CC-BicbKeMU) 0:00 [![Image 9](https://www.youtube.com/watch?v=CC-BicbKeMU) ### Principles of AI ### Principles of AI 1:18](https://www.youtube.com/watch?v=CC-BicbKeMU&t=78s) ### [Principles of AI](https://www.youtube.com/watch?v=CC-BicbKeMU&t=78s) 1:18 [![Image 10](https://www.youtube.com/watch?v=CC-BicbKeMU) ### Principles of Systems & Automations ### Principles of Systems & Automations 22:00](https://www.youtube.com/watch?v=CC-BicbKeMU&t=1320s) ### [Principles of Systems & Automations](https://www.youtube.com/watch?v=CC-BicbKeMU&t=1320s) 22:00 [![Image 11](https://www.youtube.com/watch?v=CC-BicbKeMU) ### How to build systems with AI ### How to build systems with AI 52:48](https://www.youtube.com/watch?v=CC-BicbKeMU&t=3168s) ### [How to build systems with AI](https://www.youtube.com/watch?v=CC-BicbKeMU&t=3168s) 52:48 [![Image 12](https://www.youtube.com/watch?v=CC-BicbKeMU) ### KJ's Automation Building Process ### KJ's Automation Building Process 1:31:41](https://www.youtube.com/watch?v=CC-BicbKeMU&t=5501s) ### [KJ's Automation Building Process](https://www.youtube.com/watch?v=CC-BicbKeMU&t=5501s) 1:31:41 [![Image 13](https://www.youtube.com/watch?v=CC-BicbKeMU) ### Building Level 1 Automations ### Building Level 1 Automations 1:53:48](https://www.youtube.com/watch?v=CC-BicbKeMU&t=6828s) ### [Building Level 1 Automations](https://www.youtube.com/watch?v=CC-BicbKeMU&t=6828s) 1:53:48 [![Image 14](https://www.youtube.com/watch?v=CC-BicbKeMU) ### Building Level 2 Automations ### Building Level 2 Automations 2:08:50](https://www.youtube.com/watch?v=CC-BicbKeMU&t=7730s) ### [Building Level 2 Automations](https://www.youtube.com/watch?v=CC-BicbKeMU&t=7730s) 2:08:50 [![Image 15](https://www.youtube.com/watch?v=CC-BicbKeMU) ### Building Level 3 Automations ### Building Level 3 Automations 2:22:11](https://www.youtube.com/watch?v=CC-BicbKeMU&t=8531s) ### [Building Level 3 Automations](https://www.youtube.com/watch?v=CC-BicbKeMU&t=8531s) 2:22:11 Transcript Follow along using the transcript. Show transcript [![Image 16](https://www.youtube.com/watch?v=CC-BicbKeMU) ### KJ Rainey 41.7K subscribers](https://www.youtube.com/@kjplayslife) [Videos](https://www.youtube.com/channel/UC63fON8nPB6FfHOJi_wCZXw/videos)[About](https://www.youtube.com/channel/UC63fON8nPB6FfHOJi_wCZXw/about)[![Image 17](https://www.youtube.com/watch?v=CC-BicbKeMU) IG](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=REDACTED&q=https%3A%2F%2Fwww.instagram.com%2Fkj.rainey%2F)[![Image 18](https://www.youtube.com/watch?v=CC-BicbKeMU) secret channel](https://www.youtu",
+    "source_id": "yt-CC-BicbKeMU",
+    "source_url": "https://www.youtube.com/watch?v=CC-BicbKeMU",
+    "why_it_matters": "This is trending because people can copy the workflow immediately instead of only reading AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้ลองให้ Claude Code ทำ landing page 1 หน้า พร้อม diff summary และ checklist ทดสอบก่อนปล่อยจริง",
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=CC-BicbKeMU",
+      "Keywords: Claude Code, LLM, Token, workflow, AI automation, n8n",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "hook": "ใช้ Claude Code ทำหน้าเว็บร้านแบบตรวจได้ก่อนปล่อยจริง",
+    "original_keywords": [
+      "Claude Code",
+      "LLM",
+      "Token",
+      "workflow",
+      "AI automation",
+      "n8n"
+    ],
+    "original_language": "en",
+    "problem": "SME อยากได้เว็บโปรโมชันเร็ว แต่ถ้าสั่ง AI กว้างเกินไปจะได้โค้ดที่ตรวจยาก แก้ยาก และเสี่ยงพังก่อนขายจริง",
+    "source_id": "yt-CC-BicbKeMU",
+    "source_url": "https://www.youtube.com/watch?v=CC-BicbKeMU",
+    "tips": [
+      "เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์",
+      "ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ",
+      "ขอ responsive landing page พร้อม copy สั้น",
+      "ให้ Claude Code สรุป diff และไฟล์ที่แก้",
+      "ทดสอบ mobile ปุ่ม CTA form และ tracking ก่อน deploy"
+    ],
+    "trend_angle": "Claude Code เหมาะกับงานที่มี brief, input/output, ไฟล์ที่เกี่ยวข้อง และ checklist ทดสอบ ไม่ใช่แค่บอกให้สร้างเว็บให้หน่อย"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "cR-Thn0xqweBMDgSnBP2L_lPTKLKfk.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa177d9/cR-Thn0xqweBMDgSnBP2L_lPTKLKfk.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260708T200924Z-yt-CC-BicbKeMU/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "w571P6rj2wbMYUoQLpU0r_lgCEA22Z.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa177e0/w571P6rj2wbMYUoQLpU0r_lgCEA22Z.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260708T200924Z-yt-CC-BicbKeMU/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "dVJXUzqAJF6SH0PMiDLOF_AjP59XQG.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa177e5/dVJXUzqAJF6SH0PMiDLOF_AjP59XQG.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260708T200924Z-yt-CC-BicbKeMU/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "k1LIU9-f-ZcJdHFVjt5-o_Qb7wakhL.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa177ec/k1LIU9-f-ZcJdHFVjt5-o_Qb7wakhL.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260708T200924Z-yt-CC-BicbKeMU/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "f-TPeLBlR5I0Xg9Gip_Ii_FleP7gYd.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa177f0/f-TPeLBlR5I0Xg9Gip_Ii_FleP7gYd.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260708T200924Z-yt-CC-BicbKeMU/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "VWimL8Z6Sbkj6m66bLZe__YOlJhmtw.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa177f4/VWimL8Z6Sbkj6m66bLZe__YOlJhmtw.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260708T200924Z-yt-CC-BicbKeMU/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "NlffunMRLfnKTlUKt9vTV_yapiSSgr.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa177f8/NlffunMRLfnKTlUKt9vTV_yapiSSgr.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260708T200924Z-yt-CC-BicbKeMU/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "ZpSaAZ2zKCP9Sa5UUFB6y_Igwmzlkj.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa177fc/ZpSaAZ2zKCP9Sa5UUFB6y_Igwmzlkj.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260708T200924Z-yt-CC-BicbKeMU/slide-8.png",
+      "slide_index": 8,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 9,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260708T200924Z-yt-CC-BicbKeMU/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: SME อยากได้เว็บโปรโมชันเร็ว แต่ถ้าสั่ง AI กว้างเกินไปจะได้โค้ดที่ตรวจยาก แก้ยาก และเสี่ยงพังก่อนขายจริง\n\n📌 ทำไมควรเซฟโพสต์นี้: Claude Code เหมาะกับงานที่มี brief, input/output, ไฟล์ที่เกี่ยวข้อง และ checklist ทดสอบ ไม่ใช่แค่บอกให้สร้างเว็บให้หน่อย\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์\n\n2) ✨ ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ\n\n3) ✨ ขอ responsive landing page พร้อม copy สั้น\n\n4) ✨ ให้ Claude Code สรุป diff และไฟล์ที่แก้\n\n🧪 ลองเริ่มวันนี้: วันนี้ลองให้ Claude Code ทำ landing page 1 หน้า พร้อม diff summary และ checklist ทดสอบก่อนปล่อยจริง\n\n🧭 วิธีใช้กับงานนี้: เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์ → ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ → ขอ responsive landing page พร้อม copy สั้น\n\n🌱 มือใหม่ให้เริ่มจากเคสจริงเล็ก ๆ ของอุตสาหกรรมนี้ แล้วให้คนในทีมตรวจคำตอบก่อนใช้กับลูกค้าจริง\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเห็นว่า AI ช่วยลดงานซ้ำและทำให้บริการชัดขึ้นได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "ใช้ Claude Code ทำหน้าเว็บร้านแบบตรวจได้ก่อนปล่อยจริง #AIมือใหม่ ใช้ได้จริง"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=CC-BicbKeMU",
+      "Keywords: Claude Code, LLM, Token, workflow, AI automation, n8n",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "glossary": {
+      "AI automation": "ระบบอัตโนมัติด้วย AI",
+      "Claude Code": "Claude Code",
+      "LLM": "โมเดลภาษาขนาดใหญ่",
+      "Token": "ชิ้นข้อความที่ AI ใช้นับ",
+      "n8n": "n8n",
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "Claude Code",
+      "LLM",
+      "Token",
+      "workflow",
+      "AI automation",
+      "n8n"
+    ],
+    "source_id": "yt-CC-BicbKeMU",
+    "source_url": "https://www.youtube.com/watch?v=CC-BicbKeMU",
+    "thai_call_to_action": "วันนี้ลองให้ Claude Code ทำ landing page 1 หน้า พร้อม diff summary และ checklist ทดสอบก่อนปล่อยจริง",
+    "thai_hook": "ใช้ Claude Code ทำหน้าเว็บร้านแบบตรวจได้ก่อนปล่อยจริง",
+    "thai_problem": "SME อยากได้เว็บโปรโมชันเร็ว แต่ถ้าสั่ง AI กว้างเกินไปจะได้โค้ดที่ตรวจยาก แก้ยาก และเสี่ยงพังก่อนขายจริง",
+    "thai_tips": [
+      "เขียน brief: โปรโมชัน กลุ่มลูกค้า CTA และสีแบรนด์",
+      "ระบุไฟล์ที่ให้แก้และไฟล์ที่ห้ามแตะ",
+      "ขอ responsive landing page พร้อม copy สั้น",
+      "ให้ Claude Code สรุป diff และไฟล์ที่แก้",
+      "ทดสอบ mobile ปุ่ม CTA form และ tracking ก่อน deploy"
+    ],
+    "thai_trend_angle": "Claude Code เหมาะกับงานที่มี brief, input/output, ไฟล์ที่เกี่ยวข้อง และ checklist ทดสอบ ไม่ใช่แค่บอกให้สร้างเว็บให้หน่อย"
+  }
+}

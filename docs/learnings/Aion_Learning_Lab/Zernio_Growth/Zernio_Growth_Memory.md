@@ -1,12 +1,15 @@
 # Zernio Growth Memory
 
-Last updated: 2026-07-08T14:25:50Z
+Last updated: 2026-07-09T16:04:23Z
 
 ## KPI
 - Goal: one TikTok post reaches **100,000 views**.
 - Best post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
 - Current views: 51391
 - Gap: 48609
+
+## Last growth check
+- 2026-07-09T16:04:23Z: no formal breakout after 16:00 normal baseline and 16:04 post-import read-only comparison (`mover_count=0`). Best/closest remains CTA-stripped ChatGPT 8 productivity/workflow tips `7634027210248097042` at 51,391 views / 615 shares / gap 48,609. Strongest pre-run mover `7653829036090641684` was +5 views / 10.14 hourly only, below breakout threshold. Action: compact memory/tasks updated; keep draft-only/no public posting/no spend; prioritize source replenishment and overdue result closure.
 
 ## Winning pattern
 {
@@ -113,17 +116,17 @@ Last updated: 2026-07-08T14:25:50Z
 ## Current breakout watch
 {
   "status": "no_formal_breakout_current_baseline_zero_delta",
-  "pre_run_snapshot_at": "2026-07-08T12:30:50.317500+00:00",
-  "latest_snapshot_at": "2026-07-08T12:30:50.317500+00:00",
-  "latest_reconciled_snapshot_at": "2026-07-08T12:30:50.317500+00:00",
-  "latest_confirmed_snapshot_at": "2026-07-08T12:30:50.317500+00:00",
-  "previous_snapshot_at": "2026-07-08T12:00:12.061307+00:00",
+  "pre_run_snapshot_at": "2026-07-09T12:00:23.007621+00:00",
+  "latest_snapshot_at": "2026-07-09T12:00:23.007621+00:00",
+  "latest_reconciled_snapshot_at": "2026-07-09T12:00:23.007621+00:00",
+  "latest_confirmed_snapshot_at": "2026-07-09T12:00:23.007621+00:00",
+  "previous_snapshot_at": "2026-07-09T11:30:37.759713+00:00",
   "latest_confirmed_delta_views": 0,
   "latest_confirmed_hourly_velocity": 0.0,
   "formal_breakout_count": 0,
   "refresh_window_breakout_count": 0,
   "breakout_count": 0,
-  "current_reason": "2026-07-08T12:30:50.317500+00:00 normal velocity baseline found no breakout_candidates and no watched-post movement; prior positive movement is watch-only context until a later import/baseline confirms renewed velocity.",
+  "current_reason": "2026-07-09T12:00:23.007621+00:00 normal velocity baseline found no breakout_candidates and no watched-post movement; prior positive movement is watch-only context until a later import/baseline confirms renewed velocity.",
   "best_post_watch": {
     "platform_post_id": "7634027210248097042",
     "label": "ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items",
@@ -137,16 +140,16 @@ Last updated: 2026-07-08T14:25:50Z
     "caveat": "Best/closest-to-100k watch only when current normal baseline has no breakout candidates; protected CTA is not hook/topic evidence."
   },
   "previous_positive_momentum": {
-    "delta": 60,
-    "gap": 84260,
-    "hourly": 119.28,
-    "label": "เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต…",
-    "latest_confirmed_snapshot_at": "2026-07-04T03:30:34.682642+00:00",
-    "note": "Superseded as current by a later normal zero-candidate baseline; keep as watch-only context until new movement is confirmed.",
-    "platform_post_id": "7634893611389259016",
-    "shares": 135,
     "status": "previous_positive_momentum_watch_only_context",
-    "views": 15740
+    "platform_post_id": "7634785623219440914",
+    "label": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: SME อยากได้เว็บโปรโมชันเร็ว แต่ถ้…",
+    "views": 5872,
+    "shares": 25,
+    "gap": 94128,
+    "delta": 59,
+    "hourly": 118.68,
+    "latest_confirmed_snapshot_at": "2026-07-09T05:30:27.320673+00:00",
+    "note": "Superseded as current by a later normal zero-candidate baseline; keep as watch-only context until new movement is confirmed."
   },
   "public_posting": false,
   "spending_triggered_by_this_run": false,
@@ -167,19 +170,19 @@ Last updated: 2026-07-08T14:25:50Z
   "latest_live_imported_at": "2026-06-21T13:30:59.573495+00:00",
   "primary_analytics_last_updated": "2026-06-20 22:41:58",
   "secondary_platform_post_id": "7635310153126087954",
-  "secondary_views": 10260,
+  "secondary_views": 10263,
   "secondary_shares": 97,
-  "secondary_gap_to_100k": 89740,
-  "secondary_imported_at": "2026-07-08T12:32:00.150209+00:00",
-  "secondary_analytics_last_updated": "2026-07-08 04:22:35",
+  "secondary_gap_to_100k": 89737,
+  "secondary_imported_at": "2026-07-09T12:01:15.003042+00:00",
+  "secondary_analytics_last_updated": "2026-07-09 04:42:01",
   "secondary_delta": 0,
   "secondary_hourly": 0.0,
   "secondary_status": "previous_positive_momentum_watch_only_context",
   "primary_latest_confirmed_delta": 0,
   "primary_latest_confirmed_hourly": 0.0,
-  "previous_positive_platform_post_id": "7634893611389259016",
-  "previous_positive_delta": 60,
-  "previous_positive_hourly": 119.28,
+  "previous_positive_platform_post_id": "7634785623219440914",
+  "previous_positive_delta": 59,
+  "previous_positive_hourly": 118.68,
   "current_breakout_platform_post_id": null,
   "current_breakout_views": null,
   "current_breakout_shares": null,
@@ -200,129 +203,35 @@ Last updated: 2026-07-08T14:25:50Z
   "latest_confirmed_breakout_hourly": 0.0,
   "post_import_refresh_window_delta_views": 0,
   "post_import_refresh_window_hourly": 0.0,
-  "latest_reconciled_snapshot_at": "2026-07-08T12:30:50.317500+00:00",
-  "latest_confirmed_snapshot_at": "2026-07-08T12:30:50.317500+00:00",
-  "latest_absolute_snapshot_at": "2026-07-08T12:40:09.911114+00:00",
+  "latest_reconciled_snapshot_at": "2026-07-09T12:00:23.007621+00:00",
+  "latest_confirmed_snapshot_at": "2026-07-09T12:00:23.007621+00:00",
+  "latest_absolute_snapshot_at": "2026-07-09T12:01:57.823549+00:00",
   "note": "Absolute metrics refreshed by zernio_growth_snapshot.py; confirmed velocity/baseline context is preserved separately."
 }
 
 ## Scheduler cadence watch
 {
-  "impact_on_kpi": "Factory scheduler cadence is current/future-scheduled; current 14:25 factory readback produced zero drafts/no payload and source-lane saturation is the active KPI blocker.",
-  "job_state": {
-    "analytics_import": {
-      "id": "93217f974384",
-      "name": "GenLabs Zernio analytics Airtable import",
-      "enabled": true,
-      "state": "scheduled",
-      "last_status": "ok",
-      "last_run_at": "2026-07-07T12:31:20.880711+00:00",
-      "next_run_at": "2026-07-07T13:00:00+00:00",
-      "schedule": {
-        "kind": "cron",
-        "expr": "*/30 * * * *",
-        "display": "*/30 * * * *"
-      },
-      "latest_output": "2026-07-07_12-31-20.md"
-    },
-    "breakout_watch": {
-      "id": "041946b1fef6",
-      "name": "hermes-breakout-watch",
-      "enabled": true,
-      "state": "scheduled",
-      "last_status": "ok",
-      "last_run_at": "2026-07-07T12:30:25.072974+00:00",
-      "next_run_at": "2026-07-07T13:00:00+00:00",
-      "schedule": {
-        "kind": "cron",
-        "expr": "*/30 * * * *",
-        "display": "*/30 * * * *"
-      },
-      "latest_output": "2026-07-07_12-30-24.md"
-    },
-    "growth_check": {
-      "id": "e7cd01098059",
-      "name": "hermes-growth-check",
-      "enabled": true,
-      "state": "scheduled",
-      "last_status": "ok",
-      "last_run_at": "2026-07-07T12:03:04.294723+00:00",
-      "next_run_at": "2026-07-07T14:00:00+00:00",
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 */2 * * *",
-        "display": "0 */2 * * *"
-      },
-      "latest_output": "2026-07-07_12-03-03.md"
-    },
-    "issue_check": {
-      "id": "e2869f58ebe9",
-      "name": "hermes-issue-check",
-      "enabled": true,
-      "state": "scheduled",
-      "last_status": "ok",
-      "last_run_at": "2026-07-07T06:40:27.370730+00:00",
-      "next_run_at": "2026-07-07T18:30:00+00:00",
-      "schedule": {
-        "kind": "cron",
-        "expr": "30 */6 * * *",
-        "display": "30 */6 * * *"
-      },
-      "latest_output": "2026-07-07_06-40-26.md"
-    },
-    "experiment_creator": {
-      "id": "784e1c3b87f6",
-      "name": "hermes-experiment-creator",
-      "enabled": true,
-      "state": "scheduled",
-      "last_status": "ok",
-      "last_run_at": "2026-07-07T12:00:58.832553+00:00",
-      "next_run_at": "2026-07-08T00:00:00+00:00",
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 */12 * * *",
-        "display": "0 */12 * * *"
-      },
-      "latest_output": "2026-07-07_12-00-57.md"
-    },
-    "educational_factory": {
-      "id": "a97a7703af32",
-      "name": "GenLabs hourly educational Zernio draft factory",
-      "enabled": true,
-      "state": "scheduled",
-      "last_status": "ok",
-      "last_run_at": "2026-07-07T12:21:10.924321+00:00",
-      "next_run_at": "2026-07-07T13:21:10.924321+00:00",
-      "schedule": {
-        "kind": "interval",
-        "minutes": 60,
-        "display": "every 60m"
-      },
-      "latest_output": "2026-07-07_12-21-10.md"
-    }
-  },
-  "latest_outputs": {
-    "analytics_import": "2026-07-07_12-31-20.md",
-    "breakout_watch": "2026-07-07_12-30-24.md",
-    "growth_check": "2026-07-07_12-03-03.md",
-    "issue_check": "2026-07-07_06-40-26.md",
-    "experiment_creator": "2026-07-07_12-00-57.md",
-    "educational_factory": "2026-07-07_12-21-10.md"
-  },
-  "process_check": "2026-07-07T12:34:00Z",
+  "issue": "zernio_factory_scheduler_cadence_lag_watch",
   "severity": "none",
-  "status": "resolved_current_tick"
+  "status": "resolved_current_tick_factory_caught_up_zero_draft_source_saturation",
+  "updated_at": "2026-07-09T13:49:02Z",
+  "latest_evidence": "13:47 factory readback: exact scheduled command and required recovery rerun both exited 0 with draft_count=0/results=[]; current state latest_social_draft_factory.json@2026-07-09T13:47:16.002596+00:00; no new auto folder/manifest/media, Airtable Carousel Posts row, outbound Zernio payload, or Zernio draft was created after the 13:46/13:47 run window. Diagnosis is source-lane/anti-repetition saturation plus a canonical selector diagnostic mismatch: existing_source_ids=496, partial_source_ids=34, combined_existing_or_partial=519, blocked_content_families=68; Evergreen 0/42, AI Words 0/8, KPI backstop 0/8; canonical diagnostic hit TypeError `_select_canonical_records() got an unexpected keyword argument existing_source_ids`. Cron a97a7703af32 remains enabled/future-scheduled next_run_at 2026-07-09T14:45:27.383242+00:00; no lingering factory/radar process at 2026-07-09T13:49:02Z. Zernio/platform verification is not applicable because no outbound post exists.",
+  "job_id": "a97a7703af32",
+  "latest_output": "manual-exact-run+recovery-2026-07-09T13:47Z_zero-draft-source-saturation",
+  "last_run_at": "2026-07-09T12:44:35.793669+00:00",
+  "next_run_at": "2026-07-09T14:45:27.383242+00:00",
+  "process_check": "2026-07-09T13:49:02Z"
 }
 
 ## Factory verification
-{}
+"13:47 factory readback: exact scheduled command and required recovery rerun both exited 0 with draft_count=0/results=[]; current state latest_social_draft_factory.json@2026-07-09T13:47:16.002596+00:00; no new auto folder/manifest/media, Airtable Carousel Posts row, outbound Zernio payload, or Zernio draft was created after the 13:46/13:47 run window. Diagnosis is source-lane/anti-repetition saturation plus a canonical selector diagnostic mismatch: existing_source_ids=496, partial_source_ids=34, combined_existing_or_partial=519, blocked_content_families=68; Evergreen 0/42, AI Words 0/8, KPI backstop 0/8; canonical diagnostic hit TypeError `_select_canonical_records() got an unexpected keyword argument existing_source_ids`. Cron a97a7703af32 remains enabled/future-scheduled next_run_at 2026-07-09T14:45:27.383242+00:00; no lingering factory/radar process at 2026-07-09T13:49:02Z. Zernio/platform verification is not applicable because no outbound post exists."
 
 ## Current issues
 [
   {
     "issue": "zernio_analytics_stale_over_3h",
     "severity": "high",
-    "oldest_minutes": 100670.3
+    "oldest_minutes": 102072.1
   },
   {
     "issue": "no_posts_in_last_72h",
@@ -332,8 +241,8 @@ Last updated: 2026-07-08T14:25:50Z
     "issue": "prior_safe_review_only_draft_not_kpi_ready",
     "severity": "high",
     "status": "historical_safe_review_only_superseded_by_1213_zero_draft_current_source_saturation",
-    "updated_at": "2026-07-08T12:36:18Z",
-    "latest_evidence": "10:59 safe review draft remains a prior editorial/FBIG caveat; current 12:13 factory tick created no draft/payload and source-lane saturation is current."
+    "updated_at": "2026-07-08T20:20:00Z",
+    "latest_evidence": "14:25 factory exact command plus required recovery both returned draft_count=0/results=[]; no current auto folder/Airtable/Zernio payload; source-lane/anti-repetition saturation remains active (existing_source_ids=493, partial_source_ids=34, combined_existing_or_partial=516, blocked_content_families=68; Canonical 0/98, Matrix 0/436, Evergreen 0/42, AI Words 0/8, KPI 0/8); latest state latest_social_draft_factory.json@2026-07-08T15:35:22.740420+00:00; cron enabled/future-scheduled next_run_at 2026-07-08T16:32:41.157190+00:00; no lingering factory/radar process at 2026-07-08T14:25:50Z."
   },
   {
     "impact_on_kpi": "Experiment backlog remains too large without 2h/24h continue/stop/remix closure.",
@@ -344,25 +253,27 @@ Last updated: 2026-07-08T14:25:50Z
   },
   {
     "issue": "zernio_fbig_accounts_not_exposed",
-    "latest_evidence": "FB/IG account exposure gap remains separate from current factory source-lane saturation; current 12:13 tick created no outbound payload, so platform verification was not applicable.",
+    "latest_evidence": "14:25 factory exact command plus required recovery both returned draft_count=0/results=[]; no current auto folder/Airtable/Zernio payload; source-lane/anti-repetition saturation remains active (existing_source_ids=493, partial_source_ids=34, combined_existing_or_partial=516, blocked_content_families=68; Canonical 0/98, Matrix 0/436, Evergreen 0/42, AI Words 0/8, KPI 0/8); latest state latest_social_draft_factory.json@2026-07-08T15:35:22.740420+00:00; cron enabled/future-scheduled next_run_at 2026-07-08T16:32:41.157190+00:00; no lingering factory/radar process at 2026-07-08T14:25:50Z.",
     "severity": "medium",
     "status": "open_platform_access_gap_separate_from_current_zero_draft",
-    "updated_at": "2026-07-08T12:36:18Z"
+    "updated_at": "2026-07-08T20:20:00Z"
   },
   {
-    "issue": "zernio_factory_source_lane_saturation_current",
+    "issue": "factory_source_lane_saturation_current",
     "severity": "high",
-    "status": "open_source_replenishment_needed",
-    "latest_evidence": "14:25 factory exact command plus required recovery both returned draft_count=0/results=[]; no current auto folder/Airtable/Zernio payload; source-lane/anti-repetition saturation remains active (existing_source_ids=493, partial_source_ids=34, combined_existing_or_partial=516, blocked_content_families=68; Canonical 0/98, Matrix 0/436, Evergreen 0/42, AI Words 0/8, KPI 0/8); latest state latest_social_draft_factory.json@2026-07-08T14:25:15.882142+00:00; cron enabled/future-scheduled next_run_at 2026-07-08T15:23:29.356949+00:00; no lingering factory/radar process at 2026-07-08T14:25:50Z.",
-    "updated_at": "2026-07-08T12:36:18Z"
+    "status": "open_source_replenishment_needed_no_payload",
+    "latest_evidence": "13:47 factory readback: exact scheduled command and required recovery rerun both exited 0 with draft_count=0/results=[]; current state latest_social_draft_factory.json@2026-07-09T13:47:16.002596+00:00; no new auto folder/manifest/media, Airtable Carousel Posts row, outbound Zernio payload, or Zernio draft was created after the 13:46/13:47 run window. Diagnosis is source-lane/anti-repetition saturation plus a canonical selector diagnostic mismatch: existing_source_ids=496, partial_source_ids=34, combined_existing_or_partial=519, blocked_content_families=68; Evergreen 0/42, AI Words 0/8, KPI backstop 0/8; canonical diagnostic hit TypeError `_select_canonical_records() got an unexpected keyword argument existing_source_ids`. Cron a97a7703af32 remains enabled/future-scheduled next_run_at 2026-07-09T14:45:27.383242+00:00; no lingering factory/radar process at 2026-07-09T13:49:02Z. Zernio/platform verification is not applicable because no outbound post exists.",
+    "updated_at": "2026-07-09T13:49:02Z",
+    "zernio_verification": "not_applicable_no_outbound_payload",
+    "draft_count": 0
   }
 ]
 
 ## Last 3 useful lessons
 [
-  "2026-07-08 14:25 factory: exact+required recovery both returned zero drafts/no payload; source-lane/anti-repetition saturation is current (Canonical 0/98, Matrix 0/436, Evergreen 0/42, AI Words 0/8, KPI 0/8); cron enabled/future-scheduled; urgent ChatGPT/NotebookLM source replenishment required.",
-  "2026-07-08 08:02 growth check: direct import refreshed Airtable (47 seen/47 updated/0 created) but latest snapshot still has no formal breakout and no posts in last 72h; best remains CTA-stripped ChatGPT productivity at 51,391 views/615 shares (gap 48,609); action logged to Obsidian, keep source-lane replenishment + result-closure as priority, no public posting/spend/generation.",
-  "2026-07-08 06:07 growth check: no formal breakout and no posts in last 72h; best remains CTA-stripped ChatGPT productivity at 51,391 views/615 shares (gap 48,609); action updated existing source-lane/result-closure priorities, no public posting/spend/generation."
+  "13:47 factory readback: exact scheduled command and required recovery rerun both exited 0 with draft_count=0/results=[]; current state latest_social_draft_factory.json@2026-07-09T13:47:16.002596+00:00; no new auto folder/manifest/media, Airtable Carousel Posts row, outbound Zernio payload, or Zernio draft was created after the 13:46/13:47 run window. Diagnosis is source-lane/anti-repetition saturation plus a canonical selector diagnostic mismatch: existing_source_ids=496, partial_source_ids=34, combined_existing_or_partial=519, blocked_content_families=68; Evergreen 0/42, AI Words 0/8, KPI backstop 0/8; canonical diagnostic hit TypeError `_select_canonical_records() got an unexpected keyword argument existing_source_ids`. Cron a97a7703af32 remains enabled/future-scheduled next_run_at 2026-07-09T14:45:27.383242+00:00; no lingering factory/radar process at 2026-07-09T13:49:02Z. Zernio/platform verification is not applicable because no outbound post exists.",
+  "12:37 factory readback: exact command first returned draft_count=0/results=[]; required recovery rerun generated source yt-Pd0d9CTyMfw with manifest /home/clawd/.hermes/ai_signal_radar/carousels/auto-20260709T123222Z-yt-Pd0d9CTyMfw/manifest.json and Airtable recFVcwR6PHi3f1Cg, but Zernio create was skipped before outbound post creation because value QA failed (no-mistake-slide: missing a common-mistake/avoid tip). Airtable status not_sent/no Zernio Draft ID; rebuilt payload safety draft-only (isDraft=true, tiktokSettings.draft=true, no publishNow, no scheduledFor, 9 media, exact FB/IG first-comment hash); live /v1/accounts exposes TikTok only; no lingering factory/radar process at 2026-07-09T12:41:37Z; cron enabled/future-scheduled next_run_at 2026-07-09T13:30:28.584825+00:00.",
+  "2026-07-09 02:03 growth check: direct import refreshed 47 records and fresh snapshot still has no formal breakout/no posts in 72h; best remains CTA-stripped ChatGPT productivity at 51,391 views/615 shares; opened factory cadence watch because a97a7703af32 stayed at 01:01 output with 02:01 next_run_at past and no process."
 ]
 
 ## Active experiments
@@ -1285,15 +1196,15 @@ Last updated: 2026-07-08T14:25:50Z
     "audience": "Thai aircon/home-repair shops, field-service teams, dispatch admins, and small contractors that need a lightweight internal tool before building automation.",
     "caption": "ยังไม่ต้องสร้างระบบใหญ่ ลองใช้ ChatGPT ทำฟอร์มรับงานเล็ก ๆ ก่อน: รับข้อมูล → triage → brief ให้ช่าง → ให้คนอนุมัติก่อนเสนอราคา #ChatGPTAI #ช่างแอร์ #AIสำหรับSME",
     "created_at": "2026-07-04T03:20:32Z",
-    "cron_next_run_at": "2026-07-07T10:56:33.954048+00:00",
+    "cron_next_run_at": "2026-07-08T21:08:49.954697+00:00",
     "decision_rule": "Continue/remix into cleaning, pest-control, and appliance-repair intake tools if target hits; if viewers find ChatGPT too technical, rehook as 'ฟอร์มรับงานก่อนทำ automation'; stop after 2 misses with weak comments/shares.",
     "draft_count": 0,
     "format": "Thai handwritten/sketchnote carousel; 7 numbered tips over 8 lesson slides + reusable GenLabs CTA only at the end.",
     "hook": "รับเคสซ่อมแอร์/งานบ้านเยอะจนหลุด? 7 วิธีใช้ ChatGPT Artifacts ทำฟอร์มรับงานให้ทีมลองใช้ก่อน",
     "last_verified_at": "2026-07-07T12:34:00Z",
-    "media_count": 8,
+    "media_count": 9,
     "name": "ChatGPT Artifacts Aircon/Home-Repair Intake Tool — 7 tips",
-    "next_run_at": "2026-07-07T10:56:33.954048+00:00",
+    "next_run_at": "2026-07-08T21:08:49.954697+00:00",
     "process_check": "2026-07-07T12:34:00Z",
     "quality_gate": {
       "cta_counted_as_tip": false,
@@ -1552,15 +1463,15 @@ Last updated: 2026-07-08T14:25:50Z
     "audience": "Thai freelancers, agencies, consultants, real-estate/service-SME sales teams, and operators sending proposals or work plans to clients.",
     "caption": "ก่อนส่ง proposal/แผนงานให้ลูกค้า ลองให้ ChatGPT Canvas ช่วยไฮไลต์จุดงง ขอบเขตไม่ชัด ความเสี่ยง และสรุปส่ง LINE ให้สั้นลงก่อน #ChatGPT #ฟรีแลนซ์ #AIทำงานจริง",
     "created_at": "2026-07-04T03:20:32Z",
-    "cron_next_run_at": "2026-07-07T10:56:33.954048+00:00",
+    "cron_next_run_at": "2026-07-08T21:08:49.954697+00:00",
     "decision_rule": "If it works, remix into real-estate listing proposal, agency retainer proposal, and clinic/service package proposal versions. If it fails, rehook around “proposal อ่านไม่รู้เรื่อง = ลูกค้าไม่เซ็น”; stop after 2 misses below channel average with weak shares/comments.",
     "draft_count": 0,
     "format": "Thai handwritten/sketchnote carousel; 7 numbered tips over 8 lesson slides + reusable GenLabs CTA only at the end.",
     "hook": "ส่ง proposal ให้ลูกค้าแล้วโดนแก้ยับ? 7 วิธีใช้ ChatGPT Canvas ตรวจเอกสารก่อนส่งจริง",
     "last_verified_at": "2026-07-07T12:34:00Z",
-    "media_count": 8,
+    "media_count": 9,
     "name": "ChatGPT Canvas Client Proposal Polish — 7 tips",
-    "next_run_at": "2026-07-07T10:56:33.954048+00:00",
+    "next_run_at": "2026-07-08T21:08:49.954697+00:00",
     "process_check": "2026-07-07T12:34:00Z",
     "quality_gate": {
       "cta_counted_as_tip": false,
@@ -1973,11 +1884,11 @@ Last updated: 2026-07-08T14:25:50Z
   },
   {
     "audience": "Thai clinics, hotels, tours, tutors, repair shops, retail teams, and service SMEs where price/package/policy changes make staff answer incorrectly.",
-    "cron_next_run_at": "2026-07-07T10:56:33.954048+00:00",
+    "cron_next_run_at": "2026-07-08T21:08:49.954697+00:00",
     "decision_rule": "Continue/remix into clinic price-change, hotel cancellation-policy, repair warranty, and tutor course-policy variants if target hits; if weak, rehook around “ตอบราคาเก่าเสียลูกค้า”; stop after 2 weak NotebookLM policy-update variants.",
     "hook": "ราคา/โปร/นโยบายเปลี่ยนแล้วทีมยังตอบแบบเก่า? 7 วิธีใช้ NotebookLM หา answer card ที่ต้องแก้ทันที",
     "last_verified_at": "2026-07-07T12:34:00Z",
-    "media_count": 8,
+    "media_count": 9,
     "name": "NotebookLM Policy Change Alert for Teams — 7 tips",
     "target_24h": "≥2,500 views or share_rate ≥0.8%; if saves become available, target ≥5 saves.",
     "target_2h": "≥250 views and ≥3 shares/comments; watch for owners/admins asking for policy-change or answer-card templates.",
@@ -2017,7 +1928,7 @@ Last updated: 2026-07-08T14:25:50Z
       "decision_rule": "Continue/remix into report, proposal, and client-update variants if target hits; stop or rehook if below 800 views with low save/share/comment rate after 24h.",
       "hook": "ส่งงานให้หัวหน้าแล้วกลัวโดนแก้? 8 วิธีใช้ ChatGPT เช็กงานก่อนส่ง",
       "name": "ChatGPT Boss-Ready Work Check — 8 tips",
-      "source_id": "kpi-exp-20260705-chatgpt-boss-ready-work-check-v1",
+      "source_id": "yt-CC-BicbKeMU",
       "target_24h": ">=2,500 views or share_rate/save_rate >=0.8%; continue/remix if comments ask for checklist/template; stop if <800 views and <2 saves/shares.",
       "target_2h": ">=300 views or >=3 saves/shares/comments asking for checklist/template",
       "tips": [
@@ -2039,7 +1950,7 @@ Last updated: 2026-07-08T14:25:50Z
       "decision_rule": "Continue/remix by industry if owners ask for FAQ examples; stop if <800 views and no saves/template comments after 24h.",
       "hook": "ทีมตอบลูกค้าไม่เหมือนกัน? 7 วิธีใช้ NotebookLM ทำ FAQ จากเอกสารจริง",
       "name": "NotebookLM Staff FAQ From Real Docs — 7 tips",
-      "source_id": "kpi-exp-20260705-notebooklm-staff-faq-real-docs-v1",
+      "source_id": "yt-CC-BicbKeMU",
       "target_24h": ">=2,500 views or save_rate/share_rate >=0.8%; continue if owners ask how to upload docs or make answer cards",
       "target_2h": ">=250 views or >=3 saves/shares/comments asking how to upload docs",
       "tips": [
@@ -2060,7 +1971,7 @@ Last updated: 2026-07-08T14:25:50Z
       "decision_rule": "Continue/remix into product-photo, restaurant, clinic, and service-package examples if saves/comments are strong; stop Canva variants after 2 misses below channel average.",
       "hook": "โปรโมชันสวยแต่คนไม่กด? 6 วิธีใช้ Canva AI ทำภาพขายให้เข้าใจใน 3 วิ",
       "name": "Canva AI Promo Design Fix — 6 tips",
-      "source_id": "kpi-exp-20260705-canva-ai-promo-3sec-fix-v1",
+      "source_id": "yt-CC-BicbKeMU",
       "target_24h": ">=2,000 views or save_rate/share_rate >=0.8%; continue/remix for product-photo/restaurant/clinic examples if saved; stop if <700 views and no saves/comments.",
       "target_2h": ">=220 views or >=2 saves/shares/comments asking for before/after template",
       "tips": [
@@ -2103,3 +2014,6 @@ Last updated: 2026-07-08T14:25:50Z
 
 ## Daily log
 - [[Aion OS/Aion Learning Lab/Zernio Growth/Zernio Growth Daily Log]]
+
+<!-- ZG-ISSUE-CHECK-2026-07-09-1236 -->
+- Issue-check 12:36 UTC: import ok (47 seen / 47 updated / 0 created), fresh snapshot no formal breakout/no recent posts; KPI leader remains CTA-stripped ChatGPT productivity at 51,391 views / 615 shares / gap 48,609. CTA guard unsafe_count=0. Factory PID 1188766 is still running, so post-exit factory readback is open; no public posting/spend triggered by issue-check.

@@ -221,3 +221,12 @@
 - **Revisit Trigger:** Revisit after fresh ChatGPT/NotebookLM posts have 2h/24h metrics or when one expansion tool produces repeatable above-average saves/shares/views.
 - **Review marker:** `ZG-SELF-IMPROVEMENT-2026-07-07-1004`
 
+
+---
+
+## 2026-07-10 — ChatGPT/NotebookLM-first GenLabs source replenishment rule
+- **Project:** [[Aion OS/Projects/genlabs-ai-learning-state]]
+- **Decision:** For the next GenLabs/Zernio production window, prioritize practical numbered Thai ChatGPT work-output carousels first and NotebookLM source-grounded SOP/PDF/FAQ/team-answer carousels second. Treat Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude tools, and Zapier/Make as expansion tests only when the post visibly teaches concrete software tips with the promised count before the reusable CTA.
+- **Why:** KPI evidence still points to the CTA-stripped ChatGPT productivity/workflow winner (`7634027210248097042`, 51,391 views / 615 shares / gap 48,609), and Sway says ChatGPT + NotebookLM are popular in Thailand. Current blockers are source-lane saturation, no posts in 72h, and overdue result closure, not a need for more generic experiments.
+- **Consequences:** Source replenishment beats adding near-duplicate experiment backlog. Keep production enabled/draft-only, close 2h/24h experiment loops, and pass anti-duplication/source-topic/value-QA gates before Zernio.
+- **Revisit Trigger:** Revisit after fresh ChatGPT/NotebookLM sources produce 2h/24h performance data or when an expansion tool beats channel average with strong save/share/comment signal.

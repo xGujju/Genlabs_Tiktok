@@ -525,3 +525,14 @@
 - Fix applied: promoted this rule into compact memory/tasks/Obsidian; no public posting, spend, or generation triggered.
 - Next action: replenish fresh non-repeating ChatGPT/NotebookLM source records, close 2h/24h result loops, then let the enabled draft-only factory process better source material.
 - Review marker: `ZG-SELF-IMPROVEMENT-2026-07-07-1004`
+
+<!-- ZG-SELF-IMPROVEMENT-2026-07-10-1003 -->
+## 2026-07-10T10:03Z 3-day self-improvement review — ChatGPT/NotebookLM source replenishment priority
+- **Machine evidence:** fresh `zernio_growth_snapshot.py` at `2026-07-10T10:03:13.617171+00:00` (`record_count=62`); compile check passed; `breakout_count=0`; `recent_72h_count=0`; issues include stale analytics and no posts in last 72h.
+- **KPI progress:** best/closest post remains CTA-stripped ChatGPT productivity/workflow `7634027210248097042` at **51,391 views / 615 shares / gap 48,609**. We did **not** get closer this cycle.
+- **What worked:** ChatGPT practical numbered work-output tips remain the only direct high-view proof; NotebookLM remains the Thailand-priority controlled-source lane; protected GenLabs CTA classification stayed clean.
+- **What failed:** no recent post volume, no current breakout, source-lane/anti-repetition saturation/no KPI-ready draft, overdue result closure, and stale/partial KPI-leader analytics coverage.
+- **Aion system miss:** too much backlog/spec accumulation; not enough closure and fresh eligible source replenishment.
+- **Tool/topic direction:** next 3 days bias toward **ChatGPT** practical numbered work-output carousels and **NotebookLM** source-grounded answer/SOP/PDF/team workflows. Test **Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude tools, and Zapier/Make** only as concrete numbered software-tip workflows with every promised tip visible before the reusable CTA.
+- **Rule promoted:** 2026-07-10 3-day rule reaffirmed: bias the next production window toward practical numbered Thai ChatGPT and NotebookLM carousels. ChatGPT has direct KPI proof (post 7634027210248097042 at 51,391 views / 615 shares, gap 48,609). NotebookLM is the priority controlled Thailand lane because Sway says it is popular and source-grounded SOP/PDF/FAQ/team-answer workflows are concrete. Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude tools, and Zapier/Make are expansion tests only when each post visibly delivers promised software tips, passes anti-duplication/source-topic/value-QA gates, and stays draft-only before approval.
+- **Next 3-day plan:** close result loops; replenish non-repeating ChatGPT + NotebookLM source records; repair source routing/eligibility; keep factory enabled/draft-only; run expansion tools only after tip-count/CTA/source-topic/value-QA gates pass. No public posting, spend, or generation triggered by this review.

@@ -1,0 +1,304 @@
+{
+  "asset_urls": [
+    "https://v3b.fal.media/files/b/0aa19f67/byHj5-OPiIeGCYFo0YaGH_sYLDqplF.png",
+    "https://v3b.fal.media/files/b/0aa19f5f/GiIztkoqkwuk912uzeduR_6jqwyNdo.png",
+    "https://v3b.fal.media/files/b/0aa19f62/EqV4pmX_cBxtpvVXagwmJ_ElQZMM0k.png",
+    "https://v3b.fal.media/files/b/0aa19f65/Szc-EdcyE2p4m39V0b9sJ_diIA72Nh.png",
+    "https://v3b.fal.media/files/b/0aa19f69/XWxyqXCuJwHbywAtomGfl_5xH6BETi.png",
+    "https://v3b.fal.media/files/b/0aa19f78/qi158MxYq87oUp3kKCEN__uLnVqhzi.png",
+    "https://v3b.fal.media/files/b/0aa19f71/1hzf1qDpCOiDLihvgCo-M_8C4JA5Fo.png",
+    "https://v3b.fal.media/files/b/0aa19f75/hNXnuVf4XVKQNJf-tQ-I9_HINqppXw.png",
+    "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png"
+  ],
+  "carousel_plan": {
+    "generator_version": "ai-signal-carousel-v1",
+    "slide_count": 8,
+    "slides": [
+      {
+        "image_prompt": "Slide 1/8 role=hook. Thai copy: ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที\nAPI • RAG • workflow • prompt. Visual direction: bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 1,
+        "role": "hook",
+        "thai_copy": "ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที\nAPI • RAG • workflow • prompt",
+        "visual_direction": "bold cover slide, strong Thai headline based on the real source idea, cute robot mascot, practical AI design/workflow icons, small GenLabs logo in a corner"
+      },
+      {
+        "image_prompt": "Slide 2/8 role=problem. Thai copy: ปัญหา: หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มีเจ้าของงาน วันครบกำหนด ความเสี่ยง หรือข้อความ follow-up ที่ส่งต่อได้. Visual direction: problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 2,
+        "role": "problem",
+        "thai_copy": "ปัญหา: หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มีเจ้าของงาน วันครบกำหนด ความเสี่ยง หรือข้อความ follow-up ที่ส่งต่อได้",
+        "visual_direction": "problem-to-solution mini diagram, confused creator/business owner icon turning into clear AI workflow board, 2-3 readable labels"
+      },
+      {
+        "image_prompt": "Slide 3/8 role=trend. Thai copy: ทำไมควรสนใจ:\nAI สำหรับประชุมควรเปลี่ยนโน้ตให้เป็นงานที่ตามต่อได้ ไม่ใช่สรุปกว้าง ๆ ว่าใครพูดอะไร. Visual direction: trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 3,
+        "role": "trend",
+        "thai_copy": "ทำไมควรสนใจ:\nAI สำหรับประชุมควรเปลี่ยนโน้ตให้เป็นงานที่ตามต่อได้ ไม่ใช่สรุปกว้าง ๆ ว่าใครพูดอะไร",
+        "visual_direction": "trend explainer with problem-first workflow diagram, keyword chips, practical-use badge, balanced text and icons; no YouTube/source labels"
+      },
+      {
+        "image_prompt": "Slide 4/8 role=tips. Thai copy: ลองใช้แบบนี้:\n1) วาง notes หลังประชุม\n2) ขอตารางงานที่ต้องทำ เจ้าของงาน วันครบกำหนด และความเสี่ยง\n3) ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE\n4) ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ. Visual direction: four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 4,
+        "role": "tips",
+        "thai_copy": "ลองใช้แบบนี้:\n1) วาง notes หลังประชุม\n2) ขอตารางงานที่ต้องทำ เจ้าของงาน วันครบกำหนด และความเสี่ยง\n3) ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE\n4) ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ",
+        "visual_direction": "four-step teaching checklist, numbered icon cards, arrows showing workflow path, enough Thai text to teach the technique"
+      },
+      {
+        "image_prompt": "Slide 5/8 role=example. Thai copy: ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต. Visual direction: simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 5,
+        "role": "example",
+        "thai_copy": "ตัวอย่างงานจริง:\nเริ่มจากงานเล็ก 1 อย่าง → ให้ AI ช่วยร่าง → ตรวจเอง → เก็บเป็นเทมเพลต",
+        "visual_direction": "simple before-after example board showing one practical client/business task becoming a reusable AI-assisted workflow"
+      },
+      {
+        "image_prompt": "Slide 6/8 role=deep_tips. Thai copy: ต่อยอดให้ได้ผล:\n5) เก็บ template นี้ไว้ใช้กับประชุมประเภทเดิม. Visual direction: second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 6,
+        "role": "deep_tips",
+        "thai_copy": "ต่อยอดให้ได้ผล:\n5) เก็บ template นี้ไว้ใช้กับประชุมประเภทเดิม",
+        "visual_direction": "second teaching checklist with small numbered cards, shows extra explanation without cramming text onto earlier slides"
+      },
+      {
+        "image_prompt": "Slide 7/8 role=framework. Thai copy: จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ. Visual direction: five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 7,
+        "role": "framework",
+        "thai_copy": "จำสูตรนี้:\nเป้าหมาย → บริบท → ขั้นตอน → ตรวจคำตอบ → ใช้ซ้ำ",
+        "visual_direction": "five-step framework ribbon with arrows and small icons, easy for beginners to save and repeat"
+      },
+      {
+        "image_prompt": "Slide 8/8 role=cta. Thai copy: ลองวันนี้:\nวันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message. Visual direction: final action slide, practical checklist, save/share icon, small GenLabs logo footer. Hand-drawn Thai sketchnote infographic style. Balanced 50% useful Thai text and 50% graphics: cute robots, icons, arrows, marker lines, rounded cards, section badges, checkmarks, simple diagrams. Mobile-readable mini-lesson: one core idea per slide, enough detail to teach a useful technique, no dense paragraphs. Render the Thai copy exactly as provided; do not substitute similar-looking Thai words or alter spelling. Thai spelling QA: use กฎ not กฏ, use ชัดขึ้น without an extra space, use โทนแบรนด์ not ทงแบรนด์, keep ด้วย AI ใน 5 ขั้นตอน together in that order, and keep product/tool names exactly as written. Include a small GenLabs logo/brand mark in a corner or footer, never oversized. Do not include analytics, learning-loop elements, or fake dashboards.",
+        "index": 8,
+        "role": "cta",
+        "thai_copy": "ลองวันนี้:\nวันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message",
+        "visual_direction": "final action slide, practical checklist, save/share icon, small GenLabs logo footer"
+      }
+    ],
+    "source_id": "yt-b4MKylwTh3s",
+    "source_url": "https://www.youtube.com/watch?v=b4MKylwTh3s",
+    "thai_brief": {
+      "evidence": [
+        "Source: https://www.youtube.com/watch?v=b4MKylwTh3s",
+        "Keywords: API, RAG, workflow, prompt, Make",
+        "This is trending because people can copy the workflow immediately instead of only reading AI news."
+      ],
+      "glossary": {
+        "API": "ช่องทางให้ระบบคุยกัน",
+        "Make": "Make",
+        "RAG": "ค้นเอกสารก่อนให้ AI ตอบ",
+        "prompt": "พรอมป์ต์",
+        "workflow": "เวิร์กโฟลว์"
+      },
+      "original_keywords": [
+        "API",
+        "RAG",
+        "workflow",
+        "prompt",
+        "Make"
+      ],
+      "source_id": "yt-b4MKylwTh3s",
+      "source_url": "https://www.youtube.com/watch?v=b4MKylwTh3s",
+      "thai_call_to_action": "วันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message",
+      "thai_hook": "ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที",
+      "thai_problem": "หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มีเจ้าของงาน วันครบกำหนด ความเสี่ยง หรือข้อความ follow-up ที่ส่งต่อได้",
+      "thai_tips": [
+        "วาง notes หลังประชุม",
+        "ขอตารางงานที่ต้องทำ เจ้าของงาน วันครบกำหนด และความเสี่ยง",
+        "ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE",
+        "ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ",
+        "เก็บ template นี้ไว้ใช้กับประชุมประเภทเดิม"
+      ],
+      "thai_trend_angle": "AI สำหรับประชุมควรเปลี่ยนโน้ตให้เป็นงานที่ตามต่อได้ ไม่ใช่สรุปกว้าง ๆ ว่าใครพูดอะไร"
+    }
+  },
+  "clean_brief": {
+    "author_handle": "Canadian Crossroads",
+    "clean_headline": "How to Make Money Using AI Tools in 2025 (No Coding Needed) Canadian Crossroads Want to make money online using AI — even if you can't code?",
+    "clean_summary": "How to Make Money Using AI Tools in 2025 (No Coding Needed) Canadian Crossroads Want to make money online using AI — even if you can't code? This 2025 guide shows you exactly how to turn AI tools into real ... Transcript: How to Make Money Using AI Tools in 2025 (No Coding Needed) Description How to Make Money Using AI Tools in 2025 (No Coding Needed) 367 Likes 3,918 Views Oct 27 2025 Want to make money online using AI — even if you can’t code? This 2025 guide shows you exactly how to turn AI tools into real income streams — from content creation and freelancing to automation and passive income. AI isn’t just for tech experts anymore. With the right tools, you can build an online business, automate your workflows, and start earning money while you sleep. In this video, you’ll discover: Content creation with AI tools Freelancing and client work using AI Selling AI-powered digital products AI consulting and business automation Affiliate marketing with AI Automating small business workflows AI-generated voice & video monetization Selling AI prompts and templates Launching AI-powered courses & coaching Building your personal brand with AI leverage By the end, you’ll know exactly which AI tools to use and how to turn them into real profit — step-by-step, with no coding required. 🔥 AI Tools Mentioned: ChatGPT, Canva, Notion AI, Jasper, Runway ML, ElevenLabs, HeyGen, Zapier, Make, SurferSEO, NeuronWriter, Pika Labs, Gamma.app, Descript, Durable, Synthesia, Leonardo AI, OpusClip, Metricool 💡 Start your AI income journey today. 👉 Subscribe for more weekly videos on AI, productivity, and financial freedom. [#AI]( ...more Show less Transcript Follow along using the transcript. Show transcript [![Image 9]( ### Canadian Crossroads 10.5K subscribers]( [Videos]( ## Transcript [![Image 10]( 26:56]( ![Image 11]( ### [5 Ways to Make Money in 2026 (with AI)]( Sabrina Ramonov 🍄 293K views • 2 months ago [![Image 12]( 18:51]( ![Image 13]( ### [Make MONEY with AI in 2026 Using These 15 PROVEN AI Business Ideas!]( Tejas AI 13K views • 4 months ago [![Image 14]( 8:23]( ![Image 15]( ### [I Gave ChatGPT One Job Make Me Money]( AI Wealth Academy 158 views • 6 days ago New [![Image 16]( 18:57]( ![Image 17]( ### [Give Me 18 Minutes and I’ll Make you Dangerously Smart (with AI)]( Sandeep Swadia 2.1",
+    "metrics_snapshot": {
+      "author_followers": 0,
+      "bookmarks": 0,
+      "likes": 3918,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 0
+    },
+    "original_keywords": [
+      "API",
+      "RAG",
+      "workflow",
+      "prompt",
+      "Make"
+    ],
+    "original_language": "en",
+    "raw_text": "YouTube title: How to Make Money Using AI Tools in 2025 (No Coding Needed)\nChannel: Canadian Crossroads\nDescription: Want to make money online using AI — even if you can't code? This 2025 guide shows you exactly how to turn AI tools into real ...\nTranscript:\nTitle: How to Make Money Using AI Tools in 2025 (No Coding Needed) Description How to Make Money Using AI Tools in 2025 (No Coding Needed) 367 Likes 3,918 Views Oct 27 2025 Want to make money online using AI — even if you can’t code? This 2025 guide shows you exactly how to turn AI tools into real income streams — from content creation and freelancing to automation and passive income. AI isn’t just for tech experts anymore. With the right tools, you can build an online business, automate your workflows, and start earning money while you sleep. In this video, you’ll discover: Content creation with AI tools Freelancing and client work using AI Selling AI-powered digital products AI consulting and business automation Affiliate marketing with AI Automating small business workflows AI-generated voice & video monetization Selling AI prompts and templates Launching AI-powered courses & coaching Building your personal brand with AI leverage By the end, you’ll know exactly which AI tools to use and how to turn them into real profit — step-by-step, with no coding required. 🔥 AI Tools Mentioned: ChatGPT, Canva, Notion AI, Jasper, Runway ML, ElevenLabs, HeyGen, Zapier, Make, SurferSEO, NeuronWriter, Pika Labs, Gamma.app, Descript, Durable, Synthesia, Leonardo AI, OpusClip, Metricool 💡 Start your AI income journey today. 👉 Subscribe for more weekly videos on AI, productivity, and financial freedom. [#AI](https://www.youtube.com/hashtag/ai)[#aimoney](https://www.youtube.com/hashtag/aimoney)[#aibusiness](https://www.youtube.com/hashtag/aibusiness)[#aiautomation](https://www.youtube.com/hashtag/aiautomation)[#makemoneyonline](https://www.youtube.com/hashtag/makemoneyonline)[#passiveincome](https://www.youtube.com/hashtag/passiveincome)[#Aifreelancing](https://www.youtube.com/hashtag/aifreelancing)[#chatgpt](https://www.youtube.com/hashtag/chatgpt)[#nocodebusiness](https://www.youtube.com/hashtag/nocodebusiness)[#entrepreneurship](https://www.youtube.com/hashtag/entrepreneurship)[#nocoding](https://www.youtube.com/hashtag/nocoding)[#airevolution](https://www.youtube.com/hashtag/airevolution)[#freelancing](https://www.youtube.com/hashtag/freelancing)[#digitalbusiness](https://www.youtube.com/hashtag/digitalbusiness)[#sidehustle](https://www.youtube.com/hashtag/sidehustle)[#ai2025](https://www.youtube.com/hashtag/ai2025)[#onlineincome](https://www.youtube.com/hashtag/onlineincome)…...more ...more Show less Transcript Follow along using the transcript. Show transcript [![Image 9](https://www.youtube.com/watch?v=b4MKylwTh3s) ### Canadian Crossroads 10.5K subscribers](https://www.youtube.com/@Canadian_Crossroads) [Videos](https://www.youtube.com/channel/UCG8cFWr2begGxTOhLszxCSA/videos)[About](https://www.youtube.com/channel/UCG8cFWr2begGxTOhLszxCSA/about) ## Transcript [![Image 10](https://i.ytimg.com/vi/Xl57Pki6ChE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCzSkGqOBmV4VEZdgk5TtAOes9h1g) 26:56](https://www.youtube.com/watch?v=Xl57Pki6ChE&pp=ugUEEgJlbg%3D%3D) ![Image 11](https://www.youtube.com/watch?v=b4MKylwTh3s) ### [5 Ways to Make Money in 2026 (with AI)](https://www.youtube.com/watch?v=Xl57Pki6ChE&pp=ugUEEgJlbg%3D%3D) Sabrina Ramonov 🍄 293K views • 2 months ago [![Image 12](https://i.ytimg.com/vi/7wcoTD9syC4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD-Yr0swlLghbgHzHD4RtOhjv6r4A) 18:51](https://www.youtube.com/watch?v=7wcoTD9syC4&pp=ugUEEgJlbg%3D%3D) ![Image 13](https://www.youtube.com/watch?v=b4MKylwTh3s) ### [Make MONEY with AI in 2026 Using These 15 PROVEN AI Business Ideas!](https://www.youtube.com/watch?v=7wcoTD9syC4&pp=ugUEEgJlbg%3D%3D) Tejas AI 13K views • 4 months ago [![Image 14](https://i.ytimg.com/vi/p6CYZGlHAPo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAk_XaOs2JkiMT0ThFg9ZFe7zglVA) 8:23](https://www.youtube.com/watch?v=p6CYZGlHAPo) ![Image 15](https://www.youtube.com/watch?v=b4MKylwTh3s) ### [I Gave ChatGPT One Job Make Me Money](https://www.youtube.com/watch?v=p6CYZGlHAPo) AI Wealth Academy 158 views • 6 days ago New [![Image 16](https://i.ytimg.com/vi/A8_nNYLTXEQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDcdAQOcp9jf8DifP0H9kenZhQmKQ) 18:57](https://www.youtube.com/watch?v=A8_nNYLTXEQ) ![Image 17](https://www.youtube.com/watch?v=b4MKylwTh3s) ### [Give Me 18 Minutes and I’ll Make you Dangerously Smart (with AI)](https://www.youtube.com/watch?v=A8_nNYLTXEQ) Sandeep Swadia 2.1",
+    "source_id": "yt-b4MKylwTh3s",
+    "source_url": "https://www.youtube.com/watch?v=b4MKylwTh3s",
+    "why_it_matters": "This is trending because people can copy the workflow immediately instead of only reading AI news."
+  },
+  "content_brief": {
+    "call_to_action": "วันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message",
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=b4MKylwTh3s",
+      "Keywords: API, RAG, workflow, prompt, Make",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "hook": "ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที",
+    "original_keywords": [
+      "API",
+      "RAG",
+      "workflow",
+      "prompt",
+      "Make"
+    ],
+    "original_language": "en",
+    "problem": "หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มีเจ้าของงาน วันครบกำหนด ความเสี่ยง หรือข้อความ follow-up ที่ส่งต่อได้",
+    "source_id": "yt-b4MKylwTh3s",
+    "source_url": "https://www.youtube.com/watch?v=b4MKylwTh3s",
+    "tips": [
+      "วาง notes หลังประชุม",
+      "ขอตารางงานที่ต้องทำ เจ้าของงาน วันครบกำหนด และความเสี่ยง",
+      "ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE",
+      "ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ",
+      "เก็บ template นี้ไว้ใช้กับประชุมประเภทเดิม"
+    ],
+    "trend_angle": "AI สำหรับประชุมควรเปลี่ยนโน้ตให้เป็นงานที่ตามต่อได้ ไม่ใช่สรุปกว้าง ๆ ว่าใครพูดอะไร"
+  },
+  "feedback_loop": "deferred",
+  "generation_qa_checklist": [
+    "Content-graphic match: every icon, diagram, UI mockup, and visual metaphor must directly support the exact Thai copy on that slide.",
+    "No hallucinated product claims: use only source facts, provided keywords, and GenLabs teaching interpretation; do not invent dates, metrics, features, dashboards, or partnerships.",
+    "Source-media discipline: if source images are provided, borrow only broad layout/mood/interaction cues; do not copy exact source text, UI, brand styling, or composition.",
+    "Thai readability: mobile-readable, natural Thai, no clipped words, no garbled characters, no typos, and no dense paragraphs.",
+    "Carousel coherence: slide order must tell one mini-story from hook to problem to why it matters to steps to CTA.",
+    "Public safety: no public external links, X handles, channel labels, creator names, or attribution text in generated images or caption; attribution stays internal in Airtable/manifest."
+  ],
+  "generator_version": "ai-signal-carousel-v1",
+  "images": [
+    {
+      "content_type": "image/png",
+      "file_name": "byHj5-OPiIeGCYFo0YaGH_sYLDqplF.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa19f67/byHj5-OPiIeGCYFo0YaGH_sYLDqplF.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260710T001517Z-yt-b4MKylwTh3s/slide-1.png",
+      "slide_index": 1,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "GiIztkoqkwuk912uzeduR_6jqwyNdo.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa19f5f/GiIztkoqkwuk912uzeduR_6jqwyNdo.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260710T001517Z-yt-b4MKylwTh3s/slide-2.png",
+      "slide_index": 2,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "EqV4pmX_cBxtpvVXagwmJ_ElQZMM0k.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa19f62/EqV4pmX_cBxtpvVXagwmJ_ElQZMM0k.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260710T001517Z-yt-b4MKylwTh3s/slide-3.png",
+      "slide_index": 3,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "Szc-EdcyE2p4m39V0b9sJ_diIA72Nh.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa19f65/Szc-EdcyE2p4m39V0b9sJ_diIA72Nh.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260710T001517Z-yt-b4MKylwTh3s/slide-4.png",
+      "slide_index": 4,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "XWxyqXCuJwHbywAtomGfl_5xH6BETi.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa19f69/XWxyqXCuJwHbywAtomGfl_5xH6BETi.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260710T001517Z-yt-b4MKylwTh3s/slide-5.png",
+      "slide_index": 5,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "qi158MxYq87oUp3kKCEN__uLnVqhzi.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa19f78/qi158MxYq87oUp3kKCEN__uLnVqhzi.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260710T001517Z-yt-b4MKylwTh3s/slide-6.png",
+      "slide_index": 6,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "1hzf1qDpCOiDLihvgCo-M_8C4JA5Fo.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa19f71/1hzf1qDpCOiDLihvgCo-M_8C4JA5Fo.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260710T001517Z-yt-b4MKylwTh3s/slide-7.png",
+      "slide_index": 7,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "hNXnuVf4XVKQNJf-tQ-I9_HINqppXw.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0aa19f75/hNXnuVf4XVKQNJf-tQ-I9_HINqppXw.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260710T001517Z-yt-b4MKylwTh3s/slide-8.png",
+      "slide_index": 8,
+      "width": null
+    },
+    {
+      "content_type": "image/png",
+      "file_name": "genlabs-cta-10baht-sme.png",
+      "height": null,
+      "image_url": "https://v3b.fal.media/files/b/0a980b4a/B8_OT-mhnVyBXQUoZL-Ir_dDsmugPy.png",
+      "local_path": "/home/clawd/.hermes/ai_signal_radar/carousels/genlabs-cta-10baht-sme/slide-1.png",
+      "slide_index": 9,
+      "width": null
+    }
+  ],
+  "manifest_path": "/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260710T001517Z-yt-b4MKylwTh3s/manifest.json",
+  "social_post": {
+    "description": "👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป\n\n💡 ไอเดียหลัก: หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มีเจ้าของงาน วันครบกำหนด ความเสี่ยง หรือข้อความ follow-up ที่ส่งต่อได้\n\n📌 ทำไมควรเซฟโพสต์นี้: AI สำหรับประชุมควรเปลี่ยนโน้ตให้เป็นงานที่ตามต่อได้ ไม่ใช่สรุปกว้าง ๆ ว่าใครพูดอะไร\n\n✅ วิธีเอาไปใช้แบบง่าย ๆ:\n\n1) ✨ วาง notes หลังประชุม\n\n2) ✨ ขอตารางงานที่ต้องทำ เจ้าของงาน วันครบกำหนด และความเสี่ยง\n\n3) ✨ ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE\n\n4) ✨ ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ\n\n🧪 ลองเริ่มวันนี้: วันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message\n\n🧭 วิธีใช้กับงานนี้: วาง notes หลังประชุม → ขอตารางงานที่ต้องทำ เจ้าของงาน วันครบกำหนด และความเสี่ยง → ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE\n\n🌱 มือใหม่ให้เริ่มจากเคสจริงเล็ก ๆ ของอุตสาหกรรมนี้ แล้วให้คนในทีมตรวจคำตอบก่อนใช้กับลูกค้าจริง\n\n🔖 เซฟโพสต์นี้ไว้เป็นเช็กลิสต์ แล้วลองทำตาม 1 รอบวันนี้ ถ้าทำได้ คุณจะเห็นว่า AI ช่วยลดงานซ้ำและทำให้บริการชัดขึ้นได้จริง\n\n🚀 ติดตาม GenLabs AI Learning สำหรับบทเรียน AI ภาษาไทยที่สั้น เข้าใจง่าย และเอาไปใช้กับงาน/ธุรกิจได้ทันที",
+    "hashtags": [
+      "#GenLabsTH",
+      "#เรียนAI",
+      "#AIมือใหม่",
+      "#สอนใช้AI",
+      "#ทำงานด้วยAI"
+    ],
+    "title": "ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที #AIมือใหม่ เอาไปใช้กับงานจริงได้ทันที"
+  },
+  "status": "generated",
+  "thai_brief": {
+    "evidence": [
+      "Source: https://www.youtube.com/watch?v=b4MKylwTh3s",
+      "Keywords: API, RAG, workflow, prompt, Make",
+      "This is trending because people can copy the workflow immediately instead of only reading AI news."
+    ],
+    "glossary": {
+      "API": "ช่องทางให้ระบบคุยกัน",
+      "Make": "Make",
+      "RAG": "ค้นเอกสารก่อนให้ AI ตอบ",
+      "prompt": "พรอมป์ต์",
+      "workflow": "เวิร์กโฟลว์"
+    },
+    "original_keywords": [
+      "API",
+      "RAG",
+      "workflow",
+      "prompt",
+      "Make"
+    ],
+    "source_id": "yt-b4MKylwTh3s",
+    "source_url": "https://www.youtube.com/watch?v=b4MKylwTh3s",
+    "thai_call_to_action": "วันนี้ลองเอา notes ประชุม 1 ครั้งมาทำตาราง action + follow-up message",
+    "thai_hook": "ประชุมเสร็จ ให้ AI แปลงโน้ตเป็นงานจริงทันที",
+    "thai_problem": "หลายทีมประชุมแล้วได้แค่สรุปสวย ๆ แต่ไม่มีเจ้าของงาน วันครบกำหนด ความเสี่ยง หรือข้อความ follow-up ที่ส่งต่อได้",
+    "thai_tips": [
+      "วาง notes หลังประชุม",
+      "ขอตารางงานที่ต้องทำ เจ้าของงาน วันครบกำหนด และความเสี่ยง",
+      "ให้ AI เขียน follow-up ส่งใน Slack หรือ LINE",
+      "ตรวจชื่อคน วันครบกำหนด และสิ่งที่ตัดสินใจ",
+      "เก็บ template นี้ไว้ใช้กับประชุมประเภทเดิม"
+    ],
+    "thai_trend_angle": "AI สำหรับประชุมควรเปลี่ยนโน้ตให้เป็นงานที่ตามต่อได้ ไม่ใช่สรุปกว้าง ๆ ว่าใครพูดอะไร"
+  }
+}

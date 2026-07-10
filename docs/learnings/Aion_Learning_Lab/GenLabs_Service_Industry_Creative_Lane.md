@@ -4240,3 +4240,100 @@ Send next: `ศูนย์ตรวจสภาพรถ ตรอ. + LINE/Shee
 - Banned generic phrases: 0
 - Recommended next Zernio candidate visible: yes
 - Publish/Zernio actions: none
+
+## 2026-07-10T02:26Z — Fresh service-industry concept slate v89 (ideation-only)
+- Status: ideation-only / no-publish / no-Zernio. Purpose: refill GenLabs AI Learning with fresh exact-industry service workflows after source-lane saturation and generic routing.
+- Uniqueness key used: `industry + service pain point + AI tool/integration + workflow + visual metaphor`.
+- Recommended next Zernio candidate: คลินิกฝึกหายใจสำหรับนักร้องคาเฟ่ — เสียงล้าหลังร้องหลายเซ็ต? ให้ AI ทำการ์ดฝึกหายใจก่อนครูเสียงตรวจ.
+- Guard intent: 20 concept rows, 20 unique industries, exact-fresh against prior creative-lane industries, service-specific customer input, professional review, customer-facing output, and no broad formula advice.
+
+### Top 10 production candidates
+| # | Industry | Hook | Tool/integration | Workflow | Visual metaphor |
+|---:|---|---|---|---|---|
+| 1 | คลินิกฝึกหายใจสำหรับนักร้องคาเฟ่ | เสียงล้าหลังร้องหลายเซ็ต? ให้ AI ทำการ์ดฝึกหายใจก่อนครูเสียงตรวจ | Voice AI + ChatGPT + LINE homework | นักร้องส่งคลิปฮัมเพลง จุดเสียงแหบ และตารางร้อง -> AI แยกช่วงหายใจสั้น/เสียงตึงและร่างแบบฝึก 7 วัน -> นักแก้ไขการพูดหรือครูเสียงตรวจ -> ส่งการ์ดวอร์มเสียงรายวันพร้อมข้อควรพักเสียง | ไมค์คาเฟ่มีคลื่นลมหายใจเป็นริบบิ้นผ่านโน้ตเพลง |
+| 2 | ทีมซ่อมรางน้ำฝนบ้านเดี่ยว | ฝนตกทีไรน้ำล้นหน้าบ้าน? ให้ AI คัดจุดรางน้ำก่อนช่างขึ้นบันได | LINE video intake + Gemini Vision + repair job sheet | ลูกค้าส่งคลิปน้ำล้น รูปชายคา จุดรั่ว และเวลาฝนตก -> AI แยกอุดตัน/รั่ว/ลาดเอียงผิดพร้อมคำถามเพิ่ม -> ช่างหลังคาตรวจ -> ส่งใบประเมิน 3 จุดและช่วงราคาก่อนหน้างาน | ชายคาบ้านเป็นแผนที่หยดน้ำไหลเข้าเช็กลิสต์ช่าง |
+| 3 | บูติกโฮเทลจัดส่งของลืมกลับต่างประเทศ | แขกลืมของไว้ที่ห้อง แต่ส่งกลับผิดประเทศคือดราม่าใหญ่ | CRM + shipping checklist + ChatGPT bilingual message | แขกส่งรูปของลืม ประเทศปลายทาง ที่อยู่ และวันบิน -> AI แยกประเภทของ เช็กข้อห้ามส่ง และร่างข้อความยืนยันค่าส่ง 2 ภาษา -> ฟรอนต์ตรวจของจริงและค่าขนส่ง -> ส่งลิงก์ชำระเงินกับใบยืนยันจัดส่ง | กระเป๋าเดินทางเปิดเป็นแผนที่พัสดุวิ่งกลับหาแขก |
+| 4 | สำนักงานบัญชีรับเอกสาร Shopee/Lazada ร้านเล็ก | ร้านออนไลน์ส่งสลิปปนกันทั้งเดือน ให้ AI คัดเอกสารก่อนปิดงบ | OCR + Gemini Sheets + accountant checklist | ร้านส่ง zip ใบกำกับ export marketplace ค่าธรรมเนียม และคืนสินค้า -> AI จัดหมวดรายรับ/ค่าธรรมเนียม/รายการขาด -> นักบัญชีตรวจภาษีและรายการผิดปกติ -> ส่งรายงานเอกสารที่ต้องเติมรายเดือน | ตะกร้า marketplace เทลงเครื่องคัดใบเสร็จสีสด |
+| 5 | ล่ามงานแต่งไทย-จีนสองครอบครัว | คำกล่าวซึ้ง ๆ พังได้ถ้าแปลชื่อญาติผิด ให้ AI ทำ cue card ก่อนพิธี | ChatGPT glossary + speech draft + interpreter review | คู่บ่าวสาวส่ง speech รายชื่อญาติ ลำดับพิธี และคำต้องระวัง -> AI ทำ glossary ชื่อญาติและร่างคำแปลสุภาพ -> ล่ามอาวุโสตรวจน้ำเสียง -> ส่ง script สองภาษาและการ์ดคิวพิธีกร | พานขันหมากมี subtitle ไทย-จีนลอยขึ้นเป็นริบบิ้น |
+| 6 | บริการจัดระเบียบสายไฟหลังทีวี/เราเตอร์ร้านเล็ก | กองสายหลังเคาน์เตอร์ทำให้ร้านแก้เน็ตไม่ทัน ให้ AI ทำแผนผังสายก่อนช่างไป | Gemini Vision + label template + IT technician review | ร้านส่งรูปกองสาย รายการอุปกรณ์ และจุดที่เน็ตหลุด -> AI จำแนกสายไฟ/สายสัญญาณ/สายสำรองและร่างป้ายชื่อ -> ช่างไอทีตรวจหน้างาน -> ส่งแผนเก็บสายและจุดถอดง่าย | กองสายกลายเป็นแผนผังรถไฟฟ้าหลากสีหลังเคาน์เตอร์ |
+| 7 | คลินิกโภชนาการเด็กกินยากวัยอนุบาล | ลูกกินแต่น้อย พ่อแม่เล่าไม่ครบ ให้ AI อ่านกล่องข้าวก่อนนักกำหนดอาหารดู | LINE album + Gemini Vision + dietitian review | ผู้ปกครองส่งรูปกล่องข้าว 5 วัน ของที่เด็กปฏิเสธ และเวลามื้ออาหาร -> AI จัดสี/เนื้อสัมผัส/โปรตีนที่ขาดและคำถามเพิ่ม -> นักกำหนดอาหารเด็กตรวจ -> ส่งเมนูทดลองแบบลองทีละคำ 1 สัปดาห์ | กล่องข้าวอนุบาลเป็นวงล้อสีและผิวสัมผัสน่ารัก |
+| 8 | ช่างแก้กลิ่นท่อน้ำห้องน้ำคอนโด | ห้องน้ำเหม็นเป็นเวลา อย่าเพิ่งรื้อพื้น ให้ AI ช่วยคัดอาการก่อนช่างมา | LINE voice note + photo intake + plumbing checklist | ลูกค้าอัดเสียงเล่าเวลาเหม็น ส่งรูปตะแกรง ท่อ และประวัติล้างท่อ -> AI จัดกลุ่มท่อแห้ง/ท่อย้อน/ซีลรั่วพร้อมคำถามเสริม -> ช่างประปาตรวจ -> ส่งขั้นทดลอง 2 นาทีและนัดตรวจแบบไม่รื้อทันที | ควันกลิ่นในท่อใสแยกเป็นทางสีเขียวเหลืองแดง |
+| 9 | บริษัทแพ็กของขวัญองค์กรช่วงปีใหม่ | การ์ดชื่อผิดหนึ่งใบทำให้ทั้งแคมเปญดูไม่โปร ให้ AI ตรวจรายชื่อก่อนแพ็ก | Excel upload + OCR proof + ChatGPT card draft | ลูกค้าอัปโหลดรายชื่อ ที่อยู่ ตำแหน่ง และโทนข้อความการ์ด -> AI ตรวจชื่อซ้ำ/ที่อยู่ขาด/คำขึ้นต้นและร่างการ์ด -> account executive ตรวจ sample ชุดแรก -> ส่ง proof card และ packing list ให้อนุมัติ | กองริบบิ้นปีใหม่กลายเป็นบาร์โค้ดรายชื่อเรียงช่อง |
+| 10 | ทีมขนส่งเค้กแต่งงานหลายชั้น | เค้กสวยแค่ไหนก็พังได้ถ้าทางร้อนและสั่น ให้ AI ทำแผนส่งก่อนออก | Route planner + weather check + driver handoff note | ร้านเค้กส่งรูปเค้ก สถานที่ เวลาเซ็ตโต๊ะ และข้อห้ามเอียง -> AI วาง route เตือนช่วงแดด/ถนนขรุขระและร่างบันทึกส่งมอบ -> หัวหน้าคนขับตรวจรถและกล่องกันกระแทก -> ส่ง ETA กับจุดวางเค้กให้ planner | เค้กหลายชั้นเป็นหอคอยบนแผนที่กันสั่น |
+
+### Backlog 10
+| # | Industry | Hook | Tool/integration | Workflow | Visual metaphor |
+|---:|---|---|---|---|---|
+| 11 | ศูนย์กายภาพคอไหล่สำหรับช่างทำเล็บ | ช่างทำเล็บปวดคอทุกเย็น ให้ AI ทำ micro-break จากรูปท่านั่งจริง | Photo posture intake + ChatGPT + physiotherapist review | ลูกค้าส่งรูปท่านั่งทำงาน จุดปวด และชั่วโมงรับลูกค้า -> AI ทำแผนผังท่าก้ม/ยกไหล่ซ้ำและร่างพัก 90 วินาที -> นักกายภาพตรวจ -> ส่งโปสเตอร์พักสั้นติดโต๊ะทำเล็บ | โต๊ะทำเล็บมีเส้นเอ็นไหล่เป็นสายไฟนีออน |
+| 12 | ร้านซ่อมระบบกริ่ง/อินเตอร์คอมหมู่บ้าน | กดกริ่งไม่ดัง อาจไม่ใช่เปลี่ยนทั้งชุด ให้ AI คัดไฟ-ปุ่ม-สายก่อนช่างไป | LINE video + photo intake + low-voltage checklist | ลูกค้าส่งคลิปกดกริ่ง รูปตู้หน้าบ้าน รุ่นอุปกรณ์ และอาการเสียง/ภาพ -> AI แยกไฟ ปุ่ม สาย หรือลำโพงและคำถามเพิ่ม -> ช่างไฟอ่อนตรวจ -> ส่งสิ่งที่ต้องเตรียมและช่วงราคา | สัญญาณกริ่งเป็นเส้นไฟวิ่งจากประตูถึงตัวบ้าน |
+| 13 | บริษัทจัดรถกอล์ฟรับส่งแขกในรีสอร์ตใหญ่ | รีสอร์ตใหญ่ แขกหลงทางระหว่างวิลล่า สปา และร้านอาหาร ให้ AI จัดรอบรถ | Booking data + Google Calendar + WhatsApp/LINE | concierge ส่ง booking จุดรับ ความต้องการช่วยเดิน และเวลามื้ออาหาร -> AI จัดรอบรถและตรวจช่วงคนเยอะ -> dispatcher ตรวจจำนวนรถ/คนขับ -> ส่งเวลารับพร้อมรูปจุดรอ | รถกอล์ฟวิ่งบนแผนที่รีสอร์ตแบบสวนสนุก |
+| 14 | โรงเรียนติวอ่านจับใจความสำหรับเด็กสองภาษา | เด็กอ่านได้สองภาษาแต่จับใจความหลุด ให้ AI ทำชีตฝึกจากเสียงอ่านจริง | Voice transcription + OCR homework + teacher review | ผู้ปกครองส่งเสียงเด็กอ่าน รูปการบ้าน และคำที่สะดุด -> AI แยกคำยาว ประโยคยาก และคำถามท้ายเรื่อง -> ครูภาษาไทยตรวจระดับ -> ส่งชีตอ่าน 10 นาทีและคำถามฝึก | หนังสือเปิดเป็นรางรถไฟสองภาษา มีสถานีคำสะดุด |
+| 15 | ทีมล้างคราบหินปูนกระจกห้องน้ำคอนโด | คราบหินปูนหนักแค่ไหน ก่อนรับงานต้องบอกความคาดหวังให้ชัด | Gemini Vision + cleaning test checklist + supervisor review | ลูกค้าส่งรูปคราบ อายุห้องน้ำ น้ำยาที่เคยใช้ และพื้นผิวกระจก/ยาแนว -> AI ประเมินระดับคราบและร่างจุดทดลองเล็ก -> หัวหน้าทีมตรวจวิธีล้าง -> ส่งแผนล้างพร้อมข้อควรระวัง | กระจกฝ้าเป็นหน้าต่างหมอกที่เปิดเป็นช่องทดสอบเล็ก |
+| 16 | ที่ปรึกษาประกันภัยงานอีเวนต์กลางแจ้ง | งานกลางแจ้งมีเวที บูธอาหาร และคนเยอะ ลูกค้าไม่รู้ต้องคุ้มครองอะไร | Event brief form + policy comparison + broker review | ผู้จัดส่งสถานที่ จำนวนคน กิจกรรม vendor และช่วงเวลา -> AI แยกหมวดความคุ้มครองที่ควรถามเพิ่มและเทียบแพ็กเกจ -> broker ตรวจเงื่อนไขกรมธรรม์ -> ส่ง proposal ภาษาง่ายกับตารางคุ้มครอง | ร่มใหญ่คลุมเวที บูธอาหาร และผู้ร่วมงานแบบสเก็ตโน้ต |
+| 17 | ศูนย์ประสานส่งตัวอย่างอาหารแช่เย็นไปแล็บ | ตัวอย่างอาหารเสียได้เพราะเวลาหรืออุณหภูมิ ให้ AI ทำ QR tracking ก่อนรถรับ | QR label + pickup window calculator + lab coordinator review | ร้านส่งชนิดตัวอย่าง เวลาตัก จุดรับ และรูปฉลาก -> AI คำนวณช่วงรับ เช็ก label และร่างใบส่งตัวอย่าง -> lab coordinator ตรวจกล่องเย็นและเอกสาร -> ส่ง QR tracking กับใบรับตัวอย่าง | กล่องน้ำแข็งเป็นนาฬิกาทรายสีฟ้าพร้อม QR |
+| 18 | คลินิกดูแลผิววัยรุ่นนักกีฬาใส่หมวกกันน็อก | สิวจากหมวกกันน็อกหลังซ้อม? ให้ AI สรุป routine ก่อนพยาบาลผิวหนังดู | Photo diary + practice schedule + nurse review | ลูกค้าส่งรูปบริเวณสิว ตารางซ้อม ชนิดหมวก และการล้างหน้า -> AI จัดปัจจัยเหงื่อ/แรงเสียดสี/เวลาล้างและร่าง routine -> พยาบาลผิวหนังตรวจ -> ส่งแผนดูแลก่อน-หลังซ้อม | หมวกกันน็อกผ่าเป็นชั้นเหงื่อ แผ่นรอง และฟองล้างหน้า |
+| 19 | บริการปรับทางลาดรถเข็นหน้าบ้านผู้สูงอายุ | ธรณีสูงนิดเดียวก็ทำให้รถเข็นเข้าออกยาก ให้ AI ร่างตัวเลือกก่อนช่างวัดจริง | Photo measurement guide + Gemini estimate + accessibility builder review | ครอบครัวส่งรูปหน้าบ้าน ความสูงธรณี รุ่นรถเข็น และพื้นที่หน้าประตู -> AI คำนวณความชันคร่าว ๆ และร่างทางเลือกถาวร/ถอดเก็บได้ -> ช่างปรับบ้านตรวจหน้างาน -> ส่งภาพสเก็ตช์และรายการวัดเพิ่ม | ธรณีหน้าบ้านกลายเป็นสะพานเตี้ยอบอุ่น |
+| 20 | สตูดิโอโยคะสำหรับพนักงานร้านอาหารปวดฝ่าเท้า | ยืนทั้งกะจนฝ่าเท้าปวด ให้ AI ทำ sequence 12 นาทีจากท่ายืนจริง | Posture photos + ChatGPT + yoga teacher review | ลูกค้าส่งรูปท่ายืนทำงาน ชั่วโมงเข้ากะ และจุดปวดเท้า/น่อง -> AI จัดกลุ่มอาการเมื่อยและร่าง sequence สั้น -> ครูโยคะตรวจท่าปลอดภัย -> ส่งการ์ดยืดก่อน-หลังเข้ากะ | เสื่อโยคะกลายเป็นแผนที่พื้นครัวและทางเดินเสิร์ฟ |
+
+### Anti-repetition warnings
+- Preserve the exact service counter, customer input, expert/staff review, and customer-facing output; do not collapse these into broad software tips or generic checklist branches.
+- Safety-sensitive health, accessibility, insurance, and food-lab concepts must show AI as intake/summarization/checking support only; a qualified human confirms before guidance reaches customers.
+- Visual briefs must use the named service setting, not plain robot/arrow/office-board scenes.
+
+### Recommended next Zernio candidate
+Send next: คลินิกฝึกหายใจสำหรับนักร้องคาเฟ่ — Voice AI + ChatGPT turns short singing clips, sore-voice notes, and gig schedules into a 7-day breathing/warm-up card for a voice teacher to verify. Strong save/share angle because Thai cafe singers, creators, and service entertainers recognize the pain immediately.
+
+### Deterministic guard check
+- Concept rows: 20
+- Unique industries: 20
+- Exact prior-industry overlaps: 0
+- Banned generic phrases: 0
+- Recommended next Zernio candidate visible: yes
+- Publish/Zernio actions: none
+
+## 2026-07-10T14:33:50Z — Fresh service-industry concept slate v90 (ideation-only)
+
+Status: ideation-only / no-publish / no-Zernio. Goal: fresh Thailand service-industry source replenishment for GenLabs AI Learning; exact-fresh industries, concrete customer touchpoints, human review, and distinct service-setting visuals.
+
+### Top 10 concepts
+| No. | Industry | Hook | Tool/integration | Workflow | Visual metaphor | Uniqueness key |
+|---:|---|---|---|---|---|---|
+| 1 | คลินิกภูมิแพ้อาหารเด็กเล็ก | ลูกถามว่า “กินอะไรได้บ้าง?” ให้ AI ทำใบสรุปที่พ่อแม่เข้าใจใน 2 นาที | NotebookLM + Google Docs | อัปโหลดคำแนะนำแพทย์/รายการอาหารต้องเลี่ยง → AI ทำ FAQ สำหรับผู้ปกครอง → นักกำหนดอาหารตรวจ → ส่งใบ “กินได้/ควรถามก่อน” | ถาดอาหารเด็กแบ่งสีเขียว-เหลือง-แดงกับหมีพยาบาล | คลินิกภูมิแพ้อาหารเด็กเล็ก + พ่อแม่สับสนอาหารปลอดภัย + NotebookLM/Docs + FAQ อาหารปลอดภัยที่ผู้เชี่ยวชาญตรวจ + ถาดอาหารสามสี |
+| 2 | ศูนย์ทันตกรรมจัดคิวรีเทนเนอร์หาย | คนไข้ทำรีเทนเนอร์หายตอนกลางคืน คลินิกตอบยังไงให้ไม่หลุดขั้นตอน | LINE OA + Google Forms + Calendar | คนไข้กรอกวันทำหาย/ภาพฟัน/สาขาเดิม → ระบบจัดคิวพิมพ์ปาก → แอดมินตรวจข้อมูล → ส่งเวลานัดและข้อควรทำคืนนี้ | กล่องรีเทนเนอร์หายมีเส้นทางไปเก้าอี้ทันตกรรม | ศูนย์ทันตกรรมจัดคิวรีเทนเนอร์หาย + คำถามฉุกเฉินนอกเวลา + LINE OA/Forms/Calendar + intake-to-appointment flow + กล่องรีเทนเนอร์นำทาง |
+| 3 | สปาเท้าในสนามบิน | ลูกค้าต่อเครื่องแค่ 45 นาที สปาใช้ AI แนะนำแพ็กเกจทันเวลา | ChatGPT + POS booking note | ใส่เวลา boarding/gate/อาการปวด → AI เลือกบริการ 15/25/35 นาที → พนักงานยืนยันเวลา → ส่งข้อความเรียกกลับก่อนขึ้นเครื่อง | กระดาน gate สนามบินกลายเป็นเมนูสปาเท้า | สปาเท้าในสนามบิน + เวลาต่อเครื่องจำกัด + ChatGPT/POS note + quick-package matcher + gate-to-footspa board |
+| 4 | โรงแรมเลี้ยงสัตว์ระหว่างเจ้าของเที่ยว | เจ้าของคิดถึงน้องหมา ให้ AI ทำรายงานประจำวันแบบไม่เสียเวลาทีม | Voice note AI + LINE album | พนักงานอัดเสียงหลังให้อาหาร/เดินเล่น → AI สรุปเป็นข้อความอบอุ่นพร้อมเช็กลิสต์ → ทีมตรวจชื่อยา/อาหาร → ส่งอัลบั้ม LINE | พาสปอร์ตสัตว์เลี้ยงพร้อมสติกเกอร์มื้ออาหาร | โรงแรมเลี้ยงสัตว์ระหว่างเจ้าของเที่ยว + เจ้าของอยากได้อัปเดตไว + voice AI/LINE album + daily pet-stay report + pet passport board |
+| 5 | บริษัทนำเที่ยวรถไฟกลางคืนสำหรับต่างชาติ | นักท่องเที่ยวกลัวขึ้นรถไฟผิด ให้ AI ทำคู่มือก่อนเดินทาง 1 หน้า | Gemini + Google Maps + Sheets | ดึงเลขขบวน/สถานี/เวลา/จุดรับตั๋ว → AI ทำคู่มือสองภาษา → ไกด์ตรวจชื่อสถานี → ส่ง PDF ก่อนทริป | ตั๋วรถไฟกลางคืนมีแผนที่ไฟฉาย | บริษัทนำเที่ยวรถไฟกลางคืนสำหรับต่างชาติ + กลัวขึ้นรถไฟผิด + Gemini/Maps/Sheets + bilingual pre-trip guide + night-train ticket map |
+| 6 | โรงเรียนติวสอบใบขับขี่สำหรับแรงงานต่างชาติ | ผู้เรียนอ่านไทยไม่คล่อง ให้ AI ทำแบบฝึกกฎจราจรสองภาษา | ChatGPT + OCR | สแกนข้อสอบ/ป้ายจราจร → AI แปลงเป็นคำอธิบายไทย-พม่า/เขมรง่าย ๆ → ครูตรวจคำแปล → ส่งชุดฝึกก่อนสอบ | ป้ายจราจรพูดได้สองภาษา | โรงเรียนติวสอบใบขับขี่สำหรับแรงงานต่างชาติ + ภาษาเป็นกำแพงก่อนสอบ + ChatGPT/OCR + bilingual traffic-practice pack + speaking road signs |
+| 7 | อู่ซ่อมรถ EV มือสอง | ลูกค้าถามแบตเสื่อมหรือยัง ให้อู่ใช้ AI ทำใบอธิบายสุขภาพแบต | Gemini Sheets + diagnostic export | นำค่า SOH/ระยะวิ่ง/ประวัติชาร์จใส่ตาราง → AI แปลเป็นภาษาลูกค้า → ช่างตรวจตัวเลข → ส่งใบแนะนำซ่อมหรือเฝ้าดู | แบตเตอรี่ EV เป็นการ์ดตรวจสุขภาพ | อู่ซ่อมรถ EV มือสอง + อธิบายสุขภาพแบตให้ลูกค้าเชื่อใจ + Gemini Sheets/diagnostic export + battery-health explanation sheet + EV battery health card |
+| 8 | ร้านทำเล็บเจ้าสาวแบบเร่งด่วน | เจ้าสาวส่งรูปชุดตอนเช้า ร้านเล็บใช้ AI ทำ moodboard ก่อนบ่าย | Canva AI + LINE | ลูกค้าส่งรูปชุด/ช่อดอกไม้/ธีมงาน → AI สร้าง moodboard ลายเล็บ 3 แบบ → ช่างเลือกแบบทำจริง → ส่งราคาและเวลาทำ | แหวนแต่งงานเปิดเป็นบอร์ดสีเล็บ | ร้านทำเล็บเจ้าสาวแบบเร่งด่วน + ต้องตัดสินใจลายเล็บไว + Canva AI/LINE + wedding nail moodboard + ring-color board |
+| 9 | ค่ายมวยไทยสำหรับนักท่องเที่ยวมือใหม่ | ฝรั่งกลัวเจ็บตั้งแต่คลาสแรก ให้ AI ทำแผนฝึก 3 ระดับ | ChatGPT + waiver form | รับอายุ/ฟิตเนส/อาการเจ็บเดิมจากฟอร์ม → AI จัดระดับเบา-กลาง-เข้ม → ครูมวยตรวจ → ส่งคำแนะนำก่อนคลาส | นวมมวยสามระดับเหมือนไฟจราจร | ค่ายมวยไทยสำหรับนักท่องเที่ยวมือใหม่ + กลัวบาดเจ็บคลาสแรก + ChatGPT/waiver form + beginner class level plan + traffic-light gloves |
+| 10 | คลินิกนกและสัตว์เล็กพิเศษ | เจ้าของนกเล่าอาการไม่เป็น ให้ AI ทำใบบันทึกก่อนพบสัตวแพทย์ | LINE form + NotebookLM | รับวิดีโอ/อาหาร/กรง/พฤติกรรม → AI สรุปลำดับอาการ → ผู้ช่วยคลินิกตรวจ → ส่งให้หมอก่อนเข้าห้องตรวจ | กรงนกมีไทม์ไลน์อาการเป็นเส้นเชือก | คลินิกนกและสัตว์เล็กพิเศษ + อาการเล่าไม่ครบ + LINE form/NotebookLM + exotic-pet symptom brief + cage timeline string |
+
+### 10 additional backlog ideas
+| No. | Industry | Hook | Tool/integration | Workflow | Visual metaphor | Uniqueness key |
+|---:|---|---|---|---|---|---|
+| 11 | แม่บ้านทำความสะอาดหลังน้ำท่วมบ้าน | บ้านเพิ่งน้ำลด ลูกค้าส่งรูปมา ให้ AI ทำแผนล้างห้องตามลำดับปลอดภัย | Gemini Vision + Sheets | รูปแต่ละห้อง → AI แยกคราบโคลน/เฟอร์นิเจอร์/พื้นที่ไฟฟ้า → หัวหน้าทีมตรวจ → ส่งใบเสนอราคาตามโซน | แผนผังบ้านมีคลื่นน้ำลดระดับทีละห้อง | แม่บ้านทำความสะอาดหลังน้ำท่วมบ้าน + ประเมินงานจากรูปหลังน้ำลด + Gemini Vision/Sheets + room-zone cleanup quote + receding-water house map |
+| 12 | ช่างติดตั้งฉนวนกันร้อนใต้หลังคาบ้าน | ลูกค้าบ่นบ้านร้อนแต่ไม่รู้จุดรั่ว ให้ AI ทำ checklist สำรวจก่อนเสนอราคา | Google Forms + ChatGPT | ลูกค้ากรอกทิศแดด/ชนิดหลังคา/ห้องที่ร้อน → AI ทำคำถามสำรวจและรายการอุปกรณ์ → ช่างตรวจหน้างาน → ส่งแผนติดตั้ง | หลังคาบ้านเป็นแผนที่แดดสีส้ม | ช่างติดตั้งฉนวนกันร้อนใต้หลังคาบ้าน + สำรวจบ้านร้อนก่อนเสนอราคา + Forms/ChatGPT + heat-intake checklist + orange roof heat map |
+| 13 | สำนักงานภาษีฟรีแลนซ์ครีเอเตอร์ | ครีเอเตอร์มีรายได้หลายแอป ให้ AI จัดหมวดเอกสารก่อนคุยบัญชี | OCR + Gemini Sheets | อัปโหลดสลิป/รายงานแพลตฟอร์ม/ค่าใช้จ่าย → AI แยกหมวดรายได้-ต้นทุน → นักบัญชีตรวจ → ส่งรายการเอกสารที่ยังขาด | กล่องใบเสร็จกลายเป็นตารางสีพาสเทล | สำนักงานภาษีฟรีแลนซ์ครีเอเตอร์ + เอกสารรายได้หลายแพลตฟอร์มกระจัดกระจาย + OCR/Gemini Sheets + creator tax document sorter + receipt-to-pastel-table |
+| 14 | ทนายไกล่เกลี่ยมรดกครอบครัว | ลูกหลานพูดคนละเรื่อง ให้ AI ทำไทม์ไลน์ทรัพย์สินก่อนนัดไกล่เกลี่ย | NotebookLM + secure intake form | อัปโหลดโฉนด/บัญชีรายการทรัพย์/ข้อความครอบครัว → AI ทำสรุปประเด็นกลาง → ทนายตรวจข้อกฎหมาย → ส่ง agenda ภาษาเข้าใจง่าย | ต้นไม้ครอบครัวถือแฟ้มทรัพย์สิน | ทนายไกล่เกลี่ยมรดกครอบครัว + ข้อมูลทรัพย์สินกระจัดกระจาย + NotebookLM/secure form + mediation timeline brief + family-tree asset folders |
+| 15 | ผู้จัดการหอพักนักศึกษาต่างจังหวัด | นักศึกษาทักซ่อมแอร์-น้ำ-กุญแจพร้อมกัน ให้ AI จัดคิวงานซ่อมไม่หล่น | LINE OA + Airtable/Sheets | ข้อความแจ้งซ่อมเข้า LINE → AI แยกห้อง/อาการ/ความเร่ง → ผู้จัดการตรวจ → ส่งคิวช่างและสถานะกลับนักศึกษา | บอร์ดหอพักมีแม่เหล็กห้องวิ่งเข้าคิวช่าง | ผู้จัดการหอพักนักศึกษาต่างจังหวัด + แจ้งซ่อมหลายห้องพร้อมกัน + LINE OA/Sheets + repair-ticket triage + dorm magnet queue board |
+| 16 | ร้านอาหารเจจัดคิวเทศกาลกินเจ | ช่วงกินเจเมนูหมดเร็ว ให้ AI ทำป้าย “เหลืออะไรบ้าง” อัปเดตทุกชั่วโมง | Google Sheets + Canva AI | ครัวอัปเดตจำนวนเมนูใน Sheets → AI ทำข้อความป้าย/โพสต์ LINE → ผู้จัดการตรวจ → ส่งเมนูที่ยังสั่งได้ | ป้ายเทศกาลกินเจเป็นไฟจราจรเมนู | ร้านอาหารเจจัดคิวเทศกาลกินเจ + เมนูหมดทำให้ลูกค้าเสียเวลา + Sheets/Canva AI + live menu availability board + vegetarian festival traffic-light menu |
+| 17 | ร้านซักผ้าม่านโรงแรมเล็ก | โรงแรมเล็กไม่รู้รอบซักผ้าม่าน ให้ AI ทำตารางรับ-ส่งไม่ชนห้องพัก | Google Calendar + Sheets | ใส่เลขห้อง/วันแขกออก/ชนิดผ้าม่าน → AI จัดรอบถอด-ซัก-ส่งคืน → หัวหน้าซักรีดตรวจ → ส่งแผนรายสัปดาห์ | ผ้าม่านแต่ละห้องแขวนบนปฏิทิน | ร้านซักผ้าม่านโรงแรมเล็ก + รอบซักชนกับแขกเข้าพัก + Calendar/Sheets + curtain pickup-return planner + curtain calendar rail |
+| 18 | ร้านขายยาเวรกลางคืน | ลูกค้ากลางคืนเล่าอาการยาว ให้ AI ช่วยจัดคำถามคัดกรองก่อนเภสัชตอบ | LINE OA + ChatGPT guardrail | ลูกค้าพิมพ์อาการ/ยาเดิม/แพ้ยา → AI ทำคำถามสั้น ๆ และธงส่งต่อ → เภสัชกรตรวจ → ส่งคำแนะนำปลอดภัย | เคาน์เตอร์ร้านยากลางคืนมีไฟเตือนสามสี | ร้านขายยาเวรกลางคืน + คัดกรองอาการนอกเวลาคนเยอะ + LINE OA/ChatGPT guardrail + pharmacist-reviewed triage questions + night-pharmacy alert lights |
+| 19 | ศูนย์กายภาพผู้ป่วยพาร์กินสัน | ญาติจำท่าออกกำลังไม่ได้ ให้ AI ทำการ์ดฝึกที่บ้านจากคลิปนักกายภาพ | CapCut + voice AI | นักกายภาพอัดคลิปสั้น → AI ตัดเป็นท่า 1-2-3 พร้อมเสียงไทยช้า ๆ → นักกายภาพตรวจ → ส่งการ์ดวิดีโอให้ญาติ | ไม้เท้าเป็นรีโมตเลือกท่าฝึก | ศูนย์กายภาพผู้ป่วยพาร์กินสัน + ญาติทำท่าฝึกต่อที่บ้านไม่มั่นใจ + CapCut/voice AI + home-exercise micro cards + cane remote exercise cards |
+| 20 | พี่เลี้ยงเด็กสองภาษาแบบรายชั่วโมง | พ่อแม่อยากรู้วันนี้ลูกพูดภาษาอะไรบ้าง ให้ AI ทำบันทึกสองภาษาแบบน่ารัก | Voice AI + LINE note | พี่เลี้ยงอัดเสียงกิจกรรม/คำศัพท์ที่เด็กพูด → AI ทำ daily bilingual note → พี่เลี้ยงตรวจความจริง → ส่งให้พ่อแม่ | กล่องดินสอสีแบ่งคำไทย-อังกฤษ | พี่เลี้ยงเด็กสองภาษาแบบรายชั่วโมง + พ่อแม่อยากเห็นพัฒนาการภาษา + voice AI/LINE note + bilingual childcare daily note + two-language crayon box |
+
+### Anti-repetition warnings
+1. Keep away from broad formula advice and generic AI-agent checklist branches; every slide must name the service intake, reviewer, and customer-facing output.
+2. Adjacent health/clinic ideas are acceptable only when the exact patient question, safety guardrail, and visual setting are new; avoid reusing generic clinic FAQ framing.
+3. Tool labels are not enough: if the concept says NotebookLM, Gemini Sheets, LINE OA, or CapCut, the public copy must visibly teach that integration’s actual service workflow.
+
+### Recommended next Zernio candidate
+Send next: **ร้านขายยาเวรกลางคืน + LINE OA/ChatGPT guardrail**. Why: mass-market Thai pain point, high trust/save value, clear human professional review by pharmacist, strong comment potential (“อาการแบบนี้ควรถามอะไร”), and visually distinctive night-pharmacy alert-light framing.
+
+### Deterministic guard check
+- Concept rows: 20
+- Unique industries in this slate: 20/20
+- Exact prior-industry overlaps before this section: 0
+- Banned generic phrases in saved section: 0
+- Publish/Zernio actions: none

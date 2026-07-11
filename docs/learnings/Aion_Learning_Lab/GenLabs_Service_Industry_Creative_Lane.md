@@ -4337,3 +4337,97 @@ Send next: **ร้านขายยาเวรกลางคืน + LINE OA
 - Exact prior-industry overlaps before this section: 0
 - Banned generic phrases in saved section: 0
 - Publish/Zernio actions: none
+
+## Creative scout v89 — 2026-07-11T02:42:02Z — Thailand service-industry AI workflow slate
+
+Status: ideation-only / no-publish / no-Zernio. Purpose: replenish exact-fresh service-industry source ideas while avoiding old broad formula advice and generic checklist branches.
+
+### Top 10 concepts
+| # | Industry | Hook | Tool/integration | Workflow | Visual metaphor |
+|---|---|---|---|---|---|
+| 1 | คลินิกเสียงแหบครูสอนพิเศษ | ครูสอนออนไลน์เสียงพัง? ให้ AI แปลงคลิปเสียงเป็นแผนพักเสียงก่อนคาบหนัก | LINE voice note + Google Calendar | ครูส่งคลิปเสียง 30 วิ + ตารางสอน → AI จับช่วงเสียงตก/คำที่ทำให้เจ็บคอ → นักแก้ไขการพูดรีวิว → ส่งการ์ดพักเสียงรายวัน | ไวท์บอร์ดคลื่นเสียงเป็นรอยชอล์กแตก |
+| 2 | ศูนย์ฝึกใส่เครื่องช่วยฟังผู้สูงวัย | ลูกหลานอธิบายเครื่องช่วยฟังซ้ำ ๆ? ทำคู่มือเสียงจากรุ่นจริง | Photo step recognizer + Thai voice AI | ครอบครัวส่งรูปเครื่องรุ่นจริง + จุดที่ผู้สูงวัยสับสน → AI ทำขั้นตอนเสียงไทยง่าย → นักโสตสัมผัสรีวิว → ส่งการ์ดเช้า-เย็น | กล่องเครื่องช่วยฟังเป็นรีโมตทีวีปุ่มใหญ่ |
+| 3 | โรงเรียนสอนจัดกระเป๋ายานักเดินทางโรคประจำตัว | ก่อนบิน อย่าให้ยาประจำตัวกลายเป็นปัญหาหน้าด่าน | Medication OCR + itinerary mapper | ลูกค้าส่งรูปฉลากยา + ประเทศ/ไฟลต์ → AI แยกชื่อยา เวลาใช้ เอกสารที่ควรถามแพทย์ → เภสัชกรรีวิว → ส่งโพยซองยาตามวันเดินทาง | พาสปอร์ตเปิดเป็นช่องแผงยา |
+| 4 | คลาสออกกำลังในน้ำสำหรับหญิงตั้งครรภ์ | คุณแม่ท้องอยากขยับในสระ แต่ไม่รู้ท่าไหนเหมาะกับวันนี้ | Google Forms + trimester movement selector | ลูกค้าส่งอายุครรภ์ อาการปวด/ตึง และประสบการณ์ว่ายน้ำ → AI จัดท่าในน้ำตามระดับแรง → ครูรีวิว → ส่งการ์ดท่าในสระวันนี้ | ห่วงยางแม่ท้องแบ่งเป็นวงแหวนไตรมาส |
+| 5 | โรงเรียนติวคณิตเด็กดิสคัลคูเลีย | เด็กจำสูตรได้ แต่เลขย้ายตำแหน่ง? ให้ AI หาแพตเทิร์นที่ผิด | Worksheet scanner + exercise generator | ผู้ปกครองส่งรูปแบบฝึกหัด → AI แยกผิดเพราะหลักสิบ/สัญลักษณ์/ตำแหน่ง → ครูเฉพาะทางรีวิว → ส่งแบบฝึกจับ-วาง-นับ 10 นาที | ลูกคิดมีไฟนำทางทีละเม็ด |
+| 6 | ศูนย์ปรับอาหารผู้ป่วยไตระยะเริ่มต้น | กินร้านเดิมได้ไหม? ให้ AI แปลงเมนูไทยเป็นโพยสั่งแบบไตสบายขึ้น | Menu photo parser + dietitian review sheet | ลูกค้าส่งรูปเมนูร้านประจำ → AI เสนอคำสั่งลดเค็ม/ซุปแยก/โปรตีนพอดี → นักกำหนดอาหารรีวิว → ส่งโพยสั่งอาหาร | ช้อนซุปเป็นเกจวัดเกลือ |
+| 7 | ศูนย์ฝึกใช้ไม้เท้าขาวสำหรับผู้ใหญ่สายตาเลือนราง | เริ่มใช้ไม้เท้าขาวจากซอยบ้านก่อน ไม่ใช่จากถนนใหญ่ | Route note mapper + audio cue planner | ลูกค้าส่งคลิปเล่าเส้นทางบ้าน-ร้านค้า + จุดที่กลัว → AI แบ่งเส้นทางเป็นเสียง/พื้นผิว/จุดจำ → ครูฝึกรีวิว → ส่งไฟล์เสียงซ้อมเดิน | ไม้เท้าขาววาดแผนที่เสียงบนฟุตบาท |
+| 8 | คลินิกฟื้นฟูขากรรไกรหลังนอนกัดฟัน | ปวดกรามตอนเช้า? ให้ AI แยกว่าเกิดตอนไหนก่อนทำท่าผิด | Symptom diary + jaw video tagging | คนไข้ส่งวิดีโออ้าปาก/เคี้ยว + บันทึกปวดตอนตื่น → AI จัดช่วงอาการและท่าที่ติด → นักกายภาพช่องปากรีวิว → ส่งรูทีนคลายกราม | บานพับประตูเล็กกับแผ่นประคบอุ่น |
+| 9 | ช่างซ่อมเครื่องอบผ้าระบบแก๊สร้านซักอบรีดชุมชน | ผ้าไม่แห้งหนึ่งรอบ ทำให้คิวส่งผ้าทั้งวันเลื่อน | LINE video intake + OCR รุ่นเครื่อง + repair CRM | ร้านส่งคลิปเสียงเครื่อง รูปไฟสถานะ รุ่นเครื่อง และรอบที่ผ้าไม่แห้ง → AI แยกทางลม/สายพาน/หัวเผา → ช่างตรวจความปลอดภัย → ส่งใบรับงาน | ถังอบผ้าเป็นนาฬิกาทรายความร้อน |
+| 10 | ร้านซ่อมเครื่องสไลซ์เนื้อร้านชาบู/หมูกระทะ | สไลซ์หนาบางไม่เท่ากัน ต้นทุนเนื้อเสียก่อนลูกค้ารู้ | LINE short video + blade model OCR + parts Sheet | ร้านส่งคลิปชิ้นเนื้อหลังสไลซ์ รุ่นเครื่อง และความหนาที่ตั้ง → AI แยกใบมีด/ราง/มอเตอร์/ความสะอาด → ช่างครัวตรวจ → ส่งคิวซ่อมพร้อมอะไหล่ | แผ่นเนื้อเป็นไม้บรรทัดแดง-เขียว |
+
+### 10 additional backlog ideas
+| # | Industry | Hook | Tool/integration | Workflow | Visual metaphor |
+|---|---|---|---|---|---|
+| 11 | ช่างซ่อมเครื่องซีลสูญญากาศร้านอาหารเดลิเวอรี | ถุงรั่วตอนส่ง ลูกค้าโทษอาหารก่อนโทษเครื่องซีล | Seal photo intake + pressure setting form + Airtable ticket | ร้านส่งรูปถุงซีล คลิปตอนดูดอากาศ ชนิดถุง และเมนูที่รั่วบ่อย → AI แยกแถบความร้อน/ยางกด/แรงดูด → ช่างตรวจสเปก → ส่งวิธีทดสอบถุงและคิวซ่อม | ซองใสมีรอยรั่วเรืองแสง |
+| 12 | ทีมซ่อมไม้กั้นรถเข้าออกหมู่บ้าน | ไม้กั้นค้างตอนเย็น รถต่อแถวก่อน รปภ. รู้สาเหตุ | Gate-cycle video + RFID log + service CRM | นิติส่งคลิปไม้กั้น รูปตู้ควบคุม log บัตร และช่วงรถติด → AI แยกมอเตอร์/เซนเซอร์/บัตร/ไฟเลี้ยง → ช่างระบบตรวจ → ส่งแผนซ่อมและวิธีเปิดชั่วคราว | ไม้กั้นเป็นเข็มนาฬิกาหน้าหมู่บ้าน |
+| 13 | ช่างซ่อมตู้แช่เค้กกระจกโค้งในคาเฟ่ | เค้กหน้าเยิ้มก่อนร้านรู้ว่าอุณหภูมิแกว่ง | Thermometer OCR + display-case video + service log | คาเฟ่ส่งรูปอุณหภูมิ ฝ้ากระจก เสียงคอมเพรสเซอร์ และช่วงลูกค้าเปิดบ่อย → AI แยกพัดลม/คอยล์/ยางขอบ → ช่างตู้แช่ตรวจ → ส่งวิธีเก็บเค้กชั่วคราว | ตู้เค้กเป็นเรือนกระจกเย็น |
+| 14 | บริการซ่อมเครื่องจ่ายสบู่และก๊อกเซนเซอร์ห้องน้ำอาคารสำนักงานเล็ก | ห้องน้ำดูสะอาด แต่สบู่ไม่ออก ลูกค้าจำได้ทันที | QR fault report + short clip + asset Sheet | แม่บ้านสแกน QR ส่งคลิปก๊อก/สบู่ ตำแหน่ง รุ่น และรอบเปลี่ยนถ่าน → AI รวมอาการซ้ำตามจุด → หัวหน้าช่างตรวจสต็อก → ส่งรอบซ่อมพร้อมอะไหล่ | อ่างล้างมือเป็นแผงควบคุมหยดน้ำ |
+| 15 | Beachfront proposal planner | ขอแต่งงานริมทะเล อย่าให้ฝน/น้ำขึ้นทำแผนพัง | Weather/tide API + LINE intake | คู่รักส่งวันเวลา จำนวนแขก ความกังวลเรื่องฝน และภาพแรงบันดาลใจ → AI จับจังหวะน้ำขึ้น ลม ฝน vendor slot → planner รีวิว → ส่งแผน sunset + แผนสำรอง | รอยเท้าเรืองแสงบนทรายแยกเป็นเส้นแดด/ฝน |
+| 16 | Food-truck event permit runner | รถฟู้ดทรัคพร้อมขาย แต่เอกสารเทศบาลยังไม่พร้อม | Permit checklist AI + map/photo intake | ร้านส่งเมนู จุดจอด LPG แผนที่งาน และไฟ/น้ำที่ใช้ → AI เช็กเอกสารขาดและข้อจำกัดพื้นที่ → permit runner รีวิว → ส่งชุดยื่นงานพร้อม | รถเข็นผ่านประตูตราประทับทีละด่าน |
+| 17 | Private chef dinner coordinator | ดินเนอร์ส่วนตัวพังได้จาก allergy หนึ่งข้อที่ไม่มีใครรวมข้อมูล | Allergy intake + kitchen photo parser | เจ้าบ้านส่ง allergy ครัวจริง สไตล์อาหาร และเวลาบริการ → AI ทำข้อจำกัดเมนู รายการของ อุปกรณ์ขาด และจังหวะเสิร์ฟ → เชฟรีวิว → ส่ง dinner brief | โต๊ะอาหารเป็นจิ๊กซอว์รอบกระทะกลาง |
+| 18 | Conference livestream captioning crew | ไลฟ์สัมมนาสองภาษา คำเฉพาะผิดทีเดียวเสียความน่าเชื่อถือ | Slide OCR + glossary builder + caption run sheet | ผู้จัดส่ง agenda ชื่อ speaker slide deck และคำเฉพาะ → AI สร้าง glossary วิธีสะกดชื่อ และ run sheet caption → caption lead รีวิว → ส่ง production pack | โปรเจกเตอร์ปล่อยริบบิ้นซับไตเติลสองภาษา |
+| 19 | Construction site safety induction trainer | คนงานใหม่ไม่ควรฟัง safety แบบเดียวกันทุกตำแหน่ง | Hazard photo intake + mobile quiz generator | ผู้รับเหมาส่งบทบาทคนงาน แผนที่ไซต์ PPE และรูปจุดอันตราย → AI ทำฉาก induction ตามบทบาท + quiz มือถือ → safety trainer รีวิว → ส่งลิงก์อบรมก่อนเข้าไซต์ | หมวกนิรภัยวิ่งผ่านด่านงานวัด |
+| 20 | Cold-chain seafood delivery coordinator | อาหารทะเลถึงครัวตรงเวลาอย่างเดียวไม่พอ ต้องมีหลักฐานความเย็น | Route ETA + temperature log + LINE proof | ร้านอาหารส่ง order seafood หน้าต่างรับของ ความต้องการน้ำแข็ง และรูปจุดรับ → AI จับเส้นทาง ETA packing และหลักฐานรับมอบ → logistics coordinator รีวิว → ส่งคอนเฟิร์มเย็นถึงครัว | ลังปลาแล่นในอุโมงค์น้ำแข็งพร้อมโคมเทอร์โมมิเตอร์ |
+
+### Anti-repetition warnings
+1. Health and repair niches are saturated in the archive; keep these exact sub-niches tied to intake evidence, professional review, and customer-ready output.
+2. Tool labels alone are not enough; each draft must show the service touchpoint, input, human check, and output on the slides.
+3. Do not let repair, event, or health ideas collapse into old broad formula advice or generic checklist branches.
+
+### Recommended next Zernio candidate
+Send next: `ศูนย์ปรับอาหารผู้ป่วยไตระยะเริ่มต้น` — ChatGPT/menu-photo + dietitian review has high Thai usefulness, clear customer pain, strong save/share behavior, and a visual salt-gauge metaphor that avoids repeated office/robot visuals.
+
+### Deterministic guard check
+- Concept rows: 20
+- Unique industries in this slate: 20
+- Exact prior-industry overlaps before append: 0
+- Banned generic phrases in saved concept section: 0
+- Publish/Zernio actions: none
+
+## 2026-07-11T14:47:06Z — Fresh service-industry concept slate v91 (ideation-only)
+
+Status: ideation-only; no live publishing; no Zernio draft creation. Goal is exact-fresh Thai service-industry workflows that avoid old generic branches.
+
+### Top 10 concepts
+| No. | Industry | Hook | Tool/integration | Workflow | Visual metaphor |
+|---:|---|---|---|---|---|
+| 1 | ศูนย์สอนใช้เครื่องพ่นยาหอบหืดเด็ก | ลูกใช้ spacer ผิด ให้ AI ช่วยจับจังหวะก่อนพ่นยา | LINE video intake + AI checklist | พ่อแม่ส่งคลิปพ่นยา → AI เช็กขั้นตอนที่หลุด → พยาบาลตรวจ → ส่งการ์ด 5 จังหวะซ้อมที่บ้าน | spacer เป็นจรวดนับถอยหลัง |
+| 2 | ห้องเรียนเตรียมผ่าตัดต้อกระจกผู้สูงวัย | ก่อนผ่าตัดต้อกระจก อย่าปล่อยให้ตารางหยอดตาหาย | OCR + voice reminder | ถ่ายใบคำสั่งแพทย์ → AI แปลงเป็นตารางช่องใหญ่ → เจ้าหน้าที่ตรวจ → ส่งปฏิทินหยอดตาพร้อมเสียงเตือน | เลนส์ตาเป็นนาฬิกาทรายหยดยา |
+| 3 | ศูนย์ฟื้นฟูการทรงตัวหลังบ้านหมุน | คนไข้จำท่าเวียนหัวไม่ได้ ให้ AI ทำไดอารี่ท่าฝึก | Voice note + symptom tagging | คนไข้บันทึกหลังฝึก → AI จัดแท็กท่าที่เวียนหัว → นักกายภาพตรวจ → ส่งบัตรท่าฝึก 3 ท่าที่บ้าน | เข็มทิศบนหมอนค่อย ๆ หยุดหมุน |
+| 4 | โรงเรียนสอนอ่านฉลากโภชนาการผู้แพ้อาหารผู้ใหญ่ | แพ้อาหารแต่เจอคำแฝงบนฉลาก ให้ AI ช่วยแยกก่อนซื้อ | OCR ฉลาก + allergen synonym matcher | ลูกค้าถ่ายฉลากหลายยี่ห้อ → AI ไฮไลต์คำแฝงสารแพ้ → นักกำหนดอาหารตรวจ → ส่งตะกร้าปลอดภัย/ควรถามร้าน | รถเข็นซูเปอร์มาร์เก็ตมีไฟฉายสแกนฉลาก |
+| 5 | บริการซ่อมเตาแก๊สฝังเคาน์เตอร์คอนโด | ก่อนช่างไปถึง ให้ AI แยกเปลวไฟผิดปกติแบบปลอดภัย | LINE photo/video + safety checklist | ลูกค้าส่งรูปเปลวไฟ/เสียงจุดติด → AI คัดกรองหยุดใช้หรือรอช่าง → ช่างแก๊สตรวจ → ส่งขั้นตอนปิดวาล์วและรายการหน้างาน | เปลวไฟสีน้ำเงินเป็นเข็มวัดสุขภาพเตา |
+| 6 | ทีมซ่อมพื้นกระเบื้องโพรงในบ้านหลังน้ำรั่ว | เคาะพื้นแล้วเสียงกลวง ให้ AI วาดโซนซ่อมก่อนรื้อ | Video sound map + vision AI | ลูกค้าส่งคลิปเคาะพื้น/รูปแนวร้าว → AI ทำแผนที่เสียงกลวง → ช่างปูกระเบื้องตรวจ → ส่งโซนรื้อพร้อมเวลาฝุ่น | พื้นกระเบื้องเป็นแผนที่เกาะใต้แผ่น |
+| 7 | ช่างซ่อมหลังคาเมทัลชีทรั่วของโกดัง SME | ฝนหยดตรงไหน ให้ AI ทำแผนที่รั่วก่อนขึ้นหลังคา | LINE video + roof-leak mapper | ลูกค้าส่งวิดีโอหยดน้ำ/รูปสกรู → AI จับจุดรั่วตามแนวแผ่น → ช่างหลังคาตรวจทางปีน → ส่งแผนซ่อมหลังฝนหยุด | หลังคาเป็นโน้ตเพลงที่มีหยดฝนผิดคีย์ |
+| 8 | ทีมซ่อมระบบน้ำหยดสวนบ้านและคาเฟ่สวนเล็ก | ต้นไม้เฉาเป็นหย่อม ให้ AI หาโซนน้ำหยดที่ตัน | Garden map + AI zone diagnosis | ลูกค้าส่งรูปต้นเฉา/คลิปหัวน้ำหยด → AI แยกหัวตัน แรงดันตก ตั้งเวลาเพี้ยน → ช่างสวนตรวจ → ส่งแผนปรับโซนรดน้ำ | สวนเป็นแผงวงจรสีเขียวมีหลอดไฟน้ำหยด |
+| 9 | ทีมจัดหาห้องพักนักกีฬาเยาวชนทัวร์นาเมนต์ต่างจังหวัด | จัดห้องทีมเด็กให้ไม่สับสน ด้วย Sheets + AI rooming list | Gemini Sheets | โค้ชส่งรายชื่อ/ผู้ปกครอง/เวลาถึง → AI จับคู่ห้องตามทีม เพศ อายุ อาหาร → เจ้าหน้าที่ตรวจเคสพิเศษ → ส่ง rooming list สีทีม | ตารางแข่งกลายเป็นผังโรงแรม |
+| 10 | บริการประสานรถตู้รับส่งทีมแพทย์งานวิ่งมาราธอน | งานวิ่งถนนปิดหลายจุด ให้ AI จัดรถแพทย์ไม่หลง route | Make + Google Maps AI | หน่วยแพทย์ส่งจุดประจำการ/เวลา standby → AI จัดเส้นทางและจุดรับส่ง → ผู้ประสานงานตรวจเวลาปิดถนน → ส่ง driver map card | เส้นทางรถตู้เป็นเส้นเลือดบนแผนที่เมือง |
+
+### 10 additional backlog ideas
+| No. | Industry | Hook | Tool/integration | Workflow | Visual metaphor |
+|---:|---|---|---|---|---|
+| 11 | ผู้ดูแล VIP lounge สำหรับศิลปินหลังเวทีคอนเสิร์ต | rider ศิลปินเปลี่ยนตลอด ให้ AI ทำ lounge card ก่อน soundcheck | ChatGPT Projects | tour manager ส่ง rider/แพ้อาหาร/เวลาขึ้นเวที → AI แยกเช็กลิสต์รายศิลปิน → supervisor ตรวจของจริง → ส่งการ์ดห้องพักทีมศิลปิน | ห้องพักศิลปินเป็น control room เงียบ ๆ |
+| 12 | ทีมจัดคิวช่างแต่งหน้าและทำผมกองประกวดนางงามท้องถิ่น | คิวหน้าเวทีชนกัน ให้ AI จัด beauty queue pass | Airtable AI | ผู้เข้าประกวดส่งรูปชุด/รอบขึ้นเวที/ลุคที่ต้องการ → AI จัดคิวตามความซับซ้อน → หัวหน้าช่างตรวจเวลาซ้อน → ส่งบัตรคิวรายคน | สายสะพายกลายเป็นไทม์ไลน์กระจกแต่งหน้า |
+| 13 | ผู้ประสานงานเรือรับส่งแขกงานแต่งเกาะส่วนตัว | แขกมาหลายไฟลต์ คลื่นลมเปลี่ยน ให้ AI จัดรอบเรือ | Gemini + weather API | แขกส่งไฟลต์/โรงแรม/เมาเรือ → AI จัดกลุ่มรอบเรือตามคลื่นลม → concierge ตรวจรอบสำรอง → ส่ง boarding card | การ์ดเชิญลอยบนเส้นทางเรือ |
+| 14 | ทีมจัดเก็บและคืนอุปกรณ์บูธงานแฟร์หลังปิดงาน | ปิดงานแล้วของหาย ให้ AI เทียบรูปบูธกับ packing list | Vision AI + pickup labels | exhibitor ส่งรูปบูธ/รายการของ/จุดรับคืน → AI เทียบของครบหรือขาด → floor coordinator ตรวจของเปราะ → ส่ง label และแจ้งชิ้นที่ขาด | บูธแตกตัวเป็นกล่องพัสดุป้ายสี |
+| 15 | ผู้ประสานงานรถห้องเย็นส่งดอกไม้ไหว้ครูหลายโรงเรียน | ส่งพานดอกไม้หลายโรงเรียน ให้ AI จัด route ไม่ช้ำก่อนพิธี | Sheets AI + route optimizer | ร้านดอกไม้ส่งจำนวนพาน/โรงเรียน/เวลาพิธี → AI จัดลำดับส่งตามอุณหภูมิและเวลาเข้าแถว → dispatcher ตรวจรถ → ส่ง delivery board | พานดอกไม้อยู่ในกล่องน้ำแข็งโปร่งใส |
+| 16 | ทีมรับรองคณะศึกษาดูงานโรงงานอาหารฮาลาล | ก่อนพาคณะเข้าโรงงาน ให้ AI ทำ visitor briefing จากกฎจริง | NotebookLM | ผู้จัดส่งรายชื่อคณะ/ข้อกำหนดฮาลาล/จุดห้ามถ่าย → AI สรุป briefing จากเอกสารโรงงาน → protocol officer ตรวจภาษา → ส่ง route card และ Q&A | หมวกคลุมผมโรงงานกลายเป็นแผนที่ทัวร์สะอาด |
+| 17 | บริการซ่อมประตูบานเลื่อนอะลูมิเนียมบ้านจัดสรร | ประตูฝืดเพราะล้อหรือราง ให้ AI ถามรูปเพิ่มก่อนเสนอราคา | LINE video + auto-question form | ลูกค้าส่งคลิปเสียงล้อ/รูปขอบราง → AI แยกลูกล้อแตก รางยุบ บานตก → ช่างอะลูมิเนียมยืนยันอะไหล่ → ส่งใบเสนอราคา | รางประตูเป็นรางรถไฟจิ๋วมีไฟสี |
+| 18 | ทีมซ่อมไฟทางเดินหมู่บ้านและเสาไฟหน้าบ้าน | ไฟดับหลายจุด ให้ AI รวมเคสจากไลน์หมู่บ้านเป็นแผนที่ซ่อม | LINE OA + map clustering | ลูกบ้านส่งพิกัด/รูปเสา/เวลาที่ดับ → AI รวมจุดและแยกหลอด เซนเซอร์ เบรกเกอร์ → ช่างไฟตรวจคิว → ส่งประกาศเข้าซ่อม | หมู่บ้านกลางคืนมีดาวรอเปิดไฟ |
+| 19 | บริการซ่อมสายชำระและวาล์วน้ำรั่วในบ้านเช่า | ผู้เช่าแจ้ง เจ้าของอนุมัติ ช่างเตรียมอะไหล่ ให้ AI สรุปให้จบ | Google Forms + LINE approval | ผู้เช่าส่งรูปหยดน้ำ/ตำแหน่งห้องน้ำ → AI แยกข้อมูลผู้เช่า เจ้าของ และช่าง → ช่างประปาตรวจอะไหล่ → ส่งใบอนุมัติสั้น | หยดน้ำเป็นตราประทับไหลจากผู้เช่าไปช่าง |
+| 20 | ศูนย์ฝึกผู้ดูแลผู้ป่วยให้อาหารทางสายยาง | ญาติกลัวทำผิดขั้นตอน ให้ AI เช็กคลิปก่อนพยาบาลแก้ให้ | Short video upload + step checklist | ญาติส่งคลิปซ้อมให้อาหาร → AI ทำเช็กลิสต์ล้างสาย ยกหัว เตรียมอาหาร บันทึก → พยาบาลโภชนบำบัดตรวจ → ส่งใบแก้ไขเฉพาะบ้าน | สายให้อาหารเป็นเส้นทางรถไฟ 4 สถานี |
+
+### Anti-repetition warnings noticed
+1. Avoid the old generic AI-checklist branch: these concepts must keep the named service setting visible in the hook, slide examples, and visual scene.
+2. Adjacent health/repair niches are getting crowded, so the next generator should preserve the exact micro-situation, intake artifact, professional review, and customer-facing output.
+3. Hospitality/event concepts can drift into broad coordination advice; require concrete artifacts such as rooming list, boarding card, pickup label, delivery board, or visitor route card.
+
+### Recommended next Zernio candidate
+Send next: **ศูนย์สอนใช้เครื่องพ่นยาหอบหืดเด็ก** — high-save parent/clinic utility, clear video-intake workflow, easy sketchnote visual, and not a generic office-productivity lesson.
+
+### Deterministic guard check
+- Concept rows: 20
+- Unique industries in this slate: 20
+- Exact prior-industry overlaps against earlier creative-lane note: 0
+- Banned generic phrase hits in saved section: 0
+- Publish/Zernio actions: none

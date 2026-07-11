@@ -1,11 +1,24 @@
-<!-- ZG-FACTORY-CURRENT-2026-07-10-0712-ZERO-DRAFT-SOURCE-SATURATION -->
-### Current factory readback — 2026-07-10 07:12 UTC zero-draft/source-lane saturation; no Zernio payload
-- Command: exact hourly command from `/home/clawd/.hermes/hermes-agent` exited 0 with `status=ok`, `apply=true`, `send_to_zernio=true`, and `draft_count=0/results=[]` at `latest_social_draft_factory.json@2026-07-10T07:10:03.015135+00:00`; required same-run recovery rerun exited 0 with `draft_count=0/results=[]` at `latest_social_draft_factory.json@2026-07-10T07:12:50.967946+00:00`.
-- Result: no current-run `auto-*` carousel folder/manifest/media, Airtable Carousel Posts row, outbound Zernio payload, or Zernio draft was created after the 07:10/07:12 run window. Latest auto manifest remains the historical 00:20 value-QA folder `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260710T001517Z-yt-b4MKylwTh3s/manifest.json`. Zernio/platform verification is not applicable because no outbound post exists; no public posting/live publishing occurred.
-- Source diagnosis: source-lane/anti-repetition saturation — Carousel Posts loaded=498, existing_source_ids=498, partial_source_ids=34, combined_existing_or_partial=521, blocked_content_families=68; Canonical selected 0, Matrix 0, Evergreen 0/42, AI Words 0/8, KPI backstop 0/8. Static and deterministic fallback lanes are exhausted or blocked by duplicate/repeat-family guards.
-- Scheduler/process: cron `a97a7703af32` remains enabled=True / scheduled hourly, state `scheduled`, last_status `ok`, next_run_at `2026-07-10T08:07:08.412821+00:00`; no related factory/radar process remained in the process readback at `2026-07-10T07:15:01+00:00`. Keep factory enabled/draft-only; no public posting/live publishing.
-- KPI blocker / next action: urgent ChatGPT/NotebookLM-first fresh-source replenishment with non-repeating numbered software-tip sources; then Canva AI, CapCut AI, Perplexity, Gamma, Gemini Sheets/Docs, Claude Artifacts/Projects, and Zapier/Make expansion only after source-topic/promise gates pass. Do not pause the factory; feed fresh source lanes.
+<!-- ZG-FACTORY-CURRENT-2026-07-11-0703-ZERO-DRAFT-SOURCE-SATURATION -->
+### Current factory readback — 2026-07-11 07:03 UTC zero-draft/source-lane saturation
+- Command: exact hourly command exited 0 with `draft_count=0/results=[]` at `latest_social_draft_factory.json@2026-07-11T06:58:03.187809+00:00`; required same-run recovery rerun also exited 0 with `draft_count=0/results=[]` at `latest_social_draft_factory.json@2026-07-11T07:03:07.754371+00:00`.
+- Payload boundary: no current-run `auto-*` folder/manifest/media, Airtable Carousel Posts row, outbound Zernio payload, or Zernio draft was created after the 06:58/07:03 run window. Latest auto folder remains historical `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260710T172709Z-yt-hAmAvsIX41s`; Zernio/platform verification is not applicable for this tick because no post exists.
+- Source diagnosis: source-lane/anti-repetition saturation — existing posts/source IDs `501`, partial source IDs `34`, combined existing/partial `524`, blocked content families `76`; Canonical selected `0/98` (`12` existing, `30` repeat-family, `8` no-educational-value, `48` not A/B), Matrix `0/436` (`189` existing/partial, `247` repeat-family), Evergreen `0/42`, AI Words `0/8`, KPI backstop `0/8`.
+- Scheduler/process: prior scheduler watch resolved for this tick; cron `a97a7703af32` remains enabled/draft-only and future-scheduled for `2026-07-11T07:57:29.222527+00:00`; no lingering factory/radar process at `2026-07-11T07:04:00Z`. No public posting/live publishing.
+- KPI blocker / next action: urgent ChatGPT/NotebookLM-first source replenishment and anti-repetition/family-key review; do not force duplicate/generic output.
 
+<!-- ZG-FACTORY-HISTORICAL-2026-07-11-0445-ZERO-DRAFT-SOURCE-SATURATION -->
+### Historical previous factory readback — superseded by 07:03 zero-draft/source-lane saturation
+- Historical result: the previous same-day factory readback created no Airtable/Zernio payload and is superseded by the 07:03 current readback above. Source-lane saturation remained the blocker; no public posting/live publishing.
+<!-- ZG-FACTORY-HISTORICAL-2026-07-11-0233-ZERO-DRAFT-SOURCE-SATURATION -->
+### Historical previous-hour factory readback — superseded by 04:45 readback
+- Historical result: the 02:30/02:33 exact+recovery zero-draft readback created no Airtable/Zernio payload and is superseded by the 07:03 current readback above. Source-lane saturation remained the blocker; no public posting/live publishing.
+<!-- ZG-FACTORY-HISTORICAL-2026-07-10-2309-ZERO-DRAFT-SOURCE-SATURATION -->
+### Historical factory readback — 2026-07-10 23:09 UTC zero-draft/source-lane saturation; no Zernio payload; superseded by 02:33 readback
+- Cron output: `2026-07-10_23-12-36.md`; exact command exited 0 with `draft_count=0/results=[]` at `2026-07-10T23:08:48Z`; required recovery rerun exited 0 with `draft_count=0/results=[]` at `2026-07-10T23:09:38Z`.
+- Result: no current-run `auto-*` carousel folder/manifest/media, Airtable Carousel Posts row, outbound Zernio payload, or Zernio draft was created after the 23:08/23:09 run window. Zernio/platform verification is not applicable because no outbound post exists; no public posting/live publishing occurred.
+- Source diagnosis: source-lane/anti-repetition saturation — existing_source_ids=501, partial_source_ids=34, combined_existing_or_partial=524, blocked_content_families=68; Canonical 0, Matrix 0, Evergreen 0/42, AI Words 0/8, KPI backstop 0/8.
+- Scheduler/process: cron `a97a7703af32` remains enabled=True / scheduled hourly, state `scheduled`, last_status `ok`, last_run_at `2026-07-10T23:12:36.445039+00:00`, next_run_at `2026-07-11T00:12:36.445039+00:00`; no related factory/radar process remained in the process readback at `2026-07-10T23:57:14Z`. Keep factory enabled/draft-only; no public posting/live publishing.
+- KPI blocker / next action: urgent ChatGPT/NotebookLM-first fresh-source replenishment plus anti-repetition/family-key review. Do not force duplicate/generic output just to satisfy volume.
 <!-- ZG-SELF-IMPROVEMENT-2026-07-10-1003 -->
 ### 3-day self-improvement review — 2026-07-10 10:03 UTC
 - KPI: best post `7634027210248097042` CTA-stripped ChatGPT productivity/work-output at **51,391 views / 615 shares**, gap **48,609**; breakout_count=0; recent_72h_count=0.
@@ -2184,7 +2197,7 @@ Historical factory readback: the 13:10 zero-draft readback is historical and sup
 <!-- ZG-2026-06-09-1736-FACTORY-READBACK -->
 - [ ] Factory 17:36 readback: historical prior output was safe TikTok-only review draft `6a284f2963366d0e7cfae355` / Airtable `recHDgBoIt1ItKlXo` from `matrix-oralcare-gemini-p0` (state `latest_social_draft_factory.json@2026-06-09T17:36:43.329927+00:00`). Draft safety verified: Airtable draft_created, live Zernio status=draft, 8 media, no publishNow, TikTok draft mode true, cron enabled/future-scheduled next `2026-06-09T18:41:45.918527+00:00`, no lingering factory/radar process. Rebuilt outbound payload omitted publishNow/scheduledFor and included TikTok+FB+IG with exact FB/IG first-comment hash, but active /v1/accounts exposes TikTok only so live draft is TikTok-only. QA: no source/meta leakage and slides readable, but not KPI-ready/source-topic mismatch — source promised oral-care Gemini Sheets/Docs workflow and public draft collapsed into generic prompt-context advice. No public posting/spend/live publishing.
 
-## Current Zernio Growth Summary — 2026-07-10
+## Current Zernio Growth Summary — 2026-07-11
 
 ### KPI status
 - Goal: one TikTok post reaches **100,000 views**.
@@ -2192,23 +2205,23 @@ Historical factory readback: the 13:10 zero-draft readback is historical and sup
 - Current views: 51,391
 - Gap to 100,000: 48,609
 - Shares: 615
-- Snapshot/verification time: latest snapshot `2026-07-10T16:05:03.512344+00:00`; latest confirmed baseline `2026-07-10T16:00:58.897139+00:00`; writer run `2026-07-10T16:05:05+00:00`.
+- Snapshot/verification time: latest snapshot `2026-07-11T16:01:18.787191+00:00`; latest confirmed baseline `2026-07-11T16:00:16.129349+00:00`; writer run `2026-07-11T16:01:20+00:00`.
 
 ### Current signal
-- Breakout state: **no formal breakout post import below threshold movement current baseline zero delta**.
+- Breakout state: **no formal breakout current baseline zero delta**.
 - Current best/closest watch: `7634027210248097042` (ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items) at 51,391 views / 615 shares / +0 views / gap 48,609.
-- Strongest mover watch: `7653829036090641684` (👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายคนอยากทำ …) at 935 views / 6 shares / +8 views / 117.74/hr; below breakout threshold unless future evidence improves.
+- Strongest mover watch: None.
 - Previous positive momentum: `7634785623219440914` (👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: SME อยากได้เว…) had +62 views / 99.85/hr at `2026-07-10T06:07:53.967208+00:00`; keep as watch-only context, not current velocity.
 - Candidate count: 0 formal candidates; 0 refresh-window candidates.
 - Protected CTA: CTA guard verified: post `7634027210248097042` is ChatGPT productivity/workflow evidence; protected GenLabs no-prompt/10-baht product-photo phrase is CTA copy only.
 
 ### Weak spots / blockers
+- zernio_analytics_stale_over_3h
 - no_posts_in_last_72h
-- source_lane_anti_repetition_saturation
+- Current factory readback manual-exact-run+recovery-2026-07-11T0810Z_current-cron-delivery-pending: exact+required recovery returned draft_count=0/results=[]; no current Airtable/Ze…
 - active_experiment_result_closure_overdue
 - zernio_fbig_accounts_not_exposed
 - zernio_analytics_partial_post_coverage_stale_best_post
-- zernio_cron_http_429_usage_limit
 
 ### Action taken
 - Daily-log writer synced the top current summary, plain-date section, and compact memory note from the latest snapshot evidence.
@@ -2216,7 +2229,7 @@ Historical factory readback: the 13:10 zero-draft readback is historical and sup
 - No direct import, scheduler repair, public posting, live publishing, spending, or generation triggered by this daily-log run.
 
 ### Final readback
-- Snapshot script returned 62 Airtable records; data-health issue count 1; preserved operational issue count 6.
+- Snapshot script returned 62 Airtable records; data-health issue count 2; preserved operational issue count 6.
 - Current best remains `7634027210248097042` at 51,391 views / gap 48,609.
 
 ## 2026-06-13
@@ -3460,9 +3473,56 @@ Historical factory readback: the 13:10 zero-draft readback is historical and sup
 - Current best views: 51391
 - Gap to 100,000: 48609
 - Closest post views: 51391
-- Strongest velocity post: 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายคนอยากทำ AI Agent แต่ยังไม่รู…
+- Strongest velocity post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
 - Recent 72h post count: 0
-- Snapshot time: 2026-07-10T16:05:03.512344+00:00
+- Snapshot time: 2026-07-10T23:59:24.218746+00:00
+
+### Signals learned today
+- Winning hook samples:
+- ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายทีมประชุมแล…
+- 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: พนักงานใหม่ต้…
+- Weak hook samples:
+- 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา AI ไปใช้กับงานจริง ไม่ใช่แค่ดูข่าวแล้วผ่านไป 💡 ไอเดียหลัก: หลายร้านมีข้อ…
+- Prompt Drop: ยาดม/สมุนไพรไทยให้ดู Modern Wellness เซฟโพสต์นี้ไว้ถ้าคุณทำคอนเทนต์ขายของออนไลน์ แล้วอยากได้ภาพที่ดูเหมือนถ่ายแคมเปญจริง ไม่ใช่ภาพ AI พลาสติกหรือภา…
+- 👋 เหมาะกับใคร: คนเริ่มใช้ AI, เจ้าของร้าน, คนทำคอนเทนต์, ฟรีแลนซ์ หรือทีมเล็กที่อยากเอา A
+- Protected CTA note: Sway-added CTA phrase is protected and must not be treated as hook/topic signal; learn from educational_signal instead.
+- Protected CTA occurrences in low-view sample: 3
+- Breakout candidates: 0 current candidates; prior `7634785623219440914` movement is watch-only context until a later import/baseline confirms renewed velocity.
+- Current issue count: 7
+
+### Mistakes / weak spots to correct
+- zernio_analytics_stale_over_3h
+- no_posts_in_last_72h
+- source_lane_anti_repetition_saturation
+- active_experiment_result_closure_overdue
+- zernio_fbig_accounts_not_exposed
+- zernio_analytics_partial_post_coverage_stale_best_post
+- zernio_cron_http_429_usage_limit
+
+### Rule / memory update
+- Lesson: Fix active result-closure/factory QA gates before scaling more near-duplicate growth experiments.
+- Decision rule: If no post is on pace for 100k, increase experiment volume and remix the best specific business-use hook instead of passively waiting.
+
+### Next action
+- Close/mark blocked active 2h/4h/24h result loops and resolve factory editorial/source-topic QA before creating more near-duplicate drafts; keep any breakout amplification draft-only.
+
+### Links
+- Memory note: [[Aion OS/Aion Learning Lab/Zernio Growth/Zernio Growth Memory]]
+- Master state: [[Aion OS/Projects/genlabs-ai-learning-state]]
+- Self-improvement SOP: [[Aion OS/SOPs/genlabs-ai-learning-self-improvement-system]]
+
+## 2026-07-11
+
+### KPI status
+- Goal: one TikTok post reaches **100,000 views**.
+- Best post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- Current best views: 51391
+- Gap to 100,000: 48609
+- Closest post views: 51391
+- Strongest velocity post: ChatGPT 8 productivity tips for work: self-review, onboarding plan, project brief, feedback/action items
+- Recent 72h post count: 0
+- Snapshot time: 2026-07-11T16:01:18.787191+00:00
 
 ### Signals learned today
 - Winning hook samples:
@@ -3479,12 +3539,12 @@ Historical factory readback: the 13:10 zero-draft readback is historical and sup
 - Current issue count: 6
 
 ### Mistakes / weak spots to correct
+- zernio_analytics_stale_over_3h
 - no_posts_in_last_72h
-- source_lane_anti_repetition_saturation
+- Current factory readback manual-exact-run+recovery-2026-07-11T0810Z_current-cron-delivery-pending: exact+required recovery returned draft_count=0/results=[]; no current Airtable/Zernio payload; scheduler current/future-s…
 - active_experiment_result_closure_overdue
 - zernio_fbig_accounts_not_exposed
 - zernio_analytics_partial_post_coverage_stale_best_post
-- zernio_cron_http_429_usage_limit
 
 ### Rule / memory update
 - Lesson: Fix active result-closure/factory QA gates before scaling more near-duplicate growth experiments.

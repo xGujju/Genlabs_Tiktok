@@ -1,11 +1,91 @@
+<!-- ZG-FACTORY-CURRENT-2026-07-11-1623-ZERO-DRAFT-SOURCE-SATURATION -->
+### Current factory readback — 2026-07-11 16:23 UTC zero-draft/source-lane saturation
+- Command: exact hourly command exited 0 with `draft_count=0/results=[]` at `latest_social_draft_factory.json@2026-07-11T16:20:09.054971+00:00`; required same-run recovery rerun also exited 0 with `draft_count=0/results=[]` at `latest_social_draft_factory.json@2026-07-11T16:23:13.962150+00:00`.
+- Payload boundary: no current-run `auto-*` folder/manifest/media, Airtable Carousel Posts row, outbound Zernio payload, or Zernio draft was created near the 16:20/16:23 run window. Zernio/platform verification is not applicable for this tick because no outbound post exists.
+- Source diagnosis: source-lane/anti-repetition saturation — Airtable Carousel Posts/source IDs `502`, partial source IDs `34`, combined existing/partial `525`, blocked content families `68`; Canonical selected `0`, Matrix selectable `0`, Evergreen `0/42`, AI Words `0/8`, KPI backstop `0/8`.
+- Scheduler/process: cron `a97a7703af32` remains enabled/draft-only and future-scheduled for `2026-07-11T17:19:34.082605+00:00`; filtered process readback found no lingering factory/radar process after the recovery rerun. No public posting/live publishing.
+- KPI blocker / next action: urgent fresh ChatGPT/NotebookLM-first software-tip source replenishment plus anti-repetition/family-key review; keep the production cron enabled and draft-only. Do not force duplicate/generic output just to satisfy volume.
+
+<!-- ZG-FACTORY-HISTORICAL-2026-07-11-1514-ZERO-DRAFT-SOURCE-SATURATION -->
+### Historical previous factory readback — 2026-07-11 15:14 UTC zero-draft/source-lane saturation; superseded by 16:23 readback
+- Historical command: exact hourly command and required recovery both exited 0 with `draft_count=0/results=[]`; it created no Airtable/Zernio payload and is superseded by the 16:23 readback above.
+
+<!-- ZG-FACTORY-HISTORICAL-2026-07-11-1408-ZERO-DRAFT-SOURCE-SATURATION -->
+### Historical previous factory readback — 2026-07-11 14:08 UTC zero-draft/source-lane saturation; superseded by later same-day readbacks
+- Historical command: exact hourly command and required recovery both exited 0 with `draft_count=0/results=[]`; it created no Airtable/Zernio payload and is superseded by later same-day readbacks.
+
+<!-- ZG-FACTORY-HISTORICAL-2026-07-11-1300-ZERO-DRAFT-SOURCE-SATURATION -->
+### Historical previous factory readback — 2026-07-11 13:00 UTC zero-draft/source-lane saturation; superseded by 14:08 readback
+- Historical command: exact hourly command exited 0 with `draft_count=0/results=[]` at the 12:57 state; required same-run recovery rerun also exited 0 with `draft_count=0/results=[]` at the 13:00 state. It created no Airtable/Zernio payload and is superseded by the 14:08 readback above.
+
+<!-- ZG-FACTORY-HISTORICAL-2026-07-11-1150-ZERO-DRAFT-SOURCE-SATURATION -->
+### Historical previous factory readback — 2026-07-11 11:50 UTC zero-draft/source-lane saturation; superseded by 13:00 readback
+- Command: exact hourly command exited 0 with `draft_count=0/results=[]` at `latest_social_draft_factory.json@2026-07-11T11:44:05.612260+00:00`; required same-run recovery rerun also exited 0 with `draft_count=0/results=[]` at `latest_social_draft_factory.json@2026-07-11T11:50:28.669120+00:00`.
+- Payload boundary: no current-run `auto-*` folder/manifest/media, Airtable Carousel Posts row, outbound Zernio payload, or Zernio draft was created after the 11:44/11:50 run window. Latest carousel folder remains historical `auto-20260711T092059Z-yt-D34sAzRiZmA` with manifest; Zernio/platform verification is not applicable for this tick because no post exists.
+- Source diagnosis: source-lane/anti-repetition saturation — existing source IDs `502`, partial source IDs `34`, combined existing/partial `525`, blocked content families `68`; Canonical selected `0/98` (`17` existing/partial, `29` repeat-family, `6` no-educational-value, `46` not A/B), Matrix `0/436` (`186` existing/partial, `250` repeat-family), Evergreen `0/42`, AI Words `0/8`, KPI backstop `0/8`.
+- Scheduler/process: cron `a97a7703af32` remains enabled/draft-only and future-scheduled for `2026-07-11T12:41:00.399661+00:00`; filtered process readback found no lingering factory process after the recovery rerun. No public posting/live publishing.
+- KPI blocker / next action: urgent fresh ChatGPT/NotebookLM-first source replenishment plus anti-repetition/family-key review; keep the production cron enabled and draft-only. Do not force duplicate/generic output just to satisfy volume.
+
+<!-- ZG-FACTORY-HISTORICAL-2026-07-11-0925-VALUE-QA-BLOCKED -->
+### Historical previous factory readback — superseded by 11:50 zero-draft/source-lane saturation
+- Historical result: the 09:16 exact zero-draft plus 09:25 recovery manifest/Airtable value-QA block (`yt-D34sAzRiZmA`, Airtable `recatly0BeGLyaykD`, no Zernio draft, `no-mistake-slide`) is superseded as the current factory anchor. It remains a separate repair candidate; no public posting/live publishing.
+
+<!-- ZG-FACTORY-HISTORICAL-2026-07-11-0810-ZERO-DRAFT-SOURCE-SATURATION -->
+### Historical previous factory readback — superseded by 09:25 value-QA-blocked recovery
+- Historical result: the 08:07/08:10 exact+recovery zero-draft state created no Airtable/Zernio payload and is superseded by the 09:25 recovery manifest+Airtable value-QA block above. Source-lane saturation remained the initial blocker until recovery found a YouTube fallback; no public posting/live publishing.
+
+<!-- ZG-FACTORY-HISTORICAL-2026-07-11-0703-ZERO-DRAFT-SOURCE-SATURATION -->
+### Historical previous factory readback — superseded by later same-day readbacks
+- Historical result: the previous same-day factory readback created no Airtable/Zernio payload and is superseded by later same-day readbacks. Source-lane saturation remained the blocker until the 09:25 value-QA-blocked recovery; no public posting/live publishing.
+<!-- ZG-FACTORY-HISTORICAL-2026-07-11-0552-ZERO-DRAFT-SOURCE-SATURATION -->
+### Historical previous factory readback — superseded by later same-day readbacks
+- Historical result: the previous same-day factory readback created no Airtable/Zernio payload and is superseded by later same-day readbacks. Source-lane saturation remained the blocker until the 09:25 value-QA-blocked recovery; no public posting/live publishing.
+<!-- ZG-FACTORY-HISTORICAL-2026-07-11-0341-ZERO-DRAFT-SOURCE-SATURATION -->
+### Historical previous-hour factory readback — superseded by later 05:52 readback
+- Historical result: the 03:38/03:41 exact+recovery zero-draft readback created no Airtable/Zernio payload and is superseded by later same-day readbacks. Source-lane saturation remained the blocker; no public posting/live publishing.
+<!-- ZG-FACTORY-HISTORICAL-2026-07-11-0233-ZERO-DRAFT-SOURCE-SATURATION -->
+### Historical previous-hour factory readback — superseded by later same-day readbacks
+- Historical result: the previous-hour exact+recovery zero-draft readback created no Airtable/Zernio payload and is superseded by later same-day readbacks. Source-lane saturation remained the blocker; no public posting/live publishing.
+
+<!-- ZG-FACTORY-HISTORICAL-2026-07-11-0120-ZERO-DRAFT-SOURCE-SATURATION -->
+### Historical previous-hour factory readback — superseded by 02:33 readback
+- Historical result: the previous-hour exact+recovery zero-draft readback created no Airtable/Zernio payload and is superseded by the 02:33 current readback above. Source-lane saturation remained the blocker; no public posting/live publishing.
+<!-- ZG-FACTORY-HISTORICAL-2026-07-11-0015-ZERO-DRAFT-SOURCE-SATURATION -->
+### Historical factory readback — 2026-07-11 00:15 UTC zero-draft/source-lane saturation; superseded by 01:20 readback
+- Historical command: exact+recovery zero-draft state at 00:14/00:15 created no Airtable/Zernio payload and is superseded by the 01:20 readback above.
+- Payload boundary: no current-run `auto-*` folder/manifest/media, Airtable Carousel Posts row, outbound Zernio payload, or Zernio draft was created after the 00:13/00:15 run window. Latest auto folder remains historical `/home/clawd/.hermes/ai_signal_radar/carousels/auto-20260710T172709Z-yt-hAmAvsIX41s`; Zernio/platform verification is not applicable for this tick because no post exists.
+- Source diagnosis: source-lane/anti-repetition saturation — existing posts/source IDs `501`, partial source IDs `34`, combined existing/partial `524`, blocked content families `68`; Canonical selected `0/98` (`12` existing, `30` repeat-family, `8` no-educational-value, `48` not A/B), Matrix `0/436` (`192` existing/partial, `244` repeat-family), Evergreen `0/42`, AI Words `0/8`, KPI backstop `0/8`.
+- Scheduler/process: prior scheduler watch resolved for this tick; cron `a97a7703af32` remains enabled/draft-only and future-scheduled for `2026-07-11T01:12:43.920733+00:00`; no lingering factory/radar process. No public posting/live publishing.
+- KPI blocker / next action: urgent ChatGPT/NotebookLM-first source replenishment and anti-repetition/family-key review; do not force duplicate/generic output.
+
+<!-- ZG-FACTORY-HISTORICAL-2026-07-10-2309-ZERO-DRAFT-SOURCE-SATURATION -->
+### Historical factory readback — 2026-07-10 23:09 UTC zero-draft/source-lane saturation; superseded by 00:15 readback
+- Historical result: exact+recovery zero-draft state at 23:08/23:09 created no Airtable/Zernio payload and is superseded by the 00:15 readback above. Source-lane saturation remained the blocker; no public posting/live publishing.
+
+<!-- ZG-FACTORY-HISTORICAL-2026-07-10-2206-ZERO-DRAFT-SOURCE-SATURATION -->
+### Historical factory readback — 2026-07-10 22:06 UTC zero-draft/source-lane saturation; superseded by 23:09 readback
+- Historical result: exact+recovery zero-draft state at 22:00/22:06 created no Airtable/Zernio payload and is superseded by the 23:09 readback above. Source-lane saturation remained the blocker; no public posting/live publishing.
+
+<!-- ZG-FACTORY-HISTORICAL-2026-07-10-1951-ZERO-DRAFT-SOURCE-SATURATION -->
+### Historical factory readback — 2026-07-10 19:51 UTC zero-draft/source-lane saturation; superseded by 20:58 readback
+- Historical result: the prior 19:47/19:51 exact+recovery zero-draft readback created no Airtable/Zernio payload and is superseded by the later same-day readbacks. Source-lane saturation remained the blocker; no public posting/live publishing.
+- Current payload boundary: no current-run `auto-*` folder/manifest was created after the 19:47/19:51 run window, and no current Airtable/Zernio outbound payload exists. Zernio/platform verification is not applicable for this tick because no Zernio post was built or sent.
+- Source-lane diagnosis: deterministic selector reconstruction at 19:52 UTC found `carousel_posts=501`, `existing_source_ids=501`, `partial_source_ids=34`, `combined_existing_or_partial=524`, `blocked_content_families=68`, `canonical_selected=0/98`, `matrix_selected=0/436`, `evergreen_selected=0/42`, `ai_words_selected=0/8`, and `kpi_selected=0/8`; matrix blockers were overlapping `existing_or_partial=194` and `repeat_family=242`.
+- Scheduler/process: the prior scheduler watch is resolved for this tick by the manual exact+recovery readback. Cron `a97a7703af32` remains enabled/draft-only and future-scheduled for `2026-07-10T20:46:44.266292+00:00`; filtered process readback found no lingering factory process. No public posting/live publishing.
+- KPI blocker / next action: urgent ChatGPT/NotebookLM-first source replenishment plus anti-repetition/family-key review; keep production cron enabled and draft-only. Do not force duplicate/generic output just to satisfy volume.
+
+<!-- ZG-FACTORY-HISTORICAL-2026-07-10-1844-ZERO-DRAFT-SOURCE-SATURATION -->
+### Historical factory readback — 2026-07-10 18:44 UTC zero-draft/source-lane saturation; superseded by 19:51 readback
+- Historical result: exact+recovery zero-draft state at 18:40/18:44 created no Airtable/Zernio payload and is superseded by the 19:51 readback above. Source-lane saturation remained the blocker; no public posting/live publishing.
+
 <!-- ZG-GROWTH-CHECK-2026-07-10-1407 -->
-- [ ] Growth-check 14:07Z: no formal breakout; KPI leader `7634027210248097042` CTA-stripped ChatGPT productivity/workflow at **51,391 views / 615 shares / gap 48,609**. Direct import ok (`47 seen / 47 updated / 0 created`, `2026-07-10_14-07-05.md`); fresh snapshot verified `breakout_count=0`, `recent_72h_count=0`. Opened `zernio-cron-http-429-usage-limit-watch` for failed 12:00/12:30 decision crons. Existing blockers remain source-lane saturation, no recent posts, overdue result closure, partial stale KPI-leader analytics, and FB/IG access gap. No public posting/spend/generation.
+- [ ] Growth-check 14:07Z: no formal breakout; KPI leader `7634027210248097042` CTA-stripped ChatGPT productivity/workflow at **51,391 views / 615 shares / gap 48,609**. Direct import ok (`47 seen / 47 updated / 0 created`, `2026-07-10_14-07-05.md`); fresh snapshot verified `breakout_count=0`, `recent_72h_count=0`. Provider quota watch `zernio-cron-http-429-usage-limit-watch` remains open after 18:30 issue-check verification; failed outputs are 12:00 experiment-creator and 12:30 issue-check, while scripts/snapshot/CTA guard verified clean. Existing blockers remain source-lane saturation, no recent posts, overdue result closure, partial stale KPI-leader analytics, and FB/IG access gap. No public posting/spend/generation.
 
 <!-- ZG-SELF-IMPROVEMENT-2026-07-10-1003 -->
 - 2026-07-10 3-day self-improvement promoted: KPI leader remains ChatGPT productivity at 51,391 views / 615 shares / gap 48,609; no posts in 72h and source-lane saturation remain blockers. Next action is fresh non-repeating ChatGPT + NotebookLM source replenishment, close result loops, and keep expansion tools as gated numbered software-tip tests only. No public posting/spend/generation.
 
-<!-- ZG-FACTORY-CURRENT-2026-07-10-1621-ZERO-DRAFT-SOURCE-SATURATION -->
-### Current factory readback — 2026-07-10 16:21 UTC zero-draft/source-lane saturation
+<!-- ZG-FACTORY-HISTORICAL-2026-07-10-1621-ZERO-DRAFT-SOURCE-SATURATION -->
+### Historical factory readback — 2026-07-10 16:21 UTC zero-draft/source-lane saturation; superseded by 18:44 readback
 - Command: exact hourly command exited 0 with `draft_count=0/results=[]` at `latest_social_draft_factory.json@2026-07-10T16:19:59.912396+00:00`; required same-run recovery rerun also exited 0 with `draft_count=0/results=[]` at `latest_social_draft_factory.json@2026-07-10T16:21:51.282184+00:00`.
 - Current payload boundary: no current-run `auto-*` folder/manifest was created after 16:19 UTC, and no current Airtable/Zernio outbound payload exists. Zernio/platform verification is not applicable for this tick because no Zernio post was built or sent.
 - Source-lane diagnosis: deterministic selector reconstruction at 16:22 UTC found `carousel_posts=500`, `existing_source_ids=500`, `partial_source_ids=34`, `combined_existing_or_partial=523`, `blocked_content_families=68`, `canonical_selected=0`, `matrix_selected=0`, `evergreen_selected=0/42`, `ai_words_selected=0/8`, and `kpi_selected=0/8`; sample blocked families include `ai-meeting-notes/action-items`, `ai-product-photo/shop-visuals`, and AI-word families.
